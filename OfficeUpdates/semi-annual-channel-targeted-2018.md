@@ -3,19 +3,19 @@ title: 2018 年の半期チャネル (対象指定) リリースのリリース 
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/18/2018
+ms.date: 6/12/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2018 年の半期チャネル (対象指定) リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 7e4a881b7981ecd23d9771a5d1f375f4cf07eba7
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: ec8e532ab9583db5fa0d11fe5514eb50f421f6fb
+ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19556213"
+ms.lasthandoff: 06/25/2018
+ms.locfileid: "19886633"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>2018 年の半期チャネル (対象指定) リリースのリリース ノート
 
@@ -24,6 +24,32 @@ ms.locfileid: "19556213"
 > [!NOTE]
 > - また、Visio Pro for Office 365 および Project Online デスクトップ クライアントの新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムについても説明しています。
 > - ここに記載されている情報は、Business Premium など一部の Office 365 プランに付属する Office のバージョンの、Office 365 Business にも該当します。
+
+## <a name="version-1803-june-12"></a>バージョン 1803: 6 月 12 日
+*バージョン 1803 (ビルド 9126.2227)*
+
+### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
+-   [CVE-2018-8246](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8246): Microsoft Excel の情報漏えいの脆弱性
+-   [CVE-2018-8248](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8248): Microsoft Excel のリモート コード実行の脆弱性
+
+### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
+-   Excel のピボット テーブルでグループ化 (またはグループ解除) 操作を行うとクラッシュを引き起こす可能性がある問題を修正します。
+
+### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム
+-   [CVE-2018-8244](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8244): Microsoft Outlook 特権の昇格の脆弱性
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: セキュリティ以外の更新プログラム
+-   Shape.Visibile プロパティを変更するとクラッシュが発生する可能性がある問題を修正します。
+-   共同編集されているドキュメントの変更を反映できない問題を修正します。
+-   ActiveX コントロールを含むドキュメントの共同編集が失敗する原因となる問題を修正します。
+
+### <a name="project-non-security-updates"></a>Project: セキュリティ以外の更新プログラム
+-   タイムライン ビューで既存のタスクをタイムライン ダイアログに追加すると、最初のサマリー タスクのタスクしか表示されない問題を修正します。
+
+### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
+-   Office アプリケーションが実行されているクライアントに System Center Configuration Manager を使用して更新プログラムを展開した場合、Office アプリケーションの実行中にデバイスを再起動すると更新プログラムが適用されない問題を修正します。
+
+
 
 ## <a name="version-1803-may-18"></a>バージョン 1803: 5 月 18 日
 *バージョン 1803 (ビルド 9126.2210)*

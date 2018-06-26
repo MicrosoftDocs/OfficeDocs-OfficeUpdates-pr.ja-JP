@@ -3,19 +3,19 @@ title: 2018 年の毎月のチャネル リリースのリリース ノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/24/2018
+ms.date: 6/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2018 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 3d0b5b16501bfb7816d9df8ffe79ca8926d75adb
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: 16c9ee31b150779f7ac56104d4bfacc0d1857bb6
+ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19556208"
+ms.lasthandoff: 06/25/2018
+ms.locfileid: "19886963"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018 年の毎月のチャネル リリースのリリース ノート
 
@@ -24,6 +24,32 @@ ms.locfileid: "19556208"
 > [!NOTE]
 > - また、Visio Pro for Office 365 および Project Online デスクトップ クライアントの新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムについても説明しています。
 > - ここに記載されている情報は、Business Premium など一部の Office 365 プランに付属する Office のバージョンの、Office 365 Business にも該当します。
+
+## <a name="version-1805-june-13"></a>バージョン 1805: 6 月 13 日
+*バージョン 1805 (ビルド 9330.2124)*
+
+### <a name="outlook-non-security-updates"></a>Outlook のセキュリティ以外の更新プログラム
+ - MAPI API を呼び出すアプリケーションがクラッシュする問題を修正します。
+
+
+
+## <a name="version-1805-june-12"></a>バージョン 1805: 6 月 12 日
+*バージョン 1805 (ビルド 9330.2118)*
+
+### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
+-   [CVE-2018-8246](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8246): Microsoft Excel の情報漏えいの脆弱性
+-   [CVE-2018-8248](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8248): Microsoft Excel のリモート コード実行の脆弱性
+
+### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム
+-   [CVE-2018-8244](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8244): Microsoft Outlook 特権の昇格の脆弱性
+
+### <a name="outlook-non-security-updates"></a>Outlook のセキュリティ以外の更新プログラム
+
+- MAPI API を呼び出すアプリケーションがクラッシュする問題を修正します。
+
+### <a name="project-non-security-updates"></a>Project のセキュリティ以外の更新プログラム
+
+- マスター プロジェクトのコンテキストでサブ プロジェクトの作業を行ったときに、サブ プロジェクトを保存できない問題を修正します。
 
 ## <a name="version-1805-may-24"></a>バージョン 1805: 5 月 24 日
 *バージョン 1805 (ビルド 9330.2087)*

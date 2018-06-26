@@ -3,7 +3,7 @@ title: Office for Mac のリリース ノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/24/2018
+ms.date: 6/14/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
@@ -11,12 +11,12 @@ localization_priority: Critical
 ms.collection: RelNotes_Mac
 ms.custom: LIL_Placement
 description: Office 356 サブスクライバー向け Office for Mac リリース用リリース ノートを IT プロフェッショナルに提供
-ms.openlocfilehash: 46548cbd64aaf43db8dd0f6070a3f8a2eb69df0a
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: d46c11fbf8dccb1e364a1f446d62b15697fd7b6c
+ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19556217"
+ms.lasthandoff: 06/25/2018
+ms.locfileid: "19886953"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac のリリース ノート
 
@@ -30,9 +30,34 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 > - Office Insider の場合は、[Insider Fast ビルドのリリース ノート](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a)を参照してください。
 > - これらのリリース ノートは、Office for Mac の永続版である Office 2016 for Mac にも該当し、小売店またはボリューム ライセンス契約による 1 回限りの購入として利用できます。ただし、リリース ノートに記載されている一部の機能は、Office 365 サブスクリプションがある場合にのみ使用できます。
 > - ダウンロード リンクは、最新のリリースにのみ提供されます。
-> - Microsoft AutoUpdate は、Microsoft のさまざまな Mac 製品への更新を提供します。そのため、Office for Mac を実行していない場合でも、Microsoft AutoUpdate を更新する通知が表示される場合があります。
+> - Microsoft AutoUpdate は、Microsoft のさまざまな Mac 製品への更新プログラムを提供します。そのため、Office for Mac を実行していない場合でも、Microsoft AutoUpdate を更新する通知が表示される場合があります。
 
+## <a name="june-2018-release"></a>2018 年 6 月リリース
+
+**リリース日:** 2018 年 6 月 13 日 
+
+*バージョン 16.14.1 (ビルド 18061302)*
+
+このリリースでは、個々のアプリケーションの更新プログラム パッケージに関する問題が修正されています。
+
+更新パッケージのダウンロード リンクは次のとおりです。[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.14.18061302_Updater.pkg)、[Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.14.18061302_Updater.pkg)、[PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.14.18061302_Updater.pkg)、[Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.14.18061302_Updater.pkg)、[OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.14.18061302_Updater.pkg)
+
+<br/><br/>
+
+ **リリース日:** 2018 年 6 月 12 日 
   
+ *バージョン 16.14.0 (ビルド 18061000)* 
+  
+このリリースでは、次の更新プログラムを提供します。
+  
+|**アプリケーション**|**機能の更新プログラム**|**更新プログラム パッケージのダウンロード リンク**|
+|:-----|:-----|:-----|
+|Word  <br/> |**学習ツールによる読みやすさの向上:** 目を休ませます。テキストの間隔、列の幅、ページの色を調整します。また、Word が声に出して文書を読んでいるように聞こえ、読まれているテキストが強調表示されます。[詳細](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3) <br/> ||
+|Excel  <br/> |**一瞬でデータを入力:** フラッシュ フィルにいくつかの例を入力すると、その後の入力で自動的にデータが入力されるようになります。[詳細](https://support.office.com/article/041edfe2-05bc-40e6-b933-ef48c3f308c6) <br/><br/> **言葉の壁の解消:** 別の言語の単語、語句、文章を Microsoft Translator で翻訳します。[詳細](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f) <br/> ||
+|PowerPoint  <br/> |**言葉の壁の解消:** 別の言語の単語、語句、文章を Microsoft Translator で翻訳します。[詳細](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f#ID0EAACAAA=Office_2016_for_Mac) <br/><br/>**ハイパーリンクの色の設定:** ハイパーリンクの色はもはや青だけではありません。好きなフォントと色を適用します。[詳細](https://support.office.com/article/239c6c94-d52f-480c-99ae-8b0acf7df6d9#OfficeVersion=Mac) <br/> ||
+|Outlook  <br/> |**覚えやすい署名を作成する:** 豊富なフォント スタイル、色、画像、リンク、およびその他を使って自分自身を表現します。[詳細](https://support.office.com/article/f4d21492-0956-4429-95ad-2769745b539c)  <br/><br/> **グループの作成とグループとの共同作業:** Outlook で Office 365 グループを作成したいですか? 大丈夫! メンバーの追加と削除もできます。Mac での共同作業も簡単です。[詳細](https://support.office.com/article/04d0c9cf-6864-423c-a380-4fa858f27102#ID0EACAAA=Mac) <br/> ||
+|Microsoft AutoUpdate 4.0  <br/> ||[Microsoft AutoUpdate 更新パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.0.18061000_Updater.pkg) <br/> |  
+
 ## <a name="may-2018-release"></a>2018 年 5 月リリース
 
 **リリース日:** 2018 年 5 月 24 日
@@ -95,9 +120,7 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
  *バージョン 16.11.1 (ビルド 18031900)* 
   
 このリリースでは、Word、Excel、PowerPoint が起動時に無期限に応答しなくなる場合がある問題が修正されています。
-  
-更新パッケージのダウンロード リンクは次のとおりです。[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.11.18031900_Updater.pkg)、[Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.11.18031900_Updater.pkg)、[PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.11.18031900_Updater.pkg)
- 
+   
 <br/><br/>
  
  **リリース日:** 2018 年 3 月 13 日 
@@ -106,15 +129,14 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
   
 このリリースでは、次の更新プログラムを提供します。
   
-|**アプリケーション**|**機能の更新プログラム**|**セキュリティ更新プログラム**|**セキュリティ以外の更新プログラム**|**更新プログラム パッケージのダウンロード リンク**|
+|**アプリケーション**|**機能の更新プログラム**|**セキュリティ更新プログラム**|**セキュリティ以外の更新プログラム**|
 |:-----|:-----|:-----|:-----|:-----|
 |Word  <br/> |**フォーカス モードでさらに実行する:** 設定したズーム レベルでフォーカス モードが開き、スクロール中にページ番号が表示されます。  <br/> ||||
 |Excel  <br/> ||[CVE-2018-0907](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0907): Microsoft Office Excel のセキュリティ機能のバイパス  <br/> |||
 |PowerPoint  <br/> |**埋め込みフォント:** 埋め込みフォントは、プレゼンテーションがすべてのコンピューターで同じに見えるようにし、意図したとおりに人々がコンテンツを体験できるようにします。  <br/> ||||
-|Outlook  <br/> |**テーブル:** メッセージやカレンダー イベントにテーブルを挿入し、コンテンツを構造化します。他の Office アプリからのコピーや貼り付けは不要です。[詳細を見る](https://support.office.com/article/cb35806b-4174-41d2-9cba-b6b624d988b3)  <br/><br/> **2 つのタイム ゾーンを一度に表示する:** 世界の別の場所が何時であるかを知りたいですか? Outlook に 2 つ目のタイム ゾーンを追加できるようになりました。<br/><br/> **タイム ゾーンをまたいだスケジュール:** タイム ゾーンをまたいで移動しますか? 開始と終了のタイム ゾーンが異なるイベントを作成すると、Outlook によって変換されます。<br/><br/> **文字サイズを変更する:** サイドバー、メッセージ リスト、および閲覧ウィンドウのフォント サイズを拡大縮小します。[詳細を見る](https://support.office.com/article/b225d877-1449-4757-9ee7-120d1c5da6b4) <br/> ||コンピューターの既定のタイム ゾーンが夏時間 (DST) と週表示に基づいている場合、DST が開始される週のカレンダー グリッドですべてのイベントが 1 時間ずつシフトする場合がある問題を修正します。  <br/> |[Outlook の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.11.18031100_Updater.pkg) <br/> |
-|OneNote  <br/> ||||[OneNote の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.11.18031100_Updater.pkg) <br/> |
-|Office スイート  <br/> ||[CVE-2018-0919](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0919): Microsoft Office の情報漏えいの脆弱性  <br/> ||該当なし  <br/> |
-|Microsoft AutoUpdate 3.17  <br/> ||||[Microsoft AutoUpdate 更新パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_3.17.18031100_Updater.pkg) <br/> |
+|Outlook  <br/> |**テーブル:** メッセージやカレンダー イベントにテーブルを挿入し、コンテンツを構造化します。他の Office アプリからのコピーや貼り付けは不要です。[詳細を見る](https://support.office.com/article/cb35806b-4174-41d2-9cba-b6b624d988b3)  <br/><br/> **2 つのタイム ゾーンを一度に表示する:** 世界の別の場所が何時であるかを知りたいですか? Outlook に 2 つ目のタイム ゾーンを追加できるようになりました。<br/><br/> **タイム ゾーンをまたいだスケジュール:** タイム ゾーンをまたいで移動しますか? 開始と終了のタイム ゾーンが異なるイベントを作成すると、Outlook によって変換されます。<br/><br/> **文字サイズを変更する:** サイドバー、メッセージ リスト、および閲覧ウィンドウのフォント サイズを拡大縮小します。[詳細を見る](https://support.office.com/article/b225d877-1449-4757-9ee7-120d1c5da6b4) <br/> ||コンピューターの既定のタイム ゾーンが夏時間 (DST) と週表示に基づいている場合、DST が開始される週のカレンダー グリッドですべてのイベントが 1 時間ずつシフトする場合がある問題を修正します。  <br/> |
+|Office スイート  <br/> ||[CVE-2018-0919](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0919): Microsoft Office の情報漏えいの脆弱性  <br/> |
+
    
 ## <a name="february-2018-release"></a>2018 年 2 月リリース
 
