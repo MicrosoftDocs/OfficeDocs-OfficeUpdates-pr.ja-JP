@@ -3,19 +3,19 @@ title: 2018 年の毎月のチャネル リリースのリリース ノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/13/2018
+ms.date: 6/25/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2018 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 16c9ee31b150779f7ac56104d4bfacc0d1857bb6
-ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
+ms.openlocfilehash: 364c660b76bfabad95a47598c54b14da1efd5bef
+ms.sourcegitcommit: e35d2bc81c325ac1962c49e84b25aea7f28ddbee
 ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/25/2018
-ms.locfileid: "19886963"
+ms.locfileid: "20036306"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018 年の毎月のチャネル リリースのリリース ノート
 
@@ -24,6 +24,36 @@ ms.locfileid: "19886963"
 > [!NOTE]
 > - また、Visio Pro for Office 365 および Project Online デスクトップ クライアントの新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムについても説明しています。
 > - ここに記載されている情報は、Business Premium など一部の Office 365 プランに付属する Office のバージョンの、Office 365 Business にも該当します。
+
+
+
+## <a name="version-1806-june-25"></a>バージョン 1806: 6 月 25 日
+*バージョン 1806 (ビルド 10228.20080)*
+
+### <a name="excel-feature-updates"></a>Excel: 機能の更新
+ - **セルおよび数式バーの編集の強化:** Ctrl + A を押して、セルまたは数式バーのテキストを選択できるようになりました。絵文字とその他の複雑な文字のサポートも強化されました。
+ - **SVG サポートの強化:** フィルターが適用された SVG を挿入できます。[詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
+ - **定期的なアイテムの既定値:** [定期的な予定の設定] ダイアログ ボックスの [期間] の下で、[終了日] は既定の設定 ([終了日未定] ではない) で、示されている最初の設定であり、既定の終了日が設定されています。
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新
+ - **SVG サポートの強化:** フィルターが適用された SVG を挿入できます。[詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+ - **ペンでスライドにタイトルを付ける:** ペンを使用してタイトルをインク入力すると、PowerPoint でテキストに変換されます。[詳細情報](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+
+### <a name="project-feature-updates"></a>Project: 機能の更新
+ - **最近使用したファイルの保存場所の整理:** Project では、他のプロジェクトを保存した場所に関する最新のリストを保持します。プロジェクトを保存する準備ができたら、最近使用したファイルの保存場所の 1 つを選択し、それ以上気にする必要はありません。
+
+### <a name="project-non-security-updates"></a>Project: セキュリティ以外の更新プログラム
+ - マスター プロジェクトからのサブプロジェクトの保存が失敗する問題が修正されました。
+
+### <a name="visio-feature-updates"></a>Visio: 機能の更新
+ - **その他のステンシル、その他のアイコン、その他の選択肢:** 分析、芸術、お祝い、顔、場所、医療、自然、人々、スポーツ、天気、季節などの 26 個のステンシルを追加しました。
+
+### <a name="word-feature-updates"></a>Word: 機能の更新
+ - **SVG サポートの強化:** フィルターが適用された SVG を挿入できます。[詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+
 
 ## <a name="version-1805-june-13"></a>バージョン 1805: 6 月 13 日
 *バージョン 1805 (ビルド 9330.2124)*
