@@ -3,7 +3,7 @@ title: Project Server の更新プログラム
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 5/8/2018
+ms.date: 6/12/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: project-server-itpro
@@ -13,12 +13,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: Project Server 2013 と Project Server 2010 の更新プログラムを 1 か所で検索および管理できます。このページのリンクを使用して、更新プログラムに関する詳細な情報を取得し、更新プログラムをダウンロードしてください。
-ms.openlocfilehash: 0be3f867bb6afd4dd263d2df2926a24b8ae5bba6
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: 937c82bb1a039c463616d09549f48453b1943d9f
+ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19556201"
+ms.lasthandoff: 06/25/2018
+ms.locfileid: "19886873"
 ---
 # <a name="project-server-updates"></a>Project Server の更新プログラム
 
@@ -30,6 +30,7 @@ ms.locfileid: "19556201"
   
 |**リリース日**|**サポート技術情報番号**|
 |:-----|:-----|:-----|
+|2018 年 6 月  <br/> |[KB4022185](https://support.microsoft.com/kb/4022185) <br/>|
 |2018 年 5 月  <br/> |[KB4018395](https://support.microsoft.com/kb/4018395) <br/>|
 |2018 年 4 月  <br/> |[KB4018346](https://support.microsoft.com/kb/4018346) <br/> |
 |2018 年 3 月  <br/> |[KB4018301](https://support.microsoft.com/kb/4018301) <br/> |
@@ -76,6 +77,7 @@ ms.locfileid: "19556201"
 
 |**リリース日**|**サポート技術情報番号**|
 |:-----|:-----|:-----|
+|2018 年 6 月  <br/>  |[KB4022201](https://support.microsoft.com/kb/4022201) <br/> |
 |2018 年 5 月  <br/>  |[KB4022140](https://support.microsoft.com/kb/4022140) <br/> |
 |2018 年 4 月  <br/> |[KB4018358](https://support.microsoft.com/kb/4018358) <br/> |
 |2018 年 3 月  <br/> |[KB4011708](https://support.microsoft.com/kb/4011708) <br/> |

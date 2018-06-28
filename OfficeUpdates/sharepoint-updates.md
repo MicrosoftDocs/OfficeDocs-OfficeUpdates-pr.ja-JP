@@ -3,7 +3,7 @@ title: SharePoint 更新プログラム
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 5/8/2018
+ms.date: 6/12/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: sharepoint-server-itpro
@@ -14,12 +14,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: SharePoint Server 2016、SharePoint 2013、および SharePoint 2010 の更新プログラムを 1 か所で検索および管理できます。このページのリンクを使用して、更新プログラムに関する詳細な情報を取得し、更新プログラムをダウンロードしてください。
-ms.openlocfilehash: 084f54b71c2919e809afbd93f109b6842719cf31
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: a303891074326674571a70bbf9ae990f6a065737
+ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19556212"
+ms.lasthandoff: 06/25/2018
+ms.locfileid: "19886853"
 ---
 # <a name="sharepoint-updates"></a>SharePoint 更新プログラム
 
@@ -33,6 +33,7 @@ SharePoint Online と Office 365 の最新更新プログラムについては�
 
 |**パッケージ名**|**サポート技術情報番号**|**リリース日**|
 |:-----|:-----|:-----|
+|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/言語パッチ  <br/> |[KB 4022173](https://support.microsoft.com/ja-JP/help/4022173) <br/> [KB 4022178](https://support.microsoft.com/ja-JP/help/4022178) <br/> |2018 年 6 月  <br/> |
 |SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/言語パッチ  <br/> |[KB 4018381](https://support.microsoft.com/ja-JP/help/4018381) <br/> [KB 4018386](https://support.microsoft.com/ja-JP/help/4018386) <br/> |2018 年 5 月  <br/> |
 |SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/言語パッチ  <br/> |[KB 4018336](https://support.microsoft.com/ja-JP/help/4018336) <br/> [KB 4018340](https://support.microsoft.com/ja-JP/help/4018340) <br/> |2018 年 4 月  <br/> |
 |SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/言語パッチ  <br/> |[KB 4018293](https://support.microsoft.com/ja-JP/help/4018293) <br/> [KB 4011687](https://support.microsoft.com/ja-JP/help/4011687) <br/> |2018 年 3 月  <br/> |
@@ -74,6 +75,7 @@ SharePoint Online と Office 365 の最新更新プログラムについては�
     
 |**パッケージ名**|**サポート技術情報番号**|**リリース日**|
 |:-----|:-----|:-----|
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4022184](https://support.microsoft.com/ja-JP/help/4022184) <br/> [KB 4022187](https://support.microsoft.com/ja-JP/help/4022187) <br/> |2018 年 6 月  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4018394](https://support.microsoft.com/ja-JP/help/4018394) <br/> [KB 4018397](https://support.microsoft.com/ja-JP/help/4018397) <br/> |2018 年 5 月  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4018345](https://support.microsoft.com/ja-JP/help/4018345) <br/> [KB 4018348](https://support.microsoft.com/ja-JP/help/4018348) <br/> |2018 年 4 月  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4018299](https://support.microsoft.com/ja-JP/help/4018299) <br/> [KB 4018302](https://support.microsoft.com/ja-JP/help/4018302) <br/> |2018 年 3 月  <br/> |
@@ -130,6 +132,7 @@ SharePoint Online と Office 365 の最新更新プログラムについては�
 
 |**パッケージ名**|**サポート技術情報番号**|**リリース日**|
 |:-----|:-----|:-----|
+|SharePoint Server 2010  <br/> |[KB 4022204](https://support.microsoft.com/ja-JP/help/4022204) <br/> |2018 年 6 月  <br/> |
 |SharePoint Server 2010  <br/> |[KB 4022143](https://support.microsoft.com/ja-JP/help/4022143) <br/> |2018 年 5 月  <br/> |
 |SharePoint Server 2010  <br/> |[KB 4018361](https://support.microsoft.com/ja-JP/help/4018361) <br/> |2018 年 4 月  <br/> |
 |SharePoint Server 2010  <br/> |[KB 4011710](https://support.microsoft.com/ja-JP/help/4011710) <br/> |2018 年 3 月  <br/> |
