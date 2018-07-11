@@ -3,19 +3,19 @@ title: Office 2010 のクイック実行製品の更新履歴
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 5/8/2018
+ms.date: 7/10/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: クイック実行を使用する永続的なバージョンの Office 2010 の更新履歴を IT 技術者に提供します。
-ms.openlocfilehash: 59181f717a0a7ecc57bc64ebe306f4c876c03074
-ms.sourcegitcommit: 4aab01cd695d26b057faf9d0e7f301b5913266c7
-ms.translationtype: HT
+ms.openlocfilehash: dd6eb645d367ff319d84d6a2ac472e0505b72224
+ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/08/2018
-ms.locfileid: "19709768"
+ms.lasthandoff: 07/10/2018
+ms.locfileid: "20246317"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Office 2010 のクイック実行製品の更新履歴
 
@@ -30,7 +30,7 @@ ms.locfileid: "19709768"
 これらの製品のいずれかを使用しており、最新の状態になっていることを確認するには、Office のバージョン番号を確認し、必要に応じて手動で Office を更新します。
   
 > [!NOTE]
-> 最新バージョンの Office 2010 は、2018 年 5 月 8 日にリリースされた **14.0.7209.5000** です。 
+> Office 2010 の最新のバージョンは、 **14.0.7211.5000**、2018 年 7 月 10 日にリリースされました。 
   
 Office のバージョンを確認するには、以下のことを行います。
   
@@ -54,9 +54,11 @@ Office のバージョンを確認するには、以下のことを行います�
   
 |**リリース年**|**リリース日**|**バージョン番号**|**詳細情報**|
 |:-----|:-----|:-----|:-----|
-|2018 |5 月 8 日  <br/> |14.0.7209.5000  <br/> |[KB 4133083](https://support.microsoft.com/ja-JP/help/4133083) <br/> |
-||4 月 10 日  <br/> |14.0.7197.5000  <br/> |[KB 4098622](https://support.microsoft.com/ja-JP/help/4098622) <br/> |
-||3 月 13 日  <br/> |14.0.7196.5000  <br/> |[KB 4090988](https://support.microsoft.com/ja-JP/help/4090988) <br/> |
+|2018 |7 月 10  <br/> |14.0.7211.5000  <br/> |[KB 4340798](https://support.microsoft.com/en-us/help/4340798) <br/> |
+||6 月 12 日  <br/> |14.0.7210.5000  <br/> |[KB 4299875](https://support.microsoft.com/en-us/help/4299875) <br/> |
+||5 月 8 日  <br/> |14.0.7209.5000  <br/> |[KB 4133083](https://support.microsoft.com/en-us/help/4133083) <br/> |
+||4 月 10 日  <br/> |14.0.7197.5000  <br/> |[KB 4098622](https://support.microsoft.com/en-us/help/4098622) <br/> |
+||3 月 13 日  <br/> |14.0.7196.5000  <br/> |[KB 4090988](https://support.microsoft.com/en-us/help/4090988) <br/> |
 ||2 月 13 日  <br/> |14.0.7194.5000  <br/> |[KB 4077965](https://support.microsoft.com/help/4077965) <br/> |
 ||1 月 9 日  <br/> |14.0.7193.5000  <br/> |[KB 4058103](https://support.microsoft.com/help/4058103) <br/> |
 |2017  <br/> |12 月 12 日  <br/> |14.0.7191.5000  <br/> |[KB 4055454](https://support.microsoft.com/help/4055454) <br/> |
@@ -69,7 +71,7 @@ Office のバージョンを確認するには、以下のことを行います�
 ||5 月 9 日  <br/> |14.0.7181.5002  <br/> |[KB 4020152](https://support.microsoft.com/help/4020152) <br/> |
 ||4 月 11 日  <br/> |14.0.7180.5002  <br/> |[KB 4016803](https://support.microsoft.com/help/4016803) <br/> |
 ||3 月 14 日  <br/> |14.0.7179.5002  <br/> |[KB 4013886](https://support.microsoft.com/help/4013886) <br/> |
-|2016  <br/> |12 月 13 日  <br/> |14.0.7177.5000  <br/> |[KB 3208595](https://support.microsoft.com/ja-JP/kb/3208595) <br/> |
+|2016  <br/> |12 月 13 日  <br/> |14.0.7177.5000  <br/> |[KB 3208595](https://support.microsoft.com/en-us/kb/3208595) <br/> |
 ||11 月 8 日  <br/> |14.0.7176.5000  <br/> |[KB 3200802](https://support.microsoft.com/kb/3200802) <br/> |
 ||10 月 11 日  <br/> |14.0.7174.1001  <br/> |[KB 3194160](https://support.microsoft.com/kb/3194160) <br/> |
 ||9 月 13 日  <br/> |14.0.7173.1001  <br/> |[KB 3188548](https://support.microsoft.com/kb/3188548) <br/> |
