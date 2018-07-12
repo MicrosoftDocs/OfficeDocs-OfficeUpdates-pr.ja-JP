@@ -3,19 +3,19 @@ title: Office 365 ProPlus の更新プログラムのダウンロード サイ�
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/25/2018
+ms.date: 7/10/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 各チャネルの Office 365 ProPlus の更新プログラムのダウンロード サイズの概算に関する情報を IT 技術者に提供します
-ms.openlocfilehash: c9aeb8d27fca4a5f5a7175ba5337f3ed4ef45adc
-ms.sourcegitcommit: e35d2bc81c325ac1962c49e84b25aea7f28ddbee
+ms.openlocfilehash: 595887039a9e93f1796c539fd7fcd235fda25056
+ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/25/2018
-ms.locfileid: "20036246"
+ms.lasthandoff: 07/10/2018
+ms.locfileid: "20246287"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 ProPlus の更新プログラムのダウンロード サイズ
 
@@ -35,7 +35,38 @@ ms.locfileid: "20036246"
 > - 過去 4 か月のリリースだけが記載されています。
 > - 表には、一番最近のリリースのみが記載されています。それより前のリリースから更新する場合、ダウンロード サイズはさらに大きくなります。
 > - 半期チャネル (対象指定) から半期チャネルなどに、チャネルを切り替える場合には、更新プログラムのサイズは表に記載されているサイズよりもかなり大きくなります。全体をダウンロードすることになるので、少なくとも 1 GB になります。 
+
+ ## <a name="july-10-2018"></a>2018 年 7 月 10 日
+
+### <a name="monthly-channel"></a>毎月のチャネル
+
+最新のリリースはバージョン 1806 です (ビルド 10228.20104)。
   
+|**アップグレード前のリリース **|**リリース日**|**ダウンロード サイズの概算 (MB)**|
+|:-----|:-----|:-----|
+|バージョン 1805 (ビルド 10228.20080)  <br/> |2018 年 6 月 25 日  <br/> |79  <br/> |
+|バージョン 1805 (ビルド 9330.2124)  <br/> |2018 年 6 月 13 日  <br/> |149  <br/> |
+|バージョン 1805 (ビルド 9330.2118)  <br/> |2018 年 6 月 12 日  <br/> |401  <br/> |
+|バージョン 1805 (ビルド 9330.2087)  <br/> |2018 年 5 月 24 日  <br/> |150  <br/> |
+
+   
+### <a name="semi-annual-channel"></a>半期チャネル
+
+最新のリリースはバージョン 1708 です (ビルド 9126.2259)。
+  
+|**アップグレード前のリリース **|**リリース日**|**ダウンロード サイズの概算 (MB)**|
+|:-----|:-----|:-----|
+|バージョン 1708 (ビルド 8431.2250)  <br/> |2018 年 5 月 8 日  <br/> |280  <br/> |
+|バージョン 1708 (ビルド 8431.2242)  <br/> |2018 年 4 月 10 日  <br/> |280  <br/> |
+   
+### <a name="semi-annual-channel-targeted"></a>半期チャネル (対象指定)
+
+最新のリリースはバージョン 1803 です (ビルド 9126.2259)。
+  
+|**アップグレード前のリリース **|**リリース日**|**ダウンロード サイズの概算 (MB)**|
+|:-----|:-----|:-----|
+|バージョン 1803 (ビルド 9126.2210)  <br/> |2018 年 6 月 12 日  <br/> |78  <br/> |
+|バージョン 1803 (ビルド 9126.2191)  <br/> |2018 年 5 月 18 日  <br/> |85  <br/> | 
 
 
 ## <a name="june-25-2018"></a>2018 年 6 月 25 日

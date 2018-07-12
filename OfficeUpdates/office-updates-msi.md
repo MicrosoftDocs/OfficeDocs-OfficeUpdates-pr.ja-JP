@@ -3,19 +3,19 @@ title: Windows インストーラー (MSI) を使用しているバージョン�
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 6/12/2018
+ms.date: 7/10/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 永続的なバージョンの Office 2016、Office 2013、Office 2010 の最新の更新プログラムの情報へのリンクを IT 技術者に提供します
-ms.openlocfilehash: ef47b794fc2447720427ebca0599faa44a57fb84
-ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
+ms.openlocfilehash: 9d2a01abd6ad4b742a65c230510a0d897e76e435
+ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/25/2018
-ms.locfileid: "19886973"
+ms.lasthandoff: 07/10/2018
+ms.locfileid: "20246297"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Windows インストーラー (MSI) を使用しているバージョンの Office の最新の更新プログラム
 
@@ -32,23 +32,25 @@ ms.locfileid: "19886973"
 
 |**バージョンと製品**|**最新の Service Pack (SP)**|**最新のパブリック更新プログラム (PU)**|
 |:-----|:-----|:-----|
-|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |該当なし  <br/> |2018 年 6 月 PU  <br/> [KB4299875](https://support.microsoft.com/ja-JP/help/4299875) <br/> |
+|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |N/A  <br/> |2018 年 7 月 PU  <br/> [KB4340798](https://support.microsoft.com/ja-JP/help/4340798) <br/> |
    
 ## <a name="office-2013-updates"></a>Office 2013 の更新プログラム
 
 |**バージョンと製品**|**最新の Service Pack (SP)**|**最新のパブリック更新プログラム (PU)**|
 |:-----|:-----|:-----|:-----|
-|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |2018 年 6 月 PU  <br/> [KB4299875](https://support.microsoft.com/ja-JP/help/4299875) <br/> |
+|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |2018 年 7 月 PU  <br/> [KB4340798](https://support.microsoft.com/ja-JP/help/4340798) <br/> |
    
 ## <a name="office-2010-updates"></a>Office 2010 の更新プログラム
 
 |**バージョンと製品**|**最新の Service Pack (SP)**|**最新のパブリック更新プログラム (PU)**|
 |:-----|:-----|:-----|:-----|
-|**2010** <br/> Office 2010 スイート  <br/> Project 2010  <br/> Visio 2010  <br/> Office 2010 サーバー  <br/> Office Web Apps  <br/> Search Server 2010  <br/> SharePoint 2010 製品  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |2018 年 6 月 PU <br/>[KB4299875](https://support.microsoft.com/ja-JP/help/4299875) <br/>|
+|**2010** <br/> Office 2010 スイート  <br/> Project 2010  <br/> Visio 2010  <br/> Office 2010 サーバー  <br/> Office Web Apps  <br/> Search Server 2010  <br/> SharePoint 2010 製品  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |2018 年 7 月 PU <br/>[KB4340798](https://support.microsoft.com/ja-JP/help/4340798) <br/>|
    
 
    
 ## <a name="updates-released-in-past-12-months"></a>過去 12 か月にリリースされた更新プログラム
+
+[2018 年 7 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB4340798](https://support.microsoft.com/help/4340798)   
 
 [2018 年 6 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB4299875](https://support.microsoft.com/help/4299875)  
 
@@ -72,6 +74,6 @@ ms.locfileid: "19886973"
   
 [2017 年 8 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB4036121](https://support.microsoft.com/help/4036121)   
   
-[2017 年 7 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB4036121](https://support.microsoft.com/help/4033107)   
+
    
   
