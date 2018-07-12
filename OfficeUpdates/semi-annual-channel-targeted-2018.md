@@ -3,19 +3,19 @@ title: 2018 年の半期チャネル (対象指定) リリースのリリース 
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/12/2018
+ms.date: 7/10/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2018 年の半期チャネル (対象指定) リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: ec8e532ab9583db5fa0d11fe5514eb50f421f6fb
-ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
+ms.openlocfilehash: b5b3cf82f2f59378f1309e7cd91540ad0689db47
+ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/25/2018
-ms.locfileid: "19886633"
+ms.lasthandoff: 07/10/2018
+ms.locfileid: "20246387"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>2018 年の半期チャネル (対象指定) リリースのリリース ノート
 
@@ -24,6 +24,36 @@ ms.locfileid: "19886633"
 > [!NOTE]
 > - また、Visio Pro for Office 365 および Project Online デスクトップ クライアントの新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムについても説明しています。
 > - ここに記載されている情報は、Business Premium など一部の Office 365 プランに付属する Office のバージョンの、Office 365 Business にも該当します。
+
+## <a name="version-1803-july-10"></a>バージョン 1803: 7 月 10 日
+*バージョン 1803 (ビルド 9126.2259)*
+
+### <a name="access-security-updates"></a>Access: セキュリティ更新プログラム
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8312): Microsoft Access のリモート コード実行の Use After Free 脆弱性
+
+### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム
+-   [CVE-2018-8310](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8310): Microsoft Office 改ざんの脆弱性
+
+### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
+-   [CVE-2018-8281](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8281): Microsoft Office のリモート コード実行の脆弱性
+
+### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
+-   日付のセル書式設定で和暦を使用すると、間違った年が表示される問題が修正されます。
+-   Excel データ モデルにデータをインポートするとき、負のゼロの値を受け取るとエラーになりました。修正後は、そのような値はゼロとしてインポートされます。
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: セキュリティ以外の更新プログラム
+-   太線罫線を使用する表が正しく表示されない問題が修正されます。
+
+### <a name="project-non-security-updates"></a>Project: セキュリティ以外の更新プログラム
+-   コスト型リソースでタスクが分割されている場合、コスト型リソースが正しく更新されず、コストが失われるという問題が修正されました。
+-   タイムライン ビューで既存のタスクをタイムライン ダイアログに追加すると、最初のサマリー タスクのタスクしか表示されない問題を修正されました。
+-   XML として保存すると、Project Online または Project Server のマスター プロジェクトでエラーが発生するという問題が修正されました。
+
+### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
+-   特定のシナリオで更新プログラムのインストールが長くかかる原因となったバグを修正します。 
+-   SVG テストが失敗するという問題を修正します。
+-   Office アプリケーションが実行されているクライアントに System Center Configuration Manager を使用して更新プログラムを展開した場合、Office アプリケーションの実行中にデバイスを再起動すると更新プログラムが適用されない問題を修正します。
+
 
 ## <a name="version-1803-june-12"></a>バージョン 1803: 6 月 12 日
 *バージョン 1803 (ビルド 9126.2227)*

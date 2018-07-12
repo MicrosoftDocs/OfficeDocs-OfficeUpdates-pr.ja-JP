@@ -3,7 +3,7 @@ title: Office for Mac のリリース ノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/14/2018
+ms.date: 7/10/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
@@ -11,12 +11,12 @@ localization_priority: Critical
 ms.collection: RelNotes_Mac
 ms.custom: LIL_Placement
 description: Office 356 サブスクライバー向け Office for Mac リリース用リリース ノートを IT プロフェッショナルに提供
-ms.openlocfilehash: d46c11fbf8dccb1e364a1f446d62b15697fd7b6c
-ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
+ms.openlocfilehash: 6721d811de54c821b581e3b7d2a67b4cab9ff3b3
+ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/25/2018
-ms.locfileid: "19886953"
+ms.lasthandoff: 07/10/2018
+ms.locfileid: "20246277"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac のリリース ノート
 
@@ -31,6 +31,25 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 > - これらのリリース ノートは、Office for Mac の永続版である Office 2016 for Mac にも該当し、小売店またはボリューム ライセンス契約による 1 回限りの購入として利用できます。ただし、リリース ノートに記載されている一部の機能は、Office 365 サブスクリプションがある場合にのみ使用できます。
 > - ダウンロード リンクは、最新のリリースにのみ提供されます。
 > - Microsoft AutoUpdate は、Microsoft のさまざまな Mac 製品への更新プログラムを提供します。そのため、Office for Mac を実行していない場合でも、Microsoft AutoUpdate を更新する通知が表示される場合があります。
+
+## <a name="july-2018-release"></a>2018 年 7 月リリース
+
+ **リリース日:** 2018 年 7 月 10 日 
+  
+ *バージョン 16.15.0 (ビルド 18070902)* 
+  
+このリリースでは、次の更新プログラムを提供します。
+  
+|**アプリケーション**|**機能の更新プログラム**|**セキュリティ更新プログラム**|**更新プログラム パッケージのダウンロード リンク**|
+|:-----|:-----|:-----|
+|Word  <br/> |**アクセシビリティの問題に関する 1 クリック修正プログラム:** 更新されたサポートによりアクセシビリティ チェックが従来よりも強化され、国際的な標準とすぐに役立つ推奨事項を活用してご使用のドキュメントのアクセシビリティが増しています。[詳細](https://support.office.com/article/3b84295e-d55b-49f1-b443-523ec45a5232) <br/> ||[Word の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.15.18070902_Updater.pkg) <br/>|
+|Excel  <br/> |||[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.15.18070902_Updater.pkg) <br/>|
+|PowerPoint  <br/> |**動画を使用して説明の質を高める:** YouTube 動画を使用してスライドにライブ アクションを追加し、アプリから離れないで動画を表示します。[詳細](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db=Office_2016_for_Mac) <br/> ||[PowerPoint の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.15.18070902_Updater.pkg) <br/>|
+|Outlook  <br/> |||[Outlook の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.15.18070902_Updater.pkg) <br/>|
+|Microsoft AutoUpdate 4.1  <br/> |Aria SDK 8.4 に更新され、メモリ リークの問題が修正されます。<br/><br/>アプリの登録が変更されました。Office 2019 プレビューをサポートします。||[Microsoft AutoUpdate 更新パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.1.18070902_Updater.pkg) <br/> | 
+|Office スイート  <br/> ||[CVE-2018-8281](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8281): Microsoft Office のリモート コード実行の脆弱性  <br/> ||
+
+
 
 ## <a name="june-2018-release"></a>2018 年 6 月リリース
 
@@ -56,7 +75,7 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 |Excel  <br/> |**一瞬でデータを入力:** フラッシュ フィルにいくつかの例を入力すると、その後の入力で自動的にデータが入力されるようになります。[詳細](https://support.office.com/article/041edfe2-05bc-40e6-b933-ef48c3f308c6) <br/><br/> **言葉の壁の解消:** 別の言語の単語、語句、文章を Microsoft Translator で翻訳します。[詳細](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f) <br/> ||
 |PowerPoint  <br/> |**言葉の壁の解消:** 別の言語の単語、語句、文章を Microsoft Translator で翻訳します。[詳細](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f#ID0EAACAAA=Office_2016_for_Mac) <br/><br/>**ハイパーリンクの色の設定:** ハイパーリンクの色はもはや青だけではありません。好きなフォントと色を適用します。[詳細](https://support.office.com/article/239c6c94-d52f-480c-99ae-8b0acf7df6d9#OfficeVersion=Mac) <br/> ||
 |Outlook  <br/> |**覚えやすい署名を作成する:** 豊富なフォント スタイル、色、画像、リンク、およびその他を使って自分自身を表現します。[詳細](https://support.office.com/article/f4d21492-0956-4429-95ad-2769745b539c)  <br/><br/> **グループの作成とグループとの共同作業:** Outlook で Office 365 グループを作成したいですか? 大丈夫! メンバーの追加と削除もできます。Mac での共同作業も簡単です。[詳細](https://support.office.com/article/04d0c9cf-6864-423c-a380-4fa858f27102#ID0EACAAA=Mac) <br/> ||
-|Microsoft AutoUpdate 4.0  <br/> ||[Microsoft AutoUpdate 更新パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.0.18061000_Updater.pkg) <br/> |  
+|Microsoft AutoUpdate 4.0  <br/> ||[Microsoft AutoUpdate 更新パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.1.18061000_Updater.pkg) <br/> |  
 
 ## <a name="may-2018-release"></a>2018 年 5 月リリース
 
@@ -105,12 +124,12 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
   
 |**アプリケーション**|**機能の更新プログラム**|**セキュリティ更新プログラム**|**セキュリティ以外の更新プログラム**|**更新プログラム パッケージのダウンロード リンク**|
 |:-----|:-----|:-----|:-----|:-----|
-|Word  <br/> |**共有とコラボレーションの改善:** ローカルで同期された OneDrive のドキュメントは、クラウドから直接開いて、容易に自動保存、共有、コラボレーションすることができます。  <br/> <br/> **視覚的な効果を与える:** ドキュメントにスケーラブル ベクター グラフィックス (SVG) を挿入、編集し、視覚的な関心を高め、高い画質を維持します。[詳細を見る](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/> |||[Word の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.12.18041000_Updater.pkg) <br/> |
-|Excel  <br/> |**共有とコラボレーションの改善:** ローカルで同期された OneDrive のブックは、クラウドから直接開いて、容易に自動保存、共有、コラボレーションすることができます。  <br/> <br/> **視覚的な効果を与える:** ブックにスケーラブル ベクター グラフィックス (SVG) を挿入、編集し、視覚的な関心を高め、高い画質を維持します。[詳細を見る](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/> |[CVE-2018-1029](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-1029): Microsoft Excel のリモート コード実行の脆弱性  <br/> ||[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.12.18041000_Updater.pkg) <br/> |
-|PowerPoint  <br/> |**共有とコラボレーションの改善:** ローカルで同期された OneDrive のプレゼンテーションは、クラウドから直接開いて、容易に自動保存、共有、コラボレーションすることができます。   <br/><br/> **視覚的な効果を与える:** プレゼンテーションにスケーラブル ベクター グラフィックス (SVG) を挿入、編集し、視覚的な関心を高め、高い画質を維持します。[詳細を見る](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/> |||[PowerPoint の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.12.18041000_Updater.pkg) <br/> |
-|Outlook  <br/> |**視覚的な効果を与える:** メールにスケーラブル ベクター グラフィックス (SVG) を挿入、編集し、視覚的な関心を高め、高い画質を維持します。[詳細を見る](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/>  <br/>**より実践的なカレンダー:** カレンダー内の任意の会議やイベントをクリックすると、すべての関連する詳細情報が表示されます。誰が招待されているかを確認したり、回答を編集したり、会議に参加したりすることが、すべて一か所で行えます。<br/> <br/> **検索結果を容易にスキャン:** Outlook では、アイテム リストまたはプレビュー ウィンドウで検索語句を強調表示します。  <br/> <br/> **週番号:** 週番号はサイドバーのカレンダーの月表示とミニカレンダーに表示されます。有効にするには、Outlook\>ユーザー設定\>カレンダー\>カレンダー オプションで「週番号を表示する」をオンにします。<br/> <br/> **Skype 会議のスケジューリング: **代理人は、プリンシパルのメール アドレスを使用して、プリンシパルの代わりに Skype for Business Online 会議をスケジュールできるようになりました。*(Skype for Business Online のみ。今後のサーバー アップデートで Skype for Business Server 2015 が有効になります)*  <br/> ||サーバー ルールを編集および削除する際のエラー処理が改善されました。ルール リストに最初に表示されるときに、エラーを含むサーバー ルールが強調表示されるようになりました。  <br/> |[Outlook の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.12.18041000_Updater.pkg) <br/> |
-|OneNote  <br/> ||||[OneNote の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.12.18041000_Updater.pkg) <br/> |
-|Microsoft AutoUpdate 3.18  <br/> |msupdate コマンドライン ツールをサポートします。[詳細を見る](https://docs.microsoft.com/DeployOffice/mac/update-office-for-mac-using-msupdate) <br/> |||[Microsoft AutoUpdate 更新パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_3.18.18041000_Updater.pkg) <br/> |
+|Word  <br/> |**共有とコラボレーションの改善:** ローカルで同期された OneDrive のドキュメントは、クラウドから直接開いて、容易に自動保存、共有、コラボレーションすることができます。  <br/> <br/> **視覚的な効果を与える:** ドキュメントにスケーラブル ベクター グラフィックス (SVG) を挿入、編集し、視覚的な関心を高め、高い画質を維持します。[詳細を見る](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/> ||||
+|Excel  <br/> |**共有とコラボレーションの改善:** ローカルで同期された OneDrive のブックは、クラウドから直接開いて、容易に自動保存、共有、コラボレーションすることができます。  <br/> <br/> **視覚的な効果を与える:** ブックにスケーラブル ベクター グラフィックス (SVG) を挿入、編集し、視覚的な関心を高め、高い画質を維持します。[詳細を見る](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/> |[CVE-2018-1029](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-1029): Microsoft Excel のリモート コード実行の脆弱性  <br/> ||||
+|PowerPoint  <br/> |**共有とコラボレーションの改善:** ローカルで同期された OneDrive のプレゼンテーションは、クラウドから直接開いて、容易に自動保存、共有、コラボレーションすることができます。   <br/><br/> **視覚的な効果を与える:** プレゼンテーションにスケーラブル ベクター グラフィックス (SVG) を挿入、編集し、視覚的な関心を高め、高い画質を維持します。[詳細を見る](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/> ||||
+|Outlook  <br/> |**視覚的な効果を与える:** メールにスケーラブル ベクター グラフィックス (SVG) を挿入、編集し、視覚的な関心を高め、高い画質を維持します。[詳細を見る](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/>  <br/>**より実践的なカレンダー:** カレンダー内の任意の会議やイベントをクリックすると、すべての関連する詳細情報が表示されます。誰が招待されているかを確認したり、回答を編集したり、会議に参加したりすることが、すべて一か所で行えます。<br/> <br/> **検索結果を容易にスキャン:** Outlook では、アイテム リストまたはプレビュー ウィンドウで検索語句を強調表示します。  <br/> <br/> **週番号:** 週番号はサイドバーのカレンダーの月表示とミニカレンダーに表示されます。有効にするには、Outlook\>ユーザー設定\>カレンダー\>カレンダー オプションで「週番号を表示する」をオンにします。<br/> <br/> **Skype 会議のスケジューリング: **代理人は、プリンシパルのメール アドレスを使用して、プリンシパルの代わりに Skype for Business Online 会議をスケジュールできるようになりました。*(Skype for Business Online のみ。今後のサーバー アップデートで Skype for Business Server 2015 が有効になります)*  <br/> ||サーバー ルールを編集および削除する際のエラー処理が改善されました。ルール リストに最初に表示されるときに、エラーを含むサーバー ルールが強調表示されるようになりました。  <br/> ||
+|OneNote  <br/> ||||
+|Microsoft AutoUpdate 3.18  <br/> |msupdate コマンドライン ツールをサポートします。[詳細を見る](https://docs.microsoft.com/DeployOffice/mac/update-office-for-mac-using-msupdate) <br/> ||||
    
 ## <a name="march-2018-release"></a>2018 年 3 月リリース
 
