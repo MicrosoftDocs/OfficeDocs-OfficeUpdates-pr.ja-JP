@@ -11,12 +11,12 @@ localization_priority: Critical
 ms.collection: RelNotes_Mac
 ms.custom: LIL_Placement
 description: Office 356 サブスクライバー向け Office for Mac リリース用リリース ノートを IT プロフェッショナルに提供
-ms.openlocfilehash: 6721d811de54c821b581e3b7d2a67b4cab9ff3b3
-ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
+ms.openlocfilehash: f1b878e883d8b8494c8e13b4c6cf55e1d90ca8d7
+ms.sourcegitcommit: 530b5f490b50d505920e9ec50d0528f368008565
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/10/2018
-ms.locfileid: "20246277"
+ms.lasthandoff: 07/11/2018
+ms.locfileid: "20275773"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac のリリース ノート
 
@@ -44,11 +44,10 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 |:-----|:-----|:-----|
 |Word  <br/> |**アクセシビリティの問題に関する 1 クリック修正プログラム:** 更新されたサポートによりアクセシビリティ チェックが従来よりも強化され、国際的な標準とすぐに役立つ推奨事項を活用してご使用のドキュメントのアクセシビリティが増しています。[詳細](https://support.office.com/article/3b84295e-d55b-49f1-b443-523ec45a5232) <br/> ||[Word の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.15.18070902_Updater.pkg) <br/>|
 |Excel  <br/> |||[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.15.18070902_Updater.pkg) <br/>|
-|PowerPoint  <br/> |**動画を使用して説明の質を高める:** YouTube 動画を使用してスライドにライブ アクションを追加し、アプリから離れないで動画を表示します。[詳細](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db=Office_2016_for_Mac) <br/> ||[PowerPoint の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.15.18070902_Updater.pkg) <br/>|
-|Outlook  <br/> |||[Outlook の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.15.18070902_Updater.pkg) <br/>|
+|PowerPoint  <br/> |**動画を使用して説明の質を高める:** YouTube 動画を使用してスライドにライブ アクションを追加し、アプリから離れないで動画を表示します。[詳細](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db=Office_2016_for_Mac) <br/> ||[PowerPoint の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.15.18070902_Updater.pkg) <br/>|
+|Outlook  <br/> |||[Outlook の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.15.18070902_Updater.pkg) <br/>|
 |Microsoft AutoUpdate 4.1  <br/> |Aria SDK 8.4 に更新され、メモリ リークの問題が修正されます。<br/><br/>アプリの登録が変更されました。Office 2019 プレビューをサポートします。||[Microsoft AutoUpdate 更新パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.1.18070902_Updater.pkg) <br/> | 
 |Office スイート  <br/> ||[CVE-2018-8281](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8281): Microsoft Office のリモート コード実行の脆弱性  <br/> ||
-
 
 
 ## <a name="june-2018-release"></a>2018 年 6 月リリース
