@@ -3,27 +3,27 @@ title: 2017 で毎月チャネルのリリースのリリース ノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/12/2017
+ms.date: 7/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 2017 で毎月チャネルのリリース ・ ノートでの IT プロフェッショナルが Office 365 用リソースの解放を提供します。
-ms.openlocfilehash: 325036f301534ae903ec3e3693c31fac5356e30c
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: 51e8d963e0e7ed2780be29f882b8c92abc1e5179
+ms.sourcegitcommit: 752a269d6c047356b638bd8da669cfa646d3bc7b
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19556219"
+ms.lasthandoff: 07/13/2018
+ms.locfileid: "20334447"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>2017 で毎月チャネルのリリースのリリース ノート
 
 これらのリリース ・ ノートは、新機能、セキュリティ更新プログラム、および 2017年で Office 365 用リソースを月のチャネルの更新プログラムに含まれるセキュリティ以外の更新プログラムに関する情報を提供します。
  
 > [!NOTE]
-> - 次は、Office 365 とデスクトップ クライアントのオンライン プロジェクトも Visio Pro の新機能、セキュリティ更新プログラム、およびセキュリティ以外の更新に関する情報を提供します。
-> - この情報は、ビジネス ・ プレミアムなど、一部の Office 365 プランに付属している Office のバージョンは、Office 365 のビジネスにも適用されます。
+> - また、Visio Pro for Office 365 および Project Online デスクトップ クライアントの新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムについても説明しています。
+> - ここに記載されている情報は、Business Premium など一部の Office 365 プランに付属する Office のバージョンの、Office 365 Business にも該当します。
 > - 毎月チャネルでは、2017年 9 月の前に現在のチャネルを付きです。
 
 ## <a name="version-1711-december-12"></a>バージョン 1711: 12 月 12
@@ -69,7 +69,7 @@ ms.locfileid: "19556219"
 
 ### <a name="word-feature-updates"></a>Word: 機能の更新
 -   **文字数:** 入力時にステータス バーに文字数を表示します。カスタマイズ ステータス バー メニューから、これを有効にできます。
--   **サイトおよびグループへすばやくアクセス:**[ファイル] メニューを使用して、よく使用するサイトやグループに格納されているドキュメントを操作できます。
+-   **サイトおよびグループへすばやくアクセス:** [ファイル] メニューを使用して、よく使用するサイトやグループに格納されているドキュメントを操作できます。
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 -   Office 365 クライアントの更新が System Center Configuration Manager によって管理されるように、Office COM オブジェクトが有効になっている場合は、[ファイル] \> [アカウント] \> [更新オプション] で [今すぐ更新] オプションが非表示になっています。
@@ -133,15 +133,15 @@ ms.locfileid: "19556219"
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
 -   **デジタル鉛筆:** 新しい鉛筆のテクスチャで、アイデアを書き込んだり、スケッチしたりします。サポートされているデジタル ペンを傾けるだけで網かけができます。
--   **LinkedIn 機能の設定:** [ファイル] \> [オプション] \> [全般] と移動して、Office アプリケーションで LinkedIn 機能が表示されるかどうかを制御します。 [詳細情報](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
+-   **LinkedIn 機能の設定:** [ファイル] \> [オプション] \> [全般] と移動して、Office アプリケーションで LinkedIn 機能が表示されるかどうかを制御します。[詳細情報](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
 
 ### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
--   **LinkedIn 機能の設定:** [ファイル] \> [オプション] \> [全般] と移動して、Office アプリケーションで LinkedIn 機能が表示されるかどうかを制御します。 [詳細情報](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
+-   **LinkedIn 機能の設定:** [ファイル] \> [オプション] \> [全般] と移動して、Office アプリケーションで LinkedIn 機能が表示されるかどうかを制御します。[詳細情報](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新
 -   **デジタル鉛筆:** 新しい鉛筆のテクスチャで、アイデアを書き込んだり、スケッチしたりします。サポートされているデジタル ペンを傾けるだけで網かけができます。
 -   **Microsoft Stream への公開** Microsoft Stream を使用して、組織内でプレゼンテーションを動画として共有し、安全性を高めます。[詳細情報](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83?#bkmk_microsoftstream)
--   **LinkedIn 機能の設定:** [ファイル] \> [オプション] \> [全般] と移動して、Office アプリケーションで LinkedIn 機能が表示されるかどうかを制御します。 [詳細情報](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
+-   **LinkedIn 機能の設定:** [ファイル] \> [オプション] \> [全般] と移動して、Office アプリケーションで LinkedIn 機能が表示されるかどうかを制御します。[詳細情報](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
 
 ### <a name="project-feature-updates"></a>Project: 機能の更新
 -   **タスク ボード ビュー:** タスク ボード ビューでカードのタスクを並べ替えます。アジャイル プロジェクトと同様に、カードを並べ替え、ボード上の列の間で移動させます。
@@ -170,7 +170,7 @@ ms.locfileid: "19556219"
 -   **Microsoft Translator:** Word で Microsoft Translator を使用して、単語、語句、ドキュメント全体を別の言語に翻訳します。 [詳細情報](https://support.office.com/article/24a987b3-03a1-4c17-8c1b-54495fca6b17)
 -   **デジタル鉛筆:** 新しい鉛筆のテクスチャで、アイデアを書き込んだり、スケッチしたりします。サポートされているデジタル ペンを傾けるだけで網かけができます。
 -   **LinkedIn を活用して、最適な履歴書または CV を作成します:** 履歴書アシスタントを使用して、特定の役割に関する職歴、提案されているスキルなどを表示できます。 [詳細情報](https://support.office.com/article/444ff6f0-ef74-4a9c-9091-ffd7a9d1917a)
--   **LinkedIn 機能の設定:** [ファイル] \> [オプション] \> [全般] と移動して、Office アプリケーションで LinkedIn 機能が表示されるかどうかを制御します。 [詳細情報](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
+-   **LinkedIn 機能の設定:** [ファイル] \> [オプション] \> [全般] と移動して、Office アプリケーションで LinkedIn 機能が表示されるかどうかを制御します。[詳細情報](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
 
 
 
@@ -283,15 +283,15 @@ ms.locfileid: "19556219"
 
 ### <a name="access-feature-updates"></a>Access: 機能の更新
 -   **動的コネクタ:** Microsoft Dynamics からデータをインポートしたり、Microsoft Dynamics に保存されているデータにリンクしたりします。[詳細情報](https://support.office.com/article/636079c1-9fc3-4fca-8410-6596d62223da)
--   **Salesforce コネクタ:** Salesforce からデータをインポートしたり、Salesforce に保存されているデータにリンクしたりします。 [詳細情報](https://support.office.com/article/7375ffb6-1d6a-46f1-bb0c-c6ac3c58f5a0)
+-   **Salesforce コネクタ:** Salesforce からデータをインポートしたり、Salesforce に保存されているデータにリンクしたりします。[詳細情報](https://support.office.com/article/7375ffb6-1d6a-46f1-bb0c-c6ac3c58f5a0)
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
 -   **3D モデル:** 3D を使用して、ブックを、より視覚的かつ独創的なものにすることができます。3D モデルの挿入も簡単で、360 度回転させることができます。 [詳細情報](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **新しいインク効果:** メタリック ペンを使用し、ゴールド、シルバーあるいは虹、銀河、溶岩、海などを連想させる色などのインクの効果を活用して、アイデアの表現の幅を広めましょう。
 -   **"サンプルからの列の追加" の機能強化:** より多くの日付/時刻、数学、インデックス列の変換をサポートします。
--   **パフォーマンスの強化:** Excel は複雑なブックを複数のシートで速く開くので、複雑な数式を高速処理したり、多くの行をフィルター処理したり、すばやくコピー/貼り付けすることができます。
+-   **パフォーマンスの強化:** Excel は複雑なブックを複数のシートで速く開くので、複雑な数式を高速処理したり、多くの行をフィルター処理したり、すばやくコピー/貼り付けすることができます。 
 -   **ファイル共有 UI:** OneDrive for Business または SharePoint のファイルの場合、リボンの右上隅にある [共有] ボタンをクリック、または [ファイル] \> [共有] の順に移動することにより、簡略化され改良された [共有] ダイアログが起動されます。新規のファイル、またはローカルに保存されたファイルの場合、この UI によって、ユーザーはファイルを OneDrive に簡単にアップロードし、共同作業を開始できます。
--   **危険な拡張子をブロック:** リスクが高いとみなされ、OLE パッケージ オブジェクトとして埋め込まれている拡張子は、既定ではアクティブ化されないようにブロックされています。たとえば、.exe、.vbs、.js などがこれに該当します。
+-   **危険な拡張子をブロックする:** リスクは高いと見なされ、OLE パッケージ オブジェクトとして埋め込まれている拡張機能は、既定でアクティブにするからブロックされます。やなどの .exe、.vbs、.js。[詳細を表示](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
 -   Word からタブ区切りのテキストをコピーして貼り付けるときにタブが無視され、テキストが列に解析されない問題を修正します。
@@ -306,7 +306,7 @@ ms.locfileid: "19556219"
 -   **3D モデル:** 3D を使用して、プレゼンテーションを、より視覚的かつ独創的なものにすることができます。スライド間で映画のようなアニメーションを生み出す画面切り替え効果を生かして、3D モデルをプレゼンテーションで活用しましょう。 [詳細情報](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **新しいインク効果:** メタリック ペンを使用し、ゴールド、シルバーあるいは虹、銀河、溶岩、海などを連想させる色などのインクの効果を活用して、アイデアの表現の幅を広めましょう。
 -   **ファイル共有 UI:** OneDrive for Business または SharePoint のファイルの場合、リボンの右上隅にある [共有] ボタンをクリック、または [ファイル] \> [共有] の順に移動することにより、簡略化され改良された [共有] ダイアログが起動されます。新規のファイル、またはローカルに保存されたファイルの場合、この UI によって、ユーザーはファイルを OneDrive に簡単にアップロードし、共同作業を開始できます。
--   **危険な拡張子をブロック:** リスクが高いとみなされ、OLE パッケージ オブジェクトとして埋め込まれている拡張子は、既定ではアクティブ化されないようにブロックされています。たとえば、.exe、.vbs、.js などがこれに該当します。
+-   **危険な拡張子をブロックする:** リスクは高いと見なされ、OLE パッケージ オブジェクトとして埋め込まれている拡張機能は、既定でアクティブにするからブロックされます。やなどの .exe、.vbs、.js。[詳細を表示](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="project-feature-updates"></a>Project: 機能の更新
 -   **Planner でのタスクの管理:** Planner にプロジェクト タスクをリンクし、計画を作成します。タスクをサブタスクに分割し、チームを追加し、タスクを割り当て、タスク ボード上で作業を管理する
@@ -320,7 +320,7 @@ ms.locfileid: "19556219"
 -   状態フィールドがサマリー タスクに対して常に正しく計算されない問題を修正します。
 
 ### <a name="publisher-feature-updates"></a>Publisher: 機能の更新
--   **危険な拡張子をブロック:** リスクが高いとみなされ、OLE パッケージ オブジェクトとして埋め込まれている拡張子は、既定ではアクティブ化されないようにブロックされています。たとえば、.exe、.vbs、.js などがこれに該当します。
+-   **危険な拡張子をブロックする:** リスクは高いと見なされ、OLE パッケージ オブジェクトとして埋め込まれている拡張機能は、既定でアクティブにするからブロックされます。やなどの .exe、.vbs、.js。[詳細を表示](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: セキュリティ以外の更新プログラム
 -   特定のポートがブロックされているか、IP がホワイトリストに登録されていない場合に、ユーザーが会議に参加できない理由を説明するダイアログを追加します。
@@ -334,13 +334,13 @@ ms.locfileid: "19556219"
 -   IM の会話で、共有を停止する前に共有通知が消去される問題を修正します。
 
 ### <a name="visio-feature-updates"></a>Visio: 機能の更新
--   **危険な拡張子をブロック:** リスクが高いとみなされ、OLE パッケージ オブジェクトとして埋め込まれている拡張子は、既定ではアクティブ化されないようにブロックされています。たとえば、.exe、.vbs、.js などがこれに該当します。
+-   **危険な拡張子をブロックする:** リスクは高いと見なされ、OLE パッケージ オブジェクトとして埋め込まれている拡張機能は、既定でアクティブにするからブロックされます。やなどの .exe、.vbs、.js。[詳細を表示](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="word-feature-updates"></a>Word: 機能の更新
 -   **3D モデル:** 3D を使用して、ドキュメントを、より視覚的かつ独創的なものにすることができます。3D モデルの挿入も簡単で、360 度回転させることができます。 [詳細情報](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **新しいインク効果:** メタリック ペンを使用し、ゴールド、シルバーあるいは虹、銀河、溶岩、海などを連想させる色などのインクの効果を活用して、アイデアの表現の幅を広めましょう。
 -   **ファイル共有 UI:** OneDrive for Business または SharePoint のファイルの場合、リボンの右上隅にある [共有] ボタンをクリック、または [ファイル] \> [共有] の順に移動することにより、簡略化され改良された [共有] ダイアログが起動されます。新規のファイル、またはローカルに保存されたファイルの場合、この UI によって、ユーザーはファイルを OneDrive に簡単にアップロードし、共同作業を開始できます。
--   **危険な拡張子をブロック:** リスクが高いとみなされ、OLE パッケージ オブジェクトとして埋め込まれている拡張子は、既定ではアクティブ化されないようにブロックされています。たとえば、.exe、.vbs、.js などがこれに該当します。
+-   **危険な拡張子をブロックする:** リスクは高いと見なされ、OLE パッケージ オブジェクトとして埋め込まれている拡張機能は、既定でアクティブにするからブロックされます。やなどの .exe、.vbs、.js。[詳細を表示](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 -   新機能ダイアログが表示されない問題の修正。
@@ -438,7 +438,7 @@ ms.locfileid: "19556219"
 *バージョン 1707 (ビルド 8326.2059)*
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
--   一部のプログラム ファイルの署名において、ウイルス対策プログラムでこれらのファイルにフラグが設定されたり、Windows Information Protection (WIP) でのデータの保護およびアクセスに関して問題が発生したりするという問題の修正。
+-   一部のプログラム ファイルの署名において、ウイルス対策プログラムでこれらのファイルにフラグが設定されたり、Windows Information Protection (WIP) でのデータの保護およびアクセスに関して問題が発生したりするという問題を修正します。
 
 
 
@@ -616,7 +616,7 @@ ms.locfileid: "19556219"
 -   **リンクの添付ダイアログ:** リボンの [ファイルの添付] を使ってリンクを添付する場合、リンクとして追加するのか、添付ファイルとして追加するのかを選ぶことができます。このダイアログを毎回表示しないようにするには、[ファイル] \> [オプション] \> [全般] の順に移動して、[添付ファイルのオプション] でリンクの添付方法を指定します。
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新
--   **ビデオのクローズド キャプション:** アクセシビリティを高めるため、ビデオにクローズド キャプションを追加します。 [詳細情報](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
+-   **ビデオのクローズド キャプション:** アクセシビリティを高めるため、ビデオにクローズド キャプションを追加します。[詳細情報](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
 -   **デザイナーの機能強化:** デザイナーが、スライドに追加されたグラフのデザイン アイデアを提案するようになりました。
 -   **Windows Information Protection (WIP) のサポート:**   現在、PowerPoint は対応アプリになり、企業データと個人データを区別し、構成されているポリシーに基づいてどれを保護するかを判断します。 [詳細](https://aka.ms/wiptechnet)
 
@@ -678,7 +678,7 @@ ms.locfileid: "19556219"
 -   **優先受信トレイ:** 受信トレイは、[優先] と [その他] の 2 つのタブに分かれています。メッセージの分類は、メッセージの内容と、一番やりとりの多い相手がだれかに基づいて行われます。 [詳細情報](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978)
 -   **最も頻繁に使用するグループにすばやくアクセスする:** 一番やりとりの多いグループが、[フォルダー] ウィンドウの [グループ] のリストの先頭に表示されるようになりました。
 -   **最近使ったリンクの挿入:** 最近使ったクラウドベースのファイルまたは Web サイトへのハイパーリンクを付け、スクリーン リーダーを使用する人にわかりやすい表示名を付けることができるようになりました。 [詳細情報](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
--   **実践的なメッセージ:** 開発者は、ユーザーは外部の web サイトに切り替えるか、アプリケーション[の詳細](https://dev.office.com/blogs/create-more-engaging-conversations-with-new-actionable-messages-updates-announced-at-microsoft-build)を分離することがなく Outlook からの単純なまたはクイック アクションの右側に簡単にメッセージを作成できます。
+-   **操作可能なメッセージ:** 開発者は、ユーザーが外部の Web サイトまたは別のアプリに切り替えずに、Outlook から単純なアクションまたはクイック アクションを簡単に実行できるようにするメッセージを作成できます。[詳細情報](https://dev.office.com/blogs/create-more-engaging-conversations-with-new-actionable-messages-updates-announced-at-microsoft-build)
 -   **オンプレミスの添付ファイルのサポート:** オンプレミスの SharePoint Server からのファイルは最近使用したファイルとして [メッセージ] \> [添付ファイル] に表示され、オンプレミスの OneDrive for Business および SharePoint チーム サイトは [添付ファイル] \> [Web 上の場所を参照] に表示され、ローカル ファイルはオンプレミスの OneDrive for Business サイトにアップロードすることができます。
 -   **グループのビジネスの分類:**  グループを作成または編集するとき、テナント管理者によって定義されたビジネスの分類レベル (例: 社外秘) を割り当てることができ、その分類はグループ ヘッダーに表示されます。
 
@@ -979,7 +979,7 @@ ms.locfileid: "19556219"
 ## <a name="version-1612-january-31"></a>バージョン 1612: 1 月 31 日
 *バージョン 1612 (ビルド 7668.2074)*
 
-### <a name="onedrive-for-business-non-security-updates"></a>OneDrive for Business: セキュリティ関連ではない更新プログラム
+### <a name="onedrive-for-business-non-security-updates"></a>OneDrive for Business: セキュリティ以外の更新プログラム
 -   GrooveIntlResource.dll を正常に読み込むことができない場合 (通常の状況ではそうではありません)、ユーザーが同期済みフォルダーでファイルを開いたり保存したりしようとすると Office アプリがクラッシュする、あるいは Windows エクスプローラーを使用して同期済みフォルダーに移動すると Windows エクスプローラーがクラッシュする問題を修正します。
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: セキュリティ以外の更新プログラム
