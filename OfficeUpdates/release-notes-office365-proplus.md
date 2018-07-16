@@ -3,19 +3,19 @@ title: Office 365 ProPlus の更新プログラムに関するリリース情報
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/10/18
+ms.date: 7/12/18
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT プロフェッショナルに対して、最新リリースの Office 365 ProPlus の一覧をそれぞれの更新プログラム チャネルごとに、リリース ノートへのリンクと更新履歴を含めて提供します
-ms.openlocfilehash: d4a315cdb40d7cf60739fea14239f732d1f7d6a5
-ms.sourcegitcommit: 530b5f490b50d505920e9ec50d0528f368008565
+ms.openlocfilehash: 1ebca9f429fced94f9096ba8ffa00377ab9c93e9
+ms.sourcegitcommit: 752a269d6c047356b638bd8da669cfa646d3bc7b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/11/2018
-ms.locfileid: "20275753"
+ms.lasthandoff: 07/13/2018
+ms.locfileid: "20334407"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Office 365 ProPlus の更新プログラムに関するリリース情報
 
@@ -28,7 +28,7 @@ Office 365 ProPlus は、新機能、セキュリティ更新プログラム、�
 |:-----|:-----|:-----|:-----|:-----|
 |月次  <br/> |1806  <br/> |[10228.20104](monthly-channel-2018.md#version-1806-july-10)  <br/> | 2018 年 7 月 10 日  <br/> |バージョン 1807 がリリースされました <br/>|
 |半期 (対象指定)  <br/> |1803  <br/> |[9126.2259](semi-annual-channel-targeted-2018.md#version-1803-july-10)  <br/> | 2018 年 7 月 10 日  <br/> |2018 年 9 月 11 日 <br/>|
-|半期 <br/> |1803  <br/> | [9126.2259](semi-annual-channel-2018.md#version-1803-july-10) <br/> |2018 年 7 月 10 日  <br/> |2019 年 9 月 11 日 <br/>|
+|半期 <br/> |1803  <br/> | [9126.2259](semi-annual-channel-2018.md#version-1803-july-10) <br/> |2018 年 7 月 10 日  <br/> |2019 年 1 月 8 日 <br/>|
 |半期 (拡張) <br/> |1708  <br/> |[8431.2280](semi-annual-channel-2018.md#version-1708-july-10)  <br/> | 2018 年 7 月 10 日  <br/> |2019 年 3 月 12 日 <br/>|
 
 以前のリリースの Office 365 ProPlus から最新の現在のリリースへ更新する場合のおおよそのダウンロード サイズについて詳しくは、「[Office 365 ProPlus に対する更新プログラムのダウンロード サイズ](download-sizes-office365-proplus-updates.md)」をご覧ください。
