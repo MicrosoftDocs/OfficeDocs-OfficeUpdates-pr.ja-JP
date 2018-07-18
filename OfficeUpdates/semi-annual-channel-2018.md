@@ -3,19 +3,19 @@ title: 2018 年の半期チャネル リリースのリリース ノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/11/2018
+ms.date: 7/17/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2018 年の半期チャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 558af54e5e7111d8c240fcf9fac2862cbf9294b1
-ms.sourcegitcommit: bcd93b2785bc38ae1b065f2a721cd043cdd2357e
+ms.openlocfilehash: c986913ae1c92e6f8e5e8992c71484ef141fc976
+ms.sourcegitcommit: 8abc8240e5b4b922070ac9498ed5ac311732e4b2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 07/17/2018
-ms.locfileid: "20397970"
+ms.locfileid: "20435676"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>2018 年の半期チャネル リリースのリリース ノート
 
@@ -331,7 +331,7 @@ ms.locfileid: "20397970"
 ## <a name="version-1708-july-10"></a>バージョン 1708: 7 月 10 日
 *バージョン 1708 (ビルド 8431.2280)*
 
-* これは、2017 年 9 月から使用可能になった半期 (拡張) チャネル リリースです。これは、2019 年 3 月まで継続的にサポートされ、セキュリティ更新プログラムを受信します。ただし、新しい半期チャネル リリースが使用可能になりました — バージョン 1803 (ビルド 16.0.9126.2259) — これには、新しい機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムが含まれます。*
+*これは、2018 年 1 月から使用可能になった半期チャネル リリースです。これは、2019 年 3 月まで継続的にサポートされ、セキュリティ更新プログラムを受信します。ただし、新しい半期チャネル リリースが使用可能になりました — バージョン 1803 (ビルド 16.0.9126.2259) — これには、新しい機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムが含まれます。*
 
 ### <a name="access-security-updates"></a>Access: セキュリティ更新プログラム
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8312): Microsoft Access のリモート コード実行の Use After Free 脆弱性
