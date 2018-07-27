@@ -10,12 +10,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 永続的なバージョンの Outlook 2016、Outlook 2013、Outlook 2010 の最新の更新プログラムに関する情報へのリンクを IT 技術者に提供します
-ms.openlocfilehash: b57eb5dacff2e6934724fa6a05c0c76bae7fc894
-ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
+ms.openlocfilehash: a18e16114ac0c8865fc2b238a7c737076f4fd7fd
+ms.sourcegitcommit: 73ff6091f19a0ba409da0357b21bb8804d41385d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/10/2018
-ms.locfileid: "20246247"
+ms.lasthandoff: 07/26/2018
+ms.locfileid: "21222781"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Windows インストーラー (MSI) を使用しているバージョンの Outlook の最新の更新プログラム
 
@@ -33,11 +33,11 @@ Outlook の Office 365 およびご使用のオンプレミス環境との互換
     
 - Exchange のオンプレミス展開の場合、ご使用の Outlook バージョンのシステム要件に従います。
     
-  - [Exchange 2016 のシステム要件](https://technet.microsoft.com/ja-JP/library/aa996719.aspx)
+  - [Exchange 2016 のシステム要件](https://docs.microsoft.com/Exchange/plan-and-deploy/system-requirements)
     
   - [Exchange 2013 のシステム要件](https://technet.microsoft.com/ja-JP/library/aa996719%28v=exchg.150%29.aspx)
     
-  - [Exchange 2010 のシステム要件](https://technet.microsoft.com/ja-JP/library/aa996719%28v=exchg.141%29.aspx)
+  - [Exchange 2010 のシステム要件](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/aa996719(v=exchg.141))
 
    
 ## <a name="outlook-2016-updates"></a>Outlook 2016 更新プログラム
