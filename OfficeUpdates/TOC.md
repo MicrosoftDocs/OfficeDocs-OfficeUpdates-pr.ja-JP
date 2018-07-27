@@ -30,7 +30,7 @@
 # Office (永続版)
 ## [Office 更新プログラム (MSI)](office-updates-msi.md)
 ## [Outlook 更新プログラム (MSI)](outlook-updates-msi.md)
-## [Skype for Business 更新プログラム](https://technet.microsoft.com/office/dn788954.aspx)
+## [Skype for Business 更新プログラム](https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates)
 ## [Office 2016 の .msp ファイル](msp-files-office-2016.md)
 ## [Office 2013 の .msp ファイル](msp-files-office-2013.md)
 ## [Office 2013 の更新プログラム](update-history-office-2013.md)
@@ -40,7 +40,7 @@
 ## [Exchange Server 更新プログラム](https://technet.microsoft.com/library/hh135098(v=exchg.150).aspx)
 ## [Project Server の更新プログラム](project-server-updates.md)
 ## [SharePoint 更新プログラム](sharepoint-updates.md)
-## [Skype for Business Server 更新プログラム](https://technet.microsoft.com/office/dn788954.aspx)
+## [Skype for Business Server 更新プログラム](https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates)
 
 # 関連リンク
 ## [Windows 10 のリリース](https://www.microsoft.com/itpro/windows-10/release-information)
