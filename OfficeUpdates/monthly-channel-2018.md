@@ -3,19 +3,19 @@ title: 2018 年の毎月のチャネル リリースのリリース ノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/10/2018
+ms.date: 7/26/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2018 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 311d8aff93d50fe481b161361d451fd32d9e6b03
-ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
+ms.openlocfilehash: 17f6be9de2ca59d5f5ec596c9c99fb83a3f0ad5a
+ms.sourcegitcommit: 73ff6091f19a0ba409da0357b21bb8804d41385d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/10/2018
-ms.locfileid: "20246257"
+ms.lasthandoff: 07/26/2018
+ms.locfileid: "21222948"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018 年の毎月のチャネル リリースのリリース ノート
 
@@ -25,6 +25,26 @@ ms.locfileid: "20246257"
 > - また、Visio Pro for Office 365 および Project Online デスクトップ クライアントの新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムについても説明しています。
 > - ここに記載されている情報は、Business Premium など一部の Office 365 プランに付属する Office のバージョンの、Office 365 Business にも該当します。
  
+## <a name="version-1807-july-25"></a>バージョン 1807: 7 月 25 日
+*バージョン 1807 (ビルド 10325.20082)*
+
+### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
+- **Outlook アドインの警告:** Outlook COM アドインでは、Outlook の他の部分の速度を遅くする問題が発生する場合があります。これらの問題は、Outlook フォルダー間の切り替え、新規メールの受信、予定表アイテムを開くなどのイベントの遅延が原因の可能性があります。このような問題が発生した場合、Outlook では通知バーに警告が表示されます。
+- **Outlook のアラーム ダイアログから Teams 会議に参加する:** Outlook が今後の会議についてユーザーに通知する際、会議が Teams のオンライン会議の場合には、[オンラインで参加] ボタンが表示されます。これは、Outlook のアラート ダイアログから Skype for Business 会議に参加する場合に似ています。
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新
+ - **ハイパーリンクの色:** ハイパーリンクの色はもはや青だけではありません。好きなフォントと色を適用します。[詳細](https://support.office.com/article/988ed94c-82e9-4e2c-96a1-7ffd2c382ce8)
+
+### <a name="visio-feature-updates"></a>Visio: 機能の更新
+ - **Visio 図形から Word 文書を作成する:** 図形やメタデータなどのダイアグラム コンテンツを Word 文書に自動的に追加します。次にその文書をカスタマイズして、プロセス ガイドラインや操作マニュアルを作成します。[詳細](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+
+### <a name="word-feature-updates"></a>Word: 機能の更新
+ - **IRM の変更履歴の記録:** 自分が所有者ではない IRM 保護文書の Word で、変更履歴の記録機能を使用できるようになりました。
+
+### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
+ - 一部のユーザーが他の組織のユーザーと共有していた IRM 保護文書やメールを開くの妨げていた一連の問題が修正されました。
+
+
 ## <a name="version-1806-july-10"></a>バージョン 1806: 7 月 10 日
 *バージョン 1806 (ビルド 10228.20104)*
 

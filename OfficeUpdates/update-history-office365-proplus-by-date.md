@@ -3,19 +3,19 @@ title: Office 365 ProPlus の更新履歴 (日付別の一覧)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/17/2018
+ms.date: 7/25/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT プロフェッショナルに、日付ごとに整理した Office 365 ProPlus リリースすべての一覧を、リリース ノートへのリンクを含めて提供します
-ms.openlocfilehash: 93ca6b7ae685e87054c4f2dd9508a62d2a3670ce
-ms.sourcegitcommit: 8abc8240e5b4b922070ac9498ed5ac311732e4b2
+ms.openlocfilehash: 221a86c78a1777826a1e838d8dae150bcef6bb65
+ms.sourcegitcommit: 73ff6091f19a0ba409da0357b21bb8804d41385d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2018
-ms.locfileid: "20435666"
+ms.lasthandoff: 07/26/2018
+ms.locfileid: "21223209"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 ProPlus の更新履歴 (日付別の一覧)
 
@@ -32,7 +32,8 @@ ms.locfileid: "20435666"
 
 |**年**|**リリース日**|**月次チャネル**|**半期チャネル (対象指定)**|**半期チャネル**|
 |:-----|:-----|:-----|:-----|:-----|
-|2018|7 月 10 日   |[**バージョン 1806 (ビルド 10228.20104)**](monthly-channel-2018.md#version-1806-july-10) |[**バージョン 1803 (ビルド 9126.2259**)](semi-annual-channel-targeted-2018.md#version-1803-july-10)  |[**バージョン 1803 (ビルド 9126.2259)**](semi-annual-channel-2018.md#version-1803-july-10)  <br/>  [バージョン 1708 (ビルド 8431.2280)](semi-annual-channel-2018.md#version-1708-july-10)   |
+|2018|7 月 25 日   |[**バージョン 1807 (ビルド 10325.20082)**](monthly-channel-2018.md#version-1807-july-25) | | |
+|2018|7 月 10 日   |[バージョン 1806 (ビルド 10228.20104)](monthly-channel-2018.md#version-1806-july-10) |[バージョン 1803 (ビルド 9126.2259)](semi-annual-channel-targeted-2018.md#version-1803-july-10)  |[バージョン 1803 (ビルド 9126.2259)](semi-annual-channel-2018.md#version-1803-july-10)  <br/>  [バージョン 1708 (ビルド 8431.2280)](semi-annual-channel-2018.md#version-1708-july-10)   |
 ||6 月 25 日   |[バージョン 1806 (ビルド 10228.20080)](monthly-channel-2018.md#version-1806-june-25) |||
 ||6 月 13 日   |[バージョン 1805 (ビルド 9330.2124)](monthly-channel-2018.md#version-1805-june-13) |||
 ||6 月 12 日   |[バージョン 1805 (ビルド 9330.2118)](monthly-channel-2018.md#version-1805-june-12)  |[バージョン 1803 (ビルド 9126.2227)](semi-annual-channel-targeted-2018.md#version-1803-june-12)  |[バージョン 1708 (ビルド 8431.2270)](semi-annual-channel-2018.md#version-1708-june-12)  <br/>  [バージョン 1705 (ビルド 8201.2294)](semi-annual-channel-2018.md#version-1705-may-8)   |
