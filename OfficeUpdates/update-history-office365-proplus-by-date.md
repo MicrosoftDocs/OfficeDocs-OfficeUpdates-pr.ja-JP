@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT プロフェッショナルに、日付ごとに整理した Office 365 ProPlus リリースすべての一覧を、リリース ノートへのリンクを含めて提供します
-ms.openlocfilehash: 221a86c78a1777826a1e838d8dae150bcef6bb65
-ms.sourcegitcommit: 73ff6091f19a0ba409da0357b21bb8804d41385d
+ms.openlocfilehash: 408a4936d0e6da5710764cbc210647ea3d4ecb62
+ms.sourcegitcommit: 3a7c59901d43bbff19d1ee3e675c66d0412ab8f7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/26/2018
-ms.locfileid: "21223209"
+ms.lasthandoff: 08/02/2018
+ms.locfileid: "21772514"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 ProPlus の更新履歴 (日付別の一覧)
 
@@ -153,4 +153,6 @@ ms.locfileid: "21223209"
 - [Office 365 ProPlus の更新プログラムに関するリリース情報](release-notes-office365-proplus.md)
 - [Office 365 ProPlus の更新プログラムのダウンロード サイズ](download-sizes-office365-proplus-updates.md)
 
+
+メモ: Office の利用で問題がある場合は、[Microsoft の回答フォーラム] (https://answers.microsoft.com/) または [Tech Community] (https://techcommunity.microsoft.com/) に質問を投稿するか、[サポート] (https://support.microsoft.com/contactus) に問い合わせてサポートを受けることができます。
 

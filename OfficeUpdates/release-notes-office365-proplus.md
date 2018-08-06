@@ -3,19 +3,19 @@ title: Office 365 ProPlus の更新プログラムに関するリリース情報
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/12/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT プロフェッショナルに対して、最新リリースの Office 365 ProPlus の一覧をそれぞれの更新プログラム チャネルごとに、リリース ノートへのリンクと更新履歴を含めて提供します
-ms.openlocfilehash: 8845e3ba3eef05514b23e90ded0711749938f8c0
-ms.sourcegitcommit: bcd93b2785bc38ae1b065f2a721cd043cdd2357e
+ms.openlocfilehash: f407b9554688387f4ba085b66d7df6ae28e4dc95
+ms.sourcegitcommit: 3a7c59901d43bbff19d1ee3e675c66d0412ab8f7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2018
-ms.locfileid: "20397960"
+ms.lasthandoff: 08/02/2018
+ms.locfileid: "21772474"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Office 365 ProPlus の更新プログラムに関するリリース情報
 
@@ -26,7 +26,7 @@ Office 365 ProPlus は、新機能、セキュリティ更新プログラム、�
   
 |**チャネル**|**バージョン**|**ビルド**|**リリース日**|**現在のバージョンの期限**|
 |:-----|:-----|:-----|:-----|:-----|
-|月次  <br/> |1806  <br/> |[10228.20104](monthly-channel-2018.md#version-1806-july-10)  <br/> | 2018 年 7 月 10 日  <br/> |バージョン 1807 がリリースされました <br/>|
+|月次  <br/> |1807  <br/> |[10325.20082](monthly-channel-2018.md#version-1807-july-25)  <br/> | 2018 年 7 月 25 日  <br/> |バージョン 1808 がリリースされました <br/>|
 |半期 (対象指定)  <br/> |1803  <br/> |[9126.2259](semi-annual-channel-targeted-2018.md#version-1803-july-10)  <br/> | 2018 年 7 月 10 日  <br/> |2018 年 9 月 11 日 <br/>|
 |半期 <br/> |1803  <br/> | [9126.2259](semi-annual-channel-2018.md#version-1803-july-10) <br/> |2018 年 7 月 10 日  <br/> |2019 年 1 月 8 日 <br/>|
 |半期 <br/> |1708  <br/> |[8431.2280](semi-annual-channel-2018.md#version-1708-july-10)  <br/> | 2018 年 7 月 10 日  <br/> |2019 年 3 月 12 日 <br/>|
@@ -67,3 +67,5 @@ Office for Mac の更新プログラム (Office 365 ProPlus が含まれる Offi
 - [Office 365 のメッセージ センター](https://support.office.com/article/38fb3333-bfcc-4340-a37b-deda509c2093)
 - [Windows 10 のリリース情報](https://www.microsoft.com/itpro/windows-10/release-information)
 - [Microsoft セキュリティ更新ガイド](https://portal.msrc.microsoft.com/)
+
+メモ: Office の利用で問題がある場合は、[Microsoft の回答フォーラム] (https://answers.microsoft.com/) または [Tech Community] (https://techcommunity.microsoft.com/) に質問を投稿するか、[サポート] (https://support.microsoft.com/contactus) に問い合わせてサポートを受けることができます。

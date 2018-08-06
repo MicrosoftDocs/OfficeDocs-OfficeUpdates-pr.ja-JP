@@ -3,19 +3,19 @@ title: 2018 年の毎月のチャネル リリースのリリース ノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/26/2018
+ms.date: 8/2/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2018 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 17f6be9de2ca59d5f5ec596c9c99fb83a3f0ad5a
-ms.sourcegitcommit: 73ff6091f19a0ba409da0357b21bb8804d41385d
+ms.openlocfilehash: 2bd6b8cf73c544a1e1267af686c4b98e950a9ade
+ms.sourcegitcommit: 3a7c59901d43bbff19d1ee3e675c66d0412ab8f7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/26/2018
-ms.locfileid: "21222948"
+ms.lasthandoff: 08/02/2018
+ms.locfileid: "21772504"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018 年の毎月のチャネル リリースのリリース ノート
 
@@ -39,7 +39,7 @@ ms.locfileid: "21222948"
  - **Visio 図形から Word 文書を作成する:** 図形やメタデータなどのダイアグラム コンテンツを Word 文書に自動的に追加します。次にその文書をカスタマイズして、プロセス ガイドラインや操作マニュアルを作成します。[詳細](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
 
 ### <a name="word-feature-updates"></a>Word: 機能の更新
- - **IRM の変更履歴の記録:** 自分が所有者ではない IRM 保護文書の Word で、変更履歴の記録機能を使用できるようになりました。
+ - **IRM の変更履歴の記録:** IRM 保護文書の Word で、変更履歴の記録機能をフル コントロールの使用権限なしで使用できるようになりました。
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
  - 一部のユーザーが他の組織のユーザーと共有していた IRM 保護文書やメールを開くの妨げていた一連の問題が修正されました。
@@ -420,3 +420,5 @@ ms.locfileid: "21222948"
 
 ### <a name="project-non-security-updates"></a>Project: セキュリティ以外の更新プログラム
 -   VBA コードがプロジェクトから失われる問題を修正します。
+
+メモ: Office の利用で問題がある場合は、[Microsoft の回答フォーラム] (https://answers.microsoft.com/) または [Tech Community] (https://techcommunity.microsoft.com/) に質問を投稿するか、[サポート] (https://support.microsoft.com/contactus) に問い合わせてサポートを受けることができます。
