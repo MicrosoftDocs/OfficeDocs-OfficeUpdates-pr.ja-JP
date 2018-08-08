@@ -3,19 +3,19 @@ title: Office 365 ProPlus の更新プログラムのダウンロード サイ�
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/10/2018
+ms.date: 8/2/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 各チャネルの Office 365 ProPlus の更新プログラムのダウンロード サイズの概算に関する情報を IT 技術者に提供します
-ms.openlocfilehash: 595887039a9e93f1796c539fd7fcd235fda25056
-ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
+ms.openlocfilehash: 8ef3c924269c690e50766dc90caaa46a967879ba
+ms.sourcegitcommit: 3a7c59901d43bbff19d1ee3e675c66d0412ab8f7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/10/2018
-ms.locfileid: "20246287"
+ms.lasthandoff: 08/02/2018
+ms.locfileid: "21772494"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 ProPlus の更新プログラムのダウンロード サイズ
 
@@ -36,6 +36,17 @@ ms.locfileid: "20246287"
 > - 表には、一番最近のリリースのみが記載されています。それより前のリリースから更新する場合、ダウンロード サイズはさらに大きくなります。
 > - 半期チャネル (対象指定) から半期チャネルなどに、チャネルを切り替える場合には、更新プログラムのサイズは表に記載されているサイズよりもかなり大きくなります。全体をダウンロードすることになるので、少なくとも 1 GB になります。 
 
+  ## <a name="july-25-2018"></a>2018 年 7 月 25 日
+
+### <a name="monthly-channel"></a>毎月のチャネル
+
+最新のリリースはバージョン 1807 です (ビルド 10325.20082)。
+  
+|**アップグレード前のリリース **|**リリース日**|**ダウンロード サイズの概算 (MB)**|
+|:-----|:-----|:-----|
+|バージョン 1806 (ビルド 10228.20314)  <br/> |2018 年 7 月 17 日  <br/> |176  <br/> |
+|バージョン 1805 (ビルド 10228.20104)  <br/> |2018 年 7 月 10 日  <br/> |176  <br/> |
+
  ## <a name="july-10-2018"></a>2018 年 7 月 10 日
 
 ### <a name="monthly-channel"></a>毎月のチャネル
@@ -52,12 +63,12 @@ ms.locfileid: "20246287"
    
 ### <a name="semi-annual-channel"></a>半期チャネル
 
-最新のリリースはバージョン 1708 です (ビルド 9126.2259)。
+最新のリリースはバージョン 1803 です (ビルド 9126.2259)。
   
 |**アップグレード前のリリース **|**リリース日**|**ダウンロード サイズの概算 (MB)**|
 |:-----|:-----|:-----|
+|バージョン 1708 (ビルド 8431.2270)  <br/> |2018 年 6 月 12 日  <br/> |280  <br/> |
 |バージョン 1708 (ビルド 8431.2250)  <br/> |2018 年 5 月 8 日  <br/> |280  <br/> |
-|バージョン 1708 (ビルド 8431.2242)  <br/> |2018 年 4 月 10 日  <br/> |280  <br/> |
    
 ### <a name="semi-annual-channel-targeted"></a>半期チャネル (対象指定)
 
@@ -375,3 +386,4 @@ ms.locfileid: "20246287"
 - [Office 365 ProPlus の更新履歴 (日付別の一覧)](update-history-office365-proplus-by-date.md)
 - [Office 365 ProPlus の更新履歴 (バージョン別の一覧)](update-history-office365-proplus-by-version.md)
 
+メモ: Office の利用で問題がある場合は、[Microsoft の回答フォーラム] (https://answers.microsoft.com/) または [Tech Community] (https://techcommunity.microsoft.com/) に質問を投稿するか、[サポート] (https://support.microsoft.com/contactus) に問い合わせてサポートを受けることができます。
