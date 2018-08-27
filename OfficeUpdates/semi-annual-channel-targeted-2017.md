@@ -11,10 +11,10 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: IT プロフェッショナルのリリース ・ ノート半年チャネル (対象) のリリースの Office 365 用リソースの 2017年で
 ms.openlocfilehash: 6014107ae2471707d226602cc71efaa24f1de310
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/04/2018
+ms.lasthandoff: 08/27/2018
 ms.locfileid: "19556222"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2017"></a>2017 で半年チャネル (対象) のリリースのリリース ノート
@@ -22,8 +22,8 @@ ms.locfileid: "19556222"
 これらのリリース ・ ノートは、新機能、セキュリティ更新プログラム、および 2017年で Office 365 用リソースを半年チャネル (対象) の更新プログラムに含まれるセキュリティ以外の更新プログラムに関する情報を提供します。
  
 > [!NOTE]
-> - 次は、Office 365 とデスクトップ クライアントのオンライン プロジェクトも Visio Pro の新機能、セキュリティ更新プログラム、およびセキュリティ以外の更新に関する情報を提供します。
-> - この情報は、ビジネス ・ プレミアムなど、一部の Office 365 プランに付属している Office のバージョンは、Office 365 のビジネスにも適用されます。
+> - また、Visio Pro for Office 365 および Project Online デスクトップ クライアントの新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムについても説明しています。
+> - ここに記載されている情報は、Business Premium など一部の Office 365 プランに付属する Office のバージョンの、Office 365 Business にも該当します。
 > - 半年チャネル (対象) には、2017年 9 月の前に、延期のチャネルの最初のリリースは付きです。
 
 ## <a name="version-1708-december-12"></a>バージョン 1708: 12 月 12
@@ -158,7 +158,7 @@ ms.locfileid: "19556222"
 -   **ラベル名のプロパティ:** ラベルにフォームのコントロールを関連付けることで、アクセシビリティが向上します。
 -   **新しいアイテムの編集がより簡単に:** クイック ショートカット (Ctrl + E) キーを使用して、コンボ ボックスまたはリスト ボックスから新しいアイテムを編集できます。
 -   **動的コネクタ:** Microsoft Dynamics からデータをインポートしたり、Microsoft Dynamics に保存されているデータにリンクしたりします。[詳細情報](https://support.office.com/article/636079c1-9fc3-4fca-8410-6596d62223da)
--   **Salesforce コネクタ:** Salesforce からデータをインポートしたり、Salesforce に保存されているデータにリンクしたりします。 [詳細情報](https://support.office.com/article/7375ffb6-1d6a-46f1-bb0c-c6ac3c58f5a0)
+-   **Salesforce コネクタ:** Salesforce からデータをインポートしたり、Salesforce に保存されているデータにリンクしたりします。[詳細情報](https://support.office.com/article/7375ffb6-1d6a-46f1-bb0c-c6ac3c58f5a0)
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
 -   **"サンプルからの列の追加" の機能強化:** より多くの日付/時刻、数学、インデックス列の変換をサポートします。
@@ -172,8 +172,8 @@ ms.locfileid: "19556222"
 -   **共有ファイル アクティビティ:** ファイルの右上隅にある [アクティビティ] ボタンを選択し、OneDrive for Business や SharePoint で共有されているファイルを共有、編集、名前を変更、復元したタイミングを確認します。
 -   **安全なリンク:** ユーザーがリンクをクリックすると、Office 365 Advanced Threat Protection (ATP) によって、そのリンクが悪意のあるリンクかどうかを検査します。悪意のあるリンクと判断された場合は、ユーザーは元のターゲット URL ではなく警告ページにリダイレクトされます。 [詳細情報](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
 -   **データ インポートの拡張機能:** さまざまなソースからデータを簡単にインポートし整形します。[クエリと接続] 作業ウィンドウでブックのクエリと接続を管理し、ODC ファイル経由でクエリを他のユーザーと共有します。 [詳細情報](https://support.office.com/article/ad78befd-eb1c-4ea7-a55d-79d1d67cf9b3)
--   **共有ファイルの変更**: 共有ブックに変更を加えたユーザーを表示し、以前のバージョンを復元します。 [詳細情報](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
--   **ペン ボタンでなげなわ選択:** リボンにアクセスすることがなく、サポートされているデジタル ペン ボタンを使ってインクのなげなわ選択を行います。
+-   **共有ファイルの変更**: 共有ブックに変更を加えたユーザーを表示し、以前のバージョンを復元します。[詳細情報](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
+-   **ペン ボタンでなげなわ選択:** リボンにアクセスすることなく、サポートされているデジタル ペン ボタンを使ってインクのなげなわ選択を行います。
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
 -   [CVE-2017-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8501): Microsoft Office のメモリ破損の脆弱性
@@ -190,13 +190,13 @@ ms.locfileid: "19556222"
 -   フィルター エリアにフィールドがあるピボットテーブルがあり、他にはフィールドがない場合に、ワークシートに変更を加えることができない問題を修正します。
 
 ### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
--   **アクセシビリティ機能の向上:** スクリーン リーダーを使用しているときの、メールでのテキスト、表、リスト、画像の読み取りおよび編集が簡単になりました。
+-   **アクセシビリティの向上:** スクリーン リーダーを使用しているときの、メールでのテキスト、表、リスト、画像の読み取りおよび編集が簡単になりました。
 -   **新しいアカウントの構成:** 新しいウィザードによる新しいアカウントの設定では、手動の手順が少なくなりました。
 -   **リンクの添付ダイアログ:** リボンの [ファイルの添付] を使ってリンクを添付する場合、リンクとして追加するのか、添付ファイルとして追加するのかを選ぶことができます。このダイアログを毎回表示しないようにするには、[ファイル] \> [オプション] \> [全般] の順に移動して、[添付ファイルのオプション] でリンクの添付方法を指定します。
 -   **オンプレミスの添付ファイルのサポート:** オンプレミスの SharePoint Server からのファイルは最近使用したファイルとして [メッセージ] \> [添付ファイル] に表示され、オンプレミスの OneDrive for Business および SharePoint チーム サイトは [添付ファイル] \> [Web 上の場所を参照] に表示され、ローカル ファイルはオンプレミスの OneDrive for Business サイトにアップロードすることができます。
 -   **グループのビジネスの分類:**  グループを作成または編集するとき、テナント管理者によって定義されたビジネスの分類レベル (例: 社外秘) を割り当てることができ、その分類はグループ ヘッダーに表示されます。
 -   **Office 365 のグループへのゲスト アクセス:** 組織外のユーザーにグループ会話、ファイル、予定表への招待、グループ ノートブックへのアクセス権を付与し、共同作業を行います。 [詳細情報](https://support.office.com/article/bfc7a840-868f-4fd6-a390-f347bf51aff6)
--   **実践的なメッセージ:** 開発者は、ユーザーは外部の web サイトに切り替えるか、アプリケーション[の詳細](https://dev.office.com/blogs/create-more-engaging-conversations-with-new-actionable-messages-updates-announced-at-microsoft-build)を分離することがなく Outlook からの単純なまたはクイック アクションの右側に簡単にメッセージを作成できます。
+-   **操作可能なメッセージ:** 開発者は、ユーザーが外部の Web サイトまたは別のアプリに切り替えずに、Outlook から単純なアクションまたはクイック アクションを簡単に実行できるようにするメッセージを作成できます。[詳細情報](https://dev.office.com/blogs/create-more-engaging-conversations-with-new-actionable-messages-updates-announced-at-microsoft-build)
 
 ### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム
 -   [CVE-2017-8571](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8571): Microsoft Office Outlook のセキュリティ機能のバイパスの脆弱性
@@ -209,13 +209,13 @@ ms.locfileid: "19556222"
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新
 -   **オンライン画像の挿入:** 画像と属性情報を選択するための新しいランディング ページは、画像と一緒に自動で挿入されます。
--   **ビデオのクローズド キャプション:** アクセシビリティを高めるため、ビデオにクローズド キャプションを追加します。 [詳細情報](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
+-   **ビデオのクローズド キャプション:** アクセシビリティを高めるため、ビデオにクローズド キャプションを追加します。[詳細情報](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
 -   **レコーディングのナレーション:** プレゼンテーションをレコーディングするときに、自分のナレーションのビデオを含めることができます。レコーディングには、アニメーション、インク、オーディオ、ビデオを含めることができます。
 -   **共有ファイル アクティビティ:** ファイルの右上隅にある [アクティビティ] ボタンを選択し、OneDrive for Business や SharePoint で共有されているファイルを共有、編集、名前を変更、復元したタイミングを確認します。
 -   **代替テキストの作成:** クラウドベースのサービスによって、プレゼンテーションの画像に対して代替テキストが自動で生成されます。
 -   **安全なリンク:** ユーザーがリンクをクリックすると、Office 365 Advanced Threat Protection (ATP) によって、そのリンクが悪意のあるリンクかどうかを検査します。悪意のあるリンクと判断された場合は、ユーザーは元のターゲット URL ではなく警告ページにリダイレクトされます。 [詳細情報](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
 -   **デザイナーの機能強化:** アクション指向リストの本格的なデザイン アイデアを提案します。
--   **共有ファイルの変更:** 共有プレゼンテーションに変更を加えたユーザーを表示し、以前のバージョンを復元します。 [詳細情報](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
+-   **共有ファイルの変更:** 共有プレゼンテーションに変更を加えたユーザーを表示し、以前のバージョンを復元します。[詳細情報](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: セキュリティ更新プログラム
 -   [CVE-2017-8742](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8742): PowerPoint のリモート コード実行の脆弱性
@@ -306,7 +306,7 @@ ms.locfileid: "19556222"
 -   一部のユーザーについて、[描画] タブをクリックするとアプリケーションがクラッシュする問題を修正します。
 -   ヒントがあるコモン コントロールの上にカーソルを置くとアプリケーションがクラッシュする問題を修正します。
 -   コモン コントロールを使用する場合にライセンスのエラー メッセージが表示される問題を修正します。
--   一部のプログラム ファイルの署名において、ウイルス対策プログラムでこれらのファイルにフラグが設定されたり、Windows Information Protection (WIP) でのデータの保護およびアクセスに関して問題が発生したりするという問題の修正。
+-   一部のプログラム ファイルの署名において、ウイルス対策プログラムでこれらのファイルにフラグが設定されたり、Windows Information Protection (WIP) でのデータの保護およびアクセスに関して問題が発生したりするという問題を修正します。
 -   support.to を追加すると、Office の 64 ビット バージョンを使用しているユーザーが mscomctl.ocx コントロールを含むマクロ ファイルを開けるようになります。
 -   mscomctl.ocx で使用されているコントロールのアクセシビリティを向上させます。
 -   コマンドが、リボンまたはクイック アクセス ツール バーのカスタマイズ ダイアログに表示されない問題を修正します。
@@ -461,7 +461,7 @@ ms.locfileid: "19556222"
 -   **背景の削除:** 自由形式の描画ツールを使用して、画像の背景を削除します。
 -   **SVG 画像:** プレゼンテーションにスケーラブル ベクター グラフィックス (SVG) を挿入して編集します。 [詳細情報](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 -   **アイコンの挿入:** [挿入] \> [イラスト] \> [アイコン] の順に移動して、スケーラブル ベクター グラフィックス (SVG) ファイルの標準ライブラリのアイコンを使用します。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
--   **共同編集、リアルタイム入力:** 他のユーザーが作業しているプレゼンテーションとビューの変更に入力するときに参照してください。[詳細については](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
+-   **共同編集、リアルタイム入力:** 他のユーザーが作業しているプレゼンテーションとビューの変更に入力するときに参照してください。 [詳細情報](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **最近使用したフォルダーへの保存:** [ファイル] \> [名前を付けて保存] の順に移動し、[最近使った項目] タブを使用して、最近使用したフォルダーにプレゼンテーションを保存します。
 -   **正確なインク図形の作成:** セグメント消しゴムをドラッグして、線のぎりぎりまで余分なインクを削除します。
 -   **ペンを使ったオブジェクトの選択と操作:** デジタル ペンを使ってオブジェクト ハンドルをつかみ、オブジェクトの移動、サイズ変更、回転を行うか、サポートされているペン ボタンを使って、インクのなげなわ選択を行います。
@@ -789,7 +789,7 @@ ms.locfileid: "19556222"
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: 機能の更新
 -   **Windows の通知スタイル:** 着信と会話の通知の外観を変更します。 [詳細情報](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/New-Skype-for-Business-2016-on-Windows-Notifications-look-and/ba-p/39885)
--   **提案型の転送:** 呼び出しで IM またはそのユーザーに呼び出しを転送する前に呼び出しを使用して別のユーザーを参照してください。[詳細については](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
+-   **提案型の転送:** 呼び出しで IM またはそのユーザーに呼び出しを転送する前に呼び出しを使用して別のユーザーを参照してください。 [詳細情報](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
 -   **マイク通知:** オペレーティング システムでマイクがミュート状態の場合、またはマイクが音声を受信していない場合は、会話ウィンドウに通知を表示します。
 -   **[自分の番号] の無効化:** DisableDisplayMyNumber レジストリ エントリを使用して、ダイヤル パッドの下の “自分の番号” を無効にします。
 

@@ -11,10 +11,10 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 2015 で毎月チャネルのリリース ・ ノートでの IT プロフェッショナルが Office 365 用リソースの解放を提供します。
 ms.openlocfilehash: 0b235ba177dd2378cbb953315e2ead6b692ed52b
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/04/2018
+ms.lasthandoff: 08/27/2018
 ms.locfileid: "19556218"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2015"></a>2015 で毎月チャネルのリリースのリリース ノート
@@ -22,8 +22,8 @@ ms.locfileid: "19556218"
 これらのリリース ・ ノートは、新機能、セキュリティ更新プログラム、および 2015年で Office 365 用リソースを月のチャネルの更新プログラムに含まれるセキュリティ以外の更新プログラムに関する情報を提供します。
  
 > [!NOTE]
-> - 次は、Office 365 とデスクトップ クライアントのオンライン プロジェクトも Visio Pro の新機能、セキュリティ更新プログラム、およびセキュリティ以外の更新に関する情報を提供します。
-> - この情報は、ビジネス ・ プレミアムなど、一部の Office 365 プランに付属している Office のバージョンは、Office 365 のビジネスにも適用されます。
+> - また、Visio Pro for Office 365 および Project Online デスクトップ クライアントの新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムについても説明しています。
+> - ここに記載されている情報は、Business Premium など一部の Office 365 プランに付属する Office のバージョンの、Office 365 Business にも該当します。
 > - 毎月チャネルでは、2017年 9 月の前に現在のチャネルを付きです。
 
 ## <a name="version-1511-december-11"></a>バージョン 1511: 12 月 11 日
@@ -55,7 +55,7 @@ ms.locfileid: "19556218"
 -   **変形の移行:** スライド間のシームレスな移行を生み出し、プレゼンテーションにモーションを表示して概念や情報をより効果的に伝えます。 [詳細情報](https://support.office.com/article/8dd1c7b2-b935-44f5-a74c-741d8d9244ea)
 -   **PowerPoint デザイナー:** ユーザーのコンテンツを取得し、さまざまなアイデアを自動的に生成できる新しいサービス。ユーザーはそこからアイデアを選択して、スライドの出来栄えをより良いものにできます。 [詳細情報](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-    このサービスには、インターネット接続が必要です。[最新のグループ ポリシーの管理用テンプレート ファイルを使用して](https://www.microsoft.com/download/details.aspx?id=49030)、この機能を無効にし、PowerPoint のデザイナーのオプションの設定を有効にします。[ユーザーの構成には、このポリシー設定を検索することができます\\管理用テンプレート\\Microsoft Office 2016年\\ツール |オプション |全般 |サービス オプション.\\PowerPoint のデザイナーです。
+    このサービスには、インターネット接続が必要です。 [最新のグループ ポリシーの管理用テンプレート ファイルを使用して](https://www.microsoft.com/download/details.aspx?id=49030)、この機能を無効にし、PowerPoint のデザイナーのオプションの設定を有効にします。 このポリシー設定は、ユーザー構成\\管理用テンプレート\\Microsoft Office 2016\\ツール | オプション | 全般 | サービス オプション…\\PowerPoint デザイナーにあります。
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: セキュリティ以外の更新プログラム
 -   発表者ツールのスライド ショー ビューにアニメーションを含む SmartArt が想定されている順番で表示されないという問題の修正。
@@ -69,7 +69,7 @@ ms.locfileid: "19556218"
 
 ### <a name="office-suite-feature-updates"></a>Office スイート: 機能の更新
 -   **送信形式オプション**: Word または PowerPoint で、[共有] ウィンドウから添付ファイルまたは PDF のいずれかとしてドキュメントを送信します。
--   **図の挿入 API**: 共通の office.js ライブラリ内の[document.setSelectedDataAsync メソッド](https://msdn.microsoft.com/library/office/fp142145.aspx)を使用して、Word、Excel、または PowerPoint にイメージを挿入します。単語の JavaScript API では、[本文](https://msdn.microsoft.com/library/office/mt598674.aspx)、 [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx)、[段落](https://msdn.microsoft.com/library/office/mt598682.aspx)、および Range オブジェクトのインライン画像を設定するのには insertInlinePictureFromBase64() と呼ばれるホスト固有のメソッドを提供します。
+-   **図の挿入 API**: 共通の office.js ライブラリ内の[document.setSelectedDataAsync メソッド](https://msdn.microsoft.com/library/office/fp142145.aspx)を使用して、Word、Excel、または PowerPoint にイメージを挿入します。 単語の JavaScript API では、[本文](https://msdn.microsoft.com/library/office/mt598674.aspx)、 [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx)、[段落](https://msdn.microsoft.com/library/office/mt598682.aspx)、および Range オブジェクトのインライン画像を設定するのには insertInlinePictureFromBase64() と呼ばれるホスト固有のメソッドを提供します。
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 -   [開く] または [名前を付けて保存] を行うときに表示される更新日時の情報が一部見えないという問題の修正。

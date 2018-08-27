@@ -11,10 +11,10 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 提供 IT プロフェッショナルのリリース ・ ノートを半年チャネル (対象) のリリースの Office 365 用リソースの 2015年で
 ms.openlocfilehash: 4b6eb5b96fddc57d8a1f64adfaeb10166d541c42
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/04/2018
+ms.lasthandoff: 08/27/2018
 ms.locfileid: "19556248"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2015"></a>2015 で半年チャネル (対象) のリリースのリリース ノート
@@ -22,8 +22,8 @@ ms.locfileid: "19556248"
 これらのリリース ・ ノートは、新機能、セキュリティ更新プログラム、および 2015年で Office 365 用リソースを半年チャネル (対象) の更新プログラムに含まれるセキュリティ以外の更新プログラムに関する情報を提供します。
  
 > [!NOTE]
-> - 次は、Office 365 とデスクトップ クライアントのオンライン プロジェクトも Visio Pro の新機能、セキュリティ更新プログラム、およびセキュリティ以外の更新に関する情報を提供します。
-> - この情報は、ビジネス ・ プレミアムなど、一部の Office 365 プランに付属している Office のバージョンは、Office 365 のビジネスにも適用されます。
+> - また、Visio Pro for Office 365 および Project Online デスクトップ クライアントの新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムについても説明しています。
+> - ここに記載されている情報は、Business Premium など一部の Office 365 プランに付属する Office のバージョンの、Office 365 Business にも該当します。
 > - 半年チャネル (対象) には、2017年 9 月の前に、延期のチャネルの最初のリリースは付きです。
 
 

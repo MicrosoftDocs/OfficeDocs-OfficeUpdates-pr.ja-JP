@@ -11,10 +11,10 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 2016 の月のチャネルのリリース ・ ノートでの IT プロフェッショナルが Office 365 用リソースの解放を提供します。
 ms.openlocfilehash: 7a5f8b13f06fc236cedc50d394d361dc1d797dfd
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/04/2018
+ms.lasthandoff: 08/27/2018
 ms.locfileid: "19556214"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2016"></a>2016 の毎月のチャネルのリリースのリリース ノート
@@ -22,8 +22,8 @@ ms.locfileid: "19556214"
 これらのリリース ・ ノートは、新機能、セキュリティ更新プログラム、および 2016年の Office 365 用リソースを月のチャネルの更新プログラムに含まれるセキュリティ以外の更新プログラムに関する情報を提供します。
  
 > [!NOTE]
-> - 次は、Office 365 とデスクトップ クライアントのオンライン プロジェクトも Visio Pro の新機能、セキュリティ更新プログラム、およびセキュリティ以外の更新に関する情報を提供します。
-> - この情報は、ビジネス ・ プレミアムなど、一部の Office 365 プランに付属している Office のバージョンは、Office 365 のビジネスにも適用されます。
+> - また、Visio Pro for Office 365 および Project Online デスクトップ クライアントの新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムについても説明しています。
+> - ここに記載されている情報は、Business Premium など一部の Office 365 プランに付属する Office のバージョンの、Office 365 Business にも該当します。
 > - 毎月チャネルでは、2017年 9 月の前に現在のチャネルを付きです。
 
 ## <a name="version-1611-december-13"></a>バージョン 1611: 12 月 13 日
@@ -60,7 +60,7 @@ ms.locfileid: "19556214"
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新
 -   **SVG 画像:** プレゼンテーションにスケーラブル ベクター グラフィックス (SVG) を挿入して編集します。 [詳細情報](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 -   **アイコンの挿入:** [挿入] \> [イラスト] \> [アイコン] の順に移動して、スケーラブル ベクター グラフィックス (SVG) ファイルの標準ライブラリのアイコンを使用します。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
--   **共同編集、リアルタイム入力:** 他のユーザーが作業しているプレゼンテーションとビューの変更に入力するときに参照してください。[詳細については](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
+-   **共同編集、リアルタイム入力:** 他のユーザーが作業しているプレゼンテーションとビューの変更に入力するときに参照してください。 [詳細情報](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **最近使用したフォルダーへの保存:** [ファイル] \> [名前を付けて保存] の順に移動し、[最近使った項目] タブを使用して、最近使用したフォルダーにプレゼンテーションを保存します。
 -   **正確なインク図形の作成:** セグメント消しゴムをドラッグして、線のぎりぎりまで余分なインクを削除します。
 -   **ペンを使ったオブジェクトの選択と操作:** デジタル ペンを使ってオブジェクト ハンドルをつかみ、オブジェクトの移動、サイズ変更、回転を行うか、サポートされているペン ボタンを使って、インクのなげなわ選択を行います。
@@ -205,7 +205,7 @@ ms.locfileid: "19556214"
 -   マイクロソフト セキュリティ情報 [MS16-133](https://technet.microsoft.com/library/security/ms16-133): Microsoft Office のセキュリティ更新プログラム (3199168)
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS16-133](https://technet.microsoft.com/library/security/ms16-133): Microsoft Office のセキュリティ更新プログラム (3199168)
+-   マイクロソフト セキュリティ情報[MS16 133](https://technet.microsoft.com/library/security/ms16-133): Microsoft Office (3199168) のセキュリティ更新プログラム
 
 
 
@@ -279,7 +279,7 @@ ms.locfileid: "19556214"
 -   タグを検索しているときに、テキスト行の複数のタグのうち最初のタグだけが [タグの要約] パネルに表示される問題を修正します。
 
 ### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
--   **\@紹介:** 受信者を含めることで、入力や操作に尋ねられています、知っている、電子メールや予定表アイテムの本文に人の名前の後に @。行にこれも自動的に追加されます。[詳細については](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
+-   **\@紹介:** 受信者を含めることで、入力や操作に尋ねられています、知っている、電子メールや予定表アイテムの本文に人の名前の後に @。 これにより、それらの人は To 行にも自動的に追加されます。 [詳細情報](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
 
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
 -   カスタマイズしたひな形を既定のテーマとして使用すると、余分な改行が新しいメール メッセージに追加され、フォントが Calibri に設定される問題を修正します。
@@ -632,7 +632,7 @@ ms.locfileid: "19556214"
 *バージョン 1605 (ビルド 6965.2053)*
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
--   **を得るし、改善点を変換:** 新規または強化されたデータの変換と電源のクエリ データ接続の機能です。[詳細については](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
+-   **を得るし、改善点を変換:** 新規または強化されたデータの変換と電源のクエリ データ接続の機能です。 [詳細情報](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
 -   [データの入力規則] ドロップダウン リストが破損し、複数のワークシートを含むブックで複製されるという問題の修正。
@@ -643,7 +643,7 @@ ms.locfileid: "19556214"
 ### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
 -   **簡略化されたプロファイルの作成:** Office 365 アカウントを使ってログインした状態で、Office 365 メールボックスの他の Outlook プロファイルを設定するためのユーザー インターフェイス (UI) の操作が簡略化されました。
 
-    注: この機能はされていました期間内にサブスクライバーでは、ので、この機能はすぐ表示されません。この機能が表示されるときのタイミングは、組織が Office を更新する方法によっても異なります。
+    注意: この機能はある期間にわたって段階的にサブスクライバーにロールアウトされるため、この機能がすぐに表示されない可能性があります。この機能が表示されるタイミングは、組織が Office を更新する方法によっても異なります。
 
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
 -   .rtf 形式の電子メールを送信するときに、拡張記号文字が "1" に変更されるという問題の修正。
@@ -671,7 +671,7 @@ ms.locfileid: "19556214"
 -   **コラボレーション機能がリボン上でグループ化:** 共有、チャット、コメント、ドキュメントのアクティビティ、現在ドキュメントを編集している人などの機能が、Word と PowerPoint のリボン上でグループ化されました。 [詳細情報](https://blogs.office.com/2016/04/26/new-to-office-365-in-april-skype-for-business-mac-preview-bringing-collaboration-to-the-forefront-in-office-and-more/)
 -   **AD RMS 権利ポリシー テンプレートの設定:** 新しい Word、Excel、PowerPoint ドキュメントに適用する際に、[所有者 (作成者) に無期限のフル コントロールの権利を付与します] の設定が (特にこの設定を無効にする場合) 優先されるようにします。この設定を無効にする場合、テンプレートを適用するとドキュメントへのアクセスが制限される可能性があることを示す警告が表示されます。
 
-    注: この設定を構成したテンプレートを使用して既に保護されている既存のドキュメントは変更されません。所有者がまだフル コントロール] と [期限なしでこれらのドキュメントです。
+    注意: この設定が構成されているテンプレートを使用して既に保護されている既存のドキュメントは、変更されません。引き続き所有者が、これらのドキュメントに対する無期限のフル コントロールを持ちます。
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 -   Office 365 ProPlus など、Office 2013 バージョンの Office 365 クライアントから Office 2016 バージョンへの Microsoft によるアップグレードの前に、一部の Office 2013 のライセンスとプログラムのインストール情報が削除される原因となった、キャッシュの問題の修正。
@@ -839,7 +839,7 @@ ms.locfileid: "19556214"
 
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
 -   POP3 を使用するよう構成されている場合に、Outlook がメール メッセージをダウンロードした後、サーバー上のすべてのメール メッセージが受信トレイから削除されるという問題の修正。 [この問題についての詳細情報](https://support.microsoft.com/kb/3145116)
--   問題を修正するでは、POP3 を使用するように構成するとメールのメッセージは何度でもダウンロード、重複が発生します。[この問題の詳細について](https://support.microsoft.com/kb/3145116)
+-   問題を修正するでは、POP3 を使用するように構成するとメールのメッセージは何度でもダウンロード、重複が発生します。 [この問題についての詳細情報](https://support.microsoft.com/kb/3145116)
 
 
 

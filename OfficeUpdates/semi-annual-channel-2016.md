@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 2016 の半年のチャネルのリリース ・ ノートでの IT プロフェッショナルが Office 365 用リソースの解放を提供します。
 ms.openlocfilehash: b70dda115d271a4ec0779c4b99927275dae7969d
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/04/2018
+ms.lasthandoff: 08/27/2018
 ms.locfileid: "19556224"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2016"></a>2016 の半年のチャネルのリリースのリリース ノート
 
 これらのリリース ・ ノートは、新機能、セキュリティ更新プログラム、および 2016年の Office 365 用リソースを半年のチャネルの更新プログラムに含まれるセキュリティ以外の更新プログラムに関する情報を提供します。 
 > [!NOTE]
-> - 次は、Office 365 とデスクトップ クライアントのオンライン プロジェクトも Visio Pro の新機能、セキュリティ更新プログラム、およびセキュリティ以外の更新に関する情報を提供します。
-> - この情報は、ビジネス ・ プレミアムなど、一部の Office 365 プランに付属している Office のバージョンは、Office 365 のビジネスにも適用されます。
-> - 半年チャネルでは、2018年 1 月の前にチャネルを延期を付きです。
+> - また、Visio Pro for Office 365 および Project Online デスクトップ クライアントの新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムについても説明しています。
+> - ここに記載されている情報は、Business Premium など一部の Office 365 プランに付属する Office のバージョンの、Office 365 Business にも該当します。
+> - 2018 年 1 月以前は、半期チャネルは Deferred Channel という名称でした。
 
 
 ## <a name="version-1605-december-13"></a>バージョン 1605: 12 月 13 日
@@ -64,7 +64,7 @@ ms.locfileid: "19556224"
 -   ユーザーが Exchange Online に移行した後、会話の履歴、連絡先、またはボイス メールの情報を取得するために Exchange に接続できない問題を修正します。
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS16-133](https://technet.microsoft.com/library/security/ms16-133): Microsoft Office のセキュリティ更新プログラム (3199168)
+-   マイクロソフト セキュリティ情報[MS16 133](https://technet.microsoft.com/library/security/ms16-133): Microsoft Office (3199168) のセキュリティ更新プログラム
 
 
 
@@ -77,7 +77,7 @@ ms.locfileid: "19556224"
 -   マイクロソフト セキュリティ情報 [MS16-133](https://technet.microsoft.com/library/security/ms16-133): Microsoft Office のセキュリティ更新プログラム (3199168)
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS16-133](https://technet.microsoft.com/library/security/ms16-133): Microsoft Office のセキュリティ更新プログラム (3199168)
+-   マイクロソフト セキュリティ情報[MS16 133](https://technet.microsoft.com/library/security/ms16-133): Microsoft Office (3199168) のセキュリティ更新プログラム
 
 
 
@@ -89,7 +89,7 @@ ms.locfileid: "19556224"
 -   数値データ型のフィールド サイズのドロップダウンに値が表示されないため、テーブルの作成や変更の際にユーザーが数値フィールドの種類を指定できない問題を修正します。
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
--   **を得るし、改善点を変換:** 新規または強化されたデータの変換と電源のクエリ データ接続の機能です。[詳細については](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
+-   **を得るし、改善点を変換:** 新規または強化されたデータの変換と電源のクエリ データ接続の機能です。 [詳細情報](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **追加のデータ接続:** JSON と Azure SQL データ ウェアハウス ソースからのデータのクエリを実行します。
 -   **Power Query の機能強化:** データ変換とデータ接続の機能が強化され新しくなりました。 [詳細情報](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **ラージ アドレス認識サポート:** 使用可能な場合、32 ビット バージョンの Excel ではより多くのメモリを使うことができます。 [詳細情報](https://support.microsoft.com/kb/3160741)
@@ -220,7 +220,7 @@ ms.locfileid: "19556224"
 -   **AD RMS 権利ポリシー テンプレートの設定:** 新しい Word、Excel、PowerPoint ドキュメントに適用する際に、[所有者 (作成者) に無期限のフル コントロールの権利を付与します] の設定が (特にこの設定を無効にする場合) 優先されるようにします。この設定を無効にする場合、テンプレートを適用するとドキュメントへのアクセスが制限される可能性があることを示す警告が表示されます。
  
 
-    注: この設定を構成したテンプレートを使用して既に保護されている既存のドキュメントは変更されません。所有者がまだフル コントロール] と [期限なしでこれらのドキュメントです。
+    注意: この設定が構成されているテンプレートを使用して既に保護されている既存のドキュメントは、変更されません。引き続き所有者が、これらのドキュメントに対する無期限のフル コントロールを持ちます。
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
 -   マイクロソフト セキュリティ情報 [MS16-054](https://technet.microsoft.com/library/security/ms16-054): Microsoft Office のセキュリティ更新プログラム (3155544)
@@ -451,7 +451,7 @@ ms.locfileid: "19556224"
 -   ハイ コントラスト モードで [差出人] ドロップダウン内のアイテムが完全には強調表示されない問題を修正します。
 -   Shift キーを押しながらクリックして複数の添付ファイルを選択した場合に最初の添付ファイルのみが選択される問題を修正します。
 -   POP3 を使用するよう構成されている場合に、Outlook がメール メッセージをダウンロードした後、サーバー上のすべてのメール メッセージが受信トレイから削除されるという問題の修正。 [この問題についての詳細情報](https://support.microsoft.com/kb/3145116)
--   問題を修正するでは、POP3 を使用するように構成するとメールのメッセージは何度でもダウンロード、重複が発生します。[この問題の詳細について](https://support.microsoft.com/kb/3145116)
+-   問題を修正するでは、POP3 を使用するように構成するとメールのメッセージは何度でもダウンロード、重複が発生します。 [この問題についての詳細情報](https://support.microsoft.com/kb/3145116)
 -   ユーザーが Exchange Server 2010 でホストされているパブリック フォルダーにアクセスできないという問題を修正。
 -   高 DPI デバイスと通常の DPI のモニター間でメール送信を行う場合、イメージが間違ったサイズで表示されるという問題の修正。
 -   メッセージ一覧でスクロール バーをドラッグすると、一覧の末尾にジャンプするという問題の修正。
@@ -465,7 +465,7 @@ ms.locfileid: "19556224"
 -   **変形の移行:** スライド間のシームレスな移行を生み出し、プレゼンテーションにモーションを表示して概念や情報をより効果的に伝えます。 [詳細情報](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **PowerPoint デザイナー:** ユーザーのコンテンツを取得し、さまざまなアイデアを自動的に生成できる新しいサービス。ユーザーはそこからアイデアを選択して、スライドの出来栄えをより良いものにできます。 [詳細情報](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-    このサービスには、インターネット接続が必要です。[最新のグループ ポリシーの管理用テンプレート ファイルを使用して](https://www.microsoft.com/download/details.aspx?id=49030)、この機能を無効にし、PowerPoint のデザイナーのオプションの設定を有効にします。[ユーザーの構成には、このポリシー設定を検索することができます\\管理用テンプレート\\Microsoft Office 2016年\\ツール |オプション |全般 |サービス オプション.\\PowerPoint のデザイナーです。
+    このサービスには、インターネット接続が必要です。 [最新のグループ ポリシーの管理用テンプレート ファイルを使用して](https://www.microsoft.com/download/details.aspx?id=49030)、この機能を無効にし、PowerPoint のデザイナーのオプションの設定を有効にします。 このポリシー設定は、ユーザー構成\\管理用テンプレート\\Microsoft Office 2016\\ツール | オプション | 全般 | サービス オプション…\\PowerPoint デザイナーにあります。
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: セキュリティ更新プログラム
 -   マイクロソフト セキュリティ情報 [MS15-116](https://technet.microsoft.com/library/security/ms15-116): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3104540)
@@ -582,7 +582,7 @@ ms.locfileid: "19556224"
 -   **[ファイル] \> [開く] の並べ替え機能:** Outlook 以外のすべてのアプリでは、[ファイル] \> [開く] で、変更された名前または日付で並べ替えできるようになりました。Word、Excel、PowerPoint の場合、並べ替え機能は、[ファイル] \> [名前を付けて保存] でも使用できるようになりました。
 -   **[ファイル] \> [名前を付けて保存] のフォルダー参照機能:** Word、Excel、PowerPoint の [ファイル] \> [名前を付けて保存] は、OneDrive フォルダー、OneDrive for Business フォルダー、この PC で、完璧なフォルダーのナビゲーションを提供します。
 -   **[送信形式] オプション:** Word または PowerPoint で、[共有] ウィンドウから添付ファイルまたは PDF のいずれかとしてドキュメントを送信します。
--   **API の画像を挿入します**。共通の office.js ライブラリ内の[document.setSelectedDataAsync メソッド](https://msdn.microsoft.com/library/office/fp142145.aspx)を使用して、Word、Excel、または PowerPoint に画像を挿入します。単語の JavaScript API では、[本文](https://msdn.microsoft.com/library/office/mt598674.aspx)、 [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx)、[段落](https://msdn.microsoft.com/library/office/mt598682.aspx)、および Range オブジェクトのインライン画像を設定するのには insertInlinePictureFromBase64() と呼ばれるホスト固有のメソッドを提供します。
+-   **画像 API の挿入:** 共通 office.js ライブラリの [document.setSelectedDataAsync メソッド](https://msdn.microsoft.com/library/office/fp142145.aspx)を使用して、Word、Excel、PowerPoint に画像を挿入します。Word JavaScript API には、insertInlinePictureFromBase64() と呼ばれるホスト固有のメソッドが用意され、 [本文](https://msdn.microsoft.com/library/office/mt598674.aspx)、 [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx)、 [段落](https://msdn.microsoft.com/library/office/mt598682.aspx)、および 範囲 の各オブジェクトにインライン画像を設定できます。
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
 -   マイクロソフト セキュリティ情報 [MS15-081](https://technet.microsoft.com/library/security/ms15-081): Microsoft Office の脆弱性により、リモートでコードが実行される (3080790)

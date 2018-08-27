@@ -11,10 +11,10 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 2017 で毎月チャネルのリリース ・ ノートでの IT プロフェッショナルが Office 365 用リソースの解放を提供します。
 ms.openlocfilehash: 51e8d963e0e7ed2780be29f882b8c92abc1e5179
-ms.sourcegitcommit: 752a269d6c047356b638bd8da669cfa646d3bc7b
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/13/2018
+ms.lasthandoff: 08/27/2018
 ms.locfileid: "20334447"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>2017 で毎月チャネルのリリースのリリース ノート
@@ -291,7 +291,7 @@ ms.locfileid: "20334447"
 -   **"サンプルからの列の追加" の機能強化:** より多くの日付/時刻、数学、インデックス列の変換をサポートします。
 -   **パフォーマンスの強化:** Excel は複雑なブックを複数のシートで速く開くので、複雑な数式を高速処理したり、多くの行をフィルター処理したり、すばやくコピー/貼り付けすることができます。 
 -   **ファイル共有 UI:** OneDrive for Business または SharePoint のファイルの場合、リボンの右上隅にある [共有] ボタンをクリック、または [ファイル] \> [共有] の順に移動することにより、簡略化され改良された [共有] ダイアログが起動されます。新規のファイル、またはローカルに保存されたファイルの場合、この UI によって、ユーザーはファイルを OneDrive に簡単にアップロードし、共同作業を開始できます。
--   **危険な拡張子をブロックする:** リスクは高いと見なされ、OLE パッケージ オブジェクトとして埋め込まれている拡張機能は、既定でアクティブにするからブロックされます。やなどの .exe、.vbs、.js。[詳細を表示](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
+-   **危険な拡張子をブロック:** リスクが高いとみなされ、OLE パッケージ オブジェクトとして埋め込まれている拡張子は、既定ではアクティブ化されないようにブロックされています。たとえば、.exe、.vbs、.js などがこれに該当します。[詳細情報](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
 -   Word からタブ区切りのテキストをコピーして貼り付けるときにタブが無視され、テキストが列に解析されない問題を修正します。
@@ -306,7 +306,7 @@ ms.locfileid: "20334447"
 -   **3D モデル:** 3D を使用して、プレゼンテーションを、より視覚的かつ独創的なものにすることができます。スライド間で映画のようなアニメーションを生み出す画面切り替え効果を生かして、3D モデルをプレゼンテーションで活用しましょう。 [詳細情報](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **新しいインク効果:** メタリック ペンを使用し、ゴールド、シルバーあるいは虹、銀河、溶岩、海などを連想させる色などのインクの効果を活用して、アイデアの表現の幅を広めましょう。
 -   **ファイル共有 UI:** OneDrive for Business または SharePoint のファイルの場合、リボンの右上隅にある [共有] ボタンをクリック、または [ファイル] \> [共有] の順に移動することにより、簡略化され改良された [共有] ダイアログが起動されます。新規のファイル、またはローカルに保存されたファイルの場合、この UI によって、ユーザーはファイルを OneDrive に簡単にアップロードし、共同作業を開始できます。
--   **危険な拡張子をブロックする:** リスクは高いと見なされ、OLE パッケージ オブジェクトとして埋め込まれている拡張機能は、既定でアクティブにするからブロックされます。やなどの .exe、.vbs、.js。[詳細を表示](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
+-   **危険な拡張子をブロック:** リスクが高いとみなされ、OLE パッケージ オブジェクトとして埋め込まれている拡張子は、既定ではアクティブ化されないようにブロックされています。たとえば、.exe、.vbs、.js などがこれに該当します。[詳細情報](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="project-feature-updates"></a>Project: 機能の更新
 -   **Planner でのタスクの管理:** Planner にプロジェクト タスクをリンクし、計画を作成します。タスクをサブタスクに分割し、チームを追加し、タスクを割り当て、タスク ボード上で作業を管理する
@@ -320,7 +320,7 @@ ms.locfileid: "20334447"
 -   状態フィールドがサマリー タスクに対して常に正しく計算されない問題を修正します。
 
 ### <a name="publisher-feature-updates"></a>Publisher: 機能の更新
--   **危険な拡張子をブロックする:** リスクは高いと見なされ、OLE パッケージ オブジェクトとして埋め込まれている拡張機能は、既定でアクティブにするからブロックされます。やなどの .exe、.vbs、.js。[詳細を表示](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
+-   **危険な拡張子をブロック:** リスクが高いとみなされ、OLE パッケージ オブジェクトとして埋め込まれている拡張子は、既定ではアクティブ化されないようにブロックされています。たとえば、.exe、.vbs、.js などがこれに該当します。[詳細情報](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: セキュリティ以外の更新プログラム
 -   特定のポートがブロックされているか、IP がホワイトリストに登録されていない場合に、ユーザーが会議に参加できない理由を説明するダイアログを追加します。
@@ -334,13 +334,13 @@ ms.locfileid: "20334447"
 -   IM の会話で、共有を停止する前に共有通知が消去される問題を修正します。
 
 ### <a name="visio-feature-updates"></a>Visio: 機能の更新
--   **危険な拡張子をブロックする:** リスクは高いと見なされ、OLE パッケージ オブジェクトとして埋め込まれている拡張機能は、既定でアクティブにするからブロックされます。やなどの .exe、.vbs、.js。[詳細を表示](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
+-   **危険な拡張子をブロック:** リスクが高いとみなされ、OLE パッケージ オブジェクトとして埋め込まれている拡張子は、既定ではアクティブ化されないようにブロックされています。たとえば、.exe、.vbs、.js などがこれに該当します。[詳細情報](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="word-feature-updates"></a>Word: 機能の更新
 -   **3D モデル:** 3D を使用して、ドキュメントを、より視覚的かつ独創的なものにすることができます。3D モデルの挿入も簡単で、360 度回転させることができます。 [詳細情報](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **新しいインク効果:** メタリック ペンを使用し、ゴールド、シルバーあるいは虹、銀河、溶岩、海などを連想させる色などのインクの効果を活用して、アイデアの表現の幅を広めましょう。
 -   **ファイル共有 UI:** OneDrive for Business または SharePoint のファイルの場合、リボンの右上隅にある [共有] ボタンをクリック、または [ファイル] \> [共有] の順に移動することにより、簡略化され改良された [共有] ダイアログが起動されます。新規のファイル、またはローカルに保存されたファイルの場合、この UI によって、ユーザーはファイルを OneDrive に簡単にアップロードし、共同作業を開始できます。
--   **危険な拡張子をブロックする:** リスクは高いと見なされ、OLE パッケージ オブジェクトとして埋め込まれている拡張機能は、既定でアクティブにするからブロックされます。やなどの .exe、.vbs、.js。[詳細を表示](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
+-   **危険な拡張子をブロック:** リスクが高いとみなされ、OLE パッケージ オブジェクトとして埋め込まれている拡張子は、既定ではアクティブ化されないようにブロックされています。たとえば、.exe、.vbs、.js などがこれに該当します。[詳細情報](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 -   新機能ダイアログが表示されない問題の修正。
@@ -451,7 +451,7 @@ ms.locfileid: "20334447"
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
 -   **共同編集:** ブック内で他のユーザーと同時に作業します。 [詳細情報](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
--   **自動保存:**、クラウドに格納されているブックの変更が自動的に保存し、秒単位で他のユーザーの更新を表示できます。[詳細については](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)
+-   **自動保存:**、クラウドに格納されているブックの変更が自動的に保存し、秒単位で他のユーザーの更新を表示できます。 [詳細情報](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)
 -   **アクセシビリティを向上させるのに役に立つサウンド:** 音声キューを有効にすると、作業中に操作を指示してもらうことができます。[ファイル] \> [オプション] \> [簡単操作] の順に選択すると見つかります。アドインは必要ありません。 [詳細情報](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
 -   **アカウントごとのファイルの場所:** ファイルを開くときや保存する場合、場所のリストは、その場所に関連付けられたアカウントによって整理されます。
 
@@ -939,7 +939,7 @@ ms.locfileid: "20334447"
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: 機能の更新
 -   **Windows の通知スタイル:** 着信と会話の通知の外観を変更します。 [詳細情報](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/New-Skype-for-Business-2016-on-Windows-Notifications-look-and/ba-p/39885)
--   **提案型の転送:** 呼び出しで IM またはそのユーザーに呼び出しを転送する前に呼び出しを使用して別のユーザーを参照してください。[詳細については](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
+-   **提案型の転送:** 呼び出しで IM またはそのユーザーに呼び出しを転送する前に呼び出しを使用して別のユーザーを参照してください。 [詳細情報](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
 -   **マイク通知:** オペレーティング システムでマイクがミュート状態の場合、またはマイクが音声を受信していない場合は、会話ウィンドウに通知を表示します。
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: セキュリティ以外の更新プログラム
