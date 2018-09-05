@@ -3,26 +3,26 @@ title: Office 2013 の更新履歴
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 7/10/2018
+ms.date: 8/14/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: クイック実行を使用する永続的なバージョンの Office 2013 の更新履歴を IT 技術者に提供します。
-ms.openlocfilehash: dbb60a87c099c03bf0a92b0dbc93b8042b9821c2
-ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
+ms.openlocfilehash: fefb08e29c345c609b704585ebadfd978650416c
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/10/2018
-ms.locfileid: "20246427"
+ms.lasthandoff: 08/27/2018
+ms.locfileid: "23520539"
 ---
 # <a name="update-history-for-office-2013"></a>Office 2013 の更新履歴
 
 ほとんどの Office 2013 製品は、クイック実行というテクノロジを使用して自動的に最新の状態に維持されます。最新の状態にあることを検証するには、Office のバージョン番号を確認し、必要に応じて手動で更新します。
   
 > [!NOTE]
-> 最新バージョンの Office 2013 は、2018 年 7 月 10 日にリリースされた **15.0.5049.1000** です。 
+> Office 2013 の最新バージョンは、 2018 年 8 月 14 日にリリースされた **15.0.5059.1000** です。 
   
 Office のバージョンを確認するには、以下のことを行います。
   
@@ -46,14 +46,15 @@ Office のバージョンを確認するには、以下のことを行います�
   
 |**リリース年**|**リリース日**|**バージョン番号**|**詳細情報**|
 |:-----|:-----|:-----|:-----|
-|2018 |7 月 10 日   |15.0.5049.1000   |[KB 4340798](https://support.microsoft.com/ja-JP/help/4340798)  |
-||6 月 12 日   |15.0.5041.1001   |[KB 4299875](https://support.microsoft.com/ja-JP/help/4299875)  |
-||5 月 8 日   |15.0.5031.1000   |[KB 4133083](https://support.microsoft.com/ja-JP/help/4133083)  |
-||4 月 10 日   |15.0.5023.1000   |[KB 4098622](https://support.microsoft.com/ja-JP/help/4098622)  |
-||3 月 13 日   |15.0.5015.1000   |[KB 4090988](https://support.microsoft.com/ja-JP/help/4090988)  |
+|2018 年 |8 月 14 日   |15.0.5059.1000   |[KB 4346823](https://support.microsoft.com/en-us/help/4346823)  |
+||7 月 10 日   |15.0.5049.1000   |[KB 4340798](https://support.microsoft.com/en-us/help/4340798)  |
+||6 月 12 日   |15.0.5041.1001   |[KB 4299875](https://support.microsoft.com/en-us/help/4299875)  |
+||5 月 8 日   |15.0.5031.1000   |[KB 4133083](https://support.microsoft.com/en-us/help/4133083)  |
+||4 月 10 日   |15.0.5023.1000   |[KB 4098622](https://support.microsoft.com/en-us/help/4098622)  |
+||3 月 13 日   |15.0.5015.1000   |[KB 4090988](https://support.microsoft.com/en-us/help/4090988)  |
 ||2 月 13 日   |15.0.5007.1000   |[KB 4077965](https://support.microsoft.com/help/4077965)  |
 ||1 月 9 日   |15.0.4997.1000   |[KB 4058103](https://support.microsoft.com/help/4058103)  |
-|2017   |12 月 12 日   |15.0.4989.1000   |[KB 4055454](https://support.microsoft.com/help/4055454)  |
+|2017 年   |12 月 12 日   |15.0.4989.1000   |[KB 4055454](https://support.microsoft.com/help/4055454)  |
 ||11 月 14 日   |15.0.4981.1001   |[KB 4051890](https://support.microsoft.com/help/4051890)  |
 ||10 月 10 日   |15.0.4971.1002   |[KB 4043461](https://support.microsoft.com/help/4043461)  |
 ||9 月 12 日   |15.0.4963.1002   |[KB 4040279](https://support.microsoft.com/help/4040279)  |
@@ -64,8 +65,8 @@ Office のバージョンを確認するには、以下のことを行います�
 ||4 月 11 日   |15.0.4919.1002   |[KB 4016803](https://support.microsoft.com/help/4016803)  |
 ||3 月 14 日   |15.0.4911.1002   |[KB 4013886](https://support.microsoft.com/help/4013886)  |
 ||2 月 22 日   |15.0.4903.1002   |[KB 4010765](https://support.microsoft.com/help/4010765)  |
-||1 月 10 日   |15.0.4893.1002   |[KB 3214449](https://support.microsoft.com/ja-JP/kb/3214449)  |
-|2016   |12 月 13 日   |15.0.4885.1001   |[KB 3208595](https://support.microsoft.com/ja-JP/kb/3208595)  |
+||1 月 10 日   |15.0.4893.1002   |[KB 3214449](https://support.microsoft.com/en-us/kb/3214449)  |
+|2016 年   |12 月 13 日   |15.0.4885.1001   |[KB 3208595](https://support.microsoft.com/en-us/kb/3208595)  |
 ||11 月 8 日   |15.0.4875.1001   |[KB 3200802](https://support.microsoft.com/kb/3200802)  |
 ||10 月 11 日   |15.0.4867.1003   |[KB 3194160](https://support.microsoft.com/kb/3194160)  |
 ||9 月 13 日   |15.0.4859.1002   |[KB 3188548](https://support.microsoft.com/kb/3188548)  |
@@ -80,7 +81,7 @@ Office のバージョンを確認するには、以下のことを行います�
 ||2 月 17 日   |15.0.4797.1003   |このバージョンでは、ウィンドウをスクロールしたり、テキストをコピーして貼り付けたりすると、Word、Excel、Outlook などの Office アプリがフリーズしたり、処理速度が著しく低下したりする問題を修正します。   |
 ||2 月 9 日   |15.0.4797.1002   |[KB 3137471](https://support.microsoft.com/kb/3137471)  |
 ||1 月 12 日   |15.0.4787.1002   |[KB 3131245](https://support.microsoft.com/kb/3131245)  |
-|2015   |12 月 8 日   |15.0.4779.1002   |[KB 3121650](https://support.microsoft.com/kb/3121650)  |
+|2015 年   |12 月 8 日   |15.0.4779.1002   |[KB 3121650](https://support.microsoft.com/kb/3121650)  |
 ||11 月 24 日   |15.0.4771.1004   |このバージョンでは、Outlook のクラッシュを修正します。   |
 ||11 月 10 日   |15.0.4771.1003   |[KB 3108456](https://support.microsoft.com/kb/3108456)  |
 ||10 月 13 日   |15.0.4763.1003   |[KB 3099951](https://support.microsoft.com/kb/3099951)  |
@@ -92,7 +93,7 @@ Office のバージョンを確認するには、以下のことを行います�
 ||4 月 14 日   |15.0.4711.1003   |[KB 3050766](https://support.microsoft.com/kb/3050766)  |
 ||3 月 10 日   |15.0.4701.1002   |[KB 3040794](https://support.microsoft.com/kb/3040794)  |
 ||2 月 10 日   |15.0.4693.1002   |[KB 3032763](https://support.microsoft.com/kb/3032763)  |
-|2014   |12 月 9 日   |15.0.4675.1002   |[KB 3020812](https://support.microsoft.com/kb/3020812)  |
+|2014 年   |12 月 9 日   |15.0.4675.1002   |[KB 3020812](https://support.microsoft.com/kb/3020812)  |
 ||11 月 11 日   |15.0.4667.1002   |[KB 3012392](https://support.microsoft.com/kb/3012392)  |
 ||10 月 14 日   |15.0.4659.1001   |[KB 3003800](https://support.microsoft.com/kb/3003800)  |
 ||9 月 16 日   |15.0.4649.1003   |[KB 2889931](https://support.microsoft.com/kb/2889931)  |
@@ -107,7 +108,7 @@ Office のバージョンを確認するには、以下のことを行います�
 ||3 月 11 日   |15.0.4569.1508   |[KB 2937335](https://support.microsoft.com/kb/2937335)  |
 ||2 月 25 日   |15.0.4569.1507   |[KB 2817430](https://support.microsoft.com/kb/2817430) (Service Pack 1)   |
 ||1 月 14 日   |15.0.4551.1512   |[KB 2923177](https://support.microsoft.com/kb/2923177)  |
-|2013   |12 月 10 日   |15.0.4551.1011   |[KB 2916204](https://support.microsoft.com/kb/2916204)  |
+|2013 年   |12 月 10 日   |15.0.4551.1011   |[KB 2916204](https://support.microsoft.com/kb/2916204)  |
 ||11 月 12 日   |15.0.4551.1005   |[KB 2908105](https://support.microsoft.com/kb/2908105)  |
 ||10 月 8 日   |15.0.4535.1511   |[KB 2892139](https://support.microsoft.com/kb/2892139)  |
 ||9 月 10 日   |15.0.4535.1004   |[KB 2884129](https://support.microsoft.com/kb/2884129)  |
