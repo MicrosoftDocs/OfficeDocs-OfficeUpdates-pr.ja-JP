@@ -3,19 +3,19 @@ title: Office 365 ProPlus の更新プログラムに関するリリース情報
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/14/18
+ms.date: 9/5/18
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT プロフェッショナルに対して、最新リリースの Office 365 ProPlus の一覧をそれぞれの更新プログラム チャネルごとに、リリース ノートへのリンクと更新履歴を含めて提供します
-ms.openlocfilehash: b583775238a3ce42debbc35daaf56964532ae276
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: 034f9eda427a72c0aad3020cf511b11a40fcc899
+ms.sourcegitcommit: fa4c6a1da115d4003b0d0f6a2d0fa1805e7829c6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520579"
+ms.lasthandoff: 09/06/2018
+ms.locfileid: "23839225"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Office 365 ProPlus の更新プログラムに関するリリース情報
 
@@ -26,6 +26,7 @@ Office 365 ProPlus は、新機能、セキュリティ更新プログラム、�
   
 |**チャネル**|**バージョン**|**ビルド**|**リリース日**|**バージョンのサポート期限**|
 |:-----|:-----|:-----|:-----|:-----|
+|月次  <br/> |1808  <br/> |[10730.20088](monthly-channel-2018.md#version-1808-september-5)  <br/> | 2018 年 9 月 5 日  <br/> |バージョン 1809 がリリースされました <br/>|
 |月次  <br/> |1807  <br/> |[10325.20118](monthly-channel-2018.md#version-1807-august-14)  <br/> | 2018 年 8 月 14 日  <br/> | バージョン 1808 がリリースされました <br/>|
 |半期 (対象指定)  <br/> |1803  <br/> |[9126.2275](semi-annual-channel-targeted-2018.md#version-1803-august-14)  <br/> | 2018 年 8 月 14 日  <br/> | 2018 年 9 月 11 日 <br/>|
 |半期 <br/> |1803  <br/> | [9126.2275](semi-annual-channel-2018.md#version-1803-august-14) <br/> | 2018 年 8 月 14 日  <br/> | 2019 年 9 月 10 日 <br/>|
@@ -69,4 +70,4 @@ Office for Mac の更新プログラム (Office 365 ProPlus が含まれる Offi
 - [Microsoft のセキュリティ更新ガイド](https://portal.msrc.microsoft.com/)
 
 > [!NOTE]
-> Office の使用に関する問題についてヘルプが必要な場合は、[[マイクロソフトの回答のフォーラム](https://answers.microsoft.com/)] または [[Tech Community](https://techcommunity.microsoft.com/)] に質問を投稿するか、[[サポート](https://support.microsoft.com/contactus)] に問い合わせてサポートを受けることができます。
+> Office の使用に関する問題についてヘルプが必要な場合は、[[マイクロソフトの回答フォーラム](https://answers.microsoft.com/)] または [[Tech Community](https://techcommunity.microsoft.com/)] に質問を投稿するか、[[サポート](https://support.microsoft.com/contactus)] に問い合わせることができます。

@@ -3,19 +3,19 @@ title: Office 365 ProPlus の更新履歴 (日付別の一覧)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/15/2018
+ms.date: 9/5/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT プロフェッショナルに、日付ごとに整理した Office 365 ProPlus リリースすべての一覧を、リリース ノートへのリンクを含めて提供します
-ms.openlocfilehash: 010cfa211dd4d7059222b3e3f12daa5a9af7f42b
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: 02c3c000930ee25a98f1a96c0bb27ad12b639bae
+ms.sourcegitcommit: fa4c6a1da115d4003b0d0f6a2d0fa1805e7829c6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520679"
+ms.lasthandoff: 09/06/2018
+ms.locfileid: "23839205"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 ProPlus の更新履歴 (日付別の一覧)
 
@@ -28,11 +28,14 @@ ms.locfileid: "23520679"
 > - 太字のバージョン番号とビルド番号は、その更新プログラム チャネルの最新のバージョン番号とビルド番号を示します。
 > - 更新プログラム チャネルの詳細については、「[Office 365 ProPlus 更新プログラム チャネルの概要](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)」を参照してください。
 
-  
+
 
 |**年**|**リリース日**|**月次チャネル**|**半期チャネル (対象指定)**|**半期チャネル**|
 |:-----|:-----|:-----|:-----|:-----|
-|2018 年|8 月 14 日   |**[バージョン 1807 (ビルド 10325.20118)](monthly-channel-2018.md#version-1807-august-14)** |**[バージョン 1803 (ビルド 9126.2275)](semi-annual-channel-targeted-2018.md#version-1803-august-14)**  |**[バージョン 1803 (ビルド 9126.2275)](semi-annual-channel-2018.md#version-1803-august-14)**  <br/>  [バージョン 1708 (ビルド 8431.2299)](semi-annual-channel-2018.md#version-1708-august-14)   |
+|2018|9 月 5 日   |[**バージョン 1808 (ビルド 10730.20088)**](monthly-channel-2018.md#version-1808-september-5) | | |
+||7 月 25 日   |[バージョン 1807 (ビルド 10325.20082)](monthly-channel-2018.md#version-1807-july-25) | | |
+|2018|7 月 10 日   |[バージョン 1806 (ビルド 10228.20104)](monthly-channel-2018.md#version-1806-july-10) |[バージョン 1803 (ビルド 9126.2259)](semi-annual-channel-targeted-2018.md#version-1803-july-10)  |[バージョン 1803 (ビルド 9126.2259)](semi-annual-channel-2018.md#version-1803-july-10)  <br/>  [バージョン 1708 (ビルド 8431.2280)](semi-annual-channel-2018.md#version-1708-july-10)   |
+|2018|8 月 14 日   |**[バージョン 1807 (ビルド 10325.20118)](monthly-channel-2018.md#version-1807-august-14)** |**[バージョン 1803 (ビルド 9126.2275)](semi-annual-channel-targeted-2018.md#version-1803-august-14)**  |**[バージョン 1803 (ビルド 9126.2275)](semi-annual-channel-2018.md#version-1803-august-14)**  <br/>  [バージョン 1708 (ビルド 8431.2299)](semi-annual-channel-2018.md#version-1708-august-14)   |
 ||7 月 25 日   |[バージョン 1807 (ビルド 10325.20082)](monthly-channel-2018.md#version-1807-july-25) | | |
 ||7 月 17 日   |[バージョン 1806 (ビルド 10228.20134)](monthly-channel-2018.md#version-1806-july-17) | | |
 ||7 月 10 日   |[バージョン 1806 (ビルド 10228.20104)](monthly-channel-2018.md#version-1806-july-10) |[バージョン 1803 (ビルド 9126.2259)](semi-annual-channel-targeted-2018.md#version-1803-july-10)  |[バージョン 1803 (ビルド 9126.2259)](semi-annual-channel-2018.md#version-1803-july-10)  <br/>  [バージョン 1708 (ビルド 8431.2280)](semi-annual-channel-2018.md#version-1708-july-10)   |
@@ -156,5 +159,5 @@ ms.locfileid: "23520679"
 - [Office 365 ProPlus の更新プログラムのダウンロード サイズ](download-sizes-office365-proplus-updates.md)
 
 > [!NOTE]
-> Office の使用に関する問題についてヘルプが必要な場合は、[[マイクロソフトの回答フォーラム](https://answers.microsoft.com/)] または [[Tech Community](https://techcommunity.microsoft.com/)] に質問を投稿するか、[[サポート](https://support.microsoft.com/contactus)] に問い合わせてサポートを受けることができます。
+> Office の使用に関する問題についてヘルプが必要な場合は、[[マイクロソフトの回答フォーラム](https://answers.microsoft.com/)] または [[Tech Community](https://techcommunity.microsoft.com/)] に質問を投稿するか、[[サポート](https://support.microsoft.com/contactus)] に問い合わせることができます。
 

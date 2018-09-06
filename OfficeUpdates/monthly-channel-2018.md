@@ -3,27 +3,57 @@ title: 2018 年の毎月のチャネル リリースのリリース ノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/15/2018
+ms.date: 9/5/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2018 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 34a789416bbd4f6ac436842d7d6ebb45a249a732
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: d4ec019cd46b154156dfc78e1aa4b9eb321a2913
+ms.sourcegitcommit: fa4c6a1da115d4003b0d0f6a2d0fa1805e7829c6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520689"
+ms.lasthandoff: 09/06/2018
+ms.locfileid: "23839215"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018 年の毎月のチャネル リリースのリリース ノート
 
 これらのリリース ノートでは、Office 365 ProPlus 用の 2018 年の毎月のチャネルの更新プログラムに含まれる新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムに関する情報を提供しています。
  
-> [!NOTE]
+ > [!NOTE]
 > - また、Visio Pro for Office 365 および Project Online デスクトップ クライアントの新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムについても説明しています。
 > - ここに記載されている情報は、Business Premium など一部の Office 365 プランに付属する Office のバージョンの、Office 365 Business にも該当します。
+
+## <a name="version-1808-september-5"></a>バージョン 1808:  9 月 5 日
+*バージョン 1808 (ビルド 10730.20088)*
+
+### <a name="access-feature-updates"></a>Access: 機能の更新
+ - **最新の情報に更新、再リンク、またはリンク テーブルを削除する** 更新されたリンク済みテーブル マネージャーは、すべてのデータ ソースとリンクしたテーブルを管理するための場所です。 [詳細情報](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
+
+### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
+ - **会議の転送をオフにする** 出席者が他のユーザーに会議を転送できないようにします。 リボンに移動し、[応答] オプションをクリックするだけです。 [詳細情報](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F)
+ 
+### <a name="visio-feature-updates"></a>Visio: 機能の更新
+ - **次に作成するダイアグラムでアイコンの使用を楽しむ** 分析、アート、お祝い、人の顔、スポーツなどのアイコンが使える 26 個の新しいステンシルから選択できます。 
+ - **Visio の図形から Word 文書を作成する** 図形やメタデータなどのダイアグラムの内容を Word 文書に自動的に追加します。 次にその文書をカスタマイズして、プロセス ガイドラインと操作マニュアルを作成します。 [詳細情報](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+ - **Visio と Power BI による相乗効果** 数回クリックするだけで、Visio のダイアグラムを変換して Power BI 上で対話型で視覚エフェクトを使用できるようにします。 [詳細情報](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
+
+ ### <a name="project-feature-updates"></a>Project: 機能の更新
+ - **タスク ボードのカードに関する詳細な情報を表示する** タイトルだけでは内容が不明な場合、タスク ボードのカードをカスタマイズして、最も重要な詳細情報をすべて表示できます。 [詳細情報](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
+
+### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
+- ユーザーがコピーするために選択した、点線で囲まれたセル範囲が消えず、貼り付けなど、ユーザーがその後操作を行った後でもクリップボードに残るという Excel での問題を修正します。 
+
+### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
+ - 発生する問題の原因となった、[詳細を表示する] リンクが、複数の Exchange アカウントが設定されている一部のユーザーの検索結果リストに表示されないという問題に対応します。
+
+### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
+ - 特定のシナリオで更新プログラムのインストールが長くかかる原因となった問題を修正します。
+ 
+### <a name="lync-non-security-updates"></a>Lync: セキュリティ以外の更新プログラム
+ - IM メッセージに絵文字が表示されないという問題を修正します。 
+
 
 ## <a name="version-1807-august-14"></a>バージョン 1807: 8 月 14 日
 *バージョン 1807 (ビルド 10325.20118)*
@@ -37,7 +67,7 @@ ms.locfileid: "23520689"
 -   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): Microsoft Excel の情報漏えいの脆弱性 
 
 ### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム
--   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021): Microsoft Office 多層防御の更新プログラム 
+-   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021):  Microsoft Office 多層防御の更新プログラム 
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
 -   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378): Microsoft Office の情報漏えいの脆弱性 
@@ -84,12 +114,12 @@ ms.locfileid: "23520689"
 *バージョン 1806 (ビルド 10228.20080)*
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
- - **セルおよび数式バーの編集の強化:** Ctrl + A を押して、セルまたは数式バーのテキストを選択できるようになりました。絵文字とその他の複雑な文字のサポートも強化されました。
+ - **セルおよび数式バーの編集の強化:** Ctrl + A を押して、セルまたは数式バーのテキストを選択できるようになりました。 絵文字とその他の複雑な文字のサポートも強化されました。[詳細を表示](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
  - **SVG サポートの強化:** フィルターが適用された SVG を挿入できます。[詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
  - **定期的なアイテムの既定値:** [定期的な予定の設定] ダイアログ ボックスの [期間] の下で、[終了日] は既定の設定 ([終了日未定] ではない) で、示されている最初の設定であり、既定の終了日が設定されています。
- - **アクセシビリティ チェックの改善:** アクセシビリティ チェックで、メッセージのアクセシビリティを向上させるための国際標準と推奨事項のサポートが更新されました。
+ - **アクセシビリティ チェックの改善:** アクセシビリティ チェックで、メッセージのアクセシビリティを向上させるための国際標準と推奨事項のサポートが更新されました。 [詳細情報](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新
  - **SVG サポートの強化:** フィルターが適用された SVG を挿入できます。[詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
@@ -153,7 +183,7 @@ ms.locfileid: "23520689"
  - **新しいグラフを使用したデータの視覚化:** 11 種類のグラフから選択してフォームやレポートに追加することにより、データが見やすくなり、十分な情報に基づいて決定を下すことができます。[詳細情報](https://support.office.com/article/1a463106-65d0-4dbb-9d66-4ecb737ea7f7)
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
- - **編集するときに共同編集者とチャットします:** Excel を終了せずに共同編集者とチャットすることで、より効果的な共同作業ができます。 一部の地域ではこの機能が使用できないことにご注意ください。[詳細を見る](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
+ - **編集中に共同編集者とチャットする:** Excel を終了せずに共同編集者とチャットすることで、より効果的な共同作業ができます。 一部の地域ではこの機能が使用できないことにご注意ください。[詳細を見る](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
 
 ### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
  - **ハンズ フリー入力:** 自分の声で口述するだけでメールを作成します。タイピングは必要ありません。[詳細情報](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
@@ -212,7 +242,7 @@ ms.locfileid: "23520689"
 
 ### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
 -   **メールの読み上げ:** 読み上げているテキストを強調表示しながら、Outlook がメールを読み上げます。[詳細情報](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
--   **アラームの見落とし防止:** 作業中のウィンドウ上にアラームがポップアップ表示されるように設定できます。それ以外の場合は、Outlook のタスクバーが点滅し、ユーザーの注意を引きます。
+-   **アラームの見落とし防止:** 作業中のウィンドウ上にアラームがポップアップ表示されるように設定できます。 それ以外の場合は、Outlook のタスクバーが点滅し、ユーザーの注意を引きます。[詳細情報](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 -   **削除済みアイテムを開封済みに:** 削除したメッセージすべてを開封済みとして設定できるようになりました。[ファイル] \> [オプション] \> [メール] \> [その他] の順に移動して、オプトインします。
 -   **暗号化オプション:** Office 365 Message Encryption ユーザーは、メッセージを暗号化して、組織内外の任意のユーザーに送信できます。暗号化オプションは、メッセージ作成時に [オプション] \> [アクセス許可] に表示されます。 [詳細情報](https://aka.ms/omeoverview)
 
