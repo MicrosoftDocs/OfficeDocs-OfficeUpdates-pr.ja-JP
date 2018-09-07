@@ -3,19 +3,19 @@ title: Office 365 ProPlus の更新プログラムのダウンロード サイ�
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/5/2018
+ms.date: 9/6/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 各チャネルの Office 365 ProPlus の更新プログラムのダウンロード サイズの概算に関する情報を IT 技術者に提供します
-ms.openlocfilehash: f77d49e65138e26f9dac827a04d64d8800312551
-ms.sourcegitcommit: fa4c6a1da115d4003b0d0f6a2d0fa1805e7829c6
+ms.openlocfilehash: dcd67d8313f05a51c041799cd3a3c642334e98d8
+ms.sourcegitcommit: 54d6714d1475760fbdc61dff43d252883dfbf505
 ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/06/2018
-ms.locfileid: "23839195"
+ms.locfileid: "23848385"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 ProPlus の更新プログラムのダウンロード サイズ
 
@@ -38,17 +38,18 @@ ms.locfileid: "23839195"
 
   ## <a name="september-5-2018"></a>2018 年 9 月 5 日
 
-### <a name="monthly-channel"></a>毎月のチャネル
+### <a name="monthly-channel"></a>月次チャネル
 
 最新のリリースはバージョン 1808 です (ビルド 10730.20088)。
   
 |**アップグレード前のリリース**|**リリース日**|**ダウンロード サイズの概算 (MB)**|
 |:-----|:-----|:-----|
-|バージョン 1807 (ビルド 10325.20082)  <br/> |2018 年 7 月 25 日  <br/> |237  <br/> |
 |バージョン 1807 (ビルド 10325.20118)  <br/> |2018 年 8 月 14 日  <br/> |231  <br/> |
+|バージョン 1807 (ビルド 10325.20082)  <br/> |2018 年 7 月 25 日  <br/> |237  <br/> |
+
   ## <a name="august-14-2018"></a>2018 年 8 月 14 日
 
-### <a name="monthly-channel"></a>毎月のチャネル
+### <a name="monthly-channel"></a>月次チャネル
 
 最新のリリースはバージョン 1807 です (ビルド 10325.20118)。
   
@@ -79,7 +80,7 @@ ms.locfileid: "23839195"
 
   ## <a name="july-25-2018"></a>2018 年 7 月 25 日
 
-### <a name="monthly-channel"></a>毎月のチャネル
+### <a name="monthly-channel"></a>月次チャネル
 
 最新のリリースはバージョン 1807 です (ビルド 10325.20082)。
   
@@ -90,7 +91,7 @@ ms.locfileid: "23839195"
 
  ## <a name="july-10-2018"></a>2018 年 7 月 10 日
 
-### <a name="monthly-channel"></a>毎月のチャネル
+### <a name="monthly-channel"></a>月次チャネル
 
 最新のリリースはバージョン 1806 です (ビルド 10228.20104)。
   
@@ -120,7 +121,7 @@ ms.locfileid: "23839195"
 
 ## <a name="june-25-2018"></a>2018 年 6 月 25 日
 
-### <a name="monthly-channel"></a>毎月のチャネル
+### <a name="monthly-channel"></a>月次チャネル
 
 最新のリリースはバージョン 1806 です (ビルド 10228.20080)。
   
@@ -132,7 +133,7 @@ ms.locfileid: "23839195"
    
 ## <a name="june-13-2018"></a>2018 年 6 月 13 日
 
-### <a name="monthly-channel"></a>毎月のチャネル
+### <a name="monthly-channel"></a>月次チャネル
 
 最新のリリースはバージョン 1805 (ビルド 9330.2118) です。
   
@@ -145,7 +146,7 @@ ms.locfileid: "23839195"
    
 ## <a name="june-12-2018"></a>2018 年 6 月 12 日
 
-### <a name="monthly-channel"></a>毎月のチャネル
+### <a name="monthly-channel"></a>月次チャネル
 
 最新のリリースはバージョン 1805 (ビルド 9330.2118) です。
   
@@ -185,7 +186,7 @@ ms.locfileid: "23839195"
 
 ## <a name="may-24-2018"></a>2018 年 5 月 24 日
 
-### <a name="monthly-channel"></a>毎月のチャネル
+### <a name="monthly-channel"></a>月次チャネル
 
 最新のリリースはバージョン 1805 です (ビルド 9330.2087)。
   
@@ -199,7 +200,7 @@ ms.locfileid: "23839195"
 
 ## <a name="may-23-2018"></a>2018 年 5 月 23 日
 
-### <a name="monthly-channel"></a>毎月のチャネル
+### <a name="monthly-channel"></a>月次チャネル
 
 最新のリリースはバージョン 1805 です (ビルド 9330.2078)。
   
@@ -224,7 +225,7 @@ ms.locfileid: "23839195"
  
 ## <a name="may-14-2018"></a>2018 年 5 月 14 日
 
-### <a name="monthly-channel"></a>毎月のチャネル
+### <a name="monthly-channel"></a>月次チャネル
 
 最新のリリースはバージョン 1804 です (ビルド 9226.2156)。
   
@@ -236,7 +237,7 @@ ms.locfileid: "23839195"
 
 ## <a name="may-8-2018"></a>2018 年 5 月 8 日
 
-### <a name="monthly-channel"></a>毎月のチャネル
+### <a name="monthly-channel"></a>月次チャネル
 
 最新のリリースはバージョン 1804 です (ビルド 9226.2126)。
   
@@ -266,7 +267,7 @@ ms.locfileid: "23839195"
    
 ## <a name="april-25-2018"></a>2018 年 4 月 25 日
 
-### <a name="monthly-channel"></a>毎月のチャネル
+### <a name="monthly-channel"></a>月次チャネル
 
 最新のリリースはバージョン 1804 です (ビルド 9226.2114)。
   
@@ -277,7 +278,7 @@ ms.locfileid: "23839195"
    
 ## <a name="april-11-2018"></a>2018 年 4 月 11 日
 
-### <a name="monthly-channel"></a>毎月のチャネル
+### <a name="monthly-channel"></a>月次チャネル
 
 最新のリリースはバージョン 1803 です (ビルド 9126.2152)。
   
@@ -308,7 +309,7 @@ ms.locfileid: "23839195"
    
 ## <a name="march-27-2018"></a>2018 年 3 月 27 日
 
-### <a name="monthly-channel"></a>毎月のチャネル
+### <a name="monthly-channel"></a>月次チャネル
 
 最新のリリースはバージョン 1803 です (ビルド 9126.2116)。
   
@@ -330,7 +331,7 @@ ms.locfileid: "23839195"
    
 ## <a name="march-13-2018"></a>2018 年 3 月 13 日
 
-### <a name="monthly-channel"></a>毎月のチャネル
+### <a name="monthly-channel"></a>月次チャネル
 
 最新のリリースはバージョン 1802 です (ビルド 9029.2253)。
   
@@ -359,7 +360,7 @@ ms.locfileid: "23839195"
    
 ## <a name="february-26-2018"></a>2018 年 2 月 26 日
 
-### <a name="monthly-channel"></a>毎月のチャネル
+### <a name="monthly-channel"></a>月次チャネル
 
 最新のリリースはバージョン 1802 です (ビルド 9029.2167)。
   
@@ -371,7 +372,7 @@ ms.locfileid: "23839195"
    
 ## <a name="february-13-2018"></a>2018 年 2 月 13 日
 
-### <a name="monthly-channel"></a>毎月のチャネル
+### <a name="monthly-channel"></a>月次チャネル
 
 最新のリリースはバージョン 1801 です (ビルド 9001.2171)。
   
@@ -402,7 +403,7 @@ ms.locfileid: "23839195"
    
 ## <a name="february-7-2018"></a>2018 年 2 月 7 日
 
-### <a name="monthly-channel"></a>毎月のチャネル
+### <a name="monthly-channel"></a>月次チャネル
 
 最新のリリースはバージョン 1801 です (ビルド 9001.2144)。
   
@@ -415,7 +416,7 @@ ms.locfileid: "23839195"
    
 ## <a name="february-1-2018"></a>2018 年 2 月 1 日
 
-### <a name="monthly-channel"></a>毎月のチャネル
+### <a name="monthly-channel"></a>月次チャネル
 
 最新のリリースはバージョン 1801 です (ビルド 9001.2138)。
   
@@ -433,4 +434,4 @@ ms.locfileid: "23839195"
 - [Office 365 ProPlus の更新履歴 (バージョン別の一覧)](update-history-office365-proplus-by-version.md)
 
 > [!NOTE]
-> Office の使用に関する問題についてヘルプが必要な場合は、[[マイクロソフトの回答フォーラム](https://answers.microsoft.com/)] または [[Tech Community](https://techcommunity.microsoft.com/)] に質問を投稿するか、[[サポート](https://support.microsoft.com/contactus)] に問い合わせてサポートを受けることができます。
+> Office の使用に関する問題についてヘルプが必要な場合は、[[マイクロソフトの回答フォーラム](https://answers.microsoft.com/)] または [[Tech Community](https://techcommunity.microsoft.com/)] に質問を投稿するか、[[サポート](https://support.microsoft.com/contactus)] に問い合わせることができます。

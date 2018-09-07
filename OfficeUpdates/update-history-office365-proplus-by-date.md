@@ -3,19 +3,19 @@ title: Office 365 ProPlus の更新履歴 (日付別の一覧)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/5/2018
+ms.date: 9/6/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT プロフェッショナルに、日付ごとに整理した Office 365 ProPlus リリースすべての一覧を、リリース ノートへのリンクを含めて提供します
-ms.openlocfilehash: 02c3c000930ee25a98f1a96c0bb27ad12b639bae
-ms.sourcegitcommit: fa4c6a1da115d4003b0d0f6a2d0fa1805e7829c6
+ms.openlocfilehash: 59b431cf0379a96d47a6b0d4e07b4b1e991441d2
+ms.sourcegitcommit: 54d6714d1475760fbdc61dff43d252883dfbf505
 ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/06/2018
-ms.locfileid: "23839205"
+ms.locfileid: "23848375"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 ProPlus の更新履歴 (日付別の一覧)
 
@@ -32,10 +32,8 @@ ms.locfileid: "23839205"
 
 |**年**|**リリース日**|**月次チャネル**|**半期チャネル (対象指定)**|**半期チャネル**|
 |:-----|:-----|:-----|:-----|:-----|
-|2018|9 月 5 日   |[**バージョン 1808 (ビルド 10730.20088)**](monthly-channel-2018.md#version-1808-september-5) | | |
-||7 月 25 日   |[バージョン 1807 (ビルド 10325.20082)](monthly-channel-2018.md#version-1807-july-25) | | |
-|2018|7 月 10 日   |[バージョン 1806 (ビルド 10228.20104)](monthly-channel-2018.md#version-1806-july-10) |[バージョン 1803 (ビルド 9126.2259)](semi-annual-channel-targeted-2018.md#version-1803-july-10)  |[バージョン 1803 (ビルド 9126.2259)](semi-annual-channel-2018.md#version-1803-july-10)  <br/>  [バージョン 1708 (ビルド 8431.2280)](semi-annual-channel-2018.md#version-1708-july-10)   |
-|2018|8 月 14 日   |**[バージョン 1807 (ビルド 10325.20118)](monthly-channel-2018.md#version-1807-august-14)** |**[バージョン 1803 (ビルド 9126.2275)](semi-annual-channel-targeted-2018.md#version-1803-august-14)**  |**[バージョン 1803 (ビルド 9126.2275)](semi-annual-channel-2018.md#version-1803-august-14)**  <br/>  [バージョン 1708 (ビルド 8431.2299)](semi-annual-channel-2018.md#version-1708-august-14)   |
+|2018 年|9 月 5 日   |[**バージョン 1808 (ビルド 10730.20088)**](monthly-channel-2018.md#version-1808-september-5) | | |
+|2018 年|8 月 14 日   |[バージョン 1807 (ビルド 10325.20118)](monthly-channel-2018.md#version-1807-august-14)|**[バージョン 1803 (ビルド 9126.2275)](semi-annual-channel-targeted-2018.md#version-1803-august-14)**  |**[バージョン 1803 (ビルド 9126.2275)](semi-annual-channel-2018.md#version-1803-august-14)**  <br/>  [バージョン 1708 (ビルド 8431.2299)](semi-annual-channel-2018.md#version-1708-august-14)   |
 ||7 月 25 日   |[バージョン 1807 (ビルド 10325.20082)](monthly-channel-2018.md#version-1807-july-25) | | |
 ||7 月 17 日   |[バージョン 1806 (ビルド 10228.20134)](monthly-channel-2018.md#version-1806-july-17) | | |
 ||7 月 10 日   |[バージョン 1806 (ビルド 10228.20104)](monthly-channel-2018.md#version-1806-july-10) |[バージョン 1803 (ビルド 9126.2259)](semi-annual-channel-targeted-2018.md#version-1803-july-10)  |[バージョン 1803 (ビルド 9126.2259)](semi-annual-channel-2018.md#version-1803-july-10)  <br/>  [バージョン 1708 (ビルド 8431.2280)](semi-annual-channel-2018.md#version-1708-july-10)   |
