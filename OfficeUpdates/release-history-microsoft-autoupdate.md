@@ -3,25 +3,26 @@ title: Microsoft AutoUpdate (MAU) のリリース履歴
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/14/2018
+ms.date: 9/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT プロフェッショナルに、Microsoft AutoUpdate (MAU) のリリース履歴を提供します
-ms.openlocfilehash: 06d294c7ad348451fc9b8acabc5fd58a826338d9
-ms.sourcegitcommit: 977f06b0e459e7a29fdcae5bc3ed9d72f7c55bdb
+ms.openlocfilehash: 8e99458552d1532dbac1a71391b2f081a8da1b65
+ms.sourcegitcommit: 7cae3bec4f951ad7b10bd88c53c5b99a8dd66643
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "23796741"
+ms.lasthandoff: 09/11/2018
+ms.locfileid: "23940308"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) のリリース履歴
  
 最新バージョンの Microsoft AutoUpdate (MAU) に更新された状態を常に保つようお勧めします。
 
 以下の表に、Microsoft AutoUpdate のリリース履歴を示します。この表はリリース日順になっていて、最新のリリース日付のものが先頭です。すべての更新プログラム パッケージが 64 ビットです。
+
 
 > [!NOTE]
 > - 最新バージョンの Microsoft AutoUpdate は、いつでも [https://go.microsoft.com/fwlink/p/?linkid=830196](https://go.microsoft.com/fwlink/p/?linkid=830196) から利用できます。
@@ -30,9 +31,10 @@ ms.locfileid: "23796741"
   
 |**リリース日**|**バージョン**|**詳細情報**|**更新プログラム パッケージのダウンロード リンク**|
 |:-----|:-----|:-----|:-----|
+|2018 年 9 月 11 日  <br/> |4.3.0  <br/> |[リリース ノート](release-notes-office-for-mac.md#september-2018-release) <br/> |[MAU 4.3.0 のダウンロード](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.3.18090901_Updater.pkg) <br/> |
 |2018 年 8 月 14 日  <br/> |4.2.0  <br/> |[リリース ノート](release-notes-office-for-mac.md#august-2018-release) <br/> |[MAU 4.2.0 のダウンロード](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.2.18081201_Updater.pkg) <br/> |
 |2018 年 7 月 10 日  <br/> |4.1.0  <br/> |[リリース ノート](release-notes-office-for-mac.md#july-2018-release) <br/> |[MAU 4.1.0 のダウンロード](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.1.18070902_Updater.pkg) <br/> |
-|2018 年 6 月 12 日  <br/> |4.0.0  <br/> ||[MAU 4.0.0 のダウンロード](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.0.18061000_Updater.pkg) <br/> |
+|2018 年 6 月 12 日  <br/> |4.0.0  <br/> |||
 |2018 年 5 月 15 日  <br/> |4.0.0  <br/> |||
 |2018 年 4 月 10 日  <br/> |3.18  <br/> |[リリース ノート](release-notes-office-for-mac.md#april-2018-release) <br/> ||
 |2018 年 3 月 13 日  <br/> |3.17  <br/> |||
