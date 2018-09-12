@@ -3,19 +3,19 @@ title: Office 2010 のクイック実行製品の更新履歴
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 8/14/2018
+ms.date: 9/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: クイック実行を使用する永続的なバージョンの Office 2010 の更新履歴を IT 技術者に提供します。
-ms.openlocfilehash: be133a3e9e86c9587dfeb741bb39ad2208698734
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: 2c98b159a7799b0b4b4116feaaecab5823e540dd
+ms.sourcegitcommit: 6fd38e73cb0d5051b1107f30e1aaa10f6213ccb1
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520529"
+ms.lasthandoff: 09/12/2018
+ms.locfileid: "23954803"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Office 2010 のクイック実行製品の更新履歴
 
@@ -30,7 +30,7 @@ ms.locfileid: "23520529"
 これらの製品のいずれかを使用しており、最新の状態になっていることを確認するには、Office のバージョン番号を確認し、必要に応じて手動で Office を更新します。
   
 > [!NOTE]
-> Office 2010 の最新のバージョンは、 **14.0.7212.5000**、2018 年 8 月 14 日にリリースされました。 
+> Office 2010 の最新のバージョンは、 **14.0.7213.5000**、2018 年 9 月 11 日にリリースされました。 
   
 Office のバージョンを確認するには、以下のことを行います。
   
@@ -54,7 +54,8 @@ Office のバージョンを確認するには、以下のことを行います�
   
 |**リリース年**|**リリース日**|**バージョン番号**|**詳細情報**|
 |:-----|:-----|:-----|:-----|
-|2018 |8 月 14 日  <br/> |14.0.7212.5000  <br/> |[KB 4346823](https://support.microsoft.com/en-us/help/4346823) <br/> |
+|2018 |9 月 11 日  <br/> |14.0.7213.5000  <br/> |[KB 4459402](https://support.microsoft.com/en-us/help/4459402) <br/> |
+||8 月 14 日  <br/> |14.0.7212.5000  <br/> |[KB 4346823](https://support.microsoft.com/en-us/help/4346823) <br/> |
 ||7 月 10 日  <br/> |14.0.7211.5000  <br/> |[KB 4340798](https://support.microsoft.com/en-us/help/4340798) <br/> |
 ||6 月 12 日  <br/> |14.0.7210.5000  <br/> |[KB 4299875](https://support.microsoft.com/en-us/help/4299875) <br/> |
 ||5 月 8 日  <br/> |14.0.7209.5000  <br/> |[KB 4133083](https://support.microsoft.com/en-us/help/4133083) <br/> |
@@ -72,7 +73,7 @@ Office のバージョンを確認するには、以下のことを行います�
 ||5 月 9 日  <br/> |14.0.7181.5002  <br/> |[KB 4020152](https://support.microsoft.com/help/4020152) <br/> |
 ||4 月 11 日  <br/> |14.0.7180.5002  <br/> |[KB 4016803](https://support.microsoft.com/help/4016803) <br/> |
 ||3 月 14 日  <br/> |14.0.7179.5002  <br/> |[KB 4013886](https://support.microsoft.com/help/4013886) <br/> |
-|2016  <br/> |12 月 13 日  <br/> |14.0.7177.5000  <br/> |[KB 3208595](https://support.microsoft.com/en-us/kb/3208595) <br/> |
+|2016 年  <br/> |12 月 13 日  <br/> |14.0.7177.5000  <br/> |[KB 3208595](https://support.microsoft.com/en-us/kb/3208595) <br/> |
 ||11 月 8 日  <br/> |14.0.7176.5000  <br/> |[KB 3200802](https://support.microsoft.com/kb/3200802) <br/> |
 ||10 月 11 日  <br/> |14.0.7174.1001  <br/> |[KB 3194160](https://support.microsoft.com/kb/3194160) <br/> |
 ||9 月 13 日  <br/> |14.0.7173.1001  <br/> |[KB 3188548](https://support.microsoft.com/kb/3188548) <br/> |
@@ -103,13 +104,13 @@ Office のバージョンを確認するには、以下のことを行います�
 ||5 月 13 日  <br/> |14.0.7123.5002  <br/> |[KB 2964042](https://support.microsoft.com/kb/2964042) <br/> |
 ||4 月 8 日  <br/> |14.0.7122.5000  <br/> |[KB 2955382](https://support.microsoft.com/kb/2955382) <br/> |
 ||2 月 12 日  <br/> |14.0.7113.5007  <br/> |[KB 2553378](https://support.microsoft.com/kb/2553378) <br/> |
-|2013  <br/> |5 月 14 日  <br/> |14.0.6137.5006  <br/> |[KB 2847265](https://support.microsoft.com/kb/2847265) <br/> |
+|2013 年  <br/> |5 月 14 日  <br/> |14.0.6137.5006  <br/> |[KB 2847265](https://support.microsoft.com/kb/2847265) <br/> |
 |2012  <br/> |10 月 9 日  <br/> |14.0.6126.5003  <br/> |[マイクロソフト セキュリティ情報 MS12-064](https://technet.microsoft.com/library/security/ms12-064) <br/> [マイクロソフト セキュリティ情報 MS12-066](https://technet.microsoft.com/library/security/ms12-066) <br/> Office 2010 の定義の更新  <br/> |
 ||3 月 13 日  <br/> |14.0.6117.5002  <br/> |Office 2010 の定義の更新  <br/> |
 |2011  <br/> |12 月 13 日  <br/> |14.0.6114.5002  <br/> |[マイクロソフト セキュリティ情報 MS11-089](https://technet.microsoft.com/library/security/ms11-089) <br/> [KB 2553439](https://support.microsoft.com/kb/2553439) <br/> Outlook 2010 迷惑メール フィルターの更新  <br/> |
 ||4 月 12 日  <br/> |14.0.5138.5002  <br/> |[KB 2466146](https://support.microsoft.com/kb/2466146) <br/> [KB 2519975](https://support.microsoft.com/kb/2519975) <br/> [KB 2519984](https://support.microsoft.com/kb/2519984) <br/> Office 2010 の定義の更新  <br/> |
 ||2 月 9 日  <br/> |14.0.5130.5004  <br/> |Office 2010 の定義の更新  <br/> |
-|2010  <br/> |12 月 14 日  <br/> |14.0.5130.5001  <br/> |[KB 2413186](https://support.microsoft.com/kb/2413186) <br/> [KB 2289078](https://support.microsoft.com/kb/2289078) <br/> [KB 2433299](https://support.microsoft.com/kb/2433299) <br/> Office 2010 の定義の更新  <br/> |
+|2010 年  <br/> |12 月 14 日  <br/> |14.0.5130.5001  <br/> |[KB 2413186](https://support.microsoft.com/kb/2413186) <br/> [KB 2289078](https://support.microsoft.com/kb/2289078) <br/> [KB 2433299](https://support.microsoft.com/kb/2433299) <br/> Office 2010 の定義の更新  <br/> |
 ||11 月 9 日  <br/> |14.0.5128.5002  <br/> |[KB 2289161](https://support.microsoft.com/kb/2289161) <br/> Office 2010 の定義の更新  <br/> |
 ||10 月 12 日  <br/> |14.0.5123.5005  <br/> |[KB 2345000](https://support.microsoft.com/kb/2345000) <br/> Office 2010 の定義の更新  <br/> |
 ||9 月 14 日  <br/> |14.0.5123.5002  <br/> |[KB 2202188](https://support.microsoft.com/kb/2202188) <br/> [KB 2288640](https://support.microsoft.com/kb/2288640) <br/> Outlook Social Connector 2010 の更新  <br/> Office 2010 の定義の更新  <br/> |
