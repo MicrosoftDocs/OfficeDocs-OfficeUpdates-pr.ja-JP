@@ -3,19 +3,19 @@ title: 2018 年の半期チャネル リリースのリリース ノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/14/2018
+ms.date: 9/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2018 年の半期チャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: f7d33739981dcbe14a9a940ea09c93ba9e9a46fc
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: f1f0e3b40a49db9d2c3b66c7d07fab2fb864902b
+ms.sourcegitcommit: b0f5d03ceb73cdcf64fd8583ffa401ced6193fb4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520659"
+ms.lasthandoff: 09/12/2018
+ms.locfileid: "23952447"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>2018 年の半期チャネル リリースのリリース ノート
 
@@ -25,6 +25,36 @@ ms.locfileid: "23520659"
 > - また、Visio Pro for Office 365 および Project Online デスクトップ クライアントの新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムについても説明しています。
 > - ここに記載されている情報は、Business Premium など一部の Office 365 プランに付属する Office のバージョンの、Office 365 Business にも該当します。
 > - 2018 年 1 月以前は、半期チャネルは Deferred Channel という名称でした。
+
+## <a name="version-1803-september-11"></a>バージョン1803：9月11日
+*バージョン 1803 (ビルド 9126.2282)*
+
+### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
+-   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): Microsoft Excel のリモート コード実行の脆弱性
+-   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): Microsoft Excel の情報漏えいの脆弱性
+
+### <a name="word-security-updates"></a>Word: セキュリティ更新プログラム
+-   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430): Microsoft Word のリモート コード実行の脆弱性
+
+### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
+-   [CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332): Microsoft Graphics のリモート コード実行の脆弱性
+
+
+## <a name="version-1708-september-11"></a>バージョン 1708: 9 月 11 日
+*バージョン 1708 (ビルド 8431.2309)*
+
+*これは、2018 年 1 月から使用可能になった半期チャネル リリースです。これは、2019 年 3 月まで継続的にサポートされ、セキュリティ更新プログラムを受信します。ただし、新しい半期チャネル リリースが使用可能になりました — バージョン 1803 (ビルド 16.0.9126.2259) — これには、新しい機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムが含まれます。*
+
+### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
+-   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): Microsoft Excel のリモート コード実行の脆弱性
+-   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): Microsoft Excel の情報漏えいの脆弱性
+
+### <a name="word-security-updates"></a>Word: セキュリティ更新プログラム
+-   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430): Microsoft Word のリモート コード実行の脆弱性
+
+### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
+-   [CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332): Microsoft Graphics のリモート コード実行の脆弱性
+
 
 ## <a name="version-1803-august-14"></a>バージョン 1803: 8 月 14 日
 *バージョン 1803 (ビルド 9126.2275)*
