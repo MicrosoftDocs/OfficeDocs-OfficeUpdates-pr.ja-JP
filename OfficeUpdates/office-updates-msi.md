@@ -3,19 +3,19 @@ title: Windows インストーラー (MSI) を使用しているバージョン�
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 8/14/2018
+ms.date: 9/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 永続的なバージョンの Office 2016、Office 2013、Office 2010 の最新の更新プログラムの情報へのリンクを IT 技術者に提供します
-ms.openlocfilehash: 3b865b44cd18fdf825c0969f9724b841b70df697
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: 8ba1a34f2fa2d549ed903254d163d67d88830ed9
+ms.sourcegitcommit: 6fd38e73cb0d5051b1107f30e1aaa10f6213ccb1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520509"
+ms.lasthandoff: 09/12/2018
+ms.locfileid: "23954783"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Windows インストーラー (MSI) を使用しているバージョンの Office の最新の更新プログラム
 
@@ -32,23 +32,25 @@ ms.locfileid: "23520509"
 
 |**バージョンと製品**|**最新の Service Pack (SP)**|**最新のパブリック更新プログラム (PU)**|
 |:-----|:-----|:-----|
-|**2016 年** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |N/A  <br/> |2018 年 8 月 更新プログラム (PU)  <br/> [KB4346823](https://support.microsoft.com/en-us/help/4346823) <br/> |
+|**2016 年** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |該当なし  <br/> |2018 年 9 月  <br/> [KB4459402](https://support.microsoft.com/en-us/help/4459402) <br/> |
    
 ## <a name="office-2013-updates"></a>Office 2013 の更新プログラム
 
 |**バージョンと製品**|**最新の Service Pack (SP)**|**最新のパブリック更新プログラム (PU)**|
 |:-----|:-----|:-----|:-----|
-|**2013 年** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |2018 年 8 月 更新プログラム (PU)  <br/> [KB4346823](https://support.microsoft.com/en-us/help/4346823) <br/> |
+|**2013 年** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |2018 年 9 月  <br/> [KB4459402](https://support.microsoft.com/en-us/help/4459402) <br/> |
    
 ## <a name="office-2010-updates"></a>Office 2010 の更新プログラム
 
 |**バージョンと製品**|**最新の Service Pack (SP)**|**最新のパブリック更新プログラム (PU)**|
 |:-----|:-----|:-----|:-----|
-|**2010 年** <br/> Office 2010 スイート  <br/> Project 2010  <br/> Visio 2010  <br/> Office 2010 サーバー  <br/> Office Web Apps  <br/> Search Server 2010  <br/> SharePoint 2010 製品  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |2018 年 8 月 更新プログラム (PU) <br/>[KB4346823](https://support.microsoft.com/en-us/help/4346823) <br/>|
+|**2010 年** <br/> Office 2010 スイート  <br/> Project 2010  <br/> Visio 2010  <br/> Office 2010 サーバー  <br/> Office Web Apps  <br/> Search Server 2010  <br/> SharePoint 2010 製品  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |2018 年 9 月 <br/>[KB4459402](https://support.microsoft.com/en-us/help/4459402) <br/>|
    
 
    
 ## <a name="updates-released-in-past-12-months"></a>過去 12 か月にリリースされた更新プログラム
+
+[2018年 9 月のセキュリティおよびセキュリティ以外の更新プログラム: KB4459402](https://support.microsoft.com/help/4459402) 
 
 [2018 年 8 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB4346823](https://support.microsoft.com/help/4346823)   
 
@@ -71,8 +73,7 @@ ms.locfileid: "23520509"
 [2017 年 11 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB4051890](https://support.microsoft.com/help/4051890)   
   
 [2017 年 10 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB4043461](https://support.microsoft.com/help/4043461)   
-  
-[2017 年 9 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB4040279](https://support.microsoft.com/help/4040279)   
+    
 
   
 

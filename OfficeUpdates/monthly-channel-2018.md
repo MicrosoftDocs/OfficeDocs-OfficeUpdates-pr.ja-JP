@@ -3,19 +3,19 @@ title: 2018 年の毎月のチャネル リリースのリリース ノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/5/2018
+ms.date: 9/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2018 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: d4ec019cd46b154156dfc78e1aa4b9eb321a2913
-ms.sourcegitcommit: fa4c6a1da115d4003b0d0f6a2d0fa1805e7829c6
+ms.openlocfilehash: aee606abc436b2408e274e04faf903e762de5ee7
+ms.sourcegitcommit: b0f5d03ceb73cdcf64fd8583ffa401ced6193fb4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/06/2018
-ms.locfileid: "23839215"
+ms.lasthandoff: 09/12/2018
+ms.locfileid: "23952427"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018 年の毎月のチャネル リリースのリリース ノート
 
@@ -24,6 +24,20 @@ ms.locfileid: "23839215"
  > [!NOTE]
 > - また、Visio Pro for Office 365 および Project Online デスクトップ クライアントの新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムについても説明しています。
 > - ここに記載されている情報は、Business Premium など一部の Office 365 プランに付属する Office のバージョンの、Office 365 Business にも該当します。
+
+## <a name="version-1808-september-11"></a>バージョン 1808 ： 9 月 11 日
+*バージョン 1808 (ビルド 10730.20102)*
+
+### <a name="excel-security-updates"></a>Excel: セキュリティ更新
+-   [ CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331)  : Microsoft Excel のリモート コード実行の脆弱性
+-   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): Microsoft Excel の情報漏えいの脆弱性
+
+### <a name="word-security-updates"></a>Word: セキュリティ更新プログラム
+-   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430): Microsoft Word のリモート コード実行の脆弱性
+
+### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
+-   [CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332): Microsoft Graphics のリモート コード実行の脆弱性
+
 
 ## <a name="version-1808-september-5"></a>バージョン 1808:  9 月 5 日
 *バージョン 1808 (ビルド 10730.20088)*
@@ -42,13 +56,13 @@ ms.locfileid: "23839215"
  ### <a name="project-feature-updates"></a>Project: 機能の更新
  - **タスク ボードのカードに関する詳細な情報を表示する** タイトルだけでは内容が不明な場合、タスク ボードのカードをカスタマイズして、最も重要な詳細情報をすべて表示できます。 [詳細情報](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
 
-### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
-- ユーザーがコピーするために選択した、点線で囲まれたセル範囲が消えず、貼り付けなど、ユーザーがその後操作を行った後でもクリップボードに残るという Excel での問題を修正します。 
+### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新
+-  ユーザーがコピーするために選択した、点線で囲まれたセル範囲が消えず、貼り付けなど、ユーザーがその後操作を行った後でもクリップボードに残るという Excel での問題を修正します。 
 
-### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
+### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新
  - 発生する問題の原因となった、[詳細を表示する] リンクが、複数の Exchange アカウントが設定されている一部のユーザーの検索結果リストに表示されないという問題に対応します。
 
-### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
+### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新
  - 特定のシナリオで更新プログラムのインストールが長くかかる原因となった問題を修正します。
  
 ### <a name="lync-non-security-updates"></a>Lync: セキュリティ以外の更新プログラム
@@ -58,16 +72,16 @@ ms.locfileid: "23839215"
 ## <a name="version-1807-august-14"></a>バージョン 1807: 8 月 14 日
 *バージョン 1807 (ビルド 10325.20118)*
 
-### <a name="access-security-updates"></a>Access: セキュリティ更新プログラム
+### <a name="access-security-updates"></a>Access: セキュリティ更新
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): Microsoft Access のリモート コード実行の Use After Free 脆弱性
 
-### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
+### <a name="excel-security-updates"></a>Excel: セキュリティ更新
 -   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): Microsoft Excel のリモート コード実行の脆弱性 
 -   [CVE-2018-8379](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8379): Microsoft Excel のリモート コード実行の脆弱性 
 -   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): Microsoft Excel の情報漏えいの脆弱性 
 
 ### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム
--   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021):  Microsoft Office 多層防御の更新プログラム 
+-   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021): Microsoft Office 多層防御の更新プログラム 
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
 -   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378): Microsoft Office の情報漏えいの脆弱性 
@@ -94,7 +108,7 @@ ms.locfileid: "23839215"
 ## <a name="version-1806-july-17"></a>バージョン 1806: 7 月 17 日
 *バージョン 1806 (ビルド 10228.20134)*
 
-### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
+### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新
  - 一部のパフォーマンスの問題が修正されました。
 
 ## <a name="version-1806-july-10"></a>バージョン 1806: 7 月 10 日
@@ -164,7 +178,7 @@ ms.locfileid: "23839215"
 
 - MAPI API を呼び出すアプリケーションがクラッシュする問題を修正します。
 
-### <a name="project-non-security-updates"></a>Project のセキュリティ以外の更新プログラム
+### <a name="project-non-security-updates"></a>Project: セキュリティ以外の更新プログラム
 
 - マスター プロジェクトのコンテキストでサブ プロジェクトの作業を行ったときに、サブ プロジェクトを保存できない問題を修正します。
 
