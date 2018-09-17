@@ -3,19 +3,19 @@ title: Office 365 ProPlus の更新プログラムに関するリリース情報
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/6/18
+ms.date: 9/11/18
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT プロフェッショナルに対して、最新リリースの Office 365 ProPlus の一覧をそれぞれの更新プログラム チャネルごとに、リリース ノートへのリンクと更新履歴を含めて提供します
-ms.openlocfilehash: 38a10d5afa1996ca9abd1680a76395c5d8c75030
-ms.sourcegitcommit: 54d6714d1475760fbdc61dff43d252883dfbf505
+ms.openlocfilehash: 86a81b16337785d3d33046cd9e52edd0f26538c1
+ms.sourcegitcommit: b0f5d03ceb73cdcf64fd8583ffa401ced6193fb4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/06/2018
-ms.locfileid: "23848355"
+ms.lasthandoff: 09/12/2018
+ms.locfileid: "23952387"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Office 365 ProPlus の更新プログラムに関するリリース情報
 
@@ -26,10 +26,10 @@ Office 365 ProPlus は、新機能、セキュリティ更新プログラム、�
   
 |**チャネル**|**バージョン**|**ビルド**|**リリース日**|**バージョンのサポート期限**|
 |:-----|:-----|:-----|:-----|:-----|
-|月次  <br/> |1808  <br/> |[10730.20088](monthly-channel-2018.md#version-1808-september-5)  <br/> | 2018 年 9 月 5 日  <br/> |バージョン 1809 がリリースされました <br/>|
-|半期 (対象指定)  <br/> |1803  <br/> |[9126.2275](semi-annual-channel-targeted-2018.md#version-1803-august-14)  <br/> | 2018 年 8 月 14 日  <br/> | 2018 年 9 月 11 日 <br/>|
-|半期 <br/> |1803  <br/> | [9126.2275](semi-annual-channel-2018.md#version-1803-august-14) <br/> | 2018 年 8 月 14 日  <br/> | 2019 年 9 月 10 日 <br/>|
-|半期 <br/> |1708  <br/> |[8431.2299](semi-annual-channel-2018.md#version-1708-august-14)  <br/> | 2018 年 8 月 14 日  <br/> | 2019 年 3 月 12 日 <br/>|
+|月次  <br/> |1808  <br/> |[10730.20102](monthly-channel-2018.md#version-1808-september-11)  <br/> | 2018 年 9 月 11 日  <br/> |バージョン 1809 がリリースされました <br/>|
+|半期 (対象指定)  <br/> |1808  <br/> |[10730.20102](semi-annual-channel-targeted-2018.md#version-1808-September-11)  <br/> | 2018 年 9 月 11 日  <br/> | 2019 年 3 月 13日 <br/>|
+|半期 <br/> |1803  <br/> | [9126.2282](semi-annual-channel-2018.md#version-1803-september-11) <br/> | 2018 年 9 月 11 日  <br/> | 2019 年 9 月 10 日 <br/>|
+|半期 <br/> |1708  <br/> |[8431.2309](semi-annual-channel-2018.md#version-1708-september-11)  <br/> | 2018 年 9 月 11 日  <br/> | 2019 年 3 月 13日 <br/>|
 
 以前のリリースの Office 365 ProPlus から最新の現在のリリースへ更新する場合のおおよそのダウンロード サイズについて詳しくは、「[Office 365 ProPlus に対する更新プログラムのダウンロード サイズ](download-sizes-office365-proplus-updates.md)」をご覧ください。
 
@@ -69,4 +69,4 @@ Office for Mac の更新プログラム (Office 365 ProPlus が含まれる Offi
 - [Microsoft のセキュリティ更新ガイド](https://portal.msrc.microsoft.com/)
 
 > [!NOTE]
-> Office の使用に関する問題についてヘルプが必要な場合は、[[マイクロソフトの回答フォーラム](https://answers.microsoft.com/)] または [[Tech Community](https://techcommunity.microsoft.com/)] に質問を投稿するか、[[サポート](https://support.microsoft.com/contactus)] に問い合わせることができます。
+> Office の使用に関する問題についてヘルプが必要な場合は、[[マイクロソフトの回答フォーラム](https://answers.microsoft.com/)] または [ [Tech Community](https://techcommunity.microsoft.com/) ] に質問を投稿するか、[[サポート](https://support.microsoft.com/contactus)] に問い合わせることができます。
