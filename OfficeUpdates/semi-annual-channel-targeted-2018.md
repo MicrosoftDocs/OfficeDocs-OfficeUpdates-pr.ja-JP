@@ -3,19 +3,19 @@ title: 2018 年の半期チャネル (対象指定) リリースのリリース 
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/14/2018
+ms.date: 9/12/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2018 年の半期チャネル (対象指定) リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 1c6283259c9d6521fde11d1dcdeca2e6031fa601
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: bb6e9f8f4a2740f7ee98b178563afa03aad561e7
+ms.sourcegitcommit: b0f5d03ceb73cdcf64fd8583ffa401ced6193fb4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520629"
+ms.lasthandoff: 09/12/2018
+ms.locfileid: "23952437"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>2018 年の半期チャネル (対象指定) リリースのリリース ノート
 
@@ -24,6 +24,160 @@ ms.locfileid: "23520629"
 > [!NOTE]
 > - また、Visio Pro for Office 365 および Project Online デスクトップ クライアントの新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムについても説明しています。
 > - ここに記載されている情報は、Business Premium など一部の Office 365 プランに付属する Office のバージョンの、Office 365 Business にも該当します。
+
+ ## <a name="version-1808-september-11"></a>バージョン 1808:  9 月 11 日
+*バージョン 1808 (ビルド 10730.20102)*
+
+### <a name="access-feature-updates"></a>Access: 機能更新プログラム
+ - **新しいグラフを使用したデータの視覚化:** 11 種類のグラフから選択してフォームやレポートに追加することにより、データが見やすくなり、十分な情報に基づいて決定を下すことができます。[詳細情報](https://support.office.com/article/1a463106-65d0-4dbb-9d66-4ecb737ea7f7)
+ 
+ ### <a name="access-security-updates"></a>Access: セキュリティ更新プログラム
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): Microsoft Access のリモート コード実行の Use-After-Free 脆弱性
+
+### <a name="excel-feature-updates"></a>Excel: 機能の更新
+ - **共同編集:** ブック内で他のユーザーと同時に作業します。 [詳細情報](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
+ - **クラウド ファイルの自動保存が既定で有効に:** 自動保存が 2018 年 9 月の半期チャネル (対象指定) のリリースで、既定で有効になりました。 この変更により、ユーザーが OneDrive または SharePoint Online に保存されている文書内の変更を失う心配はありません。 変更は自動的にクラウドに保存され、ユーザーは今後、Ctrl + S または [保存] ボタンを押す必要は特にありません。 ただし、ユーザーはこの動作の変更を理解して、文書を誤って変更しないようにする必要があります。 ユーザーは、画面の上部にある自動保存切り替えを使用して、自動保存をオフにすることもできます。 ユーザーに今回のこの変更について通知し、 Office 365 のこの新しい機能を最大限活用する方法について情報を提供するようにお勧めします。 [自動保存についての詳細](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [自動保存について IT 管理者が知っておくべき事項の詳細を説明します](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
+- **セルおよび数式バーの編集の強化:** Ctrl + A を押して、セルまたは数式バーのテキストを選択できるようになりました。 絵文字とその他の複雑な文字のサポートも強化されました。[詳細を表示](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
+- **アクセシビリティ チェックの改善:** アクセシビリティ チェックで、ブックへのアクセシビリティを向上させるため、国際標準と推奨事項へのサポートを更新しました。 [詳細情報](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+- **不要な編集の回避:** 誤った変更を防ぐために、読み取り専用として開くようにブックを設定します。 [ファイル] > [情報] > [ブックを保護する] > [常に読み取り専用として開く] と開きます。
+
+### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
+-   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): Microsoft Excel のリモート コード実行の脆弱性
+-   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): Microsoft Excel の情報漏えいの脆弱性
+-   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): Microsoft Excel のリモート コード実行の脆弱性 
+-   [CVE-2018-8379](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8379): Microsoft Excel のリモート コード実行の脆弱性 
+-   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): Microsoft Excel の情報漏えいの脆弱性
+-   [CVE-2018-8246](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8246): Microsoft Excel の情報漏えいの脆弱性
+-   [CVE-2018-8248](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8248): Microsoft Excel のリモート コード実行の脆弱性
+-   [CVE-2018-8147](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8147): Microsoft Excel のリモート コード実行の脆弱性
+-   [CVE-2018-8148](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8148): Microsoft Excel のリモート コード実行の脆弱性
+-   [CVE-2018-8162](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8162): Microsoft Excel のリモート コード実行の脆弱性
+-   [CVE-2018-8163](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8163): Microsoft Excel の情報漏えいの脆弱性
+-   [CVE-2018-1029](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1029): Microsoft Excel のリモート コード実行の脆弱性
+
+### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
+-   グラフのソース データを元の一連のセルから変更する際に Excel がクラッシュする問題を修正します。
+-   FullCalcOnLoad プロパティが設定されているにも関わらず、再計算が開かないことがあるという問題を修正します。  
+-   日付のセル書式設定で和暦を使用すると、間違った年が表示される問題を修正します。
+-   Excel データ モデルにデータをインポートするとき、負のゼロの値を受け取るとエラーになりました。修正後は、そのような値はゼロとしてインポートされます。
+-   Excel のピボット テーブルでグループ化 (またはグループ解除) 操作を行うとクラッシュを引き起こす可能性がある問題を修正します。
+-   グラフの操作によって Excel がクラッシュする問題を修正します。
+-   一部のユーザーに対し、Power View のアドインが誤って無効になるの問題を修正します。
+-   ドキュメントの回復中に作成された一時的な自動回復ファイルがクリーンアップされないという問題を修正します。
+-   保護されたブックでテキスト ファイルに新しい接続を作成しようとすると、「ブックは保護されており、変更できません」というエラー メッセージが出るという問題を修正します。
+-   Outlook メールに添付された Excel ブックのクイック印刷が機能しない問題を修正します。
+-   ハイパーリンクをクリックすると Excel がクラッシュする問題を修正します。
+-   キューブ関数を使用すると、Excel がクラッシュする問題を修正します。
+
+### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
+ - **ハンズ フリー入力:** 自分の声で口述するだけでメールを作成します。タイピングは必要ありません。[詳細情報](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
+ - **定期的なアイテムの既定値:** [定期的な予定の設定] ダイアログ ボックスの [期間] の下で、[終了日] は既定の設定 ([終了日未定] ではない) で、示されている最初の設定であり、既定の終了日が設定されています。
+ - **アクセシビリティ チェックの改善:** アクセシビリティ チェックで、メッセージのアクセシビリティを向上させるために国際標準と推奨事項のサポートを更新しました。 [詳細情報](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+ - **プロファイルの選択からのプロファイルの管理:** Outlook の起動時にプロファイルの選択を使用すると、コントロール パネルを利用せずに変更できます。 プロファイルの作成、削除、設定の変更すべてをプロファイルの選択から行えます。
+- **アクセシビリティの正しい組み込み:** イメージにわかりやすい代替テキストを追加して、メッセージをすべてのユーザーに理解しやすいものにします。
+- **Outlook アドインの警告:** Outlook COM アドインでは、Outlook の他の部分の速度を遅くする問題が発生する場合があります。これらの問題は、Outlook フォルダー間の切り替え、新規メールの受信、予定表アイテムを開くなどのイベントの遅延が原因の可能性があります。このような問題が発生した場合、Outlook では通知バーに警告が表示されます。
+- **会議出席者を確認する:** 開催者でなくても、会議出席依頼に対する他のユーザーの応答を確認できるようになりました。
+- **アラームの見落とし防止:** 作業中のウィンドウ上にアラームがポップアップ表示されるように設定できます。 それ以外の場合は、タスクバーで Outlook が点滅してユーザーに通知します。[詳細情報](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
+- **削除済みアイテムを開封済みに:** 削除したメッセージすべてを開封済みとして設定できるようになりました。[ファイル] \> [オプション] \> [メール] \> [その他] の順に移動して、オプトインします。
+- **3 つのタイム ゾーンを表示:** 複数のタイム ゾーン間で会議をスケジュールする必要がある場合、 予定表に複数のタイム ゾーンを追加すると、簡単に各人の空き状況を確認して、全員に都合の良い時間を選択できます。 [詳細情報](https://support.office.com/article/5ab3e10e-5a6c-46af-ab48-156fedf70c04)
+- **グループの作成のユーザー エクスペリエンスの改善:** グループの作成の外観をよりモダンでまとまりのあるものにするため、ユーザー エクスペリエンスを改善しました。 [詳細を表示](https://support.office.com/article/04d0c9cf-6864-423c-a380-4fa858f27102)
+- **ブラインド カーボン コピー (Bcc) 警告:** Bcc で受け取ったメッセージに対し [全員に返信] を選択した場合に警告が表示されます。
+
+### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム
+-   [CVE-2018-8310](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8310): Microsoft Office 改ざんの脆弱性
+-   [CVE-2018-8244](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8244): Microsoft Outlook 特権の昇格の脆弱性
+-   [CVE-2018-8150](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8150): Microsoft Outlook のセキュリティ機能のバイパスの脆弱性
+-   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021): Microsoft Office 多層防御の更新プログラム
+
+### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
+-   システム言語を日本語に切り替え、Outlook で読み込む際に VBA IDE に日本語の文字を入力しようとするとフリーズする問題を修正します。
+-   [送信トレイ] または [送信済みアイテム] フォルダーに切り替えると、Outlook がクラッシュする問題を修正します。
+-   会議の本文や添付ファイルを変更すると、会議の更新情報の出席者への送信がオプションになる代わりに、すべての出席者が会議の更新を受信する問題を修正します。
+-   ユーザー エージェント文字列が変更されたために、ユーザーが EWS エンドポイントおよび REST エンドポイントに接続できなくなる問題を修正します。
+-   出席者に対する会議場所の更新に、新しい場所ではなく、古い場所が表示される問題を修正します。
+-   ユーザーが閲覧ウィンドウで添付ファイルをプレビューすると、エラーが表示される問題を修正します。
+-   ユーザーが電子メールを作成中に、表示名が電子メール アドレスに解決されると、Outlook がクラッシュする問題を修正します。
+-   一部のユーザーが、テナント管理者によって有効にされたサポート機能を受信しない問題を修正します。
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新 
+- **ハンズ フリー入力:** 自分の声で口述するだけでプレゼンテーションを作成します。タイピングは必要ありません。[詳細情報](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
+- **クラウド ファイルの自動保存が既定で有効に:** 自動保存が 2018 年 9 月の半期チャネル (対象指定) のリリースで、既定で有効になりました。 この変更により、ユーザーが OneDrive または SharePoint Online に保存されている文書内の変更を失う心配はありません。 変更は自動的にクラウドに保存され、ユーザーは今後、Ctrl + S または [保存] ボタンを押す必要は特にありません。 ただしユーザーは、プレゼンテーションを誤って変更しないようにするために、この動作の変更を理解する必要があります。 ユーザーは、画面の上部にある自動保存切り替えを使用して、自動保存をオフにすることもできます。 ユーザーに今回のこの変更について通知し、 Office 365 のこの新しい機能を最大限活用する方法について情報を提供するようにお勧めします。 [自動保存についての詳細](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [自動保存について IT 管理者が知っておくべき事項の詳細を説明します](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
+- **セルおよび数式バーの編集の強化:** Ctrl + A を押して、セルまたは数式バーのテキストを選択できるようになりました。 絵文字とその他の複雑な文字のサポートも強化されました。[詳細を表示](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
+- **手書き内容の変換:** フリーハンドのメモや描画を読みやすいテキストや整った図形に変換して、洗練されたプレゼンテーションを作成します。 [詳細情報](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
+- **SVG サポートの強化:** フィルターが適用された SVG を挿入できます。[詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **ペンでスライドにタイトルを付ける:** ペンを使用してタイトルをインク入力すると、PowerPoint でテキストに変換されます。[詳細情報](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+- **不要な編集の回避:** 誤った変更を防ぐために、読み取り専用として開くようにブックを設定します。 [ファイル] > [情報] > [ブックを保護する] > [常に読み取り専用として開く] と開きます。
+- **Microsoft Stream への公開** Microsoft Stream を使用して、より安全に組織内でプレゼンテーションを動画として共有できます。[詳細情報](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83?#bkmk_microsoftstream)
+- **Microsoft Forms:** クイズやアンケートをスライドに配置します。Office が応答を自動的に収集し、保存します。[詳細情報](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
+- **アクセシビリティ チェックの改善:** アクセシビリティ チェックで、プレゼンテーションへのアクセシビリティを向上するために、国際標準と推奨事項へのサポートを更新しました。 [詳細情報](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: セキュリティ以外の更新プログラム
+-   太線罫線を使用する表が正しく表示されない問題が修正されます。
+-   Shape.Visibile プロパティを変更するとクラッシュが発生する可能性がある問題を修正します。
+-   共同編集されているドキュメントの変更を反映できない問題を修正します。
+-   ActiveX コントロールを含むドキュメントの共同編集が失敗する原因となる問題を修正します。
+-   図形内でスペルを修正すると PowerPoint がクラッシュする問題を修正します。
+-   SharePoint Online からファイルを開くと PowerPoint がクラッシュする問題を修正します。
+-   自動保存が有効な場合に回復ウィンドウが誤って表示される問題を修正します。
+-   サインインが表示されないためにユーザーがファイルにアクセスできない問題を修正します。
+-   複数のユーザーが同じプレゼンテーションを共同編集すると、スライド マスターに正しくない重複が発生する問題を修正します。
+-   OneDrive に保存されているファイルを開いた際、保護ビューを終了すると PowerPoint がクラッシュする問題を修正します。
+
+### <a name="project-feature-updates"></a>Project: 機能の更新 
+- **スプリント管理:** アジャイル スプリントをすばやく追加、更新、削除できます。
+- **タスク ボードのフィルター処理:** 主なリソースまたはサマリー タスクをフィルター処理して、タスク ボードを効率化します。
+- **タスク ボードから達成率を設定:** 各列の達成率を選択し、ドラッグ アンド ドロップでタスクの完了を更新します。
+- **スプリント ナビゲーション:** スプリント表示を切り替えて、タスクをスプリント間ですばやく移動します。
+- **スプリントを管理する新しい方法:** アジャイルな方法でタスク ボードを使用できます。[スプリントの管理] に移動して、プロジェクトの拡大に伴って、スプリントを追加したり、削除したりできます。
+- **最近使用したファイルの保存場所の整理:** Project では、他のプロジェクトを保存した場所に関する最新のリストを保持します。プロジェクトを保存する準備ができたら、最近使用したファイルの保存場所の 1 つを選択し、それ以上気にする必要はありません。
+
+### <a name="project-non-security-updates"></a>Project のセキュリティ以外の更新プログラム
+- マスター プロジェクトのコンテキストでサブ プロジェクトの作業を行ったときに、サブ プロジェクトを保存できない問題を修正します。
+
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: セキュリティ以外の更新プログラム
+-   TLS 1.2 サポートに関連する問題を修正します。
+-   会議で [Skype 通話] を選択してユーザーを追加するとエラーが発生する問題を修正します。
+-   Skype Room が場所として追加され、会議に既にチーム会議の座標が含まれている場合、会議に Skype 座標を追加するかどうかを確認するユーザー プロンプトを削除します。
+-   UseLocationForE911Only が true に設定されている場合でも、場所が設定されるという問題を修正します。
+-   "会議センターを使用して通話する" オプションを使用して参加者一覧にあるユーザーを招待する際に、Skype for Business が停止する問題を修正します。
+-   Skype for Business 会議の作成中に、ターミナル サーバー上で動作している Outlook がフリーズする問題を修正します。
+-   EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket の既定値を TRUE に変更します。
+
+### <a name="visio-feature-updates"></a>Visio: 機能の更新
+- **ダイアグラムとソースの同期を維持:** Visio でデータ ビジュアライザーのダイアグラムを編集する場合、リンクされた Excel ソース データを最新のダイアグラム コンテンツに更新することができます。
+- **データ ビジュアライザー監査テンプレート:** Excel からコンテンツをインポートし、金融取引、在庫管理などの監査ダイアグラムを作成します。
+- **スターター図面:** 組織図、ブレーンストーミング、SDL テンプレートの新しいスターター図面により、すばやく作業を始められます。
+ - **Visio の図形から Word 文書を作成する** 図形やメタデータなど、ダイアグラムの内容を Word 文書に自動的に追加します。 次にその文書をカスタマイズして、プロセス ガイドラインと操作マニュアルを作成します。 [詳細情報](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+
+### <a name="word-feature-updates"></a>Word: 機能の更新
+- **ハンズ フリー入力:** 自分の声で口述するだけでドキュメントを作成します。タイピングは必要ありません。[詳細情報](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
+- **クラウド ファイルの自動保存が既定で有効に:** 自動保存が 2018 年 9 月の半期チャネル (対象指定) のリリースで、既定で有効になりました。 この変更により、ユーザーが OneDrive または SharePoint Online に保存されている文書内の変更を失う心配はありません。 変更は自動的にクラウドに保存され、ユーザーは今後、Ctrl + S または [保存] ボタンを押す必要は特にありません。 ただしユーザーは、プレゼンテーションを誤って変更しないようにするために、この動作の変更を理解する必要があります。 ユーザーは、画面の上部にある自動保存切り替えを使用して、自動保存をオフにすることもできます。 ユーザーに今回のこの変更について通知し、 Office 365 のこの新しい機能を最大限活用する方法について情報を提供するようにお勧めします。 [自動保存についての詳細](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [自動保存について IT 管理者が知っておくべき事項の詳細を説明する]
+- **アクセシビリティ チェックの改善:** アクセシビリティ チェックで、ドキュメントへのアクセシビリティを向上させるために、国際標準と推奨事項へのサポートを更新しました。 [詳細情報](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+- **SVG サポートの強化:** フィルターが適用された SVG を挿入できます。[詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+### <a name="word-security-updates"></a>Word: セキュリティ更新プログラム
+-   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430): Microsoft Word のリモート コード実行の脆弱性
+-   [CVE-2018-0919](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0919): Microsoft Office の情報漏えいの脆弱性
+
+### <a name="word-non-security-updates"></a>Word: セキュリティ以外の更新プログラム
+-   メモリ不足を示すメッセージが表示される原因となる問題を修正します。
+-   一部のユーザーが他の組織のユーザーと共有していた IRM 保護文書やメールを開くの妨げていた一連の問題が修正されました。
+-   一部のパフォーマンスの問題が修正されました。
+
+### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
+-   [CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332): Microsoft Graphics のリモート コード実行の脆弱性
+-   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378): Microsoft Office の情報漏えいの脆弱性
+-   [CVE-2018-8281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8281): Microsoft Office のリモート コード実行の脆弱性
+-   [CVE-2018-8157](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8157): Microsoft Office のリモート コード実行の脆弱性
+-   [CVE-2018-8158](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8158): Microsoft Office のリモート コード実行の脆弱性
+-   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950): Microsoft Office の情報漏えいの脆弱性
+-   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026): Microsoft Office のリモート コード実行の脆弱性
+-   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030): Microsoft Office のリモート コード実行の脆弱性
+
+### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
+-  特定のシナリオで更新プログラムのインストールに時間がかかる原因となった問題を修正します。
+-  ユーザーがアプリケーションを開いたときに、セーフ モードでの起動に関するメッセージが表示され、アプリケーションが起動しない問題を修正します。
+-  一部のパフォーマンスの問題が修正されました。
 
 ## <a name="version-1803-august-14"></a>バージョン 1803: 8 月 14 日
 *バージョン 1803 (ビルド 9126.2275)*
@@ -37,7 +191,7 @@ ms.locfileid: "23520629"
 -   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): Microsoft Excel の情報漏えいの脆弱性 
 
 ### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム
--   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021):  Microsoft Office 多層防御の更新プログラム 
+-   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021): Microsoft Office 多層防御の更新プログラム 
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
 -   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378): Microsoft Office の情報漏えいの脆弱性 
@@ -432,6 +586,7 @@ ms.locfileid: "23520629"
 -   [アドバイザリ 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003): Microsoft Office 多層防御の更新プログラム
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
+-   ユーザーがアプリケーションを開いたときに、セーフ モードでの起動に関するメッセージが表示され、アプリケーションが起動しない問題を修正します。
 -   Office 365 クライアントの更新が System Center Configuration Manager によって管理されるように、Office COM オブジェクトが有効になっている場合は、[ファイル] \> [アカウント] \> [更新オプション] で [今すぐ更新] オプションが非表示になっています。
 -   ユーザーが [Office ライセンス認証] ダイアログ ボックスを使用して Office のライセンス認証をしようとすると、Office アプリがクラッシュする問題を修正します。
 -   動的 DPI 環境下における Office アドインのズームとスケーリングに関する問題を修正します。
@@ -496,4 +651,4 @@ ms.locfileid: "23520629"
 
 
 > [!NOTE]
-> Office の使用に関する問題についてヘルプが必要な場合は、[[マイクロソフトの回答フォーラム](https://answers.microsoft.com/)] または [[Tech Community](https://techcommunity.microsoft.com/)] に質問を投稿するか、[[サポート](https://support.microsoft.com/contactus)] に問い合わせることができます。
+> Office 使用上の問題についてヘルプが必要な場合は、「[Microsoft 回答フォーラム](https://answers.microsoft.com/)」または「[Tech Community](https://techcommunity.microsoft.com/)」に質問を投稿するか、「[サポート](https://support.microsoft.com/contactus)」に問い合わせするかしてください。
