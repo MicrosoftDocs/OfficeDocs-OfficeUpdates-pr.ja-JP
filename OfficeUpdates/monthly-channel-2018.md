@@ -3,19 +3,19 @@ title: 2018 年の毎月のチャネル リリースのリリース ノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/11/2018
+ms.date: 9/17/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2018 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: aee606abc436b2408e274e04faf903e762de5ee7
-ms.sourcegitcommit: b0f5d03ceb73cdcf64fd8583ffa401ced6193fb4
+ms.openlocfilehash: 03c65ea79f989e380f4c51dc1bcade10ee609e01
+ms.sourcegitcommit: 4e2cd8fc9a9a4dca73f59bacfffc286048fe9aee
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2018
-ms.locfileid: "23952427"
+ms.lasthandoff: 09/17/2018
+ms.locfileid: "23991935"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018 年の毎月のチャネル リリースのリリース ノート
 
@@ -25,11 +25,11 @@ ms.locfileid: "23952427"
 > - また、Visio Pro for Office 365 および Project Online デスクトップ クライアントの新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムについても説明しています。
 > - ここに記載されている情報は、Business Premium など一部の Office 365 プランに付属する Office のバージョンの、Office 365 Business にも該当します。
 
-## <a name="version-1808-september-11"></a>バージョン 1808 ： 9 月 11 日
+## <a name="version-1808-september-11"></a>バージョン 1808:  9 月 11 日
 *バージョン 1808 (ビルド 10730.20102)*
 
-### <a name="excel-security-updates"></a>Excel: セキュリティ更新
--   [ CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331)  : Microsoft Excel のリモート コード実行の脆弱性
+### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
+-   [ CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): Microsoft Excel のリモート コード実行の脆弱性
 -   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): Microsoft Excel の情報漏えいの脆弱性
 
 ### <a name="word-security-updates"></a>Word: セキュリティ更新プログラム
@@ -56,14 +56,14 @@ ms.locfileid: "23952427"
  ### <a name="project-feature-updates"></a>Project: 機能の更新
  - **タスク ボードのカードに関する詳細な情報を表示する** タイトルだけでは内容が不明な場合、タスク ボードのカードをカスタマイズして、最も重要な詳細情報をすべて表示できます。 [詳細情報](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
 
-### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新
+### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
 -  ユーザーがコピーするために選択した、点線で囲まれたセル範囲が消えず、貼り付けなど、ユーザーがその後操作を行った後でもクリップボードに残るという Excel での問題を修正します。 
 
-### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新
+### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
  - 発生する問題の原因となった、[詳細を表示する] リンクが、複数の Exchange アカウントが設定されている一部のユーザーの検索結果リストに表示されないという問題に対応します。
 
-### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新
- - 特定のシナリオで更新プログラムのインストールが長くかかる原因となった問題を修正します。
+### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
+ - 特定のシナリオで更新プログラムのインストール時間を長期化させた問題を修正します。
  
 ### <a name="lync-non-security-updates"></a>Lync: セキュリティ以外の更新プログラム
  - IM メッセージに絵文字が表示されないという問題を修正します。 
@@ -72,10 +72,10 @@ ms.locfileid: "23952427"
 ## <a name="version-1807-august-14"></a>バージョン 1807: 8 月 14 日
 *バージョン 1807 (ビルド 10325.20118)*
 
-### <a name="access-security-updates"></a>Access: セキュリティ更新
+### <a name="access-security-updates"></a>Access: セキュリティ更新プログラム
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): Microsoft Access のリモート コード実行の Use After Free 脆弱性
 
-### <a name="excel-security-updates"></a>Excel: セキュリティ更新
+### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
 -   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): Microsoft Excel のリモート コード実行の脆弱性 
 -   [CVE-2018-8379](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8379): Microsoft Excel のリモート コード実行の脆弱性 
 -   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): Microsoft Excel の情報漏えいの脆弱性 
@@ -108,7 +108,7 @@ ms.locfileid: "23952427"
 ## <a name="version-1806-july-17"></a>バージョン 1806: 7 月 17 日
 *バージョン 1806 (ビルド 10228.20134)*
 
-### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新
+### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
  - 一部のパフォーマンスの問題が修正されました。
 
 ## <a name="version-1806-july-10"></a>バージョン 1806: 7 月 10 日
@@ -197,7 +197,7 @@ ms.locfileid: "23952427"
  - **新しいグラフを使用したデータの視覚化:** 11 種類のグラフから選択してフォームやレポートに追加することにより、データが見やすくなり、十分な情報に基づいて決定を下すことができます。[詳細情報](https://support.office.com/article/1a463106-65d0-4dbb-9d66-4ecb737ea7f7)
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
- - **編集中に共同編集者とチャットする:** Excel を終了せずに共同編集者とチャットすることで、より効果的な共同作業ができます。 一部の地域ではこの機能が使用できないことにご注意ください。[詳細を見る](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
+ - **編集中に共同編集者とチャットする:** Excel を終了せずに共同編集者とチャットすることで、共同作業の効果を向上できます。 一部の地域ではこの機能が使用できないことにご注意ください。[詳細を見る](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
 
 ### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
  - **ハンズ フリー入力:** 自分の声で口述するだけでメールを作成します。タイピングは必要ありません。[詳細情報](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
@@ -292,7 +292,7 @@ ms.locfileid: "23952427"
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950): Microsoft Office の情報漏えいの脆弱性
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026): Microsoft Office のリモート コード実行の脆弱性
 -   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030): Microsoft Office のリモート コード実行の脆弱性
-
+-   **セキュリティ上の理由により Flash、Silverlight および Shockwave コントロールを  Office でアクティブ化できない:** セキュリティ上の理由により、Windows 上の Office 365 の Microsoft Office の新しいビルドが Flash、Silverlight および Shockwave コントロールのアクティブ化を妨げています。  詳細は、[こちら](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)と[こちら](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)をご覧ください。
 
 ## <a name="version-1803-march-27"></a>バージョン 1803: 3 月 27 日
 *バージョン 1803 (ビルド 9126.2116)*
