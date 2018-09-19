@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT プロフェッショナルに、日付ごとに整理した Office 365 ProPlus リリースすべての一覧を、リリース ノートへのリンクを含めて提供します
-ms.openlocfilehash: 0075744d2adeae80a8ab591c598970b49c54d668
-ms.sourcegitcommit: 8389afa2087ea4470d99634b931baa28e35c7cd1
+ms.openlocfilehash: 275e38720009a2201df50c2edc1d7558529f79f3
+ms.sourcegitcommit: 02b7e0005dd4397f74aa831598ee35e7ed36d051
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/13/2018
-ms.locfileid: "23965153"
+ms.lasthandoff: 09/18/2018
+ms.locfileid: "23998556"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 ProPlus の更新履歴 (日付別の一覧)
 
@@ -33,7 +33,7 @@ ms.locfileid: "23965153"
 |**年**|**リリース日**|**月次チャネル**|**半期チャネル (対象指定)**|**半期チャネル**|
 |:-----|:-----|:-----|:-----|:-----|
 |2018 年|9 月 11 日   |[**バージョン 1808 (ビルド 10730.20102)**](monthly-channel-2018.md#version-1808-september-11)|[**バージョン 1808 (ビルド 10730.20102)**](semi-annual-channel-targeted-2018.md#version-1808-september-11) |[**バージョン 1803 (ビルド 9126.2282)**](semi-annual-channel-2018.md#version-1803-september-11)  <br/>  [バージョン 1708 (ビルド 8431.2309)](semi-annual-channel-2018.md#version-1708-september-11)   |
-|2018 年|9 月 5 日   |[バージョン 1808 (ビルド 10730.20088)**](monthly-channel-2018.md#version-1808-september-5) | | |
+|2018 年|9 月 5 日   |[バージョン 1808 (ビルド 10730.20088)](monthly-channel-2018.md#version-1808-september-5) | | |
 |2018 年|8 月 14 日   |[バージョン 1807 (ビルド 10325.20118)](monthly-channel-2018.md#version-1807-august-14)|[バージョン 1803 (ビルド 9126.2275)](semi-annual-channel-targeted-2018.md#version-1803-august-14)  |[バージョン 1803 (ビルド 9126.2275)](semi-annual-channel-2018.md#version-1803-august-14)  <br/>  [バージョン 1708 (ビルド 8431.2299)](semi-annual-channel-2018.md#version-1708-august-14)   |
 ||7 月 25 日   |[バージョン 1807 (ビルド 10325.20082)](monthly-channel-2018.md#version-1807-july-25) | | |
 ||7 月 17 日   |[バージョン 1806 (ビルド 10228.20134)](monthly-channel-2018.md#version-1806-july-17) | | |
@@ -158,5 +158,5 @@ ms.locfileid: "23965153"
 - [Office 365 ProPlus の更新プログラムのダウンロード サイズ](download-sizes-office365-proplus-updates.md)
 
 > [!NOTE]
-> Office の使用に関する問題についてヘルプが必要な場合は、[[マイクロソフトの回答フォーラム](https://answers.microsoft.com/)] または [[Tech Community](https://techcommunity.microsoft.com/)] に質問を投稿するか、[[サポート](https://support.microsoft.com/contactus)] に問い合わせることができます。
+> Office の使用に関する問題についてヘルプが必要な場合は、[[マイクロソフトの回答フォーラム](https://answers.microsoft.com/)] または [[Tech Community](https://techcommunity.microsoft.com/)] に質問を投稿するか、[[サポート](https://support.microsoft.com/contactus)] に問い合わせてサポートを受けることができます。
 
