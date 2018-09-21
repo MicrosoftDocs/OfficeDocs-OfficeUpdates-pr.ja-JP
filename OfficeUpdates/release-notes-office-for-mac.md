@@ -3,19 +3,19 @@ title: Office for Mac のリリース ノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/13/2018
+ms.date: 9/20/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 サブスクライバー向け Office for Mac リリース用リリース ノートを IT プロフェッショナルに提供
-ms.openlocfilehash: 866eaf85ce6be9e85b035e515bf321802941e112
-ms.sourcegitcommit: c58f7bb10aa58c3eb9d9d498bc3c0f27b5d17752
+ms.openlocfilehash: c06385280194586ef995851505ac9faa9817409f
+ms.sourcegitcommit: 4f616612841c5fb841dc171d84528f9423967e5d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/14/2018
-ms.locfileid: "23976908"
+ms.lasthandoff: 09/20/2018
+ms.locfileid: "24056146"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac のリリース ノート
 
@@ -27,7 +27,7 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 > [!NOTE]
 > - Office for Mac のすべてのリリースおよびその他のダウンロード リンクの一覧については、[Office for Mac の更新履歴](update-history-office-for-mac.md)を参照してください。 
 > - Office Insider の場合は、[Insider Fast ビルドのリリース ノート](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a)を参照してください。
-> - これらのリリース ノートは、Office for Mac の永続版である Office 2016 for Mac にも該当し、小売店またはボリューム ライセンス契約による 1 回限りの購入として利用できます。ただし、リリース ノートに記載されている一部の機能は、Office 365 サブスクリプションがある場合にのみ使用できます。
+> - この情報は、Office for Mac の永続的バージョンであり小売店またはボリューム ライセンス契約によって 1 回限りの購入で使用できる Office 2016 for Mac には適用されなくなりました。  16.16 を含む古いバージョンは、Office for Mac 2016 のボリューム ライセンスでアクティベートできます。 ただし、16.17 以降の Office for Mac 2016 のボリューム ライセンスは互換性がなくなりました。
 > - ダウンロード リンクは、最新のリリースにのみ提供されます。
 > - Microsoft AutoUpdate は、Microsoft のさまざまな Mac 製品への更新プログラムを提供します。そのため、Office for Mac を実行していない場合でも、Microsoft AutoUpdate を更新する通知が表示される場合があります。
 
@@ -43,7 +43,7 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 |**アプリケーション**|**機能の更新プログラム**|**セキュリティ更新プログラム**|**更新プログラム パッケージのダウンロード リンク**|
 |:-----|:-----|:-----|
 |Word  <br/> |**\@ メンションで注意を喚起します:** コメント内で @mentions を使用して、入力の必要があることを同僚に伝えます。 [詳細情報](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd) <br/><br/>**インクで描画します: **お使いのマウスかタッチ パッドを使用し、Draw タブのペンで、書き込み、描画、および強調表示を行います。 [詳細情報](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>**すべての角度を表示する 3D モデルを挿入します:** 3D モデルを簡単に挿入してから、360 ° 回転させます。 [詳細情報](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/>||[Word の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.17.18090901_Updater.pkg) <br/>|
-|Excel  <br/> |**インクで描画します: **お使いのマウスかタッチ パッドを使用し、Draw タブのペンで、書き込み、描画、および強調表示を行います。 [詳細情報](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**すべての角度を表示する 3D モデルを挿入します:** 3D モデルを簡単に挿入してから、360 ° 回転させます。 [詳細情報](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**カスタム ショートカットで戻ります:** 聞きました。 ご要望により、カスタム ショートカット キーのサポートを再度開始しました。 [詳細情報](https://support.office.com/article/6bbeb90e-96d9-4e03-b199-fc026ebdc321) <br/>|[CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): Microsoft Excel の情報漏えいの脆弱性 <br/><br/>[CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): Microsoft Excelのリモートコード実行の脆弱性 <br/>  |[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.17.18090901_Updater.pkg) <br/>|
+|Excel  <br/> |**インクで描画します: **お使いのマウスかタッチ パッドを使用し、Draw タブのペンで、書き込み、描画、および強調表示を行います。 [詳細情報](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**すべての角度を表示する 3D モデルを挿入します:** 3D モデルを簡単に挿入してから、360 ° 回転させます。 [詳細情報](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**カスタム ショートカットで戻ります:** 聞きました。 ご要望により、カスタム ショートカット キーのサポートを再度開始しました。 [詳細情報](https://support.office.com/article/6bbeb90e-96d9-4e03-b199-fc026ebdc321) <br/>|[CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): Microsoft Excel の情報漏えいの脆弱性 <br/><br/>[CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): Microsoft Excel のリモート コード実行の脆弱性 <br/>  |[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.17.18090901_Updater.pkg) <br/>|
 |PowerPoint  <br/> |**\@ メンションで注意を喚起します:** コメント内で @mentions を使用して、入力の必要があることを同僚に伝えます。 [詳細情報](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd) <br/><br/>**インクで描画: **お使いのマウスかタッチ パッドを使用し、Draw タブのペンで、書き込み、描画、および強調表示を行います。[詳細を表示](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**すべての角度を表示する 3D モデルを挿入します:** 3D モデルを簡単に挿入してから、360 ° 回転させます。 [詳細情報](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**選択されたフォントが表示されるフォントです:** どこに移動しても選択したフォントが使われるように、カスタム フォントがファイルに埋め込まれました。 [詳細情報](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/>||[PowerPoint の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.17.18090901_Updater.pkg) <br/>|
 |Outlook  <br/> |||[Outlook の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.17.18090901_Updater.pkg) <br/>|
 |Microsoft AutoUpdate 4.3  <br/> |||[Microsoft AutoUpdate 更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.3.18090901_Updater.pkg) <br/> | 
