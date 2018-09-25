@@ -3,19 +3,19 @@ title: Office for Mac のリリース ノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/20/2018
+ms.date: 9/24/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 サブスクライバー向け Office for Mac リリース用リリース ノートを IT プロフェッショナルに提供
-ms.openlocfilehash: c06385280194586ef995851505ac9faa9817409f
-ms.sourcegitcommit: 4f616612841c5fb841dc171d84528f9423967e5d
+ms.openlocfilehash: 8db9d034e7a95d69e9d0eca05731e57e217f6bcc
+ms.sourcegitcommit: d561f3f10cc54c9852f8bb903687803c77f71218
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/20/2018
-ms.locfileid: "24056146"
+ms.lasthandoff: 09/25/2018
+ms.locfileid: "25004454"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac のリリース ノート
 
@@ -23,11 +23,13 @@ ms.locfileid: "24056146"
 Office 365 サブスクリプションに付属する Office for Mac は、新機能、セキュリティ更新プログラム、およびセキュリティ以外の更新プログラムを提供するために定期的に更新されます。
   
 更新プログラムは、Microsoft AutoUpdate (MAU) で入手できます。Microsoft AutoUpdate を使用するには、Word などの Office アプリケーションを起動し、**[ヘルプ]** > **[更新プログラム]** を選択します。管理者で組織内のコンピューターを既存のソフトウェア展開ツールで更新する場合は、各アプリケーションの更新パッケージをダウンロードしてすることが展開できます。
+
   
 > [!NOTE]
 > - Office for Mac のすべてのリリースおよびその他のダウンロード リンクの一覧については、[Office for Mac の更新履歴](update-history-office-for-mac.md)を参照してください。 
 > - Office Insider の場合は、[Insider Fast ビルドのリリース ノート](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a)を参照してください。
-> - この情報は、Office for Mac の永続的バージョンであり小売店またはボリューム ライセンス契約によって 1 回限りの購入で使用できる Office 2016 for Mac には適用されなくなりました。  16.16 を含む古いバージョンは、Office for Mac 2016 のボリューム ライセンスでアクティベートできます。 ただし、16.17 以降の Office for Mac 2016 のボリューム ライセンスは互換性がなくなりました。
+> - 2018年 9 月の 16.17 のリリース以降、この情報は Office 2019 for Mac にも適用されます。販売店またはボリューム ライセンス契約を通じて 1 回限りの購入として利用可能な Office for Mac のバージョンです。 ただし、リリース ノートに記載されているいくつかの機能は、Office 365 サブスクリプションがある場合のみ利用可能です。
+> - 16.16 以前のバージョンのリリース ノートは Office 2016 for Mac にも適用され、1 回限りの購入として利用可能な Office for Mac のバージョンでもあります。 16.16 以前のバージョンは、Office 2016 for Mac のボリューム ライセンスでアクティベートできます。 Office 2016 for Mac のボリューム ライセンスで 16.17 以降のバージョンをアクティベートすることはできません。 
 > - ダウンロード リンクは、最新のリリースにのみ提供されます。
 > - Microsoft AutoUpdate は、Microsoft のさまざまな Mac 製品への更新プログラムを提供します。そのため、Office for Mac を実行していない場合でも、Microsoft AutoUpdate を更新する通知が表示される場合があります。
 
@@ -60,7 +62,7 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 |**アプリケーション**|**機能の更新プログラム**|**セキュリティ更新プログラム**|**更新プログラム パッケージのダウンロード リンク**|
 |:-----|:-----|:-----|
 |Word  <br/> |||[Word の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.16.18081201_Updater.pkg) <br/>|
-|Excel  <br/> ||[CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): Microsoft Excel のリモート コード実行の脆弱性  <br/>[CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): Microsoft Excelの情報漏えいの脆弱性  <br/>  |[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.16.18081402_Updater.pkg) <br/>|
+|Excel  <br/> ||[CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): Microsoft Excel のリモート コード実行の脆弱性  <br/>[CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): Microsoft Excel の情報漏えいの脆弱性  <br/>  |[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.16.18081402_Updater.pkg) <br/>|
 |PowerPoint  <br/> |||[PowerPoint の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.16.18081201_Updater.pkg) <br/>|
 |Outlook  <br/> |||[Outlook の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.16.18081201_Updater.pkg) <br/>|
 |Microsoft AutoUpdate 4.2  <br/> ||[CVE-2018-8412](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8412): Microsoft AutoUpdate Office 特権の昇格の脆弱性  <br/>|[Microsoft AutoUpdate 更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.2.18081201_Updater.pkg) <br/> | 
