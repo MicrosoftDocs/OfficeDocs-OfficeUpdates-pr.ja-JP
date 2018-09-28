@@ -3,24 +3,24 @@ title: Office for Mac の更新履歴
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/24/2018
+ms.date: 9/27/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
-description: IT プロフェッショナルに、office for Mac の最新更新プログラムに関する情報を提供します。それには、ダウンロード パッケージへのリンク、更新履歴が含まれます
-ms.openlocfilehash: 5b6bc3cb28625ebe85523e3a75f97fa6bebad0d6
-ms.sourcegitcommit: d561f3f10cc54c9852f8bb903687803c77f71218
+description: IT プロフェッショナル向けに、ダウンロード パッケージへのリンクを含む Office for Mac の最新の更新プログラムに関する情報と、更新履歴を提供します。
+ms.openlocfilehash: b143ab1be848e0efe17709fcce92302e04855c2a
+ms.sourcegitcommit: d14086363fa72dc14ac0e56a379471ade069de85
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/25/2018
-ms.locfileid: "25004444"
+ms.lasthandoff: 09/27/2018
+ms.locfileid: "25341382"
 ---
 # <a name="update-history-for-office-for-mac"></a>Office for Mac の更新履歴
 
   
-Office 365 サブスクリプションに付属する Office for Mac は、新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムを提供するために定期的に更新されます。以下の情報は、組織内のユーザー Office for Mac を展開する IT プロフェッショナルを主な対象としています。
+Office 365 のサブスクリプションに付属する Office for Mac は、新しい機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムを提供するために定期的に更新されます。以下の情報は、組織内のユーザーに対して Office for Mac を展開する IT プロフェッショナルを主な対象としています。
 
 最新バージョンの Office for Mac について次の表にまとめます。
 
@@ -29,15 +29,15 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 16.17 (18090901)  <br/> |2018 年 9 月 11 日  <br/> |[ダウンロード](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |[リリース ノート](release-notes-office-for-mac.md#september-2018-release) <br/> |
   
 > [!NOTE]
-> - 2018年 9 月の 16.17 のリリース以降、この情報は Office 2019 for Mac にも適用されます。販売店またはボリューム ライセンス契約を通じて 1 回限りの購入として利用可能な Office for Mac のバージョンです。
-> - 16.16 およびそれ以前のバージョンの更新履歴情報も Office 2016 for Mac に適用されます。1 回限りの購入として利用可能な Office for Mac のバージョンでもあります。 16.16 以前のバージョンは、Office 2016 for Mac のボリューム ライセンスでアクティベートできます。 Office 2016 for Mac のボリューム ライセンスで 16.17 以降のバージョンをアクティベートすることはできません。
-> - 指定されたリリースの Office for Mac に含まれる機能、セキュリティ更新プログラム、およびセキュリティ以外の更新プログラムの詳細については、「[Office for Mac のリリース ノート](release-notes-office-for-mac.md)」をご覧ください。
-> - 新規リリースをより早く利用するには、[Office Insider](https://support.office.com/article/f4208185-b63a-4b68-9c7a-9a32d2411c16#ID0EAACAAA=Mac) プログラムにご参加ください。
+> - 2018 年の 16.17 リリース以降、この情報は Office 2019 にも適用されます。販売店またはボリューム ライセンス契約を通じて一括購入で利用可能な Office for Mac のバージョンです。
+> - バージョン 16.16 とそれ以前の更新履歴情報も、Office 2016 にも適用されます。これも、一括購入が可能な Office for Mac のバージョンです。16.16 とそれまでの古いバージョンは、Office for Mac のボリューム ライセンスでアクティブ化することができます。バージョン 16.17 とそれ以降は、Office for Mac ボリューム ライセンスではアクティブ化できません。9 月以降の Office for Mac のリリースの詳細については、「[Office for Mac のリリース ノート](release-notes-office-2016-mac.md)」を参照してください。
+> - Office for Mac のリリースに含まれる機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムの詳細については、「[Office for Mac のリリース ノート](release-notes-office-for-mac.md)」を参照してください。
+> - 新しいリリースを早く利用されたい場合は、[Office Insider プログラム](https://support.office.com/article/f4208185-b63a-4b68-9c7a-9a32d2411c16#ID0EAACAAA=Mac)に参加してください。
 
 ## <a name="most-current-packages-for-office-for-mac"></a>Office for Mac の最新パッケージ
 
 
-以下の表に、最新パッケージの Office for Mac と個々のアプリケーション (Word および Excel など) を示します。すべてのパッケージは 64 ビットのみです。ビルド番号の後に、YYMMDD 形式でビルド日付を括弧内に記します。アプリケーション パッケージがまだインストールされていない場合にはインストール パッケージが使用され、既存のインストールを更新する場合には更新プログラム パッケージが使用されます。
+以下の表に、Office for Mac 向けと、Word、Excel など個々のアプリケーション向けの最新パッケージを一覧表示します。パッケージはすべて 64 ビットのみです。ビルドの日付は、バージョン番号の後ろの括弧内に YYMMDD 形式で一覧表示されます。すでにインストールされたアプリケーションがない場合にはインストール パッケージが使用され、同時にアップデート パッケージが既存のインストールを更新するために使用されます。
   
 |**アプリケーション**|**バージョン**|**ダウンロード リンク**|**インストール パッケージの SHA1 ハッシュ**|
 |:-----|:-----|:-----|:-----|
@@ -49,22 +49,22 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 |OneNote  <br/> |16.17.0 (18090901)   <br/> |[更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.17.18090901_Updater.pkg) <br/> |該当なし  <br/> |
    
 
-## <a name="most-current-packages-for-other-mac-programs-from-microsoft"></a>Microsoft の他の Mac プログラムに関する最新パッケージ
+## <a name="most-current-packages-for-other-mac-programs-from-microsoft"></a>Microsoft による他の Mac プログラム向けの最新パッケージ
 
-次の表に、IT プロフェッショナルが関心を示す可能性がある Microsoft の他の Mac プログラムに関する最新パッケージに関する情報を、ダウンロード リンクを含めて記します。バージョン番号の後に YYMMDD という形式でビルド日付を括弧内に示します。 
+以下の表に、IT プロフェッショナルにとって興味深い、ダウンロード リンクを含む Microsoft による他の Mac プログラム向けの最新パッケージについての情報を示します。ビルドの日付は、バージョン番号の後ろの括弧内に YYMMDD 形式で一覧表示されます。 
   
 |**プログラム**|**バージョン**|**パッケージ**|**SHA1 ハッシュ**|**詳細情報**|
 |:-----|:-----|:-----|:-----|:-----|
 |Microsoft AutoUpdate (MAU)  <br/> |4.3 (18090901)  <br/> |[ダウンロード](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> | 8DBABB5F9BEE7269491AC3A3A87A6E3FEC90689C  <br/> | この更新プログラム パッケージは、64 ビットです。 <br/><br/>[MAU のリリース履歴](release-history-microsoft-autoupdate.md) |
-|Skype for Business  <br/> |16.21.0.65  <br/> |[ダウンロード](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> | 31235D956A16159A7552B5351A26704074A10722 <br/> |2018 年 9 月 14 日に最新バージョンがリリースされました。 <br/><br/>[最新の更新プログラム](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> |
+|Skype for Business  <br/> |16.21.0.75  <br/> |[ダウンロード](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> | A530ADCB7DEF1EFDB9590B159CDB27DE571D1269 <br/> |2018 年 9 月 26 日に最新バージョンがリリースされました。 <br/><br/>[最新の更新プログラム](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> |
 |リモート デスクトップ | 10. 2.1. (1143) | [ダウンロード](https://go.microsoft.com/fwlink/?linkid=868963) | a9df9b5d37707d0eeca3c9368d1219726f323d99 | このインストール パッケージは、64 ビットです。 <br/> <br/>[新機能](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |
 |Intune ポータル サイト |1.5 (52.1805002.000) [180509] | [ダウンロード](https://go.microsoft.com/fwlink/?linkid=869655)| 6aa67dc0accea7a3745e29133d2591568ff9f1cb | [Microsoft Intune の新機能](https://docs.microsoft.com/intune/whats-new)|
-|Office 2016 for Mac 用の Microsoft SharePoint オンプレミス Safari ブラウザー プラグイン  <br/> |15.32.0 (170309)  <br/> |[ダウンロード](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |45af4855ee23157b8f0a909e60a7e97865d1f8c0  <br/> | このインストール パッケージは、64 ビットです。  <br/> |
+|Office 2016 for Mac 用の Microsoft SharePoint オンプレミス Safari ブラウザのプラグイン  <br/> |15.32.0 (170309)  <br/> |[ダウンロード](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |45af4855ee23157b8f0a909e60a7e97865d1f8c0  <br/> | このインストール パッケージは、64 ビットです。  <br/> |
    
 
 ## <a name="release-history-for-office-for-mac"></a>Office for Mac のリリース履歴
 
-次の表に、Office for Mac のリリース履歴情報とダウンロード リンクを示します。この表はリリース日順になっていて、最新のリリース日のものが先頭です。バージョン番号の後に、YYMMDD という形式のビルド日付を括弧内に記しします。2016 年 8 月 22 日以降は、すべてのリリースが 64 ビットです。2016 年 8 月 22 日より前のリリースはすべて 32 ビットです。
+以下の表に、Office for Mac のリリース履歴情報とダウンロード リンクを示します。この表は日付順に並んでおり、最新のリリース日が最初に表示されています。ビルドの日付は、バージョン番号の後ろの括弧内に YYMMDD 形式で一覧表示されています。2016 年 8 月 22 日以降のリリースはすべて、64 ビットのみです。2016 年 8 月 22 日より以前のリリースはすべて、 32 ビットのみです。
 
 > [!NOTE]
 > ダウンロード リンクは、最新のリリースにのみ記します。
@@ -114,7 +114,7 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 |2016 年 6 月 25 日  <br/> |15.23.2 (160624)  <br/> |MRU サービスの修正プログラム  <br/> |||
 |2016 年 6 月 18 日  <br/> |15.23.1 (160617)  <br/> |日本語マクロの修正プログラム  <br/>  |||
 |2016 年 6 月 14 日  <br/> |15.23.0 (160611)  <br/> |[KB 3165798](https://support.microsoft.com/kb/3165798) <br/> |||
-|2016 年 5 月 13 日  <br/> |15.22.1 (160512)  <br/> |文末脚注の互換性修正プログラム  <br/>  |||
+|2016 年 5 月 13 日  <br/> |15.22.1 (160512)  <br/> |EndNote 互換性修正プログラム  <br/>  |||
 |2016 年 5 月 10 日  <br/> |15.22.0 (160506)  <br/> |[KB 3155777](https://support.microsoft.com/kb/3155777) <br/> |||
 |2016 年 4 月 12 日  <br/> |15.21.1 (160411)  <br/> |[KB 3142577](https://support.microsoft.com/kb/3142577) <br/> |||
 |2016 年 3 月 16 日  <br/> |15.20.0 (160315)  <br/> |[KB 3138327](https://support.microsoft.com/kb/3138327) <br/> |||
