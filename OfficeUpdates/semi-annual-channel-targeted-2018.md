@@ -3,19 +3,19 @@ title: 2018 年の半期チャネル (対象指定) リリースのリリース 
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/26/2018
+ms.date: 9/27/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2018 年の半期チャネル (対象指定) リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: c67197a9d1c431e33fe79ab608bdd097e311007f
-ms.sourcegitcommit: db43e848b1320ec6d5f32094facaf0b6994a1046
+ms.openlocfilehash: 7ec2469aa05f6885be6187cb3a733968c992a401
+ms.sourcegitcommit: d14086363fa72dc14ac0e56a379471ade069de85
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2018
-ms.locfileid: "25092115"
+ms.lasthandoff: 09/27/2018
+ms.locfileid: "25341392"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>2018 年の半期チャネル (対象指定) リリースのリリース ノート
 
@@ -28,13 +28,13 @@ ms.locfileid: "25092115"
  ## <a name="version-1808-september-11"></a>バージョン 1808:  9 月 11 日
 *バージョン 1808 (ビルド 10730.20102)*
 
-### <a name="access-feature-updates"></a>Access: 機能更新プログラム
+### <a name="access-feature-updates"></a>Access: 機能の更新プログラム
  - **新しいグラフを使用したデータの視覚化:** 11 種類の形式が用意されたグラフをフォームやレポートに追加することにより、データが見やすく、十分な情報に基づいて決定を下すことができます。[詳細情報](https://support.office.com/article/1a463106-65d0-4dbb-9d66-4ecb737ea7f7)
  
  ### <a name="access-security-updates"></a>Access: セキュリティ更新プログラム
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): Microsoft Access のリモート コード実行の Use-After-Free 脆弱性
 
-### <a name="excel-feature-updates"></a>Excel: 機能更新プログラム
+### <a name="excel-feature-updates"></a>Excel: 機能の更新プログラム
  - **共同編集:** ブック内で他のユーザーと同時に作業します。 [詳細情報](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
  - **クラウド ファイルの自動保存が既定で有効に:** 自動保存が 2018 年 9 月の半期チャネル (対象指定) のリリースで、既定で有効となりました。 この変更により、ユーザーが OneDrive または SharePoint Online に保存されている文書内の変更を失う心配はありません。 変更は自動的にクラウドに保存され、ユーザーは今後、 Ctrl + S または [保存] ボタンを押す必要は特にありません。 ただし、ユーザーはこの動作の変更を理解して、文書を誤って変更しないようにする必要があります。 ユーザーは、画面の上部にある自動保存切り替えを使用して、自動保存をオフにすることもできます。 今後の変更についてユーザーに知らせるとともに、 Office 365 の新しい機能を最大限に活用する方法を提供することをお勧めします。 [自動保存についての詳細](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [自動保存について IT 管理者が知っておくべき事項の詳細を説明します](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
 - **セルおよび数式バーの編集の強化:** Ctrl + A を押して、セルまたは数式バーのテキストを選択できるようになりました。 絵文字とその他の複雑な文字のサポートも強化されました。[詳細を表示](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
@@ -60,7 +60,7 @@ ms.locfileid: "25092115"
 -   FullCalcOnLoad プロパティが設定されているにも関わらず、再計算が開かないことがある問題を修正します。  
 -   日付のセル書式設定で和暦を使用すると、間違った年が表示される問題を修正します。
 -   Excel データ モデルにデータをインポートする際に、値が負のゼロの場合にはエラーが発生しました。修正後は、負のゼロはゼロとしてインポートします。
--   Excel のピボット テーブルでグループ化 (またはグループ解除) 操作を行うとクラッシュを生じる可能性がある問題を修正します。
+-   Excel のピボット テーブルでグループ化 (またはグループ解除) 操作を行うとクラッシュが生じる可能性がある問題を修正します。
 -   グラフ操作で Excel がクラッシュする可能性がある問題を修正します。
 -   Power View アドインが一部のユーザーに対して誤って無効になっている問題を修正します。
 -   ドキュメントの回復中に作成された一時的な自動回復ファイルがクリーンアップされない問題を修正します。
@@ -79,7 +79,6 @@ ms.locfileid: "25092115"
 - **削除済みアイテムを開封済みに:** 削除したメッセージすべてを開封済みとして設定できるようになりました。[ファイル] \> [オプション] \> [メール] \> [その他] の順に移動してオプトインします。
 - **3 つのタイム ゾーンを表示:** 複数のタイム ゾーン間で会議をスケジュールする必要がある場合、 予定表に複数のタイム ゾーンを追加すると、簡単に各人の空き状況を確認して、全員に都合の良い時間を選択できます。 [詳細情報](https://support.office.com/article/5ab3e10e-5a6c-46af-ab48-156fedf70c04)
 - **グループの作成のユーザー エクスペリエンスの改善:** グループの作成の外観をよりモダンでまとまりのあるものにするため、ユーザー エクスペリエンスを改善しました。 [詳細を表示](https://support.office.com/article/04d0c9cf-6864-423c-a380-4fa858f27102)
-- **ブラインド カーボン コピー (Bcc) 警告:** Bcc で受信したメッセージに対して [全員に返信] を選択すると警告が表示されます。
 
 ### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム
 -   [CVE-2018-8310](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8310): Microsoft Office 改ざんの脆弱性
@@ -103,9 +102,7 @@ ms.locfileid: "25092115"
 - **インクの変換:** フリーハンドのメモや描画を読みやすいテキストや鮮明な図形に変換して、洗練されたプレゼンテーションを作成します。 [詳細情報](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
 - **SVG サポートの強化:** フィルターが適用された SVG を挿入できます。[詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 - **ペンでスライドにタイトルを付ける:** ペンを使用してタイトルをインク入力すると、PowerPoint はテキストに変換します。[詳細情報](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
-- **不要な編集の回避:** 誤って変更しないために、読み取り専用として開くようワークブックを設定します。 [ファイル] > [情報] > [ブックを保護する] > [常に読み取り専用として開く] と開きます。
-- **Microsoft Stream への公開** Microsoft Stream を使用して、組織内でプレゼンテーションを動画としてより安全に共有できます。[詳細情報](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83?#bkmk_microsoftstream)
-- **Microsoft Forms:** クイズやアンケートをスライドに配置します。Office は回答を収集し、保存します。[詳細情報](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
+- **不要な編集の回避:** 誤って変更しないために、読み取り専用として開くようブックを設定します。 [ファイル] > [情報] > [ブックを保護する] > [常に読み取り専用として開く] と開きます。
 - **アクセシビリティ チェックの改善:** プレゼンテーションへのアクセシビリティを向上するために、国際標準と推奨事項のサポートを強化しました。 [詳細情報](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: セキュリティ以外の更新プログラム
@@ -116,7 +113,7 @@ ms.locfileid: "25092115"
 -   図形内でスペルを修正すると PowerPoint がクラッシュする問題を修正します。
 -   SharePoint Online からファイルを開くと PowerPoint がクラッシュする問題を修正します。
 -   自動保存が有効な場合に、回復ウィンドウが誤って表示される問題を修正します。
--   サインインが表示されないためにユーザーがファイルにアクセスできない問題を修正します。
+-   サインインが表示されずユーザーがファイルにアクセスできない問題を修正します。
 -   複数のユーザーでプレゼンテーションを共同編集している場合に、スライド マスターに正しくない重複が発生する問題を修正します。
 -   OneDrive に保存されているファイルを開いた際、保護ビューを終了すると PowerPoint がクラッシュする問題を修正します。
 
@@ -146,8 +143,8 @@ ms.locfileid: "25092115"
 - **スターター図面:** 組織図、ブレーンストーミング、SDL テンプレートの新しいスターター図面により、すばやく作業を始められます。
  - **Visio の図形から Word 文書を作成する** 図形やメタデータなど、ダイアグラムの内容を Word 文書に自動的に追加します。 次にその文書をカスタマイズして、プロセス ガイドラインと操作マニュアルを作成します。 [詳細情報](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
 
-### <a name="word-feature-updates"></a>Word: 機能更新プログラム
-- **クラウド ファイルの自動保存の既定値が有効に:** 2018 年 9 月の半期チャネル (対象指定) のリリースで、自動保存の既定値は有効になりました。 この変更により、ユーザーが OneDrive または SharePoint Online に保存されている文書内の変更を失う心配はありません。 変更は自動的にクラウドに保存され、ユーザーは今後、Ctrl + S または [保存] ボタンを押す必要は特にありません。 ただしユーザーは、プレゼンテーションを誤って変更しないようにするために、この動作の変更を理解する必要があります。 ユーザーは、画面の上部にある自動保存切り替えを使用して、自動保存をオフにすることもできます。 ユーザーに今回のこの変更について通知し、 Office 365 のこの新しい機能を最大限活用する方法について情報を提供するようにお勧めします。 [自動保存についての詳細](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [自動保存について IT 管理者が知っておくべき事項の詳細を説明する]
+### <a name="word-feature-updates"></a>Word: 機能の更新プログラム
+- **クラウド ファイルの自動保存が既定で有効に:** 自動保存が 2018 年 9 月の半期チャネル (対象指定) のリリースで、既定で有効となりました。 この変更により、ユーザーが OneDrive または SharePoint Online に保存されている文書内の変更を失う心配はありません。 変更は自動的にクラウドに保存され、ユーザーは今後、Ctrl + S または [保存] ボタンを押す必要は特にありません。 ただしユーザーは、プレゼンテーションを誤って変更しないようにするために、この動作の変更を理解する必要があります。 ユーザーは、画面の上部にある自動保存切り替えを使用して、自動保存をオフにすることもできます。 ユーザーに今回のこの変更について通知し、 Office 365 のこの新しい機能を最大限活用する方法について情報を提供するようにお勧めします。 [自動保存についての詳細](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [自動保存について IT 管理者が知っておくべき事項の詳細を説明する]
 - **アクセシビリティ チェックの改善:** ドキュメントへのアクセシビリティを向上させるために、国際標準と推奨事項のサポートを強化しました。 [詳細情報](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 - **SVG サポートの強化:** フィルターが適用された SVG を挿入できます。[詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
@@ -231,7 +228,7 @@ ms.locfileid: "25092115"
 -   [CVE-2018-8248](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8248): Microsoft Excel のリモート コード実行の脆弱性
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
--   Excel のピボット テーブルでグループ化 (またはグループ解除) 操作を行うとクラッシュを生じる可能性がある問題を修正します。
+-   Excel のピボット テーブルでグループ化 (またはグループ解除) 操作を行うとクラッシュが生じる可能性がある問題を修正します。
 
 ### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム
 -   [CVE-2018-8244](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8244): Microsoft Outlook 特権の昇格の脆弱性
@@ -362,7 +359,7 @@ ms.locfileid: "25092115"
 -   Access ランタイム アプリケーション (.accde ファイル) を起動する際に、"データベースの形式を認識できません" というエラー メッセージが表示され、アプリケーションを起動できない問題を修正します。
 -   テキスト ボックスまたはコンボ ボックス内のテキストを選択しようとすると、指定したものではなく、すべてのテキストが選択される問題を修正します。
 
-### <a name="excel-feature-updates"></a>Excel: 機能更新プログラム
+### <a name="excel-feature-updates"></a>Excel: 機能の更新プログラム
 -   **Microsoft Translator:** Microsoft Translator を使用して、単語、フレーズ、文章を別の言語に翻訳します。これは、リボンの [校閲] タブから実行できます。
 -   **SVG アイコンから図形への変換:** すべての SVG 画像とアイコンを Office 図形に変換することで、色、サイズ、テクスチャを変更できます。
 -   **セルを選択解除する:** ワークシートで選択を行い、間違ってクリックしたセルを選択解除します。最初からやり直す必要はありません。
@@ -535,7 +532,7 @@ ms.locfileid: "25092115"
 -   **描画の共同作業:** OneDrive for Business または SharePoint Online で描画を共有して、他のユーザーと同時に作業します。誰が描画しているかを確認したり、コメントを追加したり、ファイル アクティビティを確認できます。 [詳細情報](https://support.office.com/article/413c0b5a-0d52-4ace-af85-8b9bf115bbbf)
 -   **危険な拡張子をブロック:** リスクが高いとみなされ、OLE パッケージ オブジェクトとして埋め込まれている拡張子は、デフォルトでは有効化されないようにブロックされています。.exe、.vbs、.js などがこれに該当します。[詳細情報](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
-### <a name="word-feature-updates"></a>Word: 機能更新プログラム
+### <a name="word-feature-updates"></a>Word: 機能の更新プログラム
 -   **SVG アイコンから図形への変換:** すべての SVG 画像とアイコンを Office 図形に変換することで、色、サイズ、テクスチャを変更できます。
 -   **文字数:** 入力時にステータス バーに文字数を表示します。カスタマイズ ステータス バー メニューから有効にできます。
 -   **サイトとグループにすばやくアクセス:** [ファイル] メニューから、よく使用するサイトやグループに格納されているドキュメントの作業を開始できます。
@@ -580,7 +577,7 @@ ms.locfileid: "25092115"
 -   [CVE-2018-0795](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0795): Microsoft Office のリモート コード実行の脆弱性
 -   [CVE-2018-0851](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0851): Microsoft Office のメモリ破損の脆弱性
 -   [CVE-2018-0853](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0853): Microsoft Office の情報漏えいの脆弱性
--   [アドバイザリ 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003): Microsoft Office 多層防御
+-   [アドバイザリ 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003): Microsoft Office 多層防御の更新プログラム
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 -   アプリケーションを起動しようとすると、セーフ モードでの起動に関するメッセージが表示され、アプリケーションを起動できない問題を修正します。
@@ -616,7 +613,7 @@ ms.locfileid: "25092115"
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
 -   [CVE-2018-0796](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0796): Microsoft Excel のリモート コード実行の脆弱性
--   [アドバイザリ 170021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170021): Microsoft Office 多層防御
+-   [アドバイザリ 170021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170021): Microsoft Office 多層防御の更新プログラム
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
 -   ピボットテーブルをプログラムで作成した後に続いてプログラムで更新すると、Excel がクラッシュする問題を修正します。
@@ -640,7 +637,7 @@ ms.locfileid: "25092115"
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
 -   [CVE-2018-0795](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0795): Microsoft Office のリモート コード実行の脆弱性
--   [アドバイザリ 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003): Microsoft Office 多層防御
+-   [アドバイザリ 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003): Microsoft Office 多層防御の更新プログラム
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 -   ID がオンプレミスの Active Directory とフェデレーションされている Office 365 Germany プランのドメイン ユーザーに、シングル サインオン (SSO) のサポートを追加します。
