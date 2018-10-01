@@ -1,72 +1,72 @@
 ---
-title: Office 365 ProPlus の更新プログラムに関するリリース情報
+title: Office 365 ProPlus 更新プログラム リリース情報
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/11/18
+ms.date: 9/28/18
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: IT プロフェッショナルに対して、最新リリースの Office 365 ProPlus の一覧をそれぞれの更新プログラム チャネルごとに、リリース ノートへのリンクと更新履歴を含めて提供します
-ms.openlocfilehash: 86a81b16337785d3d33046cd9e52edd0f26538c1
-ms.sourcegitcommit: b0f5d03ceb73cdcf64fd8583ffa401ced6193fb4
+description: IT 担当者向けに、更新プログラム チャネルごとの Office 365 ProPlus の最新リリース一覧と、リリース ノートおよび更新履歴へのリンクを提供します
+ms.openlocfilehash: 56d4196a2927ab36e3f6155b9e47e02f58d2efcc
+ms.sourcegitcommit: aab293ffb82e0d84b3c9e8d80ca96c3368514d42
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2018
-ms.locfileid: "23952387"
+ms.lasthandoff: 09/28/2018
+ms.locfileid: "25346983"
 ---
-# <a name="release-information-for-updates-to-office-365-proplus"></a>Office 365 ProPlus の更新プログラムに関するリリース情報
+# <a name="release-information-for-updates-to-office-365-proplus"></a>Office 365 ProPlus 更新プログラム リリース情報
 
-Office 365 ProPlus は、新機能、セキュリティ更新プログラム、セキュリティ外の更新プログラムによって定期的に更新されます。これらの更新プログラムは[更新プログラム チャネル](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)を使用してリリースされます。各更新プログラム チャネルのリリースごとに、バージョンとビルド番号が割り当てられています。 
+Office 365 ProPlus は、新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムにより定期的に更新されます。これらの更新プログラムは[更新プログラム チャネル](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)を使用してリリースされます。各更新プログラム チャネルのリリースごとに、バージョンとビルド番号が割り当てられています。 
 
-次の表では、サポートされているバージョンと最新のビルド番号を更新プログラム チャネルごとに記載しています。ビルド番号は、対象リリースのリリース ノートに直接リンクしています。 
+次の表に、更新プログラム チャネルごとにサポートしているバージョンと最新のビルド番号を示します。ビルド番号は、対象リリースのリリース ノートに直接リンクしています。 
 
   
 |**チャネル**|**バージョン**|**ビルド**|**リリース日**|**バージョンのサポート期限**|
 |:-----|:-----|:-----|:-----|:-----|
-|月次  <br/> |1808  <br/> |[10730.20102](monthly-channel-2018.md#version-1808-september-11)  <br/> | 2018 年 9 月 11 日  <br/> |バージョン 1809 がリリースされました <br/>|
+|月例  <br/> |1809  <br/> |[10827.20138](monthly-channel-2018.md#version-1809-september-27)  <br/> | 2018 年 9 月 27日  <br/> |バージョン 1810 のリリース <br/>|
 |半期 (対象指定)  <br/> |1808  <br/> |[10730.20102](semi-annual-channel-targeted-2018.md#version-1808-September-11)  <br/> | 2018 年 9 月 11 日  <br/> | 2019 年 3 月 13日 <br/>|
 |半期 <br/> |1803  <br/> | [9126.2282](semi-annual-channel-2018.md#version-1803-september-11) <br/> | 2018 年 9 月 11 日  <br/> | 2019 年 9 月 10 日 <br/>|
 |半期 <br/> |1708  <br/> |[8431.2309](semi-annual-channel-2018.md#version-1708-september-11)  <br/> | 2018 年 9 月 11 日  <br/> | 2019 年 3 月 13日 <br/>|
 
-以前のリリースの Office 365 ProPlus から最新の現在のリリースへ更新する場合のおおよそのダウンロード サイズについて詳しくは、「[Office 365 ProPlus に対する更新プログラムのダウンロード サイズ](download-sizes-office365-proplus-updates.md)」をご覧ください。
+Office 365 ProPlus の以前のリリースから最新のリリースに更新する際のおおよそのダウンロード サイズについての詳細は、「[Office 365 ProPlus 更新プログラムのダウンロード サイズ](download-sizes-office365-proplus-updates.md)」を参照してください。
 
 > [!NOTE]
-> - このバージョン番号とビルド番号は、Office 365 Business、Visio Pro for Office 365、Project Online デスクトップ クライアントにも適用されます。Office 365 Business は、Business Premium などの一部の Office 365 プランに付属する、Office のバージョンです。
-> - この表に記載されていない更新プログラム チャネルのバージョンはサポート対象外になりました。たとえば、月次チャネルのバージョン 1704 はサポート対象外です。 
+> - 上記のバージョン番号とビルド番号は、Office 365 Business、Visio Pro for Office 365、Project Online デスクトップ クライアントにも適用されます。Office 365 Business は、一部の Office 365 プラン（Business Premium など）に付属する Office のバージョンです。
+> - この表に記載されていない更新プログラム チャネルのバージョンはサポート対象外になりました。たとえば、月例チャネルのバージョン 1704 はサポート対象外です。 
 
 
 ## <a name="update-history-for-office-365-proplus-releases"></a>Office 365 ProPlus リリースの更新履歴
 
-リリースすべての一覧については、次の記事をご覧ください。
- - [Office 365 ProPlus の更新履歴 (日付別の一覧)](update-history-office365-proplus-by-date.md)
- - [Office 365 ProPlus の更新履歴 (バージョン別の一覧)](update-history-office365-proplus-by-version.md)
+リリースすべての一覧については、次の記事を参照してください。
+ - [Office 365 ProPlus 更新履歴 (日付別一覧)](update-history-office365-proplus-by-date.md)
+ - [Office 365 ProPlus 更新履歴 (バージョン別一覧)](update-history-office365-proplus-by-version.md)
 
-## <a name="release-notes-for-office-365-proplus-releases"></a>Office 365 ProPlus リリースのリリース ノート
+## <a name="release-notes-for-office-365-proplus-releases"></a>Office 365 ProPlus リリース ノート
 
-更新プログラム チャネルと年ごとのリリース ノートすべての一覧については、次の記事をご覧ください。
- - 月次: [2018](monthly-channel-2018.md)、[2017](monthly-channel-2017.md)、[2016](monthly-channel-2016.md)、[2015](monthly-channel-2015.md)
- - 半期 (対象指定): [2018](semi-annual-channel-targeted-2018.md)、[2017](semi-annual-channel-targeted-2017.md)、[2016](semi-annual-channel-targeted-2016.md)、[2015](semi-annual-channel-targeted-2015.md)
- - 半期: [2018](semi-annual-channel-2018.md)、[2017](semi-annual-channel-2017.md)、[2016](semi-annual-channel-2016.md)
+更新プログラム チャネルと年ごとのリリース ノートすべての一覧については、次の記事を参照してください。
+ - 月例: [2018年](monthly-channel-2018.md)、[2017年](monthly-channel-2017.md)、[2016年](monthly-channel-2016.md)、[2015年](monthly-channel-2015.md)
+ - 半期 (対象指定): [2018年](semi-annual-channel-targeted-2018.md)、[2017年](semi-annual-channel-targeted-2017.md)、[2016年](semi-annual-channel-targeted-2016.md)、[2015年](semi-annual-channel-targeted-2015.md)
+ - 半期: [2018年](semi-annual-channel-2018.md)、[2017年](semi-annual-channel-2017.md)、[2016年](semi-annual-channel-2016.md)
 
-## <a name="office-for-mac-release-information"></a>Office for Mac のリリース情報
+## <a name="office-for-mac-release-information"></a>Office for Mac リリース情報
 
-Office for Mac の更新プログラム (Office 365 ProPlus が含まれる Office 365 サブスクリプション プランに付属) に関する情報については、次の記事をご覧ください。
- - [Office for Mac の更新履歴](update-history-office-for-mac.md)
- - [Office for Mac のリリース ノート](release-notes-office-for-mac.md)
+Office 365 ProPlus を含む Office 365 サブスクリプション プランに含まれる Office for Mac の更新プログラムについては、次の記事を参照してください。
+ - [Office for Mac 更新履歴](update-history-office-for-mac.md)
+ - [Office for Mac リリース ノート](release-notes-office-for-mac.md)
 
 
-## <a name="related-topics"></a>関連項目
+## <a name="related-topics"></a>関連トピック
 
-- [Office 365 ProPlus 更新プログラムのチャネルの概要](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Office 365 ProPlus 更新プログラム チャネル概要](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 - [Office の展開](https://docs.microsoft.com/deployoffice/)
 - [Office 365 の新機能](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
-- [Office 365 のロードマップ](https://products.office.com/business/office-365-roadmap)
-- [Office 365 のメッセージ センター](https://support.office.com/article/38fb3333-bfcc-4340-a37b-deda509c2093)
-- [Windows 10 のリリース情報](https://www.microsoft.com/itpro/windows-10/release-information)
+- [Office 365 ロードマップ](https://products.office.com/business/office-365-roadmap)
+- [Office 365 メッセージ センター](https://support.office.com/article/38fb3333-bfcc-4340-a37b-deda509c2093)
+- [Windows 10 リリース情報](https://www.microsoft.com/itpro/windows-10/release-information)
 - [Microsoft のセキュリティ更新ガイド](https://portal.msrc.microsoft.com/)
 
 > [!NOTE]
-> Office の使用に関する問題についてヘルプが必要な場合は、[[マイクロソフトの回答フォーラム](https://answers.microsoft.com/)] または [ [Tech Community](https://techcommunity.microsoft.com/) ] に質問を投稿するか、[[サポート](https://support.microsoft.com/contactus)] に問い合わせることができます。
+> Office の使用に関する問題についてヘルプが必要な場合は、[[マイクロソフトの回答フォーラム](https://answers.microsoft.com/)] または [[Tech Community](https://techcommunity.microsoft.com/)] に質問を投稿するか、[[サポート](https://support.microsoft.com/contactus)] に問い合わせることができます。
