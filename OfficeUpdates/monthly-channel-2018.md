@@ -1,22 +1,7 @@
 ---
-title: 2018 年月例チャネル リリースのリリース ノート
-ms.author: andrewmo
-author: andymosten
-manager: andrewmo
-ms.date: 9/28/2018
-ms.audience: ITPro
-ms.topic: reference
-ms.service: o365-proplus-itpro
-localization_priority: Critical
-ms.collection: RelNotes_ProPlus
-description: IT 担当者向けに、Office 365 ProPlus の 2018 年月例チャネル リリースのリリース ノートを提供します
-ms.openlocfilehash: 60d4edfce49b15246cccf5ecbc441db2e0cfeb79
-ms.sourcegitcommit: aab293ffb82e0d84b3c9e8d80ca96c3368514d42
-ms.translationtype: HT
-ms.contentlocale: ja-JP
-ms.lasthandoff: 09/28/2018
-ms.locfileid: "25347013"
+タイトル:「2018 年月例チャネル リリースのリリース ノート」ms.author: andrewmo author: andymosten manager: andrewmo ms.date:10/1/2018 ms.audience: ITPro ms.topic: reference ms.service: o365-proplus-itpro localization_priority: Critical ms.collection: RelNotes_ProPlus description:「Office 365 ProPlus の 2018 年月例チャネル リリースのリリース ノートで IT Pro を提供」
 ---
+
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018 年月例チャネル リリースのリリース ノート
 
 これらのリリース ノートは、Office 365 ProPlus の 2018 年月例チャネル更新プログラムに含まれる新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムに関する情報を提供します。
@@ -34,7 +19,7 @@ ms.locfileid: "25347013"
 - **取得と変換の強化** 例から列の追加機能が強化されたことは、取得と変換を多用する方にとって朗報です。 多くのコネクタも強化されました。 [詳細情報](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
 - **新しい外観のリボン アイコン** 外観だけの変更です。機能は変わりません。 あらゆるサイズの画面での視認性が向上しました。 [詳細情報](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
-### <a name="outlook-feature-updates"></a>Outlook: 機能更新プログラム
+### <a name="outlook-feature-updates"></a>Outlook: 機能の更新プログラム
 - **今後のリリース確認** リリース前の新しいユーザー エクスペリエンスを試すことができます。 [詳細情報](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
 - **安全なリンクで隠れた URL を表示** 安全なリンクは、電子メールで受信した悪質な URL からの保護に役立ちますが、元の URL が非表示になります。 リンクが安全なリンクで保護されていても、マウスを URL の上に置くだけで元の URL を見ることができます。
 - **検索スペル修正候補の表示** 検索を実行すると、Outlook はスペルの修正候補を含む検索クエリを提供します。
@@ -75,7 +60,7 @@ ms.locfileid: "25347013"
 ### <a name="visio-feature-updates"></a>Visio: 機能更新プログラム
  - **次に作成するダイアグラムでアイコンの使用を楽しむ** 分析、アート、お祝い、人の顔、スポーツなどのアイコンが使える 26 個の新しいステンシルから選択できます。 
  - **Visio の図形から Word 文書を作成する** 図形やメタデータなどのダイアグラムの内容を Word 文書に自動的に追加します。 次にその文書をカスタマイズして、プロセス ガイドラインと操作マニュアルを作成します。 [詳細情報](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
- - **Visio と Power BI による相乗効果** 数回クリックするだけで、Visio のダイアグラムを変換して Power BI 上で対話型で視覚エフェクトを使用できるようにします。 [詳細情報](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
+ - **Visio と Power BI による相乗効果** 数回クリックするだけで、Visio のダイアグラムを対話型 Power BI 視覚エフェクトに変換します。 [詳細情報](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
 
  ### <a name="project-feature-updates"></a>Project: 機能更新プログラム
  - **タスク ボードのカードに関する詳細な情報を表示する** タイトルだけでは内容が不明な場合、タスク ボードのカードをカスタマイズして、最も重要な詳細情報をすべて表示できます。 [詳細情報](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
