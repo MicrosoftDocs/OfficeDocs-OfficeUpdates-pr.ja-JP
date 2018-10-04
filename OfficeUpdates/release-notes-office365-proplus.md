@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT 担当者向けに、更新プログラム チャネルごとの Office 365 ProPlus の最新リリース一覧と、リリース ノートおよび更新履歴へのリンクを提供します
-ms.openlocfilehash: 56d4196a2927ab36e3f6155b9e47e02f58d2efcc
-ms.sourcegitcommit: aab293ffb82e0d84b3c9e8d80ca96c3368514d42
+ms.openlocfilehash: f5eb1057e2db9052cc11b636ca66b0053bd67dc6
+ms.sourcegitcommit: 116ff3898a6272bff303c954059ff487f91746b0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/28/2018
-ms.locfileid: "25346983"
+ms.lasthandoff: 10/04/2018
+ms.locfileid: "25363897"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Office 365 ProPlus 更新プログラム リリース情報
 
@@ -42,9 +42,8 @@ Office 365 ProPlus の以前のリリースから最新のリリースに更新�
 
 リリースすべての一覧については、次の記事を参照してください。
  - [Office 365 ProPlus 更新履歴 (日付別一覧)](update-history-office365-proplus-by-date.md)
- - [Office 365 ProPlus 更新履歴 (バージョン別一覧)](update-history-office365-proplus-by-version.md)
 
-## <a name="release-notes-for-office-365-proplus-releases"></a>Office 365 ProPlus リリース ノート
+## <a name="release-notes-for-office-365-proplus-releases"></a>Office 365 ProPlus リリースのリリース ノート
 
 更新プログラム チャネルと年ごとのリリース ノートすべての一覧については、次の記事を参照してください。
  - 月例: [2018年](monthly-channel-2018.md)、[2017年](monthly-channel-2017.md)、[2016年](monthly-channel-2016.md)、[2015年](monthly-channel-2015.md)
