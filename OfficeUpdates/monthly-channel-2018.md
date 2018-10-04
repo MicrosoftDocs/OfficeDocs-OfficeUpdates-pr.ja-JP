@@ -1,5 +1,5 @@
 ---
-タイトル:「2018 年月例チャネル リリースのリリース ノート」ms.author: andrewmo author: andymosten manager: andrewmo ms.date:10/1/2018 ms.audience: ITPro ms.topic: reference ms.service: o365-proplus-itpro localization_priority: Critical ms.collection: RelNotes_ProPlus description:「Office 365 ProPlus の 2018 年月例チャネル リリースのリリース ノートで IT Pro を提供」
+タイトル:「2018 年月例チャネル リリースのリリース ノート」ms.author: andrewmo author: andymosten manager: andrewmo ms.date:10/3/2018 ms.audience: ITPro ms.topic: reference ms.service: o365-proplus-itpro localization_priority: Critical ms.collection: RelNotes_ProPlus description:「Office 365 ProPlus の 2018 年月例チャネル リリースのリリース ノートで IT Pro を提供」
 ---
 
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018 年月例チャネル リリースのリリース ノート
@@ -14,8 +14,8 @@
 *バージョン 1809 (ビルド 10827.20138)*
 
 ### <a name="excel-feature-updates"></a>Excel: 機能更新プログラム
-- **迅速な検索** VLOOKUP、HLOOKUP、MATCH の高速化により、より早い値の取得が可能です。
-- **より詳細なデータ調査** 最高の作業を実現するために人工知能 (AI) を導入しました。 アイデア ウィンドウは、時間を節約しコンテンツを強化するスマートで実践的な提案のために AI を使用します。[詳細情報](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+- **迅速な検索** VLOOKUP、HLOOKUP、MATCH 計算の高速化により、より早い値の取得が可能です。 [詳細情報](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
+- **より詳細なデータ調査** Office 365 アプリは、最高の作業を実現するために人工知能 (AI) を導入しました。 アイデア ウィンドウは、時間を節約しコンテンツを強化するスマートで実践的な提案のために AI を使用します。[詳細情報](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 - **取得と変換の強化** 例から列の追加機能が強化されたことは、取得と変換を多用する方にとって朗報です。 多くのコネクタも強化されました。 [詳細情報](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
 - **新しい外観のリボン アイコン** 外観だけの変更です。機能は変わりません。 あらゆるサイズの画面での視認性が向上しました。 [詳細情報](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
@@ -26,13 +26,14 @@
 - **新しい外観のリボン アイコン** 外観だけの変更です。機能は変わりません。 あらゆるサイズの画面での視認性が向上しました。 [詳細情報](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能更新プログラム
+- **生き生きとしたスライドにする** ハート ビートを表示するアニメーションの 3 D グラフィックス、惑星の軌道、および T-レックスの暴走を画面上で挿入します。  [詳細情報](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
 - **新しい校正ツール** 神経質になることはありません。 PowerPoint が、文法や文体に関する提案を行います。 [詳細情報](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
 - **新しい外観のリボン アイコン** 外観だけの変更です。機能は変わりません。 あらゆるサイズの画面での視認性が向上しました。 [詳細情報](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="word-feature-updates"></a>Word: 機能更新プログラム
 - **\@ メンションで注意喚起** コメント内で @mentions を使い、同僚に入力の必要があることを伝えます。 [詳細情報](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 - **新しい外観のリボン アイコン** 外観だけの変更です。機能は変わりません。 あらゆるサイズの画面での視認性が向上しました。 [詳細情報](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
-- **数式エディタ コンバータ** コンバータを使用すると、Microsoft 数式エディタで編集した数式を Office Math ML 形式に変換して編集できます。 
+- **数式エディタ コンバータ** コンバータを使用すると、Microsoft 数式エディタで編集した数式を Office Math ML 形式に変換して編集できます。
 
 ## <a name="version-1808-september-11"></a>バージョン 1808 ： 9 月 11 日
 *バージョン 1808 (ビルド 10730.20102)*
@@ -98,7 +99,7 @@
 ## <a name="version-1807-july-25"></a>バージョン 1807: 7 月 25 日
 *バージョン 1807 (ビルド 10325.20082)*
 
-### <a name="outlook-feature-updates"></a>Outlook: 機能更新プログラム
+### <a name="outlook-feature-updates"></a>Outlook: 機能の更新プログラム
 - **Outlook アドインの警告:** Outlook COM アドインが Outlook の他の部分の速度を遅くする問題が発生することがあります。この問題は、Outlook フォルダーの切り替え、新規メールの受信、予定表アイテムを開くなどのイベントが遅延する原因となる可能性があります。このような問題が発生した場合、Outlook では通知バーに警告が表示されます。
 - **Outlook のアラーム ダイアログから Teams 会議に参加する:** Outlook が今後の会議についてユーザーに通知する際、会議が Teams のオンライン会議の場合には、[オンラインで参加] ボタンが表示されます。これは、Outlook のアラート ダイアログから Skype for Business 会議に参加する場合と同様のものです。
 
@@ -208,7 +209,7 @@
 ### <a name="excel-feature-updates"></a>Excel: 機能更新プログラム
  - **編集中に共同編集者とチャット:** Excel を終了することなく共同編集者とチャットできるため、共同作業の効率が向上します。 一部の地域ではこの機能が使用できないことにご注意ください。[詳細を見る](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
 
-### <a name="outlook-feature-updates"></a>Outlook: 機能更新プログラム
+### <a name="outlook-feature-updates"></a>Outlook: 機能の更新プログラム
  - **ハンズ フリー入力:** 口述するだけで簡単にメールを作成できます。タイピングは必要ありません。[詳細情報](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
  - **3 つのタイムゾーンを表示:** タイム ゾーンが異なるユーザー間で会議をスケジュールする必要がある場合、予定表に複数のタイム ゾーンを追加すれば、全員の空き時間を確認し、全員にとって都合の良い時間を選択できます。[詳細情報](https://support.office.com/article/5ab3e10e-5a6c-46af-ab48-156fedf70c04)
  - **簡単な予定表共有:** 予定表の共有がより簡単になり、Outlook デスクトップから共有した予定表を Outlook Mobile でも利用できるようになりました。[詳細情報](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
