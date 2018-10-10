@@ -3,28 +3,28 @@ title: Office 2013 の更新履歴
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 9/11/2018
+ms.date: 10/09/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: クイック実行を使用する永続的なバージョンの Office 2013 の更新履歴を IT 技術者に提供します。
-ms.openlocfilehash: c1227107084ba85f142c4a5941168f58707f09a0
-ms.sourcegitcommit: f965e1176a976c8f7333cbcb49445bc5a953417f
+ms.openlocfilehash: 1723306ef27882f0df9662266397740509eb6a76
+ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/11/2018
-ms.locfileid: "23936699"
+ms.lasthandoff: 10/10/2018
+ms.locfileid: "25456711"
 ---
 # <a name="update-history-for-office-2013"></a>Office 2013 の更新履歴
 
 ほとんどの Office 2013 製品は、クイック実行というテクノロジを使用して自動的に最新の状態に維持されます。最新の状態にあることを検証するには、Office のバージョン番号を確認し、必要に応じて手動で更新します。
   
 > [!NOTE]
-> Office 2013 の最新バージョンは、 **15.0.5067.1000**、2018 年 9 月 11 日にリリースされました。 
+> Office 2013 の最新バージョンは、2018 年 10 月 9 日にリリースされた **15.0.5075.1001** です。 
   
-Office のバージョンを確認するには、以下のことを行います。
+Office のバージョンを確認するには、以下を実行します。
   
 1. Word や Excel など、いずれかの Office 2013 アプリケーションを開きます。
     
@@ -36,9 +36,9 @@ Office のバージョンを確認するには、以下のことを行います�
     
 ### <a name="list-of-release-dates-version-numbers-and-fix-information-for-office-2013-updates"></a>Office 2013 更新プログラムのリリース日、バージョン番号、修正情報のリスト
 
-次の表は、最新のリリース日順に Office 2013 の更新プログラムの一覧を提供します。この表には、リリースのバージョン番号と、更新プログラムに含まれている修正プログラムに関する情報を含む Microsoft サポート技術情報 (KB) の記事へのリンクが記載されています。
+次の表は、最新のリリース日順に Office 2013 の更新プログラムの一覧を提供します。この表には、リリースのバージョン番号と、更新プログラムに含まれている修正プログラムに関する情報を含む Microsoft サポート技術情報 (KB) の記事がある場合はそのリンクが記載されています。
   
-新しいバージョンには、以前のバージョンに含まれているすべての更新プログラムが含まれています。
+新しいバージョンには、以前のバージョンに含まれていたすべての更新プログラムが含まれています。
 
 > [!NOTE]
 > 以下に一覧表示されているサポート技術情報の記事は、参照のみを目的としています。クイック実行の更新プログラムには、サポート技術情報の記事に記載されているすべての修正プログラムが含まれます。サポート技術情報の記事に記載されている個別の更新プログラムをダウンロードする必要はありません。
@@ -46,7 +46,8 @@ Office のバージョンを確認するには、以下のことを行います�
   
 |**リリース年**|**リリース日**|**バージョン番号**|**詳細情報**|
 |:-----|:-----|:-----|:-----|
-|2018 年 |9 月 11 日   |15.0.5067.1000   |[KB 4459402](https://support.microsoft.com/en-us/help/4459402)  |
+|2018 年 |10 月 9 日   |15.0.5075.1001   |[KB 4464656](https://support.microsoft.com/en-us/help/4464656)  |
+| |9 月 11 日   |15.0.5067.1000   |[KB 4459402](https://support.microsoft.com/en-us/help/4459402)  |
 ||8 月 14 日   |15.0.5059.1000   |[KB 4346823](https://support.microsoft.com/en-us/help/4346823)  |
 ||7 月 10 日   |15.0.5049.1000   |[KB 4340798](https://support.microsoft.com/en-us/help/4340798)  |
 ||6 月 12 日   |15.0.5041.1001   |[KB 4299875](https://support.microsoft.com/en-us/help/4299875)  |
@@ -103,7 +104,7 @@ Office のバージョンを確認するには、以下のことを行います�
 ||7 月 24 日   |15.0.4631.1004   |[KB 2989605](https://support.microsoft.com/kb/2989605)  |
 ||7 月 8 日   |15.0.4631.1002   |[KB 2980001](https://support.microsoft.com/kb/2980001)  |
 ||6 月 10 日   |15.0.4623.1003   |[KB 2971668](https://support.microsoft.com/kb/2971668)  |
-||5 月 22 日   |15.0.4615.1002   |このバージョンでは、ライセンス認証のエラーを修正します。   |
+||5 月 22 日   |15.0.4615.1002   |このバージョンでは、起動エラーを修正します。   |
 ||5 月 13 日   |15.0.4615.1001   |[KB 2964042](https://support.microsoft.com/kb/2964042)  |
 ||4 月 8 日   |15.0.4605.1003   |[KB 2955382](https://support.microsoft.com/kb/2955382)  |
 ||3 月 11 日   |15.0.4569.1508   |[KB 2937335](https://support.microsoft.com/kb/2937335)  |

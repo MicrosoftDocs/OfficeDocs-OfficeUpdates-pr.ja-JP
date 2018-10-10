@@ -1,9 +1,9 @@
 ---
-title: Project Server の更新プログラム
+title: Project Server 更新プログラム
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 9/11/2018
+ms.date: 10/09/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: project-server-itpro
@@ -13,14 +13,14 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: Project Server 2013 と Project Server 2010 の更新プログラムを 1 か所で検索および管理できます。このページのリンクを使用して、更新プログラムに関する詳細な情報を取得し、更新プログラムをダウンロードしてください。
-ms.openlocfilehash: a855804aeb3f9ffc07bf2dcf85a74239123f4738
-ms.sourcegitcommit: 6fd38e73cb0d5051b1107f30e1aaa10f6213ccb1
+ms.openlocfilehash: 7f60ab20da58872a0d7b284b058f148ec533bcba
+ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2018
-ms.locfileid: "23954793"
+ms.lasthandoff: 10/10/2018
+ms.locfileid: "25456701"
 ---
-# <a name="project-server-updates"></a>Project Server の更新プログラム
+# <a name="project-server-updates"></a>Project Server 更新プログラム
 
 このページのリンクを使用して、Project Server 2013 および Project Server 2010 の更新プログラムに関する詳細な情報を取得し、更新プログラムをダウンロードしてください。 
 > [!NOTE]
@@ -30,6 +30,7 @@ ms.locfileid: "23954793"
   
 |**リリース日**|**サポート技術情報番号**|
 |:-----|:-----|:-----|
+|2018 年 10 月  <br/> |[KB4461456](https://support.microsoft.com/kb/4461456) <br/>|
 |2018 年 9 月  <br/> |[KB4092475](https://support.microsoft.com/kb/4092475) <br/>|
 |2018 年 8 月  <br/> |[KB4032245](https://support.microsoft.com/kb/4032245) <br/>|
 |2018 年 7 月  <br/> |[KB4022240](https://support.microsoft.com/kb/4022240) <br/>|
@@ -80,6 +81,7 @@ ms.locfileid: "23954793"
 
 |**リリース日**|**サポート技術情報番号**|
 |:-----|:-----|:-----|
+|2018 年 10 月  <br/>  |[KB4461463](https://support.microsoft.com/kb/4461463) <br/>|
 |2018 年 9 月  <br/>  |[KB4092484](https://support.microsoft.com/kb/4092484) <br/>|
 |2018 年 8 月  <br/>  |[KB4092438](https://support.microsoft.com/kb/4092438) <br/>|
 |2018 年 7 月  <br/>  |[KB4032219](https://support.microsoft.com/kb/4032219) <br/> |
@@ -128,7 +130,7 @@ ms.locfileid: "23954793"
 |2013 年 7 月  |[KB2687452](https://support.microsoft.com/kb/2687452) (Service Pack 2) <br/> |
    
 
-## <a name="related-topics"></a>関連項目
+## <a name="related-topics"></a>関連トピック
 
 - [Exchange Server 更新プログラム](https://technet.microsoft.com/library/hh135098(v=exchg.150).aspx)
 - [SharePoint 更新プログラム](sharepoint-updates.md)

@@ -3,19 +3,19 @@ title: Office 365 ProPlus の更新プログラムのダウンロード サイ�
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/28/2018
+ms.date: 10/9/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 各チャネルの Office 365 ProPlus の更新プログラムのダウンロード サイズの概算に関する情報を IT 技術者に提供します
-ms.openlocfilehash: 0ea2d9e80271223dfe72bfa5871a1a25ba032939
-ms.sourcegitcommit: aab293ffb82e0d84b3c9e8d80ca96c3368514d42
+ms.openlocfilehash: a5c51a9ccaf7484360965371868b9d444f0b1eda
+ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/28/2018
-ms.locfileid: "25346993"
+ms.lasthandoff: 10/10/2018
+ms.locfileid: "25456821"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 ProPlus の更新プログラムのダウンロード サイズ
 
@@ -36,7 +36,40 @@ ms.locfileid: "25346993"
 > - 表には、一番最近のリリースのみが記載されています。それより前のリリースから更新する場合、ダウンロード サイズはさらに大きくなります。
 > - 半期チャネル (対象指定) から半期チャネルなどに、チャネルを切り替える場合には、更新プログラムのサイズは表に記載されているサイズよりもかなり大きくなります。全体をダウンロードすることになるので、少なくとも 1 GB になります。 
 
-  ## <a name="september-27-2018"></a>2018 年 9 月 27日
+## <a name="october-9-2018"></a>2018 年 10 月 9 日
+
+### <a name="monthly-channel"></a>月例チャネル
+
+最新のリリースはバージョン 1809 です (ビルド 10827.20150)。
+  
+|**アップグレードのリリース開始日**|**リリース日**|**ダウンロード サイズの概算 (MB)**|
+|:-----|:-----|:-----|
+|バージョン 1808 (ビルド 10730.20088)  <br/> |2018 年 9 月 5 日  <br/> |170  <br/> |
+|バージョン 1808 (ビルド 10730.20102)  <br/> |2018 年 9 月 12 日  <br/> |176 <br/> |
+|バージョン 1808 (ビルド 10730.20127)  <br/> |2018 年 9 月 24 日  <br/> |396 <br/> |
+|バージョン 1809 (ビルド 10827.20138)  <br/> |2018 年 9 月 27 日  <br/> |80 <br/> |
+  
+### <a name="semi-annual-channel"></a>半期チャネル
+
+最新のリリースはバージョン 1808 です (ビルド 9126.2295)。
+  
+|**アップグレードのリリース開始日**|**リリース日**|**ダウンロード サイズの概算 (MB)**|
+|:-----|:-----|:-----|
+|バージョン 1803 (ビルド 9126.2275)  <br/> |2018 年 8 月 14 日  <br/> |104 <br/> |
+|バージョン 11803 (ビルド 9126.2282)  <br/> |2018 年 9 月 11 日  <br/> |100<br/> |
+
+  
+### <a name="semi-annual-channel-targeted"></a>半期チャネル (対象指定)
+
+最新のリリースはバージョン 1808 (ビルド 10730.20155) です。
+  
+|**アップグレードのリリース開始日**|**リリース日**|**ダウンロード サイズの概算 (MB)**|
+|:-----|:-----|:-----|
+|バージョン 1803 (ビルド 9126.2275)  <br/> |2018 年 8 月 14 日  <br/> |292 <br/> |
+|バージョン 1808 (ビルド 10730.20102)  <br/> |2018 年 9 月 11 日  <br/>   |87  <br/>|
+
+
+  ## <a name="september-27-2018"></a>2018 年 9 月 27 日
 
 ### <a name="monthly-channel"></a>月例チャネル
 
