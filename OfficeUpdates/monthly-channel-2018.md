@@ -3,19 +3,19 @@ title: 2018 年月例チャネル リリースのリリース ノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/3/2018
+ms.date: 10/9/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT 担当者向けに、Office 365 ProPlus の 2018 年月例チャネル リリースのリリース ノートを提供します
-ms.openlocfilehash: bdd37742401a72802e5e347cb9263d8e4a40eeda
-ms.sourcegitcommit: 3d0d776ed955ab7c8cc52c8f68986048c1f4b7e3
+ms.openlocfilehash: 0982cb8515d3fb9c5234ca72eb45b6b688e597e1
+ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362712"
+ms.lasthandoff: 10/10/2018
+ms.locfileid: "25456791"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018 年月例チャネル リリースのリリース ノート
 
@@ -23,13 +23,50 @@ ms.locfileid: "25362712"
  
  > [!NOTE]
 > - また、Visio Pro for Office 365 および Project Online デスクトップ クライアントの新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムに関する情報も提供します。
-> - 記載されている情報は、一部の Office 365 プラン (Business Premium など) に付属する Office のバージョンである Office 365 Business にも適当されます。
+> - この情報は、Business Premium など一部の Office 365 プランに付属する Office のバージョンである Office 365 Business にも該当します。
+
+## <a name="version-1809-october-9"></a>バージョン 1809: 10 月 9 日
+*バージョン 1809 (ビルド 10827.20150)*
+
+### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
+-   [CVE-2018-8502](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8502): Microsoft Excel のリモート コード実行の脆弱性 
+
+### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム 
+-   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026): Microsoft Office 多層防御の更新プログラム 
+
+### <a name="powerpoint-security-updates"></a>PowerPoint: セキュリティ更新プログラム 
+-   [CVE-2018-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8501): Microsoft PowerPoint のリモート コード実行の脆弱性
+
+### <a name="word-security-updates"></a>Word: セキュリティ更新プログラム 
+-   [CVE-2018-8504](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8504): Microsoft Word のリモート コード実行の脆弱性 
+-   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026): Microsoft Office 多層防御の更新プログラム 
+
+### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム 
+-   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432): Microsoft Graphics コンポーネントのリモート コード実行の脆弱性 
+
+### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム 
+-   2190...2194 の範囲内で記号を Cambria Math に切り替える際の問題を修正しました これは Excel のセルの高さを 3 倍に増加させる原因となっています。
+-   これにより、ユーザーが定義された名前が多くあるブック内の書式設定オプションの上にカーソルを合わせると Excel が反応しなくなったり、オプションでリアルタイムのプレビューが無効になっていてもクイック分析で Excel が反応しなくなるという、Excel 内での問題を修正しました。
+-   Excel アプリケーション ウィンドウを、1 つのデスクトップから別のデスクトップに移動させる際に動作が遅くなる問題については現在調査中です。 一方で、上記のように動作が遅くなる場合、考えられる回避策として、ファイル オプション ダイアログの [全般] タブの [複数のディスプレイを使用する場合] で [互換性を最適化する] を選択するという方法をとることができます。
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: セキュリティ以外の更新プログラム
+-   ActiveX コンテンツを含むファイルを保存する際の潜在的なファイル破損の問題を修正しました。
+
+### <a name="word-non-security-updates"></a>Word: セキュリティ以外の更新プログラム
+-   Word Document オブジェクトを挿入する際、数式エディタが表示される問題を修正しました。
+
+### <a name="project-non-security-updates"></a>Project: セキュリティ以外の更新プログラム
+-   プリントアウトの際にヘッダーまたはフッターを設定すると、次回にプロジェクトを印刷する際にはこの変更が継続しないという問題を修正しました。
+
+### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
+-   アクセシビリティ設定とパフォーマンス設定でアニメーションをオフにしても、アプリでアニメーションが表示される問題を修正しました。 
+-   蛍光ペン描画ツールを使用すると、背景が空白になる問題を修正しました。
 
 ## <a name="version-1809-september-27"></a>バージョン 1809: 9 月 27 日
 *バージョン 1809 (ビルド 10827.20138)*
 
 ### <a name="excel-feature-updates"></a>Excel: 機能更新プログラム
-- **迅速な検索** VLOOKUP、HLOOKUP、MATCH の高速化により、より早い値の取得が可能です。 [詳細情報](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
+- **迅速な検索** VLOOKUP、HLOOKUP、MATCH 計算の高速化により、より早い値の取得が可能です。 [詳細情報](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
 - **取得と変換の強化** 例から列の追加機能が強化されたことは、取得と変換を多用する方にとって朗報です。 多くのコネクタも強化されました。 [詳細情報](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
 - **新しい外観のリボン アイコン** 外観だけの変更です。機能は変わりません。 あらゆるサイズの画面での視認性が向上しました。 [詳細情報](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
