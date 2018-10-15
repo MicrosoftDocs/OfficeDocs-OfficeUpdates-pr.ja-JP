@@ -3,19 +3,19 @@ title: Office for Mac の更新履歴
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/1/2018
+ms.date: 10/12/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT プロフェッショナル向けに、ダウンロード パッケージへのリンクを含む Office for Mac の最新の更新プログラムに関する情報と、更新履歴を提供します。
-ms.openlocfilehash: 6771df21cbb5bad3f5cd01a79d8f02a9c1adc221
-ms.sourcegitcommit: 2a0ed40f3028b7e4e1239491b924adbc2ae9fb52
+ms.openlocfilehash: 815d839f05b6d17b5599c120cb7a9be8037d031f
+ms.sourcegitcommit: 2766d17c1c83a1d84655370870928ee86162ba3b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/02/2018
-ms.locfileid: "25354297"
+ms.lasthandoff: 10/12/2018
+ms.locfileid: "25540313"
 ---
 # <a name="update-history-for-office-for-mac"></a>Office for Mac の更新履歴
 
@@ -30,7 +30,7 @@ Office 365 のサブスクリプションに付属する Office for Mac は、�
   
 > [!NOTE]
 > - 2018年 9 月の 16.17 のリリース以降、この情報は Office 2019 for Mac にも適用されます。販売店またはボリューム ライセンス契約を通じて 1 回限りの購入として利用可能な Office for Mac のバージョンです。
-> - 16.16 およびそれ以前のバージョンの更新履歴情報も Office 2016 for Mac に適用されます。1 回限りの購入として利用可能な Office for Mac のバージョンでもあります。 16.16 以前のバージョンは、Office 2016 for Mac のボリューム ライセンスでアクティベートできます。 Office 2016 for Mac のボリューム ライセンスで 16.17 以降のバージョンをアクティブにすることはできません。 9月以降の Office 2016 for Mac のリリースにつきましては、 [Office 2016 for Mac のリリース ノート](release-notes-office-2016-mac.md)を参照してください
+> - バージョン 16.16 とそれ以前の更新履歴情報も、Office 2016 にも適用されます。これも、一括購入が可能な Office for Mac のバージョンです。16.16 とそれまでの古いバージョンは、Office for Mac のボリューム ライセンスでアクティブ化することができます。バージョン 16.17 とそれ以降は、Office for Mac ボリューム ライセンスではアクティブ化できません。9 月以降の Office for Mac のリリースの詳細については、「[Office for Mac のリリース ノート](release-notes-office-2016-mac.md)」を参照してください。
 > - Office for Mac のリリースに含まれる機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムの詳細については、「[Office for Mac のリリース ノート](release-notes-office-for-mac.md)」を参照してください。
 > - 新しいリリースを早く利用されたい場合は、[Office Insider プログラム](https://support.office.com/article/f4208185-b63a-4b68-9c7a-9a32d2411c16#ID0EAACAAA=Mac)に参加してください。
 
@@ -56,7 +56,7 @@ Office 365 のサブスクリプションに付属する Office for Mac は、�
 |**プログラム**|**バージョン**|**パッケージ**|**SHA1 ハッシュ**|**詳細情報**|
 |:-----|:-----|:-----|:-----|:-----|
 |Microsoft AutoUpdate (MAU)  <br/> |4.3 (18090901)  <br/> |[ダウンロード](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> | 8DBABB5F9BEE7269491AC3A3A87A6E3FEC90689C  <br/> | この更新プログラム パッケージは、64 ビットです。 <br/><br/>[MAU のリリース履歴](release-history-microsoft-autoupdate.md) |
-|Skype for Business  <br/> |16.21.0.87  <br/> |[ダウンロード](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> | 27E3FB163AB42003A9A452A74388557EFAB4F67D <br/> |2018 年 10 月 1日の最新バージョンがリリースされました。 <br/><br/>[最新の更新プログラム](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> |
+|Skype for Business  <br/> |16.22.0.160 <br/> |[ダウンロード](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> | 0D12A7C2D31FC9D9438908B1F3D4448DEC41932D <br/> |2018 年 10 月 12 日の最新バージョンがリリースされました。 <br/><br/>[最新の更新プログラム](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> |
 |リモート デスクトップ | 10. 2.1. (1143) | [ダウンロード](https://go.microsoft.com/fwlink/?linkid=868963) | a9df9b5d37707d0eeca3c9368d1219726f323d99 | このインストール パッケージは、64 ビットです。 <br/> <br/>[新機能](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |
 |Intune ポータル サイト |1.5 (52.1805002.000) [180509] | [ダウンロード](https://go.microsoft.com/fwlink/?linkid=869655)| 6aa67dc0accea7a3745e29133d2591568ff9f1cb | [Microsoft Intune の新機能](https://docs.microsoft.com/intune/whats-new)|
 |Office 2016 for Mac 用の Microsoft SharePoint オンプレミス Safari ブラウザのプラグイン  <br/> |15.32.0 (170309)  <br/> |[ダウンロード](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |45af4855ee23157b8f0a909e60a7e97865d1f8c0  <br/> | このインストール パッケージは、64 ビットです。  <br/> |
