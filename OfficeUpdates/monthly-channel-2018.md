@@ -3,19 +3,19 @@ title: 2018 年月例チャネル リリースのリリース ノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/9/2018
+ms.date: 10/10/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT 担当者向けに、Office 365 ProPlus の 2018 年月例チャネル リリースのリリース ノートを提供します
-ms.openlocfilehash: 0982cb8515d3fb9c5234ca72eb45b6b688e597e1
-ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
+ms.openlocfilehash: f84a3e87d99fec1687ef447f488ed9767313bbf0
+ms.sourcegitcommit: 1bbcc1cc115559c0a1f9c6a26584590203930f2e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 10/10/2018
-ms.locfileid: "25456791"
+ms.locfileid: "25493873"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018 年月例チャネル リリースのリリース ノート
 
@@ -44,25 +44,8 @@ ms.locfileid: "25456791"
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム 
 -   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432): Microsoft Graphics コンポーネントのリモート コード実行の脆弱性 
 
-### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム 
--   2190...2194 の範囲内で記号を Cambria Math に切り替える際の問題を修正しました これは Excel のセルの高さを 3 倍に増加させる原因となっています。
--   これにより、ユーザーが定義された名前が多くあるブック内の書式設定オプションの上にカーソルを合わせると Excel が反応しなくなったり、オプションでリアルタイムのプレビューが無効になっていてもクイック分析で Excel が反応しなくなるという、Excel 内での問題を修正しました。
--   Excel アプリケーション ウィンドウを、1 つのデスクトップから別のデスクトップに移動させる際に動作が遅くなる問題については現在調査中です。 一方で、上記のように動作が遅くなる場合、考えられる回避策として、ファイル オプション ダイアログの [全般] タブの [複数のディスプレイを使用する場合] で [互換性を最適化する] を選択するという方法をとることができます。
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: セキュリティ以外の更新プログラム
--   ActiveX コンテンツを含むファイルを保存する際の潜在的なファイル破損の問題を修正しました。
-
-### <a name="word-non-security-updates"></a>Word: セキュリティ以外の更新プログラム
--   Word Document オブジェクトを挿入する際、数式エディタが表示される問題を修正しました。
-
-### <a name="project-non-security-updates"></a>Project: セキュリティ以外の更新プログラム
--   プリントアウトの際にヘッダーまたはフッターを設定すると、次回にプロジェクトを印刷する際にはこの変更が継続しないという問題を修正しました。
-
-### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
--   アクセシビリティ設定とパフォーマンス設定でアニメーションをオフにしても、アプリでアニメーションが表示される問題を修正しました。 
--   蛍光ペン描画ツールを使用すると、背景が空白になる問題を修正しました。
-
-## <a name="version-1809-september-27"></a>バージョン 1809: 9 月 27 日
+## <a name="version-1809-september-27"></a>Version 1809: 9 月 27 日
 *バージョン 1809 (ビルド 10827.20138)*
 
 ### <a name="excel-feature-updates"></a>Excel: 機能更新プログラム
