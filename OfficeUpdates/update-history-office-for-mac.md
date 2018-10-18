@@ -3,19 +3,19 @@ title: Office for Mac の更新履歴
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/16/2018
+ms.date: 10/17/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT プロフェッショナル向けに、ダウンロード パッケージへのリンクを含む Office for Mac の最新の更新プログラムに関する情報と、更新履歴を提供します。
-ms.openlocfilehash: 6c4f45903c180a2be6c6edf0ec0b0e7ae49098eb
-ms.sourcegitcommit: 6f2752d626a3c59bcfa984d4351e944cad171b8d
+ms.openlocfilehash: 388da8841fc6cfd42bb9eaf2d087d104e980273c
+ms.sourcegitcommit: a9e626dc692bca5e768bae6aefc02d881bc777c5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/17/2018
-ms.locfileid: "25578938"
+ms.lasthandoff: 10/18/2018
+ms.locfileid: "25607344"
 ---
 # <a name="update-history-for-office-for-mac"></a>Office for Mac の更新履歴
 
@@ -29,7 +29,7 @@ Office 365 のサブスクリプションに付属する Office for Mac は、�
 16.18 (18101400)  <br/> |2018 年 10 月 16日  <br/> |[ダウンロード](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |[リリース ノート](release-notes-office-for-mac.md#october-2018-release) <br/> |
   
 > [!NOTE]
-> - セキュリティの理由から、マイクロソフトは SHA-1 の使用を推奨します。 [詳細情報](https://docs.microsoft.com/en-us/security-updates/SecurityAdvisories/2017/4010323)
+> - セキュリティの理由から、マイクロソフトは SHA-1 の使用を推奨しておりません。 [詳細を読む](https://docs.microsoft.com/en-us/security-updates/SecurityAdvisories/2017/4010323)
 > - 2018年 9 月の 16.17 のリリース以降、この情報は Office 2019 for Mac にも適用されます。販売店またはボリューム ライセンス契約を通じて 1 回限りの購入として利用可能な Office for Mac のバージョンです。
 > - バージョン 16.16 とそれ以前の更新履歴情報も、Office 2016 にも適用されます。これも、一括購入が可能な Office for Mac のバージョンです。16.16 とそれまでの古いバージョンは、Office for Mac のボリューム ライセンスでアクティブ化することができます。バージョン 16.17 とそれ以降は、Office for Mac ボリューム ライセンスではアクティブ化できません。9 月以降の Office for Mac のリリースの詳細については、「[Office for Mac のリリース ノート](release-notes-office-2016-mac.md)」を参照してください。
 > - Office for Mac のリリースに含まれる機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムの詳細については、「[Office for Mac のリリース ノート](release-notes-office-for-mac.md)」を参照してください。
@@ -54,13 +54,13 @@ Office 365 のサブスクリプションに付属する Office for Mac は、�
 
 以下の表に、IT プロフェッショナルにとって興味深い、ダウンロード リンクを含む Microsoft による他の Mac プログラム向けの最新パッケージについての情報を示します。ビルドの日付は、バージョン番号の後ろの括弧内に YYMMDD 形式で一覧表示されます。 
   
-|**プログラム**|**バージョン**|**パッケージ**|**SHA-1 ハッシュ**|**詳細情報**|
+|**プログラム**|**バージョン**|**パッケージ**|**詳細情報**|**SHA-1/SHA-256 ハッシュ**|
 |:-----|:-----|:-----|:-----|:-----|
-|Microsoft AutoUpdate (MAU)  <br/> |4.3 (18090901)  <br/> |[ダウンロード](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> | 8DBABB5F9BEE7269491AC3A3A87A6E3FEC90689C  <br/> | この更新プログラム パッケージは、64 ビットです。 <br/><br/>[MAU のリリース履歴](release-history-microsoft-autoupdate.md) |
-|Skype for Business  <br/> |16.22.0.160 <br/> |[ダウンロード](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> | 0D12A7C2D31FC9D9438908B1F3D4448DEC41932D <br/> |2018 年 10 月 12 日の最新バージョンがリリースされました。 <br/><br/>[最新の更新プログラム](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> |
-|リモート デスクトップ | 10.2.2 (1291)  | [ダウンロード](https://go.microsoft.com/fwlink/?linkid=868963) | a9df9b5d37707d0eeca3c9368d1219726f323d99 | このインストール パッケージは、64 ビットです。 <br/> <br/>[新機能](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |
-|Intune ポータル サイト |1.5 (52.1805002.000) [180509] | [ダウンロード](https://go.microsoft.com/fwlink/?linkid=869655)| 6aa67dc0accea7a3745e29133d2591568ff9f1cb | [Microsoft Intune の新機能](https://docs.microsoft.com/intune/whats-new)|
-|Office 2016 for Mac 用の Microsoft SharePoint オンプレミス Safari ブラウザのプラグイン  <br/> |15.32.0 (170309)  <br/> |[ダウンロード](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |45af4855ee23157b8f0a909e60a7e97865d1f8c0  <br/> | このインストール パッケージは、64 ビットです。  <br/> |
+|Microsoft AutoUpdate (MAU)  <br/> |4.4 (18101400)  <br/> |[ダウンロード](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |   この更新プログラム パッケージは、64 ビットです。 <br/><br/>[MAU のリリース履歴](release-history-microsoft-autoupdate.md)<br/> |258A04EBC0359C2D6E3691B03200D3DCBF4DEE65CE08B9E3A78AC0469D416B59  <br/>|
+|Skype for Business  <br/> |16.22.0.160 <br/> |[ダウンロード](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> |2018 年 10 月 12 日の最新バージョンがリリースされました。 <br/><br/>[最新の更新プログラム](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> | 0D12A7C2D31FC9D9438908B1F3D4448DEC41932D <br/> |
+|リモート デスクトップ | 10.2.2 (1291)  | [ダウンロード](https://go.microsoft.com/fwlink/?linkid=868963) | このインストール パッケージは、64 ビットです。 <br/> <br/>[新機能](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |  a9df9b5d37707d0eeca3c9368d1219726f323d99 <br/> |
+|Intune ポータル サイト |1.5 (52.1805002.000) [180509] | [ダウンロード](https://go.microsoft.com/fwlink/?linkid=869655)| [Microsoft Intune の新機能](https://docs.microsoft.com/intune/whats-new) | 6aa67dc0accea7a3745e29133d2591568ff9f1cb <br/> |
+|Office 2016 for Mac 用の Microsoft SharePoint オンプレミス Safari ブラウザのプラグイン  <br/> |15.32.0 (170309)  <br/> |[ダウンロード](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |このインストール パッケージは、64 ビットです。  <br/>| 45af4855ee23157b8f0a909e60a7e97865d1f8c0  <br/>  |
    
 
 ## <a name="release-history-for-office-for-mac"></a>Office for Mac のリリース履歴

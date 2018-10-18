@@ -3,19 +3,19 @@ title: Office 365 ProPlus の更新履歴 (日付別の一覧)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/9/2018
+ms.date: 10/17/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT プロフェッショナル向けに、日付別に整理された Office 365 ProPlus のリリースをすべて網羅した一覧を、リリース ノートへのリンクとともに提供します
-ms.openlocfilehash: b43645d1ee37144af913529d421986550776471a
-ms.sourcegitcommit: 939cf28550ccb4a6a448ff315071f7f906b204b5
+ms.openlocfilehash: 6dc23cbac49f4443bc0110b555e31fe39f51440f
+ms.sourcegitcommit: a9e626dc692bca5e768bae6aefc02d881bc777c5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/10/2018
-ms.locfileid: "25459404"
+ms.lasthandoff: 10/18/2018
+ms.locfileid: "25607324"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 ProPlus の更新履歴 (日付別の一覧)
 
@@ -32,7 +32,8 @@ ms.locfileid: "25459404"
 
 |**年**|**リリース日**|**月例チャネル**|**半期チャネル (対象指定)**|**半期チャネル**|
 |:-----|:-----|:-----|:-----|:-----|
-|2018 年|10 月 9 日 |[**バージョン 1809 (ビルド 10827.20150)**](monthly-channel-2018.md#version-1809-october-9)|[**バージョン 1808 (ビルド 10730.20155)**](semi-annual-channel-targeted-2018.md#version-1808-october-9) |[**バージョン 1803 (ビルド 9126.2295)**](semi-annual-channel-2018.md#version-1803-october-9)  <br/>  [バージョン 1708 (ビルド 8431.2316)](semi-annual-channel-2018.md#version-1708-october-9)   |
+|2018 年|10 月 16 日 |[**バージョン 1809 (ビルド 10827.20181)**](monthly-channel-2018.md#version-1809-october-16)| | |
+|2018 年|10 月 9 日 |[バージョン 1809 (ビルド 10827.20150)](monthly-channel-2018.md#version-1809-october-9)|[**バージョン 1808 (ビルド 10730.20155)**](semi-annual-channel-targeted-2018.md#version-1808-october-9) |[**バージョン 1803 (ビルド 9126.2295)**](semi-annual-channel-2018.md#version-1803-october-9)  <br/>  [バージョン 1708 (ビルド 8431.2316)](semi-annual-channel-2018.md#version-1708-october-9)   |
 |2018 年|9 月 27 日   |[バージョン 1809 (ビルド 10827.20138)](monthly-channel-2018.md#version-1809-september-27)| | |
 |2018 年|9 月 11 日   |[バージョン 1808 (ビルド 10730.20102)](monthly-channel-2018.md#version-1808-september-11)|[バージョン 1808 (ビルド 10730.20102)](semi-annual-channel-targeted-2018.md#version-1808-september-11) |[バージョン 1803 (ビルド 9126.2282)](semi-annual-channel-2018.md#version-1803-september-11)  <br/>  [バージョン 1708 (ビルド 8431.2309)](semi-annual-channel-2018.md#version-1708-september-11)   |
 |2018 年|9 月 5 日   |[バージョン 1808 (ビルド 10730.20088)](monthly-channel-2018.md#version-1808-september-5) | | |
@@ -153,7 +154,7 @@ ms.locfileid: "25459404"
 ||9 月 22 日  <br/> |[バージョン 1509 (ビルド 4229.1024)](monthly-channel-2015.md#version-1509-september-22)  <br/> |[バージョン 1509 (ビルド 4229.1024)](semi-annual-channel-targeted-2015.md#version-1509-september-22)  <br/> |  <br/> |
    
 
-## <a name="related-topics"></a>関連トピック
+## <a name="related-topics"></a>関連項目
 
 - [Office 365 ProPlus 更新プログラム チャネルの概要](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 - [Office 365 ProPlus 更新プログラムに関するリリース情報](release-notes-office365-proplus.md)

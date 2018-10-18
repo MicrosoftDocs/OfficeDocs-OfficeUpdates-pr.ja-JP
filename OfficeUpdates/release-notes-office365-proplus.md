@@ -3,19 +3,19 @@ title: Office 365 ProPlus 更新プログラム リリース情報
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/12/2018
+ms.date: 10/17/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT 担当者向けに、更新プログラム チャネルごとの Office 365 ProPlus の最新リリース一覧と、リリース ノートおよび更新履歴へのリンクを提供します
-ms.openlocfilehash: 0e0396048c7702400dd84d68da25a1fd7fa8a35c
-ms.sourcegitcommit: d780aaaf591dbfad76ed02b88abe569d6038c70f
+ms.openlocfilehash: f4b6580d0466a6a04bba6f22f98ccdfa0859d1b4
+ms.sourcegitcommit: a9e626dc692bca5e768bae6aefc02d881bc777c5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/12/2018
-ms.locfileid: "25522148"
+ms.lasthandoff: 10/18/2018
+ms.locfileid: "25607314"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Office 365 ProPlus 更新プログラム リリース情報
 
@@ -26,7 +26,7 @@ Office 365 ProPlus は、新機能、セキュリティ更新プログラム、�
   
 |**チャネル**|**バージョン**|**ビルド**|**リリース日**|**バージョンのサポート期限**|
 |:-----|:-----|:-----|:-----|:-----|
-|月例  <br/> |1809  <br/> |[10827.20150](monthly-channel-2018.md#version-1809-october-9)  <br/> | 2018 年 10 月 9 日  <br/> |バージョン 1810 がリリースされました <br/>|
+|月例  <br/> |1809  <br/> |[10827.20181](monthly-channel-2018.md#version-1809-october-16)  <br/> | 2018 年 10 月 16日  <br/> |バージョン 1810 がリリースされました <br/>|
 |半期 (対象指定)  <br/> |1808  <br/> |[10730.20155](semi-annual-channel-targeted-2018.md#version-1808-october-9)  <br/> | 2018 年 10 月 9 日  <br/> | 2019 年 3 月 13 日 <br/>|
 |半期 <br/> |1803  <br/> | [9126.2295](semi-annual-channel-2018.md#version-1803-october-9) <br/> |2018 年 10 月 9 日  <br/> | 2019 年 12 月 10 日 <br/>|
 |半期 <br/> |1708  <br/> |[8431.2316](semi-annual-channel-2018.md#version-1708-october-9)  <br/> |2018 年 10 月 9 日  <br/> | 2019 年 3 月 13 日 <br/>|
@@ -57,7 +57,7 @@ Office 365 ProPlus を含む Office 365 サブスクリプション プランに
  - [Office for Mac リリース ノート](release-notes-office-for-mac.md)
 
 
-## <a name="related-topics"></a>関連トピック
+## <a name="related-topics"></a>関連項目
 
 - [Office 365 ProPlus 更新プログラム チャネル概要](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 - [Office の展開](https://docs.microsoft.com/deployoffice/)
