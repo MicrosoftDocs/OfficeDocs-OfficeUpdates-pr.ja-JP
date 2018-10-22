@@ -3,19 +3,19 @@ title: Office 365 ProPlus の更新プログラムのダウンロード サイ�
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/9/2018
+ms.date: 10/18/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 各チャネルの Office 365 ProPlus の更新プログラムのダウンロード サイズの概算に関する情報を IT 技術者に提供します
-ms.openlocfilehash: 78ab2d6fa201e495f4dcbb48ac1a331100119fd9
-ms.sourcegitcommit: 939cf28550ccb4a6a448ff315071f7f906b204b5
+ms.openlocfilehash: e95939a6e9f1c67ece3479a988ff3ca4103058d1
+ms.sourcegitcommit: 5610fbdb9179573d3fac69d744ca1e3efed83f7a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/10/2018
-ms.locfileid: "25459414"
+ms.lasthandoff: 10/18/2018
+ms.locfileid: "25625039"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 ProPlus の更新プログラムのダウンロード サイズ
 
@@ -36,6 +36,20 @@ ms.locfileid: "25459414"
 > - 表には、一番最近のリリースのみが記載されています。それより前のリリースから更新する場合、ダウンロード サイズはさらに大きくなります。
 > - 半期チャネル (対象指定) から半期チャネルなどに、チャネルを切り替える場合には、更新プログラムのサイズは表に記載されているサイズよりもかなり大きくなります。全体をダウンロードすることになるので、少なくとも 1 GB になります。 
 
+## <a name="october-16-2018"></a>2018 年 10 月 16日
+
+### <a name="monthly-channel"></a>月例チャネル
+
+最新のリリースはバージョン 1809 です (ビルド 10827.20181)。
+  
+|**アップグレード リリース開始日**|**リリース日**|**ダウンロード サイズ概算 (MB)**|
+|:-----|:-----|:-----|
+|バージョン 1808 (ビルド 10730.20088)  <br/> |2018 年 9 月 5 日  <br/> |170  <br/> |
+|バージョン 1808 (ビルド 10730.20102)  <br/> |2018 年 9 月 12日  <br/> |176 <br/> |
+|バージョン 1808 (ビルド 10730.20127)  <br/> |2018 年 9 月 24 日  <br/> |396 <br/> |
+|バージョン 1809 (ビルド 10827.20138)  <br/> |2018 年 9 月 27日  <br/> |86 <br/> |
+|バージョン 1809 (ビルド 10827.20150)  <br/> |2018 年 10 月 9 日  <br/> |82 <br/> |
+
 ## <a name="october-9-2018"></a>2018 年 10 月 9 日
 
 ### <a name="monthly-channel"></a>月例チャネル
@@ -45,7 +59,7 @@ ms.locfileid: "25459414"
 |**アップグレード リリース開始日**|**リリース日**|**ダウンロード サイズ概算 (MB)**|
 |:-----|:-----|:-----|
 |バージョン 1808 (ビルド 10730.20088)  <br/> |2018 年 9 月 5 日  <br/> |170  <br/> |
-|バージョン 1808 (ビルド 10730.20102)  <br/> |2018 年 9 月 12 日  <br/> |176 <br/> |
+|バージョン 1808 (ビルド 10730.20102)  <br/> |2018 年 9 月 12日  <br/> |176 <br/> |
 |バージョン 1808 (ビルド 10730.20127)  <br/> |2018 年 9 月 24 日  <br/> |396 <br/> |
 |バージョン 1809 (ビルド 10827.20138)  <br/> |2018 年 9 月 27 日  <br/> |80 <br/> |
   
@@ -504,7 +518,7 @@ ms.locfileid: "25459414"
 |バージョン 1711 (ビルド 8730.2175)  <br/> |2018 年 1 月 9 日  <br/> |233  <br/> |
    
   
-## <a name="related-topics"></a>関連トピック
+## <a name="related-topics"></a>関連項目
 
 - [Office 365 ProPlus 更新プログラム チャネルの概要](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 - [Office 365 ProPlus の更新履歴 (日付別の一覧)](update-history-office365-proplus-by-date.md)
