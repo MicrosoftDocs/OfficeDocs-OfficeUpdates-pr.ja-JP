@@ -3,19 +3,19 @@ title: 2018 年月例チャネル リリースのリリース ノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/10/2018
+ms.date: 10/23/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT 担当者向けに、Office 365 ProPlus の 2018 年月例チャネル リリースのリリース ノートを提供します
-ms.openlocfilehash: f84a3e87d99fec1687ef447f488ed9767313bbf0
-ms.sourcegitcommit: 1bbcc1cc115559c0a1f9c6a26584590203930f2e
+ms.openlocfilehash: a14a4c99d586c58fc118182148acaf54adb37673
+ms.sourcegitcommit: 3744de1936f2f9bc46a3883f3ae684339630502f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/10/2018
-ms.locfileid: "25493873"
+ms.lasthandoff: 10/23/2018
+ms.locfileid: "25718971"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018 年月例チャネル リリースのリリース ノート
 
@@ -24,8 +24,17 @@ ms.locfileid: "25493873"
  > [!NOTE]
 > - また、Visio Pro for Office 365 および Project Online デスクトップ クライアントの新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムに関する情報も提供します。
 > - この情報は、Business Premium など一部の Office 365 プランに付属する Office のバージョンである Office 365 Business にも該当します。
+> - 多くの場合、機能 (および場合によっては修正) を月次チャネルにある期間にわたって展開します。 これにより、幅広いユーザーにこの機能をリリースする前に処理がスムーズに動作していることを確認することができます。 下記のものが表示されない場合でも、心配する必要はなく、いずれは表示されます。 [詳細情報](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
-## <a name="version-1809-october-9"></a>バージョン 1809: 10 月 9 日
+
+## <a name="version-1809-october-16"></a>1809 のバージョン: 10 月 16 日
+*バージョン 1809 (ビルド 10827.20181)* 
+
+### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム 
+-  さまざまなパフォーマンスの問題を修正します。
+
+
+## <a name="version-1809-october-9"></a>1809 のバージョン: 10 月 9 日
 *バージョン 1809 (ビルド 10827.20150)*
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
@@ -61,7 +70,6 @@ ms.locfileid: "25493873"
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能更新プログラム
 - **生き生きとしたスライドにする** ハート ビートを表示するアニメーションの 3 D グラフィックス、惑星の軌道、および T-レックスの暴走を画面上で挿入します。  [詳細情報](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
-- **新しい校正ツール** 神経質になることはありません。 PowerPoint が、文法や文体に関する提案を行います。 [詳細情報](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
 - **新しい外観のリボン アイコン** 外観だけの変更です。機能は変わりません。 あらゆるサイズの画面での視認性が向上しました。 [詳細情報](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="word-feature-updates"></a>Word: 機能更新プログラム
@@ -116,7 +124,7 @@ ms.locfileid: "25493873"
 ## <a name="version-1807-august-14"></a>バージョン 1807: 8 月 14 日
 *バージョン 1807 (ビルド 10325.20118)*
 
-### <a name="access-security-updates"></a>Access: セキュリティ更新プログラム
+### <a name="access-security-updates"></a>アクセス: セキュリティ更新プログラム
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): Microsoft Access のリモート コード実行 (Use- After-Free) の脆弱性
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
@@ -158,7 +166,7 @@ ms.locfileid: "25493873"
 ## <a name="version-1806-july-10"></a>バージョン 1806: 7 月 10 日
 *バージョン 1806 (ビルド 10228.20104)*
 
-### <a name="access-security-updates"></a>Access: セキュリティ更新プログラム
+### <a name="access-security-updates"></a>アクセス: セキュリティ更新プログラム
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): Microsoft Access のリモート コード実行 (Use-After-Free) の脆弱性
 
 ### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム
@@ -171,7 +179,7 @@ ms.locfileid: "25493873"
 ## <a name="version-1806-june-25"></a>バージョン 1806: 6 月 25 日
 *バージョン 1806 (ビルド 10228.20080)*
 
-### <a name="excel-feature-updates"></a>Excel: 機能更新プログラム
+### <a name="excel-feature-updates"></a>Excel: 機能の更新プログラム​
  - **セルと数式バーの編集の強化:** セルまたは数式バーのテキストの選択に Ctrl+A を使用できるようになりました。 絵文字とその他の複雑な文字のサポートも強化されました。[詳細情報](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
  - **SVG サポートの強化:** フィルターが適用された SVG を挿入できます。[詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
@@ -240,7 +248,7 @@ ms.locfileid: "25493873"
 ### <a name="access-feature-updates"></a>Access: 機能更新プログラム
  - **新しいグラフを使用したデータの視覚化:** 11 種類のグラフから選択したグラフをフォームやレポートに追加することにより、データが見やすくなり、適切な判断を下すことができます。[詳細情報](https://support.office.com/article/1a463106-65d0-4dbb-9d66-4ecb737ea7f7)
 
-### <a name="excel-feature-updates"></a>Excel: 機能更新プログラム
+### <a name="excel-feature-updates"></a>Excel: 機能の更新プログラム​
  - **編集中に共同編集者とチャット:** Excel を終了することなく共同編集者とチャットできるため、共同作業の効率が向上します。 一部の地域ではこの機能が使用できないことにご注意ください。[詳細を見る](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
 
 ### <a name="outlook-feature-updates"></a>Outlook: 機能更新プログラム
@@ -300,7 +308,7 @@ ms.locfileid: "25493873"
 
 ### <a name="outlook-feature-updates"></a>Outlook: 機能更新プログラム
 -   **メールの読み上げ:** 読み上げているテキストを強調表示しながら、Outlook がメールを読み上げます。[詳細情報](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
--   **アラーム見落とし防止:** 作業中のウィンドウ上にアラームがポップアップするように設定できます。 それ以外の場合は、タスクバーで Outlook が点滅してユーザーに通知します。[詳細情報](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
+-   **アラーム見落とし防止:** 作業中のウィンドウ上にアラームがポップアップするように設定できます。 それ以外の場合は、Outlook のタスクバーが点滅し、ユーザーの注意を引きます。[詳細情報](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 -   **削除済みアイテムを開封済みに:** 削除したメッセージすべてを開封済みとして設定できるようになりました。[ファイル] \> [オプション] \> [メール] \> [その他] の順に移動してオプトインします。
 -   **暗号化オプション:** Office 365 Message Encryption ユーザーは、メッセージを暗号化して組織内外のユーザーに送信できます。暗号化オプションは、メッセージを作成するときに、[オプション] \> [アクセス許可] に表示されます。 [詳細情報](https://aka.ms/omeoverview)
 
@@ -323,7 +331,7 @@ ms.locfileid: "25493873"
 -   [CVE-2018-1029](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1029): Microsoft Excel のリモート コード実行の脆弱性
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: セキュリティ以外の更新プログラム
--   複数のユーザーでプレゼンテーションを共同編集している場合に、スライド マスターに正しくない重複が発生する問題を修正します。
+-   複数のユーザーでプレゼンテーションを共同編集している場合に、スライド マスターに間違った重複が発生するという問題を修正します。
 -   OneDrive に保存されているファイルを開いた際に保護ビューを終了すると PowerPoint がクラッシュする問題を修正します。
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: セキュリティ以外の更新プログラム
@@ -341,13 +349,13 @@ ms.locfileid: "25493873"
 ## <a name="version-1803-march-27"></a>バージョン 1803: 3 月 27 日
 *バージョン 1803 (ビルド 9126.2116)*
 
-### <a name="excel-feature-updates"></a>Excel: 機能更新プログラム
+### <a name="excel-feature-updates"></a>Excel: 機能の更新プログラム​
 -   **Microsoft Translator:** Microsoft Translator を使用して、単語、フレーズ、文章を別の言語に翻訳します。これは、リボンの [校閲] タブから実行できます。
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
 -   Outlook メールに添付された Excel ブックをクイック印刷で印刷できない問題を修正します。
 -   ハイパーリンクをクリックすると Excel がクラッシュする問題を修正します。
--   キューブ関数を使用すると、Excel がクラッシュする問題を修正します。
+-   キューブ関数を使用すると、Excel がクラッシュするという問題を修正します。
 
 ### <a name="onedrive-for-business-non-security-updates"></a>OneDrive for Business: セキュリティ以外の更新プログラム
 -   長時間にわたり、OneDrive for Business (Groove.exe) が 1 つの CPU コアの CPU リソースを消費 (例: 4 コア CPU の 25%) する問題を修正します。
@@ -374,7 +382,7 @@ ms.locfileid: "25493873"
 ## <a name="version-1802-march-13"></a>バージョン 1802: 3 月 13 日
 *バージョン 1802 (ビルド 9029.2253)*
 
-### <a name="access-security-updates"></a>Access: セキュリティ更新プログラム
+### <a name="access-security-updates"></a>アクセス: セキュリティ更新プログラム
 -   [CVE-2018-0903](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0903): Microsoft Access のリモート コード実行の脆弱性
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
@@ -458,7 +466,7 @@ ms.locfileid: "25493873"
 ## <a name="version-1712-january-17"></a>バージョン 1712: 1 月 17 日
 *バージョン 1712 (ビルド 8827.2148)*
 
-### <a name="excel-feature-updates"></a>Excel: 機能更新プログラム
+### <a name="excel-feature-updates"></a>Excel: 機能の更新プログラム​
 -   **SVG アイコンを図形に変換:** すべての SVG 画像とアイコンを Office 図形に変換し、色、サイズ、テクスチャを変更できます。
 -   **セルの選択解除:** ワークシートで過ってクリックして選択したセルを選択解除できるため、最初から選択し直す必要がありません。
 
