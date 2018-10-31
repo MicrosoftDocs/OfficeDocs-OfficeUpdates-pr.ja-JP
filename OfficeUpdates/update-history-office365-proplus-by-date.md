@@ -1,39 +1,51 @@
 ---
-title: Office 365 ProPlus の更新履歴 (日付別の一覧)
+title: Office 365 ProPlus 更新履歴 (日付順)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/17/2018
+ms.date: 10/18/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: IT プロフェッショナル向けに、日付別に整理された Office 365 ProPlus のリリースをすべて網羅した一覧を、リリース ノートへのリンクとともに提供します
-ms.openlocfilehash: 6dc23cbac49f4443bc0110b555e31fe39f51440f
-ms.sourcegitcommit: a9e626dc692bca5e768bae6aefc02d881bc777c5
+description: IT 担当者向けに、Office 365 ProPlus のすべてのリリースの日付順リストを、リリース ノートへのリンクとともに提供します
+ms.openlocfilehash: bd92012c83b7438edac74990f3e18608d96fe251
+ms.sourcegitcommit: b9ddc8fa9e1993a95425dd2f89c1f369ed41a473
 ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 10/18/2018
-ms.locfileid: "25607324"
+ms.locfileid: "25638177"
 ---
-# <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 ProPlus の更新履歴 (日付別の一覧)
+# <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 ProPlus 更新履歴 (日付順)
 
-以下の表に、月次、半期 (対象指定)、半期といった更新プログラム チャネルでリリースされた Office 365 ProPlus の各更新プログラムのバージョン番号とビルド番号の一覧を示します。この表の各エントリーは、該当するリリースのリリース ノートへ直接リンクしています。これらのリリース ノートでは、Office 365 ProPlus の更新プログラムに含まれる機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムに関する情報を提供します。
+Office 365 ProPlus は、新機能、セキュリティ更新プログラム、非セキュリティ更新プログラムにより定期的に更新されます。[更新プログラム チャネル](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)を使用してリリースされる更新プログラムには、各更新プログラム チャネルのリリースごとに、バージョンとビルド番号が割り当てられます。 
 
 
 > [!NOTE]
-> - これらのバージョン番号とビルド番号は、Office 365 Business、Visio Pro for Office 365、Project Online デスクトップ クライアントにも適用されます。Office 365 Business は、Business Premium など、一部の Office 365 プランに付属する Office のバージョンです。
-> - この表はリリースの日付順に並べられており、最新のリリース日が最初に表示されています。 
-> - 太字のバージョン番号とビルド番号は、個々の更新プログラム チャネルの最新のバージョン番号とビルド番号を表しています。
-> - 更新プログラム チャネルの詳細については、「[Office 365 ProPlus 更新プログラム チャネルの概要](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)」を参照してください。
+> - バージョン番号とビルド番号は、Office 365 Business、Visio Pro for Office 365、Project Online デスクトップ クライアントにも適用されます。Office 365 Business は、Business Premium など、一部の Office 365 プランに付属する Office のバージョンです。
+> - この表は最新のリリース日を先頭に、リリース日順に並べられています。 
+> - 更新プログラム チャネルの詳細については、「[Office 365 ProPlus 更新プログラム チャネル概要](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)」を参照してください。
 
+次の表に、更新プログラム チャネルごとにサポートするバージョンと最新のビルド番号を示します。 
+ 
+|**チャネル**|**バージョン**|**ビルド**|**リリース日**|**バージョンのサポート期限**|
+|:-----|:-----|:-----|:-----|:-----|
+|月次  <br/> |1809  <br/> |10827.20181 <br/> | 2018 年 10 月 16日  <br/> |バージョン 1810 がリリースされました <br/>|
+|半期 (対象指定)  <br/> |1808  <br/> |10730.20155 <br/> | 2018 年 10 月 9 日  <br/> | 2019 年 3 月 13 日 <br/>|
+|半期 <br/> |1803  <br/> | 9126.2295<br/> |2018 年 10 月 9 日  <br/> | 2019 年 12 月 10 日 <br/>|
+|半期 <br/> |1708  <br/> |8431.2316  <br/> |2018 年 10 月 9 日  <br/> | 2019 年 3 月 13 日 <br/>|
+
+以前のリリースの Office 365 ProPlus を最新のリリースに更新する際のおおよそのダウンロード サイズについての詳細は、「[Office 365 ProPlus 更新プログラムのダウンロード サイズ](download-sizes-office365-proplus-updates.md)」を参照してください。
+
+
+次の表に、月次、半期 (対象指定)、半期の更新プログラム チャネルごとにリリースされた Office 365 ProPlus の更新プログラムのバージョン番号とビルド番号の一覧を、該当するリリース ノートへのリンクを含めて示します。リリース ノートは、Office 365 ProPlus の更新プログラムに含まれる機能、セキュリティ更新プログラム、非セキュリティ更新プログラムに関する情報を提供します。
 
 
 |**年**|**リリース日**|**月例チャネル**|**半期チャネル (対象指定)**|**半期チャネル**|
 |:-----|:-----|:-----|:-----|:-----|
-|2018 年|10 月 16 日 |[**バージョン 1809 (ビルド 10827.20181)**](monthly-channel-2018.md#version-1809-october-16)| | |
-|2018 年|10 月 9 日 |[バージョン 1809 (ビルド 10827.20150)](monthly-channel-2018.md#version-1809-october-9)|[**バージョン 1808 (ビルド 10730.20155)**](semi-annual-channel-targeted-2018.md#version-1808-october-9) |[**バージョン 1803 (ビルド 9126.2295)**](semi-annual-channel-2018.md#version-1803-october-9)  <br/>  [バージョン 1708 (ビルド 8431.2316)](semi-annual-channel-2018.md#version-1708-october-9)   |
+|2018 年|10 月 16 日 |[バージョン 1809 (ビルド 10827.20181)](monthly-channel-2018.md#version-1809-october-16)| | |
+|2018 年|10 月 9 日 |[バージョン 1809 (ビルド 10827.20150)](monthly-channel-2018.md#version-1809-october-9)|[バージョン 1808 (ビルド 10730.20155)](semi-annual-channel-targeted-2018.md#version-1808-october-9) |[バージョン 1803 (ビルド 9126.2295)](semi-annual-channel-2018.md#version-1803-october-9)  <br/>  [バージョン 1708 (ビルド 8431.2316)](semi-annual-channel-2018.md#version-1708-october-9)   |
 |2018 年|9 月 27 日   |[バージョン 1809 (ビルド 10827.20138)](monthly-channel-2018.md#version-1809-september-27)| | |
 |2018 年|9 月 11 日   |[バージョン 1808 (ビルド 10730.20102)](monthly-channel-2018.md#version-1808-september-11)|[バージョン 1808 (ビルド 10730.20102)](semi-annual-channel-targeted-2018.md#version-1808-september-11) |[バージョン 1803 (ビルド 9126.2282)](semi-annual-channel-2018.md#version-1803-september-11)  <br/>  [バージョン 1708 (ビルド 8431.2309)](semi-annual-channel-2018.md#version-1708-september-11)   |
 |2018 年|9 月 5 日   |[バージョン 1808 (ビルド 10730.20088)](monthly-channel-2018.md#version-1808-september-5) | | |
