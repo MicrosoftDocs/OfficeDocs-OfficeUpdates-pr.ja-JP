@@ -3,76 +3,76 @@ title: Office for Mac の更新履歴
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/23/2018
+ms.date: 10/30/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
-description: IT プロフェッショナル向けに、ダウンロード パッケージへのリンクを含む Office for Mac の最新の更新プログラムに関する情報と、更新履歴を提供します。
-ms.openlocfilehash: 65ce4c028eff54b9a115a7961bdb59effcf7f303
-ms.sourcegitcommit: 3744de1936f2f9bc46a3883f3ae684339630502f
+description: IT プロフェッショナルに、office for Mac の最新更新プログラムに関する情報を提供します。それには、ダウンロード パッケージへのリンク、更新履歴が含まれます
+ms.openlocfilehash: 3ac97d053452db4c8b0afb0988fa63916dbd0a5c
+ms.sourcegitcommit: 81740983cd831b9909319a79dfcefdff48b6d5c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/23/2018
-ms.locfileid: "25718961"
+ms.lasthandoff: 10/30/2018
+ms.locfileid: "25849597"
 ---
 # <a name="update-history-for-office-for-mac"></a>Office for Mac の更新履歴
 
   
-Office 365 のサブスクリプションに付属する Office for Mac は、新しい機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムを提供するために定期的に更新されます。以下の情報は、組織内のユーザーに対して Office for Mac を展開する IT プロフェッショナルを主な対象としています。
+Office 365 サブスクリプションに付属する Office for Mac は、新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムを提供するために定期的に更新されます。以下の情報は、組織内のユーザー Office for Mac を展開する IT プロフェッショナルを主な対象としています。
 
 最新バージョンの Office for Mac について次の表にまとめます。
 
 |**現在のバージョン**|**リリース日**|**ダウンロード リンク**|**詳細情報**|
 |:-----|:-----|:-----|:-----|
-16.18 (18101400)  <br/> |2018 年 10 月 16日  <br/> |[ダウンロード](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |[リリース ノート](release-notes-office-for-mac.md#october-2018-release) <br/> |
+16.18 (18101400)  <br/> |2018 年 10 月 16 日  <br/> |[ダウンロード](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |[リリース ノート](release-notes-office-for-mac.md#october-2018-release) <br/> |
   
 > [!NOTE]
-> - セキュリティの理由から、マイクロソフトは SHA-1 の使用を推奨しておりません。 [詳細を読む](https://docs.microsoft.com/en-us/security-updates/SecurityAdvisories/2017/4010323)
-> - 2018年 9 月の 16.17 のリリース以降、この情報は Office 2019 for Mac にも適用されます。販売店またはボリューム ライセンス契約を通じて 1 回限りの購入として利用可能な Office for Mac のバージョンです。
-> - バージョン 16.16 とそれ以前の更新履歴情報も、Office 2016 にも適用されます。これも、一括購入が可能な Office for Mac のバージョンです。16.16 とそれまでの古いバージョンは、Office for Mac のボリューム ライセンスでアクティブ化することができます。バージョン 16.17 とそれ以降は、Office for Mac ボリューム ライセンスではアクティブ化できません。9 月以降の Office for Mac のリリースの詳細については、「[Office for Mac のリリース ノート](release-notes-office-2016-mac.md)」を参照してください。
-> - Office for Mac のリリースに含まれる機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムの詳細については、「[Office for Mac のリリース ノート](release-notes-office-for-mac.md)」を参照してください。
-> - 新しいリリースを早く利用されたい場合は、[Office Insider プログラム](https://support.office.com/article/f4208185-b63a-4b68-9c7a-9a32d2411c16#ID0EAACAAA=Mac)に参加してください。
+> - セキュリティ上の理由から、Microsoft では SHA-1 は使用されなくなりました。 [詳細情報](https://docs.microsoft.com/ja-JP/security-updates/SecurityAdvisories/2017/4010323)
+> - 2018 年 9 月の 16.17 リリース以降では、この情報は、Office 2019 for Mac にも該当します。これは、小売店またはボリューム ライセンス契約によって 1 回限りの購入で使用できる Office for Mac のバージョンです。
+> - 16.16 以前のバージョンの更新履歴情報は、Office 2016 for Mac にも該当します。これも、1 回限りの購入で使用できる Office for Mac のバージョンです。 16.16 以前のバージョンは、Office 2016 for Mac のボリューム ライセンスでアクティブ化できます。 Office 2016 for Mac のボリューム ライセンスでは、16.17 以降のバージョンをアクティブ化することはできません。 9 月以降の Office 2016 for Mac リリースの詳細については、[Office 2016 for Mac のリリース ノート](release-notes-office-2016-mac.md)をご覧ください。
+> - 指定されたリリースの Office for Mac に含まれる機能、セキュリティ更新プログラム、およびセキュリティ以外の更新プログラムの詳細については、「[Office for Mac のリリース ノート](release-notes-office-for-mac.md)」をご覧ください。
+> - 新規リリースをより早く利用するには、[Office Insider](https://support.office.com/article/f4208185-b63a-4b68-9c7a-9a32d2411c16#ID0EAACAAA=Mac) プログラムにご参加ください。
 
 ## <a name="most-current-packages-for-office-for-mac"></a>Office for Mac の最新パッケージ
 
 
-以下の表に、Office for Mac 向けと、Word、Excel など個々のアプリケーション向けの最新パッケージを一覧表示します。パッケージはすべて 64 ビットのみです。ビルドの日付は、バージョン番号の後ろの括弧内に YYMMDD 形式で一覧表示されます。すでにインストールされたアプリケーションがない場合にはインストール パッケージが使用され、同時にアップデート パッケージが既存のインストールを更新するために使用されます。
+以下の表に、最新パッケージの Office for Mac と個々のアプリケーション (Word および Excel など) を示します。すべてのパッケージは 64 ビットのみです。ビルド番号の後に、YYMMDD 形式でビルド日付を括弧内に記します。アプリケーション パッケージがまだインストールされていない場合にはインストール パッケージが使用され、既存のインストールを更新する場合には更新プログラム パッケージが使用されます。
   
 |**アプリケーション**|**バージョン**|**ダウンロード リンク**|**インストール パッケージの SHA-256 ハッシュ**|
 |:-----|:-----|:-----|:-----|
-|Office スイート (すべてのアプリケーション)  <br/> |16.18 (18101400)  <br/> |[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |8FE6258B09FCE370E73F1CCCF5ADD7C3655EED016511B9B91B2E42CC6B343016 <br/> |
-|Word  <br/> |16.18 (18101400)  <br/> |[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=525134) <br/> [更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.18.18101400_Updater.pkg) <br/> |8DFC0CF63AFE1BA2FE42F422EFB21D6CC5DF67F836650326E8A92C7F32B22F71 <br/> |
-|Excel  <br/> |16.18 (18101400)   <br/> |[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=525135) <br/> [更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.18.18101400_Updater.pkg) <br/> |3015EED14959467545A6EF67C9FF61F6CD46721AAD3E87989AB066C458E5ABBA  <br/> |
-|PowerPoint  <br/> |16.18 (18101400)   <br/> |[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=525136) <br/> [更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.18.18101400_Updater.pkg) <br/> |EC6B10A988E51B9F0F5A708F0A7518EC2CFAD5335D2EA807296F9CE2DF6DC561<br/> |
-|Outlook  <br/> |16.18 (18101400)   <br/> |[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=525137) <br/> [更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.18.18101400_Updater.pkg) <br/> |42BC668427ABE22555BBDD5BB987A203B5973918584BE22B176EDE102136EADE  <br/> |
-|OneNote  <br/> |16.18 (18101400)   <br/> |[更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.18.18101400_Updater.pkg) <br/> |該当なし  <br/> |
+|Office スイート (すべてのアプリケーション)  <br/> |16.18.0 (18101400)  <br/> |[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |8FE6258B09FCE370E73F1CCCF5ADD7C3655EED016511B9B91B2E42CC6B343016 <br/> |
+|Word  <br/> |16.18.0 (18101400)  <br/> |[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=525134) <br/> [更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.18.18101400_Updater.pkg) <br/> |8DFC0CF63AFE1BA2FE42F422EFB21D6CC5DF67F836650326E8A92C7F32B22F71 <br/> |
+|Excel  <br/> |16.18.0 (18101400)   <br/> |[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=525135) <br/> [更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.18.18101400_Updater.pkg) <br/> |3015EED14959467545A6EF67C9FF61F6CD46721AAD3E87989AB066C458E5ABBA  <br/> |
+|PowerPoint  <br/> |16.18.0 (18101400)   <br/> |[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=525136) <br/> [更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.18.18101400_Updater.pkg) <br/> |EC6B10A988E51B9F0F5A708F0A7518EC2CFAD5335D2EA807296F9CE2DF6DC561<br/> |
+|Outlook  <br/> |16.18.0 (18101400)   <br/> |[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=525137) <br/> [更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.18.18101400_Updater.pkg) <br/> |42BC668427ABE22555BBDD5BB987A203B5973918584BE22B176EDE102136EADE  <br/> |
+|OneNote  <br/> |16.18.0 (18101400)   <br/> |[更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.18.18101400_Updater.pkg) <br/> |該当なし  <br/> |
    
 
-## <a name="most-current-packages-for-other-mac-programs-from-microsoft"></a>Microsoft による他の Mac プログラム向けの最新パッケージ
+## <a name="most-current-packages-for-other-mac-programs-from-microsoft"></a>Microsoft の他の Mac プログラムに関する最新パッケージ
 
-以下の表に、IT プロフェッショナルにとって興味深い、ダウンロード リンクを含む Microsoft による他の Mac プログラム向けの最新パッケージについての情報を示します。ビルドの日付は、バージョン番号の後ろの括弧内に YYMMDD 形式で一覧表示されます。 
+次の表に、IT プロフェッショナルが関心を示す可能性がある Microsoft の他の Mac プログラムに関する最新パッケージに関する情報を、ダウンロード リンクを含めて記します。バージョン番号の後に YYMMDD という形式でビルド日付を括弧内に示します。 
   
-|**プログラム**|**バージョン**|**パッケージ**|**詳細情報**|**SHA-1/SHA-256 ハッシュ**|
+|**プログラム**|**バージョン**|**パッケージ**|**詳細情報**|**SHA-1/ SHA-256 ハッシュ**|
 |:-----|:-----|:-----|:-----|:-----|
 |Microsoft AutoUpdate (MAU)  <br/> |4.4 (18101400)  <br/> |[ダウンロード](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |   この更新プログラム パッケージは、64 ビットです。 <br/><br/>[MAU のリリース履歴](release-history-microsoft-autoupdate.md)<br/> |258A04EBC0359C2D6E3691B03200D3DCBF4DEE65CE08B9E3A78AC0469D416B59  <br/>|
-|Skype for Business  <br/> |16.22.0.175 <br/> |[ダウンロード](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> |2018 年 10 月 12 日の最新バージョンがリリースされました。 <br/><br/>[最新の更新プログラム](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> | 5D7B265631C304E21D39A2456CFC9E8932F36619504EC713809AFE5D78085AAC <br/> |
-|リモート デスクトップ | 10.2.2 (1291)  | [ダウンロード](https://go.microsoft.com/fwlink/?linkid=868963) | このインストール パッケージは、64 ビットです。 <br/> <br/>[最新情報](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) | 4d5b06ef48e9c75b0dc37d60bb31d3f13e28902932e524295af8e42b943972fd <br/> |
+|Skype for Business  <br/> |16.22.0.178 <br/> |[ダウンロード](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> |最新バージョンは、2018 年 10 月 30 日にリリースされました。 <br/><br/>[最新の更新プログラム](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> | 3CAFAD1FD590EDE8371B1DCB075BBB970F45A6D41FB2D0B1065BA6DD18C2523D <br/> |
+|リモート デスクトップ | 10.2.2 (1291)  | [ダウンロード](https://go.microsoft.com/fwlink/?linkid=868963) | このインストール パッケージは、64 ビットです。 <br/> <br/>[新機能](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) | 4d5b06ef48e9c75b0dc37d60bb31d3f13e28902932e524295af8e42b943972fd <br/> |
 |Intune ポータル サイト |1.5 (52.1805002.000) [180509] | [ダウンロード](https://go.microsoft.com/fwlink/?linkid=869655)| [Microsoft Intune の新機能](https://docs.microsoft.com/intune/whats-new) | 6aa67dc0accea7a3745e29133d2591568ff9f1cb <br/> |
-|Office 2016 for Mac 用の Microsoft SharePoint オンプレミス Safari ブラウザのプラグイン  <br/> |15.32.0 (170309)  <br/> |[ダウンロード](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |このインストール パッケージは、64 ビットです。  <br/>| 45af4855ee23157b8f0a909e60a7e97865d1f8c0  <br/>  |
+|Office 2016 for Mac 用の Microsoft SharePoint オンプレミス Safari ブラウザー プラグイン  <br/> |15.32.0 (170309)  <br/> |[ダウンロード](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |このインストール パッケージは、64 ビットです。  <br/>| 45af4855ee23157b8f0a909e60a7e97865d1f8c0  <br/>  |
    
 
 ## <a name="release-history-for-office-for-mac"></a>Office for Mac のリリース履歴
 
-以下の表に、Office for Mac のリリース履歴情報とダウンロード リンクを示します。この表はリリース日の順に並んでおり、最新のリリース日が最初に表示されています。ビルドの日付は、バージョン番号の後ろの括弧内に YYMMDD 形式で一覧表示されています。2016 年 8 月 22 日以降のリリースはすべて、64 ビットのみです。2016 年 8 月 22 日より以前のリリースはすべて、 32 ビットのみです。
+次の表に、Office for Mac のリリース履歴情報とダウンロード リンクを示します。この表はリリース日順になっていて、最新のリリース日のものが先頭です。バージョン番号の後に、YYMMDD という形式のビルド日付を括弧内に記しします。2016 年 8 月 22 日以降は、すべてのリリースが 64 ビットです。2016 年 8 月 22 日より前のリリースはすべて 32 ビットです。
 
 > [!NOTE]
 > ダウンロード リンクは、最新のリリースにのみ記します。
   
 |**リリース日**|**バージョン**|**詳細情報**|**インストール パッケージ**|**更新プログラム パッケージ**|
 |:-----|:-----|:-----|:-----|:-----|
-|2018 年 10 月 16日  <br/> |16.18 (18101400)  <br/> |[リリース ノート](release-notes-office-for-mac.md#october-2018-release) <br/> |[Office スイート](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Office_16.18.18101400_Installer.pkg) <br/>  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.18.18101400_Updater.pkg)、[Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.18.18101400_Updater.pkg)、[PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.18.18101400_Updater.pkg)、[Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.18.18101400_Updater.pkg)、[OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.18.18101400_Updater.pkg) <br/> |
+|2018 年 10 月 16 日  <br/> |16.18 (18101400)  <br/> |[リリース ノート](release-notes-office-for-mac.md#october-2018-release) <br/> |[Office スイート](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Office_16.18.18101400_Installer.pkg) <br/>  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.18.18101400_Updater.pkg)、[Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.18.18101400_Updater.pkg)、[PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.18.18101400_Updater.pkg)、[Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.18.18101400_Updater.pkg)、[OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.18.18101400_Updater.pkg) <br/> |
 |2018 年 9 月 11 日  <br/> |16.17 (18090901)  <br/> |[リリース ノート](release-notes-office-for-mac.md#september-2018-release) <br/> |[Office スイート](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Office_16.17.18090901_Installer.pkg) <br/>  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.17.18090901_Updater.pkg)、[Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.17.18090901_Updater.pkg)、[PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.17.18090901_Updater.pkg)、[Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.17.18090901_Updater.pkg)、[OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.17.18090901_Updater.pkg) <br/> |
 |2018 年 8 月 14 日  <br/> |16.16 (18081201)  <br/> |[リリース ノート](release-notes-office-for-mac.md#august-2018-release) <br/> |[Office スイート](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Office_16.16.18081201_Installer.pkg) <br/>  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.16.18081201_Updater.pkg)、[Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.16.18081402_Updater.pkg)、[PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.16.18081201_Updater.pkg)、[Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.16.18081201_Updater.pkg)、[OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.16.18081201_Updater.pkg) <br/> |
 |2018 年 7 月 10 日  <br/> |16.15 (18070902)  <br/> |[リリース ノート](release-notes-office-for-mac.md#july-2018-release) <br/> |[Office スイート](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Office_2016_16.15.18070902_Installer.pkg) <br/>  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.15.18070902_Updater.pkg)、[Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.15.18070902_Updater.pkg)、[PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.15.18070902_Updater.pkg)、[Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.15.18070902_Updater.pkg)、[OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.15.18070902_Updater.pkg) <br/> |
@@ -116,7 +116,7 @@ Office 365 のサブスクリプションに付属する Office for Mac は、�
 |2016 年 6 月 25 日  <br/> |15.23.2 (160624)  <br/> |MRU サービスの修正プログラム  <br/> |||
 |2016 年 6 月 18 日  <br/> |15.23.1 (160617)  <br/> |日本語マクロの修正プログラム  <br/>  |||
 |2016 年 6 月 14 日  <br/> |15.23.0 (160611)  <br/> |[KB 3165798](https://support.microsoft.com/kb/3165798) <br/> |||
-|2016 年 5 月 13 日  <br/> |15.22.1 (160512)  <br/> |EndNote 互換性修正プログラム  <br/>  |||
+|2016 年 5 月 13 日  <br/> |15.22.1 (160512)  <br/> |文末脚注の互換性修正プログラム  <br/>  |||
 |2016 年 5 月 10 日  <br/> |15.22.0 (160506)  <br/> |[KB 3155777](https://support.microsoft.com/kb/3155777) <br/> |||
 |2016 年 4 月 12 日  <br/> |15.21.1 (160411)  <br/> |[KB 3142577](https://support.microsoft.com/kb/3142577) <br/> |||
 |2016 年 3 月 16 日  <br/> |15.20.0 (160315)  <br/> |[KB 3138327](https://support.microsoft.com/kb/3138327) <br/> |||
