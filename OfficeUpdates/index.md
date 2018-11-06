@@ -10,18 +10,18 @@ ms.topic: landing-page
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Landing
-description: IT 担当者に Office 365 ProPlus、Office for Mac、永続版 Office、Office Server 製品の Office リリース コンテンツへのリンクを提供します。
-ms.openlocfilehash: f2bd4b536cc1e7a6aa92cc5733695f7a42505874
-ms.sourcegitcommit: 73ff6091f19a0ba409da0357b21bb8804d41385d
-ms.translationtype: HT
+description: Office へのリンクを持つ IT プロフェッショナルは、Office 365 用リソース、Office for Mac、製品版の Office では、Office のサーバーのコンテンツをリリースを提供する製品
+ms.openlocfilehash: 7bd39ca0929047841f1f40333029cb63a8d2a10c
+ms.sourcegitcommit: 6782299423eaf5303519f637783555eab656fde2
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/26/2018
-ms.locfileid: "21223385"
+ms.lasthandoff: 11/06/2018
+ms.locfileid: "26024561"
 ---
 # <a name="office-updates"></a>Office 更新プログラム
 
   
-Office 365 ProPlus、Office for Mac、Office Server 製品、永続版の Office を含む、Office 製品の機能、セキュリティ更新プログラム、およびセキュリティ以外の更新プログラムに関する情報を入手できます。
+Office 365 用リソースを、Office for Mac を含む、Office 製品の機能、セキュリティ更新プログラム、およびセキュリティ以外の更新プログラムに関する情報を取得する Office サーバー製品と Office の製品版です。
   
 
 ---
@@ -34,8 +34,8 @@ Office 365 ProPlus、Office for Mac、Office Server 製品、永続版の Office
                     <div class="cardText">
                         <h3>Office 365 ProPlus</h3>
                         <p><a href="release-notes-office365-proplus.md">リリース ノート</a></p>
-                        <p><a href="update-history-office365-proplus-by-date.md">更新の履歴 (日付順)</a></p>
-                        <p><a href="download-sizes-office365-proplus-updates.md">更新プログラムのサイズ</a></p>
+                        <p><a href="update-history-office365-proplus-by-date.md">更新履歴 (日付)</a></p>
+                        <p><a href="download-sizes-office365-proplus-updates.md">サイズを更新します。</a></p>
                     </div>
                 </div>
             </div>
@@ -47,9 +47,10 @@ Office 365 ProPlus、Office for Mac、Office Server 製品、永続版の Office
                 <div class="card">
                     <div class="cardText">
                         <h3>Office for Mac</h3>
-                        <p><a href="release-notes-office-for-mac.md">リリース ノート</a></p>
-                        <p><a href="update-history-office-for-mac.md">更新の履歴</a></p>
-                        <p><a href="release-history-microsoft-autoupdate.md">MAU リリース</a></p>
+                        <p><a href="release-notes-office-for-mac.md">リリース ノート (Office 365、2019)</a></p>
+                        <p><a href="update-history-office-for-mac.md">更新履歴 (Office 365、2019)</a></p>
+                        <p><a href="release-notes-office-2016-mac.md">リリース ノート (2016)</a></p>
+                        <p><a href="release-history-microsoft-autoupdate.md">MAU のリリース</a></p>
                      </div>
                 </div>
             </div>
@@ -60,11 +61,11 @@ Office 365 ProPlus、Office for Mac、Office Server 製品、永続版の Office
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText">
-                        <h3>Office Server 製品</h3>
-                        <p><a href="https://technet.microsoft.com/library/hh135098(v=exchg.150).aspx">Exchange Server 更新プログラム</a></p>
-                        <p><a href="project-server-updates.md">Project Server 更新プログラム</a></p>
-                        <p><a href="sharepoint-updates.md">SharePoint Server 更新プログラム</a></p>
-                        <p><a href="https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates">Skype for Business Server 更新プログラム</a></p>
+                        <h3>Office サーバー製品</h3>
+                        <p><a href="https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates">Exchange Server 更新プログラム</a></p>
+                        <p><a href="project-server-updates.md">Project Server の更新プログラム</a></p>
+                        <p><a href="sharepoint-updates.md">SharePoint サーバーの更新</a></p>
+                        <p><a href="https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates">Skype ビジネス サーバーの更新</a></p>
                </div>
                 </div>
             </div>
@@ -79,11 +80,11 @@ Office 365 ProPlus、Office for Mac、Office Server 製品、永続版の Office
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText">
-                        <h3>Office (永続版)</h3>
+                        <h3>Office (製品版)</h3>
                             <p><a href="office-updates-msi.md">Office 更新プログラム</a></p>
                             <p><a href="outlook-updates-msi.md">Outlook 更新プログラム</a></p>
-                            <p><a href="https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates">Skype for Business 更新プログラム</a></p>
-                            <p><a href="msp-files-office-2016.md">Office 2016 の .msp ファイル</a></p>
+                            <p><a href="https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates">ビジネス用の Skype を更新します。</a></p>
+                            <p><a href="msp-files-office-2016.md">.Msp ファイルが Office 2016</a></p>
                     </div>
                 </div>
             </div>
@@ -96,9 +97,9 @@ Office 365 ProPlus、Office for Mac、Office Server 製品、永続版の Office
                     <div class="cardText">
                         <h3>その他の Office リソース</h3>
                             <p><a href="https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426">Office 365 の新機能</a></p>
-                            <p><a href="https://products.office.com/business/office-365-roadmap">Office 365 のロードマップ</a></p>
-                            <p><a href="https://support.office.com/article/719f4904-cbdd-4889-a0cf-fbd7837dfecd">Office 365 の変更内容の最新情報</a></p>
-                            <p><a href="https://www.microsoft.com/microsoft-365/blog/office/">Office ブログ</a></p>
+                            <p><a href="https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=O365">Office 365 のロードマップ</a></p>
+                            <p><a href="https://support.office.com/article/719f4904-cbdd-4889-a0cf-fbd7837dfecd">Office 365 の変更に関する最新情報を得る</a></p>
+                            <p><a href="https://www.microsoft.com/microsoft-365/blog/office/">Office のブログ</a></p>
                     </div>
                 </div>
             </div>
@@ -109,11 +110,11 @@ Office 365 ProPlus、Office for Mac、Office Server 製品、永続版の Office
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText">
-                        <h3>Microsoft リソース</h3>
+                        <h3>マイクロソフトのリソース</h3>
                             <p><a href="https://www.microsoft.com/itpro/windows-10/release-information">Windows 10 のリリース情報</a></p>
-                            <p><a href="https://support.microsoft.com/lifecycle">Microsoft のライフサイクル ポリシー</a></p>
-                            <p><a href="https://portal.msrc.microsoft.com/">Microsoft のセキュリティ更新ガイド</a></p>
-                            <p><a href="https://techcommunity.microsoft.com/">Microsoft Tech Community</a></p>
+                            <p><a href="https://support.microsoft.com/lifecycle">マイクロソフト ライフ サイクル ポリシー</a></p>
+                            <p><a href="https://portal.msrc.microsoft.com/">Microsoft セキュリティ更新ガイド</a></p>
+                            <p><a href="https://techcommunity.microsoft.com/">マイクロソフト テクニカル コミュニティ</a></p>
                     </div>
                 </div>
             </div>

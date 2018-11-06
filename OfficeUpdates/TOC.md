@@ -38,7 +38,7 @@
 ## [Office 2010 の更新プログラム](update-history-office-2010-click-to-run.md)
 
 # Office サーバー製品
-## [Exchange Server 更新プログラム](https://technet.microsoft.com/library/hh135098(v=exchg.150).aspx)
+## [Exchange Server 更新プログラム](https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates)
 ## [Project Server の更新プログラム](project-server-updates.md)
 ## [SharePoint (更新プログラム)](sharepoint-updates.md)
 ## [Skype ビジネス サーバーの更新](https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates)
