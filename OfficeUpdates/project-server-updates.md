@@ -1,5 +1,5 @@
 ---
-title: Project Server 更新プログラム
+title: Project Server の更新プログラム
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
@@ -13,14 +13,14 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: Project Server 2013 と Project Server 2010 の更新プログラムを 1 か所で検索および管理できます。このページのリンクを使用して、更新プログラムに関する詳細な情報を取得し、更新プログラムをダウンロードしてください。
-ms.openlocfilehash: 7f60ab20da58872a0d7b284b058f148ec533bcba
-ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
+ms.openlocfilehash: d8e5e8801d639d8a2b48ade63dc62571aed2c782
+ms.sourcegitcommit: 6782299423eaf5303519f637783555eab656fde2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/10/2018
-ms.locfileid: "25456701"
+ms.lasthandoff: 11/06/2018
+ms.locfileid: "26024591"
 ---
-# <a name="project-server-updates"></a>Project Server 更新プログラム
+# <a name="project-server-updates"></a>Project Server の更新プログラム
 
 このページのリンクを使用して、Project Server 2013 および Project Server 2010 の更新プログラムに関する詳細な情報を取得し、更新プログラムをダウンロードしてください。 
 > [!NOTE]
@@ -130,7 +130,7 @@ ms.locfileid: "25456701"
 |2013 年 7 月  |[KB2687452](https://support.microsoft.com/kb/2687452) (Service Pack 2) <br/> |
    
 
-## <a name="related-topics"></a>関連トピック
+## <a name="related-topics"></a>関連項目
 
-- [Exchange Server 更新プログラム](https://technet.microsoft.com/library/hh135098(v=exchg.150).aspx)
+- [Exchange Server 更新プログラム](https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates)
 - [SharePoint 更新プログラム](sharepoint-updates.md)
