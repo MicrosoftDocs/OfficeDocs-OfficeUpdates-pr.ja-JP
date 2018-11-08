@@ -3,19 +3,19 @@ title: 2018 年の毎月のチャネル リリースのリリース ノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/29/2018
+ms.date: 11/6/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2018 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: dec4a8e8af5cc2cb4e15a47df3c9047f5e7cc8e4
-ms.sourcegitcommit: 8459bd8fb06c343e3664415b92a968c1912e925b
+ms.openlocfilehash: 817aad039b91c3b23eceaf95123b02605825cbd4
+ms.sourcegitcommit: d424b313f8bc17c77251dda90f8afb7041a0e771
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "25841253"
+ms.lasthandoff: 11/07/2018
+ms.locfileid: "26031646"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018 年の毎月のチャネル リリースのリリース ノート
 
@@ -33,6 +33,7 @@ ms.locfileid: "25841253"
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新 
 
 - **コメントを利用して共同作業を行う:** 返信ボックスが組み込まれているので、スプレッドシートで直接会話を続けることができます。 [詳細情報](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)
+- **株価情報をすぐに確認できる:** 新しい株価のデータ型で、最新の株価、価格の変動などを取得します。 新しい地理のデータ型も利用することができます。 [詳細情報](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
 - **画像の背後を見えるようにする:** ワークシートに画像を挿入し、既定の設定から選択して、透明度の変化を確認 するだけです。 [詳細情報](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
 - **数式バーでの編集が簡単に:** Ctrl + A キーを使用して、セル内または数式バーのテキストを選択できるようになりました。 絵文字とその他の複雑な文字のサポートも改善されています。 [詳細情報](https://support.office.com/article/402d8c2a-354c-4690-bacf-1c319c4ec2fb)
 
