@@ -3,19 +3,19 @@ title: Office 365 ProPlus の更新履歴 (日付別の一覧)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/29/2018
+ms.date: 11/6/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT プロフェッショナルに、日付ごとに整理した Office 365 ProPlus リリースすべての一覧を、リリース ノートへのリンクを含めて提供します
-ms.openlocfilehash: 8fd677a9fc2db7e44bfc771a062f4f4f8d0e88e8
-ms.sourcegitcommit: 8459bd8fb06c343e3664415b92a968c1912e925b
+ms.openlocfilehash: c58289c4e240af9a182bd82fc253e7f0df57bf23
+ms.sourcegitcommit: d424b313f8bc17c77251dda90f8afb7041a0e771
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "25841263"
+ms.lasthandoff: 11/07/2018
+ms.locfileid: "26031656"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 ProPlus の更新履歴 (日付別の一覧)
 
@@ -32,9 +32,9 @@ Office 365 ProPlus は、新機能、セキュリティ更新プログラム、�
 |**チャネル**|**バージョン**|**ビルド**|**リリース日**|**バージョンのサポート期限**|
 |:-----|:-----|:-----|:-----|:-----|
 |月次  <br/> |1810  <br/> |11001.20074<br/> | 2018 年 10 月 29 日  <br/> |バージョン 1811 がリリースされました <br/>|
-|半期 (対象指定)  <br/> |1808  <br/> |10730.20155 <br/> | 2018 年 10 月 9 日  <br/> | 2019 年 3 月 13 日 <br/>|
-|半期 <br/> |1803  <br/> | 9126.2295<br/> |2018 年 10 月 9 日  <br/> | 2019 年 12 月 10 日 <br/>|
-|半期 <br/> |1708  <br/> |8431.2316  <br/> |2018 年 10 月 9 日  <br/> | 2019 年 3 月 13 日 <br/>|
+|半期 (対象指定)  <br/> |1808  <br/> |10730.20155 <br/> | 2018 年 10 月 9 日  <br/> | 2019 年 3 月 12 日 <br/>|
+|半期 <br/> |1803  <br/> | 9126.2295<br/> |2018 年 10 月 9 日  <br/> |  2019 年 9 月 10 日 <br/>|
+|半期 <br/> |1708  <br/> |8431.2316  <br/> |2018 年 10 月 9 日  <br/> |  2019 年 3 月 12 日 <br/>|
 
 以前のリリースの Office 365 ProPlus から最新の現在のリリースへ更新する場合のおおよそのダウンロード サイズについて詳しくは、「[Office 365 ProPlus に対する更新プログラムのダウンロード サイズ](download-sizes-office365-proplus-updates.md)」をご覧ください。
 
