@@ -13,7 +13,7 @@
 | 2018/10/9 | [Windows インストーラー (MSI) を使用しているバージョンの Office の最新の更新プログラム](/OfficeUpdates/office-updates-msi) | 変更 |
 | 2018/10/9 | [Windows インストーラー (MSI) を使用しているバージョンの Outlook の最新の更新プログラム](/OfficeUpdates/outlook-updates-msi) | 変更 |
 | 2018/10/9 | [Project Server の更新プログラム](/OfficeUpdates/project-server-updates) | 変更 |
-| 2018/10/9 | [SharePoint (更新プログラム)](/OfficeUpdates/sharepoint-updates) | 変更 |
+| 2018/10/9 | [SharePoint 更新プログラム](/OfficeUpdates/sharepoint-updates) | 変更 |
 | 2018/10/9 | [Office 2010 のクイック実行製品の更新履歴](/OfficeUpdates/update-history-office-2010-click-to-run) | 変更 |
 | 2018/10/9 | [Office 2013 の更新履歴](/OfficeUpdates/update-history-office-2013) | 変更 |
 | 2018/10/9 | [Office 365 ProPlus の更新プログラムのダウンロード サイズ](/OfficeUpdates/download-sizes-office365-proplus-updates) | 変更 |
@@ -39,7 +39,7 @@
 |------|------------|--------|
 | 2018/10/16 | [Office for Mac のリリース ノート](/OfficeUpdates/release-notes-office-for-mac) | 変更 |
 | 2018/10/16 | [Office for Mac の更新履歴](/OfficeUpdates/update-history-office-for-mac) | 変更 |
-| 2018/10/16 | [Office 2016 for Mac のリリース ノート](/OfficeUpdates/release-notes-office-2016-mac) | 変更 |
+| 2018/10/16 | [For Mac Office 2016 のリリース ノート](/OfficeUpdates/release-notes-office-2016-mac) | 変更 |
 | 2018/10/17 | [Office for Mac の更新履歴](/OfficeUpdates/update-history-office-for-mac) | 変更 |
 | 2018/10/17 | [Office 365 ProPlus の更新プログラムのダウンロード サイズ](/OfficeUpdates/download-sizes-office365-proplus-updates) | 変更 |
 | 2018/10/17 | [2018 年の毎月のチャネル リリースのリリース ノート](/OfficeUpdates/monthly-channel-2018) | 変更 |
@@ -70,7 +70,22 @@
 | 2018/10/29 | [Office 365 ProPlus の更新プログラムのダウンロード サイズ](/OfficeUpdates/download-sizes-office365-proplus-updates) | 変更 |
 | 2018/10/29 | [2018 年の毎月のチャネル リリースのリリース ノート](/OfficeUpdates/monthly-channel-2018) | 変更 |
 | 2018/10/29 | [Office 365 ProPlus の更新履歴 (日付別の一覧)](/OfficeUpdates/update-history-office365-proplus-by-date) | 変更 |
-| 2018/10/30 | [Office 2016 for Mac のリリース ノート](/OfficeUpdates/release-notes-office-2016-mac) | 変更 |
+| 2018/10/30 | [For Mac Office 2016 のリリース ノート](/OfficeUpdates/release-notes-office-2016-mac) | 変更 |
 | 2018/10/30 | [Office for Mac の更新履歴](/OfficeUpdates/update-history-office-for-mac) | 変更 |
 | 2018/10/31 | [Office 365 ProPlus の更新プログラムのダウンロード サイズ](/OfficeUpdates/download-sizes-office365-proplus-updates) | 変更 |
 | 2018/10/31 | Office 365 ProPlus の更新履歴 (バージョン別の一覧) | 削除 |
+
+
+## <a name="week-of-november-05-2018"></a>、2018 年 11 月 5 日の週
+
+
+| 上で公開 |トピックのタイトル | 変更 |
+|------|------------|--------|
+| 2018/11/6 | [Office 更新プログラム](/OfficeUpdates/index) | 変更 |
+| 2018/11/6 | [Windows インストーラー (MSI) を使用しているバージョンの Outlook の最新の更新プログラム](/OfficeUpdates/outlook-updates-msi) | 変更 |
+| 2018/11/6 | [Project Server の更新プログラム](/OfficeUpdates/project-server-updates) | 変更 |
+| 2018/11/6 | [SharePoint 更新プログラム](/OfficeUpdates/sharepoint-updates) | 変更 |
+| 2018/11/6 | [Office 365 ProPlus の更新プログラムのダウンロード サイズ](/OfficeUpdates/download-sizes-office365-proplus-updates) | 変更 |
+| 2018/11/6 | [Office 365 ProPlus の更新履歴 (日付別の一覧)](/OfficeUpdates/update-history-office365-proplus-by-date) | 変更 |
+| 2018/11/6 | [2018 年の毎月のチャネル リリースのリリース ノート](/OfficeUpdates/monthly-channel-2018) | 変更 |
+| 2018/11/9 | [Microsoft AutoUpdate (MAU) のリリース履歴](/OfficeUpdates/release-history-microsoft-autoupdate) | 変更 |
