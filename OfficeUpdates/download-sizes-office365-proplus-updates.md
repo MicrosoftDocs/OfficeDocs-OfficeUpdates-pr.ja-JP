@@ -3,19 +3,19 @@ title: Office 365 ProPlus の更新プログラムのダウンロード サイ�
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/6/2018
+ms.date: 11/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 各チャネルの Office 365 ProPlus の更新プログラムのダウンロード サイズの概算に関する情報を IT 技術者に提供します
-ms.openlocfilehash: cdef21f3a216ef3e53d9c61fa6d5b3887edd92dd
-ms.sourcegitcommit: d424b313f8bc17c77251dda90f8afb7041a0e771
+ms.openlocfilehash: 28cd4f213edada1ecb0cb10f240dfa30c7d950c5
+ms.sourcegitcommit: 9e7dba93366d357248b8b0af79ce436b0bd42c89
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/07/2018
-ms.locfileid: "26031666"
+ms.lasthandoff: 11/14/2018
+ms.locfileid: "26299090"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 ProPlus の更新プログラムのダウンロード サイズ
 
@@ -37,20 +37,20 @@ ms.locfileid: "26031666"
 > - 半期チャネル (対象指定) から半期チャネルなどに、チャネルを切り替える場合には、更新プログラムのサイズは表に記載されているサイズよりもかなり大きくなります。全体をダウンロードすることになるので、少なくとも 1 GB になります。 
 
 
-## <a name="november-11-2018"></a>2018 年 11 月 11 日
+## <a name="november-13-2018"></a>2018 年 11 月 13 日
 
 ### <a name="monthly-channel"></a>毎月のチャネル
 
-仮の予定のリリースは、バージョン 1810 <(ビルド 11001.20094)> です。 
+最新のリリースはバージョン 1810 です (ビルド 11001.20108)。 
   
 |**アップグレード前のリリース **|**リリース日**|**ダウンロード サイズの概算 (MB)**|
 |:-----|:-----|:-----|
 |バージョン 1809 (ビルド 10827.20181)  <br/> |2018 年 10 月 16 日  <br/> |188<br/> |
-|バージョン 1809 (ビルド 11001.20074)  <br/> |2018 年 10 月 29 日  <br/> |61<br/> |
+|バージョン 1809 (ビルド 11001.20074)  <br/> |2018 年 10 月 29 日  <br/> |64<br/> |
 
 ### <a name="semi-annual-channel"></a>半期チャネル
 
-仮の予定のリリースは、バージョン <1803 (ビルド 9126.2315)> です。
+最新のリリースはバージョン 1803 です (ビルド 9126.2315)。
   
 |**アップグレード前のリリース **|**リリース日**|**ダウンロード サイズの概算 (MB)**|
 |:-----|:-----|:-----|
@@ -59,7 +59,7 @@ ms.locfileid: "26031666"
 
 ### <a name="semi-annual-channel-targeted"></a>半期チャネル (対象指定)
 
-仮の予定のリリースは、バージョン <1808 (ビルド 10730.20205)> です。
+最新のリリースはバージョン 1808 です (ビルド 10730.20205)。
   
 |**アップグレード前のリリース **|**リリース日**|**ダウンロード サイズの概算 (MB)**|
 |:-----|:-----|:-----|

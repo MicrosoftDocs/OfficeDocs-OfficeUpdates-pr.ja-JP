@@ -3,19 +3,19 @@ title: Windows インストーラー (MSI) を使用しているバージョン�
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 10/09/2018
+ms.date: 11/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 永続的なバージョンの Outlook 2016、Outlook 2013、Outlook 2010 の最新の更新プログラムに関する情報へのリンクを IT 技術者に提供します
-ms.openlocfilehash: e46a3b9deddf184a382d8eec5cdeb1276d550a21
-ms.sourcegitcommit: 6782299423eaf5303519f637783555eab656fde2
+ms.openlocfilehash: ac904d82c5c8e728c1fa1103c5cd241592de90dd
+ms.sourcegitcommit: 16edba1a25e04ae704903a63fcedefc31400ff05
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2018
-ms.locfileid: "26024571"
+ms.lasthandoff: 11/13/2018
+ms.locfileid: "26296567"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Windows インストーラー (MSI) を使用しているバージョンの Outlook の最新の更新プログラム
 
@@ -44,18 +44,18 @@ Outlook の Office 365 およびご使用のオンプレミス環境との互換
 
 |**最新の Service Pack (SP)**|**最低限必要な更新プログラム**|**最新のパブリック更新プログラム (PU)**|
 |:-----|:-----|:-----|
-|該当なし  <br/> |2016 年 3 月 PU <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |2018 年 10 月 PU <br/>[KB4461440](https://support.microsoft.com/help/4461440) <br/><br/> Outlook 2016 迷惑メール フィルターの 2016 年 8 月 PU   <br/>[KB3115407](https://support.microsoft.com/help/3115407) <br/> |
+|該当なし  <br/> |2016 年 3 月 PU <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |2018 年 11 月 PU <br/>[KB4461506](https://support.microsoft.com/help/4461506) <br/><br/> Outlook 2016 迷惑メール フィルターの 2016 年 8 月 PU   <br/>[KB3115407](https://support.microsoft.com/help/3115407) <br/> |
    
 ## <a name="outlook-2013-updates"></a>Outlook 2013 更新プログラム
 
 |**最新の Service Pack (SP)**|**最低限必要な更新プログラム**|**最新のパブリック更新プログラム (PU)**|
 |:-----|:-----|:-----|
-|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |2015 年 12 月 PU <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |2018 年 10 月 PU <br/>[KB4092477](https://support.microsoft.com/help/4092477) <br/><br/>  Outlook 2013 迷惑メール フィルターの 2016 年 8 月 PU  <br/> [KB3115404](https://support.microsoft.com/kb/3115404) <br/> |
+|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |2015 年 12 月 PU <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |2018 年 11 月 PU <br/>[KB4461486](https://support.microsoft.com/help/4461486) <br/><br/>  Outlook 2013 迷惑メール フィルターの 2016 年 8 月 PU  <br/> [KB3115404](https://support.microsoft.com/kb/3115404) <br/> |
    
 ## <a name="outlook-2010-updates"></a>Outlook 2010 更新プログラム
 
 |**最新の Service Pack (SP)**|**最低限必要な更新プログラム**|**最新のパブリック更新プログラム (PU)**|
 |:-----|:-----|:-----|
-|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br/> |2015 年 10 月 PU <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  MAPI/HTTP 用の Office 2010 の 2015 年 4 月 PU <br/> [KB2956191](https://support.microsoft.com/ja-JP/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |2018 年 10 月 PU <br/>[KB4227170](https://support.microsoft.com/help/4227170) <br/><br/>  Outlook 2010 迷惑メール フィルターの 2016 年 8 月 PU  <br/> [KB3115475](https://support.microsoft.com/kb/3115475) <br/> |
+|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br/> |2015 年 10 月 PU <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  MAPI/HTTP 用の Office 2010 の 2015 年 4 月 PU <br/> [KB2956191](https://support.microsoft.com/ja-JP/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |2018 年 11 月 PU <br/>[KB4461529](https://support.microsoft.com/help/4461529) <br/><br/>  Outlook 2010 迷惑メール フィルターの 2016 年 8 月 PU  <br/> [KB3115475](https://support.microsoft.com/kb/3115475) <br/> |
    
 
