@@ -3,48 +3,50 @@ title: Office 2019 の更新履歴
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 10/9/2018
+ms.date: 11/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
-description: クイック実行を使用する永続的なバージョンの Office 2019 の更新履歴を IT 技術者に提供します。
-ms.openlocfilehash: 1e5bce4402470c436821a33ee4ac3d2560498415
-ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
+description: クイック実行を使用する永続的なバージョンの Office 2019 の更新履歴を IT 技術者に提供します
+ms.openlocfilehash: a0133c76468487018701ba3d76c4f362490c2685
+ms.sourcegitcommit: 16edba1a25e04ae704903a63fcedefc31400ff05
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/10/2018
-ms.locfileid: "25459905"
+ms.lasthandoff: 11/13/2018
+ms.locfileid: "26296577"
 ---
 # <a name="update-history-for-office-2019"></a>Office 2019 の更新履歴
 
-Microsoft は必要に応じて、Office 2019 の安定性やパフォーマンスの改善を提供するセキュリティ更新プログラムおよび品質更新プログラムをリリースします。 これらの更新プログラムは、約月に 1 回、通常は毎月第 2 火曜日にリリースされます。
+Microsoft は必要に応じて、Office 2019 の安定性やパフォーマンスの改善を提供する更新プログラムなど、セキュリティ更新プログラムおよび品質更新プログラムをリリースします。これらの更新プログラムは、月に約 1 回、通常は毎月第 2 火曜日にリリースされます。
 
-常に最新であることを確認したい場合、Office のバージョン番号を確認し、必要な場合に Office を手動で更新します。 Office のバージョンを確認するには、以下を実行します。
+最新の状態になっていることを確認するには、ご利用の Office のバージョン番号を確認し、必要に応じて手動で Office を更新します。Office のバージョンを確認するには、次の手順を行います。
 
-  1.    Word や Excel など、いずれかの Office 2019 アプリケーションを開きます。
-  2.    **ファイル >アカウント**を選択します。
-  3.    **[製品情報]** で、**[セクションについて]** の下にあるバージョン番号をメモします。
+  1.    Word や Excel など、任意の Office 2019 アプリケーションを開きます。
+  2.    **[ファイル]、[アカウント]** の順に選択します。
+  3.    **[製品情報]** で、**[バージョン情報]** セクションの下にあるバージョン番号をメモします。
 
-バージョン番号が最新バージョンと一致していれば最新の状態です。 それ以外の場合は、Office 2019 の最新バージョンを取得するには手動で更新することができます。  [次の手順に従って](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)Office を更新します。
+バージョン番号が最新バージョンと一致していれば、最新の状態です。一致しない場合は、最新バージョンの Office 2019 に手動で更新できます。Office を更新するには、[こちらの手順に従います](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)。
 
 
-次の表は、最初に表示される最新のリリース日に、Office 2019 の更新履歴を提供します。 表には、セキュリティ更新プログラムに関する詳細情報へのリンクのほかに、リリースのバージョンとビルド番号が含まれ、リリースに含まれているセキュリティ更新プログラムが一覧表示されています。
+次の表は、最初に表示される最新のリリース日と、Office 2019 の更新履歴を提供しています。表には、セキュリティ更新プログラムに関する詳細情報へのリンクと共に、リリースのバージョンとビルド番号が記載されており、リリースに含まれているセキュリティ更新プログラムが一覧表示されています。
 
-新しいバージョンには、以前のバージョンに含まれていたすべての更新プログラムが含まれています。
+新しいバージョンには、以前のバージョンに含まれているすべての更新プログラムが含まれています。
 
-## <a name="volume-licensed-versions-of-office-2019"></a>ボリューム ライセンスのバージョンの Office 2019
-次の情報は、Office Professional Plus 2019 がボリューム ライセンス契約を通じて購入できるように、ボリューム ライセンス バージョンの Office 2019 に適用されます。
+## <a name="volume-licensed-versions-of-office-2019"></a>ボリューム ライセンス版の Office 2019
+次の情報は、ボリューム ライセンス契約を通じて購入された Office Professional Plus 2019 など、ボリューム ライセンス版の Office 2019 に適用されます。
 
   
 |**リリース日**|**バージョン番号**|**詳細情報**|
 |:-----|:-----|:-----|
-|2018 年 10 月 9 日   |バージョン 1808 (ビルド 10337.20021)  |[CVE-2018-8432](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8432) <br/> [CVE-2018-8501](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8501) <br/> [CVE-2018-8502](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8502) <br/> [CVE-2018-8504](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8504) <br/> [ADV-180026](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/ADV180026) <br/>|
+|2018 年 11 月 13 日   |バージョン 1808 (ビルド 10338.20019)  |[CVE-2018-8522](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8522) <br/> [CVE-2018-8524](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8524) <br/> [CVE-2018-8546](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8546) <br/> [CVE-2018-8558](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8558) <br/> [CVE-2018-8573](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8573) <br/> [CVE-2018-8574](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8574) <br/> [CVE-2018-8575](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8575) <br/> [CVE-2018-8576](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8576) <br/> [CVE-2018-8577](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8577) <br/> [CVE-2018-8579](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8579) <br/> [CVE-2018-8582](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8582) <br/>|
+|2018 年 10 月 9 日   |バージョン 1808 (ビルド 10337.20021)  |[CVE-2018-8432](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8432) <br/> [CVE-2018-8501](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8501) <br/> [CVE-2018-8502](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8502) <br/> [CVE-2018-8504](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8504) <br/> [ADV-180026](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/ADV180026) <br/>|
 
-## <a name="retail-versions-of-office-2019"></a>リテール バージョンの Office 2019
-次の情報は、Office Professional 2019 が小売店で購入できるように、リテール バージョンの Office 2019 に適用されます。
+## <a name="retail-versions-of-office-2019"></a>製品版の Office 2019
+次の情報は、小売店で購入された Office Professional 2019 など、製品版の Office 2019 に適用されます。
 
 |**リリース日**|**バージョン番号**|**詳細情報**|
 |:-----|:-----|:-----|
-|2018 年 10 月 9 日   |バージョン 1809 (ビルド 10827.20150)  |[CVE-2018-8432](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8432) <br/> [CVE-2018-8501](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8501) <br/> [CVE-2018-8502](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8502) <br/> [CVE-2018-8504](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8504) <br/> [ADV-180026](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/ADV180026) <br/>|
+|2018 年 11 月 13 日   |バージョン 1810 (ビルド 11001.20108)  |[CVE-2018-8522](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8522) <br/> [CVE-2018-8524](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8524) <br/> [CVE-2018-8546](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8546) <br/> [CVE-2018-8558](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8558) <br/> [CVE-2018-8573](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8573) <br/> [CVE-2018-8574](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8574) <br/> [CVE-2018-8575](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8575) <br/> [CVE-2018-8576](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8576) <br/> [CVE-2018-8577](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8577) <br/> [CVE-2018-8579](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8579) <br/> [CVE-2018-8582](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8582) <br/>|
+|2018 年 10 月 9 日   |バージョン 1809 (ビルド 10827.20150)  |[CVE-2018-8432](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8432) <br/> [CVE-2018-8501](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8501) <br/> [CVE-2018-8502](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8502) <br/> [CVE-2018-8504](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8504) <br/> [ADV-180026](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/ADV180026) <br/>|

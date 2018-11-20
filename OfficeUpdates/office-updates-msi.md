@@ -3,19 +3,19 @@ title: Windows インストーラー (MSI) を使用しているバージョン�
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 10/09/2018
+ms.date: 11/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 永続的なバージョンの Office 2016、Office 2013、Office 2010 の最新の更新プログラムの情報へのリンクを IT 技術者に提供します
-ms.openlocfilehash: 8b88f21c8a2d934de8a6c3b8828faf33a1643f4e
-ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
+ms.openlocfilehash: cf815da75d3c17ca073dee38bc4b196fe4df8165
+ms.sourcegitcommit: 16edba1a25e04ae704903a63fcedefc31400ff05
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/10/2018
-ms.locfileid: "25456731"
+ms.lasthandoff: 11/13/2018
+ms.locfileid: "26296557"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Windows インストーラー (MSI) を使用しているバージョンの Office の最新の更新プログラム
 
@@ -32,26 +32,25 @@ ms.locfileid: "25456731"
 
 |**バージョンと製品**|**最新の Service Pack (SP)**|**最新のパブリック更新プログラム (PU)**|
 |:-----|:-----|:-----|
-|**2016 年** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |該当なし  <br/> |2018 年 10 月 PU
-  <br/> [KB4464656](https://support.microsoft.com/help/4464656) <br/> |
+|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |N/A  <br/> |2018 年 11 月 PU  <br/> [KB4469617](https://support.microsoft.com/help/4469617) <br/> |
    
 ## <a name="office-2013-updates"></a>Office 2013 の更新プログラム
 
 |**バージョンと製品**|**最新の Service Pack (SP)**|**最新のパブリック更新プログラム (PU)**|
 |:-----|:-----|:-----|:-----|
-|**2013 年** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |2018 年 10 月 PU
-  <br/> [KB4464656](https://support.microsoft.com/help/4464656) <br/> |
+|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |2018 年 11 月 PU  <br/> [KB4469617](https://support.microsoft.com/help/4469617) <br/> |
    
 ## <a name="office-2010-updates"></a>Office 2010 の更新プログラム
 
 |**バージョンと製品**|**最新の Service Pack (SP)**|**最新のパブリック更新プログラム (PU)**|
 |:-----|:-----|:-----|:-----|
-|**2010 年** <br/> Office 2010 スイート  <br/> Project 2010  <br/> Visio 2010  <br/> Office 2010 サーバー  <br/> Office Web Apps  <br/> Search Server 2010  <br/> SharePoint 2010 製品  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |2018 年 10 月 PU
- <br/>[KB4464656](https://support.microsoft.com/help/4464656) <br/>|
+|**2010** <br/> Office 2010 スイート  <br/> Project 2010  <br/> Visio 2010  <br/> Office 2010 サーバー  <br/> Office Web Apps  <br/> Search Server 2010  <br/> SharePoint 2010 製品  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |2018 年 11 月 PU <br/>[KB4469617](https://support.microsoft.com/help/4469617) <br/>|
    
 
    
 ## <a name="updates-released-in-past-12-months"></a>過去 12 か月にリリースされた更新プログラム
+
+[2018 年 11 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB4469617](https://support.microsoft.com/help/4469617)
 
 [2018 年 10 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB4464656](https://support.microsoft.com/help/4464656)
 
@@ -63,11 +62,11 @@ ms.locfileid: "25456731"
 
 [2018 年 6 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB4299875](https://support.microsoft.com/help/4299875)  
 
-[2018 年 5 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB4133083 ](https://support.microsoft.com/en-us/help/4133083)
+[2018 年 5 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB4133083 ](https://support.microsoft.com/ja-JP/help/4133083)
   
-[2018 年 4 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB4098622](https://support.microsoft.com/en-us/help/4098622) 
+[2018 年 4 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB4098622](https://support.microsoft.com/ja-JP/help/4098622) 
   
-[2018 年 3 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB4090988](https://support.microsoft.com/en-us/help/4090988)  
+[2018 年 3 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB4090988](https://support.microsoft.com/ja-JP/help/4090988)  
   
 [2018 年 2 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB4077965](https://support.microsoft.com/help/4077965)  
   
@@ -75,7 +74,7 @@ ms.locfileid: "25456731"
   
 [2017 年 12 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB4055454](https://support.microsoft.com/help/4055454)   
   
-[2017 年 11 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB4051890](https://support.microsoft.com/help/4051890)   
+  
   
     
 

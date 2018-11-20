@@ -3,19 +3,19 @@ title: 2018 年の毎月のチャネル リリースのリリース ノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/6/2018
+ms.date: 11/14/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2018 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 817aad039b91c3b23eceaf95123b02605825cbd4
-ms.sourcegitcommit: d424b313f8bc17c77251dda90f8afb7041a0e771
+ms.openlocfilehash: 80104d351a68861aa16cc4054f5ca99f6c73e78c
+ms.sourcegitcommit: 7828d94c163b3cdb37305da2390d8a73964fdb51
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/07/2018
-ms.locfileid: "26031646"
+ms.lasthandoff: 11/15/2018
+ms.locfileid: "26526392"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018 年の毎月のチャネル リリースのリリース ノート
 
@@ -24,47 +24,81 @@ ms.locfileid: "26031646"
  > [!NOTE]
 > - また、Visio Pro for Office 365 および Project Online デスクトップ クライアントの新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムについても説明しています。
 > - ここに記載されている情報は、Business Premium など一部の Office 365 プランに付属する Office のバージョンの、Office 365 Business にも該当します。
-> - Microsoft では多くの場合、一定期間にわたって毎月、機能 (および場合によっては修正プログラム) を展開します。 これにより、幅広いユーザーに機能を公開する前にスムーズに動作するかどうかを確認することができます。 したがって、下記のものが表示されない場合でも、心配する必要はなく、いずれは表示されます。 
-  [詳細情報](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - Microsoft では多くの場合、一定期間にわたって毎月、機能 (および場合によっては修正プログラム) を展開します。これにより、幅広いユーザーに機能を公開する前にスムーズに動作するかどうかを確認することができます。したがって、下記のものが表示されない場合でも、心配する必要はなく、いずれは表示されます。[詳細情報](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+
+## <a name="version-1810-november-13"></a>バージョン 1810: 11 月 13 日
+*バージョン 1810 (ビルド 11001.20108)* 
+
+### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
+
+-   [CVE-2018-8574](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8574): Microsoft Excel のリモート コード実行の脆弱性 
+-   [CVE-2018-8577](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8577): Microsoft Excel のリモート コード実行の脆弱性 
+
+### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム 
+
+-   [CVE-2018-8522](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8522): Microsoft Outlook のリモート コード実行の脆弱性 
+-   [CVE-2018-8524](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8524): Microsoft Outlook のリモート コード実行の脆弱性 
+-   [CVE-2018-8558](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8558): Microsoft Outlook の情報漏えいの脆弱性 
+-   [CVE-2018-8576](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8576): Microsoft Outlook のリモート コード実行の脆弱性 
+-   [CVE-2018-8579](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8579): Microsoft Outlook の情報漏えいの脆弱性 
+-   [CVE-2018-8582](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8582): Microsoft Outlook のリモート コード実行の脆弱性 
+
+### <a name="project-security-updates"></a>Project: セキュリティ更新プログラム 
+
+-   [CVE-2018-8575](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8575): Microsoft Project のリモート コード実行の脆弱性 
+
+### <a name="word-security-updates"></a>Word: セキュリティ更新プログラム  
+
+-   [CVE-2018-8573](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8573): Microsoft Word のリモート コード実行の脆弱性 
+
+### <a name="skype-for-business-security-updates"></a>Skype for Business: セキュリティ更新プログラム 
+
+-   [CVE-2018-8546](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8546): Microsoft Skype for Business のサービス拒否攻撃の脆弱性 
+
+ ### <a name="project-non-security-updates"></a>Project: セキュリティ以外の更新プログラム
+
+ - Project Online にプロジェクトを保存/発行したときにステータス バーが最新の状態表示に更新されない場合がある問題を修正しました。
+ - 新しい先進エクスペリエンスで SharePoint ドキュメント ライブラリ上の Project ファイルの作業を行っている場合、チェックアウトが必要操作および読み取り専用操作に正しく従っていなかった問題を修正しました。
+
 
 ## <a name="version-1810-october-29"></a>バージョン 1810: 10 月 29 日
 *バージョン 1810 (ビルド 11001.20074)* 
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新 
 
-- **コメントを利用して共同作業を行う:** 返信ボックスが組み込まれているので、スプレッドシートで直接会話を続けることができます。 [詳細情報](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)
-- **株価情報をすぐに確認できる:** 新しい株価のデータ型で、最新の株価、価格の変動などを取得します。 新しい地理のデータ型も利用することができます。 [詳細情報](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
-- **画像の背後を見えるようにする:** ワークシートに画像を挿入し、既定の設定から選択して、透明度の変化を確認 するだけです。 [詳細情報](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
-- **数式バーでの編集が簡単に:** Ctrl + A キーを使用して、セル内または数式バーのテキストを選択できるようになりました。 絵文字とその他の複雑な文字のサポートも改善されています。 [詳細情報](https://support.office.com/article/402d8c2a-354c-4690-bacf-1c319c4ec2fb)
+- **コメントを利用して共同作業を行う:** 返信ボックスが組み込まれているので、スプレッドシートで直接会話を続けることができます。[詳細情報](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)
+- **株価情報をすぐに確認できる:** 新しい株価のデータ型で、最新の株価、価格の変動などを取得します。新しい地理のデータ型も利用することができます。[詳細情報](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
+- **画像の背後を見えるようにする:** ワークシートに画像を挿入し、既定の設定から選択して、透明度の変化を確認するだけです。[詳細情報](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
+- **数式バーでの編集が簡単に:** Ctrl + A キーを使用して、セル内または数式バーのテキストを選択できるようになりました。絵文字とその他の複雑な文字のサポートも改善されています。[詳細情報](https://support.office.com/article/402d8c2a-354c-4690-bacf-1c319c4ec2fb)
 
 ### <a name="outlook-feature-updates"></a>Outlook: 機能の更新 
 
-- **スケジュール アシスタントでの候補ユーザーの表示:** 会議のスケジュールを設定するときに、追加する出席者の候補が表示されます。 スケジュール アシスタントと [宛先] 行を何度も切り替える必要はありません。 [詳細情報](https://support.office.com/article/d284c6d9-206e-4926-92b4-5addc0fcbefb)
+- **スケジュール アシスタントでの候補ユーザーの表示:** 会議のスケジュールを設定するときに、追加する出席者の候補が表示されます。スケジュール アシスタントと [宛先] 行を何度も切り替える必要はありません。[詳細情報](https://support.office.com/article/d284c6d9-206e-4926-92b4-5addc0fcbefb)
 - **会議室の予約がさらに簡単に:** 複数の会議室のリストを使用して、会議室を検索します。選択した会議室を失うことなく、リストを切り替えることができます。
-- **過去のイベントのリマインダーの表示を停止:** 終了したイベントのリマインダーを自動的に破棄するようにカレンダーを設定することができます。 [詳細情報](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
+- **過去のイベントのリマインダーの表示を停止:** 終了したイベントのリマインダーを自動的に破棄するようにカレンダーを設定することができます。[詳細情報](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新 
 
-- **画像の背後を見えるようにする:** スライドに画像を挿入し、既定の設定から選択して、透明度の変化を確認 するだけです。 [詳細情報](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
-- **新しい文書校正ツール:** 記述する内容についてストレスを感じる必要はありません。 PowerPoint で、文法や書き方の推奨事項が提示されるようになりました。
-- **スケッチするだけで自動的に洗練される:** 手書きのテキストや図形が洗練された図表に変更されます。 インク ストロークを選ぶだけで機能を利用できます。 [詳細情報](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+- **画像の背後を見えるようにする:** スライドに画像を挿入し、既定の設定から選択して、透明度の変化を確認するだけです。[詳細情報](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
+- **新しい文書校正ツール:** 記述する内容についてストレスを感じる必要はありません。PowerPoint で、文法や書き方の推奨事項が提示されるようになりました。
+- **スケッチするだけで自動的に洗練される:** 手書きのテキストや図形が洗練された図表に変更されます。インク ストロークを選ぶだけで機能を利用できます。[詳細情報](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
 ### <a name="word-feature-updates"></a>Word: 機能の更新 
 
-- **画像の背後を見えるようにする:** 文書に画像を挿入し、既定の設定から選択して、透明度の変化を確認 するだけです。 [詳細情報](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
-- **文書を活気づかせる:** アニメーション 3D グラフィックスを挿入して、鼓動する心臓、周回する惑星、暴れ回るティラノサウルスをページ上に表示できます。 [詳細情報](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
+- **画像の背後を見えるようにする:** 文書に画像を挿入し、既定の設定から選択して、透明度の変化を確認するだけです。[詳細情報](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
+- **文書を活気づかせる:** アニメーション 3D グラフィックスを挿入して、鼓動する心臓、周回する惑星、暴れ回るティラノサウルスをページ上に表示できます。[詳細情報](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
 
 ### <a name="access-feature-updates"></a>Access: 機能の更新 
-- **新しい見た目のリボン アイコン:** 機能に変化はないので、心配はいりません。 さらに、どのサイズの画面でも、見た目がきれいです。 [詳細情報](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **新しい見た目のリボン アイコン:** 機能に変化はないので、心配はいりません。さらに、どのサイズの画面でも、見た目がきれいです。[詳細情報](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="publisher-feature-updates"></a>Publisher: 機能の更新 
-- **新しい見た目のリボン アイコン:** 機能に変化はないので、心配はいりません。 さらに、どのサイズの画面でも、見た目がきれいです。 [詳細情報](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **新しい見た目のリボン アイコン:** 機能に変化はないので、心配はいりません。さらに、どのサイズの画面でも、見た目がきれいです。[詳細情報](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="project-feature-updates"></a>Project: 機能の更新 
-- **新しい見た目のリボン アイコン:** 機能に変化はないので、心配はいりません。 さらに、どのサイズの画面でも、見た目がきれいです。 [詳細情報](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **新しい見た目のリボン アイコン:** 機能に変化はないので、心配はいりません。さらに、どのサイズの画面でも、見た目がきれいです。[詳細情報](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="visio-feature-updates"></a>Visio: 機能の更新 
-- **新しい見た目のリボン アイコン:** 機能に変化はないので、心配はいりません。 さらに、どのサイズの画面でも、見た目がきれいです。 [詳細情報](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **新しい見た目のリボン アイコン:** 機能に変化はないので、心配はいりません。さらに、どのサイズの画面でも、見た目がきれいです。[詳細情報](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 
 ## <a name="version-1809-october-16"></a>バージョン 1809: 10 月 16 日
@@ -98,23 +132,23 @@ ms.locfileid: "26031646"
 *バージョン 1809 (ビルド 10827.20138)*
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
-- **迅速な検索:** VLOOKUP、HLOOKUP、および MATCH の計算が高速化されたので、より迅速に回答を得られるようになりました。 [詳細情報](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
-- **データの取得と変換をご利用の皆様:** データの取得と変換をよく利用していただいているユーザーの皆様に、例からの列の機能が改善されたことをお知らせします。 また、多くのコネクタも強化されました。 [詳細情報](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
-- **新しい見た目のリボン アイコン:** 機能に変化はないので、心配はいりません。 さらに、どのサイズの画面でも、見た目がきれいです。 [詳細情報](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **迅速な検索:** VLOOKUP、HLOOKUP、MATCH 計算が強化され、解答をすばやく取得できるようになりました。[詳細情報](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
+- **データの取得と変換をご利用の皆様:** データの取得と変換をよく利用していただいているユーザーの皆様に、例からの列の機能が改善されたことをお知らせします。また、多くのコネクタも強化されました。[詳細情報](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
+- **新しい見た目のリボン アイコン:** 機能に変化はないので、心配はいりません。さらに、どのサイズの画面でも、見た目がきれいです。[詳細情報](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
-- **今後のリリース予定を確認:** 新しいユーザー エクスペリエンスを公開前にお試しになり、ご意見をお寄せください。 [詳細情報](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
-- **安全なリンクの背後にある URL を表示する:** 安全なリンクは、メールで受け取った悪意のある URL からユーザーを保護するのに役立ちますが、元の URL は非表示になります。 安全なリンクをマウスでポイントするだけで、安全なリンクで保護されているリンクであっても、元の URL を表示できます。
+- **今後のリリース予定を確認:** 新しいユーザー エクスペリエンスを公開前にお試しになり、ご意見をお寄せください。[詳細情報](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
+- **安全なリンクの背後にある URL を表示する:** 安全なリンクは、メールで受け取った悪意のある URL からユーザーを保護するのに役立ちますが、元の URL は非表示になります。安全なリンクをマウスでポイントするだけで、安全なリンクで保護されているリンクであっても、元の URL を表示できるようになりました。
 - **検索のスペルの修正候補を取得する:** 検索を実行すると、Outlook により、スペルの修正候補を使用したお勧めの検索クエリが提供されます。
-- **新しい見た目のリボン アイコン:** 機能に変化はないので、心配はいりません。 さらに、どのサイズの画面でも、見た目がきれいです。 [詳細情報](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **新しい見た目のリボン アイコン:** 機能に変化はないので、心配はいりません。さらに、どのサイズの画面でも、見た目がきれいです。[詳細情報](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新
-- **スライドが活気のあるものに:** アニメーション 3D グラフィックを挿入して、心臓の鼓動、惑星の軌道、画面を暴れまわる T レックスを表示します。  [詳細情報](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
-- **新しい見た目のリボン アイコン:** 機能に変化はないので、心配はいりません。 さらに、どのサイズの画面でも、見た目がきれいです。 [詳細情報](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **スライドが活気のあるものに:** アニメーション 3D グラフィックを挿入して、心臓の鼓動、惑星の軌道、画面を暴れまわる T レックスを表示します。[詳細情報](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
+- **新しい見た目のリボン アイコン:** 機能に変化はないので、心配はいりません。さらに、どのサイズの画面でも、見た目がきれいです。[詳細情報](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="word-feature-updates"></a>Word: 機能の更新
-- **\@メンションを使用してユーザーの注意を引く:** コメントで @メンションを使うと、仕事仲間による入力が必要な場合にそのユーザーに知らせることができます。 [詳細情報](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
-- **新しい見た目のリボン アイコン:** 機能に変化はないので、心配はいりません。 さらに、どのサイズの画面でも、見た目がきれいです。 [詳細情報](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **\@メンションを使用してユーザーの注意を引く:** コメントで @メンションを使うと、仕事仲間による入力が必要な場合にそのユーザーに知らせることができます。[詳細情報](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **新しい見た目のリボン アイコン:** 機能に変化はないので、心配はいりません。さらに、どのサイズの画面でも、見た目がきれいです。[詳細情報](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 - **数式エディター コンバーター:** コンバーターにより、ユーザーは Microsoft 数式エディターを使用して作成された数式を、Office Math ML 形式に変換して、編集できるようにすることができます。
 
 ## <a name="version-1808-september-11"></a>バージョン 1808: 9 月 11 日
@@ -135,18 +169,18 @@ ms.locfileid: "26031646"
 *バージョン 1808 (ビルド 10730.20088)*
 
 ### <a name="access-feature-updates"></a>Access: 機能の更新
- - **リンク テーブルを更新、再リンク、または削除する:** 更新されたリンク テーブル マネージャーで、すべてのデータ ソースとリンク テーブルを管理できます。 [詳細情報](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
+ - **リンク テーブルを更新、再リンク、または削除する:** 更新されたリンク テーブル マネージャーで、すべてのデータ ソースとリンク テーブルを管理できます。[詳細情報](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
 
 ### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
- - **会議の転送を無効にする:** 出席者が会議を他のユーザーに転送できないようにします。 リボンに移動して、[応答オプション] をクリックするだけです。 [詳細情報](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F)
+ - **会議の転送を無効にする:** 出席者が会議を他のユーザーに転送できないようにします。リボンに移動して、[応答オプション] をクリックするだけです。[詳細情報](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F)
  
 ### <a name="visio-feature-updates"></a>Visio: 機能の更新
  - **新しい図面でアイコンを楽しむ:** 分析、アート、お祝い、顔文字、スポーツなどのアイコンが含まれる 26 種類の新しいステンシルから選択できます。 
- - **Visio の図形から Word 文書を作成する:** 図形やメタデータなど、図面の内容を自動的に Word 文書に追加できます。 その後に、文書をカスタマイズしてプロセスに関するガイドラインや操作マニュアルを作成できます。 [詳細情報](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
- - **Visio と Power BI: 相乗効果:** 数回クリックするだけで、Visio 図面を Power BI のインタラクティブな視覚化に変換できます。 [詳細情報](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
+ - **Visio 図形から Word 文書を作成する:** 図形やメタデータなどのダイアグラム コンテンツを Word 文書に自動的に追加します。次にその文書をカスタマイズして、プロセス ガイドラインや操作マニュアルを作成します。[詳細情報](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+ - **Visio と Power BI: 相乗効果:** 数回クリックするだけで、Visio 図面を Power BI のインタラクティブな視覚化に変換できます。[詳細情報](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
 
  ### <a name="project-feature-updates"></a>Project: 機能の更新
- - **タスク ボード カードに詳細を表示する:** タイトルだけでは内容が伝わらない場合は、最も重要な詳細がすべて表示されるようにタスク ボード カードをカスタマイズできます。 [詳細情報](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
+ - **タスク ボード カードに詳細を表示する:** タイトルだけでは内容が伝わらない場合は、最も重要な詳細がすべて表示されるようにタスク ボード カードをカスタマイズできます。[詳細情報](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
 -  ユーザーがコピーするために選択したセルの範囲を示す点線が、その後の貼り付けなどの操作を行った後もクリップボードから消えずに残ったままになる Excel での問題を修正しました。 
@@ -220,12 +254,12 @@ ms.locfileid: "26031646"
 *バージョン 1806 (ビルド 10228.20080)*
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
- - **セルと数式バーの編集を改善:** Ctrl + A キーを使用して、セル内または数式バーのテキストを選択できるようになりました。 絵文字とその他の複雑な文字のサポートも改善されています。[詳細情報](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
+ - **セルおよび数式バーの編集の強化:** Ctrl + A キーを押して、セルまたは数式バーのテキストを選択できるようになりました。絵文字とその他の複雑な文字のサポートも強化されました。[詳細情報](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
  - **SVG サポートの強化:** フィルターが適用された SVG を挿入できます。[詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
  - **定期的なアイテムの既定値:** [定期的な予定の設定] ダイアログ ボックスの [期間] の下で、[終了日] は既定の設定 ([終了日未定] ではない) で、示されている最初の設定であり、既定の終了日が設定されています。
- - **アクセシビリティ チェックの改善:** アクセシビリティ チェックで、メッセージのアクセシビリティを向上させるための国際標準と推奨事項のサポートが更新されました。 [詳細情報](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+ - **アクセシビリティ チェックの改善:** アクセシビリティ チェックで、メッセージのアクセシビリティを向上させるための国際標準と推奨事項のサポートが更新されました。[詳細情報](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新
  - **SVG サポートの強化:** フィルターが適用された SVG を挿入できます。[詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
@@ -289,7 +323,7 @@ ms.locfileid: "26031646"
  - **新しいグラフを使用したデータの視覚化:** 11 種類のグラフから選択してフォームやレポートに追加することにより、データが見やすくなり、十分な情報に基づいて決定を下すことができます。[詳細情報](https://support.office.com/article/1a463106-65d0-4dbb-9d66-4ecb737ea7f7)
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
- - **編集するときに共同編集者とチャットする:** 共同編集者とチャットして、Excel から移動せずにより効率的に共同作業することができます。 この機能は一部の地域では利用できないことに注意してください。[詳細情報](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
+ - **編編集するときに共同編集者とチャットする:** 共同編集者とチャットして、Excel から移動せずにより効率的に共同作業することができます。この機能は一部の地域では使用できないので注意してください。[詳細情報](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
 
 ### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
  - **ハンズ フリー入力:** 自分の声で口述するだけでメールを作成します。タイピングは必要ありません。[詳細情報](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
@@ -347,8 +381,8 @@ ms.locfileid: "26031646"
 *バージョン 1804 (ビルド 9226.2114)*
 
 ### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
--   **メールの読み上げ:** 読み上げているテキストを強調表示しながら、Outlook がメールを読み上げます。[詳細情報](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
--   **アラームを見落とさない:** 作業中のウィンドウ上にポップアップ表示されるように、アラームを設定できます。 設定しない場合でも、Outlook がタスク バーで点滅してユーザーの注意を引きます。[詳細情報](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
+-   **メールの聞き取り:** Outlook でメールを読み上げることができるようになりました。読み上げと同時にテキストが強調表示されます。[詳細情報](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
+-   **アラームを見落とさない:** 作業中のウィンドウ上にポップアップ表示されるように、アラームを設定できます。設定しない場合でも、Outlook がタスク バーで点滅してユーザーの注意を引きます。[詳細情報](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 -   **削除済みアイテムを開封済みに:** 削除したメッセージすべてを開封済みとして設定できるようになりました。[ファイル] \> [オプション] \> [メール] \> [その他] の順に移動して、オプトインします。
 -   **暗号化オプション:** Office 365 Message Encryption ユーザーは、メッセージを暗号化して、組織内外の任意のユーザーに送信できます。暗号化オプションは、メッセージ作成時に [オプション] \> [アクセス許可] に表示されます。 [詳細情報](https://aka.ms/omeoverview)
 
@@ -384,7 +418,8 @@ ms.locfileid: "26031646"
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0950): Microsoft Office の情報漏えいの脆弱性
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-1026): Microsoft Office のリモート コード実行の脆弱性
 -   [CVE-2018-1030](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-1030): Microsoft Office のリモート コード実行の脆弱性
--   **セキュリティ上の理由から、Office での Flash、Silverlight、および Shockwave のコントロールのアクティブ化がブロックされる:** セキュリティ上の理由から、Windows 上の Microsoft Office for Office 365 の新しいビルドでは、Flash、Silverlight、および Shockwave のコントロールのアクティブ化がブロックされます。  詳細については、[こちら](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)と[こちら](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)をご覧ください。
+-   
+  **セキュリティ上の理由から、Office での Flash、Silverlight、および Shockwave のコントロールのアクティブ化がブロックされる:** セキュリティ上の理由から、Windows 上の Microsoft Office for Office 365 の新しいビルドでは、Flash、Silverlight、および Shockwave のコントロールのアクティブ化がブロックされます。詳細については、[こちら](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)および[こちら](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)をご覧ください。
 
 ## <a name="version-1803-march-27"></a>バージョン 1803: 3 月 27 日
 *バージョン 1803 (ビルド 9126.2116)*
