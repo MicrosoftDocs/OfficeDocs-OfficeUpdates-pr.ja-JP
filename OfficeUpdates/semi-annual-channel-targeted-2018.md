@@ -3,19 +3,19 @@ title: 2018 年の半期チャネル (対象指定) リリースのリリース 
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/14/2018
+ms.date: 11/19/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2018 年の半期チャネル (対象指定) リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 4877f865b77fa11161c7180d1203bd2ee4066f59
-ms.sourcegitcommit: 7828d94c163b3cdb37305da2390d8a73964fdb51
+ms.openlocfilehash: 376dad984a376a21ee22e24647e72bd4bff95872
+ms.sourcegitcommit: fb77f95b01d2803216e0c57760085cea78f3b73f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/15/2018
-ms.locfileid: "26526412"
+ms.lasthandoff: 11/19/2018
+ms.locfileid: "26618437"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>2018 年の半期チャネル (対象指定) リリースのリリース ノート
 
@@ -63,6 +63,10 @@ ms.locfileid: "26526412"
 - ユーザーがアカウント コントロール ボタンを使用してユーザー設定のフォームでアカウントを正常に切り替えることができない原因となっていた問題を修正しました。
 - ユーザーが ScanPST を使用して OST/PST ファイルを修復するとクラッシュが発生する原因となっていた問題を修正しました。
 - オンライン モード プロファイルを使用するユーザーに対して特定のメール メッセージの CC: フィールドが表示されなかった問題を修正しました。
+
+### <a name="onenote-non-security-updates"></a>OneNote: セキュリティ以外の更新プログラム 
+
+- 同期や、削除済みセクションへの移動に関係して生じる可能性がある安定性の問題を修正しました。
 
 ### <a name="project-non-security-updates"></a>Project: セキュリティ以外の更新プログラム 
 
