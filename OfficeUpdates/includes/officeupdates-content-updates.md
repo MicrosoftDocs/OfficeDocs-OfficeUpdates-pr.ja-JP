@@ -3,10 +3,10 @@
 
 
 
-## <a name="week-of-october-8-2018"></a>、2018 年 10 月 8 日の週
+## <a name="week-of-october-8-2018"></a>2018 年 10 月 8 日の週
 
 
-| 上で公開 |トピックのタイトル | 変更 |
+| 発行日 |トピックのタイトル | 変更 |
 |------|------------|--------|
 | 2018/10/9 | [Office 2013 製品の最新の .msp ファイルの一覧](/OfficeUpdates/msp-files-office-2013) | 変更 |
 | 2018/10/9 | [Office 2016 製品の最新の .msp ファイルの一覧](/OfficeUpdates/msp-files-office-2016) | 変更 |
@@ -32,10 +32,10 @@
 | 2018/10/12 | [Office for Mac の更新履歴](/OfficeUpdates/update-history-office-for-mac) | 変更 |
 
 
-## <a name="week-of-october-15-2018"></a>、2018 年 10 月 15 日の週
+## <a name="week-of-october-15-2018"></a>2018 年 10 月 15 日の週
 
 
-| 上で公開 |トピックのタイトル | 変更 |
+| 発行日 |トピックのタイトル | 変更 |
 |------|------------|--------|
 | 2018/10/16 | [Office for Mac のリリース ノート](/OfficeUpdates/release-notes-office-for-mac) | 変更 |
 | 2018/10/16 | [Office for Mac の更新履歴](/OfficeUpdates/update-history-office-for-mac) | 変更 |
@@ -55,31 +55,31 @@
 ## <a name="week-of-october-22-2018"></a>、2018 年 10 月 22 日の週
 
 
-| 上で公開 |トピックのタイトル | 変更 |
+| 発行日 |トピックのタイトル | 変更 |
 |------|------------|--------|
 | 2018/10/23 | [2018 年の毎月のチャネル リリースのリリース ノート](/OfficeUpdates/monthly-channel-2018) | 変更 |
 | 2018/10/23 | [Office for Mac のリリース ノート](/OfficeUpdates/release-notes-office-for-mac) | 変更 |
 | 2018/10/23 | [Office for Mac の更新履歴](/OfficeUpdates/update-history-office-for-mac) | 変更 |
 
 
-## <a name="week-of-october-29-2018"></a>、2018 年 10 月 29 日の週
+## <a name="week-of-october-29-2018"></a>2018 年 10 月 29 日の週
 
 
-| 上で公開 |トピックのタイトル | 変更 |
+| 発行日 |トピックのタイトル | 変更 |
 |------|------------|--------|
 | 2018/10/29 | [Office 365 ProPlus の更新プログラムのダウンロード サイズ](/OfficeUpdates/download-sizes-office365-proplus-updates) | 変更 |
 | 2018/10/29 | [2018 年の毎月のチャネル リリースのリリース ノート](/OfficeUpdates/monthly-channel-2018) | 変更 |
 | 2018/10/29 | [Office 365 ProPlus の更新履歴 (日付別の一覧)](/OfficeUpdates/update-history-office365-proplus-by-date) | 変更 |
-| 2018/10/30 | [Office 2016 for Mac のリリース ノート](/OfficeUpdates/release-notes-office-2016-mac) | 変更 |
-| 2018/10/30 | [Office for Mac の更新履歴](/OfficeUpdates/update-history-office-for-mac) | 変更 |
+| 10/30/2018 | [Office 2016 for Mac のリリース ノート](/OfficeUpdates/release-notes-office-2016-mac) | 変更 |
+| 10/30/2018 | [Office for Mac の更新履歴](/OfficeUpdates/update-history-office-for-mac) | 変更 |
 | 2018/10/31 | [Office 365 ProPlus の更新プログラムのダウンロード サイズ](/OfficeUpdates/download-sizes-office365-proplus-updates) | 変更 |
 | 2018/10/31 | Office 365 ProPlus の更新履歴 (バージョン別の一覧) | 削除 |
 
 
-## <a name="week-of-november-05-2018"></a>、2018 年 11 月 5 日の週
+## <a name="week-of-november-05-2018"></a>2018 年 11 月 5 日の週
 
 
-| 上で公開 |トピックのタイトル | 変更 |
+| 発行日 |トピックのタイトル | 変更 |
 |------|------------|--------|
 | 2018/11/6 | [Office 更新プログラム](/OfficeUpdates/index) | 変更 |
 | 2018/11/6 | [Windows インストーラー (MSI) を使用しているバージョンの Outlook の最新の更新プログラム](/OfficeUpdates/outlook-updates-msi) | 変更 |
@@ -94,7 +94,7 @@
 ## <a name="week-of-november-12-2018"></a>、2018 年 11 月 12 日の週
 
 
-| 上で公開 |トピックのタイトル | 変更 |
+| 発行日 |トピックのタイトル | 変更 |
 |------|------------|--------|
 | 2018/11/13 | [Office 2016 for Mac のリリース ノート](/OfficeUpdates/release-notes-office-2016-mac) | 変更 |
 | 2018/11/13 | [Office for Mac のリリース ノート](/OfficeUpdates/release-notes-office-for-mac) | 変更 |
@@ -121,3 +121,13 @@
 | 2018/11/14 | [Office for Mac のリリース ノート](/OfficeUpdates/release-notes-office-for-mac) | 変更 |
 | 2018/11/14 | [Office for Mac の更新履歴](/OfficeUpdates/update-history-office-for-mac) | 変更 |
 | 2018/11/15 | [Office 2016 for Mac のリリース ノート](/OfficeUpdates/release-notes-office-2016-mac) | 変更 |
+
+
+## <a name="week-of-november-19-2018"></a>、2018 年 11 月 19 日の週
+
+
+| 発行日 |トピックのタイトル | 変更 |
+|------|------------|--------|
+| 2018/11/19 | [Office 2016 for Mac のリリース ノート](/OfficeUpdates/release-notes-office-2016-mac) | 変更 |
+| 2018/11/19 | [2018 年の半期チャネル (対象指定) リリースのリリース ノート](/OfficeUpdates/semi-annual-channel-targeted-2018) | 変更 |
+| 2018/11/19 | [Office for Mac の更新履歴](/OfficeUpdates/update-history-office-for-mac) | 変更 |
