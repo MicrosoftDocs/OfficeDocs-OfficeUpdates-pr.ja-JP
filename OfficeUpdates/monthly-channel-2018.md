@@ -3,19 +3,19 @@ title: 2018 年の毎月のチャネル リリースのリリース ノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/14/2018
+ms.date: 11/27/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2018 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 80104d351a68861aa16cc4054f5ca99f6c73e78c
-ms.sourcegitcommit: 7828d94c163b3cdb37305da2390d8a73964fdb51
+ms.openlocfilehash: f221cf3ff6a67cdf36940de61c1c2be2aa450b7a
+ms.sourcegitcommit: d8df1436c1d2ce683cdac42bd4e14cf3407e2bf1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/15/2018
-ms.locfileid: "26526392"
+ms.lasthandoff: 11/27/2018
+ms.locfileid: "26706651"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018 年の毎月のチャネル リリースのリリース ノート
 
@@ -25,6 +25,28 @@ ms.locfileid: "26526392"
 > - また、Visio Pro for Office 365 および Project Online デスクトップ クライアントの新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムについても説明しています。
 > - ここに記載されている情報は、Business Premium など一部の Office 365 プランに付属する Office のバージョンの、Office 365 Business にも該当します。
 > - Microsoft では多くの場合、一定期間にわたって毎月、機能 (および場合によっては修正プログラム) を展開します。これにより、幅広いユーザーに機能を公開する前にスムーズに動作するかどうかを確認することができます。したがって、下記のものが表示されない場合でも、心配する必要はなく、いずれは表示されます。[詳細情報](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+
+## <a name="version-1811-november-27"></a>バージョン 1811: 11 月 27 日
+*バージョン 1811 (ビルド 11029.20079)* 
+
+### <a name="access-feature-updates"></a>Access: 機能の更新
+
+- **黒にペイントする、灰色にペイントする:** アクセスの外観を好きなだけ変更します。次の 4 つのテーマを選択: カラフル、濃い灰色、黒、白のいずれか。[詳細情報](https://support.office.com/article/9d76a8b4-bfff-48a9-b8c8-8e133461bc94)
+
+### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
+
+- **ズームとスティック:** メッセージを読むたびにズームを調整するのではなく、すべてのメッセージに使用する既定値を選択します。[詳細情報](https://support.office.com/article/351EF767-00C1-4B9F-8744-1391DCB8F974)
+- **Outlook 非同期移動メッセージ:** Outlook のユーザーの生産性を高めるために、非同期にメッセージを移動します。
+- **優先受信トレイのオン/オフ エクスペリエンスが洗練されました:** 優先受信トレイがオフの場合に受信トレイだけでなく、すべてのフォルダーで表示される未読メール。フラグの状態順の並び替えが追加されました。優先受信トレイと検索のより優れた相互作用: 優先受信トレイは、検索が開始されるまでそのままです。検索完了後に '結果' テキストが表示されます。
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新
+
+- **印刷された配布資料のスライド番号を参照してください:** スライド番号を配布資料の印刷コピーに追加します。[詳細情報](https://support.office.com/article/91c62c83-9032-497c-ab76-cae8f3e1a402)
+
+### <a name="office-suite-feature-updates"></a>Office スイート: 機能の更新
+
+- **情報バーに新しく表示されたボタンを使用して、ドキュメントを共有し、アップロードします:** 以前は、[共有]、[クリップボードへのパスのコピー]、[ファイルの場所を開く] ボタンは、ドキュメント保存パスの後ろからしかアクセスできませんでした。これらのボタンは情報バーに明確に表示されるようになりました。通常は、[ファイル] > [情報] の順に移動すると、これらの新しいボタンを表示されます。
+
 
 ## <a name="version-1810-november-13"></a>バージョン 1810: 11 月 13 日
 *バージョン 1810 (ビルド 11001.20108)* 
