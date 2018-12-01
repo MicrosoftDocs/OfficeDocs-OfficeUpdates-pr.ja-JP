@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 サブスクライバー向け Office for Mac リリース用リリース ノートを IT プロフェッショナルに提供
-ms.openlocfilehash: 61658846d208ec0acc99474df99100724670377a
-ms.sourcegitcommit: 7828d94c163b3cdb37305da2390d8a73964fdb51
+ms.openlocfilehash: 328487e7090602cdcfbddea520d3b46e99ba4077
+ms.sourcegitcommit: 8f9a27b81ce0767c4ddf76d43a1c0ae335f5bed6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/15/2018
-ms.locfileid: "26526422"
+ms.lasthandoff: 12/01/2018
+ms.locfileid: "27124028"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac のリリース ノート
 
@@ -61,7 +61,7 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 
 |**アプリケーション**|**機能の更新プログラム**|**セキュリティの更新プログラムを入手できます。**|**更新プログラム パッケージのダウンロード リンク**|
 |:-----|:-----|:-----|
-|Word  <br/>|**画像をアクセシビリティ対応にする:** 画像を挿入すると、視覚に障碍のある方が読むことができるキャプションが Office によって提示されます。  <br/> ||[Word の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.18.18101400_Updater.pkg) <br/>|
+|Word  <br/>|||[Word の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.18.18101400_Updater.pkg) <br/>|
 |Excel  <br/>|**コメントを利用して共同作業を行う:** 返信ボックスが組み込まれているので、スプレッドシートで直接会話を続けることができます。[詳細情報](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8 ) <br/> <br/> **データをより深く探る:** 新しい [アイデア] ボタンで、データのパターンを探し、それらのパターンを使用して個人向けにカスタマイズされたインテリジェントな提案を作成できます。[詳細情報](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4) <br/><br/> **オートコンプリートのさらなる自動機能:** 数式を入力するときに、選択できる引数のオプションを示す、便利なオートコンプリート メニューが表示されます。  <br/><br/> **VoiceOver のナビゲーションの改善:** Excel で VoiceOver を使用している場合は、VO+U キーを押してシート間を移動できます。macOS のトラックパッド コマンダーを有効にしてこれを行うこともできます。<br/> ||[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.18.18101400_Updater.pkg) <br/>|
 |PowerPoint  <br/>|**画像をアクセシビリティ対応にする:** 画像を挿入すると、視覚に障碍のある方が読むことができるキャプションが Office によって提示されます。  <br/><br/> **アニメーション トリガーが利用可能に:** ユーザーの要望に応じて、アニメーション トリガーが Windows 以外でも使用できるようになりました。[アニメーション] タブで見つかります。[詳細情報](https://support.office.com/article/651726d6-9454-4bfd-b8e5-11d84767a6da) <br/><br/> ||[PowerPoint の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.18.18101400_Updater.pkg) <br/>|
 |Outlook  <br/>|**検索機能の向上:** [検索] ボックスを選択すると、最近の検索履歴に基づいたクイック候補が表示されます。入力の必要はありません。[詳細情報](https://support.office.com/article/53b60f65-25b7-4582-9c5e-4adf16e503a1) <br/><br/> ||[Outlook の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.18.18101400_Updater.pkg) <br/>|
