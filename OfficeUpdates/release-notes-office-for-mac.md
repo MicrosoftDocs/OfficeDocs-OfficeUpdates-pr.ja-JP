@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 サブスクライバー向け Office for Mac リリース用リリース ノートを IT プロフェッショナルに提供
-ms.openlocfilehash: 328487e7090602cdcfbddea520d3b46e99ba4077
-ms.sourcegitcommit: 8f9a27b81ce0767c4ddf76d43a1c0ae335f5bed6
+ms.openlocfilehash: c38a599be2719cd869d4265c1a387ae1764d3635
+ms.sourcegitcommit: 635e48db44bb7ba94f298748ad90dfc55843fb5c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/01/2018
-ms.locfileid: "27124028"
+ms.lasthandoff: 12/04/2018
+ms.locfileid: "27134268"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac のリリース ノート
 
@@ -82,7 +82,7 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 |Excel  <br/> |**インクで描画する:** マウスまたはタッチ パッドと [描画] タブにあるペンを使って、手書き入力、描画、強調表示を行うことができます。[詳細情報](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**3D モデルを挿入してすべての角度から確認する:** 簡単に 3D モデルを挿入して、それを 360 度回転させます。[詳細情報](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**カスタム ショートカットの復活:** お客様からのご意見を基に、ご要望に応じて、カスタム ショートカット キーを復活させました。[詳細情報](https://support.office.com/article/6bbeb90e-96d9-4e03-b199-fc026ebdc321) <br/>|[CVE-2018-8429](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8429): Microsoft Excel の情報漏えいの脆弱性 <br/><br/>[CVE-2018-8331](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8331): Microsoft Excel のリモート コード実行の脆弱性 <br/>  |[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.17.18090901_Updater.pkg) <br/>|
 |PowerPoint  <br/> |<br/>**インクで描画する:** マウスまたはタッチ パッドと [描画] タブにあるペンを使って、手書き入力、描画、強調表示を行うことができます。[詳細情報](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**3D モデルを挿入してすべての角度から確認する:** 簡単に 3D モデルを挿入して、それを 360 度回転させます。[詳細情報](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**ユーザーが選択したフォントが常に表示される:** カスタム フォントをファイルに埋め込み、どこでもカスタム フォントが表示されるようにします。[詳細情報](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/>||[PowerPoint の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.17.18090901_Updater.pkg) <br/>|
 |Outlook  <br/> |||[Outlook の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.17.18090901_Updater.pkg) <br/>|
-|Microsoft AutoUpdate 4.3  <br/> |||[Microsoft AutoUpdate 更新パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.3.18090901_Updater.pkg) <br/> | 
+|Microsoft AutoUpdate 4.3  <br/> |||| 
 |Office スイート  <br/> ||[CVE-2018-8332](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8332): Microsoft グラフィックのリモート コード実行の脆弱性 <br/>||
 
 ## <a name="august-2018-release"></a>2018 年 8 月リリース
@@ -99,7 +99,7 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 |Excel  <br/> ||[CVE-2018-8375](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8375): Microsoft Excel のリモート コード実行の脆弱性  <br/>[CVE-2018-8382](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8382): Microsoft Excel の情報漏えいの脆弱性  <br/>  |[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.16.18081402_Updater.pkg) <br/>|
 |PowerPoint  <br/> |||[PowerPoint の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.16.18081201_Updater.pkg) <br/>|
 |Outlook  <br/> |||[Outlook の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.16.18081201_Updater.pkg) <br/>|
-|Microsoft AutoUpdate 4.2  <br/> ||[CVE-2018-8412](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8412): Microsoft AutoUpdate Office 特権の昇格の脆弱性  <br/>|[Microsoft AutoUpdate 更新パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.2.18081201_Updater.pkg) <br/> | 
+|Microsoft AutoUpdate 4.2  <br/> ||[CVE-2018-8412](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8412): Microsoft AutoUpdate Office 特権の昇格の脆弱性  <br/>| | 
 |Office スイート  <br/> ||||
 
 ## <a name="july-2018-release"></a>2018 年 7 月リリース
@@ -116,7 +116,7 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 |Excel  <br/> |||[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.15.18070902_Updater.pkg) <br/>|
 |PowerPoint  <br/> |**動画を使用して説明の質を高める:** YouTube 動画を使用してスライドにライブ アクションを追加し、アプリから離れないで動画を表示します。[詳細](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db=Office_2016_for_Mac) <br/> ||[PowerPoint の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.15.18070902_Updater.pkg) <br/>|
 |Outlook  <br/> |**Google アカウントのセキュリティ強化:** セキュリティの強化により、「セキュリティ レベルの低いアプリ」へのアクセスを許可したり、Google アカウントを Outlook に追加するのにアプリのパスワードを設定したりする必要がなくなりました。[詳細情報](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b=Office_2016_for_Mac) <br/> ||[Outlook の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.15.18070902_Updater.pkg) <br/>|
-|Microsoft AutoUpdate 4.1  <br/> |Aria SDK 8.4 に更新され、メモリ リークの問題が修正されます。<br/><br/>アプリの登録が変更されました。Office 2019 プレビューをサポートします。||[Microsoft AutoUpdate 更新パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.1.18070902_Updater.pkg) <br/> | 
+|Microsoft AutoUpdate 4.1  <br/> |Aria SDK 8.4 に更新され、メモリ リークの問題が修正されます。<br/><br/>アプリの登録が変更されました。Office 2019 プレビューをサポートします。|| | 
 |Office スイート  <br/> ||[CVE-2018-8281](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8281): Microsoft Office のリモート コード実行の脆弱性  <br/> ||
 
 
@@ -142,7 +142,7 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 |Excel  <br/> |**一瞬でデータを入力:** フラッシュ フィルにいくつかの例を入力すると、その後の入力で自動的にデータが入力されるようになります。[詳細](https://support.office.com/article/041edfe2-05bc-40e6-b933-ef48c3f308c6) <br/><br/> **言葉の壁の解消:** 別の言語の単語、語句、文章を Microsoft Translator で翻訳します。[詳細](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f) <br/> ||
 |PowerPoint  <br/> |**言葉の壁の解消:** 別の言語の単語、語句、文章を Microsoft Translator で翻訳します。[詳細](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f#ID0EAACAAA=Office_2016_for_Mac) <br/><br/>**ハイパーリンクの色の設定:** ハイパーリンクの色はもはや青だけではありません。好きなフォントと色を適用します。[詳細](https://support.office.com/article/239c6c94-d52f-480c-99ae-8b0acf7df6d9#OfficeVersion=Mac) <br/> ||
 |Outlook  <br/> |**覚えやすい署名を作成する:** 豊富なフォント スタイル、色、画像、リンク、およびその他を使って自分自身を表現します。[詳細](https://support.office.com/article/f4d21492-0956-4429-95ad-2769745b539c)  <br/><br/> **グループの作成とグループとの共同作業:** Outlook で Office 365 グループを作成したいですか? 大丈夫! メンバーの追加と削除もできます。Mac での共同作業も簡単です。[詳細](https://support.office.com/article/04d0c9cf-6864-423c-a380-4fa858f27102#ID0EACAAA=Mac) <br/> ||
-|Microsoft AutoUpdate 4.0  <br/> ||[Microsoft AutoUpdate 更新パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.1.18061000_Updater.pkg) <br/> |  
+|Microsoft AutoUpdate 4.0  <br/> | |  
 
 ## <a name="may-2018-release"></a>2018 年 5 月リリース
 
@@ -178,7 +178,7 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 |Excel  <br/> |**編集するときに共同編集者とチャットします:** Excel を終了せずに共同編集者とチャットすることで、より効果的な共同作業ができます。[詳細情報](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd.aspx) <br/><br/> **アイコンの挿入と編集:** 500 個のアイコンのうち 1 つを挿入、編集することにより、アイコンを使用してブックに視覚的な効果を与えます。[詳細を見る](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79) <br/> <br/>**タイムラインを使用してデータをフィルタリングする:** タイムライン フィルターで日付範囲をスライドし、ピボットテーブルを簡単にフィルタリングします。[詳細を見る](https://support.office.com/article/d3956083-01be-408c-906d-6fc99d9fadfa) <br/> |[CVE-2018-8147](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8147): Microsoft Excel のリモート コード実行の脆弱性   <br/><br/> [CVE-2018-8162](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8162): Microsoft Excel のリモート コード実行の脆弱性  <br/> ||
 |PowerPoint  <br/> |**編集するときに共同編集者とチャットします:** PowerPoint を終了せずに共同編集者とチャットすることで、より効果的な共同作業ができます。[詳細情報](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd.aspx) <br/> <br/>**アイコンの挿入と編集:** 500 個のアイコンのうち 1 つを挿入、編集することにより、アイコンを使用してプレゼンテーションに視覚的な効果を与えます。[詳細を見る](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79) <br/> |[CVE-2018-8176](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8176): Microsoft PowerPoint のリモート コード実行の脆弱性  <br/> ||
 |Outlook  <br/> |**スワイプ ジェスチャーをカスタマイズする:** スワイプの左と右のジェスチャーを、最も使用するアクションに設定します。[削除]、[アーカイブ]、[開封済みにする]、[フラグ]、[なし] から選択します。[詳細を見る](https://support.office.com/article/c8534c2e-1002-450d-a8f3-e53cc8e36b1d.aspx) <br/><br/> **Google カレンダーと連絡先のサポート:** Outlook を終了せずに Google カレンダーと連絡先を管理します。*[詳細を見る](https://support.office.com/article/985f9e19-d308-4e85-9d1d-0c6f32f8e981#officeversion=outlook_2016_for_mac) <br/><br/> \** この機能はある期間にわたって段階的に Office 365 サブスクライバーにロールアウトされるため、この機能がすぐに表示されない可能性があります。* |||
-|Microsoft AutoUpdate 4.0  <br/> |||[Microsoft AutoUpdate 更新パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.0.18051301_Updater.pkg) <br/> |
+|Microsoft AutoUpdate 4.0  <br/> || <br/> |
    
 ## <a name="april-2018-release"></a>2018 年 4 月リリース
 
