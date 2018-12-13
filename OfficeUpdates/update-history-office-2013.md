@@ -10,12 +10,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: クイック実行を使用する永続的なバージョンの Office 2013 の更新履歴を IT 技術者に提供します。
-ms.openlocfilehash: 12f398ed28d41cda77c3bb6395bb34bd0d9bd9d8
-ms.sourcegitcommit: 16edba1a25e04ae704903a63fcedefc31400ff05
+ms.openlocfilehash: c9bc33cbb9fbac0fece3da84a954f99eed8a33bd
+ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/13/2018
-ms.locfileid: "26296607"
+ms.lasthandoff: 12/12/2018
+ms.locfileid: "27241408"
 ---
 # <a name="update-history-for-office-2013"></a>Office 2013 の更新履歴
 
@@ -46,7 +46,7 @@ Office のバージョンを確認するには、以下のことを行います�
   
 |**リリース年**|**リリース日**|**バージョン番号**|**詳細情報**|
 |:-----|:-----|:-----|:-----|
-|2018 |11 月 13 日   |15.0.5085.1000   |[KB 4469617](https://support.microsoft.com/ja-JP/help/4469617)  |
+|2018|11 月 13 日   |15.0.5085.1000   |[KB 4469617](https://support.microsoft.com/ja-JP/help/4469617)  |
 ||10 月 9 日   |15.0.5075.1001   |[KB 4464656](https://support.microsoft.com/ja-JP/help/4464656)  |
 | |9 月 11 日   |15.0.5067.1000   |[KB 4459402](https://support.microsoft.com/ja-JP/help/4459402)  |
 ||8 月 14 日   |15.0.5059.1000   |[KB 4346823](https://support.microsoft.com/ja-JP/help/4346823)  |
