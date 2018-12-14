@@ -3,19 +3,19 @@ title: 2018 年の半期チャネル (対象指定) リリースのリリース 
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/19/2018
+ms.date: 12/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2018 年の半期チャネル (対象指定) リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 376dad984a376a21ee22e24647e72bd4bff95872
-ms.sourcegitcommit: fb77f95b01d2803216e0c57760085cea78f3b73f
+ms.openlocfilehash: 86d500a64c2d4cf56ffa3562a5eb2eccc7e4844b
+ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/19/2018
-ms.locfileid: "26618437"
+ms.lasthandoff: 12/12/2018
+ms.locfileid: "27241518"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>2018 年の半期チャネル (対象指定) リリースのリリース ノート
 
@@ -24,6 +24,55 @@ ms.locfileid: "26618437"
 > [!NOTE]
 > - また、Visio Pro for Office 365 および Project Online デスクトップ クライアントの新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムについても説明しています。
 > - ここに記載されている情報は、Business Premium など一部の Office 365 プランに付属する Office のバージョンの、Office 365 Business にも該当します。
+
+ 
+> [!NOTE]
+> - Office 365 ProPlus の各更新チャネルに対するセキュリティ更新プログラムの情報については、個別の一覧が「[セキュリティ更新プログラム](office365-proplus-security-updates.md)」に記載されます。
+
+## <a name="version-1808-december-11"></a>バージョン 1808: 12 月 11 日
+*バージョン 1808 (ビルド 10730.20262)*
+
+### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム 
+
+-   [CVE-2018-8597](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8597): Microsoft Excel のリモート コード実行の脆弱性 
+-   [CVE-2018-8598](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8598): Microsoft Excel の情報漏えいの脆弱性 
+-   [CVE-2018-8627](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8627): Microsoft Excel の情報漏えいの脆弱性 
+-   [CVE-2018-8636](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8636): Microsoft Excel のリモート コード実行の脆弱性 
+
+### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム 
+
+-   [CVE-2018-8587](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8587): Microsoft Outlook のリモート コード実行の脆弱性 
+
+### <a name="powerpoint-security-updates"></a>PowerPoint: セキュリティ更新プログラム 
+
+-   [CVE-2018-8628](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8628): Microsoft PowerPoint のリモート コード実行の脆弱性 
+
+### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム 
+
+- 共同編集セッションで、他のユーザーがスライサー内のデータに列フィルターを適用した後で、そのスライサーが適切に更新されない問題を修正しました。
+- 共同編集セッションで、いずれかのユーザーがスライサーのキャプションをクリアすると、その共同編集セッションに参加している別のユーザーの Excel がクラッシュする問題を修正しました。
+- 同じデータの列にバインドされた複数のテーブル スライサーを作成した後で、そのデータの列を削除するとクラッシュする可能性がある問題を修正しました。
+- 列幅の自動調整オプションがオフになっているときに、フィルター処理されたクエリ テーブルにセルで折り返されたテキストが含まれていると、そのクエリ テーブルを最新の情報に更新しているときに Excel がクラッシュすることがある問題を修正しました。
+- Excel 2007 で保存したスライサーを新しいバージョンの Excel で開いたときに、そのスライサーに表示される項目数を変更するとクラッシュが発生する問題を修正しました。
+- [会話の履歴] フォルダーを開いているときにユーザーに応答停止が発生する原因になっていた問題を修正しました。
+- サポート要求を簡単に調査できるようにする、[診断の取得] ボタンのサポートを導入しました。
+
+### <a name="outlook-non-secirity-updates"></a>Outlook: セキュリティ以外の更新プログラム
+
+- [ルールと通知の管理] ダイアログ ボックスを起動するとユーザーにエラーが表示される原因になっていた問題を修正しました。
+- 従量制課金接続を使用しているときに、ユーザーが自分のメールボックスに DirectAccess 経由で接続できなくなる原因になっていた問題を修正しました。
+- パブリック フォルダーに保存されているフリー ドキュメントが誤って「保護されたビュー」で開かれてユーザーに表示される原因になっていた問題を修正しました。
+- インライン添付でアイテムを転送するときに、ユーザーに予期しない添付ファイルが表示される原因になっていた問題を修正しました。
+- OFT ファイルが添付ファイルとして送信された後に不完全にレンダリングされる原因になっていた問題を修正しました。
+- 共有予定表に会議を追加したときに、一部のアドイン ユーザーにクラッシュが発生する原因になっていた問題を修正しました。
+
+### <a name="project-non-security-updates"></a>Project: セキュリティ以外の更新プログラム
+
+- Project の新しいベネズエラ通貨のサポートに関する問題を修正しました。
+- 外部モニターに接続した Surface 4 を使用しているときに Project が応答停止することがある問題を修正しました。
+- プロジェクトを XML 形式に保存するときに、Project がクラッシュすることがある問題を修正しました。
+- リソース カレンダーの編集後に、エンタープライズ リソース カスタム フィールドが削除される可能性のある問題を修正しました。
+- 韓国語の表示名を検索しているときに、ユーザーにクラッシュが発生する原因になっていた問題を修正しました。
 
 ## <a name="version-1808-november-13"></a>バージョン 1808: 11 月 13 日
 *バージョン 1808 (ビルド 10730.20205)*

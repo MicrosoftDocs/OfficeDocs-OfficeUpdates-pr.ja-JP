@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus セキュリティ更新プログラムのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 4476a4fba6d423eba0f40f7c98ec8c1fa65bf3c6
-ms.sourcegitcommit: c5b53c9081a44a6ce9e10f7c6d0469101a1f397e
+ms.openlocfilehash: 8ba613b04a8a91d438891cbcda75216cd4715456
+ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/29/2018
-ms.locfileid: "26999451"
+ms.lasthandoff: 12/12/2018
+ms.locfileid: "27241258"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Office 365 ProPlus セキュリティ更新プログラムのリリース ノート
 
@@ -24,6 +24,25 @@ ms.locfileid: "26999451"
 > [!NOTE]
 > - また、以下に示す資料でも Visio Pro for Office 365 および Project Online デスクトップ クライアントのセキュリティ更新プログラムに関する情報が提供されています。
 > - ここに記載されている情報は、Business Premium など一部の Office 365 プランに付属する Office のバージョンの、Office 365 Business にも該当します。
+## <a name="december-11-2018"></a>2018 年 12 月 11 日
+月次チャネル: バージョン 1811 (ビルド 11029.20108)  
+半期チャネル: バージョン 1803 (ビルド 9126.2336)  
+半期チャネル (対象指定): バージョン 1808 (ビルド 10730.20262)  
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2018-8597](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8597)
+-   [CVE-2018-8627](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8627)
+-   [CVE-2018-8598](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8598)
+-   [CVE-2018-8636](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8636)
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2018-8587](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8587)
+
+### <a name="powerpoint"></a>PowerPoint
+
+-   [CVE-2018-8628](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8628)
 
 ## <a name="november-13-2018"></a>2018 年 11 月 13 日
 月次チャネル: バージョン 1810 (ビルド 11001.20108)  

@@ -3,19 +3,19 @@ title: 2018 年の毎月のチャネル リリースのリリース ノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/04/2018
+ms.date: 12/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2018 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 70ed82679a17446751d9e9e4e3d7cc8a056ce668
-ms.sourcegitcommit: d37f49e4efc9d1b4187711951bcb7049e18138bb
+ms.openlocfilehash: f2e1c394266de2b07acaad5ae95d6d19cfc17684
+ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "27154825"
+ms.lasthandoff: 12/12/2018
+ms.locfileid: "27241488"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018 年の毎月のチャネル リリースのリリース ノート
 
@@ -25,6 +25,27 @@ ms.locfileid: "27154825"
 > - また、Visio Pro for Office 365 および Project Online デスクトップ クライアントの新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムについても説明しています。
 > - ここに記載されている情報は、Business Premium など一部の Office 365 プランに付属する Office のバージョンの、Office 365 Business にも該当します。
 > - Microsoft では多くの場合、一定期間にわたって毎月、機能 (および場合によっては修正プログラム) を展開します。これにより、幅広いユーザーに機能を公開する前にスムーズに動作するかどうかを確認することができます。したがって、下記のものが表示されない場合でも、心配する必要はなく、いずれは表示されます。[詳細情報](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+
+ > [!NOTE]
+> - Office 365 ProPlus の各更新チャネルに対するセキュリティ更新プログラムの情報については、個別の一覧が「[セキュリティ更新プログラム](office365-proplus-security-updates.md)」に記載されます。 
+
+## <a name="version-1811-december-11"></a>バージョン 1811: 12 月 11 日
+*バージョン 1811 (ビルド 11029.20108)* 
+
+ ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム 
+
+-   [CVE-2018-8597](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8597): Microsoft Excel のリモート コード実行の脆弱性 
+-   [CVE-2018-8598](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8598): Microsoft Excel の情報漏えいの脆弱性 
+-   [CVE-2018-8627](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8627): Microsoft Excel の情報漏えいの脆弱性 
+-   [CVE-2018-8636](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8636): Microsoft Excel のリモート コード実行の脆弱性 
+
+### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム 
+
+-   [CVE-2018-8587](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8587): Microsoft Outlook のリモート コード実行の脆弱性 
+
+### <a name="powerpoint-security-updates"></a>PowerPoint: セキュリティ更新プログラム 
+
+-   [CVE-2018-8628](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8628): Microsoft PowerPoint のリモート コード実行の脆弱性 
 
 
 ## <a name="version-1811-november-27"></a>バージョン 1811: 11 月 27 日

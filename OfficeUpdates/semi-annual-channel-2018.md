@@ -3,19 +3,19 @@ title: 2018 年の半期チャネル リリースのリリース ノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/14/2018
+ms.date: 12/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2018 年の半期チャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 8018fdf91a14b24f725f19a80298f951a14be7c0
-ms.sourcegitcommit: 7828d94c163b3cdb37305da2390d8a73964fdb51
+ms.openlocfilehash: ff46d626dc9c767e19da8e1a5bfacf7522c54b27
+ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/15/2018
-ms.locfileid: "26526432"
+ms.lasthandoff: 12/12/2018
+ms.locfileid: "27241498"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>2018 年の半期チャネル リリースのリリース ノート
 
@@ -25,6 +25,62 @@ ms.locfileid: "26526432"
 > - また、Visio Pro for Office 365 および Project Online デスクトップ クライアントの新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムについても説明しています。
 > - ここに記載されている情報は、Business Premium など一部の Office 365 プランに付属する Office のバージョンの、Office 365 Business にも該当します。
 > - 2018 年 1 月以前は、半期チャネルは Deferred Channel という名称でした。
+
+> [!NOTE]
+> - Office 365 ProPlus の各更新チャネルに対するセキュリティ更新プログラムの情報については、個別の一覧が「[セキュリティ更新プログラム](office365-proplus-security-updates.md)」に記載されます。
+
+## <a name="version-1803-december-11"></a>バージョン 1803: 12 月 11 日
+*バージョン 1803 (ビルド 9126.2336)*
+
+### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム 
+
+-   [CVE-2018-8597](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8597): Microsoft Excel のリモート コード実行の脆弱性 
+-   [CVE-2018-8598](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8598): Microsoft Excel の情報漏えいの脆弱性 
+-   [CVE-2018-8627](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8627): Microsoft Excel の情報漏えいの脆弱性 
+-   [CVE-2018-8636](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8636): Microsoft Excel のリモート コード実行の脆弱性 
+
+### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム 
+
+-   [CVE-2018-8587](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8587): Microsoft Outlook のリモート コード実行の脆弱性 
+
+### <a name="powerpoint-security-updates"></a>PowerPoint: セキュリティ更新プログラム 
+
+-   [CVE-2018-8628](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8628): Microsoft PowerPoint のリモート コード実行の脆弱性 
+
+
+### <a name="outlook-non-secirity-updates"></a>Outlook: セキュリティ以外の更新プログラム
+
+- 特定の連絡先フィールドを更新した場合に Outlook が予期せぬ終了になる問題について、原因を修正しました。
+- [ルールと通知の管理] ダイアログ ボックスを起動するとユーザーにエラーが表示される問題について、原因を解決しました。
+- Outlook ユーザーが一部のアドインを実行するとクラッシュが発生する問題について、原因を解決しました。
+
+
+## <a name="version-1708-december-11"></a>バージョン 1708: 12 月 11 日
+*バージョン 1708 (ビルド 8431.2351)*
+
+*これは 2018 年 1 月から使用可能になった半期チャネル リリースです。2019 年 3 月まで継続的にサポートされ、セキュリティ更新プログラムを受信します。ただし、新しい半期チャネル リリース — バージョン 1803 (ビルド 16.0.9126.2336) — も使用できます。これには新しい機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムが含まれています。*
+
+### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム 
+
+-   [CVE-2018-8597](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8597): Microsoft Excel のリモート コード実行の脆弱性 
+-   [CVE-2018-8598](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8598): Microsoft Excel の情報漏えいの脆弱性 
+-   [CVE-2018-8627](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8627): Microsoft Excel の情報漏えいの脆弱性 
+-   [CVE-2018-8636](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8636): Microsoft Excel のリモート コード実行の脆弱性 
+
+### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム 
+
+-   [CVE-2018-8587](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8587): Microsoft Outlook のリモート コード実行の脆弱性 
+
+### <a name="powerpoint-security-updates"></a>PowerPoint: セキュリティ更新プログラム 
+
+-   [CVE-2018-8628](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8628): Microsoft PowerPoint のリモート コード実行の脆弱性 
+
+### <a name="outlook-non-secirity-updates"></a>Outlook: セキュリティ以外の更新プログラム
+
+- 特定の連絡先フィールドを更新した場合に Outlook が予期せぬ終了になる問題について、原因を修正しました。
+- [ルールと通知の管理] ダイアログ ボックスを起動するとユーザーにエラーが表示される問題について、原因を解決しました。
+- Outlook ユーザーが一部のアドインを実行するとクラッシュが発生する問題について、原因を解決しました。
+
 
 ## <a name="version-1803-november-13"></a>バージョン 1803: 11 月 13 日
 *バージョン 1803 (ビルド 9126.2315)*
