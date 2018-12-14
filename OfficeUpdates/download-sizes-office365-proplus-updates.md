@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 各チャネルの Office 365 ProPlus の更新プログラムのダウンロード サイズの概算に関する情報を IT 技術者に提供します
-ms.openlocfilehash: 0d3dc6744b2811e69316afeeecfb34ad55a669fb
-ms.sourcegitcommit: 9aeaa78dc9be8f3dc8b2bdad0e3c203341e5ad1c
+ms.openlocfilehash: 17a7e5458382394128e85b024315cb19886c5eba
+ms.sourcegitcommit: 3c5daa87f8ef4e8dbc0185c2ab9080caf9cbd325
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/06/2018
-ms.locfileid: "27180777"
+ms.lasthandoff: 12/07/2018
+ms.locfileid: "27194918"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 ProPlus の更新プログラムのダウンロード サイズ
 
@@ -90,7 +90,7 @@ ms.locfileid: "27180777"
   
 |**アップグレード前のリリース **|**リリース日**|**ダウンロード サイズの概算 (MB)**|
 |:-----|:-----|:-----|
-|バージョン 1803 (ビルド 9126.2282) <br/> |2018 年 10 月 9 日  <br/> |61 <br/> |
+|バージョン 1803 (ビルド 9126.2295) <br/> |2018 年 10 月 9 日  <br/> |61 <br/> |
 |バージョン 1803 (ビルド 9126.2282)  <br/> |2018 年 9 月 11 日  <br/> |58<br/> |
 
 ### <a name="semi-annual-channel-targeted"></a>半期チャネル (対象指定)
@@ -192,7 +192,7 @@ ms.locfileid: "27180777"
 |**アップグレード前のリリース **|**リリース日**|**ダウンロード サイズの概算 (MB)**|
 |:-----|:-----|:-----|
 |バージョン 1803 (ビルド 9126.2259)  <br/> |2018 年 7 月 10 日  <br/> |99  <br/> |
-|バージョン 1708 (ビルド 9126.2275)  <br/> |2018 年 8 月 14 日  <br/> |99 <br/> |
+|バージョン 1803 (ビルド 9126.2275)  <br/> |2018 年 8 月 14 日  <br/> |99 <br/> |
 
   
 ### <a name="semi-annual-channel-targeted"></a>半期チャネル (対象指定)
@@ -233,8 +233,8 @@ ms.locfileid: "27180777"
   
 |**アップグレード前のリリース **|**リリース日**|**ダウンロード サイズの概算 (MB)**|
 |:-----|:-----|:-----|
-|バージョン 1803 (ビルド 8431.2259)  <br/> |2018 年 7 月 10 日  <br/> |86  <br/> |
-|バージョン 1708 (ビルド 8431.2270)  <br/> |2018 年 6 月 12 日  <br/> |279  <br/> |
+|バージョン 1803 (ビルド 9126.2259)  <br/> |2018 年 7 月 10 日  <br/> |86  <br/> |
+|バージョン 1708 (ビルド 8431.2280)  <br/> |2018 年 7 月 10 日  <br/> |279  <br/> |
 
   
 ### <a name="semi-annual-channel-targeted"></a>半期チャネル (対象指定)
