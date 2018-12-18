@@ -3,19 +3,19 @@ title: Office for Mac の更新履歴
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/14/2018
+ms.date: 12/17/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT プロフェッショナルに、office for Mac の最新更新プログラムに関する情報を提供します。それには、ダウンロード パッケージへのリンク、更新履歴が含まれます
-ms.openlocfilehash: 911d7d5378d2cd1ed18ef87625c19b8e23c783ee
-ms.sourcegitcommit: 6c090794632dc563050b8457ed2058dbe98791ea
+ms.openlocfilehash: 45b0a58b5cb10d739fa5b64f0fcbca274d6665e4
+ms.sourcegitcommit: f8141088dc76d6e8104fa97eb1003743b1381e27
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/14/2018
-ms.locfileid: "27279688"
+ms.lasthandoff: 12/17/2018
+ms.locfileid: "27294537"
 ---
 # <a name="update-history-for-office-for-mac"></a>Office for Mac の更新履歴
 
@@ -46,7 +46,7 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 |Excel  <br/> |16.20.0 (18120801)   <br/> |[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=525135) <br/> [更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.20.18120801_Updater.pkg) <br/> |3B95883B8739F47F6FBEDA9DFE15FEF12BA63CACF94A244E207AF34EF10856D4  <br/> |
 |PowerPoint  <br/> |16.20.0 (18120801)    <br/> |[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=525136) <br/> [更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg) <br/> |75A9A05648FB4449582ACF4FF774BED65C61F304B8962734F5F27C297BFE2492 <br/> |
 |Outlook  <br/> |16.20.0 (18120801)   <br/> |[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=525137) <br/> [更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.20.18120801_Updater.pkg) <br/> |3D3DBCC8D036C7BF74862A6B1133F49711672A309458787C99DC87921210A5A5  <br/> |
-|OneNote  <br/> |16.20.0 (18120801)    <br/> |[更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_20.18120801_Updater.pkg) <br/> |該当なし  <br/> |
+|OneNote  <br/> |16.20.0 (18120801)    <br/> |[更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.20.18120801_Updater.pkg) <br/> |該当なし  <br/> |
    
 
 ## <a name="most-current-packages-for-other-mac-programs-from-microsoft"></a>Microsoft の他の Mac プログラムに関する最新パッケージ
