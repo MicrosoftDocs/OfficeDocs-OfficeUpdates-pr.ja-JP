@@ -3,29 +3,6 @@
 
 
 
-## <a name="week-of-november-19-2018"></a>、2018 年 11 月 19 日の週
-
-
-| 発行日 |トピックのタイトル | 変更 |
-|------|------------|--------|
-| 2018/11/19 | [Office 2016 for Mac のリリース ノート](/OfficeUpdates/release-notes-office-2016-mac) | 変更 |
-| 2018/11/19 | [2018 年の半期チャネル (対象指定) リリースのリリース ノート](/OfficeUpdates/semi-annual-channel-targeted-2018) | 変更 |
-| 2018/11/19 | [Office for Mac の更新履歴](/OfficeUpdates/update-history-office-for-mac) | 変更 |
-
-
-## <a name="week-of-november-26-2018"></a>2018 年 11 月 26 日の週
-
-
-| 発行日 |トピックのタイトル | 変更 |
-|------|------------|--------|
-| 2018/11/27 | [Office 365 ProPlus の更新プログラムのダウンロード サイズ](/OfficeUpdates/download-sizes-office365-proplus-updates) | 変更 |
-| 2018/11/27 | [2018 年の毎月のチャネル リリースのリリース ノート](/OfficeUpdates/monthly-channel-2018) | 変更 |
-| 2018/11/27 | [Office 365 ProPlus の更新履歴 (日付別の一覧)](/OfficeUpdates/update-history-office365-proplus-by-date) | 変更 |
-| 2018/11/29 | [2018 年の毎月のチャネル リリースのリリース ノート](/OfficeUpdates/monthly-channel-2018) | 変更 |
-| 2018/11/29 | [Office 365 ProPlus セキュリティ更新プログラムのリリース ノート](/OfficeUpdates/office365-proplus-security-updates) | 追加 |
-| 2018/11/30 | [Office for Mac のリリース ノート](/OfficeUpdates/release-notes-office-for-mac) | 変更 |
-
-
 ## <a name="week-of-december-03-2018"></a>、2018 年 12 月 3 日の週
 
 
@@ -80,3 +57,14 @@
 | 2018/12/17 | [Office 2016 for Mac のリリース ノート](/OfficeUpdates/release-notes-office-2016-mac) | 変更 |
 | 2018/12/17 | [Office for Mac の更新履歴](/OfficeUpdates/update-history-office-for-mac) | 変更 |
 | 2018/12/19 | [Office 2013 の更新履歴](/OfficeUpdates/update-history-office-2013) | 変更 |
+
+
+## <a name="week-of-december-31-2018"></a>、2018 年 12 月 31 日の週
+
+
+| 発行日 |トピックのタイトル | 変更 |
+|------|------------|--------|
+| 1/3/2019 | [Office 365 ProPlus の更新プログラムのダウンロード サイズ](/OfficeUpdates/download-sizes-office365-proplus-updates) | 変更 |
+| 1/3/2019 | [2019 で毎月チャネルのリリースのリリース ノート](/OfficeUpdates/monthly-channel-2019) | 追加 |
+| 1/3/2019 | [Office 365 ProPlus の更新履歴 (日付別の一覧)](/OfficeUpdates/update-history-office365-proplus-by-date) | 変更 |
+| 1/4/2019 | [Office 365 ProPlus の更新プログラムのダウンロード サイズ](/OfficeUpdates/download-sizes-office365-proplus-updates) | 変更 |
