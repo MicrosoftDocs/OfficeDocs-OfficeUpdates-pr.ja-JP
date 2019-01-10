@@ -51,5 +51,3 @@
 # 関連リンク
 ## [Windows 10 のリリース](https://www.microsoft.com/itpro/windows-10/release-information)
 ## [Microsoft のライフサイクル ポリシー](https://support.microsoft.com/lifecycle)
-
-
