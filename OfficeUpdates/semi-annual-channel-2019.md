@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: da269198a90b18ef62ae293273028d7206efd330
-ms.sourcegitcommit: 3a7ca9d5320f8d2b01d8ba7f0ee3b09dc41d2a7e
+ms.openlocfilehash: e6c20afbeb967d0fc3c559e5be7f798b51b6d7bd
+ms.sourcegitcommit: 3cabf1996522b156bf438969f8aa086f54baec7d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "27773196"
+ms.lasthandoff: 01/09/2019
+ms.locfileid: "27777453"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019 年の半期チャネル リリースのリリース ノート
 
@@ -31,6 +31,11 @@ ms.locfileid: "27773196"
 
 ## <a name="version-1808-january-8"></a>バージョン 1808: 1 月 8 日
 *バージョン 1808 (ビルド 10730.20264)*
+
+### <a name="access-feature-updates"></a>Access: 機能の更新
+
+ - **新しいグラフを使用したデータの視覚化:** 11 種類のグラフから選択してフォームやレポートに追加することにより、データが見やすくなり、十分な情報に基づいて決定を下すことができます。[詳細情報](https://support.office.com/article/1a463106-65d0-4dbb-9d66-4ecb737ea7f7)
+
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
  - **共同編集:** ブック内で他のユーザーと同時に作業します。[詳細情報](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
