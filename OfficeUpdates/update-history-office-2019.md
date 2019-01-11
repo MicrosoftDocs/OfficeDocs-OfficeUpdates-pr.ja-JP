@@ -10,12 +10,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: クイック実行を使用する永続的なバージョンの Office 2019 の更新履歴を IT 技術者に提供します
-ms.openlocfilehash: 455b94312ee32139602ed925eb92f1389338f179
-ms.sourcegitcommit: 3a7ca9d5320f8d2b01d8ba7f0ee3b09dc41d2a7e
+ms.openlocfilehash: 7b4a0334bc9ad63c7fb28f8111cab157fb38ea08
+ms.sourcegitcommit: 19bde490bd56c4b49a6ed51d62a24048792bbf3b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "27770048"
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "27791645"
 ---
 # <a name="update-history-for-office-2019"></a>Office 2019 の更新履歴
 
@@ -37,7 +37,6 @@ Microsoft は必要に応じて、Office 2019 の安定性やパフォーマン�
 ## <a name="volume-licensed-versions-of-office-2019"></a>ボリューム ライセンス版の Office 2019
 次の情報は、ボリューム ライセンス契約を通じて購入された Office Professional Plus 2019 など、ボリューム ライセンス版の Office 2019 に適用されます。
 
-  
 |**リリース日**|**バージョン番号**|**詳細情報**|
 |:-----|:-----|:-----|
 |2019 年 1 月 8 日   |バージョン 1808 (ビルド 10340.20017)  |[CVE-2019-0541](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2019-0541) <br/> [CVE-2019-0559](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2019-0559) <br/> [CVE-2019-0560](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2019-0560) <br/> [CVE-2019-0561](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2019-0561) <br/> [CVE-2019-0585](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2019-0585) <br/> |
