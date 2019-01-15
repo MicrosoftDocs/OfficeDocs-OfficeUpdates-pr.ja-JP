@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: e6c20afbeb967d0fc3c559e5be7f798b51b6d7bd
-ms.sourcegitcommit: 3cabf1996522b156bf438969f8aa086f54baec7d
+ms.openlocfilehash: 6ac26aaa333a9391e72ccc75b5319bf659540801
+ms.sourcegitcommit: c61c91086d5d030946c9a1bfed0a3b5613fed14c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/09/2019
-ms.locfileid: "27777453"
+ms.lasthandoff: 01/11/2019
+ms.locfileid: "27801494"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019 年の半期チャネル リリースのリリース ノート
 
@@ -39,7 +39,7 @@ ms.locfileid: "27777453"
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
  - **共同編集:** ブック内で他のユーザーと同時に作業します。[詳細情報](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
- - **クラウド ファイルの自動保存が既定で有効になる:** 2018 年 9 月の半期チャネル (対象指定) リリースでは、自動保存が既定で有効になります。これにより、OneDrive または SharePoint Online に保存されるドキュメントで変更が失われることをユーザーは心配する必要がありません。変更はクラウドに自動的に保存されるので、ユーザーは明示的に Ctrl + S キーを押すか、[保存] ボタンをクリックする必要はありません。ただし、ユーザーは、この動作の変更を理解し、ドキュメントを誤って変更しないように注意する必要があります。ユーザーは、画面の上部にある [自動保存] トグルを使用して自動保存をオフにできます。この変更についてユーザーに通知し、Office 365 でこの新機能を最大限に利用する方法について説明することをお勧めします。[自動保存の詳細](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)、[IT 管理者が自動保存について知っておくべきことの詳細](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
+ - **クラウド ファイルの自動保存が既定で有効になる:** これにより、OneDrive または SharePoint Online に保存されたドキュメントの変更が失われる心配がなくなります。変更はクラウドに自動的に保存されるので、ユーザーは明示的に Ctrl + S キーを押したり、[保存] ボタンをクリックする必要がなくなります。ただし、この動作の変更を理解した上で、ドキュメントを誤って変更しないように注意する必要があります。画面の上部にある [自動保存] トグルを使用して自動保存をオフにすることができます。この変更についてユーザーに通知し、Office 365 のこの新機能を最大限に利用する方法について説明することをお勧めします。[自動保存の詳細](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)と[IT 管理者が自動保存について知っておくべきことの詳細](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)も参照してください。
 - **セルおよび数式バーの編集の強化:** Ctrl + A キーを押して、セルまたは数式バーのテキストを選択できるようになりました。絵文字とその他の複雑な文字のサポートも強化されました。[詳細情報](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
 - **アクセシビリティ チェックの改善:** アクセシビリティ チェックで、ブックのアクセシビリティを向上させるための国際標準と推奨事項のサポートが更新されました。[詳細情報](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 - **不要な編集の回避:** 誤って変更されないように、読み取り専用でブックが開くように設定します。[ファイル]、[情報]、[ブックの保護]、[常に読み取り専用で開く] の順に移動します
@@ -102,7 +102,7 @@ ms.locfileid: "27777453"
 - 同期や、削除済みセクションへの移動に関係して生じる可能性がある安定性の問題を修正しました。
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新 
-- **クラウド ファイルの自動保存が既定で有効になる:** 2018 年 9 月の半期チャネル (対象指定) リリースでは、自動保存が既定で有効になります。これにより、OneDrive または SharePoint Online に保存されるドキュメントで変更が失われることをユーザーは心配する必要がありません。変更はクラウドに自動的に保存されるので、ユーザーは明示的に Ctrl + S キーを押すか、[保存] ボタンをクリックする必要はありません。ただし、ユーザーは、この動作の変更を理解し、プレゼンテーションを誤って変更しないように注意する必要があります。ユーザーは、画面の上部にある [自動保存] トグルを使用して自動保存をオフにできます。この変更についてユーザーに通知し、Office 365 でこの新機能を最大限に利用する方法について説明することをお勧めします。[自動保存の詳細](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)、[IT 管理者が自動保存について知っておくべきことの詳細](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
+- **クラウド ファイルの自動保存が既定で有効になる:** これにより、OneDrive または SharePoint Online に保存されたドキュメントの変更が失われる心配がなくなります。変更はクラウドに自動的に保存されるので、ユーザーは明示的に Ctrl + S キーを押したり、[保存] ボタンをクリックする必要がなくなります。ただし、この動作の変更を理解した上で、プレゼンテーションを誤って変更しないように注意する必要があります。画面の上部にある [自動保存] トグルを使用して自動保存をオフにすることができます。この変更についてユーザーに通知し、Office 365 のこの新機能を最大限に利用する方法について説明することをお勧めします。[自動保存の詳細](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)と[IT 管理者が自動保存について知っておくべきことの詳細](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)も参照してください。
 - **セルおよび数式バーの編集の強化:** Ctrl + A キーを押して、セルまたは数式バーのテキストを選択できるようになりました。絵文字とその他の複雑な文字のサポートも強化されました。[詳細情報](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
 - **手書き内容の変換:** フリーハンドのメモや描画を読みやすいテキストや整った図形に変換して、洗練されたプレゼンテーションを作成します。 [詳細情報](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
 - **SVG サポートの強化:** フィルターが適用された SVG を挿入できます。[詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
@@ -141,8 +141,8 @@ ms.locfileid: "27777453"
 - マスター プロジェクトのコンテキストでサブ プロジェクトの作業を行うと、サブ プロジェクトを保存できない問題を修正しました。
 
 ### <a name="word-feature-updates"></a>Word: 機能の更新
-- **クラウド ファイルの自動保存が既定で有効になる:** 2018 年 9 月の半期チャネル (対象指定) リリースでは、自動保存が既定で有効になります。これにより、OneDrive または SharePoint Online に保存されるドキュメントで変更が失われることをユーザーは心配する必要がありません。変更はクラウドに自動的に保存されるので、ユーザーは明示的に Ctrl + S キーを押すか、[保存] ボタンをクリックする必要はありません。ただし、ユーザーは、この動作の変更を理解し、プレゼンテーションを誤って変更しないように注意する必要があります。ユーザーは、画面の上部にある [自動保存] トグルを使用して自動保存をオフにできます。この変更についてユーザーに通知し、Office 365 でこの新機能を最大限に利用する方法について説明することをお勧めします。[自動保存の詳細](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)、IT 管理者が自動保存について知っておくべきことの詳細
-- **アクセシビリティ チェックの改善:** アクセシビリティ チェックで、文書のアクセシビリティを向上させるための国際標準と推奨事項のサポートが更新されました。[詳細情報](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+- **クラウド ファイルの自動保存が既定で有効になる:** これにより、OneDrive または SharePoint Online に保存されたドキュメントの変更が失われる心配がなくなります。変更はクラウドに自動的に保存されるので、ユーザーは明示的に Ctrl + S キーを押したり、[保存] ボタンをクリックする必要がなくなります。ただし、この動作の変更を理解した上で、プレゼンテーションを誤って変更しないように注意する必要があります。画面の上部にある [自動保存] トグルを使用して自動保存をオフにすることができます。この変更についてユーザーに通知し、Office 365 のこの新機能を最大限に利用する方法について説明することをお勧めします。[自動保存の詳細](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)と[IT 管理者が自動保存について知っておくべきことの詳細](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)も参照してください。
+- **アクセシビリティ チェックの改善:** アクセシビリティ チェックで、文書のアクセシビリティを向上させるための国際標準のサポートと推奨事項が更新されました。[詳細情報](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 - **SVG サポートの強化:** フィルターが適用された SVG を挿入できます。[詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="word-non-security-updates"></a>Word: セキュリティ以外の更新プログラム
@@ -175,8 +175,10 @@ ms.locfileid: "27777453"
 ## <a name="version-1803-january-8"></a>バージョン 1803: 1 月 8 日
 *バージョン 1803 (ビルド 9126.2351)*
 
-*これは、2018 年 1 月から使用可能になった半期チャネル リリースです。これは、2019 年 3 月まで継続的にサポートされ、セキュリティ更新プログラムを受信します。ただし、新しい半期チャネル リリースが使用可能になりました — バージョン 1803 — これには、新しい機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムが含まれます。*
+*これは、2018 年 7 月から使用可能になった半期チャネル リリースです。これは、2019 年 9 月まで継続的にサポートされ、セキュリティ更新プログラムを受信します。ただし、新しい半期チャネル リリース — バージョン 1808 — が使用可能です。これには、新しい機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムが含まれます。*
 
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: セキュリティ以外の更新プログラム
+- Office アプリケーション間の LinkedIn オプションの機能パリティの確認における問題が修正されました。
 
 
 > [!NOTE]
