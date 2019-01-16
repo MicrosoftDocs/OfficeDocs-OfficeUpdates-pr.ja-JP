@@ -3,19 +3,19 @@ title: 2019 年の半期チャネル リリースのリリース ノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 1/8/2019
+ms.date: 1/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 6ac26aaa333a9391e72ccc75b5319bf659540801
-ms.sourcegitcommit: c61c91086d5d030946c9a1bfed0a3b5613fed14c
+ms.openlocfilehash: 990e7afafea208c46e58d2e2b11dd6ec7555c7af
+ms.sourcegitcommit: 213c572ed7392c994fc8c902bfb9d1e5aa412a4b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/11/2019
-ms.locfileid: "27801494"
+ms.lasthandoff: 01/12/2019
+ms.locfileid: "27992121"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019 年の半期チャネル リリースのリリース ノート
 
@@ -109,6 +109,7 @@ ms.locfileid: "27801494"
 - **ペンでスライドにタイトルを付ける:** ペンを使用してタイトルをインク入力すると、PowerPoint でテキストに変換されます。[詳細情報](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **不要な編集の回避:** 誤って変更されないように、読み取り専用でブックが開くように設定します。[ファイル]、[情報]、[ブックの保護]、[常に読み取り専用で開く] の順に移動します
 - **アクセシビリティ チェックの改善:** アクセシビリティ チェックで、プレゼンテーションのアクセシビリティを向上させるための国際標準と推奨事項のサポートが更新されました。[詳細情報](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+-  **ユーザーへのテストやアンケート:** テストやアンケートをスライドに配置します。Office で応答が自動的に収集され、保存されます。[詳細情報](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: セキュリティ以外の更新プログラム
 - ActiveX コンテンツを含むファイルを保存すると、ファイルが壊れる可能性のある問題を修正しました。
@@ -144,6 +145,7 @@ ms.locfileid: "27801494"
 - **クラウド ファイルの自動保存が既定で有効になる:** これにより、OneDrive または SharePoint Online に保存されたドキュメントの変更が失われる心配がなくなります。変更はクラウドに自動的に保存されるので、ユーザーは明示的に Ctrl + S キーを押したり、[保存] ボタンをクリックする必要がなくなります。ただし、この動作の変更を理解した上で、プレゼンテーションを誤って変更しないように注意する必要があります。画面の上部にある [自動保存] トグルを使用して自動保存をオフにすることができます。この変更についてユーザーに通知し、Office 365 のこの新機能を最大限に利用する方法について説明することをお勧めします。[自動保存の詳細](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)と[IT 管理者が自動保存について知っておくべきことの詳細](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)も参照してください。
 - **アクセシビリティ チェックの改善:** アクセシビリティ チェックで、文書のアクセシビリティを向上させるための国際標準のサポートと推奨事項が更新されました。[詳細情報](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 - **SVG サポートの強化:** フィルターが適用された SVG を挿入できます。[詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **静的なドキュメントから魅力的なドキュメントへの変換:** ドキュメントを、すべてのデバイスに対応する対話型の使いやすい Web ページに変換します。[詳細情報](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
 
 ### <a name="word-non-security-updates"></a>Word: セキュリティ以外の更新プログラム
 - メモリ不足を示すメッセージが表示される原因となる問題を修正します。
