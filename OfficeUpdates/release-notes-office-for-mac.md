@@ -3,19 +3,19 @@ title: Office for Mac のリリース ノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/14/2018
+ms.date: 01/16/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 サブスクライバー向け Office for Mac リリース用リリース ノートを IT プロフェッショナルに提供
-ms.openlocfilehash: 99fef039dcc905c0d0e71df61941951f993570cc
-ms.sourcegitcommit: 6c090794632dc563050b8457ed2058dbe98791ea
+ms.openlocfilehash: b92a6a2af96d694576bcc4a51c31de0ba06b8140
+ms.sourcegitcommit: 2a4ac53fe0504a8bd82b83fd2802343af1d66105
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/14/2018
-ms.locfileid: "27279708"
+ms.lasthandoff: 01/16/2019
+ms.locfileid: "28325457"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac のリリース ノート
 
@@ -33,6 +33,23 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 > - ダウンロード リンクは、最新のリリースにのみ記します。
 > - Microsoft AutoUpdate は、Microsoft のさまざまな Mac 製品への更新プログラムを提供します。そのため、Office for Mac を実行していない場合でも、Microsoft AutoUpdate を更新する通知が表示される場合があります。
 > - Microsoft では多くの場合、一定期間にわたって毎月のチャネル、機能 (および場合によっては修正プログラム) を展開します。これにより、幅広いユーザーに機能を公開する前にスムーズに動作するかどうかを確認することができます。したがって、下記のものが表示されない場合でも、心配する必要はなく、いずれは表示されます。[詳細情報](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+
+## <a name="january-2019-release"></a>2019 年 1 月リリース
+
+ **リリース日:** 2019 年 1 月 16 日 
+  
+ *バージョン 16.21.0 (ビルド 190101500)* 
+  
+このリリースでは、次の更新プログラムを提供します。
+
+|**アプリケーション**|**機能の更新プログラム**|**セキュリティの更新プログラムを入手できます。**|**更新プログラム パッケージのダウンロード リンク**|
+|:-----|:-----|:-----|
+|Word  <br/>| **iPhone から直接 Word へ:** Apple Continuity Camera を使用して、写真を iPhone から文書へ挿入します。macOS Mojave が必要です。[詳細情報](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> **ドキュメントに機密ラベルを適用する:** ドキュメントに機密ラベルを適用すると、ドキュメントは組織の情報保護ポリシーに準拠したものになります。[詳細情報](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>| [CVE-2019-0561](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2019-0561): Microsoft Word の情報漏えいの脆弱性  <br/><br/> [CVE-2019-0585](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2019-0585): Microsoft Word のリモート コード実行の脆弱性 |[Word の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011500_Updater.pkg) <br/>|
+|Excel  <br/>| **コメントを利用して共同作業を行う:** 返信ボックスが組み込まれているので、スプレッドシートで直接会話を続けることができます。[詳細情報](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)<br/><br/> **ワークシートに機密ラベルを適用する:** ワークシートに機密ラベルを適用すると、ワークシートは組織の情報保護ポリシーに準拠したものになります。[詳細情報](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/> | <br/><br/>  |[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.21.19011500_Updater.pkg) <br/>|
+|PowerPoint  <br/>| **配布資料にスライド番号を印刷する:** プレゼンテーションを配布資料として印刷すると、各スライドにスライド番号が表示されます。 <br/><br/> **プレゼンテーションに機密ラベルを適用する:** プレゼンテーションに機密ラベルを適用すると、プレゼンテーションは組織の情報保護ポリシーに準拠したものになります。[詳細情報](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/> | <br/>|[PowerPoint の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.21.19011500_Updater.pkg) <br/>|
+|Outlook  <br/>| **メッセージに機密ラベルを適用する:** メッセージに機密ラベルを適用すると、メッセージは組織の情報保護ポリシーに準拠したものになります。[詳細情報](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>  ||[Outlook の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011500_Updater.pkg) <br/>|
+|Microsoft Auto Update 4.7 <br/>| インストール処理の一環として自動更新デーモンが追加されました。これにより、これまでユーザーに表示されていた、わかりにくいセキュリティ ダイアログ ボックスが廃止されます。 <br/><br/> Microsoft AutoUpdate のセキュリティ機能が強化され、SHA256 証明書がサポートされるようになりました。 <br/>|<br/> | [Microsoft AutoUpdate 更新パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
+
 
 ## <a name="december-2018-release"></a>2018 年 12 月リリース
 
