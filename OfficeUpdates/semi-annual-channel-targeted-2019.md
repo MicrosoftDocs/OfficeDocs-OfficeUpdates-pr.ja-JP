@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル (対象指定) リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 54c9b62bebb657ade63b8c72f1ce0430611dfee6
-ms.sourcegitcommit: 3a7ca9d5320f8d2b01d8ba7f0ee3b09dc41d2a7e
+ms.openlocfilehash: f0ed901d649115b8ea1c3b18339f835d48637b62
+ms.sourcegitcommit: 2a4ac53fe0504a8bd82b83fd2802343af1d66105
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "27773194"
+ms.lasthandoff: 01/16/2019
+ms.locfileid: "28325417"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年の半期チャネル (対象指定) リリースのリリース ノート
 
@@ -35,7 +35,11 @@ ms.locfileid: "27773194"
 
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム 
 
-- 予定表の同期エラーの原因となる問題を修正しました。
+- 空き時間検索でエラーの原因となる問題を修正しました。
+
+### <a name="word-non-security-updates"></a>Word: セキュリティ以外の更新プログラム
+
+- オープン パフォーマンスが向上します。
 
 
 > [!NOTE]
