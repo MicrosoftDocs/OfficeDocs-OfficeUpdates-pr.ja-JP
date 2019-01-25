@@ -3,19 +3,19 @@ title: 2018 年の半期チャネル (対象指定) リリースのリリース 
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/11/2018
+ms.date: 12/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2018 年の半期チャネル (対象指定) リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 86d500a64c2d4cf56ffa3562a5eb2eccc7e4844b
-ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
+ms.openlocfilehash: 0a1b2bece50e0ff9b7c4bfe825881a0ecae8cd46
+ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/12/2018
-ms.locfileid: "27241518"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "27258503"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>2018 年の半期チャネル (対象指定) リリースのリリース ノート
 
@@ -54,10 +54,9 @@ ms.locfileid: "27241518"
 - 同じデータの列にバインドされた複数のテーブル スライサーを作成した後で、そのデータの列を削除するとクラッシュする可能性がある問題を修正しました。
 - 列幅の自動調整オプションがオフになっているときに、フィルター処理されたクエリ テーブルにセルで折り返されたテキストが含まれていると、そのクエリ テーブルを最新の情報に更新しているときに Excel がクラッシュすることがある問題を修正しました。
 - Excel 2007 で保存したスライサーを新しいバージョンの Excel で開いたときに、そのスライサーに表示される項目数を変更するとクラッシュが発生する問題を修正しました。
-- [会話の履歴] フォルダーを開いているときにユーザーに応答停止が発生する原因になっていた問題を修正しました。
 - サポート要求を簡単に調査できるようにする、[診断の取得] ボタンのサポートを導入しました。
 
-### <a name="outlook-non-secirity-updates"></a>Outlook: セキュリティ以外の更新プログラム
+### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
 
 - [ルールと通知の管理] ダイアログ ボックスを起動するとユーザーにエラーが表示される原因になっていた問題を修正しました。
 - 従量制課金接続を使用しているときに、ユーザーが自分のメールボックスに DirectAccess 経由で接続できなくなる原因になっていた問題を修正しました。
@@ -65,6 +64,7 @@ ms.locfileid: "27241518"
 - インライン添付でアイテムを転送するときに、ユーザーに予期しない添付ファイルが表示される原因になっていた問題を修正しました。
 - OFT ファイルが添付ファイルとして送信された後に不完全にレンダリングされる原因になっていた問題を修正しました。
 - 共有予定表に会議を追加したときに、一部のアドイン ユーザーにクラッシュが発生する原因になっていた問題を修正しました。
+- [会話の履歴] フォルダーを開いているときにユーザーに応答停止が発生する原因になっていた問題を修正しました。
 
 ### <a name="project-non-security-updates"></a>Project: セキュリティ以外の更新プログラム
 
