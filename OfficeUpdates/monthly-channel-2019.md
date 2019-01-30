@@ -3,19 +3,19 @@ title: 2019 年の毎月のチャネル リリースのリリース ノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 01/23/2019
+ms.date: 01/24/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 9ea61602012e64525ef3e7c1a862c156597c4aa3
-ms.sourcegitcommit: 90b289350fc88e9f753464991feaa1c4c09b82c1
+ms.openlocfilehash: a49be8a79deb7b44c24411b17532f1b85d9760d3
+ms.sourcegitcommit: 17dbbdb71de9317f8a692128f49386123846393c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29442063"
+ms.lasthandoff: 01/25/2019
+ms.locfileid: "29530252"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年の毎月のチャネル リリースのリリース ノート
 
@@ -32,7 +32,7 @@ ms.locfileid: "29442063"
 ## <a name="version-1812-january-14"></a>バージョン 1812: 1 月 14 日
 *バージョン 1812 (ビルド 11126.20266)* 
 
-セキュリティ以外の更新プログラムのみ。詳細については近日公開の予定です。
+パフォーマンス上の問題に対処するセキュリティ関連ではない更新プログラムのみ。
 
 
 ## <a name="version-1812-january-8"></a>バージョン 1812: 1 月 8 日
@@ -60,7 +60,7 @@ ms.locfileid: "29442063"
 
 ### <a name="word-feature-updates"></a>Word: 機能の更新
 
-- **行フォーカスによる読解力の向上: ** ドキュメント内で行ごとの移動をスムーズに行います。一度に 1 行か、3 行か、5 行かを表示するようフォーカスを調整できます。[詳細情報](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
+- **行フォーカスによる読解力の向上:** ドキュメント内で行ごとの移動をスムーズに行います。一度に 1 行か、3 行か、5 行かを表示するようフォーカスを調整できます。[詳細情報](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
 - **静的なドキュメントから魅力的なドキュメントへの変換:** ドキュメントを、すべてのデバイスに対応する対話型の使いやすい Web ページに変換します。[詳細情報](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
 - **作業中にアクセシビリティ チェックを実行したままにする:** アクセシビリティ チェックを常に開いたままにしなくても、ドキュメントのアクセシビリティの問題を追跡できます。スペルチェックの場合のように、ステータス バーのインジケーターを介して、作業中に見つかったアクセシビリティの問題に Word が自動的にフラグを付けます。 
 

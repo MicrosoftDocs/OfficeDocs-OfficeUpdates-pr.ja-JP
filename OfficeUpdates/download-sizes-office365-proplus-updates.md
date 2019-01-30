@@ -3,19 +3,19 @@ title: Office 365 ProPlus の更新プログラムのダウンロード サイ�
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 01/23/2019
+ms.date: 01/24/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 各チャネルの Office 365 ProPlus の更新プログラムのダウンロード サイズの概算に関する情報を IT 技術者に提供します
-ms.openlocfilehash: d65d738bdfd0f1a36cf2f09cdb4f1d9935099409
-ms.sourcegitcommit: 90b289350fc88e9f753464991feaa1c4c09b82c1
+ms.openlocfilehash: 81fe906a9b9a26ec2a6465c0c8047e304c0eeb2d
+ms.sourcegitcommit: 17dbbdb71de9317f8a692128f49386123846393c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29442083"
+ms.lasthandoff: 01/25/2019
+ms.locfileid: "29530262"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 ProPlus の更新プログラムのダウンロード サイズ
 
@@ -44,8 +44,8 @@ ms.locfileid: "29442083"
   
 |**アップグレード前のリリース **|**リリース日**|**ダウンロード サイズの概算 (MB)**|
 |:-----|:-----|:-----|
-|バージョン 1812 (ビルド 11126.20188)  <br/> |2019 年 1 月 3 日  <br/> | TBD<br/> |
-|バージョン 1812 (ビルド 11126.20196)  <br/> |2019 年 1 月 8 日 <br/> |TBD<br/> |
+|バージョン 1812 (ビルド 11126.20196)  <br/> |2019 年 1 月 8 日 <br/> |81<br/> |
+|バージョン 1812 (ビルド 11126.20188)  <br/> |2018 年 12 月 11 日 <br/> |162<br/> |
 
 ## <a name="january-8-2019"></a>2019 年 1 月 8 日
 
