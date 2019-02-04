@@ -3,19 +3,19 @@ title: Office 365 ProPlus の更新履歴 (日付別の一覧)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 1/8/2019
+ms.date: 1/31/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT プロフェッショナルに、日付ごとに整理した Office 365 ProPlus リリースすべての一覧を、リリース ノートへのリンクを含めて提供します
-ms.openlocfilehash: 9bc0c8007bb551f1578eea1255a3e641e89fc510
-ms.sourcegitcommit: c61c91086d5d030946c9a1bfed0a3b5613fed14c
+ms.openlocfilehash: 1bb67d3e0afd2c1029668b25637a97f94b8bd76e
+ms.sourcegitcommit: f9a57be62ba54fec2bf99224ac02b3d279867844
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/11/2019
-ms.locfileid: "27801504"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29690759"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 ProPlus の更新履歴 (日付別の一覧)
 
@@ -31,7 +31,7 @@ Office 365 ProPlus は、新機能、セキュリティ更新プログラム、�
  
 |**チャネル**|**バージョン**|**ビルド**|**リリース日**|**バージョンのサポート期限**|
 |:-----|:-----|:-----|:-----|:-----|
-|月次  <br/> |1812  <br/> |11126.20196 <br/> | 2019 年 1 月 8 日 <br/> |バージョン 1901 がリリースされました <br/>|
+|月次  <br/> |1901  <br/> |11231.20130<br/> | 2019 年 1 月 31 日 <br/> |バージョン 1902 がリリースされました <br/>|
 |半期 (対象指定)  <br/> |1808  <br/> |10730.20264 <br/> |  2019 年 1 月 8 日 <br/> | 2019 年 3 月 12 日 <br/>|
 |半期 <br/> |1808  <br/> | 10730.20264<br/> | 2019 年 1 月 8 日  <br/> |  2020 年 3 月 10 日 <br/>|
 |半期 <br/> |1803  <br/> | 9126.2351  <br/> | 2019 年 1 月 8 日  <br/> |  2019 年 9 月 10 日 <br/>|
@@ -45,6 +45,8 @@ Office 365 ProPlus は、新機能、セキュリティ更新プログラム、�
 
 |**年**|**リリース日**|**月次チャネル**|**半期チャネル (対象指定)**|**半期チャネル**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|1 月 31 日   |[バージョン 1901 (ビルド 11231.20130)](monthly-channel-2019.md#version-1901-january-31)| | |
+|2019|1 月 14 日   |[バージョン 1812 (ビルド 11126.20266)](monthly-channel-2019.md#version-1812-january-14)| | |
 |2019|1 月 8 日 |[バージョン 1812 (ビルド 11126.20196)](monthly-channel-2019.md#version-1812-january-8)|[バージョン 1808 (ビルド 10730.20264)](semi-annual-channel-targeted-2019.md#version-1808-january-8) |[バージョン 1808 (ビルド 10730.20264)](semi-annual-channel-2019.md#version-1808-january-8)  <br/>  [バージョン 1803 (ビルド 9126.2351)](semi-annual-channel-2019.md#version-1803-january-8)  <br/> [バージョン 1708 (ビルド 8431.2366)](office365-proplus-security-updates.md#january-8-2019) |
 |2019|1 月 3 日   |[バージョン 1812 (ビルド 11126.20188)](monthly-channel-2019.md#version-1812-january-3)| | |
 |2018|12 月 11 日 |[バージョン 1811 (ビルド 11029.20108)](monthly-channel-2018.md#version-1811-december-11)|[バージョン 1808 (ビルド 10730.20262)](semi-annual-channel-targeted-2018.md#version-1808-december-11) |[バージョン 1803 (ビルド 9126.2336)](semi-annual-channel-2018.md#version-1803-december-11)  <br/>  [バージョン 1708 (ビルド 8431.2351)](semi-annual-channel-2018.md#version-1708-december-11)   |
