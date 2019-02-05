@@ -1,5 +1,5 @@
 ---
-title: Office の月次チャネル (対象指定) の更新履歴
+title: Office の月次チャンネル (対象指定) の更新履歴
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -9,7 +9,7 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: Windows デスクトップ用の月次チャネル 対象指定リリースの更新履歴を Insider の皆様に提供します。
+description: Windows デスクトップ用の月次チャンネル 対象指定リリースの更新履歴を Insider の皆様に提供します。
 ms.openlocfilehash: 0541583a6f29669e876b4cbdd97aa34a479b9e86
 ms.sourcegitcommit: af5ea1735bfc8cdead34a90d557fd348044afaab
 ms.translationtype: HT
@@ -17,13 +17,13 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 02/01/2019
 ms.locfileid: "29708735"
 ---
-# <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Windows 向け Office の月次チャネル (対象指定) チャンネルの更新履歴
+# <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Windows 向け Office の月次チャンネル (対象指定) チャンネルの更新履歴
 
-Insider の皆様。最新の更新プログラムがインストールされているかどうかを確認したり、最近の月次チャネル (対象指定) ビルドの一覧を探したりしている場合は、この記事をご活用いただけます。Insider プログラムの詳細については、[こちら](https://insider.office.com/)をクリックしてください。
+Insider の皆様。最新の更新プログラムがインストールされているかどうかを確認したり、最近の月次チャンネル (対象指定) ビルドの一覧を探したりしている場合は、この記事をご活用いただけます。Insider プログラムの詳細については、[こちら](https://insider.office.com/)をクリックしてください。
 
 ## <a name="office-insider-versions-and-builds"></a>Office Insider のバージョンとビルド
 
-月次チャネル (対象指定) レベル (以前の名前: Insider スロー) に登録している場合、Office の新しい機能更新プログラムをひと月に約 1 回 入手でき、重要な修正プログラムまたはセキュリティ更新プログラムが含まれる後続のビルドも入手できます。次の一覧は最近の月次チャネル (対象指定) バージョンとビルドを示し、**最も新しくリリースされたビルドを最初に示します**。新しいビルドには、以前のビルドに含まれるすべての更新プログラムが含まれます。リリース ノートを確認するには、 「[Office Insider の新着情報](https://support.office.com/ja-JP/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24)」を参照してください。
+月次チャンネル (対象指定) レベル (以前の名前: Insider スロー) に登録している場合、Office の新しい機能更新プログラムをひと月に約 1 回 入手でき、重要な修正プログラムまたはセキュリティ更新プログラムが含まれる後続のビルドも入手できます。次の一覧は最近の月次チャンネル (対象指定) バージョンとビルドを示し、**最も新しくリリースされたビルドを最初に示します**。新しいビルドには、以前のビルドに含まれるすべての更新プログラムが含まれます。リリース ノートを確認するには、 「[Office Insider の新着情報](https://support.office.com/ja-JP/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24)」を参照してください。
 
 **2019 年 1 月 31 日**<br/> バージョン 1901 (ビルド 11231.20130)<br/> 
 
@@ -52,7 +52,7 @@ Insider の皆様。最新の更新プログラムがインストールされて
 
 
   [
-  ![Facebook のアイコンが表示されている画像。 ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
+  ![Facebook のアイコンを表示している画像。 ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
 
 
 **新機能をいち早く取得**
