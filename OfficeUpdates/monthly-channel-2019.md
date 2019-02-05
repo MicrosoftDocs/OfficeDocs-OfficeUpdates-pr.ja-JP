@@ -3,19 +3,19 @@ title: 2019 年の毎月のチャネル リリースのリリース ノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 01/24/2019
+ms.date: 01/31/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: a49be8a79deb7b44c24411b17532f1b85d9760d3
-ms.sourcegitcommit: 17dbbdb71de9317f8a692128f49386123846393c
+ms.openlocfilehash: 3d3d89e04afc5b1db95e740c5064173bb5e465c2
+ms.sourcegitcommit: f9a57be62ba54fec2bf99224ac02b3d279867844
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2019
-ms.locfileid: "29530252"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29690679"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年の毎月のチャネル リリースのリリース ノート
 
@@ -29,11 +29,30 @@ ms.locfileid: "29530252"
  > [!NOTE]
 > - Office 365 ProPlus の各更新チャネルに対するセキュリティ更新プログラムの情報については、個別の一覧が「[セキュリティ更新プログラム](office365-proplus-security-updates.md)」に記載されます。 
 
+## <a name="version-1901-january-31"></a>バージョン 1901: 1 月 31 日
+*バージョン 1901 (ビルド 11231.20130)* 
+
+### <a name="excel-feature-updates"></a>Excel: 機能の更新
+
+- **コメントを利用して共同作業を行う:** 返信ボックスが組み込まれているので、スプレッドシートで直接会話を続けることができます。[詳細情報](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)
+
+### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
+
+- **ミームが表示される:** テキストまたは静的イメージだけでは十分ではない場合、アニメーション GIF を使用して要点を示すことができます。[詳細情報](https://support.office.com/article/114BB251-861F-41CD-B20F-7E7289630C5B)
+ 
+### <a name="visio-feature-updates"></a>Visio: 機能の更新
+
+- **Azure ステンシルが組み込まれている:** 多数の Azure ステンシルを使用してクラウド アプリの設計やアーキテクチャの計画を行うことができます。[詳細情報](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+
+### <a name="office-suite-feature-updates"></a>Office スイート: 機能の更新
+
+- **Office のサード パーティ アプリケーションでは office.js api を使用した SVG の挿入をサポート:** Office アドインとも呼ばれるサード パーティ アプリケーションで SVG を挿入できるようになりました。ユーザーは、個人の SVG コレクションを Office に結び付けることができます。開発者は、Office.js API を使用してこの機能を利用できます。
+
+
 ## <a name="version-1812-january-14"></a>バージョン 1812: 1 月 14 日
 *バージョン 1812 (ビルド 11126.20266)* 
 
 パフォーマンス上の問題に対処するセキュリティ関連ではない更新プログラムのみ。
-
 
 ## <a name="version-1812-january-8"></a>バージョン 1812: 1 月 8 日
 *バージョン 1812 (ビルド 11126.20196)* 

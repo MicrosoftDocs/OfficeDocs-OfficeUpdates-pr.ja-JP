@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: d77822fbe8a2fdf87f3c7f080dbc80272e0d9fd6
-ms.sourcegitcommit: 04ecc58188e4af42b54135fb7aa9681b1803f328
+ms.openlocfilehash: f63a635d72c11c940f295fe05be2ac12ed58a2d5
+ms.sourcegitcommit: f9a57be62ba54fec2bf99224ac02b3d279867844
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29647022"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29690729"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019 年の半期チャネル リリースのリリース ノート
 
