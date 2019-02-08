@@ -11,7 +11,7 @@
 #### [2018](monthly-channel-2018.md)
 #### [2017](monthly-channel-2017.md)
 #### [2016](monthly-channel-2016.md)
-
+#### [2015](monthly-channel-2015.md)
 
 ### 半期チャネル
 #### [2019](semi-annual-channel-2019.md)
@@ -24,11 +24,12 @@
 #### [2018](semi-annual-channel-targeted-2018.md)
 #### [2017](semi-annual-channel-targeted-2017.md)
 #### [2016](semi-annual-channel-targeted-2016.md)
+#### [2015](semi-annual-channel-targeted-2015.md)
 
-
-### Office Insider プログラム
+### Office Insider プログラム  
 #### [Insider チャネルの更新の履歴](update-history-office-insider.md)
 #### [月次チャネルの更新の履歴 (対象指定)](update-history-monthly-channel-targeted.md)
+####[リリース ノートの Insider チャネル](release-notes-office-insider.md)
 
 # Office for Mac
 ## [更新の履歴 (Office 365、2019)](update-history-office-for-mac.md)
