@@ -1,12 +1,41 @@
 ---
-タイトル:「リリース ノートの Office 内部者」ms.author: andrewmo 作成者: mikho マネージャー: andrewmo ms.date: 1/28/2019 ms.audience: 高速な Win32 ms.topic: ms.service を参照: o365 用リソース localization_priority: 重要な ms.collection: RelNotes_ProPlus説明:"内部関係者が提供高速視聴者の主な新機能、修正、または既知の問題の最新のリストを使用して
+タイトル:「リリース ノートの Office 内部者」ms.author: andrewmo 作成者: mikho マネージャー: andrewmo ms.date: 2/11/2019 ms.audience: 高速な Win32 ms.topic: ms.service を参照: o365 用リソース localization_priority: 重要な ms.collection: RelNotes_ProPlus説明:"内部関係者が提供高速視聴者の主な新機能、修正、または既知の問題の最新のリストを使用して
 ---
 
 # <a name="release-notes-for-office-insiders"></a>Office 内部関係者のリリース ノート
 
 この資料には、Word、Excel、PowerPoint、Outlook、アクセス、およびプロジェクトの Windows デスクトップの内部からのビルドのリリース ノートが含まれています。毎週、興味深い新機能、重要な修正プログラム、および重要な問題について理解する必要を強調します。多くの場合を展開機能 (および場合によっても修正) 内部関係者に一定の時間に注意してください。これにより、幅広いユーザーにこの機能をリリースする前に処理がスムーズに動作していることを確認することができます。下記のものが表示されない場合は、心配する必要がある場合が表示されます、最終的にします。  
 
-## <a name="february-1-2019-version-1902-build-1132620000"></a>2019 年 2 月 1日バージョン 1902 (ビルド 11326.20000)
+## <a name="february-9-2019-version-1902-build-1133020014"></a>2 月 9日 2019年バージョン 1902 (ビルド 11330.20014)
+
+
+## <a name="notable-fixes"></a>注目すべき修正プログラム
+
+### <a name="word"></a>Word 
+- 問題を修正して、いくつかのカスタマイズされたスタイルを適用できませんでしたオンラインの単語に
+- 豊富なオブジェクトを Word でコンテキストのプレビューに関する問題を修正しました
+- 場所リストの貼り付けになる Word がクラッシュ問題を修正しました
+
+### <a name="excel"></a>Excel
+- 通貨記号がない場合に数値の書式の後に付加されるスペースが表示されなく、問題が解決しました
+- 自動修正は問題の素材を検出
+
+### <a name="powerpoint"></a>PowerPoint
+- さまざまなパフォーマンスと安定性の修正
+
+### <a name="outlook"></a>Outlook
+- さまざまなパフォーマンスと安定性の修正
+
+### <a name="access"></a>Access
+- さまざまなパフォーマンスと安定性の修正
+
+### <a name="project"></a>Project
+- さまざまなパフォーマンスと安定性の修正
+
+
+
+
+## <a name="january-30-2019-version-1902-build-1132620000"></a>2019 年 1 月 30日バージョン 1902 (ビルド 11326.20000)
 
 
 ## <a name="notable-fixes"></a>注目すべき修正プログラム
