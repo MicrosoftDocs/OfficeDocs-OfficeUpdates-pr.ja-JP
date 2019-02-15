@@ -3,19 +3,19 @@ title: 2019 年の毎月のチャネル リリースのリリース ノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 01/31/2019
+ms.date: 02/12/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 3d3d89e04afc5b1db95e740c5064173bb5e465c2
-ms.sourcegitcommit: f9a57be62ba54fec2bf99224ac02b3d279867844
+ms.openlocfilehash: 9ad21789db5aa940eb879f14684d7e56c4ddfbb4
+ms.sourcegitcommit: 659d2bbb04f8ccfc7e03a9a23758e3feed9d5075
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29690679"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29954009"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年の毎月のチャネル リリースのリリース ノート
 
@@ -28,6 +28,11 @@ ms.locfileid: "29690679"
 
  > [!NOTE]
 > - Office 365 ProPlus の各更新チャネルに対するセキュリティ更新プログラムの情報については、個別の一覧が「[セキュリティ更新プログラム](office365-proplus-security-updates.md)」に記載されます。 
+
+## <a name="version-1901-february-12"></a>バージョン 1901: 2 月 12 日
+*バージョン 1901 (ビルド 11231.20174)* 
+
+セキュリティ更新プログラムの一覧は[こちら](office365-proplus-security-updates.md)
 
 ## <a name="version-1901-january-31"></a>バージョン 1901: 1 月 31 日
 *バージョン 1901 (ビルド 11231.20130)* 

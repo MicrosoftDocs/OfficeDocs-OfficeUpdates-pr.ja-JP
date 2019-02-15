@@ -3,19 +3,19 @@ title: 2019 年の半期チャネル リリースのリリース ノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 1/29/2019
+ms.date: 02/12/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: f63a635d72c11c940f295fe05be2ac12ed58a2d5
-ms.sourcegitcommit: f9a57be62ba54fec2bf99224ac02b3d279867844
+ms.openlocfilehash: 1290a8938e6d6308d2f59be900dd6d4e49105fd9
+ms.sourcegitcommit: 659d2bbb04f8ccfc7e03a9a23758e3feed9d5075
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29690729"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29954059"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019 年の半期チャネル リリースのリリース ノート
 
@@ -28,6 +28,68 @@ ms.locfileid: "29690729"
 
 > [!NOTE]
 > - Office 365 ProPlus の各更新チャネルに対するセキュリティ更新プログラムの情報については、個別の一覧が「[セキュリティ更新プログラム](office365-proplus-security-updates.md)」に記載されます。
+> - 半期チャネルのユーザーが Office ポータルから Office 365 をダウンロードして Windows 10 にインストールしたときに、既定では OneNote 2016 は含まれません。
+
+## <a name="version-1808-february-12"></a>バージョン 1808: 2 月 12 日
+*バージョン 1808 (ビルド 10730.20280)*
+
+### <a name="access-non-security-updates"></a>Access: セキュリティ以外の更新プログラム 
+
+- この更新プログラムでは、Access に日本の新元号のサポートを追加します。
+
+### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム 
+
+- 存在しなくなったフォルダーを参照するルールで、「1. ルールを管理しようとしたときにエラーが表示される」、および「2. クライアント側のルールの実行に失敗する」という問題を解決します。
+- キャッシュされた代理メールボックスが予測不可能な間隔で頻繁にハングする問題を解決します。
+- 会議の終了時間が翌日の午前 0 時に設定されていると、いくつかのビューで「終日会議」が意図したものよりも 1 日長く表示される問題を解決します。
+- 日本の元号を参照する新しい予約または会議を作成するとハングする問題を修正しました。
+
+### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
+
+- [Office 365 の一元展開](https://docs.microsoft.com/ja-JP/office/dev/add-ins/publish/centralized-deployment)を使用して展開したアドインが機能停止して使用できなくなる問題を修正しました。
+
+
+## <a name="version-1803-february-12"></a>バージョン 1803: 2 月 12 日
+*バージョン 1803 (ビルド 9126.2356)*
+
+*これは、2018 年 7 月から使用可能になった半期チャネル リリースです。これは、2019 年 9 月まで継続的にサポートされ、セキュリティ更新プログラムを受信します。ただし、新しい半期チャネル リリース — バージョン 1808 (ビルド 10730.20280) — が使用可能です。これには、新しい機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムが含まれます。*
+
+### <a name="access-non-security-updates"></a>Access: セキュリティ以外の更新プログラム 
+
+- この更新プログラムでは、Access に日本の新元号のサポートを追加します。
+
+### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム 
+
+- この更新プログラムでは、Excel に日本の新元号のサポートを追加します。
+
+### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
+
+- 日本の元号を参照する新しい予約または会議を作成するとハングする問題を修正しました。
+
+### <a name="project-non-security-updates"></a>Project: セキュリティ以外の更新プログラム
+- この更新プログラムでは、Project に日本の新元号のサポートを追加します
+
+### <a name="word-non-security-updates"></a>Word: セキュリティ以外の更新プログラム
+
+- この更新プログラムでは、Word に日本の新元号のサポートを追加します。
+
+### <a name="visio-non-security-updates"></a>Visio: セキュリティ以外の更新プログラム
+
+- この更新プログラムでは、Visio に日本の新元号のサポートを追加します。
+
+### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
+
+- [Office 365 の一元展開](https://docs.microsoft.com/ja-JP/office/dev/add-ins/publish/centralized-deployment)を使用して展開したアドインが機能停止して使用できなくなる問題を修正しました。
+
+## <a name="version-1708-february-12"></a>バージョン 1708: 2 月 12 日
+*バージョン 1708 (ビルド 8431.2372)*
+
+*これは、2018 年 1 月から使用可能になった半期チャネル リリースです。これは、2019 年 3 月まで継続的にサポートされ、セキュリティ更新プログラムを受信します。ただし、新しい半期チャネル リリースが使用可能になりました — バージョン 1808 (ビルド 10730.20280) — これには、新しい機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムが含まれます。*
+
+### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
+
+- [Office 365 の一元展開](https://docs.microsoft.com/ja-JP/office/dev/add-ins/publish/centralized-deployment)を使用して展開したアドインが機能停止して使用できなくなる問題を修正しました。
+
 
 ## <a name="version-1808-january-8"></a>バージョン 1808: 1 月 8 日
 *バージョン 1808 (ビルド 10730.20264)*
@@ -35,7 +97,6 @@ ms.locfileid: "29690729"
 ### <a name="access-feature-updates"></a>Access: 機能の更新
 
  - **新しいグラフを使用したデータの視覚化:** 11 種類のグラフから選択してフォームやレポートに追加することにより、データが見やすくなり、十分な情報に基づいて決定を下すことができます。[詳細情報](https://support.office.com/article/1a463106-65d0-4dbb-9d66-4ecb737ea7f7)
-
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
  - **共同編集:** ブック内で他のユーザーと同時に作業します。[詳細情報](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)

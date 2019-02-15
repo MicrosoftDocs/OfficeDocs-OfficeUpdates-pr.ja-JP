@@ -3,7 +3,7 @@ title: Project Server の更新プログラム
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 01/09/2019
+ms.date: 02/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: project-server-itpro
@@ -13,12 +13,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: Project Server 2013 と Project Server 2010 の更新プログラムを 1 か所で検索および管理できます。このページのリンクを使用して、更新プログラムに関する詳細な情報を取得し、更新プログラムをダウンロードしてください。
-ms.openlocfilehash: 78cf1ddaab810b239d74b4276ef12bb04a097ddb
-ms.sourcegitcommit: 3a7ca9d5320f8d2b01d8ba7f0ee3b09dc41d2a7e
+ms.openlocfilehash: befaaa2d69bfacbde84fa65774a21846135e7a55
+ms.sourcegitcommit: 395ea1e35ceea09a9782884f26016073945e1ec0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "27770108"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29964609"
 ---
 # <a name="project-server-updates"></a>Project Server の更新プログラム
 
@@ -28,8 +28,9 @@ ms.locfileid: "27770108"
   
 ## <a name="project-server-2013-update-history"></a>Project Server 2013 の更新履歴
   
-|**リリース日**|**KB 番号**|
+|**リリース日**|**サポート技術情報番号**|
 |:-----|:-----|:-----|
+|2019 年 2 月  <br/> |[KB4462151](https://support.microsoft.com/kb/4462151) <br/>|
 |2019 年 1 月  <br/> |[KB4461604](https://support.microsoft.com/kb/4461604) <br/>|
 |2018 年 12 月  <br/> |[KB4461553](https://support.microsoft.com/kb/4461553) <br/>|
 |2018 年 11 月  <br/> |[KB4461509](https://support.microsoft.com/kb/4461509) <br/>|
@@ -82,8 +83,9 @@ ms.locfileid: "27770108"
    
 ## <a name="project-server-2010-update-history"></a>Project Server 2010 の更新履歴
 
-|**リリース日**|**KB 番号**|
+|**リリース日**|**サポート技術情報番号**|
 |:-----|:-----|:-----|
+|2019 年 2 月  <br/>  |[KB4462179](https://support.microsoft.com/kb/4462179) <br/>|
 |2019 年 1 月  <br/>  |[KB4461618](https://support.microsoft.com/kb/4461618) <br/>|
 |2018 年 12 月  <br/>  |[KB4461572](https://support.microsoft.com/kb/4461572) <br/>|
 |2018 年 11 月  <br/>  |[KB4461525](https://support.microsoft.com/kb/4461525) <br/>|
