@@ -1,21 +1,21 @@
 ---
 title: Office for Mac のリリース ノート
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 01/24/2019
+ms.date: 2/12/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 サブスクライバー向け Office for Mac リリース用リリース ノートを IT プロフェッショナルに提供
-ms.openlocfilehash: f8b981f23c1d18c9f7da435d95314844a1ab4165
-ms.sourcegitcommit: 17dbbdb71de9317f8a692128f49386123846393c
+ms.openlocfilehash: ff9655bce5ea379f9164c249f8d17c17c27b61da
+ms.sourcegitcommit: 7c98e6f5ca63da673f6c86b348ab620d351018b2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/25/2019
-ms.locfileid: "29530292"
+ms.lasthandoff: 02/19/2019
+ms.locfileid: "29954099"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac のリリース ノート
 
@@ -33,6 +33,23 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 > - ダウンロード リンクは、最新のリリースにのみ記します。
 > - Microsoft AutoUpdate は、Microsoft のさまざまな Mac 製品への更新プログラムを提供します。そのため、Office for Mac を実行していない場合でも、Microsoft AutoUpdate を更新する通知が表示される場合があります。
 > - Microsoft では多くの場合、一定期間にわたって毎月のチャネル、機能 (および場合によっては修正プログラム) を展開します。これにより、幅広いユーザーに機能を公開する前にスムーズに動作するかどうかを確認することができます。したがって、下記のものが表示されない場合でも、心配する必要はなく、いずれは表示されます。[詳細情報](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+
+## <a name="february-2019-release"></a>2019 年 2 月リリース
+
+ **リリース日:** 2019 年 2 月 12 日 
+  
+ *バージョン 16.22.0 (ビルド 19021100)*
+
+ このリリースでは、次の更新プログラムを提供します。
+
+|**アプリケーション**|**機能の更新プログラム**|**セキュリティの更新プログラムを入手できます。**|**更新プログラム パッケージのダウンロード リンク**|
+|:-----|:-----|:-----|
+|Word  <br/>| **トラックパッドでスケッチする:** トラックパッドで指を動かし、画面上でインク フローを表示できます。[詳細](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/> | |[Word の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.22.19021100_Updater.pkg) <br/>|
+|Excel  <br/>| **トラックパッドでスケッチする:** トラックパッドで指を動かし、画面上でインク フローを表示できます。[詳細](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>  | [CVE-2019-0669](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2019-0669) <br/><br/>  |[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.22.19021100_Updater.pkg) <br/>|
+|PowerPoint  <br/>| **トラックパッドでスケッチする:** トラックパッドで指を動かし、画面上でインク フローを表示できます。[詳細](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/> | <br/>|[PowerPoint の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.22.19021100_Updater.pkg) <br/>|
+|Outlook  <br/>|  <br/><br/>  ||[Outlook の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.22.19021100_Updater.pkg) <br/>|
+|Microsoft Auto Update 4.7 <br/>| <br/>|<br/> | [Microsoft AutoUpdate 更新パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
+
 
 ## <a name="january-2019-release"></a>2019 年 1 月リリース
 
