@@ -3,19 +3,19 @@ title: Office for Mac のリリース ノート
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 2/12/2019
+ms.date: 2/20/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 サブスクライバー向け Office for Mac リリース用リリース ノートを IT プロフェッショナルに提供
-ms.openlocfilehash: ff9655bce5ea379f9164c249f8d17c17c27b61da
-ms.sourcegitcommit: 7c98e6f5ca63da673f6c86b348ab620d351018b2
+ms.openlocfilehash: 76bb531d3d1ade277ee81256407cfeefdac4ac4b
+ms.sourcegitcommit: cbf28ac3d54fe873f17d57e40714c2647bd4363a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "29954099"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "30128123"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac のリリース ノート
 
@@ -36,7 +36,18 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 
 ## <a name="february-2019-release"></a>2019 年 2 月リリース
 
- **リリース日:** 2019 年 2 月 12 日 
+**リリース日:** 2019 年 2 月 20 日 
+  
+ *バージョン 16.22.1 (ビルド 19022000)*
+
+ このリリースでは、次の更新プログラムを提供します。
+
+|**アプリケーション**|**機能の更新プログラム**|**セキュリティの更新プログラムを入手できます。**|**更新プログラム パッケージのダウンロード リンク**|
+|:-----|:-----|:-----|
+|Outlook  <br/>| Google アカウントの認証での問題が修正されました。<br/><br/> 予定表の同期での問題が修正されました。 <br/>  | |[Outlook の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.22.19022000_Updater.pkg) <br/>|
+ 
+
+**リリース日:** 2019 年 2 月 12 日 
   
  *バージョン 16.22.0 (ビルド 19021100)*
 
