@@ -38,14 +38,14 @@
 ## [MAU のリリース ノート](release-history-microsoft-autoupdate.md)
 
 # Office (永続版)
-## [Office 2019 の更新プログラム](update-history-office-2019.md)
-## [Office 2010、2013、2016 の更新プログラム (MSI)](office-updates-msi.md)
-## [Outlook 2010、2013、2016 の更新プログラム (MSI)](outlook-updates-msi.md)
+## [Office 2016 と 2019 の更新プログラム (C2R)](update-history-office-2019.md)
 ## [Office 2013 の更新プログラム (C2R)](update-history-office-2013.md)
 ## [Office 2010 の更新プログラム (C2R)](update-history-office-2010-click-to-run.md)
+## [Office 2010、2013、2016 の更新プログラム (MSI)](office-updates-msi.md)
+## [Outlook 2010、2013、2016 の更新プログラム (MSI)](outlook-updates-msi.md)
+## [Office 2016 .msp ファイル (MSI)](msp-files-office-2016.md)
+## [Office 2013 .msp ファイル (MSI)](msp-files-office-2013.md)
 ## [Skype for Business の更新プログラム (MSI)](https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates)
-## [Office 2016 の .msp ファイル](msp-files-office-2016.md)
-## [Office 2013 の .msp ファイル](msp-files-office-2013.md)
 
 # Office Server 製品
 ## [Exchange Server 更新プログラム](https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates)
