@@ -3,19 +3,19 @@ title: Office for Mac の更新履歴
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 2/12/2018
+ms.date: 2/26/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT プロフェッショナルに、office for Mac の最新更新プログラムに関する情報を提供します。それには、ダウンロード パッケージへのリンク、更新履歴が含まれます
-ms.openlocfilehash: c01806b141677f4af7dfe570802c1b352f1e0190
-ms.sourcegitcommit: cbf28ac3d54fe873f17d57e40714c2647bd4363a
+ms.openlocfilehash: ae14ceca103fb8ebfabb0cbb97403a0e564b638d
+ms.sourcegitcommit: 3af5f3ced6b4775a320ba0305a84faa7ec31e69e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "30128103"
+ms.lasthandoff: 02/26/2019
+ms.locfileid: "30294600"
 ---
 # <a name="update-history-for-office-for-mac"></a>Office for Mac の更新履歴
 
@@ -58,13 +58,12 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
   
 |**プログラム**|**バージョン**|**パッケージ**|**詳細情報**|**SHA-1/ SHA-256 ハッシュ**|
 |:-----|:-----|:-----|:-----|:-----|
-|Microsoft AutoUpdate (MAU)  <br/> |4.7 (19011500)  <br/> |[ダウンロード](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |   この更新プログラム パッケージは、64 ビットです。 <br/><br/>[MAU のリリース履歴](release-history-microsoft-autoupdate.md)<br/> |90D8C109CEE96F1113FDEA7C263337545AD84883C97671A985A580C2D65D65B2 <br/>|
+|Microsoft AutoUpdate (MAU)  <br/> |4.8 (19022003)  <br/> |[ダウンロード](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |   この更新プログラム パッケージは、64 ビットです。 <br/><br/>[MAU のリリース履歴](release-history-microsoft-autoupdate.md)<br/> |CEC4E8458027571E69BACE1424079E0C883CCB944398EFA3A8D35ABCB28935B6 <br/>|
 |Skype for Business  <br/> |16.24.0.191 <br/> |[ダウンロード](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> |最新バージョンは、2019 年 1 月 31 日にリリースされました。 <br/><br/>[最新の更新プログラム](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> |  B35E2BE81C90D9E0ABFE1EC3A9384A3DE826C35D9F1304C111C56D5B44BB2A72 <br/> |
 |リモート デスクトップ | 10.2.7  | [ダウンロード](https://go.microsoft.com/fwlink/?linkid=868963) | このインストール パッケージは、64 ビットです。 <br/> <br/>[新機能](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |  f6d33f6573d9d274a4f8b17b5c998f523d440a038e8748e899af274a8b5cf911 <br/> |
 |Intune ポータル サイト |1.5 (52.1805002.000) [180509] | [ダウンロード](https://go.microsoft.com/fwlink/?linkid=869655)| [Microsoft Intune の新機能](https://docs.microsoft.com/intune/whats-new) | 6aa67dc0accea7a3745e29133d2591568ff9f1cb <br/> |
 |Office 2016 for Mac 用の Microsoft SharePoint オンプレミス Safari ブラウザー プラグイン  <br/> |15.32.0 (170309)  <br/> |[ダウンロード](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |このインストール パッケージは、64 ビットです。  <br/>| 45af4855ee23157b8f0a909e60a7e97865d1f8c0  <br/>  |
    
-
 ## <a name="release-history-for-office-for-mac"></a>Office for Mac のリリース履歴
 
 次の表に、Office for Mac のリリース履歴情報とダウンロード リンクを示します。この表はリリース日順になっていて、最新のリリース日のものが先頭です。バージョン番号の後に、YYMMDD という形式のビルド日付を括弧内に記しします。2016 年 8 月 22 日以降は、すべてのリリースが 64 ビットです。2016 年 8 月 22 日より前のリリースはすべて 32 ビットです。
