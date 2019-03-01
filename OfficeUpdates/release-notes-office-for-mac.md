@@ -3,19 +3,19 @@ title: Office for Mac のリリース ノート
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 2/20/2019
+ms.date: 2/26/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 サブスクライバー向け Office for Mac リリース用リリース ノートを IT プロフェッショナルに提供
-ms.openlocfilehash: 76bb531d3d1ade277ee81256407cfeefdac4ac4b
-ms.sourcegitcommit: cbf28ac3d54fe873f17d57e40714c2647bd4363a
+ms.openlocfilehash: dd5e573544acd6a9950b4d28f63980e044913e7b
+ms.sourcegitcommit: 3af5f3ced6b4775a320ba0305a84faa7ec31e69e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "30128123"
+ms.lasthandoff: 02/26/2019
+ms.locfileid: "30294610"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac のリリース ノート
 
@@ -34,6 +34,15 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 > - Microsoft AutoUpdate は、Microsoft のさまざまな Mac 製品への更新プログラムを提供します。そのため、Office for Mac を実行していない場合でも、Microsoft AutoUpdate を更新する通知が表示される場合があります。
 > - Microsoft では多くの場合、一定期間にわたって毎月のチャネル、機能 (および場合によっては修正プログラム) を展開します。これにより、幅広いユーザーに機能を公開する前にスムーズに動作するかどうかを確認することができます。したがって、下記のものが表示されない場合でも、心配する必要はなく、いずれは表示されます。[詳細情報](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
+## <a name="february-2019-release"></a>2019 年 2 月リリース
+
+**リリース日:** 2019 年 2 月 26 日
+
+ このリリースでは、次の更新プログラムを提供します。
+
+|**アプリケーション**|**機能の更新プログラム**|**セキュリティの更新プログラムを入手できます。**|**更新プログラム パッケージのダウンロード リンク**|
+|:-----|:-----|:-----|
+|Microsoft AutoUpdate 4.8 <br/>| MacOS 10.10 の MAU オプトイン自動更新プロンプトの問題が修正されました <br/><br/> MAU ApplicationID が 'MSau03' から 'MSau04' に更新されました <br/><br/> 他のバージョン実行中のインストールのための MAU Privileged Helper の問題が修正されました <br/>|<br/> | [Microsoft AutoUpdate 更新パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.8.19022003_Updater.pkg)|
 ## <a name="february-2019-release"></a>2019 年 2 月リリース
 
 **リリース日:** 2019 年 2 月 20 日 
