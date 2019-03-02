@@ -1,12 +1,44 @@
 ---
-タイトル: 「Release Notes for Office insider」 (執筆者向け) andrewmo: mikho manager: andrewmo ms. date: 2/15/2019 ミリ秒: Win32 Fast ms. トピック: リファレンス: proplus-送受信: RelNotes_ProPlus (::説明: "主要な新機能、修正プログラム、既知の問題の最新リストを、insider Fast ユーザーに提供します。
+タイトル: 「Release Notes for Office insider」 (執筆者向け) andrewmo: mikho manager: andrewmo ms. date: 3/1/2019 ミリ秒: Win32 Fast ms. トピック: リファレンス: proplus-送受信: RelNotes_ProPlus (::説明: "主要な新機能、修正プログラム、既知の問題の最新リストを、insider Fast ユーザーに提供します。
 ---
 
 # <a name="release-notes-for-office-insiders"></a>Office insider のリリースノート
 
 この記事には、Windows デスクトップ用の Word、Excel、PowerPoint、Outlook、Access、Project の Insider ビルドのリリースノートが記載されています。毎週、興味深い新機能、重要な解決策、および重要な問題については強調します。多くの場合、機能 (および場合によっては修正) は、長期間にわたって公開者にロールアウトされます。これにより、機能をより幅広い対象ユーザーに公開する前に、円滑に機能することができます。そのため、以下のような情報が表示されない場合でも、最終的には取得しないようにしてください。  
 
-## <a name="february-12-2019-version-1902-build-1133020014"></a>12 2019 年2月バージョン 1902 (ビルド 11330.20014)
+## <a name="february-25-2019-version-1903-build-1133020014"></a>2019年2月25日バージョン 1903 (ビルド 11330.20014)
+
+
+## <a name="notable-fixes"></a>注目すべき修正:
+
+### <a name="word"></a>Word 
+- [オプション] で [ESC] を押したときに発生したクラッシュの問題を修正しました
+- Word から PowerPoint Online にコピー & 貼り付けを行うと、問題が修正されました。
+
+### <a name="excel"></a>Excel
+- 保護されたドキュメントおよび編集可能なドキュメントが開かれたときに、Excel のセルをコピーすると CPU 使用率が高くなるという問題を修正しました。
+
+### <a name="powerpoint"></a>PowerPoint
+- PowerPoint で @Mentions を使用すると、スライドイメージサイズの問題が修正されました。
+
+### <a name="outlook"></a>Outlook
+- 選択した時系列の並べ替えが Outlook の検索に許可されていないという問題を修正しました。
+- 特定の電子メールに対して [このタスクを開く] ワークフローリボンボタンが応答しない問題を修正しました
+- ユーザーが会議室のファインダーで利用可能な会議室を選択した後に Outlook がオンプレミスルームでクリアされなかったという問題を修正しました。
+
+### <a name="access"></a>Access
+- datasource を使用して再リンクテーブルを確認するときに表示されるプロンプトテキストを更新しました
+- 白の背景に白いテキストを含む保存済みのインポート/エクスポートダイアログを暗いテーマで修正しました
+- Yes/No 型フィールドの Display コントロールプロパティをテーブルデザインのテキストボックスに設定できないという問題を修正しました
+
+### <a name="project"></a>Project
+- さまざまなパフォーマンスと安定性の修正
+
+</BR></BR>
+
+
+
+## <a name="february-12-2019-version-1903-build-1133020014"></a>12 2019 年2月バージョン 1903 (ビルド 11330.20014)
 
 ## <a name="whats-new"></a>新機能:
 
@@ -73,6 +105,7 @@ SmartArt と同じ方法で変形を使用する
 新しいアカウントマネージャーは、すべての仕事と個人のアカウントを1つの場所に表示し、それらを切り替えることができるようにします。この更新された操作により、ログインしている方法が明確になります。また、最初にサインインしなくても、または複雑なダイアログを使用して仕事と個人のアカウントを切り替えることができます。
 
 
+![MeMock](Images/MeMock.png)
 
 #### <a name="scenarios-to-try"></a>次のシナリオを試してみてください。
 - アカウントを切り替える
@@ -103,7 +136,7 @@ SmartArt と同じ方法で変形を使用する
 
 
 </BR></BR>
-## <a name="february-9-2019-version-1902-build-1133020014"></a>9 2019 年2月バージョン 1902 (ビルド 11330.20014)
+## <a name="february-9-2019-version-1903-build-1133020014"></a>9 2019 年2月バージョン 1903 (ビルド 11330.20014)
 
 
 ## <a name="notable-fixes"></a>注目すべき修正:
