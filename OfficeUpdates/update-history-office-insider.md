@@ -3,19 +3,19 @@ title: Office Insider チャンネル の更新履歴
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 02/25/2019
+ms.date: 03/01/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Windows デスクトップ用の月次チャンネル Insider ファースト リリースの更新履歴を Insider の皆様に提供します。
-ms.openlocfilehash: 457201db47b2c4adcca335d8d24078af6a4acf30
-ms.sourcegitcommit: a5af28fd94e1c4fc54b4ce745ee3271e25c994bc
+ms.openlocfilehash: bcda4695c35146289f5dbcbc8014775243688a15
+ms.sourcegitcommit: 387d908317422401386311c406299e9515a67566
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/25/2019
-ms.locfileid: "30247699"
+ms.lasthandoff: 03/02/2019
+ms.locfileid: "30361752"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Office Insider チャンネル の更新履歴
 
@@ -26,6 +26,8 @@ Insider の皆様。最新の更新プログラムがインストールされて
 Insider レベルに登録している場合は、新機能や強化された機能が含まれた更新プログラムを頻繁に取得できます。次の一覧は、最新の Insider のバージョンとビルドの更新履歴を示し、**最も新しくリリースされたビルドを最初に示しています**。新しいビルドには、以前のビルドに含まれるすべての更新プログラムが含まれます。 
 
 リリース ノートを確認するには、「[Windows デスクトップ版 Office のリリース ノート](https://support.office.com/ja-JP/article/insider-release-notes-for-office-for-windows-desktop-523b3d33-8f46-4c79-b427-fdcf40c0b433)」を参照してください。
+
+**2019 年 3 月 1 日**<br/> バージョン 1902 (ビルド 11425.20036)<br/> 
 
 **2019 年 2 月 25 日**<br/> バージョン 1902 (ビルド 11414.20014)<br/> 
 
