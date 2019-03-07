@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 1290a8938e6d6308d2f59be900dd6d4e49105fd9
-ms.sourcegitcommit: 659d2bbb04f8ccfc7e03a9a23758e3feed9d5075
+ms.openlocfilehash: 458fa2e39114be16e1d5c0beb6e34db775b6d21a
+ms.sourcegitcommit: da035c849558e458f9c7603fe0646915a5702f26
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29954059"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466114"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019 年の半期チャネル リリースのリリース ノート
 
@@ -227,8 +227,12 @@ ms.locfileid: "29954059"
 - **ダイアグラムとソースの同期を維持:** Visio でデータ ビジュアライザーのダイアグラムを編集する場合、リンクされた Excel ソース データを最新のダイアグラム コンテンツに更新することができます。
 - **データ ビジュアライザー監査テンプレート:** Excel からコンテンツをインポートし、金融取引や在庫管理などの監査図を作成します。
 - **スターター図面:** 組織図、ブレーンストーミング、SDL のテンプレートに新しいダイアグラムが追加され、すばやく開始して実行することができます。
- - **Visio 図形から Word 文書を作成する:** 図形やメタデータなどのダイアグラム コンテンツを Word 文書に自動的に追加します。次にその文書をカスタマイズして、プロセス ガイドラインや操作マニュアルを作成します。[詳細情報](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+- **Visio 図形から Word 文書を作成する:** 図形やメタデータなどのダイアグラム コンテンツを Word 文書に自動的に追加します。次にその文書をカスタマイズして、プロセス ガイドラインや操作マニュアルを作成します。[詳細情報](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
 
+### <a name="office-suite-security-update"></a>Office スイート: セキュリティ更新プログラム
+
+- 
+  **セキュリティ上の理由から、Office での Flash、Silverlight、および Shockwave のコントロールのアクティブ化がブロックされる:** セキュリティ上の理由から、Windows 上の Microsoft Office for Office 365 の新しいビルドでは、Flash、Silverlight、および Shockwave のコントロールのアクティブ化がブロックされます。詳細については、[こちら](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)および[こちら](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)をご覧ください。
  
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 - 特定のシナリオで更新プログラムのインストールが長くかかる原因となった問題を修正しました。
