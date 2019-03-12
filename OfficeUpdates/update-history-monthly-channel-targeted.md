@@ -3,19 +3,19 @@ title: Office の月次チャンネル (対象指定) の更新履歴
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 03/01/2019
+ms.date: 03/08/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Windows デスクトップ用の月次チャンネル 対象指定リリースの更新履歴を Insider の皆様に提供します。
-ms.openlocfilehash: f30eef0585fda90bc28737419386c84469c3ea6c
-ms.sourcegitcommit: 387d908317422401386311c406299e9515a67566
+ms.openlocfilehash: a4b79be302debe7782f193ff15de65888c8d30a1
+ms.sourcegitcommit: 1efbc1c32ff19eed3fee3eb9ae5d67f1d6c036c7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/02/2019
-ms.locfileid: "30361732"
+ms.lasthandoff: 03/09/2019
+ms.locfileid: "30512776"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Windows 向け Office の月次チャンネル (対象指定) チャンネルの更新履歴
 
@@ -24,6 +24,12 @@ Insider の皆様。最新の更新プログラムがインストールされて
 ## <a name="office-insider-versions-and-builds"></a>Office Insider のバージョンとビルド
 
 月次チャンネル (対象指定) レベル (以前の名前: Insider スロー) に登録している場合、Office の新しい機能更新プログラムをひと月に約 1 回 入手でき、重要な修正プログラムまたはセキュリティ更新プログラムが含まれる後続のビルドも入手できます。次の一覧は最近の月次チャンネル (対象指定) バージョンとビルドを示し、**最も新しくリリースされたビルドを最初に示します**。新しいビルドには、以前のビルドに含まれるすべての更新プログラムが含まれます。リリース ノートを確認するには、 「[Office Insider の新着情報](https://support.office.com/ja-JP/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24)」を参照してください。
+
+> [!NOTE]
+> - 更新履歴はリリースされたすべてのビルドをここで一覧表示します
+> - リリース ノートは、更新される頻度はもうすこし少なく、更新プログラムの複数のビルドを最新の発行済みリリース ノートのビルド番号までまとめたものである場合があります
+
+**2019 年 3 月 2 日**<br/> バージョン 1902 (ビルド 11328.20146)<br/>
 
 **2019 年 3 月 1 日**<br/> バージョン 1902 (ビルド 11328.20140)<br/>
 
