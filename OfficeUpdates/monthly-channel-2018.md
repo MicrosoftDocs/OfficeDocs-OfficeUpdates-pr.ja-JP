@@ -3,19 +3,19 @@ title: 2018 年の毎月のチャネル リリースのリリース ノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 1/11/2019
+ms.date: 3/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2018 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 9a12200522acbb2f46f7a814affa4b2be5d8d7b9
-ms.sourcegitcommit: 213c572ed7392c994fc8c902bfb9d1e5aa412a4b
+ms.openlocfilehash: db7e95f6140b84b4f41c7172868ca124dbb9de3b
+ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/12/2019
-ms.locfileid: "27992131"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30568380"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018 年の毎月のチャネル リリースのリリース ノート
 
@@ -57,7 +57,7 @@ ms.locfileid: "27992131"
 
 ### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
 
-- **ズームとスティック:** メッセージを読むたびにズームを調整するのではなく、すべてのメッセージに使用する既定値を選択します。[詳細情報](https://support.office.com/article/351EF767-00C1-4B9F-8744-1391DCB8F974)
+- **ズームとスティック:** メッセージを読むたびにズームを調整するのではなく、すべてのメッセージに使用する既定値を選択します。[詳細情報](https://support.office.com/article/56c090bc-e148-44a7-bd06-1290edd38983)
 - **Outlook 非同期移動メッセージ:** Outlook のユーザーの生産性を高めるために、非同期にメッセージを移動します。
 - **Outlook でユーザーの LinkedIn の詳細情報を表示:** 連絡先のプロファイル カードを開くとその人の LinkedIn プロフィールが表示されるようになり、そのユーザーについてもっと詳しく知ることができます。
 - **優先受信トレイのオン時とオフ時の操作の改良:** 優先受信トレイを使用していないユーザー向けに、[未開封] タブを全フォルダーのメッセージ一覧に復活させました。また、フラグが設定されたアイテムを簡単に見つけ出すために、フラグ別に並べ替える機能も追加しました。さらに、優先受信トレイの検索機能に、より使いやすい対話式モデルを採用しました。優先受信トレイはユーザーが検索を開始するまで表示されたままとなり、[結果] テキストは検索が完了した後に表示されます。
