@@ -1,5 +1,5 @@
 ---
-タイトル: 「Release Notes for Office insider」 (執筆者向け) andrewmo: mikho manager: andrewmo ms. date: 3/08/2019 ミリ秒: Win32 Fast ms. トピック: リファレンス: proplus-送受信: RelNotes_ProPlus (::説明: "主要な新機能、修正プログラム、既知の問題の最新リストを、insider Fast ユーザーに提供します。
+title: "Office insider のリリースノート" の andrewmo 作成者: v-almuzz manager: andrewmo ms. date: 3/15/2019: 送受信: proplus-::-:-:-: RelNotes_ のようにします。ProPlus description: "ユーザーに、主要な新機能、修正プログラム、既知の問題の最新リストを提供します。
 ---
 
 # <a name="release-notes-for-office-insiders"></a>Office insider のリリースノート
@@ -10,6 +10,32 @@
 > - リリースノートは毎週ポストされ、複数のビルドがコンパイルされる場合があります。
 > - リリースノートの発行日が実際のビルドのリリース日と一致しない場合があります。
 
+## <a name="march-15-2019"></a>2019年3月15日 
+バージョン 1904 (ビルド 11504.20000)
+
+## <a name="notable-fixes"></a>注目すべき修正:
+
+### <a name="word"></a>Word 
+- PDF として保存されたドキュメント内の画像の DPI が正しくないという問題を修正しました。
+
+### <a name="excel"></a>Excel
+- さまざまなパフォーマンスと安定性の修正
+
+### <a name="powerpoint"></a>PowerPoint
+- コメントウィンドウが表示されない、または正しく閉じることができない問題を修正しました
+- ビデオの削除時にアプリケーションがクラッシュすることがあるという問題を修正しました。
+- 一部のインスタンスで、アプリケーションが起動できない問題を修正しました
+
+### <a name="outlook"></a>Outlook
+- 日本語で表示したときに開封確認が正しくないという問題が修正されました。
+
+### <a name="access"></a>Access
+- さまざまなパフォーマンスと安定性の修正
+
+### <a name="project"></a>Project
+- さまざまなパフォーマンスと安定性の修正
+
+</BR></BR>
 
 ## <a name="march-8-2019"></a>2019年3月8日 
 バージョン 1903 (ビルド 11425.20036)
