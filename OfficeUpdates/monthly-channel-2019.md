@@ -3,19 +3,19 @@ title: 2019 年の毎月のチャネル リリースのリリース ノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 02/28/2019
+ms.date: 3/12/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: b9588f15460d0f7cf09b0148fea33273e054cdb0
-ms.sourcegitcommit: 3d11a3ea3ecd0c6bd397bed9297f6d16571a8161
+ms.openlocfilehash: 1c03ce02014c0b324678016cdb10e1c88f09da7b
+ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "30509300"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30568310"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年の毎月のチャネル リリースのリリース ノート
 
@@ -28,6 +28,11 @@ ms.locfileid: "30509300"
 
  > [!NOTE]
 > - Office 365 ProPlus の各更新チャネルに対するセキュリティ更新プログラムの情報については、個別の一覧が「[セキュリティ更新プログラム](office365-proplus-security-updates.md)」に記載されます。 
+
+## <a name="version-1902-march-12"></a>バージョン 1902: 3 月 12 日
+*バージョン 1902 (ビルド 11328.20158)* 
+
+- さまざまなバグやパフォーマンスが修正されました。
 
 ## <a name="version-1902-march-4"></a>バージョン 1902: 3 月 4 日
 *バージョン 1902 (ビルド 11328.20146)* 
@@ -48,19 +53,20 @@ ms.locfileid: "30509300"
 
 - **連続する会議の合間に時間を組み込む:** 既定で 5 分から 10 分早く会議を終了するように設定することで、出席者に休憩時間や場所の移動時間を与えることができます。 [詳細情報](https://support.office.com/ja-JP/article/Schedule-a-meeting-with-other-people-5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F#BKMK_endmeetingsearly)
 - **音声読み上げを使用してメールの内容を聞く:** Outlook では、メールのテキストを読み上げながら強調表示することができます。 読み上げ機能をオンにするには、[簡単操作] の設定に移動します。 [詳細情報](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
-
+- **フィルターが適用された SVG を挿入する機能:** Office ユーザーは、フィルターが適用された SVG を挿入できるようになりました。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新
 
 - **これまで以上に簡単にオンライン ビデオを挿入できるようになりました:** Vimeo または YouTube からビデオをスライドに挿入する場合は、 ビデオ ページへのリンクがあれば簡単に行えます。 [詳細情報](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
 - **手書きの数式の自動書式設定:** 手書きの数式を標準の文字に変換することができます。 変換を開始するには、[インクから数式] を選択して、手書きのメモを選択します。 [詳細情報](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **変更が発生したときに変更内容を自動的に保存する:** 変更が自動的に保存されるように、ファイルを OneDrive にアップロードしましょう。
-- **ハイパーリンクの色の設定:** ハイパーリンクの色は青だけではなくなりました。 お好みのフォント色を適用してください。 [詳細情報](https://support.office.com/article/988ed94c-82e9-4e2c-96a1-7ffd2c382ce8) 変更 24843
+- **フィルターが適用された SVG を挿入する機能:** Office ユーザーは、フィルターが適用された SVG を挿入できるようになりました。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="word-feature-updates"></a>Word: 機能の更新
 
 - **変更が発生したときに変更内容を自動的に保存する:** 変更が自動的に保存されるように、ファイルを OneDrive にアップロードしましょう。
 - **自動保存がオンになっていない理由を確認する** 自動保存がオフになっているときに自動保存トグルをクリックすると、吹き出しが表示されるようになりました。自動保存がオフになっている理由も示されます。 ドキュメントが OneDrive または SharePoint 上に存在しないという理由で自動保存ができない場合でも、1 つのボタンをクリックするだけでドキュメントを移動することができるようになります。
+- **フィルターが適用された SVG を挿入する機能:** Office ユーザーは、フィルターが適用された SVG を挿入できるようになりました。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
  
 ### <a name="office-suite-feature-updates"></a>Office スイート: 機能の更新
 
