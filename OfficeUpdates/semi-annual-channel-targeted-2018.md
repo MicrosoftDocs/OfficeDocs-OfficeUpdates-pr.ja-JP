@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2018 年の半期チャネル (対象指定) リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 0a1b2bece50e0ff9b7c4bfe825881a0ecae8cd46
-ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
+ms.openlocfilehash: ef2d238cd2219c9a72857f813528ef6806d53049
+ms.sourcegitcommit: 6289999d0145176584837695178b2c5bb0b961f5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "27258503"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "30684172"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>2018 年の半期チャネル (対象指定) リリースのリリース ノート
 
@@ -232,7 +232,6 @@ ms.locfileid: "27258503"
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新 
 - **クラウド ファイルの自動保存が既定で有効になる:** 2018 年 9 月の半期チャネル (対象指定) リリースでは、自動保存が既定で有効になります。これにより、OneDrive または SharePoint Online に保存されるドキュメントで変更が失われることをユーザーは心配する必要がありません。変更はクラウドに自動的に保存されるので、ユーザーは明示的に Ctrl + S キーを押すか、[保存] ボタンをクリックする必要はありません。ただし、ユーザーは、この動作の変更を理解し、プレゼンテーションを誤って変更しないように注意する必要があります。ユーザーは、画面の上部にある [自動保存] トグルを使用して自動保存をオフにできます。この変更についてユーザーに通知し、Office 365 でこの新機能を最大限に利用する方法について説明することをお勧めします。[自動保存の詳細](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)、[IT 管理者が自動保存について知っておくべきことの詳細](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
-- **セルおよび数式バーの編集の強化:** Ctrl + A キーを押して、セルまたは数式バーのテキストを選択できるようになりました。絵文字とその他の複雑な文字のサポートも強化されました。[詳細情報](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
 - **手書き内容の変換:** フリーハンドのメモや描画を読みやすいテキストや整った図形に変換して、洗練されたプレゼンテーションを作成します。 [詳細情報](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
 - **SVG サポートの強化:** フィルターが適用された SVG を挿入できます。[詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 - **ペンでスライドにタイトルを付ける:** ペンを使用してタイトルをインク入力すると、PowerPoint でテキストに変換されます。[詳細情報](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)

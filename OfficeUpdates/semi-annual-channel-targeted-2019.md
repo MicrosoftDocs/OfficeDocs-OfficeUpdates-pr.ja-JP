@@ -3,19 +3,19 @@ title: 2019 年の半期チャネル (対象指定) リリースのリリース 
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 3/13/2019
+ms.date: 3/19/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル (対象指定) リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 4c8b3cfc3c02a83b9c20e3fe5ec7c2db27d6ef0e
-ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
+ms.openlocfilehash: b8d90867b24a7765cf4e92c45d7592c9ee32b8b7
+ms.sourcegitcommit: 9f82708539207fced44253bdd88060c19500cf38
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30568100"
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "30691306"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年の半期チャネル (対象指定) リリースのリリース ノート
 
@@ -41,7 +41,6 @@ ms.locfileid: "30568100"
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
 
 - **コメントを利用して共同作業を行う:** 返信ボックスが組み込まれているので、スプレッドシートで直接会話を続けることができます。[詳細情報](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)
-- **\@メンションを使用してユーザーの注意を引く:** コメントで \@メンションを使うと、仕事仲間による入力が必要な場合にそのユーザーに知らせることができます。 詳細情報 コメントを利用して共同作業を行う: 返信ボックスが組み込まれているので、スプレッドシートで直接会話を続けることができます。 [詳細情報](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 - **新しい見た目のリボン アイコン:** 機能に変化はないので、心配はいりません。 さらに、どのサイズの画面でも、見た目がきれいです。 [詳細情報](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 - **フィルターが適用された SVG を挿入する機能:** Office ユーザーは、フィルターが適用された SVG を挿入できるようになりました。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 - **画像の背後を見えるようにする:** ワークシートに画像を挿入し、既定の設定から選択して、透明度の変化を確認するだけです。[詳細情報](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
