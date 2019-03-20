@@ -3,19 +3,19 @@ title: 2019 年の半期チャネル リリースのリリース ノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 02/12/2019
+ms.date: 3/6/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 458fa2e39114be16e1d5c0beb6e34db775b6d21a
-ms.sourcegitcommit: da035c849558e458f9c7603fe0646915a5702f26
+ms.openlocfilehash: e08933da489cc58552762b002cd2f6bf942cf76d
+ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466114"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30568360"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019 年の半期チャネル リリースのリリース ノート
 
@@ -29,6 +29,25 @@ ms.locfileid: "30466114"
 > [!NOTE]
 > - Office 365 ProPlus の各更新チャネルに対するセキュリティ更新プログラムの情報については、個別の一覧が「[セキュリティ更新プログラム](office365-proplus-security-updates.md)」に記載されます。
 > - 半期チャネルのユーザーが Office ポータルから Office 365 をダウンロードして Windows 10 にインストールしたときに、既定では OneNote 2016 は含まれません。
+
+## <a name="version-1808-march-12"></a>バージョン 1808: 3 月 12 日
+*バージョン 1808 (ビルド 10730.20304)*
+
+### <a name="word-non-security-updates"></a>Word: セキュリティ以外の更新プログラム
+
+- VBA で正しくないページ番号が返される問題を修正しました。
+- ローカル Word ファイルでの保存時間が向上しました。 
+
+### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
+
+- Office 365 Message Encryption メニューの "暗号化のみ" オプションを無効にするレジストリ キーが提供されました。
+
+### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
+
+- Office 更新プログラムをダウンロードしようとするとスタックすることがある問題を修正しました。
+
+## <a name="version-1803-march-12"></a>バージョン 1803: 3 月 12 日 
+今月の更新プログラムはありません。
 
 ## <a name="version-1808-february-12"></a>バージョン 1808: 2 月 12 日
 *バージョン 1808 (ビルド 10730.20280)*
