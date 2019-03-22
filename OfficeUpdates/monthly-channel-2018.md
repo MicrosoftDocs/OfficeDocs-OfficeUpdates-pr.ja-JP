@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2018 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: db7e95f6140b84b4f41c7172868ca124dbb9de3b
-ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
+ms.openlocfilehash: ce3df05b49a2ab538401ef5133381855a34528eb
+ms.sourcegitcommit: 54d1b258be39cf29a0c62c0dbfe9a2b8292a991d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30568380"
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "30697625"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018 年の毎月のチャネル リリースのリリース ノート
 
@@ -58,7 +58,7 @@ ms.locfileid: "30568380"
 ### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
 
 - **ズームとスティック:** メッセージを読むたびにズームを調整するのではなく、すべてのメッセージに使用する既定値を選択します。[詳細情報](https://support.office.com/article/56c090bc-e148-44a7-bd06-1290edd38983)
-- **Outlook 非同期移動メッセージ:** Outlook のユーザーの生産性を高めるために、非同期にメッセージを移動します。
+- **メッセージの移動中も作業が可能:** Outlook では、メッセージの移動がバックグラウンドで行われるようになったため、フォルダ間で多数のメッセージの移動が行われている間も作業を続けることができます。
 - **Outlook でユーザーの LinkedIn の詳細情報を表示:** 連絡先のプロファイル カードを開くとその人の LinkedIn プロフィールが表示されるようになり、そのユーザーについてもっと詳しく知ることができます。
 - **優先受信トレイのオン時とオフ時の操作の改良:** 優先受信トレイを使用していないユーザー向けに、[未開封] タブを全フォルダーのメッセージ一覧に復活させました。また、フラグが設定されたアイテムを簡単に見つけ出すために、フラグ別に並べ替える機能も追加しました。さらに、優先受信トレイの検索機能に、より使いやすい対話式モデルを採用しました。優先受信トレイはユーザーが検索を開始するまで表示されたままとなり、[結果] テキストは検索が完了した後に表示されます。
 - **SMIME の暗号化および署名されたメールでは、既定で外部コンテンツのダウンロードをブロック:** SMIME プロトコルに脆弱性があるため、Outlook が SMIME の暗号化または署名されたメッセージへの外部コンテンツのダウンロードをブロックします。セキュリティ上の脆弱性保護の観点から、ユーザーは Outlook UI において外部コンテンツをワンクリックでダウンロードすることはできません。[オプション] ダイアログには、ユーザーが以前の動作に戻すことができる新しいオプションが用意されています。 
