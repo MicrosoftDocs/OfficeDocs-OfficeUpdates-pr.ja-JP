@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル (対象指定) リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: c01b296758bed8c5bbcd908a9ad178d69a6d4645
-ms.sourcegitcommit: 54d1b258be39cf29a0c62c0dbfe9a2b8292a991d
+ms.openlocfilehash: 05050765ac9666d9559bb496820cc9fd3920725e
+ms.sourcegitcommit: 484c4d70dc2898a7c100ebf898f70da5318c4316
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/20/2019
-ms.locfileid: "30697615"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30741241"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年の半期チャネル (対象指定) リリースのリリース ノート
 
@@ -45,6 +45,7 @@ ms.locfileid: "30697615"
 - **フィルターが適用された SVG を挿入する機能:** Office ユーザーは、フィルターが適用された SVG を挿入できるようになりました。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 - **画像の背後を見えるようにする:** ワークシートに画像を挿入し、既定の設定から選択して、透明度の変化を確認するだけです。[詳細情報](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
 - **データの取得と変換をご利用の皆様:** データの取得と変換をよく利用していただいているユーザーの皆様に、サンプルからの列の機能が改善されたことをお知らせします。 また、多くのコネクタも強化されました。 [詳細情報](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
+- **改善された高解像度ディスプレイのサポート:** 複数のモニター、またはドッキングでラップトップを使用する場合、各ディスプレイの倍率設定が異なっていても Office アプリがすべてのディスプレイで鮮明に表示されるようになります。 [詳細情報](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
 
 ### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
 
@@ -58,12 +59,13 @@ ms.locfileid: "30697615"
 - **期間の新しい既定値:** [定期的なアイテム] ダイアログでは、期間に [終了日未定] の既定値が使われていました。 これにより、長期間実行される定期的なアイテムが作成され、時間と共に破損する可能性がありました。 既定値が予定表作成の推奨されるベスト プラクティスに一致するように、[定期的なアイテム] ダイアログ ボックスの既定値を [終了日] に更新します。
 - **Outlook のアラーム ダイアログから Teams 会議に参加する:** Outlook が今後の会議についてユーザーに通知する際、会議が Teams のオンライン会議の場合には、[オンラインで参加] ボタンが表示されます。これは、Outlook のアラート ダイアログから Skype for Business 会議に参加する場合に似ています。
 - **過去のイベントのリマインダーの表示を停止:** 終了したイベントのリマインダーを自動的に破棄するようにカレンダーを設定することができます。 [詳細情報](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
-- **安全なリンクの背後にある URL を表示する:** 安全なリンクは、メールで受け取った悪意のある URL からユーザーを保護するのに役立ちますが、元の URL は非表示になります。 安全なリンクをマウスでポイントするだけで、安全なリンクで保護されているリンクであっても、元の URL を表示できます。
+- **安全なリンクの背後にある URL を表示する:** 安全なリンクは、メールで受け取った悪意のある URL からユーザーを保護しますが、元の URL は非表示になります。 元の URL を確認するには、URL をマウスでポイントします。 Advanced Threat Protection のライセンスが必要です。 [詳細情報](https://products.office.com/ja-JP/exchange/advance-threat-protection)
 - **ズームとスティック:** メッセージを表示するたびにズームを調整するのではなく、すべてのメッセージに使用する既定値を選択します。 [詳細情報](https://support.office.com/article/56c090bc-e148-44a7-bd06-1290edd38983)
 - **メッセージ暗号化: 暗号化のみ IRM ポリシー:** 新しい暗号化のみオプションは、Office 365 Message Encryption ユーザーの [オプション] > [アクセス許可] に表示されます。 このオプションを使用すると、メッセージを暗号化して、組織の内外のユーザーに送信できます。
 - **BCC で受け取った場合の警告:** ブラインド カーボン コピーで受け取ったメールに対し、誤って全員に返信する前に、BCC のヒントで警告されます。
 - **洗練された [宛先] 行:** メッセージの宛先を指定するために [宛先] 行をクリックすると、選択されそうな受信者の候補が表示されます。 さらに、ユーザーの画像が表示されるので、正しいユーザーに送信しようとしていることを確認できます。 [詳細情報](https://support.office.com/article/147208AF-CA8E-4CDF-B71F-77BA81A54069)
 - **フィルターが適用された SVG を挿入する機能:** Office ユーザーは、フィルターが適用された SVG を挿入できるようになりました。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **改善された高解像度ディスプレイのサポート:** 複数のモニター、またはドッキングでラップトップを使用する場合、各ディスプレイの倍率設定が異なっていても Office アプリがすべてのディスプレイで鮮明に表示されるようになります。 [詳細情報](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新
 
@@ -106,6 +108,13 @@ ms.locfileid: "30697615"
 - **Office のサード パーティ アプリケーションでは office.js api を使用した SVG の挿入をサポート:** Office アドインとも呼ばれるサード パーティ アプリケーションで SVG を挿入できるようになりました。ユーザーは、個人の SVG コレクションを Office に結び付けることができます。開発者は、Office.js API を使用してこの機能を利用できます。
 - **Microsoft Teams のインストール:** Microsoft Teams は、Office 365 ProPlus の新規インストールでは既定でインストールされています。 [詳細情報](https://docs.microsoft.com/ja-JP/DeployOffice/teams-install)
 
+### <a name="skype-for-business-feature-updates"></a>Skype for Business: 機能の更新
+
+- **改善された高解像度ディスプレイのサポート:** 複数のモニター、またはドッキングでラップトップを使用する場合、各ディスプレイの倍率設定が異なっていても Office アプリがすべてのディスプレイで鮮明に表示されるようになります。 [詳細情報](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
+
+### <a name="teams-feature-updates"></a>Access: 機能の更新
+
+- **改善された高解像度ディスプレイのサポート:** 複数のモニター、またはドッキングでラップトップを使用する場合、各ディスプレイの倍率設定が異なっていても Office アプリがすべてのディスプレイで鮮明に表示されるようになります。 [詳細情報](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
 
 ## <a name="version-1808-february-12"></a>バージョン 1808: 2 月 12 日
 *バージョン 1808 (ビルド 10730.20280)* 

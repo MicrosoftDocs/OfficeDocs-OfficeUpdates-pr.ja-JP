@@ -3,19 +3,19 @@ title: 2018 年の毎月のチャネル リリースのリリース ノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 3/13/2019
+ms.date: 3/19/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2018 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: ce3df05b49a2ab538401ef5133381855a34528eb
-ms.sourcegitcommit: 54d1b258be39cf29a0c62c0dbfe9a2b8292a991d
+ms.openlocfilehash: be158a65c166e7f40dc9e0cd9729d2eb7e211e93
+ms.sourcegitcommit: 1e6a6868eec0b2e43ba2d06c469bf07907c89b9e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/20/2019
-ms.locfileid: "30697625"
+ms.lasthandoff: 03/21/2019
+ms.locfileid: "30737567"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018 年の毎月のチャネル リリースのリリース ノート
 
@@ -184,7 +184,7 @@ ms.locfileid: "30697625"
 
 ### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
 - **今後のリリース予定を確認:** 新しいユーザー エクスペリエンスを公開前にお試しになり、ご意見をお寄せください。[詳細情報](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
-- **安全なリンクの背後にある URL を表示する:** 安全なリンクは、メールで受け取った悪意のある URL からユーザーを保護するのに役立ちますが、元の URL は非表示になります。安全なリンクをマウスでポイントするだけで、安全なリンクで保護されているリンクであっても、元の URL を表示できるようになりました。
+- **安全なリンクの背後にある URL を表示する** 安全なリンクは、メールで受け取った悪意のある URL からユーザーを保護しますが、元の URL は非表示になります。 元の URL を確認するには、URL をマウスでポイントします。 Advanced Threat Protection のライセンスが必要です。 [詳細情報](https://products.office.com/ja-JP/exchange/advance-threat-protection)
 - **検索のスペルの修正候補を取得する:** 検索を実行すると、Outlook により、スペルの修正候補を使用したお勧めの検索クエリが提供されます。
 - **新しい見た目のリボン アイコン:** 機能に変化はないので、心配はいりません。さらに、どのサイズの画面でも、見た目がきれいです。[詳細情報](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
