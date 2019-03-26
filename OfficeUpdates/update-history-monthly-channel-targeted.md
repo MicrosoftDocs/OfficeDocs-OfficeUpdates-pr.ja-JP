@@ -3,19 +3,19 @@ title: Office の月次チャンネル (対象指定) の更新履歴
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 03/18/2019
+ms.date: 03/25/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Windows デスクトップ用の月次チャンネル 対象指定リリースの更新履歴を Insider の皆様に提供します。
-ms.openlocfilehash: 8d0dc92dffc1e7ef6b8b490243b41bd0aeec4ef7
-ms.sourcegitcommit: 9f82708539207fced44253bdd88060c19500cf38
+ms.openlocfilehash: 85e8f4d9d367ea9b4d308da792a3f0e21dafa1a1
+ms.sourcegitcommit: 81fc7c2e457664fe0c50ef8877de61fa5fd21538
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/20/2019
-ms.locfileid: "30568400"
+ms.lasthandoff: 03/26/2019
+ms.locfileid: "30800537"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Windows 向け Office の月次チャンネル (対象指定) チャンネルの更新履歴
 
@@ -28,6 +28,8 @@ Insider の皆様。最新の更新プログラムがインストールされて
 > [!NOTE]
 > - 更新履歴はリリースされたすべてのビルドをここで一覧表示します
 > - リリース ノートは、更新される頻度はもうすこし少なく、更新プログラムの複数のビルドを最新の発行済みリリース ノートのビルド番号までまとめたものである場合があります
+
+**2019 年 3 月 25 日**<br/> バージョン 1903 (ビルド 11425.20184)<br/>
 
 **2019 年 3 月 18 日**<br/> バージョン 1903 (ビルド 11425.20140)<br/>
 
