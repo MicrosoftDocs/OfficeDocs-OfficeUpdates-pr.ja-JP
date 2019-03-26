@@ -3,19 +3,19 @@ title: Office 365 ProPlus の更新プログラムのダウンロード サイ�
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 3/10/2019
+ms.date: 3/19/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 各チャネルの Office 365 ProPlus の更新プログラムのダウンロード サイズの概算に関する情報を IT 技術者に提供します
-ms.openlocfilehash: c543451237304a048c53ff87923d28ba92807b18
-ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
+ms.openlocfilehash: 649c2c37850c1a764515bd0dfb1217452d8640ab
+ms.sourcegitcommit: 1e6a6868eec0b2e43ba2d06c469bf07907c89b9e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30568200"
+ms.lasthandoff: 03/21/2019
+ms.locfileid: "30737547"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 ProPlus の更新プログラムのダウンロード サイズ
 
@@ -29,7 +29,7 @@ ms.locfileid: "30568200"
 
   
 > [!NOTE]
-> - 表に記載されているダウンロード サイズの概算は、Office 365 ProPlus の英語版 x86 バージョンにのみ適用されます。 
+> - 表に記載されているダウンロード サイズの概算は、Office 365 ProPlus の英語版 x64 バージョンにのみ適用されます  (2019 年 3 月 13 日より前のすべてのリリースには x86 サイズが表示されます)。
 > - ダウンロード サイズは概算です。実際のダウンロード サイズは異なる可能性がありますが、誤差はおそらく 50 MB 程度です。 
 > - リリース日と "\< \>" で囲まれていて斜体になっているビルド番号は変更される可能性があります。 
 > - 過去 4 か月のリリースだけが記載されています。

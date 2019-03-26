@@ -3,19 +3,19 @@ title: Office Insider チャンネル の更新履歴
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 03/12/2019
+ms.date: 03/19/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Windows デスクトップ用の月次チャンネル Insider ファースト リリースの更新履歴を Insider の皆様に提供します。
-ms.openlocfilehash: df55a06dc21013ee1d061f0031d5d9db312f45f8
-ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
+ms.openlocfilehash: cd4a6dd474302e7dc4f0896c5e9f6ab4480a340d
+ms.sourcegitcommit: 1e6a6868eec0b2e43ba2d06c469bf07907c89b9e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30568150"
+ms.lasthandoff: 03/21/2019
+ms.locfileid: "30737517"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Office Insider チャンネル の更新履歴
 
@@ -33,7 +33,9 @@ Insider レベルに登録している場合は、新機能や強化された機
 
 リリース ノートを確認するには、「[Windows デスクトップ版 Office のリリース ノート](https://docs.microsoft.com/ja-JP/OfficeUpdates/release-notes-office-insider)」を参照してください。
 
-**2019 年 3 月 12 日**<br/> バージョン 1903 (ビルド 11425.20096)<br/>
+**2019 年 3 月 18 日**<br/> バージョン 1904 (ビルド 11520.20004)<br/>
+
+**2019 年 3 月 11 日**<br/> バージョン 1904 (ビルド 11504.20000)<br/>
 
 **2019 年 3 月 1 日**<br/> バージョン 1903 (ビルド 11425.20036)<br/> 
 
