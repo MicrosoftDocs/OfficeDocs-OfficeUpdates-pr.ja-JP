@@ -3,31 +3,47 @@ title: 2019 年の毎月のチャネル リリースのリリース ノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 3/25/2019
+ms.date: 4/1/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 3936eadcf64bfcc75b5b7ea0afc6f57a848f2d5f
-ms.sourcegitcommit: 81fc7c2e457664fe0c50ef8877de61fa5fd21538
+ms.openlocfilehash: c8b1d204a39c443fe45feb087b99886ef1b2078d
+ms.sourcegitcommit: 7570500edd26426af50494223a56be02390cdc05
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/26/2019
-ms.locfileid: "30800527"
+ms.lasthandoff: 04/02/2019
+ms.locfileid: "31027887"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年の毎月のチャネル リリースのリリース ノート
 
-これらのリリース ノートでは、Office 365 ProPlus 用の 2019 年の毎月のチャネルの更新プログラムに含まれる新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムに関する情報を提供しています。
+これらのリリースノートには、Visio Pro for Office 365およびProject Online Desktop Clientを含む、2019年のOffice 365 ProPlusの毎月の更新プログラムチャンネルに含まれる新機能およびセキュリティ以外の更新に関する情報が記載されています。
  
  > [!NOTE]
-> - また、Visio Pro for Office 365 および Project Online デスクトップ クライアントの新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムについても説明しています。
 > - ここに記載されている情報は、Business Premium など一部の Office 365 プランに付属する Office のバージョンの、Office 365 Business にも該当します。
 > - Microsoft では多くの場合、一定期間にわたって毎月、機能 (および場合によっては修正プログラム) を展開します。これにより、幅広いユーザーに機能を公開する前にスムーズに動作するかどうかを確認することができます。したがって、下記のものが表示されない場合でも、心配する必要はなく、いずれは表示されます。[詳細情報](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  > [!NOTE]
 > - Office 365 ProPlus の各更新チャネルに対するセキュリティ更新プログラムの情報については、個別の一覧が「[セキュリティ更新プログラム](office365-proplus-security-updates.md)」に記載されます。 
+
+## <a name="version-1903-april-01"></a>Version 1903: April 01
+*Version 1903 (Build 11425.20202)*
+
+### <a name="excel-feature-updates"></a>Excel: 機能の更新
+
+- **コンテンツのリーチを拡大:** アクセシビリティの高いスプレッドシートを作成する必要がありますか? アクセシビリティ チェックを使用すると、アクセシビリティの問題を自動的に監視できます。 [校閲]>[アクセシビリティ チェック] をクリックすると、何か問題が見つかった場合に、ステータス バーに通知が表示されます。
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新
+
+- **よりよい変形操作:** 図形に名前を付けると、変形するときにより細かく制御できます。 [詳細情報](https://support.office.com/article/9bc7f48ff-f152-4ee8-9081-d3121788024f)
+
+- **コンテンツのリーチを拡大:** アクセシビリティの高いプレゼンテーションを作成する必要がありますか? アクセシビリティ チェックを使用すると、アクセシビリティの問題を自動的に監視できます。 [校閲]>[アクセシビリティ チェック] をクリックすると、何か問題が見つかった場合に、ステータス バーに通知が表示されます。
+
+### <a name="word-feature-updates"></a>Word: 機能の更新
+
+- **コンテンツのリーチを拡大:** アクセシビリティの高いドキュメントを作成する必要がありますか? アクセシビリティ チェックを使用すると、アクセシビリティの問題を自動的に監視できます。 [校閲]>[アクセシビリティ チェック] をクリックすると、何か問題が見つかった場合に、ステータス バーに通知が表示されます。
 
 ## <a name="version-1902-march-25"></a>バージョン 1902: 3 月 25 日
 *バージョン 1902 (ビルド 11328.20222)*
