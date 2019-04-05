@@ -1,7 +1,22 @@
 ---
-title: "Office insider のリリースノート" の andrewmo 作成者: v-almuzz manager: andrewmo ms. date: 3/22/2019: 送受信: proplus-::-:-:-: RelNotes_ のようにします。ProPlus description: "ユーザーに、主要な新機能、修正プログラム、既知の問題の最新リストを提供します。
+title: Office insider のリリースノート
+ms.author: andrewmo
+author: v-almuzz
+manager: andrewmo
+ms.date: 3/22/2019
+ms.audience: Win32 Fast
+ms.topic: reference
+ms.service: o365-proplus-
+localization_priority: Critical
+ms.collection: RelNotes_ProPlus
+description: 主要な新機能、修正、既知の問題の最新リストを、insider Fast ユーザーに提供します。
+ms.openlocfilehash: b73a8554aa9ec08c7d496af45707b970ada83046
+ms.sourcegitcommit: f6ed754e15781f220dd27086f75f6d6be06254b9
+ms.translationtype: MT
+ms.contentlocale: ja-JP
+ms.lasthandoff: 04/05/2019
+ms.locfileid: "31478544"
 ---
-
 # <a name="release-notes-for-office-insiders"></a>Office insider のリリースノート
 
 この記事には、Windows デスクトップ用の Word、Excel、PowerPoint、Outlook、Access、Project の Insider ビルドのリリースノートが記載されています。 毎週、興味深い新機能、重要な解決策、および重要な問題については強調します。 多くの場合、機能 (および場合によっては修正) は、長期間にわたって公開者にロールアウトされます。 これにより、幅広いユーザーに機能を公開する前にスムーズに動作するかどうかを確認することができます。 したがって、下記のものが表示されない場合でも、心配する必要はなく、いずれは表示されます。  
@@ -33,7 +48,7 @@ title: "Office insider のリリースノート" の andrewmo 作成者: v-almuz
 - access の特別なショートカットが作成された access でエラーメッセージを修正しました
 - リンクされた SharePoint からのデータが正しく表示されない問題を修正しました
 
-### <a name="project"></a>Project
+### <a name="project"></a>プロジェクト
 - 言語設定が中国語から英語に切り替わるという問題を修正しました。
 - SharePoint との同期時にアプリケーションがクラッシュする可能性があるという問題を修正しました。
 
@@ -61,7 +76,7 @@ title: "Office insider のリリースノート" の andrewmo 作成者: v-almuz
 ### <a name="access"></a>Access
 - さまざまなパフォーマンスと安定性の修正
 
-### <a name="project"></a>Project
+### <a name="project"></a>プロジェクト
 - さまざまなパフォーマンスと安定性の修正
 
 </BR></BR>
@@ -109,7 +124,7 @@ Microsoft Search を使用すると、作業を完了するために必要なす
 - 白の背景に白いテキストを含む保存済みのインポート/エクスポートダイアログを暗いテーマで修正しました
 - Yes/No 型フィールドの "DisplayControl/表示コントロール" プロパティをテーブルデザインのテキストボックスに設定できないという問題が修正されました。
 
-### <a name="project"></a>Project
+### <a name="project"></a>プロジェクト
 - さまざまなパフォーマンスと安定性の修正
 
 
@@ -127,7 +142,7 @@ Microsoft Search を使用すると、作業を完了するために必要なす
 - 保護されたドキュメントおよび編集可能なドキュメントが開かれたときに、Excel のセルをコピーすると CPU 使用率が高くなるという問題を修正しました。
 
 ### <a name="powerpoint"></a>PowerPoint
-- PowerPoint で @Mentions を使用すると、スライドイメージサイズの問題が修正されました。
+- PowerPoint で使用@Mentionsすると、スライドイメージサイズの問題が修正されました
 
 ### <a name="outlook"></a>Outlook
 - 選択した時系列の並べ替えが Outlook の検索に許可されていないという問題を修正しました。
@@ -139,7 +154,7 @@ Microsoft Search を使用すると、作業を完了するために必要なす
 - 白の背景に白いテキストを含む保存済みのインポート/エクスポートダイアログを暗いテーマで修正しました
 - Yes/No 型フィールドの Display コントロールプロパティをテーブルデザインのテキストボックスに設定できないという問題を修正しました
 
-### <a name="project"></a>Project
+### <a name="project"></a>プロジェクト
 - さまざまなパフォーマンスと安定性の修正
 
 </BR></BR>
@@ -240,7 +255,7 @@ SmartArt と同じ方法で変形を使用する
 ### <a name="access"></a>Access
 - さまざまなパフォーマンスと安定性の修正
 
-### <a name="project"></a>Project
+### <a name="project"></a>プロジェクト
 - さまざまなパフォーマンスと安定性の修正
 
 
@@ -269,7 +284,7 @@ SmartArt と同じ方法で変形を使用する
 ### <a name="access"></a>Access
 - さまざまなパフォーマンスと安定性の修正
 
-### <a name="project"></a>Project
+### <a name="project"></a>プロジェクト
 - さまざまなパフォーマンスと安定性の修正
 
 </BR></BR>
@@ -301,5 +316,5 @@ SmartArt と同じ方法で変形を使用する
 ### <a name="access"></a>Access
 - グラフのスケーリングの問題を修正しました
 
-### <a name="project"></a>Project
+### <a name="project"></a>プロジェクト
 - さまざまなパフォーマンスと安定性の修正
