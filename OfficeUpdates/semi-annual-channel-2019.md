@@ -3,19 +3,19 @@ title: 2019 年の半期チャネル リリースのリリース ノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/9/2019
+ms.date: 4/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: d97398deefa5cca33463b26f8e4611392e7d59fe
-ms.sourcegitcommit: f6ed754e15781f220dd27086f75f6d6be06254b9
+ms.openlocfilehash: 994e266b351e3a8c8ca39fae5460473248d99a2b
+ms.sourcegitcommit: 9a194fb74c040cbb43079af22e756911754fb7ba
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/05/2019
-ms.locfileid: "31478574"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31745549"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019 年の半期チャネル リリースのリリース ノート
 
@@ -27,6 +27,18 @@ ms.locfileid: "31478574"
 > [!NOTE]
 > - Office 365 ProPlus の各更新チャネルに対するセキュリティ更新プログラムの情報については、個別の一覧が「[セキュリティ更新プログラム](office365-proplus-security-updates.md)」に記載されます。
 > - 半期チャネルのユーザーが Office ポータルから Office 365 をダウンロードして Windows 10 にインストールしたときに、既定では OneNote 2016 は含まれません。
+
+## <a name="version-1808-april-9"></a>バージョン 1808: 4 月 9 日
+*バージョン 1808 (ビルド 10730.20334)*
+
+### <a name="word-non-security-updates"></a>Word: セキュリティ以外の更新プログラム
+
+- 匿名で IE または Edge でドキュメントを開くことができてしまう問題が修正されました。
+- 任意の Word 文書のヘッダー/フッターの PAGE や NUMPAGES フィールドに適用した蛍光ペンの色が、適用したテキストの蛍光ペンの色ではなく黒になる問題が修正されました。
+- 日本の新しい元号のために Word の日本のはがきウィザード アドインのサポートを追加しました。 
+
+## <a name="version-1803-april-9"></a>バージョン 1803: 4 月 9 日
+今月の更新プログラムはありません。
 
 ## <a name="version-1808-march-12"></a>バージョン 1808: 3 月 12 日
 *バージョン 1808 (ビルド 10730.20304)*

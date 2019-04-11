@@ -3,19 +3,19 @@ title: Windows インストーラー (MSI) を使用しているバージョン�
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 03/13/2019
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 永続的なバージョンの Outlook 2016、Outlook 2013、Outlook 2010 の最新の更新プログラムに関する情報へのリンクを IT 技術者に提供します
-ms.openlocfilehash: df8ebc9219127e303c4b26b12cdcbf87e92453ac
-ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
+ms.openlocfilehash: 882dc4c4d0767b4f0260d552f30b96e036130127
+ms.sourcegitcommit: 9a194fb74c040cbb43079af22e756911754fb7ba
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30568090"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31745489"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Windows インストーラー (MSI) を使用しているバージョンの Outlook の最新の更新プログラム
 
@@ -44,18 +44,18 @@ Outlook の Office 365 およびご使用のオンプレミス環境との互換
 
 |**最新の Service Pack (SP)**|**最低限必要な更新プログラム**|**最新のパブリック更新プログラム (PU)**|
 |:-----|:-----|:-----|
-|該当なし  <br/> |2016 年 3 月 PU <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |2019 年 3 月 PU <br/>[KB4462196](https://support.microsoft.com/help/4462196) 
+|N/A  <br/> |2016 年 3 月 PU <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |2019 年 4 月 PU <br/>[KB4464502](https://support.microsoft.com/help/4464502) 
 
 ## <a name="outlook-2013-updates"></a>Outlook 2013 更新プログラム
 
 |**最新の Service Pack (SP)**|**最低限必要な更新プログラム**|**最新のパブリック更新プログラム (PU)**|
 |:-----|:-----|:-----|
-|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |2015 年 12 月 PU <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |2019 年 3 月 PU <br/>[KB4462206](https://support.microsoft.com/help/4462206)  |
+|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |2015 年 12 月 PU <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |2019 年 4 月 PU <br/>[KB4464507](https://support.microsoft.com/help/4464507)  |
    
 ## <a name="outlook-2010-updates"></a>Outlook 2010 更新プログラム
 
 |**最新の Service Pack (SP)**|**最低限必要な更新プログラム**|**最新のパブリック更新プログラム (PU)**|
 |:-----|:-----|:-----|
-|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |2015 年 10 月 PU <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  MAPI/HTTP 用の Office 2010 の 2015 年 4 月 PU <br/> [KB2956191](https://support.microsoft.com/ja-JP/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |2019 年 3 月 PU <br/>[KB4462229](https://support.microsoft.com/help/4462229) <br><br><br><br/>|
+|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |2015 年 10 月 PU <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  MAPI/HTTP 用の Office 2010 の 2015 年 4 月 PU <br/> [KB2956191](https://support.microsoft.com/en-us/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |2019 年 3 月 PU <br/>[KB4462229](https://support.microsoft.com/help/4462229) <br><br><br><br/>|
    
 
