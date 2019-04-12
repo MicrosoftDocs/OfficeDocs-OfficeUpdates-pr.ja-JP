@@ -3,19 +3,19 @@ title: Office 365 ProPlus の更新履歴 (日付別の一覧)
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 4/1/2019
+ms.date: 4/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT プロフェッショナルに、日付ごとに整理した Office 365 ProPlus リリースすべての一覧を、リリース ノートへのリンクを含めて提供します
-ms.openlocfilehash: 05f442b7b9a8ec761f737b9e982e81d8b8b368e5
-ms.sourcegitcommit: 7570500edd26426af50494223a56be02390cdc05
+ms.openlocfilehash: 17a39855ca7e302eeb92f0ca642dfd55db422b7d
+ms.sourcegitcommit: 8b72fc05ade3ae80861905f9b83e26c60b85741b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31027897"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "31751508"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 ProPlus の更新履歴 (日付別の一覧)
 
@@ -29,12 +29,12 @@ Office 365 ProPlus は、新機能、セキュリティ更新プログラム、�
 
 次の表では、サポートされているバージョンと最新のビルド番号を更新プログラム チャネルごとに記載しています。 
  
-|**チャネル**|**バージョン**|**ビルド**|**リリース日**|**バージョンのサポート期限**|
+|**チャネル**|**バージョン**|**ビルド**|**リリース日**|**以下の時期までバージョンのサポートがあります**|
 |:-----|:-----|:-----|:-----|:-----|
-|月次  <br/> |1903 <br/> |11425.20202 <br/> | Apri1 1, 2019 <br/> |バージョン 1904 がリリースされました <br/>|
-|半期 (対象指定)  <br/> |1902  <br/> |11328.20158 <br/> |  2019 年 3 月 12 日 <br/> | 2019 年 9 月 10 日 <br/>|
-|半期 <br/> |1808  <br/> | 10730.20304<br/> | 2019 年 3 月 12 日  <br/> |  2020 年 3 月 10 日 <br/>|
-|半期 <br/> |1803  <br/> | 9126.2356  <br/> | 2019 年 2 月 12 日  <br/> |  2019 年 9 月 10 日 <br/>|
+|月次  <br/> |1903 <br/> |11425.20204 <br/> | 2019 年 4 月 9 日 <br/> |バージョン 1904 がリリースされました <br/>|
+|半期 (対象指定)  <br/> |1902  <br/> |11328.20230 <br/> |  2019 年 4 月 9 日 <br/> | 2019 年 9 月 10 日 <br/>|
+|半期 <br/> |1808  <br/> | 10730.20334<br/> | 2019 年 4 月 9 日  <br/> |  2020 年 3 月 10 日 <br/>|
+|半期 <br/> |1803  <br/> | 9126.2382  <br/> | 2019 年 4 月 9 日  <br/> |  2019 年 9 月 10 日 <br/>|
 
 以前のリリースの Office 365 ProPlus から最新の現在のリリースへ更新する場合のおおよそのダウンロード サイズについて詳しくは、「[Office 365 ProPlus に対する更新プログラムのダウンロード サイズ](download-sizes-office365-proplus-updates.md)」をご覧ください。
 
@@ -42,9 +42,10 @@ Office 365 ProPlus は、新機能、セキュリティ更新プログラム、�
 次の表に、月次、半期 (対象指定)、半期という更新プログラム チャネルでリリースされた Office 365 ProPlus の更新プログラムのバージョン番号とビルド番号の一覧を示します。この表の各項目は、対象リリースのリリース ノートに直接リンクしています。リリース ノートには、Office 365 ProPlus の対象更新プログラムに含まれる機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムに関する情報が含まれます。
 
 
-|**年**|**リリース日**|**月次チャネル**|**半期チャネル (対象指定)**|**半期チャネル**|
+|**年次**|**リリース日**|**月次チャネル**|**半期チャネル (対象指定)**|**半期チャネル**|
 |:-----|:-----|:-----|:-----|:-----|
-|2019|4月1日 |[Version 1903 (Build 11425.20202)](monthly-channel-2019.md#version-1903-april-01)| | |
+|2019|4 月 9 日 |[バージョン 1903 (ビルド 11425.20204)](monthly-channel-2019.md#version-1903-april-9)|[バージョン 1902 (ビルド 11328.20230)](semi-annual-channel-targeted-2019.md#version-1903-april-9) |[バージョン 1808 (ビルド 10730.20334)](semi-annual-channel-2019.md#version-1808-april-9)  <br/>  [バージョン 1803 (ビルド 9126.2382)](semi-annual-channel-2019.md#version-1803-april-9) |
+|2019|4月1日 |[バージョン 1903 (ビルド 11425.20202)](monthly-channel-2019.md#version-1903-april-01)| | |
 |2019|3 月 25 日 |[バージョン 1902 (ビルド 11328.20222)](monthly-channel-2019.md#version-1902-march-25)| | |
 |2019|3 月 12 日 |[バージョン 1902 (ビルド 11328.20158)](monthly-channel-2019.md#version-1902-march-12)|[バージョン 1902 (ビルド 11328.20158)](semi-annual-channel-targeted-2019.md#version-1902-march-12) |[バージョン 1808 (ビルド 10730.20304)](semi-annual-channel-2019.md#version-1808-march-12)  <br/> | |
 |2019|3 月 4 日  |[バージョン 1902 (ビルド 11328.20146)](monthly-channel-2019.md#version-1902-march-4)| | |
@@ -64,8 +65,8 @@ Office 365 ProPlus は、新機能、セキュリティ更新プログラム、�
 |2018|9 月 5 日   |[バージョン 1808 (ビルド 10730.20088)](monthly-channel-2018.md#version-1808-september-5) | | |
 |2018|8 月 14 日   |[バージョン 1807 (ビルド 10325.20118)](monthly-channel-2018.md#version-1807-august-14)|[バージョン 1803 (ビルド 9126.2275)](semi-annual-channel-targeted-2018.md#version-1803-august-14)  |[バージョン 1803 (ビルド 9126.2275)](semi-annual-channel-2018.md#version-1803-august-14)  <br/>  [バージョン 1708 (ビルド 8431.2299)](semi-annual-channel-2018.md#version-1708-august-14)   |
 ||7 月 25 日   |[バージョン 1807 (ビルド 10325.20082)](monthly-channel-2018.md#version-1807-july-25) | | |
-||7 月 17 日   |[バージョン 1806 (ビルド 10228.20134)](monthly-channel-2018.md#version-1806-july-17) | | |
-||7 月 10 日   |[バージョン 1806 (ビルド 10228.20104)](monthly-channel-2018.md#version-1806-july-10) |[バージョン 1803 (ビルド 9126.2259)](semi-annual-channel-targeted-2018.md#version-1803-july-10)  |[バージョン 1803 (ビルド 9126.2259)](semi-annual-channel-2018.md#version-1803-july-10)  <br/>  [バージョン 1708 (ビルド 8431.2280)](semi-annual-channel-2018.md#version-1708-july-10)   |
+||7 月 17 日   |[Version 1806 (Build 10228.20134)](monthly-channel-2018.md#version-1806-july-17) | | |
+||7 月 10 日   |[バージョン 1806 (ビルド 10228.20104)](monthly-channel-2018.md#version-1806-july-10) |[バージョン 1803 (ビルド 9126.2259)](semi-annual-channel-targeted-2018.md#version-1803-july-10)  |[バージョン 1803 (ビルド 9126.2259)](semi-annual-channel-2018.md#version-1803-july-10)  <br/>  [バージョン 1708 (ビルド  8431.2280)](semi-annual-channel-2018.md#version-1708-july-10)   |
 ||6 月 25 日   |[バージョン 1806 (ビルド 10228.20080)](monthly-channel-2018.md#version-1806-june-25) |||
 ||6 月 13 日   |[バージョン 1805 (ビルド 9330.2124)](monthly-channel-2018.md#version-1805-june-13) |||
 ||6 月 12 日   |[バージョン 1805 (ビルド 9330.2118)](monthly-channel-2018.md#version-1805-june-12)  |[バージョン 1803 (ビルド 9126.2227)](semi-annual-channel-targeted-2018.md#version-1803-june-12)  |[バージョン 1708 (ビルド 8431.2270)](semi-annual-channel-2018.md#version-1708-june-12)  <br/>  [バージョン 1705 (ビルド 8201.2294)](semi-annual-channel-2018.md#version-1705-may-8)   |
@@ -76,7 +77,7 @@ Office 365 ProPlus は、新機能、セキュリティ更新プログラム、�
 ||5 月 8 日   |[バージョン 1804 (ビルド 9226.2126)](monthly-channel-2018.md#version-1804-may-8)  |[バージョン 1803 (ビルド 9126.2191)](semi-annual-channel-targeted-2018.md#version-1803-may-8)  |[バージョン 1708 (ビルド 8431.2250)](semi-annual-channel-2018.md#version-1708-may-8)  <br/>  [バージョン 1705 (ビルド 8201.2278)](semi-annual-channel-2018.md#version-1705-may-8)   |
 ||4 月 25 日   | [バージョン 1804 (ビルド 9226.2114)](monthly-channel-2018.md#version-1804-april-25)   |   |   |
 ||4 月 11 日   | [バージョン 1803 (ビルド 9126.2152)](monthly-channel-2018.md#version-1803-april-11)   |   |   |
-||4 月 10 日   |   | [バージョン 1803 (ビルド 9126.2152)](semi-annual-channel-targeted-2018.md#version-1803-april-10)   | [バージョン 1708 (ビルド 8431.2242)](semi-annual-channel-2018.md#version-1708-april-10)  <br/>   [バージョン 1705 (ビルド 8201.2272)](semi-annual-channel-2018.md#version-1705-april-10)   |
+||4 月 10 日   |   | [バージョン 1803 (ビルド 9126.2152)](semi-annual-channel-targeted-2018.md#version-1803-april-10)   | [ バージョン 1708 (ビルド 8431.2242)](semi-annual-channel-2018.md#version-1708-april-10)  <br/>   [バージョン 1705 (ビルド 8201.2272)](semi-annual-channel-2018.md#version-1705-april-10)   |
 ||3 月 27 日   | [バージョン 1803 (ビルド 9126.2116)](monthly-channel-2018.md#version-1803-march-27)   |   |   |
 ||3 月 20 日   |   | [バージョン 1803 (ビルド 9126.2098)](semi-annual-channel-targeted-2018.md#version-1803-march-20)   |   |
 ||3 月 13 日  | [バージョン 1802 (ビルド 9029.2253)](monthly-channel-2018.md#version-1802-march-13)   | [バージョン 1803 (ビルド 9126.2072)](semi-annual-channel-targeted-2018.md#version-1803-march-13)   | [バージョン 1708 (ビルド 8431.2236)](semi-annual-channel-2018.md#version-1708-march-13) <br/>    [バージョン 1705 (ビルド 8201.2265)](semi-annual-channel-2018.md#version-1705-march-13)   |
@@ -88,7 +89,7 @@ Office 365 ProPlus は、新機能、セキュリティ更新プログラム、�
 ||1 月 17 日   | [バージョン 1712 (ビルド 8827.2148)](monthly-channel-2018.md#version-1712-january-17)   |   |   |
 ||1 月 9 日   | [バージョン 1711 (ビルド 8730.2175)](monthly-channel-2018.md#version-1711-january-9)   | [バージョン 1708 (ビルド 8431.2153)](semi-annual-channel-targeted-2018.md#version-1708-january-9)   | [バージョン 1708 (ビルド 8431.2153)](semi-annual-channel-2018.md#version-1708-january-9)  <br/>   [バージョン 1705 (ビルド 8201.2217)](semi-annual-channel-2018.md#version-1705-january-9)   |
 ||1 月 2 日   | [バージョン 1711 (ビルド 8730.2165)](monthly-channel-2018.md#version-1711-january-2)   |   |   |
-|2017|12 月 12 日  <br/> | [バージョン 1711 (ビルド 8730.2127)](monthly-channel-2017.md#version-1711-december-12)  <br/> | [バージョン 1708 (ビルド 8431.2131)](semi-annual-channel-targeted-2017.md#version-1708-december-12)  <br/> | [バージョン 1705 (ビルド 8201.2213)](semi-annual-channel-2017.md#version-1705-december-12)  <br/>  [バージョン 1701 (ビルド 7766.2130)](semi-annual-channel-2017.md#version-1701-december-12)  <br/> |
+|2017|12 月 12 日  <br/> | [バージョン 1711 (ビルド 8730.2127)](monthly-channel-2017.md#version-1711-december-12)  <br/> | [ バージョン 1708 (ビルド 8431.2131)](semi-annual-channel-targeted-2017.md#version-1708-december-12)  <br/> | [バージョン 1705 (ビルド 8201.2213)](semi-annual-channel-2017.md#version-1705-december-12)  <br/>  [バージョン 1701 (ビルド 7766.2130)](semi-annual-channel-2017.md#version-1701-december-12)  <br/> |
 ||12 月 6 日  <br/> | [バージョン 1711 (ビルド 8730.2122)](monthly-channel-2017.md#version-1711-december-6)  <br/> |  <br/> |  <br/> |
 ||11 月 27 日  <br/> | [バージョン 1710 (ビルド 8625.2139)](monthly-channel-2017.md#version-1710-november-27)  <br/> |  <br/> |  <br/> |
 ||11 月 24 日  <br/> |  <br/> |  <br/> |[バージョン 1705 (ビルド 8201.2209)](semi-annual-channel-2017.md#version-1705-november-24)  <br/> |
@@ -97,7 +98,7 @@ Office 365 ProPlus は、新機能、セキュリティ更新プログラム、�
 ||11 月 2 日  <br/> |[バージョン 1710 (ビルド 8625.2121)](monthly-channel-2017.md#version-1710-november-2)  <br/> |  <br/> |  <br/> |
 ||10 月 25 日  <br/> | [バージョン 1709 (ビルド 8528.2147)](monthly-channel-2017.md#version-1709-october-25)  <br/> |  <br/> |  <br/> |
 ||10 月 16 日  <br/> | [バージョン 1709 (ビルド 8528.2139)](monthly-channel-2017.md#version-1709-october-16)  <br/> |  <br/> |  <br/> |
-||10 月 10 日  <br/> | [バージョン 1708 (ビルド 8431.2107)](monthly-channel-2017.md#version-1708-october-10)  <br/> | [バージョン 1708 (ビルド 8431.2107)](semi-annual-channel-targeted-2017.md#version-1708-october-10) <br/> | [バージョン 1705 (ビルド 8201.2200)](semi-annual-channel-2017.md#version-1705-october-10)  <br/>  [バージョン 1701 (ビルド 7766.2119)](semi-annual-channel-2017.md#version-1701-october-10)  <br/> |
+||10 月 10 日  <br/> | [バージョン 1708 (ビルド 8431.2107)](monthly-channel-2017.md#version-1708-october-10)  <br/> | [ バージョン 1708 (ビルド 8431.2107)](semi-annual-channel-targeted-2017.md#version-1708-october-10) <br/> | [バージョン 1705 (ビルド 8201.2200)](semi-annual-channel-2017.md#version-1705-october-10)  <br/>  [バージョン 1701 (ビルド 7766.2119)](semi-annual-channel-2017.md#version-1701-october-10)  <br/> |
 ||10 月 4 日  <br/> | [バージョン 1708 (ビルド 8431.2094)](monthly-channel-2017.md#version-1708-october-4)  <br/> |  <br/> |  <br/> |
 ||9 月 18 日  <br/> | [バージョン 1708 (ビルド 8431.2079)](monthly-channel-2017.md#version-1708-september-18)  <br/> |  <br/> |  <br/> |
 ||9 月 12 日  <br/> | [バージョン 1707 (ビルド 8326.2107)](monthly-channel-2017.md#version-1707-september-12)  <br/> | [バージョン 1708 (ビルド 8431.2079)](semi-annual-channel-targeted-2017.md#version-1708-september-12)  <br/> | [バージョン 1705 (ビルド 8201.2193)](semi-annual-channel-2017.md#version-1705-september-12)  <br/>  [バージョン 1701 (ビルド 7766.2116)](semi-annual-channel-2017.md#version-1701-september-12)  <br/> |
@@ -111,7 +112,7 @@ Office 365 ProPlus は、新機能、セキュリティ更新プログラム、�
 ||7 月 28 日  <br/> | [バージョン 1707 (ビルド 8326.2059)](monthly-channel-2017.md#version-1707-july-28)  <br/> |  <br/> |  <br/> |
 ||7 月 27 日  <br/> | [バージョン 1707 (ビルド 8326.2058)](monthly-channel-2017.md#version-1707-july-27)  <br/> |[バージョン 1705 (ビルド 8201.2158)](semi-annual-channel-targeted-2017.md#version-1705-july-27)  <br/> | [バージョン 1701 (ビルド 7766.2099)](semi-annual-channel-2017.md#version-1701-july-27)  <br/>  [バージョン 1609 (ビルド 7369.2154)](semi-annual-channel-2017.md#version-1609-july-27)  <br/> |
 ||7 月 19 日  <br/> | [バージョン 1706 (ビルド 8229.2103)](monthly-channel-2017.md#version-1706-july-19)  <br/> |  <br/> |  <br/> |
-||7 月 13 日  <br/> | [バージョン 1706 (ビルド 8229.2086)](monthly-channel-2017.md#version-1706-july-13)  <br/> | [バージョン 1705 (ビルド 8201.2136)](semi-annual-channel-targeted-2017.md#version-1705-july-13) <br/> | [バージョン 1701 (ビルド 7766.2096)](semi-annual-channel-2017.md#version-1701-july-13)  <br/>  [バージョン 1609 (ビルド 7369.2151)](semi-annual-channel-2017.md#version-1609-july-13)  <br/> |
+||7 月 13 日  <br/> | [バージョン 1706 (ビルド 8229.2086)](monthly-channel-2017.md#version-1706-july-13)  <br/> | [ バージョン 1705 (ビルド 8201.2136)](semi-annual-channel-targeted-2017.md#version-1705-july-13) <br/> | [バージョン 1701 (ビルド 7766.2096)](semi-annual-channel-2017.md#version-1701-july-13)  <br/>  [バージョン 1609 (ビルド 7369.2151)](semi-annual-channel-2017.md#version-1609-july-13)  <br/> |
 ||6 月 28 日  <br/> | [バージョン 1706 (ビルド 8229.2073)](monthly-channel-2017.md#version-1706-june-28)  <br/> |  <br/> |  <br/> |
 ||6 月 13 日  <br/> | [バージョン 1705 (ビルド 8201.2102)](monthly-channel-2017.md#version-1705-june-13)  <br/> | [バージョン 1705 (ビルド 8201.2102)](semi-annual-channel-targeted-2017.md#version-1705-june-13)  <br/> | [バージョン 1701 (ビルド 7766.2092)](semi-annual-channel-2017.md#version-1701-june-13)  <br/>  [バージョン 1609 (ビルド 7369.2139)](semi-annual-channel-2017.md#version-1609-june-13)  <br/> |
 ||6 月 7 日  <br/> | [バージョン 1705 (ビルド 8201.2075)](monthly-channel-2017.md#version-1705-june-7)  <br/> |  <br/> |  <br/> |
@@ -129,7 +130,7 @@ Office 365 ProPlus は、新機能、セキュリティ更新プログラム、�
 ||1 月 25 日  <br/> | [バージョン 1612 (ビルド 7668.2066)](monthly-channel-2017.md#version-1612-january-25)  <br/> |  <br/> |  <br/> |
 ||1 月 10 日  <br/> |  <br/> | [バージョン 1609 (ビルド 7369.2102)](semi-annual-channel-targeted-2017.md#version-1609-january-10)  <br/> | [バージョン 1605 (ビルド 6965.2117)](semi-annual-channel-2017.md#version-1605-january-10)  <br/>  [バージョン 1602 (ビルド 6741.2105)](semi-annual-channel-2017.md#version-1602-january-10)  <br/> |
 ||1 月 4 日  <br/> | [バージョン 1611 (ビルド 7571.2109)](monthly-channel-2017.md#version-1611-january-4)  <br/> |  <br/> |  <br/> |
-|2016|12 月 13 日  <br/> | [バージョン 1611 (ビルド 7571.2075)](monthly-channel-2016.md#version-1611-december-13)  <br/> |[バージョン 1609 (ビルド 7369.2095)](semi-annual-channel-targeted-2016.md#version-1609-december-13)  <br/> | [バージョン 1605 (ビルド 6965.2115)](semi-annual-channel-2016.md#version-1605-december-13)  <br/> [バージョン 1602 (ビルド 6741.2098)](semi-annual-channel-2016.md#version-1602-december-13)  <br/> |
+|2016|12 月 13 日  <br/> | [バージョン 1611 (ビルド 7571.2075)](monthly-channel-2016.md#version-1611-december-13)  <br/> |[ バージョン 1609 (ビルド 7369.2095)](semi-annual-channel-targeted-2016.md#version-1609-december-13)  <br/> | [バージョン 1605 (ビルド 6965.2115)](semi-annual-channel-2016.md#version-1605-december-13)  <br/> [バージョン 1602 (ビルド 6741.2098)](semi-annual-channel-2016.md#version-1602-december-13)  <br/> |
 ||12 月 6 日  <br/> | [バージョン 1611 (ビルド 7571.2072)](monthly-channel-2016.md#version-1611-december-6)  <br/> |  <br/> |  <br/> |
 ||11 月 10 日  <br/> | [バージョン 1610 (ビルド 7466.2038)](monthly-channel-2016.md#version-1610-november-10)  <br/> |  <br/> |  <br/> |
 ||11 月 8 日  <br/> |[バージョン 1609 (ビルド 7369.2055)](monthly-channel-2016.md#version-1609-november-8)  <br/> | [バージョン 1609 (ビルド 7369.2055)](semi-annual-channel-targeted-2016.md#version-1609-november-8)  <br/> | [バージョン 1605 (ビルド 6965.2105)](semi-annual-channel-2016.md#version-1605-november-8)  <br/>  [バージョン 1602 (ビルド 6741.2088)](semi-annual-channel-2016.md#version-1602-november-8)  <br/> |
@@ -152,7 +153,7 @@ Office 365 ProPlus は、新機能、セキュリティ更新プログラム、�
 ||6 月 14 日  <br/> |[バージョン 1605 (ビルド 6965.2058)](monthly-channel-2016.md#version-1605-june-14)  <br/> |[バージョン 1605 (ビルド 6965.2058)](semi-annual-channel-targeted-2016.md#version-1605-june-14)  <br/> | [バージョン 1602 (ビルド 6741.2048)](semi-annual-channel-2016.md#version-1602-june-14)  <br/>  [バージョン 1509 (ビルド 6001.1082)](semi-annual-channel-2016.md#version-1509-june-14)  <br/> |
 ||6 月 7 日  <br/> |  <br/> |[バージョン 1602 (ビルド 6741.2047)](semi-annual-channel-targeted-2016.md#version-1602-june-7)  <br/> |  <br/> |
 ||6 月 6 日  <br/> |[バージョン 1605 (ビルド 6965.2053)](monthly-channel-2016.md#version-1605-june-6)  <br/> |  <br/> |  <br/> |
-||5 月 23 日  <br/> |[バージョン 1604 (ビルド 6868.2067)](monthly-channel-2016.md#version-1604-may-23)  <br/> |[バージョン 1602 (ビルド 6741.2042)](semi-annual-channel-targeted-2016.md#version-1602-may-23)  <br/> |  <br/> |
+||5 月 23 日  <br/> |[バージョン 1604 (ビルド 6868.2067)](monthly-channel-2016.md#version-1604-may-23)  <br/> |[バージョン 1602 (ビルド6741.2042)](semi-annual-channel-targeted-2016.md#version-1602-may-23)  <br/> |  <br/> |
 ||5 月 10 日  <br/> |[バージョン 1604 (ビルド 6868.2062)](monthly-channel-2016.md#version-1604-may-10)  <br/> |[バージョン 1602 (ビルド 6741.2037)](semi-annual-channel-targeted-2016.md#version-1602-may-10)  <br/> |[バージョン 1509 (ビルド 6001.1078)](semi-annual-channel-2016.md#version-1509-may-10)  <br/> |
 ||5 月 4 日  <br/> |[バージョン 1604 (ビルド 6868.2060)](monthly-channel-2016.md#version-1604-may-4)  <br/> |  <br/> |  <br/> |
 ||5 月 3 日  <br/> |  <br/> |[バージョン 1602 (ビルド 6741.2033)](semi-annual-channel-targeted-2016.md#version-1602-may-3)  <br/> |  <br/> |
@@ -179,7 +180,7 @@ Office 365 ProPlus は、新機能、セキュリティ更新プログラム、�
 ||9 月 22 日  <br/> |[バージョン 1509 (ビルド 4229.1024)](monthly-channel-2015.md#version-1509-september-22)  <br/> |[バージョン 1509 (ビルド 4229.1024)](semi-annual-channel-targeted-2015.md#version-1509-september-22)  <br/> |  <br/> |
    
 
-## <a name="related-topics"></a>関連項目
+## <a name="related-topics"></a>関連トピック
 
 - [Office 365 ProPlus 更新プログラムのチャネルの概要](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 - [Office 365 ProPlus の更新プログラムに関するリリース情報](release-notes-office365-proplus.md)
