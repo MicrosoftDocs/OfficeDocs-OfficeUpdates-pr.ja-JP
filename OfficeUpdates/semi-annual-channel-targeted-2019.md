@@ -3,19 +3,19 @@ title: 2019 年の半期チャネル (対象指定) リリースのリリース 
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/9/2019
+ms.date: 4/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル (対象指定) リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 68384248cc9385dc03a9f67408a5e0603e1e9986
-ms.sourcegitcommit: f6ed754e15781f220dd27086f75f6d6be06254b9
+ms.openlocfilehash: e72fac101cd74306e818790d2a90db01dc9c36c4
+ms.sourcegitcommit: 8b72fc05ade3ae80861905f9b83e26c60b85741b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/05/2019
-ms.locfileid: "31478554"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "31751498"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年の半期チャネル (対象指定) リリースのリリース ノート
 
@@ -27,6 +27,26 @@ ms.locfileid: "31478554"
  
 > [!NOTE]
 > - Office 365 ProPlus の各更新チャネルに対するセキュリティ更新プログラムの情報については、個別の一覧が「[セキュリティ更新プログラム](office365-proplus-security-updates.md)」に記載されます。
+
+## <a name="version-1902-april-9"></a>バージョン 1902:4月9日
+*バージョン 1902 (ビルド 11328.20230)*
+
+### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
+
+- 顧客の連絡先カード上の画像の読み込み中にクラッシュが発生する原因となった問題に対処します。
+- 一部の顧客がOffice アプリケーションの起動時にクラッシュするという問題に対処します。
+- システムタスクバーを画面の左または上に置いたときにウィンドウが正しい場所に表示されない問題を修正しました。
+
+### <a name="word-non-security-updates"></a>Word: セキュリティ以外の更新プログラム
+
+- ファイルが読み取り専用モードで開かれているときに[情報]枠から[名前を付けて保存]をクリックすると、保存UIが表示されるように問題が修正されています。
+
+### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
+
+- Windows 10（バージョン1803以降）のデバイスで過剰なサインインプロンプトを引き起こしていた問題を修正しました。
+- リンクされた写真をダウンロードするときにハングする原因となる退行を修正しました。
+- Word、Excel、PowerPointに貼り付けられた大きなEMFファイルのぼやけを修正しました。
+- バージョン履歴の解析ロジックで、ドキュメントが読み取り専用で開かれることがあったケースを修正しました。
 
 ## <a name="version-1902-march-12"></a>バージョン 1902: 3 月 12 日
 *バージョン 1902 (ビルド 11328.20158)*
