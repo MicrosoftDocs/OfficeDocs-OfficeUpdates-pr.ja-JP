@@ -3,19 +3,19 @@ title: 2019 年の毎月のチャネル リリースのリリース ノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/2/2019
+ms.date: 4/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 7affb1cafbd86b6d2ac2098af501fd56079a7aa3
-ms.sourcegitcommit: d4f64674c19638db73a9706b105299dc0559ea64
+ms.openlocfilehash: d3a3f5ad4a4c7dd0caeb8b3fc268d00bd50590b2
+ms.sourcegitcommit: 2e379740ddeb6f2e8f51da1d06002ffb2ddad02d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/08/2019
-ms.locfileid: "31516462"
+ms.lasthandoff: 04/11/2019
+ms.locfileid: "31818504"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年の毎月のチャネル リリースのリリース ノート
 
@@ -28,8 +28,13 @@ ms.locfileid: "31516462"
  > [!NOTE]
 > - Office 365 ProPlus の各更新チャネルに対するセキュリティ更新プログラムの情報については、個別の一覧が「[セキュリティ更新プログラム](office365-proplus-security-updates.md)」に記載されます。 
 
-## <a name="version-1903-april-01"></a>Version 1903: April 01
-*バージョン 1903 (ビルド 11425.20202)*
+## <a name="version-1903-april-9"></a>バージョン 1903: 4 月 9 日
+*バージョン 1903 (ビルド 11425.20204)* 
+
+セキュリティ更新プログラムの一覧は[こちら](office365-proplus-security-updates.md)
+
+## <a name="version-1903-april-01"></a>バージョン 1903: 4 月 1 日 
+*バージョン 1903 (ビルド 11425.20202)* 
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
 
@@ -40,6 +45,15 @@ ms.locfileid: "31516462"
 - **よりよい変形操作:** 図形に名前を付けると、変形するときにより細かく制御できます。 [詳細情報](https://support.office.com/article/9bc7f48ff-f152-4ee8-9081-d3121788024f)
 
 - **コンテンツのリーチを拡大:** アクセシビリティの高いプレゼンテーションを作成する必要がありますか? アクセシビリティ チェックを使用すると、アクセシビリティの問題を自動的に監視できます。 [校閲]>[アクセシビリティ チェック] をクリックすると、何か問題が見つかった場合に、ステータス バーに通知が表示されます。
+
+- **再利用できる場合、新たに作成し直しますか?**  作成した、または他のユーザーと共有しているスライドを再利用して時間を節約します。
+
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: セキュリティ以外の更新プログラム
+
+- サード パーティの SfB/Lync SDK アプリが存在する場合に、Skype for Business のチャット通知への応答が停止される原因となった問題を修正します。
+- チャットに特定のクリップボードの内容を貼り付けるときにアプリがクラッシュする問題を修正します。
+- いずれかの通話エージェントが受信した呼び出しキューの呼び出しの "受け入れ担当者" 情報が表示されるのを妨げている問題を修正します。
+- Teams のユーザーが Skype for Business 会議に参加したときに通話アイコンが非表示になる問題が修正されました。
 
 ### <a name="word-feature-updates"></a>Word: 機能の更新
 
