@@ -3,19 +3,19 @@ title: Office for Mac のリリース ノート
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 3/27/2019
+ms.date: 4/18/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 サブスクライバー向け Office for Mac リリース用リリース ノートを IT プロフェッショナルに提供
-ms.openlocfilehash: 98e7a3eb90a7ab39d4d3b898ffba4d4d88bfb1a3
-ms.sourcegitcommit: 9a194fb74c040cbb43079af22e756911754fb7ba
+ms.openlocfilehash: c49d1241bd964657c5313f11c25284616eff153d
+ms.sourcegitcommit: 90d2b3259604e27f5fe860221d1a89d3da28fe5a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31745609"
+ms.lasthandoff: 04/18/2019
+ms.locfileid: "31924365"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac のリリース ノート
 
@@ -34,13 +34,34 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 > - Microsoft AutoUpdate は、Microsoft のさまざまな Mac 製品への更新プログラムを提供します。そのため、Office for Mac を実行していない場合でも、Microsoft AutoUpdate を更新する通知が表示される場合があります。
 > - Microsoft では多くの場合、一定期間にわたって毎月のチャネル、機能 (および場合によっては修正プログラム) を展開します。これにより、幅広いユーザーに機能を公開する前にスムーズに動作するかどうかを確認することができます。したがって、下記のものが表示されない場合でも、心配する必要はなく、いずれは表示されます。[詳細情報](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
+## <a name="april-2019-release"></a>2019年 4 月リリース
+
+ **リリース日:** 2019 年 4 月 16日 
+  
+ *バージョン 16.24 (ビルド 19041401)*
+
+
+ このリリースでは、次の更新プログラムを提供します:
+
+|**アプリケーション**|**機能の更新プログラム**|**セキュリティの更新プログラムを入手できます。**|**更新プログラム パッケージのダウンロード リンク**|
+|:-----|:-----|:-----|:-----|
+|Word  <br/>| Officeのシンプルで強力、そしてインテリジェントなエクスペリエンスを反映するように、アプリのアイコンを再設計しました。 <br/><br/>あなたの活動や他のあなたの周りで取り組まれていることに基づいて推奨事項を入手してください。<br/>|<br/><br/> |[Word の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.24.19041401_Updater.pkg) <br/>|
+|Excel  <br/>| Officeのシンプルで強力、そしてインテリジェントなエクスペリエンスを反映するように、アプリのアイコンを再設計しました。<br/> <br/>マクロを記録するときに、相対参照を使用できるようになりました。つまり、マクロ内のアクションは、特定のセルや範囲ではなく、アクティブセルに対して相対的に適用されます。<br/><br/>[ホーム]タブの[検索と選択]、[表示]タブの[選択範囲にズーム]、[新しいウィンドウ]、[すべて整列]など、一般的なタスクはリボンで以前より簡単に見つけることができます。<br/><br/>あなたの活動や他のあなたの周りで取り組まれていることに基づいて推奨事項を入手してください。<br/>|[CVE-2019-0828](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2019-0828): Microsoft Excel のリモートでコードが実行される脆弱性 |[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.24.19041401_Updater.pkg) <br/>|
+|PowerPoint  <br/>| Officeのシンプルで強力、そしてインテリジェントなエクスペリエンスを反映するように、アプリのアイコンを再設計しました。<br/><br/>あなたの活動や他のあなたの周りで取り組まれていることに基づいて推奨事項を入手してください。<br/><br/>Control +クリックで音声とビデオを保存。| |[PowerPoint の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.24.19041401_Updater.pkg) <br/>|
+|Outlook  <br/>| Officeのシンプルで強力、そしてインテリジェントなエクスペリエンスを反映するように、アプリのアイコンを再設計しました。 <br/><br/>Advanced Thread Protection (ATP) の安全なリンクをサポートします。  ||[Outlook の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.24.19041401_Updater.pkg) <br/>|
+|OneNote  <br/>| Officeのシンプルで強力、そしてインテリジェントなエクスペリエンスを反映するように、アプリのアイコンを再設計しました。 <br/><br/>あなたのノートへのより簡単なアクセス：新しく更新されたナビゲーションウィンドウはあなたのノートブック、セクション、そしてページへのアクセスをより簡単にします。<br/><br/>フレーズ検索：フレーズの周りに引用符を使用し、個々の単語ではなくその正確なフレーズで検索できるようになりました。  ||[OneNote の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Onenote_16.24.19041401_Updater.pkg) <br/>|
+|Microsoft Auto Update 4.10<br/>| クローンでのインストール機能の強化：対象となるデバイスでは、現在使用中のアプリのコピーにアップデートがインストールされるため、アップデートによるアプリのダウンタイムが短縮されます。 <br/><br/> インストールの最適化。<br/><br/>遠隔測定機能を強化します。<br/><br/>バグ修正。<br/>|<br/> | [Microsoft AutoUpdate 更新パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.10.19041401_Updater.pkg)<br/>|
+|Office スイート  <br/><br/>| |[CVE-2019-0822](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2019-0822): Microsoft グラフィック コンポーネントのリモート コード実行の脆弱性<br/><br/>|<br/>|
+
+
+
 ## <a name="march-2019-release"></a>2019 年 3 月リリース
 
 **リリース日:** 2019 年 3 月 27 日
 
- このリリースでは、次の更新プログラムを提供します。
+ このリリースでは、次の更新プログラムを提供します:
 
-|**アプリケーション**|**更新**|**セキュリティ更新プログラム**|**更新パッケージのダウンロード リンク**|
+|**Application**|**Update**|**セキュリティ更新プログラム**|**更新プログラム パッケージのダウンロード リンク**|
 |:-----|:-----|:-----|:-----|
 |Outlook  <br/>| 共有または委任された予定表を削除した場合の問題を解決します。 [詳細情報](https://support.office.com/article/42302f59-8325-4fab-aacb-13bbef855a0f)<br/>  | |[Outlook の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.23.19032603_Updater.pkg) <br/>|
 
@@ -49,18 +70,18 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 
  このリリースでは、次の更新プログラムを提供します:
 
-|**アプリケーション**|**機能の更新プログラム**|**セキュリティの更新プログラムを入手できます。**|**更新パッケージのダウンロード リンク**|
+|**アプリケーション**|**機能の更新プログラム**|**セキュリティの更新プログラムを入手できます。**|**更新プログラム パッケージのダウンロード リンク**|
 |:-----|:-----|:-----|:-----|
 |Microsoft AutoUpdate 4.9 <br/>| バグ修正および更新プログラムをインストールするパフォーマンスの向上。 <br/>|<br/> | [Microsoft AutoUpdate 更新パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.9.19030902_Updater.pkg)
 
 **リリース日:** 2019 年 3 月 12 日
 
- このリリースでは、次の更新プログラムを提供します:
+ このリリースでは、次の更新プログラムを提供します。
 
-|**アプリケーション**|**機能の更新プログラム**|**セキュリティの更新プログラムを入手できます。**|**更新パッケージのダウンロード リンク**|
+|**アプリケーション**|**機能の更新プログラム**|**セキュリティの更新プログラムを入手できます。**|**更新プログラム パッケージのダウンロード リンク**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>| <br/> | |[Word の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.23.19030902_Updater.pkg) <br/>|
-|Excel  <br/>| **6 つの強力な機能:** スプレッドシートを強化する 6 つの新しい関数が追加されました。FILTER、SORT、SORTBY、UNIQUE、SEQUENCE、RANDARRAY です。 <br/><br/>  |  <br/>  |[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.23.19030902_Updater.pkg) <br/>|
+|Excel  <br/>|  <br/><br/>  |  <br/>  |[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.23.19030902_Updater.pkg) <br/>|
 |PowerPoint  <br/>| **図の移動がよりスムーズに:** トラックパッドで指を移動させて、画面全体でのインクの流れをご覧ください。 [詳細情報](https://support.office.com/article/bc7f48ff-f152-4ee8-9081-d3121788024f) <br/><br/> | <br/>|[PowerPoint の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.23.19030902_Updater.pkg) <br/>|
 |Outlook  <br/>|  <br/><br/>  ||[Outlook の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.23.19030902_Updater.pkg) <br/>|
 
@@ -70,7 +91,7 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 
  このリリースでは、次の更新プログラムを提供します。
 
-|**アプリケーション**|**機能の更新プログラム**|**セキュリティの更新プログラムを入手できます。**|**更新パッケージのダウンロード リンク**|
+|**アプリケーション**|**機能の更新プログラム**|**セキュリティの更新プログラムを入手できます。**|**更新プログラム パッケージのダウンロード リンク**|
 |:-----|:-----|:-----|:-----|
 |Microsoft AutoUpdate 4.8 <br/>| MacOS 10.10 の MAU オプトイン自動更新プロンプトの問題が修正されました <br/><br/> MAU ApplicationID が 'MSau03' から 'MSau04' に更新されました <br/><br/> 他のバージョン実行中のインストールのための MAU Privileged Helper の問題が修正されました <br/>|<br/> | [Microsoft AutoUpdate 更新パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.8.19022003_Updater.pkg)|
 
@@ -78,9 +99,9 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
   
  *バージョン 16.22.1 (ビルド 19022000)*
 
- このリリースでは、次の更新プログラムを提供します:
+ このリリースでは、次の更新プログラムを提供します。
 
-|**アプリケーション**|**機能の更新プログラム**|**セキュリティの更新プログラムを入手できます。**|**更新パッケージのダウンロード リンク**|
+|**アプリケーション**|**機能の更新プログラム**|**セキュリティの更新プログラムを入手できます。**|**更新プログラム パッケージのダウンロード リンク**|
 |:-----|:-----|:-----|:-----|
 |Outlook  <br/>| Google アカウントの認証での問題が修正されました。<br/><br/> 予定表の同期での問題が修正されました。 <br/>  | |[Outlook の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.22.19022000_Updater.pkg) <br/>|
  
@@ -88,12 +109,12 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
   
  *バージョン 16.22.0 (ビルド 19021100)*
 
- このリリースでは、次の更新プログラムを提供します:
+ このリリースでは、次の更新プログラムを提供します。
 
-|**アプリケーション**|**機能の更新プログラム**|**セキュリティの更新プログラムを入手できます。**|**更新パッケージのダウンロード リンク**|
+|**アプリケーション**|**機能の更新プログラム**|**セキュリティの更新プログラムを入手できます。**|**更新プログラム パッケージのダウンロード リンク**|
 |:-----|:-----|:-----|:-----|
-|Word  <br/>| **トラックパッドでスケッチする:** トラックパッドで指を移動させて、画面全体でのインクの流れをご覧ください。 [詳細情報](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/> | |[Word の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.22.19021100_Updater.pkg) <br/>|
-|Excel  <br/>| **トラックパッドでスケッチする:** トラックパッドで指を動かし、画面上でインク フローを表示できます。[詳細](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>  | [CVE-2019-0669](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0669) <br/><br/>  |[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.22.19021100_Updater.pkg) <br/>|
+|Word  <br/>| **トラックパッドでスケッチする:** トラックパッドで指を動かし、画面上でインク フローを表示できます。[詳細](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/> | |[Word の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.22.19021100_Updater.pkg) <br/>|
+|Excel  <br/>| **トラックパッドでスケッチする:** トラックパッドで指を動かし、画面上でインク フローを表示できます。[詳細](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>  | [CVE-2019-0669](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2019-0669) <br/><br/>  |[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.22.19021100_Updater.pkg) <br/>|
 |PowerPoint  <br/>| **トラックパッドでスケッチする:** トラックパッドで指を動かし、画面上でインク フローを表示できます。[詳細](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/> | <br/>|[PowerPoint の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.22.19021100_Updater.pkg) <br/>|
 |Outlook  <br/>|  <br/><br/>  ||[Outlook の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.22.19021100_Updater.pkg) <br/>|
 |Microsoft Auto Update 4.7 <br/>| <br/>|<br/> | [Microsoft AutoUpdate 更新パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
@@ -103,11 +124,11 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 
  **リリース日:** 2019 年 1 月 24 日 
   
- *Version 16.21.0 (Build 19011700)*
+ *バージョン 16.21.0 (ビルド 19011700)*
 
- このリリースでは、次の更新プログラムを提供します:
+ このリリースでは、次の更新プログラムを提供します。
 
-|**アプリケーション**|**機能の更新プログラム**|**セキュリティの更新プログラムを入手できます。**|**更新パッケージのダウンロード リンク**|
+|**アプリケーション**|**機能の更新プログラム**|**セキュリティの更新プログラムを入手できます。**|**更新プログラム パッケージのダウンロード リンク**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>| 中国語のローカライズでの問題が修正されました。<br/><br/>| |[Word の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011700_Updater.pkg) <br/>|
 |Outlook  <br/>| 中国語のローカライズでの問題が修正されました。<br/><br/>  | |[Outlook の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011700_Updater.pkg) <br/>|
@@ -116,7 +137,7 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
   
  *バージョン 16.21.0 (ビルド 190102303)* このリリースでは、次の更新プログラムを提供します。
  
-|**アプリケーション**|**機能の更新プログラム**|**セキュリティの更新プログラムを入手できます。**|**更新パッケージのダウンロード リンク**|
+|**アプリケーション**|**機能の更新プログラム**|**セキュリティの更新プログラムを入手できます。**|**更新プログラム パッケージのダウンロード リンク**|
  |:-----|:-----|:-----|:-----|
  |Excel  <br/>| Unicode と非 Unicode が混在する場合の文字間スペースの不具合が修正されました。 <br/><br/> | <br/><br/>  |[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.21.19012303_Updater.pkg) <br/>|
 
@@ -124,9 +145,9 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
   
  *バージョン 16.21.0 (ビルド 190101500)* 
   
-このリリースでは、次の更新プログラムを提供します:
+このリリースでは、次の更新プログラムを提供します。
 
-|**アプリケーション**|**機能の更新プログラム**|**セキュリティの更新プログラムを入手できます。**|**更新パッケージのダウンロード リンク**|
+|**アプリケーション**|**機能の更新プログラム**|**セキュリティの更新プログラムを入手できます。**|**更新プログラム パッケージのダウンロード リンク**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>| **iPhone から直接 Word へ:** Apple Continuity Camera を使用して、写真を iPhone から文書へ挿入します。macOS Mojave が必要です。[詳細情報](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> **ドキュメントに機密ラベルを適用する:** ドキュメントに機密ラベルを適用すると、ドキュメントは組織の情報保護ポリシーに準拠したものになります。[詳細情報](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**フィルターが適用された SVG を挿入する機能:** Office ユーザーは、フィルターが適用された SVG を挿入できるようになりました。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>| [CVE-2019-0561](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2019-0561): Microsoft Word の情報漏えいの脆弱性  <br/><br/> [CVE-2019-0585](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2019-0585): Microsoft Word のリモート コード実行の脆弱性 |[Word の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011500_Updater.pkg) <br/>|
 |Excel  <br/>| **コメントを利用して共同作業を行う:** 返信ボックスが組み込まれているので、スプレッドシートで直接会話を続けることができます。[詳細情報](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)<br/><br/> **ワークシートに機密ラベルを適用する:** ワークシートに機密ラベルを適用すると、ワークシートは組織の情報保護ポリシーに準拠したものになります。[詳細情報](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**フィルターが適用された SVG を挿入する機能:** Office ユーザーは、フィルターが適用された SVG を挿入できるようになりました。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/> | <br/><br/>  |[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.21.19011500_Updater.pkg) <br/>|
@@ -144,9 +165,9 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
   
  *バージョン 16.20.0 (ビルド 18120801)* 
   
-このリリースでは、次の更新プログラムを提供します:
+このリリースでは、次の更新プログラムを提供します。
 
-|**アプリケーション**|**機能の更新プログラム**|**セキュリティの更新プログラムを入手できます。**|**更新パッケージのダウンロード リンク**|
+|**アプリケーション**|**機能の更新プログラム**|**セキュリティの更新プログラムを入手できます。**|**更新プログラム パッケージのダウンロード リンク**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>| **目に優しい濃色モード:** 光の少ない環境において目に優しい、暗い背景色を利用できます。 macOS Mojave が必要です。 <br/><br/>  **テキストの外観を維持する:** フォントを埋め込むことにより、すべてのコンピューターでドキュメントのテキストの外観を同一にします。これは嬉しい機能です。[詳細情報](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/><br/>| |[Word の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.20.18120801_Updater.pkg) <br/>|
 |Excel  <br/>|  **目に優しい濃色モード:** 光の少ない環境において目に優しい、暗い背景色を利用できます。 macOS Mojave が必要です。 <br/><br/> | [CVE-2018-8597](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8597): Microsoft Excel のリモート コード実行の脆弱性 <br/><br/> [CVE-2018-8627](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8627): Microsoft Excel の情報漏えいの脆弱性 |[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.20.18120801_Updater.pkg) <br/>|
@@ -162,9 +183,9 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
   
  *バージョン 16.19.0 (ビルド 18110915)* 
   
-このリリースでは、次の更新プログラムを提供します:
+このリリースでは、次の更新プログラムを提供します。
 
-|**アプリケーション**|**機能の更新プログラム**|**セキュリティの更新プログラムを入手できます。**|**更新パッケージのダウンロード リンク**|
+|**アプリケーション**|**機能の更新プログラム**|**セキュリティの更新プログラムを入手できます。**|**更新プログラム パッケージのダウンロード リンク**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>| **画像の取得:** Office アプリ内から Web で画像を検索します。[挿入]、[オンライン​​画像] の順に選択して始めます。[詳細情報](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d) <br/><br/>  **ファイル名の便利なツール:** ファイル名をクリックして、すばやくクラウド ドキュメントの移動や名前の変更、またはバージョン履歴の参照を行うことができます。[詳細情報](https://support.office.com/article/baea7aab-760b-4ee0-af58-06e940d505a4) <br/><br/>||[Word の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.19.18110915_Updater.pkg) <br/>|
 |Excel  <br/>| **画像の取得:** Office アプリ内から Web で画像を検索します。[挿入]、[オンライン​​画像] の順に選択して始めます。[詳細情報](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d) <br/><br/> **ファイル名の便利なツール:** ファイル名をクリックして、すばやくクラウド ドキュメントの移動や名前の変更、またはバージョン履歴の参照を行うことができます。[詳細情報](https://support.office.com/article/baea7aab-760b-4ee0-af58-06e940d505a4) <br/><br/>|[CVE-2018-8574](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8574): Microsoft Excel のリモート コード実行の脆弱性 <br/>[CVE-2018-8577](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8577): Microsoft Excel のリモート コード実行の脆弱性 <br/><br/>|[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.19.18110915_Updater.pkg) <br/>|
@@ -179,9 +200,9 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
   
  *バージョン 16.18.0 (ビルド 18101400)* 
   
-このリリースでは、次の更新プログラムを提供します:
+このリリースでは、次の更新プログラムを提供します。
 
-|**アプリケーション**|**機能の更新プログラム**|**セキュリティの更新プログラムを入手できます。**|**更新パッケージのダウンロード リンク**|
+|**アプリケーション**|**機能の更新プログラム**|**セキュリティの更新プログラムを入手できます。**|**更新プログラム パッケージのダウンロード リンク**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>|||[Word の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.18.18101400_Updater.pkg) <br/>|
 |Excel  <br/>|**コメントを利用して共同作業を行う:** 返信ボックスが組み込まれているので、スプレッドシートで直接会話を続けることができます。[詳細情報](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8 ) <br/> <br/>  **オートコンプリートのさらなる自動機能:** 数式を入力するときに、選択できる引数のオプションを示す、便利なオートコンプリート メニューが表示されます。  <br/><br/> **VoiceOver のナビゲーションの改善:** Excel で VoiceOver を使用している場合は、VO+U キーを押してシート間を移動できます。macOS のトラックパッド コマンダーを有効にしてこれを行うこともできます。<br/> ||[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.18.18101400_Updater.pkg) <br/>|
@@ -196,9 +217,9 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
   
  *バージョン 16.17.0 (ビルド 18090901)* 
   
-このリリースでは、次の更新プログラムを提供します:
+このリリースでは、次の更新プログラムを提供します。
   
-|**アプリケーション**|**機能の更新プログラム**|**セキュリティの更新プログラムを入手できます。**|**更新パッケージのダウンロード リンク**|
+|**アプリケーション**|**機能の更新プログラム**|**セキュリティの更新プログラムを入手できます。**|**更新プログラム パッケージのダウンロード リンク**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/> |<br/>**インクで描画する:** マウスまたはタッチ パッドと [描画] タブにあるペンを使って、手書き入力、描画、強調表示を行うことができます。[詳細情報](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>**3D モデルを挿入してすべての角度から確認する:** 簡単に 3D モデルを挿入して、それを 360 度回転させます。[詳細情報](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/>||[Word の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.17.18090901_Updater.pkg) <br/>|
 |Excel  <br/> |**インクで描画する:** マウスまたはタッチ パッドと [描画] タブにあるペンを使って、手書き入力、描画、強調表示を行うことができます。[詳細情報](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**3D モデルを挿入してすべての角度から確認する:** 簡単に 3D モデルを挿入して、それを 360 度回転させます。[詳細情報](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**カスタム ショートカットの復活:** お客様からのご意見を基に、ご要望に応じて、カスタム ショートカット キーを復活させました。[詳細情報](https://support.office.com/article/6bbeb90e-96d9-4e03-b199-fc026ebdc321) <br/>|[CVE-2018-8429](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8429): Microsoft Excel の情報漏えいの脆弱性 <br/><br/>[CVE-2018-8331](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8331): Microsoft Excel のリモート コード実行の脆弱性 <br/>  |[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.17.18090901_Updater.pkg) <br/>|
@@ -215,7 +236,7 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
   
 このリリースでは、次の更新プログラムを提供します。
   
-|**アプリケーション**|**機能の更新プログラム**|**セキュリティの更新プログラムを入手できます。**|**更新パッケージのダウンロード リンク**|
+|**アプリケーション**|**機能の更新プログラム**|**セキュリティ更新プログラム**|**更新プログラム パッケージのダウンロード リンク**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/> |||[Word の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.16.18081201_Updater.pkg) <br/>|
 |Excel  <br/> ||[CVE-2018-8375](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8375): Microsoft Excel のリモート コード実行の脆弱性  <br/>[CVE-2018-8382](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8382): Microsoft Excel の情報漏えいの脆弱性  <br/>  |[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.16.18081402_Updater.pkg) <br/>|
@@ -232,7 +253,7 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
   
 このリリースでは、次の更新プログラムを提供します。
   
-|**アプリケーション**|**機能の更新プログラム**|**セキュリティの更新プログラムを入手できます。**|**更新パッケージのダウンロード リンク**|
+|**アプリケーション**|**機能の更新プログラム**|**セキュリティ更新プログラム**|**更新プログラム パッケージのダウンロード リンク**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/> |||[Word の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.15.18070902_Updater.pkg) <br/>|
 |Excel  <br/> |||[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.15.18070902_Updater.pkg) <br/>|
@@ -258,7 +279,7 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
   
 このリリースでは、次の更新プログラムを提供します。
   
-|**アプリケーション**|**機能の更新プログラム**|**更新パッケージのダウンロード リンク**|
+|**アプリケーション**|**機能の更新プログラム**|**更新プログラム パッケージのダウンロード リンク**|
 |:-----|:-----|:-----|
 |Word  <br/> |**学習ツールによる読みやすさの向上:** 目を休ませます。テキストの間隔、列の幅、ページの色を調整します。また、Word が声に出して文書を読んでいるように聞こえ、読まれているテキストが強調表示されます。[詳細](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3) <br/> ||
 |Excel  <br/> |**一瞬でデータを入力:** フラッシュ フィルにいくつかの例を入力すると、その後の入力で自動的にデータが入力されるようになります。[詳細](https://support.office.com/article/041edfe2-05bc-40e6-b933-ef48c3f308c6) <br/><br/> **言葉の壁の解消:** 別の言語の単語、語句、文章を Microsoft Translator で翻訳します。[詳細](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f) <br/> ||
@@ -294,7 +315,7 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
   
 このリリースでは、次の更新プログラムを提供します。
   
-|**アプリケーション**|**機能の更新プログラム**|**セキュリティの更新プログラムを入手できます。**|**更新パッケージのダウンロード リンク**|
+|**アプリケーション**|**機能の更新プログラム**|**セキュリティ更新プログラム**|**更新プログラム パッケージのダウンロード リンク**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/> |**編集するときに共同編集者とチャットします:** Word を終了せずに共同編集者とチャットすることで、より効果的な共同作業ができます。[詳細情報](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd.aspx) <br/><br/> **アイコンの挿入と編集:** 500 個のアイコンのうち 1 つを挿入、編集することにより、アイコンを使用してドキュメントに視覚的な効果を与えます。[詳細を見る](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79) <br/><br/> **LinkedIn を活用して、最適な履歴書または CV を作成します:** 履歴書アシスタントによって、特定の役割に関する職歴や上位スキルなどを参照できます。[校閲] タブにあります。[詳細を見る](https://support.office.com/article/444ff6f0-ef74-4a9c-9091-ffd7a9d1917a.aspx)<br/> <br/> **アクセシビリティの構築：** キーボードを使用してリボンにすばやくアクセスし、挿入した単語や画像の書式設定を行います。  <br/> |||
 |Excel  <br/> |**編集するときに共同編集者とチャットします:** Excel を終了せずに共同編集者とチャットすることで、より効果的な共同作業ができます。[詳細情報](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd.aspx) <br/><br/> **アイコンの挿入と編集:** 500 個のアイコンのうち 1 つを挿入、編集することにより、アイコンを使用してブックに視覚的な効果を与えます。[詳細を見る](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79) <br/> <br/>**タイムラインを使用してデータをフィルタリングする:** タイムライン フィルターで日付範囲をスライドし、ピボットテーブルを簡単にフィルタリングします。[詳細を見る](https://support.office.com/article/d3956083-01be-408c-906d-6fc99d9fadfa) <br/> |[CVE-2018-8147](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8147): Microsoft Excel のリモート コード実行の脆弱性   <br/><br/> [CVE-2018-8162](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8162): Microsoft Excel のリモート コード実行の脆弱性  <br/> ||
@@ -307,11 +328,11 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 
  **リリース日:** 2018 年 4 月 11 日 
   
- *Version 16.12.0 (Build 18041000)* 
+ *バージョン 16.12.0 (ビルド 18041000)* 
   
 このリリースでは、次の更新プログラムを提供します。
   
-|**アプリケーション**|**機能の更新プログラム**|**セキュリティの更新プログラムを入手できます。**|**セキュリティ以外の更新プログラム**|**更新パッケージのダウンロード リンク**|
+|**アプリケーション**|**機能の更新プログラム**|**セキュリティ更新プログラム**|**セキュリティ以外の更新プログラム**|**更新プログラム パッケージのダウンロード リンク**|
 |:-----|:-----|:-----|:-----|:-----|
 |Word  <br/> |**共有とコラボレーションの改善:** ローカルで同期された OneDrive のドキュメントは、クラウドから直接開いて、容易に自動保存、共有、コラボレーションすることができます。  <br/> <br/> **視覚的な効果を与える:** ドキュメントにスケーラブル ベクター グラフィックス (SVG) を挿入、編集し、視覚的な関心を高め、高い画質を維持します。[詳細を見る](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/> ||||
 |Excel  <br/> |**共有とコラボレーションの改善:** ローカルで同期された OneDrive のブックは、クラウドから直接開いて、容易に自動保存、共有、コラボレーションすることができます。  <br/> <br/> **視覚的な効果を与える:** ブックにスケーラブル ベクター グラフィックス (SVG) を挿入、編集し、視覚的な関心を高め、高い画質を維持します。[詳細を見る](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/> |[CVE-2018-1029](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-1029): Microsoft Excel のリモート コード実行の脆弱性  <br/> ||||
@@ -333,11 +354,11 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
  
  **リリース日:** 2018 年 3 月 13 日 
   
- *Version 16.11.0 (Build 18031100)* 
+ *バージョン 16.11.0 (ビルド 18031100)* 
   
 このリリースでは、次の更新プログラムを提供します。
   
-|**アプリケーション**|**機能の更新プログラム**|**セキュリティの更新プログラムを入手できます。**|**セキュリティ関連ではない更新プログラム**|
+|**アプリケーション**|**機能の更新プログラム**|**セキュリティ更新プログラム**|**セキュリティ以外の更新プログラム**|
 |:-----|:-----|:-----|:-----|:-----|
 |Word  <br/> |**フォーカス モードでさらに実行する:** 設定したズーム レベルでフォーカス モードが開き、スクロール中にページ番号が表示されます。  <br/> ||||
 |Excel  <br/> ||[CVE-2018-0907](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0907): Microsoft Office Excel のセキュリティ機能のバイパス  <br/> |||
@@ -425,7 +446,7 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 
  **リリース日:** 2017 年 10 月 10 日 
   
- *Version 15.39.0 (Build 17101000)* 
+ *バージョン 15.39.0 (ビルド 17101000)* 
   
 このリリースでは、次の更新プログラムを提供します。
   
@@ -482,7 +503,7 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
   
  **リリース日:** 2017 年 7 月 11 日 
   
- *Version 15.36.0 (Build 17070201)* 
+ *バージョン 15.36.0 (ビルド 17070201)* 
 
 このリリースでは、次の更新プログラムを提供します。
   
@@ -636,7 +657,7 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
   
  **リリース日:** 2016 年 11 月 15 日 
   
- *Version 15.28.0 (Build 16111501)* 
+ *バージョン 15.28.0 (ビルド 16111501)* 
   
 このリリースでは、個々のアプリケーションの更新プログラム パッケージに関する問題が修正されています。
 
