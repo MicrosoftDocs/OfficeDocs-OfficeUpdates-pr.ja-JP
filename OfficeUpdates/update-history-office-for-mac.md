@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT プロフェッショナルに、office for Mac の最新更新プログラムに関する情報を提供します。それには、ダウンロード パッケージへのリンク、更新履歴が含まれます
-ms.openlocfilehash: 02e697f3a670e6cfbf43b0c527c5a17e66f5bc71
-ms.sourcegitcommit: 90d2b3259604e27f5fe860221d1a89d3da28fe5a
+ms.openlocfilehash: 63d199cc11c73571d8f4836ada25e74e4d01a481
+ms.sourcegitcommit: a9bf63c589b511ddc8c66c9221d20ea9654d60ea
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "31924325"
+ms.lasthandoff: 04/22/2019
+ms.locfileid: "31958098"
 ---
 # <a name="update-history-for-office-for-mac"></a>Office for Mac の更新履歴
   
@@ -41,7 +41,7 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 |**Application**|**ダウンロード リンク**|**インストール パッケージの SHA-256 ハッシュ**|
 |:-----|:-----|:-----|
 |Office スイート <br/> (Teams あり)   |[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=2009112) <br/> |5EBBF9652E8D231DB0843239824044A3182E1DEAE6ED0D21C06BD02072D0A643<br/> |
-|Office スイート <br/>(Teams なし)  <br/> |[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |867D0ADF31C7AA1DDDE623E775FE54208C4B0E204484279E71D4CC6FBBA8B405 <br/> |
+|Office スイート <br/>(Teams なし)  <br/> |[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |8F5170255749A4450833FC60A03F677215FC9DB698DB35FF173165AF3D5FD1E4 <br/> |
 |Word  <br/> |[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=525134) <br/> [更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.24.19041401_Updater.pkg) <br/> |0CF9FA1691849B6464F8479CB1092586925D8149F8E87DA81144A60F7D7E3889 <br/> |
 |Excel  <br/> |[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=525135) <br/> [更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.24.19041401_Updater.pkg) <br/> |E3CEF0B1C22884137DC8FB46CA852B15C0DBB4CFB51ABD446094FAF40E0D1887 <br/> |
 |PowerPoint  <br/> |[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=525136) <br/> [更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.24.19041401_Updater.pkg) <br/> |0287F1634DF2C0A74685030EC21F00580F4CE1AF8C72051EBBEA89402FFF8BE2 <br/> |
