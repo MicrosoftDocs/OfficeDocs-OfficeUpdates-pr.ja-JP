@@ -3,19 +3,19 @@ title: Office Insider チャンネル の更新履歴
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 03/19/2019
+ms.date: 04/19/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Windows デスクトップ用の月次チャンネル Insider ファースト リリースの更新履歴を Insider の皆様に提供します。
-ms.openlocfilehash: c7ed3256c7253f2b1d42267447909a10479b636b
-ms.sourcegitcommit: d4f64674c19638db73a9706b105299dc0559ea64
+ms.openlocfilehash: b7eeee07099d7e1e32bad421d00c4a0570ff4e62
+ms.sourcegitcommit: a9bf63c589b511ddc8c66c9221d20ea9654d60ea
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/08/2019
-ms.locfileid: "31516472"
+ms.lasthandoff: 04/22/2019
+ms.locfileid: "31958148"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Office Insider チャンネル の更新履歴
 
@@ -33,7 +33,11 @@ Insider レベルに登録している場合は、新機能や強化された機
 
 リリース ノートを確認するには、「[Windows デスクトップ版 Office のリリース ノート](https://docs.microsoft.com/ja-JP/OfficeUpdates/release-notes-office-insider)」を参照してください。
 
-**2019 年 4 月 1 日**<br/> バージョン 1904 (ビルド 11527.20004)<br/>
+[//]: # (削除禁止)
+
+**2019 年 4 月 15 日**<br/> バージョン 1905 (ビルド 11609.20002)<br/>
+
+**2019 年 4 月 7 日**<br/> バージョン 1904 (ビルド11601.20042)<br/>
 
 **2019 年 3 月 18 日**<br/> バージョン 1904 (ビルド 11520.20004)<br/>
 
@@ -62,13 +66,15 @@ Insider レベルに登録している場合は、新機能や強化された機
 
 ![Insider コミュニティを表示している画像。 ](images/insidercommunity.png) <br/>
 **Office Insider コミュニティ**<br/> 他の Insider とチャットする場合は、コミュニティに投稿してください。<br/> 
-[コミュニティにアクセスする](https://go.microsoft.com/fwlink/?linkid=843493)<br/> 
+[コミュニティを訪れる](https://go.microsoft.com/fwlink/?linkid=843493)<br/> 
 
 ![Twitter のアイコンを表示している画像。 ](images/twitter.png)<br/>
-**Twitter の Office Insider**<br/> @OfficeInsider では、Insider 向けのリリースが頻繁に投稿され、Insider 向けの特別なイベントもホストされます。<br/> 
+**Twitter の Office Insider**<br/> @Officeinsider では、Insider 向けのリリースが頻繁に投稿され、Insider 向けの特別なイベントもホストされます。<br/> 
 [Twitter でフォローしてください](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
-[![IFacebook のアイコンを表示している画像。 ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
+
+  [
+  ![Facebook のアイコンを表示している画像。 ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
 
 
 **新機能をいち早く取得**
