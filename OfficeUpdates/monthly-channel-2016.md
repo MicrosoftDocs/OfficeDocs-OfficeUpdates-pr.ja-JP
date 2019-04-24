@@ -1,5 +1,5 @@
 ---
-title: 2016 の毎月のチャネルのリリースのリリース ノート
+title: 2016の月次チャネルリリースのリリースノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -9,24 +9,24 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: 2016 の月のチャネルのリリース ・ ノートでの IT プロフェッショナルが Office 365 用リソースの解放を提供します。
+description: IT プロフェッショナルに、Office 365 ProPlus の月次チャネルリリースのリリースノートを2016で提供します。
 ms.openlocfilehash: 7a5f8b13f06fc236cedc50d394d361dc1d797dfd
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "19556214"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32438771"
 ---
-# <a name="release-notes-for-monthly-channel-releases-in-2016"></a>2016 の毎月のチャネルのリリースのリリース ノート
+# <a name="release-notes-for-monthly-channel-releases-in-2016"></a>2016の月次チャネルリリースのリリースノート
 
-これらのリリース ・ ノートは、新機能、セキュリティ更新プログラム、および 2016年の Office 365 用リソースを月のチャネルの更新プログラムに含まれるセキュリティ以外の更新プログラムに関する情報を提供します。
+これらのリリースノートでは、2016の Office 365 ProPlus への月次チャネル更新に含まれる新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムについて説明します。
  
 > [!NOTE]
 > - また、Visio Pro for Office 365 および Project Online デスクトップ クライアントの新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムについても説明しています。
 > - ここに記載されている情報は、Business Premium など一部の Office 365 プランに付属する Office のバージョンの、Office 365 Business にも該当します。
-> - 毎月チャネルでは、2017年 9 月の前に現在のチャネルを付きです。
+> - 月次チャネルは、2017年9月より前に Current Channel という名前が付けられました。
 
-## <a name="version-1611-december-13"></a>バージョン 1611: 12 月 13 日
+## <a name="version-1611-december-13"></a>バージョン 1611:12 月13日
 *バージョン 1611 (ビルド 7571.2075)*
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
@@ -36,15 +36,15 @@ ms.locfileid: "19556214"
 -   マイクロソフト セキュリティ情報 [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Microsoft Office のセキュリティ更新プログラム (3204068)
 
 
-## <a name="version-1611-december-6"></a>バージョン 1611: 12 月 6
+## <a name="version-1611-december-6"></a>バージョン 1611:12 月6日
 *バージョン 1611 (ビルド 7571.2072)*
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
 -   **マップ グラフ:** 異なる地理的領域間で値を比較し、カテゴリを表示します。 [詳細情報](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 -   **SVG 画像:** ブックにスケーラブル ベクター グラフィックス (SVG) を挿入して編集します。 [詳細情報](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **アイコンの挿入:** [挿入] \> [イラスト] \> [アイコン] の順に移動して、スケーラブル ベクター グラフィックス (SVG) ファイルの標準ライブラリのアイコンを使用します。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **[アイコンの挿入]:**   [ \>図\>の挿入] アイコンを使用して、スケーラブルベクターグラフィックス (SVG) ファイルの標準ライブラリからアイコンを使用します。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **最近使用したフォルダーへの保存:** [ファイル] \> [名前を付けて保存] の順に移動し、[最近使用した項目] タブを使用して、最近使用したフォルダーにブックを保存します。
--   **アクセシビリティ機能の向上:** ブックの読み取りと編集に、キーボード、ナレーター、その他の支援技術を使用するためのサポートが改善されました。[詳細情報](https://support.office.com/article/51fcb17a-b15b-4b13-ae04-d4f38ece3f78)
+-   **アクセシビリティ機能の向上:** ブックの読み取りと編集に、キーボード、ナレーター、その他の支援技術を使用するためのサポートが改善されました。 [詳細情報](https://support.office.com/article/51fcb17a-b15b-4b13-ae04-d4f38ece3f78)
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
 -   連結式を含むハイパーリンクが連結結果の一部を無視する問題を修正します。
@@ -54,13 +54,13 @@ ms.locfileid: "19556214"
 
 ### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
 -   **SVG 画像:** 電子メールにスケーラブル ベクター グラフィックス (SVG) を挿入して編集します。 [詳細情報](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **アイコンの挿入:** [挿入] \> [イラスト] \> [アイコン] の順に移動して、スケーラブル ベクター グラフィックス (SVG) ファイルの標準ライブラリのアイコンを使用します。  [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **[アイコンの挿入]:**   [ \>図\>の挿入] アイコンを使用して、スケーラブルベクターグラフィックス (SVG) ファイルの標準ライブラリからアイコンを使用します。  [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **タップ:** 組織の関連するドキュメントからコンテンツを探し、再利用します。 [詳細情報](https://support.office.com/article/860118fc-1f61-41f6-922f-40084a284658)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新
 -   **SVG 画像:** プレゼンテーションにスケーラブル ベクター グラフィックス (SVG) を挿入して編集します。 [詳細情報](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **アイコンの挿入:** [挿入] \> [イラスト] \> [アイコン] の順に移動して、スケーラブル ベクター グラフィックス (SVG) ファイルの標準ライブラリのアイコンを使用します。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
--   **共同編集、リアルタイム入力:** 他のユーザーが作業しているプレゼンテーションとビューの変更に入力するときに参照してください。 [詳細情報](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
+-   **[アイコンの挿入]:**   [ \>図\>の挿入] アイコンを使用して、スケーラブルベクターグラフィックス (SVG) ファイルの標準ライブラリからアイコンを使用します。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **共同編集時のリアルタイム入力:** 他のユーザーがプレゼンテーションで作業している場所を確認し、入力した変更を表示します。 [詳細情報](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **最近使用したフォルダーへの保存:** [ファイル] \> [名前を付けて保存] の順に移動し、[最近使った項目] タブを使用して、最近使用したフォルダーにプレゼンテーションを保存します。
 -   **正確なインク図形の作成:** セグメント消しゴムをドラッグして、線のぎりぎりまで余分なインクを削除します。
 -   **ペンを使ったオブジェクトの選択と操作:** デジタル ペンを使ってオブジェクト ハンドルをつかみ、オブジェクトの移動、サイズ変更、回転を行うか、サポートされているペン ボタンを使って、インクのなげなわ選択を行います。
@@ -81,7 +81,7 @@ ms.locfileid: "19556214"
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: 機能の更新
 
--   **UI の [共有] への更新:** [デスクトップの表示] を [画面の共有] に、[プログラムの表示] を [ウィンドウ??の共有] に変更するなど、UI 要素で [表示] を [共有] に変更します。
+-   **ui** 要素で [表示] を [共有] に変更します。たとえば、[デスクトップ] を [共有画面] に変更し、[プログラムの表示] を [共有ウィンドウ] に変更します。
 -   **[自分の番号] の無効化:** DisableDisplayMyNumber レジストリ エントリを使用して、ダイヤル パッドの下の “自分の番号” を無効にします。
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: セキュリティ以外の更新プログラム
@@ -119,7 +119,7 @@ ms.locfileid: "19556214"
 
 ### <a name="word-feature-updates"></a>Word: 機能の更新
 -   **SVG 画像:** ドキュメントにスケーラブル ベクター グラフィックス (SVG) を挿入して編集します。 [詳細情報](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **アイコンの挿入:** [挿入] \> [イラスト] \> [アイコン] の順に移動して、スケーラブル ベクター グラフィックス (SVG) ファイルの標準ライブラリのアイコンを使用します。  [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **[アイコンの挿入]:**   [ \>図\>の挿入] アイコンを使用して、スケーラブルベクターグラフィックス (SVG) ファイルの標準ライブラリからアイコンを使用します。  [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **最近使用したフォルダーへの保存:** [ファイル] \> [名前を付けて保存] の順に移動し、[最近使用した項目] タブを使用して、最近使用したフォルダーにドキュメントを保存します。
 -   **学習ツールでの閲覧機能の向上:** 閲覧モードでの新しいコマンドにより、文字間隔の調整、音節間の区切りの表示、およびドキュメントを音声で読み上げる際に各単語の強調表示が行われ、読み上げのスキルが向上しました。 [詳細情報](https://support.office.com/article/29efa413-e2da-4cac-b2a5-2defc6d34fd9)
 -   **アクセシビリティ機能の向上:** ドキュメントの読み取りと編集に、キーボード、ナレーター、その他の支援技術を使用するためのサポートが改善されました。 [詳細情報](https://support.office.com/article/69aed572-336e-4722-a97e-23393cc481b2)
@@ -135,7 +135,7 @@ ms.locfileid: "19556214"
 
 
 
-## <a name="version-1610-november-10"></a>バージョン 1610: 11 月 10 日
+## <a name="version-1610-november-10"></a>バージョン 1610:11 月10日
 *バージョン 1610 (ビルド 7466.2038)*
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
@@ -198,7 +198,7 @@ ms.locfileid: "19556214"
 
 
 
-## <a name="version-1609-november-8"></a>バージョン 1609: 11 月 8
+## <a name="version-1609-november-8"></a>バージョン 1609:11 月8日
 *バージョン 1609 (ビルド 7369.2055)*
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
@@ -209,7 +209,7 @@ ms.locfileid: "19556214"
 
 
 
-## <a name="version-1609-november-2"></a>11 月 2 日 1609 のバージョン:
+## <a name="version-1609-november-2"></a>バージョン 1609:11 月2日
 *バージョン 1609 (ビルド 7369.2054)*
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
@@ -245,7 +245,7 @@ ms.locfileid: "19556214"
 
 
 
-## <a name="version-1609-october-11"></a>1609 のバージョン: 10 月 11 日
+## <a name="version-1609-october-11"></a>バージョン 1609:10 月11日
 *バージョン 1609 (ビルド 7369.2038)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: セキュリティ以外の更新プログラム
@@ -262,7 +262,7 @@ ms.locfileid: "19556214"
 
 
 
-## <a name="version-1609-october-4"></a>1609 のバージョン: 10 月 4 日
+## <a name="version-1609-october-4"></a>バージョン 1609:10 月4日
 *バージョン 1609 (ビルド 7369.2024)*
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
@@ -279,7 +279,7 @@ ms.locfileid: "19556214"
 -   タグを検索しているときに、テキスト行の複数のタグのうち最初のタグだけが [タグの要約] パネルに表示される問題を修正します。
 
 ### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
--   **\@紹介:** 受信者を含めることで、入力や操作に尋ねられています、知っている、電子メールや予定表アイテムの本文に人の名前の後に @。 これにより、それらの人は To 行にも自動的に追加されます。 [詳細情報](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
+-   ** \@メンション:** 受信者が、電子メールアイテムまたは予定表アイテムの本文に @ 記号の後にユーザー名を含めることによって、入力またはアクションを要求していることを確認してください。 これにより、それらの人は To 行にも自動的に追加されます。 [詳細情報](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
 
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
 -   カスタマイズしたひな形を既定のテーマとして使用すると、余分な改行が新しいメール メッセージに追加され、フォントが Calibri に設定される問題を修正します。
@@ -330,11 +330,11 @@ ms.locfileid: "19556214"
 
 
 
-## <a name="version-1608-september-26"></a>バージョン 1608: 9 月 26 日
+## <a name="version-1608-september-26"></a>バージョン 1608: 9 月26日
 *バージョン 1608 (ビルド 7341.2035)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: セキュリティ以外の更新プログラム
--   なげなわツールから手描き入力ツールに切り替えるときにインク ストロークのゴーストが表示される問題を修正します。
+-   なげなわツールから手書き入力ツールに切り替えるときにインク ストロークのゴーストが表示される問題を修正します。
 -   コンテンツをなげなわツールで選んでドラッグ アンド ドロップすると、OneNote がクラッシュする問題を修正します。
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
@@ -342,7 +342,7 @@ ms.locfileid: "19556214"
 
 
 
-## <a name="version-1608-september-21"></a>バージョン 1608: 9 月 21 日
+## <a name="version-1608-september-21"></a>バージョン 1608: 9 月21日
 *バージョン 1608 (ビルド 7341.2032)*
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
@@ -389,7 +389,7 @@ ms.locfileid: "19556214"
 
 
 
-## <a name="version-1607-september-13"></a>バージョン 1607: 9 月 13 日
+## <a name="version-1607-september-13"></a>バージョン 1607: 9 月13日
 *バージョン 1607 (ビルド 7167.2060)*
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
@@ -406,7 +406,7 @@ ms.locfileid: "19556214"
 
 
 
-## <a name="version-1607-september-6"></a>バージョン 1607: 9 月 6
+## <a name="version-1607-september-6"></a>バージョン 1607: 9 月6日
 *バージョン 1607 (ビルド 7167.2055)*
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
@@ -414,7 +414,7 @@ ms.locfileid: "19556214"
 
 
 
-## <a name="version-1607-august-31"></a>バージョン 1607: 8 月 31 日
+## <a name="version-1607-august-31"></a>バージョン 1607: 8 月31日
 *バージョン 1607 (ビルド 7167.2047)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
@@ -425,7 +425,7 @@ ms.locfileid: "19556214"
 
 
 
-## <a name="version-1607-august-16"></a>バージョン 1607: 8 月 16 日
+## <a name="version-1607-august-16"></a>バージョン 1607: 8 月16日
 *バージョン 1607 (ビルド 7167.2040)*
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
@@ -465,7 +465,7 @@ ms.locfileid: "19556214"
 
 
 
-## <a name="version-1606-august-9"></a>バージョン 1606: 8 月 9
+## <a name="version-1606-august-9"></a>バージョン 1606: 8 月9日
 *バージョン 1606 (ビルド 7070.2036)*
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
@@ -491,7 +491,7 @@ ms.locfileid: "19556214"
 
 
 
-## <a name="version-1606-july-26"></a>バージョン 1606: 7 月 26 日
+## <a name="version-1606-july-26"></a>バージョン 1606: 7 月26日
 *バージョン 1606 (ビルド 7070.2033)*
 
 ### <a name="access-non-security-updates"></a>Access: セキュリティ以外の更新プログラム
@@ -510,7 +510,7 @@ ms.locfileid: "19556214"
 
 
 
-## <a name="version-1606-july-20"></a>バージョン 1606: 7 月 20 日
+## <a name="version-1606-july-20"></a>バージョン 1606: 7 月20日
 *バージョン 1606 (ビルド 7070.2028)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: セキュリティ以外の更新プログラム
@@ -525,7 +525,7 @@ ms.locfileid: "19556214"
 
 
 
-## <a name="version-1606-july-12"></a>バージョン 1606: 7 月 12
+## <a name="version-1606-july-12"></a>バージョン 1606: 7 月12日
 *バージョン 1606 (ビルド 7070.2026)*
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
@@ -544,11 +544,11 @@ ms.locfileid: "19556214"
 -   フォーム ベース認証を必要とするサーバーでドキュメントを開くと、Word がクラッシュする問題を修正します。
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
--   Office ドキュメントを SharePoint などの URL から開くと、その URL が / 文字で終わる場合に、PowerPoint、Word、Excel がクラッシュする問題を修正します。
+-   Office ドキュメントを SharePoint などの URL から開くと、そのURL が / 文字で終わる場合に、PowerPoint、Word、Excel がクラッシュする問題を修正します。
 
 
 
-## <a name="version-1606-july-5"></a>7 月 5 日 1606 のバージョン:
+## <a name="version-1606-july-5"></a>バージョン 1606: 7 月5日
 *バージョン 1606 (ビルド 7070.2022)*
 
 ### <a name="access-feature-updates"></a>Access: 機能の更新
@@ -575,7 +575,7 @@ ms.locfileid: "19556214"
 
 
 
-## <a name="version-1605-june-30"></a>バージョン 1605: 6 月 30 日
+## <a name="version-1605-june-30"></a>バージョン 1605: 6 月30日
 *バージョン 1605 (ビルド 6965.2063)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
@@ -597,7 +597,7 @@ ms.locfileid: "19556214"
 
 
 
-## <a name="version-1605-june-14"></a>バージョン 1605: 6 月 14 日
+## <a name="version-1605-june-14"></a>バージョン 1605: 6 月14日
 *バージョン 1605 (ビルド 6965.2058)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: セキュリティ以外の更新プログラム
@@ -628,11 +628,11 @@ ms.locfileid: "19556214"
 
 
 
-## <a name="version-1605-june-6"></a>バージョン 1605: 6 月 6
+## <a name="version-1605-june-6"></a>バージョン 1605: 6 月6日
 *バージョン 1605 (ビルド 6965.2053)*
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
--   **を得るし、改善点を変換:** 新規または強化されたデータの変換と電源のクエリ データ接続の機能です。 [詳細情報](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
+-   **& 変換の機能強化の取得:** Power Query のデータ変換とデータ接続機能の新機能と強化された機能。 [詳細情報](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
 -   [データの入力規則] ドロップダウン リストが破損し、複数のワークシートを含むブックで複製されるという問題の修正。
@@ -643,7 +643,7 @@ ms.locfileid: "19556214"
 ### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
 -   **簡略化されたプロファイルの作成:** Office 365 アカウントを使ってログインした状態で、Office 365 メールボックスの他の Outlook プロファイルを設定するためのユーザー インターフェイス (UI) の操作が簡略化されました。
 
-    注意: この機能はある期間にわたって段階的にサブスクライバーにロールアウトされるため、この機能がすぐに表示されない可能性があります。この機能が表示されるタイミングは、組織が Office を更新する方法によっても異なります。
+    注意: この機能はある期間にわたって段階的にサブスクライバーにロールアウトされるため、この機能がすぐに表示されない可能性があります。 この機能が表示されるタイミングは、組織が Office を更新する方法によっても異なります。
 
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
 -   .rtf 形式の電子メールを送信するときに、拡張記号文字が "1" に変更されるという問題の修正。
@@ -671,14 +671,14 @@ ms.locfileid: "19556214"
 -   **コラボレーション機能がリボン上でグループ化:** 共有、チャット、コメント、ドキュメントのアクティビティ、現在ドキュメントを編集している人などの機能が、Word と PowerPoint のリボン上でグループ化されました。 [詳細情報](https://blogs.office.com/2016/04/26/new-to-office-365-in-april-skype-for-business-mac-preview-bringing-collaboration-to-the-forefront-in-office-and-more/)
 -   **AD RMS 権利ポリシー テンプレートの設定:** 新しい Word、Excel、PowerPoint ドキュメントに適用する際に、[所有者 (作成者) に無期限のフル コントロールの権利を付与します] の設定が (特にこの設定を無効にする場合) 優先されるようにします。この設定を無効にする場合、テンプレートを適用するとドキュメントへのアクセスが制限される可能性があることを示す警告が表示されます。
 
-    注意: この設定が構成されているテンプレートを使用して既に保護されている既存のドキュメントは、変更されません。引き続き所有者が、これらのドキュメントに対する無期限のフル コントロールを持ちます。
+    注意: この設定が構成されているテンプレートを使用して既に保護されている既存のドキュメントは、変更されません。 引き続き所有者が、これらのドキュメントに対する無期限のフル コントロールを持ちます。
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 -   Office 365 ProPlus など、Office 2013 バージョンの Office 365 クライアントから Office 2016 バージョンへの Microsoft によるアップグレードの前に、一部の Office 2013 のライセンスとプログラムのインストール情報が削除される原因となった、キャッシュの問題の修正。
 
 
 
-## <a name="version-1604-may-23"></a>バージョン 1604: 5 月 23 日
+## <a name="version-1604-may-23"></a>バージョン 1604: 5 月23日
 *バージョン 1604 (ビルド 6868.2067)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
@@ -702,7 +702,7 @@ ms.locfileid: "19556214"
 
 
 
-## <a name="version-1604-may-10"></a>バージョン 1604: 5 月 10
+## <a name="version-1604-may-10"></a>バージョン 1604: 5 月10日
 *バージョン 1604 (ビルド 6868.2062)*
 
 ### <a name="word-security-updates"></a>Word: セキュリティ更新プログラム
@@ -713,7 +713,7 @@ ms.locfileid: "19556214"
 
 
 
-## <a name="version-1604-may-4"></a>バージョン 1604: 5 月 4
+## <a name="version-1604-may-4"></a>バージョン 1604: 5 月4時
 *バージョン 1604 (ビルド 6868.2060)*
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
@@ -737,7 +737,7 @@ ms.locfileid: "19556214"
 
 
 
-## <a name="version-1603-april-28"></a>バージョン 1603: 4 月 28 日
+## <a name="version-1603-april-28"></a>バージョン 1603: 4 月28日
 *バージョン 1603 (ビルド 6769.2040)*
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
@@ -746,7 +746,7 @@ ms.locfileid: "19556214"
 
 
 
-## <a name="version-1603-april-12"></a>バージョン 1603: 4 月 12 日
+## <a name="version-1603-april-12"></a>バージョン 1603: 4 月12日
 *バージョン 1603 (ビルド 6769.2017)*
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
@@ -757,7 +757,7 @@ ms.locfileid: "19556214"
 
 
 
-## <a name="version-1603-april-4"></a>バージョン 1603: 4 月 4
+## <a name="version-1603-april-4"></a>バージョン 1603: 4 月4日
 *バージョン 1603 (ビルド 6769.2015)*
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
@@ -785,7 +785,7 @@ ms.locfileid: "19556214"
 
 
 
-## <a name="version-1602-march-24"></a>バージョン 1602: 3 月 24
+## <a name="version-1602-march-24"></a>バージョン 1602: 3 月24日
 *バージョン 1602 (ビルド 6741.2021)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
@@ -793,7 +793,7 @@ ms.locfileid: "19556214"
 
 
 
-## <a name="version-1602-march-17"></a>バージョン 1602: 3 月 17 日
+## <a name="version-1602-march-17"></a>バージョン 1602: 3 月17日
 *バージョン 1602 (ビルド 6741.2017)*
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
@@ -834,16 +834,16 @@ ms.locfileid: "19556214"
 
 
 
-## <a name="version-1601-march-4"></a>バージョン 1601: 3 月 4
+## <a name="version-1601-march-4"></a>バージョン 1601: 3 月4日
 *バージョン 1601 (ビルド 6568.2036)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
 -   POP3 を使用するよう構成されている場合に、Outlook がメール メッセージをダウンロードした後、サーバー上のすべてのメール メッセージが受信トレイから削除されるという問題の修正。 [この問題についての詳細情報](https://support.microsoft.com/kb/3145116)
--   問題を修正するでは、POP3 を使用するように構成するとメールのメッセージは何度でもダウンロード、重複が発生します。 [この問題についての詳細情報](https://support.microsoft.com/kb/3145116)
+-   POP3 を使用するように構成されている場合は、メールメッセージが複数回ダウンロードされ、重複したアイテムが発生するという問題を修正します。 [この問題についての詳細情報](https://support.microsoft.com/kb/3145116)
 
 
 
-## <a name="version-1601-march-3"></a>バージョン 1601: 3 月 3 日
+## <a name="version-1601-march-3"></a>バージョン 1601: 3 月3日
 *バージョン 1601 (ビルド 6568.2034)*
 
 ### <a name="word-security-updates"></a>Word: セキュリティ更新プログラム
@@ -857,7 +857,7 @@ ms.locfileid: "19556214"
 
 
 
-## <a name="version-1601-february-16"></a>版 1601 年 2 月 16
+## <a name="version-1601-february-16"></a>バージョン 1601: 2 月16日
 *バージョン 1601 (ビルド 6568.2025)*
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
@@ -913,7 +913,7 @@ ms.locfileid: "19556214"
 
 
 
-## <a name="version-1511-february-9"></a>バージョン 1511: 2 月 9 日
+## <a name="version-1511-february-9"></a>バージョン 1511: 2 月9日
 *バージョン 1511 (ビルド 6366.2068)*
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
@@ -924,7 +924,7 @@ ms.locfileid: "19556214"
 
 
 
-## <a name="version-1511-january-25"></a>バージョン 1511: 1 月 25 日
+## <a name="version-1511-january-25"></a>バージョン 1511: 1 月25日
 *バージョン 1511 (ビルド 6366.2062)*
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
@@ -935,7 +935,7 @@ ms.locfileid: "19556214"
 
 
 
-## <a name="version-1511-january-12"></a>バージョン 1511: 1 月 12
+## <a name="version-1511-january-12"></a>バージョン 1511: 1 月12日
 *バージョン 1511 (ビルド 6366.2056)*
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム

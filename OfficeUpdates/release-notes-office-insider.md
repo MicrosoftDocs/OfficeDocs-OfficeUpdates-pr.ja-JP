@@ -3,19 +3,19 @@ title: Office Insider のリリース ノート
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 4/11/2019
+ms.date: 4/19/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: cecd509883c6738c9640dabe15ec6f31ad5baf64
-ms.sourcegitcommit: 2e379740ddeb6f2e8f51da1d06002ffb2ddad02d
+ms.openlocfilehash: b5d7bffcab3fd526fbf059f8868f86f8d5ff80fd
+ms.sourcegitcommit: a9bf63c589b511ddc8c66c9221d20ea9654d60ea
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/11/2019
-ms.locfileid: "31818514"
+ms.lasthandoff: 04/22/2019
+ms.locfileid: "31958138"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office Insider のリリース ノート
 
@@ -25,7 +25,60 @@ ms.locfileid: "31818514"
 > - リリース ノートは毎週投稿され、場合により複数のビルドのコンパイルになります
 > - リリースノートの発行日は実際のビルドのリリース日と一致しない場合があります
 
-## <a name="april-11-2019"></a>2019 年 4 月11 日
+## <a name="april-19-2019"></a>2019 年 4 月 19 日
+バージョン 1905 (ビルド 11609.20002)
+
+## <a name="whats-new"></a>新機能:
+
+### <a name="excel"></a>Excel
+
+#### <a name="improved-filled-maps-experience-using-data-types"></a>データ型を使用した塗り分けマップのエクスペリエンス向上
+
+この機能は、Excel の地理データ型を使用して、塗り分けされたマップ グラフにプロットするユーザーのための機能強化です。 エンドユーザーにとっては、機能とエンドユーザーがマップする領域の精度向上とがより高度に統合されたことが利点です。 さらに、ポリゴンで都市をマッピングする機能も含まれてます。
+
+##### <a name="getting-started"></a>作業の開始:
+
+- この機能は、Excel 内の既存の機能を改善したものです。 この改善を使用するには、位置をリッチエンティティに変換し、塗り分けマップでプロットします。 
+
+##### <a name="scenarios-to-try"></a>次の操作を試してみてください:
+
+- ユーザーは、都市、州、都道府県、国、郵便番号のマッピングを試すことができます。 
+
+
+## <a name="notable-fixes"></a>主な修正:
+
+### <a name="all-applications"></a>すべてのアプリケーション
+- アプリケーションが起動したときに最初の実行ダイアログが表示される問題を修正しました
+- [名前を付けて保存] ダイアログボックス内の SharePoint リンクが表示されない問題を修正しました。
+- ユーザーが [今すぐ修復] ダイアログを誤って表示する問題を修正しました
+
+### <a name="word"></a>Word 
+- フォントの要求時に、一部のユーザーがメモリ不足またはディスク領域のエラーを受信する可能性がある問題を修正しました
+- [コメント] ウィンドウから切り替えたときにウィンドウがフォーカスを失う可能性がある問題を修正しました
+
+### <a name="excel"></a>Excel
+- パフォーマンスと安定性のさまざまな問題を修正
+
+### <a name="powerpoint"></a>PowerPoint
+- ブランド化された図形のサイズ変更ができない問題を修正しました
+- 保護ビューモードでファイルを開くときに PowerPoint がクラッシュする可能性がある問題を修正しました
+
+### <a name="outlook"></a>Outlook
+- 一部のユーザーが中国語の単語を選択できない問題を修正しました
+- 有効期限が正しく計算されない問題を修正しました
+
+### <a name="access"></a>Access
+- 一部のユーザーがマクロ ビルダーを使用できなかった問題を修正しました
+- レポートを印刷すると最初のページしか印刷されない問題を修正しました
+- ハイパーリンクの上にカーソルを置くとアプリケーションがクラッシュする問題を修正しました
+- リレーションシップ ビューを使用すると、一部のアイテムが画面外に表示される問題を修正しました
+
+### <a name="project"></a>Project
+- パフォーマンスと安定性のさまざまな問題を修正
+
+</BR></BR>
+
+## <a name="april-12-2019"></a>2019 年 4 月 12 日
 バージョン 1905 (ビルド 11601.20042)
 
 ## <a name="notable-fixes"></a>主な修正:
@@ -213,7 +266,7 @@ Microsoft Search を使用して、作業を完了するのに必要なすべて
 - 保護されたドキュメントや編集可能なドキュメントを開いているときに Excel でセルをコピーすると CPU 使用率が高くなる問題を修正しました
 
 ### <a name="powerpoint"></a>PowerPoint
-- PowerPoint で @Mentions を使用するときのスライド イメージのサイズに関する問題を修正しました
+- PowerPoint で @メンションを使用するときのスライド イメージのサイズに関する問題を修正しました
 
 ### <a name="outlook"></a>Outlook
 - Outlook Search が選択した日付の並べ替えを使用しない問題を修正しました

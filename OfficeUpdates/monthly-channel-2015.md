@@ -1,5 +1,5 @@
 ---
-title: 2015 で毎月チャネルのリリースのリリース ノート
+title: 2015の月次チャネルリリースのリリースノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -9,28 +9,28 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: 2015 で毎月チャネルのリリース ・ ノートでの IT プロフェッショナルが Office 365 用リソースの解放を提供します。
+description: IT プロフェッショナルに、Office 365 ProPlus の月次チャネルリリースのリリースノートを2015で提供します。
 ms.openlocfilehash: 0b235ba177dd2378cbb953315e2ead6b692ed52b
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "19556218"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32438812"
 ---
-# <a name="release-notes-for-monthly-channel-releases-in-2015"></a>2015 で毎月チャネルのリリースのリリース ノート
+# <a name="release-notes-for-monthly-channel-releases-in-2015"></a>2015の月次チャネルリリースのリリースノート
 
-これらのリリース ・ ノートは、新機能、セキュリティ更新プログラム、および 2015年で Office 365 用リソースを月のチャネルの更新プログラムに含まれるセキュリティ以外の更新プログラムに関する情報を提供します。
+これらのリリースノートでは、2015の Office 365 ProPlus への月次チャネル更新に含まれる新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムについて説明します。
  
 > [!NOTE]
 > - また、Visio Pro for Office 365 および Project Online デスクトップ クライアントの新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムについても説明しています。
 > - ここに記載されている情報は、Business Premium など一部の Office 365 プランに付属する Office のバージョンの、Office 365 Business にも該当します。
-> - 毎月チャネルでは、2017年 9 月の前に現在のチャネルを付きです。
+> - 月次チャネルは、2017年9月より前に Current Channel という名前が付けられました。
 
-## <a name="version-1511-december-11"></a>バージョン 1511: 12 月 11 日
+## <a name="version-1511-december-11"></a>バージョン 1511:12 月11日
 *バージョン 1511 (ビルド 6366.2036)*
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
--   **BI テンプレート:** 3 つの新しいテンプレートを活用するビジネス インテリジェンス (BI) 機能を Excel の:[予定表の分析](https://support.office.com/article/7edbeb88-99ca-403f-a394-7e957d3d3f40)、[株式分析](https://support.office.com/article/f65e62ac-7af6-4cc6-98f3-f68b147ed65d)、[自分のキャッシュ フロー](https://support.office.com/article/215e9e2e-5813-41ad-a9ef-a0c0874841bb)
+-   **BI テンプレート:** Excel のビジネスインテリジェンス (BI) 機能を活用する3つの新しいテンプレート: [Calendar Insights](https://support.office.com/article/7edbeb88-99ca-403f-a394-7e957d3d3f40)、 [Stock Analysis](https://support.office.com/article/f65e62ac-7af6-4cc6-98f3-f68b147ed65d)、 [My Cashflow](https://support.office.com/article/215e9e2e-5813-41ad-a9ef-a0c0874841bb)
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
 -   日付 (詳細) の数値で書式設定されたセルのフィル ハンドルをドラッグすると Excel がクラッシュするという問題の修正。
@@ -55,7 +55,7 @@ ms.locfileid: "19556218"
 -   **変形の移行:** スライド間のシームレスな移行を生み出し、プレゼンテーションにモーションを表示して概念や情報をより効果的に伝えます。 [詳細情報](https://support.office.com/article/8dd1c7b2-b935-44f5-a74c-741d8d9244ea)
 -   **PowerPoint デザイナー:** ユーザーのコンテンツを取得し、さまざまなアイデアを自動的に生成できる新しいサービス。ユーザーはそこからアイデアを選択して、スライドの出来栄えをより良いものにできます。 [詳細情報](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-    このサービスには、インターネット接続が必要です。 [最新のグループ ポリシーの管理用テンプレート ファイルを使用して](https://www.microsoft.com/download/details.aspx?id=49030)、この機能を無効にし、PowerPoint のデザイナーのオプションの設定を有効にします。 このポリシー設定は、ユーザー構成\\管理用テンプレート\\Microsoft Office 2016\\ツール | オプション | 全般 | サービス オプション…\\PowerPoint デザイナーにあります。
+    このサービスには、インターネット接続が必要です。 この機能を無効にするには、[最新のグループポリシー管理用テンプレートファイルを使用](https://www.microsoft.com/download/details.aspx?id=49030)して、[PowerPoint Designer のオプション] の設定を有効にします。 このポリシー設定は、ユーザー構成\\管理用テンプレート\\Microsoft Office 2016\\ツール | オプション | 全般 | サービス オプション…\\PowerPoint デザイナーにあります。
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: セキュリティ以外の更新プログラム
 -   発表者ツールのスライド ショー ビューにアニメーションを含む SmartArt が想定されている順番で表示されないという問題の修正。
@@ -69,7 +69,7 @@ ms.locfileid: "19556218"
 
 ### <a name="office-suite-feature-updates"></a>Office スイート: 機能の更新
 -   **送信形式オプション**: Word または PowerPoint で、[共有] ウィンドウから添付ファイルまたは PDF のいずれかとしてドキュメントを送信します。
--   **図の挿入 API**: 共通の office.js ライブラリ内の[document.setSelectedDataAsync メソッド](https://msdn.microsoft.com/library/office/fp142145.aspx)を使用して、Word、Excel、または PowerPoint にイメージを挿入します。 単語の JavaScript API では、[本文](https://msdn.microsoft.com/library/office/mt598674.aspx)、 [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx)、[段落](https://msdn.microsoft.com/library/office/mt598682.aspx)、および Range オブジェクトのインライン画像を設定するのには insertInlinePictureFromBase64() と呼ばれるホスト固有のメソッドを提供します。
+-   **画像 API の挿入**: 共通 office.js ライブラリの [document.setSelectedDataAsync メソッド](https://msdn.microsoft.com/library/office/fp142145.aspx)を使用して、Word、Excel、PowerPoint に画像を挿入します。 Word JavaScript API には、insertInlinePictureFromBase64 () と呼ばれるホスト固有のメソッドが用意されており、[本文](https://msdn.microsoft.com/library/office/mt598674.aspx)、 [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx)、[段落](https://msdn.microsoft.com/library/office/mt598682.aspx)、および Range オブジェクトにインライン画像を設定します。
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 -   [開く] または [名前を付けて保存] を行うときに表示される更新日時の情報が一部見えないという問題の修正。
@@ -82,7 +82,7 @@ ms.locfileid: "19556218"
 -   Office プレインストール キットを監査モードで実行している Windows 7 OEM コンピューターで Office 2016 にアップグレードすると、ライセンス認証時にエラー 0x80070005 が発生するという問題の修正。
 
 
-## <a name="version-1509-december-8"></a>バージョン 1509: 12 月 8 日
+## <a name="version-1509-december-8"></a>バージョン 1509:12 月8日
 *バージョン 1509 (ビルド 6001.1043)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: セキュリティ以外の更新プログラム
@@ -105,13 +105,13 @@ ms.locfileid: "19556218"
 -   使用するフォントによっては、改行なしハイフンが四角形として表示されるという問題の修正。
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
--   更新プログラムをバックグラウンドでダウンロードするための既定のトランスポートを、Cached/BITS から HTTP に変更。
+-   更新プログラムをバックグラウンドでダウンロードするための既定のトランスポートが、Cached/BITS から HTTP に変更。
 -   自動アップグレードの際にライセンス関連の操作によるエラーが発生し、Office がインストールされないという問題の修正。
 -   Office プレインストール キットを監査モードで実行している Windows 7 OEM コンピューターで Office 2016 にアップグレードすると、ライセンス認証時にエラー 0x80070005 が発生するという問題の修正。
 
 
 
-## <a name="version-1509-november-10"></a>バージョン 1509: 11 月 10 日
+## <a name="version-1509-november-10"></a>バージョン 1509:11 月10日
 *バージョン 1509 (ビルド 6001.1038)*
 
 ### <a name="access-security-updates"></a>Access: セキュリティ更新プログラム
@@ -176,18 +176,18 @@ ms.locfileid: "19556218"
 -   手動アップグレードのときに、タスク バーに固定されているショートカットがすべてのユーザーで削除されないという問題の修正。
 -   クイック実行の手動アップグレード処理において、アップグレードに関して生じる可能性がある問題をユーザーに警告するために、Outlook が Exchange Server 2007 に接続されているかどうか、または Business Contact Manager がインストールされているかどうかを検出する機能の追加。
 -   アンインストールまたはアップグレード中に処理を終了させるためのダイアログの見やすさの改善。このダイアログは、開かれているアプリや他の UI に隠れてユーザーから見えなくなることがありました。
--   ドメインとクラウド ドメインの両方に参加していると識別されているコンピューターを使用していると、ユーザーが Office アプリケーションに自動的にサインインされないという問題の修正。
+-   ドメインとクラウド ドメインの両方に参加していると識別されているコンピューターを使用していると、ユーザーが Office アプリに自動的にサインインされないという問題の修正。
 
 
 
-## <a name="version-1509-october-21"></a>1509 のバージョン: 10 月 21 日
+## <a name="version-1509-october-21"></a>バージョン 1509:10 月21日
 *バージョン 1509 (ビルド 6001.1034)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: セキュリティ以外の更新プログラム
 -   カラー ピッカーで境界線に同じ色を 2 回選ぶと、OneNote がクラッシュするという問題の修正。
 
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
--   電子メールの署名を編集する際に、電子メールの署名に段落が複数あると、スクリーン リーダーに最初の段落しか読み込まれないという問題の修正。
+-   メールの署名を編集する際に、メールの署名に段落が複数あると、スクリーン リーダーが最初の段落のみを読み取るという問題の修正。
 -   電子メールに書き込みまたは返信するときにカーソルが正しい位置にないという問題の修正。
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: セキュリティ以外の更新プログラム
@@ -223,7 +223,7 @@ ms.locfileid: "19556218"
 
 
 
-## <a name="version-1509-october-5"></a>1509 のバージョン: 10 月 5 日
+## <a name="version-1509-october-5"></a>バージョン 1509:10 月5日
 *バージョン 1509 (ビルド 4229.1029)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: セキュリティ以外の更新プログラム
@@ -248,7 +248,7 @@ ms.locfileid: "19556218"
 
 
 
-## <a name="version-1509-september-22"></a>バージョン 1509: 9 月 22 日
+## <a name="version-1509-september-22"></a>バージョン 1509: 9 月22日
 *バージョン 1509 (ビルド 4229.1024)*
 
 このチャネルの最初のリリースです。Office 2016 アプリケーションが利用可能な最初のリリースです。

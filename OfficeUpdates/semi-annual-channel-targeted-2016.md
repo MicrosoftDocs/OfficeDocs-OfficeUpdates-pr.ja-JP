@@ -1,5 +1,5 @@
 ---
-title: 2016 の半年のチャネル (対象) のリリースのリリース ノート
+title: 2016での半期チャネル (対象指定) リリースのリリースノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -9,24 +9,24 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: IT プロフェッショナルのリリース ・ ノート半年チャネル (対象) のリリースの Office 365 用リソースの 2016年の
+description: Office 365 ProPlus 用の半期チャネル (対象指定) リリースのリリースノートを IT 担当者に提供します (2016)
 ms.openlocfilehash: 37544af48bda0cb4cd98027a04a446f7bf68b1e0
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "19556223"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32439002"
 ---
-# <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2016"></a>2016 の半年のチャネル (対象) のリリースのリリース ノート
+# <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2016"></a>2016での半期チャネル (対象指定) リリースのリリースノート
 
-これらのリリース ・ ノートは、新機能、セキュリティ更新プログラム、および 2016年の半年チャネル (対象) の更新プログラムを Office 365 用リソースに含まれるセキュリティ以外の更新プログラムに関する情報を提供します。
+これらのリリースノートには、2016で Office 365 ProPlus の半期チャネル (対象指定) 更新プログラムに含まれる新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムに関する情報が記載されています。
  
 > [!NOTE]
 > - また、Visio Pro for Office 365 および Project Online デスクトップ クライアントの新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムについても説明しています。
 > - ここに記載されている情報は、Business Premium など一部の Office 365 プランに付属する Office のバージョンの、Office 365 Business にも該当します。
-> - 半年チャネル (対象) には、2017年 9 月の前に、延期のチャネルの最初のリリースは付きです。
+> - 半期チャネル (対象指定) は、2017年9月より前に段階的提供チャネルの最初のリリースという名前でした。
 
-## <a name="version-1609-december-13"></a>バージョン 1609: 12 月 13 日
+## <a name="version-1609-december-13"></a>バージョン 1609:12 月13日
 *バージョン 1609 (ビルド 7369.2095)*
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
@@ -37,7 +37,7 @@ ms.locfileid: "19556223"
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: セキュリティ以外の更新プログラム
 -   ユーザーがファイルを開いたり保存したりしようとすると PowerPoint がクラッシュする問題を修正します。
--   スライドのサイズをカスタマイズする際の “インチ” の略語に対するタイ語の翻訳が正しくない問題を修正します。 
+-   スライドのサイズをカスタマイズする際の “インチ” の略語に対するタイ語の翻訳が正しくない問題を修正します。 
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: セキュリティ以外の更新プログラム
 -   ユーザーが Windows 7 を実行している場合に、まずメイン モニターを共有してから、次にセカンド モニターを共有するために切り替えると、ビューアーに黒い画面が表示される問題を修正します。
@@ -57,7 +57,7 @@ ms.locfileid: "19556223"
 
 
 
-## <a name="version-1609-november-8"></a>バージョン 1609: 11 月 8
+## <a name="version-1609-november-8"></a>バージョン 1609:11 月8日
 *バージョン 1609 (ビルド 7369.2055)*
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
@@ -68,7 +68,7 @@ ms.locfileid: "19556223"
 
 
 
-## <a name="version-1609-november-2"></a>11 月 2 日 1609 のバージョン:
+## <a name="version-1609-november-2"></a>バージョン 1609:11 月2日
 *バージョン 1609 (ビルド 7369.2054)*
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
@@ -84,7 +84,7 @@ ms.locfileid: "19556223"
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: 機能の更新
 -   **更新されたビジュアル要素:** アイコンおよび色の変更によりアクセシビリティが向上しました。 [詳細情報](https://blogs.technet.microsoft.com/nexthop/2016/10/27/new-skype-for-business-2016-look-and-feel-coming-your-way/)
--   **UI の [共有] への更新:** [デスクトップの表示] を [デスクトップの共有] に、[プログラムの表示] を [ウィンドウ??の共有] に変更するなど、UI 要素で [表示] を [共有] に変更します。
+-   **ui** 要素で [表示] を [共有] に変更します。たとえば、[デスクトップの表示] を [デスクトップの共有] に変更し、[プログラムの表示] を [ウィンドウの共有] に変更します。
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: セキュリティ以外の更新プログラム
 -   ユーザーが Exchange Online に移行した後、会話の履歴、連絡先、またはボイス メールの情報を取得するために Exchange に接続できない問題を修正します。
@@ -108,7 +108,7 @@ ms.locfileid: "19556223"
 
 
 
-## <a name="version-1609-october-11"></a>1609 のバージョン: 10 月 11 日
+## <a name="version-1609-october-11"></a>バージョン 1609:10 月11日
 *バージョン 1609 (ビルド 7369.2038)*
 
 ### <a name="access-feature-updates"></a>Access: 機能の更新
@@ -144,7 +144,7 @@ ms.locfileid: "19556223"
 -   ドロップダウン リストからアイテムを選ぶときに Excel がクラッシュする問題を修正します。
 -   フランス語やドイツ語バージョンの Excel で、INDIRECT 関数に R1C1 の参照形式を使用すると、参照される値や予想される値ではなく、\#REF! エラーが発生する問題を修正します。
 -   [カスタム リスト] ダイアログ ボックスでのカスタムの並べ替えリストの作成中に、ENTER キーを使用してリストのエントリを区切ることができない問題を修正します。
--   問題を修正する場所をコピーまたは移動の情報を表示するには、エラー メッセージの原因など、「クリップボードを開けません、」または「私たちは、クリップボード上の領域を解放できませんでした。 別のプログラムを使用する可能性今。」
+-   Fix an issue where copying or moving information causes an error message to appear, such as "Cannot open the Clipboard" or "We couldn't free up space on the Clipboard. Another program might be using it right now."
 -   多数のテキスト ボックスを含むブックを編集しようとすると、Excel がハングする問題を修正します。
 -   最近のセキュリティの更新で発生した問題を修正します。この問題では、ユーザーが信頼できない場所から HTML ファイルを開くと、保護ビューでファイルを開くことができず、代わりにエラーの表示なしでブランク (空の) スクリーンの Excel が開きます。
 -   無効な範囲に基づいてピボットテーブルが挿入されるため、正しくないエラー メッセージが表示される問題を修正します。
@@ -163,7 +163,7 @@ ms.locfileid: "19556223"
 -   テーブルを削除すると、OneNote がクラッシュする問題を修正します。
 
 ### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
--   **\@紹介:** 受信者を含めることで、入力や操作に尋ねられています、知っている、電子メールや予定表アイテムの本文に人の名前の後に @。 これにより、それらの人は To 行にも自動的に追加されます。 [詳細情報](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
+-   ** \@メンション:** 受信者が、電子メールアイテムまたは予定表アイテムの本文に @ 記号の後にユーザー名を含めることによって、入力またはアクションを要求していることを確認してください。 これにより、それらの人は To 行にも自動的に追加されます。 [詳細情報](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
 -   **旅行予約とパッケージのサマリー カード:** 受信トレイと予定表に自動的に作成されたサマリー カードを使用して、旅行予約およびパッケージの配送を確認して追跡します。 [詳細情報](https://blogs.office.com/2016/06/28/stay-on-top-of-your-travel-and-deliveries-with-outlook/)
 -   **添付された写真のミニ プレビュー**: メールに写真が添付されている場合、Outlook ではメッセージに写真の小さなプレビューが表示されます。
 -   **削除済みアイテムのリンクの復元:** 削除済みアイテム フォルダーで、"このフォルダーから最近削除されたアイテムを復元する" のリンクが削除済みアイテムの一覧の上に表示され、リンクを選択すると [削除済みアイテムの復元] ダイアログ ボックスが表示されます。
@@ -291,11 +291,11 @@ ms.locfileid: "19556223"
 -   複数のユーザーが同じコンピューターで同時に特定のアクセス許可の構成で Office を実行した場合、Office アプリがクラッシュする問題を修正します。
 -   Office アドイン コマンドを使用すると Excel、Word または PowerPoint がランダムにクラッシュする問題を修正します。
 -   Office を更新すると ODBC レジストリ エントリが上書きされ、Microsoft Access データベース エンジン再頒布可能パッケージの再インストールか修復が必要になる問題を修正します。
--   Office ドキュメントを SharePoint などの URL から開くと、その URL が / 文字で終わる場合に、PowerPoint、Word、Excel がクラッシュする問題を修正します。
+-   Office ドキュメントを SharePoint などの URL から開くと、そのURL が / 文字で終わる場合に、PowerPoint、Word、Excel がクラッシュする問題を修正します。
 
 
 
-## <a name="version-1605-september-13"></a>バージョン 1605: 9 月 13 日
+## <a name="version-1605-september-13"></a>バージョン 1605: 9 月13日
 *バージョン 1605 (ビルド 6965.2084)*
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
@@ -330,7 +330,7 @@ ms.locfileid: "19556223"
 
 
 
-## <a name="version-1605-august-9"></a>バージョン 1605: 8 月 9
+## <a name="version-1605-august-9"></a>バージョン 1605: 8 月9日
 *バージョン 1605 (ビルド 6965.2076)*
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
@@ -354,7 +354,7 @@ ms.locfileid: "19556223"
 
 
 
-## <a name="version-1605-july-21"></a>バージョン 1605: 7 月 21 日
+## <a name="version-1605-july-21"></a>バージョン 1605: 7 月21日
 *バージョン 1605 (ビルド 6965.2069)*
 
 ### <a name="access-non-security-updates"></a>Access: セキュリティ以外の更新プログラム
@@ -369,7 +369,7 @@ ms.locfileid: "19556223"
 
 
 
-## <a name="version-1605-july-12"></a>バージョン 1605: 7 月 12
+## <a name="version-1605-july-12"></a>バージョン 1605: 7 月12日
 *バージョン 1605 (ビルド 6965.2066)*
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
@@ -389,7 +389,7 @@ ms.locfileid: "19556223"
 
 
 
-## <a name="version-1605-june-30"></a>バージョン 1605: 6 月 30 日
+## <a name="version-1605-june-30"></a>バージョン 1605: 6 月30日
 *バージョン 1605 (ビルド 6965.2063)*
 
 ### <a name="access-non-security-updates"></a>Access: セキュリティ以外の更新プログラム
@@ -414,11 +414,11 @@ ms.locfileid: "19556223"
 
 
 
-## <a name="version-1605-june-14"></a>バージョン 1605: 6 月 14 日
+## <a name="version-1605-june-14"></a>バージョン 1605: 6 月14日
 *バージョン 1605 (ビルド 6965.2058)*
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
--   **を得るし、改善点を変換:** 新規または強化されたデータの変換と電源のクエリ データ接続の機能です。 [詳細情報](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
+-   **& 変換の機能強化の取得:** Power Query のデータ変換とデータ接続機能の新機能と強化された機能。 [詳細情報](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **追加のデータ接続:** JSON と Azure SQL データ ウェアハウス ソースからのデータのクエリを実行します。
 -   **Power Query の機能強化:** データ変換とデータ接続の機能が強化され新しくなりました。 [詳細情報](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **ラージ アドレス認識サポート:** 使用可能な場合、32 ビット バージョンの Excel ではより多くのメモリを使うことができます。 [詳細情報](https://support.microsoft.com/kb/3160741)
@@ -444,7 +444,7 @@ ms.locfileid: "19556223"
 ### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
 -   **簡略化されたプロファイルの作成:** Office 365 アカウントを使ってログインした状態で、Office 365 メールボックスの他の Outlook プロファイルを設定するためのユーザー インターフェイス (UI) の操作が簡略化されました。
 
-    注意: この機能はある期間にわたって段階的にサブスクライバーにロールアウトされるため、この機能がすぐに表示されない可能性があります。この機能が表示されるタイミングは、組織が Office を更新する方法によっても異なります。
+    注意: この機能はある期間にわたって段階的にサブスクライバーにロールアウトされるため、この機能がすぐに表示されない可能性があります。 この機能が表示されるタイミングは、組織が Office を更新する方法によっても異なります。
 
 -   **会話の添付ファイルの一覧:** Office 365 のグループ内の会話のすべての添付ファイルは、閲覧ウィンドウの右上隅のドロップダウン リストで確認できます。
 
@@ -455,7 +455,7 @@ ms.locfileid: "19556223"
 -   サーバー上の古いメール メッセージを表示するためのリンクが、[受信トレイ] や [削除済みアイテム] フォルダーなど、フォルダー内のメッセージのリストの下部に表示されないという問題の修正。
 -   .msg ファイルを使ってメールを送信するときに、Outlook でメッセージ コンテンツを送信できない問題の修正。
 -   受信トレイ修復ツール (scanpst.exe) を更新して、.pst ファイルがインデックス付けおよび検索される方法に関連してファイルの破損問題を検出し、修正します。この種類の破損により、.pst ファイルを読み込めなくなるため、Outlook がクラッシュし、CPU 使用率が高まります。
--   メッセージ分類がプレーンテキスト メッセージに常に表示されない問題を修正します。
+-   メッセージ分類がプレーンテキスト メッセージに常に表示されないという問題の修正。
 -   [会話の設定] \> [クラシック ビューを使用する] オプションが有効になっているときに、Outlook の検索が重複する結果を返す問題を修正します。
 -   スペイン語版の Outlook で新しいメッセージを作成するときに、フィールドのタブ ナビゲーションに関する問題を修正します。
 -   新しいメッセージの送信、または返信のとき、HTML 署名に含まれる画像が灰色のボックスとして表示される問題の修正。
@@ -512,7 +512,7 @@ ms.locfileid: "19556223"
 ### <a name="office-suite-feature-updates"></a>Office スイート: 機能の更新
 -   **AD RMS 権利ポリシー テンプレートの設定:** 新しい Word、Excel、PowerPoint ドキュメントに適用する際に、[所有者 (作成者) に無期限のフル コントロールの権利を付与します] の設定が (特にこの設定を無効にする場合) 優先されるようにします。この設定を無効にする場合、テンプレートを適用するとドキュメントへのアクセスが制限される可能性があることを示す警告が表示されます。
 
-    注意: この設定が構成されているテンプレートを使用して既に保護されている既存のドキュメントは、変更されません。引き続き所有者が、これらのドキュメントに対する無期限のフル コントロールを持ちます。
+    注意: この設定が構成されているテンプレートを使用して既に保護されている既存のドキュメントは、変更されません。 引き続き所有者が、これらのドキュメントに対する無期限のフル コントロールを持ちます。
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
 -   マイクロソフト セキュリティ情報 [MS16-054](https://technet.microsoft.com/library/security/ms16-054): Microsoft Office のセキュリティ更新プログラム (3155544)
@@ -527,7 +527,7 @@ ms.locfileid: "19556223"
 
 
 
-## <a name="version-1602-june-7"></a>バージョン 1602: 6 月 7 日
+## <a name="version-1602-june-7"></a>バージョン 1602: 6 月7日
 *バージョン 1602 (ビルド 6741.2047)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
@@ -541,7 +541,7 @@ ms.locfileid: "19556223"
 
 
 
-## <a name="version-1602-may-23"></a>バージョン 1602: 5 月 23 日
+## <a name="version-1602-may-23"></a>バージョン 1602: 5 月23日
 *バージョン 1602 (ビルド 6741.2042)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
@@ -558,7 +558,7 @@ ms.locfileid: "19556223"
 
 
 
-## <a name="version-1602-may-10"></a>バージョン 1602: 5 月 10
+## <a name="version-1602-may-10"></a>バージョン 1602: 5 月10日
 *バージョン 1602 (ビルド 6741.2037)*
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
@@ -580,7 +580,7 @@ ms.locfileid: "19556223"
 -   プロジェクトを保存して閉じるときに基本カレンダーが削除される場合、プロジェクトをもう一度開こうとすると Project がクラッシュする問題を修正します。
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: セキュリティ以外の更新プログラム
--   上方向キーを使ってチャット履歴内の過去の IM メッセージをスクロールすると、選択したアイテムが予期せずにチャット履歴の下部のアイテムに移動するという問題の修正。
+-   上方向キーを使ってチャット履歴内の過去の IM メッセージをスクロールすると、選択したアイテムが予期せずにチャット履歴の下部のアイテムに移動する問題を修正します。
 -   Skype で連絡先の代わりに契約グループが作成される問題を修正します。
 
 ### <a name="word-security-updates"></a>Word: セキュリティ更新プログラム
@@ -594,7 +594,7 @@ ms.locfileid: "19556223"
 
 
 
-## <a name="version-1602-may-3"></a>バージョン 1602: 5 月 3
+## <a name="version-1602-may-3"></a>バージョン 1602: 5 月3日
 *バージョン 1602 (ビルド 6741.2033)*
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
@@ -610,7 +610,7 @@ ms.locfileid: "19556223"
 
 
 
-## <a name="version-1602-april-12"></a>バージョン 1602: 4 月 12 日
+## <a name="version-1602-april-12"></a>バージョン 1602: 4 月12日
 *バージョン 1602 (ビルド 6741.2026)*
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
@@ -621,7 +621,7 @@ ms.locfileid: "19556223"
 
 
 
-## <a name="version-1602-april-4"></a>バージョン 1602: 4 月 4
+## <a name="version-1602-april-4"></a>バージョン 1602: 4 月4日
 *バージョン 1602 (ビルド 6741.2025)*
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: セキュリティ以外の更新プログラム
@@ -629,7 +629,7 @@ ms.locfileid: "19556223"
 
 
 
-## <a name="version-1602-march-23"></a>バージョン 1602: 3 月 23 日
+## <a name="version-1602-march-23"></a>バージョン 1602: 3 月23日
 *バージョン 1602 (ビルド 6741.2021)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
@@ -637,7 +637,7 @@ ms.locfileid: "19556223"
 
 
 
-## <a name="version-1602-march-16"></a>バージョン 1602: 3 月 16
+## <a name="version-1602-march-16"></a>バージョン 1602: 3 月16日
 *バージョン 1602 (ビルド 6741.2017)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
@@ -645,7 +645,7 @@ ms.locfileid: "19556223"
 
 
 
-## <a name="version-1602-march-14"></a>バージョン 1602: 3 月 14 日
+## <a name="version-1602-march-14"></a>バージョン 1602: 3 月14日
 *バージョン 1602 (ビルド 6741.2015)*
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
@@ -653,7 +653,7 @@ ms.locfileid: "19556223"
 
 
 
-## <a name="version-1602-march-8"></a>バージョン 1602: 3 月 8
+## <a name="version-1602-march-8"></a>バージョン 1602: 3 月8日
 *バージョン 1602 (ビルド 6741.2014)*
 
 ### <a name="access-security-updates"></a>Access: セキュリティ更新プログラム
@@ -729,7 +729,7 @@ ms.locfileid: "19556223"
 -   ハイ コントラスト モードで [差出人] ドロップダウン内のアイテムが完全には強調表示されない問題を修正します。
 -   Shift キーを押しながらクリックして複数の添付ファイルを選択した場合に最初の添付ファイルのみが選択される問題を修正します。
 -   POP3 を使用するよう構成されている場合に、Outlook がメール メッセージをダウンロードした後、サーバー上のすべてのメール メッセージが受信トレイから削除されるという問題の修正。 [この問題についての詳細情報](https://support.microsoft.com/kb/3145116)
--   問題を修正するでは、POP3 を使用するように構成するとメールのメッセージは何度でもダウンロード、重複が発生します。 [この問題についての詳細情報](https://support.microsoft.com/kb/3145116)
+-   POP3 を使用するように構成されている場合は、メールメッセージが複数回ダウンロードされ、重複したアイテムが発生するという問題を修正します。 [この問題についての詳細情報](https://support.microsoft.com/kb/3145116)
 -   ユーザーが Exchange Server 2010 でホストされているパブリック フォルダーにアクセスできないという問題を修正。
 -   高 DPI デバイスと通常の DPI のモニター間でメール送信を行う場合、イメージが間違ったサイズで表示されるという問題の修正。
 -   メッセージ一覧でスクロール バーをドラッグすると、一覧の末尾にジャンプするという問題の修正。
@@ -743,7 +743,7 @@ ms.locfileid: "19556223"
 -   **変形の移行:** スライド間のシームレスな移行を生み出し、プレゼンテーションにモーションを表示して概念や情報をより効果的に伝えます。 [詳細情報](https://support.office.com/article/8dd1c7b2-b935-44f5-a74c-741d8d9244ea)
 -   **PowerPoint デザイナー:** ユーザーのコンテンツを取得し、さまざまなアイデアを自動的に生成できる新しいサービス。ユーザーはそこからアイデアを選択して、スライドの出来栄えをより良いものにできます。 [詳細情報](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-    このサービスには、インターネット接続が必要です。 [最新のグループ ポリシーの管理用テンプレート ファイルを使用して](https://www.microsoft.com/download/details.aspx?id=49030)、この機能を無効にし、PowerPoint のデザイナーのオプションの設定を有効にします。 このポリシー設定は、ユーザー構成\\管理用テンプレート\\Microsoft Office 2016\\ツール | オプション | 全般 | サービス オプション…\\PowerPoint デザイナーにあります。
+    このサービスには、インターネット接続が必要です。 この機能を無効にするには、[最新のグループポリシー管理用テンプレートファイルを使用](https://www.microsoft.com/download/details.aspx?id=49030)して、[PowerPoint Designer のオプション] の設定を有効にします。 このポリシー設定は、ユーザー構成\\管理用テンプレート\\Microsoft Office 2016\\ツール | オプション | 全般 | サービス オプション…\\PowerPoint デザイナーにあります。
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: セキュリティ更新プログラム
 -   マイクロソフト セキュリティ情報 [MS15-116](https://technet.microsoft.com/library/security/ms15-116): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3104540)
@@ -834,7 +834,7 @@ ms.locfileid: "19556223"
 -   **[ファイル] \> [開く] の並べ替え機能:** Outlook 以外のすべてのアプリでは、[ファイル] \> [開く] で、変更された名前または日付で並べ替えできるようになりました。Word、Excel、PowerPoint の場合、並べ替え機能は、[ファイル] \> [名前を付けて保存] でも使用できるようになりました。
 -   **[ファイル] \> [名前を付けて保存] のフォルダー参照機能:** Word、Excel、PowerPoint の [ファイル] \> [名前を付けて保存] は、OneDrive フォルダー、OneDrive for Business フォルダー、この PC で、完璧なフォルダーのナビゲーションを提供します。
 -   **[送信形式] オプション:** Word または PowerPoint で、[共有] ウィンドウから添付ファイルまたは PDF のいずれかとしてドキュメントを送信します。
--   **API の画像を挿入します**。 共通の office.js ライブラリ内の[document.setSelectedDataAsync メソッド](https://msdn.microsoft.com/library/office/fp142145.aspx)を使用して、Word、Excel、または PowerPoint に画像を挿入します。 Word JavaScript API には、insertInlinePictureFromBase64() と呼ばれるホスト固有のメソッドが用意され、 [本文](https://msdn.microsoft.com/library/office/mt598674.aspx)、 [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx)、 [段落](https://msdn.microsoft.com/library/office/mt598682.aspx)、および 範囲 の各オブジェクトにインライン画像を設定できます。
+-   **画像 API の挿入:** 一般的な office .js ライブラリで[ドキュメントの setselecteddataasync メソッド](https://msdn.microsoft.com/library/office/fp142145.aspx)を使用して、Word、Excel、または PowerPoint に画像を挿入します。 Word JavaScript API には、insertInlinePictureFromBase64() と呼ばれるホスト固有のメソッドが用意され、 [本文](https://msdn.microsoft.com/library/office/mt598674.aspx)、 [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx)、 [段落](https://msdn.microsoft.com/library/office/mt598682.aspx)、および 範囲 の各オブジェクトにインライン画像を設定できます。
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
 -   マイクロソフト セキュリティ情報 [MS15-081](https://technet.microsoft.com/library/security/ms15-081): Microsoft Office の脆弱性により、リモートでコードが実行される (3080790)
@@ -882,7 +882,7 @@ ms.locfileid: "19556223"
 
 
 
-## <a name="version-1509-february-9"></a>バージョン 1509: 2 月 9 日
+## <a name="version-1509-february-9"></a>バージョン 1509: 2 月9日
 *バージョン 1509 (ビルド 6001.1061)*
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
@@ -893,7 +893,7 @@ ms.locfileid: "19556223"
 
 
 
-## <a name="version-1509-january-12"></a>1509 のバージョン: 1 月 12
+## <a name="version-1509-january-12"></a>バージョン 1509: 1 月12日
 *バージョン 1509 (ビルド 6001.1054)*
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
