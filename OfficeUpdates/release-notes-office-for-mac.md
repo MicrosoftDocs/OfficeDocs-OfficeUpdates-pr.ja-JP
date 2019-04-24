@@ -11,11 +11,11 @@ localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 サブスクライバー向け Office for Mac リリース用リリース ノートを IT プロフェッショナルに提供
 ms.openlocfilehash: df504e92bf8e5c52119c2ec40ab21435af0379d8
-ms.sourcegitcommit: a9bf63c589b511ddc8c66c9221d20ea9654d60ea
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2019
-ms.locfileid: "31958108"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32438992"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac のリリース ノート
 
@@ -169,7 +169,7 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 
 |**アプリケーション**|**機能の更新プログラム**|**セキュリティの更新プログラムを入手できます。**|**更新プログラム パッケージのダウンロード リンク**|
 |:-----|:-----|:-----|:-----|
-|Word  <br/>| **目に優しい濃色モード:** 光の少ない環境において目に優しい、暗い背景色を利用できます。 macOS Mojave が必要です。 <br/><br/>  **テキストの外観を維持する:** フォントを埋め込むことにより、すべてのコンピューターでドキュメントのテキストの外観を同一にします。これは嬉しい機能です。[詳細情報](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/><br/>| |[Word の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.20.18120801_Updater.pkg) <br/>|
+|Word  <br/>| **ダーク モードで目に優しい:** 低照度の環境では、濃い色の背景の方が目に優しくなります。macOS Mojave が必要です。<br/><br/>  **テキストの外観を維持する:** フォントを埋め込むことにより、すべてのコンピューターでドキュメントのテキストの外観を同一にします。これは嬉しい機能です。[詳細情報](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/><br/>| |[Word の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.20.18120801_Updater.pkg) <br/>|
 |Excel  <br/>|  **ダーク モードで目に優しい:** 低照度の環境では、濃い色の背景の方が目に優しくなります。macOS Mojave が必要です。<br/><br/> | [CVE-2018-8597](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8597): Microsoft Excel のリモート コード実行の脆弱性 <br/><br/> [CVE-2018-8627](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8627): Microsoft Excel の情報漏えいの脆弱性 |[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.20.18120801_Updater.pkg) <br/>|
 |PowerPoint  <br/>| **ダーク モードで目に優しい:** 低照度の環境では、濃い色の背景の方が目に優しくなります。macOS Mojave が必要です。<br/><br/>  **iPhone から直接 PowerPoint へ:** Apple Continuity Camera を使用して、写真を iPhone からスライドへ挿入します。macOS Mojave が必要です。[詳細情報](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8628): Microsoft PowerPoint のリモート コード実行の脆弱性 <br/>|[PowerPoint の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg) <br/>|
 |Outlook  <br/>|  **ダーク モードで目に優しい:** 低照度の環境では、濃い色の背景の方が目に優しくなります。macOS Mojave が必要です。<br/><br/>  **予定表を共有する:** 家族、友人、同僚と予定表を共有します。Mac、PC、またはクラウド バージョンの Outlook で共有している予定表を開きます。[詳細情報](https://support.office.com/article/365-b576ecc3-0945-4d75-85f1-5efafb8a37b4) <br/><br/> **会議の転送を無効にする:** 出席者が会議を他のユーザーに転送できないようにします。[詳細情報](https://support.office.com/article/8cd354e5-b319-403e-8dd2-88b8ee89b4dd) <br/><br/> **チームを使用して会議に接続する:** リモートのチームと協力する場合。Outlook でチームを使用して、オンライン会議のスケジュールを設定したり、会議に参加します。[詳細情報](https://support.office.com/article/883cc15c-580f-441a-92ea-0992c00a9b0f) <br/><br/>**会議の出席者を確認する:** 予定表に記載された任意の会議やイベントをクリックすると、参加予定者を確認できます。<br/><br/> **3 タイムゾーンを表示する:** タイム ゾーン間で会議をスケジュールする必要がある場合。複数のタイム ゾーンを予定表に追加すると、全員の予定の確認や、全員が参加できる時間の選択が容易になります。[詳細情報](https://support.office.com/article/938d9db9-14ae-4203-ab91-b2d183429382)<br/><br/>  ||[Outlook の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.20.18120801_Updater.pkg) <br/>|
@@ -546,7 +546,7 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
   
 |**アプリケーション**|**機能の更新プログラム**|**セキュリティ更新プログラム**|
 |:-----|:-----|:-----|
-|Word  <br/> |**フォーカス モードのモダンな背景:** **ビュー** タブでフォーカス モードのときに、夕暮れや夜景の背景から選択します。[詳細を見る](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292.aspx)  <br/><br/> **Dubai フォント:** 西ヨーロッパ言語とアラビア文字を使用する主要言語の両方に対応しているフォント ファミリ。 [詳細情報](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
+|Word  <br/> |**フォーカス モードのモダンな背景:** **ビュー** タブでフォーカス モードのときに、夕暮れや夜景の背景から選択します。[詳細を見る](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292.aspx)  <br/><br/> **Dubai フォント:** 西ヨーロッパ言語とアラビア文字を使用する主要言語の両方に対応しているフォント ファミリ。[詳細を見る](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Excel  <br/> |**Dubai フォント:** 西ヨーロッパ言語とアラビア文字を使用する主要言語の両方に対応しているフォント ファミリ。[詳細を見る](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |PowerPoint  <br/> |**Dubai フォント:** 西ヨーロッパ言語とアラビア文字を使用する主要言語の両方に対応しているフォント ファミリ。[詳細を見る](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Outlook  <br/> |**グループ:** 上位 10 グループを表示し、[グループ] フォルダーから直接グループの会話を読んだり返信したりできます。  <br/> <br/> **Dubai フォント:** 西ヨーロッパ言語とアラビア文字を使用する主要言語の両方に対応しているフォント ファミリ。[詳細を見る](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
