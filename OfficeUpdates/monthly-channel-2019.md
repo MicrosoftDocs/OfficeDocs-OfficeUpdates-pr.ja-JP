@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: f76fdeaa8a9d6e26cbdc9f26ae4a74b91567d4e2
-ms.sourcegitcommit: 3ebcb7f15a717f52cc33ec12e57792c00da09e10
+ms.openlocfilehash: 6222443b6b6d22d2d80b135fe10fec61ff96d708
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "31912573"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32438652"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年の毎月のチャネル リリースのリリース ノート
 
@@ -27,6 +27,11 @@ ms.locfileid: "31912573"
 
  > [!NOTE]
 > - Office 365 ProPlus の各更新チャネルに対するセキュリティ更新プログラムの情報については、個別の一覧が「[セキュリティ更新プログラム](office365-proplus-security-updates.md)」に記載されます。 
+
+## <a name="version-1903-april-23"></a>バージョン 1903: 4 月 23 日
+*バージョン 1903 (ビルド 11425.20244)*
+
+- さまざまなバグやパフォーマンスが修正されました。
 
 ## <a name="version-1903-april-17"></a>バージョン 1903: 4 月 17 日
 *バージョン 1903 (ビルド 11425.20228)*
