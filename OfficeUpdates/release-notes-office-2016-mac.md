@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 2018 年 9 月以降にリリースされた Office 2016 for Mac のリリース ノートを IT プロフェッショナルに提供
-ms.openlocfilehash: 801964703a2a43f721a31b7692d1dd24f69450d0
-ms.sourcegitcommit: 90d2b3259604e27f5fe860221d1a89d3da28fe5a
+ms.openlocfilehash: 7b46ce1be815d252ab4493630ac18989282cbcb5
+ms.sourcegitcommit: 5a3394599c426087999ef0a7044a7a511405b665
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "31924335"
+ms.lasthandoff: 04/24/2019
+ms.locfileid: "32460142"
 ---
 # <a name="release-notes-for-office-2016-for-mac"></a>Office 2016 for Mac のリリース ノート
 
@@ -35,7 +35,7 @@ Office 2016 for Mac の更新プログラムは、Microsoft AutoUpdate (MAU) で
 以下の表に、最新パッケージの Office 2016 for Mac と個々のアプリケーション (Word および Excel など) を示します。すべてのパッケージは 64 ビットのみです。ビルド番号の後に、YYMMDD 形式でビルド日付をかっこ内に記します。アプリケーション パッケージがまだインストールされていない場合にはインストール パッケージが使用され、既存のインストールを更新する場合には更新プログラム パッケージが使用されます。
 
 ### <a name="april-16-2019"></a>2019 年 4 月 16 日
-Version 16.16 (19041201)
+バージョン 16.16.9 (19041201)
 
 |**Application**|**ダウンロード リンク**|**インストール パッケージの SHA256 ハッシュ**|
 |:-----|:-----|:-----|:-----|
@@ -50,7 +50,7 @@ Version 16.16 (19041201)
 
  **リリース日:** 2019 年 4 月 16日 
   
- *バージョン 16.16 (ビルド19041201)* 
+ *バージョン 16.16.9 (ビルド 19041201)* 
   
 このリリースでは、次の更新プログラムを提供します。
   
