@@ -84,20 +84,20 @@
 | 4/11/2019 | [Office Insider のリリース ノート](/OfficeUpdates/release-notes-office-insider) | 更新日時 |
 
 
-## <a name="week-of-april-15-2019"></a>2019年4月15日の週
+## <a name="week-of-april-15-2019"></a>2019 年 4 月 15 日の週
 
 
 | 公開日 |トピックのタイトル | 変更 |
 |------|------------|--------|
 | 4/16/2019 | [Office の月次チャンネル (対象指定) の更新履歴](/OfficeUpdates/update-history-monthly-channel-targeted) | 更新日時 |
 | 4/16/2019 | [Office Insider Channel の更新履歴](/OfficeUpdates/update-history-office-insider) | 更新日時 |
-| 4/17/2019 | [Office 365 ProPlus の更新プログラムのダウンロード サイズ](/OfficeUpdates/download-sizes-office365-proplus-updates) | 更新日時 |
-| 4/17/2019 | [2019 年の毎月のチャネル リリースのリリース ノート](/OfficeUpdates/monthly-channel-2019) | 更新日時 |
-| 4/17/2019 | [Office 365 ProPlus の更新履歴 (日付別の一覧)](/OfficeUpdates/update-history-office365-proplus-by-date) | 更新日時 |
-| 4/17/2019 | [Microsoft AutoUpdate (MAU) のリリース履歴](/OfficeUpdates/release-history-microsoft-autoupdate) | 更新日時 |
-| 4/17/2019 | [Office 2016 for Mac のリリース ノート](/OfficeUpdates/release-notes-office-2016-mac) | 更新日時 |
-| 4/17/2019 | [Office for Mac のリリース ノート](/OfficeUpdates/release-notes-office-for-mac) | 更新日時 |
-| 4/17/2019 | [Office for Mac の更新履歴](/OfficeUpdates/update-history-office-for-mac) | 更新日時 |
+| 2019/4/17 | [Office 365 ProPlus の更新プログラムのダウンロード サイズ](/OfficeUpdates/download-sizes-office365-proplus-updates) | 更新日時 |
+| 2019/4/17 | [2019 年の毎月のチャネル リリースのリリース ノート](/OfficeUpdates/monthly-channel-2019) | 更新日時 |
+| 2019/4/17 | [Office 365 ProPlus の更新履歴 (日付別の一覧)](/OfficeUpdates/update-history-office365-proplus-by-date) | 更新日時 |
+| 2019/4/17 | [Microsoft AutoUpdate (MAU) のリリース履歴](/OfficeUpdates/release-history-microsoft-autoupdate) | 更新日時 |
+| 2019/4/17 | [Office 2016 for Mac のリリース ノート](/OfficeUpdates/release-notes-office-2016-mac) | 更新日時 |
+| 2019/4/17 | [Office for Mac のリリース ノート](/OfficeUpdates/release-notes-office-for-mac) | 更新日時 |
+| 2019/4/17 | [Office for Mac の更新履歴](/OfficeUpdates/update-history-office-for-mac) | 更新日時 |
 | 4/18/2019 | [Office Insider のリリース ノート](/OfficeUpdates/release-notes-office-insider) | 更新日時 |
 | 4/18/2019 | [2019 年の半期チャネル (対象指定) リリースのリリース ノート](/OfficeUpdates/semi-annual-channel-targeted-2019) | 更新日時 |
 | 4/18/2019 | [Office の月次チャンネル (対象指定) の更新履歴](/OfficeUpdates/update-history-monthly-channel-targeted) | 更新日時 |
