@@ -3,19 +3,19 @@ title: 2019 年の毎月のチャネル リリースのリリース ノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/18/2019
+ms.date: 4/25/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 6222443b6b6d22d2d80b135fe10fec61ff96d708
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 6c0b086c3dffe6f8942359714b304e81a711b360
+ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438652"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "33370289"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年の毎月のチャネル リリースのリリース ノート
 
@@ -46,9 +46,12 @@ ms.locfileid: "32438652"
 ## <a name="version-1903-april-9"></a>バージョン 1903: 4 月 9 日
 *バージョン 1903 (ビルド 11425.20204)* 
 
-セキュリティ更新プログラムの一覧は[こちら](office365-proplus-security-updates.md)
+- セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/OfficeUpdates/office365-proplus-security-updates)
 
-## <a name="version-1903-april-01"></a>バージョン 1903: 4 月 1 日 
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: セキュリティ以外の更新プログラム
+- Lync (Skype for Business) で、参加者が 7 人以上のオンライン ミーティングのミーティング ウィンドウが表示されないという問題が修正されました。
+
+## <a name="version-1903-april-01"></a>バージョン 1903: 4 月 1 日
 *Version 1903 (Build 11425.20202)* 
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新

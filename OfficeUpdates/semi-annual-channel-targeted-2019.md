@@ -3,19 +3,19 @@ title: 2019 年の半期チャネル (対象指定) リリースのリリース 
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/19/2019
+ms.date: 4/25/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル (対象指定) リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: cdf78723e289a421c81986fd3ccc15e199fbb6ef
-ms.sourcegitcommit: a9bf63c589b511ddc8c66c9221d20ea9654d60ea
+ms.openlocfilehash: 3afa1ce5d224beef17b8f7c2c4bdee8db7c05b9c
+ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2019
-ms.locfileid: "31958048"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "33370309"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年の半期チャネル (対象指定) リリースのリリース ノート
 
@@ -31,11 +31,26 @@ ms.locfileid: "31958048"
 ## <a name="version-1902-april-9"></a>バージョン 1902:4月9日
 *バージョン 1902 (ビルド 11328.20230)*
 
+### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
+
+- 定義された名前で終わる数式が含まれるセルにいる場合、Tab キーを押しても次のセルに移動できないという問題が解決されました。
+- セルの書式設定が原因でファイルのサイズが必要以上に大きくなるという問題が解決されました。
+- ブック間でピボットテーブルをカット アンド ペーストすると、共同作業している他のユーザーのピボットテーブルを含まずにデータが貼り付けられるという問題が解決されました。
+
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
 
+- システムタスクバーを画面の左または上に置いたときにウィンドウが正しい場所に表示されない問題を修正しました。
 - 顧客の連絡先カード上の画像の読み込み中にクラッシュが発生する原因となった問題に対処します。
 - 一部の顧客がOffice アプリケーションの起動時にクラッシュするという問題に対処します。
 - システムタスクバーを画面の左または上に置いたときにウィンドウが正しい場所に表示されない問題を修正しました。
+
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: セキュリティ以外の更新プログラム
+
+- Lync (Skype for Business) で、参加者が 7 人以上のオンライン ミーティングのミーティング ウィンドウが表示されないという問題が修正されました。
+
+### <a name="visio-non-security-updates"></a>Visio: セキュリティ以外の更新プログラム
+
+- 動的 DPI 機能を無効して Visio を拡張するサードパーティ ソリューションで、ウィンドウ階層が壊れる原因となっていた問題が修正されました。
 
 ### <a name="word-non-security-updates"></a>Word: セキュリティ以外の更新プログラム
 
@@ -43,6 +58,9 @@ ms.locfileid: "31958048"
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 
+- Office の更新プログラムの一部で配信の最適化のピア キャッシュを使用しないという問題が修正されました。 
+  [詳細情報]("https://docs.microsoft.com/en-us/windows/deployment/update/waas-delivery-optimization)
+- Office が Office 展開ツールを使用してインストールされ、大文字/小文字が一致しない場合、製品が削除されたり、アクティブ化されなかったりする可能性があるバグが修正されました。
 - Windows 10（バージョン1803以降）のデバイスで過剰なサインインプロンプトを引き起こしていた問題を修正しました。
 - リンクされた写真をダウンロードするときにハングする原因となる退行を修正しました。
 - Word、Excel、PowerPointに貼り付けられた大きなEMFファイルのぼやけを修正しました。
