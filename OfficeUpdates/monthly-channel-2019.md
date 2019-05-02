@@ -3,19 +3,19 @@ title: 2019 年の毎月のチャネル リリースのリリース ノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/25/2019
+ms.date: 4/30/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 6c0b086c3dffe6f8942359714b304e81a711b360
-ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
+ms.openlocfilehash: 83962a846ab8671d147ed55681d982fe905455af
+ms.sourcegitcommit: 7180e0cecf76b5e7edc3a5d41238da15901ec1fd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "33370289"
+ms.lasthandoff: 04/30/2019
+ms.locfileid: "33480090"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年の毎月のチャネル リリースのリリース ノート
 
@@ -27,6 +27,30 @@ ms.locfileid: "33370289"
 
  > [!NOTE]
 > - Office 365 ProPlus の各更新チャネルに対するセキュリティ更新プログラムの情報については、個別の一覧が「[セキュリティ更新プログラム](office365-proplus-security-updates.md)」に記載されます。 
+
+## <a name="version-1904-april-29"></a>バージョン 1904: 4 月 29 日
+*バージョン 1904 (ビルド 11601.20144)* 
+
+### <a name="excel-feature-updates"></a>Excel: 機能の更新
+
+- **特定のファイルをすばやく見つける**: 最近作業を行ったファイルを探している場合は? [ファイル] > [ホーム ページ] タブの検索ボックスに入力するだけで、目的のファイルを見つけることができます。
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新
+
+- **特定のファイルをすばやく見つける**: 最近作業を行ったファイルを探している場合は? [ファイル] > [ホーム ページ] タブの検索ボックスに入力するだけで、目的のファイルを見つけることができます。
+
+### <a name="word-feature-updates"></a>Word: 機能の更新
+
+- **特定のファイルをすばやく見つける**: 最近作業を行ったファイルを探している場合は? [ファイル] > [ホーム ページ] タブの検索ボックスに入力するだけで、目的のファイルを見つけることができます。
+
+### <a name="office-suite-feature-updates"></a>Office スイート: 機能の更新
+
+- **プライバシー制御**: 診断データおよび関連するエクスペリエンスに関する新しく更新されて改善された制御。 [詳細情報](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
+
+- **新しい Office アプリのアイコン:** Office のシンプルで強力、そしてインテリジェントなエクスペリエンスを反映するように、アプリのアイコンを再設計しました。
+
+### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
+新時代の名前である「Reiwa」のひらがなと漢字をスペルミスまたは間違った文法として誤って識別していた問題を修正しました。
 
 ## <a name="version-1903-april-23"></a>バージョン 1903: 4 月 23 日
 *バージョン 1903 (ビルド 11425.20244)*

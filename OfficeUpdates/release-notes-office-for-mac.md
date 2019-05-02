@@ -3,19 +3,19 @@ title: Office for Mac のリリース ノート
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 4/18/2019
+ms.date: 5/2/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 サブスクライバー向け Office for Mac リリース用リリース ノートを IT プロフェッショナルに提供
-ms.openlocfilehash: 6cb4866a65ad45e54a13f62e1b422675d8e4ede4
-ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
+ms.openlocfilehash: 57e30df61e42547b0c23cdb797142dcf87666a56
+ms.sourcegitcommit: b3d71e9fbbece2bba40b6b71f2ad3f4bbbee7a55
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "33370259"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "33527782"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac のリリース ノート
 
@@ -36,7 +36,24 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 
 ## <a name="april-2019-release"></a>2019年 4 月リリース
 
- **リリース日:** 2019 年 4 月 16日 
+**リリース日:** 2019 年 4 月 29 日 
+  
+ *バージョン 16.24.1 (ビルド 19042400)*
+
+
+ このリリースでは、次の更新プログラムを提供します。
+
+|**アプリケーション**|**機能の更新プログラム**|**セキュリティの更新プログラムを入手できます。**|**更新プログラム パッケージのダウンロード リンク**|
+|:-----|:-----|:-----|:-----|
+|Word<br/>|バンドル フォントを更新して日本の新元号グリフを入手する。<br/>|<br/>|[Word の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.24.19042400_Updater.pkg)<br/>|
+|Excel<br/>|バンドル フォントを更新して日本の新元号グリフを入手する。<br/>|<br/>|[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.24.19042400_Updater.pkg)<br/>|
+|PowerPoint<br/>|バンドル フォントを更新して日本の新元号グリフを入手する。<br/>|<br/>|[PowerPoint の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.24.19042400_Updater.pkg)<br/>|
+|Outlook<br/>|バンドル フォントを更新して日本の新元号グリフを入手する。<br/>|<br/>|[Outlook の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.24.19042400_Updater.pkg)<br/>|
+|OneNote<br/>|バンドル フォントを更新して日本の新元号グリフを入手する。<br/>|<br/>|[OneNote の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Onenote_16.24.19042400_Updater.pkg)<br/>|
+
+
+
+ **リリース日:** 2019 年 4 月 16日
   
  *バージョン 16.24 (ビルド 19041401)*
 

@@ -3,19 +3,19 @@ title: Office 365 ProPlus の更新プログラムのダウンロード サイ�
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 4/24/2019
+ms.date: 4/30/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 各チャネルの Office 365 ProPlus の更新プログラムのダウンロード サイズの概算に関する情報を IT 技術者に提供します
-ms.openlocfilehash: 4d636864a4fc00efcdd232e47bd36cb5e7401ce2
-ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
+ms.openlocfilehash: 7020dd834265b708888f8bc7fc1caf5a48ccb652
+ms.sourcegitcommit: 7180e0cecf76b5e7edc3a5d41238da15901ec1fd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "33370219"
+ms.lasthandoff: 04/30/2019
+ms.locfileid: "33480119"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 ProPlus の更新プログラムのダウンロード サイズ
 
@@ -35,6 +35,18 @@ ms.locfileid: "33370219"
 > - 過去 4 か月のリリースだけが記載されています。
 > - 表には、一番最近のリリースのみが記載されています。それより前のリリースから更新する場合、ダウンロード サイズはさらに大きくなります。
 > - 半期チャネル (対象指定) から半期チャネルなどに、チャネルを切り替える場合には、更新プログラムのサイズは表に記載されているサイズよりもかなり大きくなります。全体をダウンロードすることになるので、少なくとも 1 GB になります。
+
+## <a name="april-29-2019"></a>2019 年 4 月 29 日
+### <a name="monthly-channel"></a>毎月のチャネル
+
+最新のリリースは、バージョン 1904 (ビルド 11601.20144) です。 
+  
+|**アップグレード前のリリース **|**リリース日**|**ダウンロード サイズの概算 (MB)**|
+|:-----|:-----|:-----|
+|バージョン 1903 (ビルド 11425.20228)  <br/> |2019 年 4 月 17 日  <br/> |156<br/> |
+|バージョン 1903 (ビルド 11425.20244)  <br/> |2019 年 4 月 22 日  <br/> |146<br/> |
+
+
 
 ## <a name="april-22-2019"></a>2019 年 4 月 22 日
 ### <a name="monthly-channel"></a>月次チャネル
