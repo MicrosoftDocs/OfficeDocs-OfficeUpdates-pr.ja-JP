@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus セキュリティ更新プログラムのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: b96348d9dc180220cc604d644db27ee75bb7e927
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: dc34957ed448b9be20019988ce862ca9cad76c4d
+ms.sourcegitcommit: dee992f8ce988adc164ab492529e92db5e450a09
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438783"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "33639618"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Office 365 ProPlus セキュリティ更新プログラムのリリース ノート
 
@@ -24,6 +24,8 @@ ms.locfileid: "32438783"
 > [!NOTE]
 > - また、以下に示す資料でも Visio Pro for Office 365 および Project Online デスクトップ クライアントのセキュリティ更新プログラムに関する情報が提供されています。
 > - ここに記載されている情報は、Business Premium など一部の Office 365 プランに付属する Office のバージョンの、Office 365 Business にも該当します。
+
+[//]: # (上の行は間隔を空けるために使用されているので、削除しないでください。)
 ## <a name="april-09-2019"></a>2019 年 4 月 9 日
 月次チャネル: バージョン 1903 (ビルド 11425.20204)  
 半期チャネル (対象指定): バージョン 1902 (ビルド 11328.20230)  
