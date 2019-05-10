@@ -43,6 +43,7 @@
 ## [Office 2010 の更新プログラム (C2R)](update-history-office-2010-click-to-run.md)
 ## [Office 2010、2013、2016 の更新プログラム (MSI)](office-updates-msi.md)
 ## [Outlook 2010、2013、2016 の更新プログラム (MSI)](outlook-updates-msi.md)
+## [Office セキュリティ以外の更新プログラム (MSI)](office-MSI-non-security-updates.md)
 ## [Office 2016 .msp ファイル (MSI)](msp-files-office-2016.md)
 ## [Office 2013 .msp ファイル (MSI)](msp-files-office-2013.md)
 ## [Skype for Business の更新プログラム (MSI)](https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates)
