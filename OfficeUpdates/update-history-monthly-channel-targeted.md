@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Windows デスクトップ用の月次チャンネル 対象指定リリースの更新履歴を Insider の皆様に提供します。
-ms.openlocfilehash: 0302cc1500701c6c71e8d41a09655659ee3f0d05
-ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
+ms.openlocfilehash: efa3ea366478529d033786c53f4c19a4ff893383
+ms.sourcegitcommit: 91533ef9a8358bfe6162b4f4913ebcc4c0f928cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/27/2019
-ms.locfileid: "33368772"
+ms.lasthandoff: 05/09/2019
+ms.locfileid: "33834806"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Windows 向け Office の月次チャンネル (対象指定) チャンネルの更新履歴
 
@@ -30,6 +30,9 @@ ms.locfileid: "33368772"
 > - リリース ノートは、更新される頻度はもうすこし少なく、更新プログラムの複数のビルドを最新の発行済みリリース ノートのビルド番号までまとめたものである場合があります
 
 [//]: # (削除禁止)
+
+**2019 年 5 月 8 日**<br/>
+バージョン 1904 (ビルド 11601.20178)<br/>
 
 **2019 年 4 月 27 日**<br/>
 バージョン 1904 (ビルド 11601.20144)<br/>

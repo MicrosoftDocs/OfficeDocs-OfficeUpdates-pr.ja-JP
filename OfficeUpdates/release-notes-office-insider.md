@@ -3,19 +3,19 @@ title: Office Insider のリリース ノート
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 4/26/2019
+ms.date: 5/10/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 8832e521d85c7049518bd5063250b934a7938fd2
-ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
+ms.openlocfilehash: d9354b646128cbcd4bb7f7fbba2fa78b2c0884ae
+ms.sourcegitcommit: 146625160572599e6f02b5129e6ac7bf518ce2f9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "33370189"
+ms.lasthandoff: 05/10/2019
+ms.locfileid: "33882766"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office Insider のリリース ノート
 
@@ -24,6 +24,65 @@ ms.locfileid: "33370189"
 > [!NOTE]
 > - リリース ノートは毎週投稿され、場合により複数のビルドのコンパイルになります
 > - リリースノートの発行日は実際のビルドのリリース日と一致しない場合があります
+
+## <a name="may-10-2019"></a>2019 年 5 月 10日
+バージョン 1906 (ビルド 11702.20000)
+
+## <a name="notable-fixes"></a>主な修正:
+
+### <a name="all"></a>すべて
+- [名前を付けて保存] ダイアログボックスに誤ったパスが表示される問題を修正しました
+
+### <a name="word"></a>Word 
+- 操作アシストからの一部の選択が挿入されない問題を修正しました
+
+### <a name="excel"></a>Excel
+- パフォーマンスと安定性のさまざまな問題を修正
+
+### <a name="powerpoint"></a>PowerPoint
+- パフォーマンスと安定性のさまざまな問題を修正
+
+### <a name="outlook"></a>Outlook
+- パフォーマンスと安定性のさまざまな問題を修正
+
+### <a name="access"></a>Access
+- パフォーマンスと安定性のさまざまな問題を修正
+
+### <a name="project"></a>Project
+- タスク ID の確認に強調表示が必要となる可能性がある問題を修正しました
+
+</BR></BR>
+
+## <a name="may-3-2019"></a>2019 年 5 月 3日
+バージョン 1906 (ビルド 11629.20008)
+
+## <a name="notable-fixes"></a>主な修正:
+
+### <a name="all"></a>すべて
+- 一部のユーザーが OneDrive for Business との同期で問題が発生する問題を修正しました
+
+### <a name="word"></a>Word 
+
+### <a name="excel"></a>Excel
+- 新しいバージョンの Excel にアップグレードした後、ブックから外部リンクが削除されることがある問題を修正しました
+- 一部のユーザーが新しいワークブックでセルを選択するのが困難な問題を修正しました。
+
+### <a name="powerpoint"></a>PowerPoint
+- 図面をテキストに変換するときにフォントサイズが一致しない問題を修正しました
+
+### <a name="outlook"></a>Outlook
+- a .VCF ファイルから連絡先を保存すると空のフィールドが発生する可能性がある問題を修正しました
+- 送信されていても、送信トレイ フォルダーにメッセージが残ってしまう問題を修正しました
+- DRM メッセージの表示中に Outlook がクラッシュする可能性がある問題を修正しました
+
+### <a name="access"></a>Access
+- パフォーマンスと安定性のさまざまな問題を修正
+
+### <a name="project"></a>Project
+- エディターが中国語から英語に切り替わる問題を修正しました
+- マスター プロジェクトの公開コピーに未公開タスクが表示される問題を修正しました。
+
+</BR></BR>
 
 ## <a name="april-26-2019"></a>2019 年 4 月 26 日
 バージョン 1905 (ビルド 11617.20002)
