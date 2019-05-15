@@ -3,19 +3,18 @@ title: 2019 年の毎月のチャネル リリースのリリース ノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/30/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 83962a846ab8671d147ed55681d982fe905455af
-ms.sourcegitcommit: 7180e0cecf76b5e7edc3a5d41238da15901ec1fd
+ms.openlocfilehash: b7719bf3c8fd69aa43a9a680a68ae26d00a63878
+ms.sourcegitcommit: 91533ef9a8358bfe6162b4f4913ebcc4c0f928cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/30/2019
-ms.locfileid: "33480090"
+ms.lasthandoff: 05/09/2019
+ms.locfileid: "33834816"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年の毎月のチャネル リリースのリリース ノート
 
@@ -28,6 +27,11 @@ ms.locfileid: "33480090"
  > [!NOTE]
 > - Office 365 ProPlus の各更新チャネルに対するセキュリティ更新プログラムの情報については、個別の一覧が「[セキュリティ更新プログラム](office365-proplus-security-updates.md)」に記載されます。 
 
+## <a name="version-1904-may-08"></a>バージョン 1904: 5 月 8 日 
+*バージョン 1904 (ビルド 11601.20178)* 
+
+ - さまざまなバグやパフォーマンスが修正されました。
+
 ## <a name="version-1904-april-29"></a>バージョン 1904: 4 月 29 日
 *バージョン 1904 (ビルド 11601.20144)* 
 
@@ -35,15 +39,25 @@ ms.locfileid: "33480090"
 
 - **特定のファイルをすばやく見つける**: 最近作業を行ったファイルを探している場合は? [ファイル] > [ホーム ページ] タブの検索ボックスに入力するだけで、目的のファイルを見つけることができます。
 
+### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
+
+- ** Outlook に LinkedIn ネットワークを接続する:** LinkedIn アカウントを Microsoft アカウントに安全に接続して、LinkedIn プロファイルからの情報を [連絡先カード] に直接表示できるようになりました。 [詳細情報](https://support.office.com/article/98253fdc-a3c2-47e4-8852-ebb4fbed0bc5)
+
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新
 
 - **特定のファイルをすばやく見つける**: 最近作業を行ったファイルを探している場合は? [ファイル] > [ホーム ページ] タブの検索ボックスに入力するだけで、目的のファイルを見つけることができます。
 
 ### <a name="word-feature-updates"></a>Word: 機能の更新
 
+- **プロセス図を Word にエクスポート:** Word 文書に図形やメタデータなどのグラフ コンテンツを自動的に追加します。 その後に、文書をカスタマイズしてプロセスに関するガイドラインや操作マニュアルを作成できます。 [詳細情報](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+
+ - **色の変更履歴、コメントとリアルタイムの共同作業の同期:** 当社の製品での、コメント、変更履歴と共同作業者のカーソルが同じ色で表示されることについての修正箇所を確認しました。
+
 - **特定のファイルをすばやく見つける**: 最近作業を行ったファイルを探している場合は? [ファイル] > [ホーム ページ] タブの検索ボックスに入力するだけで、目的のファイルを見つけることができます。
 
 ### <a name="office-suite-feature-updates"></a>Office スイート: 機能の更新
+
+- **新しいアイコン:** フィードバックに基づいて、300 を超える新しいアイコンが追加されました。 [アイコン] ボタンを使用して、リボンの [挿入] タブに表示されます。
 
 - **プライバシー制御**: 診断データおよび関連するエクスペリエンスに関する新しく更新されて改善された制御。 [詳細情報](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
 
@@ -79,6 +93,8 @@ ms.locfileid: "33480090"
 *Version 1903 (Build 11425.20202)* 
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
+
+- **Excel のインサイト:** インサイトには、ユーザーの範囲に値が用意されています。 インサイトは、データ分析にソフトなアプローチを提供し、データに他からの違う視点を提供します。 [詳細情報](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
 - **コンテンツのリーチを拡大:** アクセシビリティの高いスプレッドシートを作成する必要がありますか? アクセシビリティ チェックを使用すると、アクセシビリティの問題を自動的に監視できます。 [校閲] > [アクセシビリティ チェック] をクリックすると、何か問題が見つかった場合に、ステータス バーに通知が表示されます。
 
@@ -166,6 +182,8 @@ ms.locfileid: "33480090"
 - **ミームが表示される:** テキストまたは静的イメージだけでは十分ではない場合、アニメーション GIF を使用して要点を示すことができます。[詳細情報](https://support.office.com/article/114BB251-861F-41CD-B20F-7E7289630C5B)
  
 ### <a name="visio-feature-updates"></a>Visio: 機能の更新
+
+- **ダブル テイク オン データ フローチャート:** データ ビジュアライザーのフローチャート用の新しいレイアウトは、きれいで鮮明でとても分かりやすいです。 [詳細情報](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
 
 - **Azure ステンシルが組み込まれている:** 多数の Azure ステンシルを使用してクラウド アプリの設計やアーキテクチャの計画を行うことができます。[詳細情報](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 
