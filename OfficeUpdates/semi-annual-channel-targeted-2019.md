@@ -3,18 +3,19 @@ title: 2019 年の半期チャネル (対象指定) リリースのリリース 
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
+ms.date: 5/15/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル (対象指定) リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 597d96593b2b82a9d7e6e85c55c4fafa58bf2b63
-ms.sourcegitcommit: 7559f3b9d37f1f2d53dccd2c41a41aa17a9ccfc6
+ms.openlocfilehash: 8408b1a62691dd56647ee3071da43233b712a772
+ms.sourcegitcommit: 5815b2af46b57f1435486ceca0125c06ca6be106
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34034498"
+ms.lasthandoff: 05/21/2019
+ms.locfileid: "34337111"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年の半期チャネル (対象指定) リリースのリリース ノート
 
@@ -32,6 +33,13 @@ ms.locfileid: "34034498"
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
  -  Excel でカメラ ツールを使用するとスプレッドシートが終了する原因となっていた問題が修正されました。
+ - グラフ シートのある非アクティブ ウィンドウでマウス スクロール ホイールを使用するとクラッシュする問題が修正されました。
+ - SharePoint でスプレッドシートをインポートするときに「予期しないエラー」メッセージが表示される問題が解決されました。
+ - ルールの名前を使用する条件付き書式を含むブックを開くときに、Excel がクラッシュし、ユーザー設定のビューが適用される問題が解決されました。
+ - 255 文字より長い数式でマクロがデータの入力規則を使用すると、実行時エラーが発生する場合があります。 この問題は修正されました。
+ - 他のブックにリンクされているピボットテーブルを含むファイルの読み込み速度が低下する問題。 この問題は解決されました。
+ - HTML ファイルを開くと「ファイル形式と拡張子が一致しない」というエラーが発生する問題が解決されました。
+ - 非アクティブのウィンドウでのマウス ホイール スクロールによる問題を解決するために変更が行われました。  
 
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
  - 移行されたアイテムの一部のフィールドを顧客が編集できない問題が解決されました。
