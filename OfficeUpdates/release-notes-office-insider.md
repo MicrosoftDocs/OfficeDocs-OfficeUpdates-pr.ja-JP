@@ -10,12 +10,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: a747d7cf04b1429ea81f0740f571708a1ff539d9
-ms.sourcegitcommit: 92ef2d0ee2d901d59288ffbbd0cf6d1da2d45bf7
+ms.openlocfilehash: cc9094e2f5a98268ef6df3099028b4dede16ae23
+ms.sourcegitcommit: d704c92753b85a8cd257167cdd0d641b9405f63d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/17/2019
-ms.locfileid: "34161566"
+ms.lasthandoff: 05/24/2019
+ms.locfileid: "34432415"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office Insider のリリース ノート
 
@@ -24,6 +24,42 @@ ms.locfileid: "34161566"
 > [!NOTE]
 > - リリース ノートは毎週投稿され、場合により複数のビルドのコンパイルになります
 > - リリースノートの発行日は実際のビルドのリリース日と一致しない場合があります
+
+## <a name="may-24-2019"></a>2019 年 5 月 24 日
+バージョン 1906 (ビルド 11715.20002)
+
+## <a name="whats-new"></a>新機能:
+
+#### <a name="user-experience-updates"></a>ユーザー エクスペリエンスの更新
+
+近日公開となっていた更新プログラムが公開されました。この更新には、シンプル リボンおよびフォルダー ウィンドウ、メッセージ一覧、閲覧ウィンドウの外観の更新が含まれます。
+
+## <a name="notable-fixes"></a>主な修正:
+
+### <a name="all"></a>すべて
+
+- チャットウィンドウが表示されない問題を修正しました。
+
+### <a name="word"></a>Word 
+- Word で文法エラーのテキストが誤って強調表示されることがある問題が修正されました。
+
+### <a name="excel"></a>Excel
+- 誤ったアイコンがグラフ要素に使用されているという問題が修正されました。
+- 同じブックが既に開いているときに、不正なブックが VBA スクリプトでアクティブになるという問題が修正されました。
+
+### <a name="powerpoint"></a>PowerPoint
+- パフォーマンスと安定性のさまざまな問題を修正
+
+### <a name="outlook"></a>Outlook
+- パフォーマンスと安定性のさまざまな問題を修正
+
+### <a name="access"></a>Access
+- パフォーマンスと安定性のさまざまな問題を修正
+
+### <a name="project"></a>Project
+- タスクバーに切り替えた後、Project がクラッシュする可能性がある問題が修正されました。
+
+</BR></BR>
 
 ## <a name="may-17-2019"></a>2019 年 5 月 17 日
 バージョン 1906 (ビルド 11708.20006)
@@ -278,6 +314,22 @@ OneDrive 同期クライアントを有効にして、Outlook デスクトップ
 ## <a name="april-12-2019"></a>2019 年 4 月 12 日
 バージョン 1905 (ビルド 11601.20042)
 
+## <a name="whats-new"></a>新機能:
+
+### <a name="access"></a>Access
+
+#### <a name="new-in-access---data-connector-to-microsoft-graph"></a>Access の新機能 - Microsoft Graph でのデータ コネクタ
+
+Graph に保存されているスマート コンテキスト データを活用できるアプリケーションを構築できる Microsoft Graph サービスへのリンクまたはインポート フォーム
+
+#### <a name="getting-started"></a>利用するには:
+
+リボンの [外部データ] タブで、[新しいデータ ソース] をクリックし、[オンライン サービス] メニューの Graph コネクタを検索します。
+
+#### <a name="scenarios-to-try"></a>次の操作を試してみてください:
+
+ユーザー、グループ、OneDrive のアイテムなど、さまざまな Graph サービスからインポートまたはGraph サービスへリンクします。
+
 ## <a name="notable-fixes"></a>主な修正:
 
 ### <a name="all-applications"></a>すべてのアプリケーション
@@ -308,6 +360,55 @@ OneDrive 同期クライアントを有効にして、Outlook デスクトップ
 
 ## <a name="april-5-2019"></a>2019年4月5日
 バージョン 1904 (ビルド 11527.20014)
+
+## <a name="whats-new"></a>新機能:
+
+### <a name="outlook"></a>Outlook
+
+#### <a name="outlook-for-windows--set-and-share-your-focused-inbox-settings"></a>Windows 用の Outlook: 優先受信トレイの設定を設定して共有します。
+
+優先受信トレイの設定はクラウドに保存されるため、どのコンピューターで Web 上の Outlook for Windows と Outlook を使用しても同じように一貫したエクスペリエンスを楽しめます。
+
+#### <a name="getting-started"></a>利用するには:
+
+[ファイル]、[オプション]、[全般] の順に移動すると、[Outlook の設定をクラウドに保存する] という新しい設定があります。 ユーザーは、自分の優先受信トレイの設定を他の Outlook Desktop インストールおよび OWA に移動できるようにするには、このチェック ボックスをオンにする必要があります。
+
+#### <a name="scenarios-to-try"></a>次の操作を試してみてください:
+
+クラウド設定の設定を有効にしているコンピューターで優先受信トレイを変更します。 OWA に移動して、そこに適用されている設定も確認してください。 OWA で優先受信トレイを変更し、デスクトップ Outlook を起動して反映された優先順位を表示します。
+
+### <a name="word"></a>Word
+
+#### <a name="learning-tools-mode-has-additional-support-for-more-page-colors"></a>学習ツール モードでは、より多くのページの色が追加でサポートされます。
+
+Word の学習ツールは、より多くのページ テーマ色を追加し、ページの背景色を変更できるようになりました。  多くのユーザーがすべて白、またはすべて黒の背景だと閲覧が難しいという課題があったため、PC と Mac の Word で色の選択肢を拡大しました。
+
+#### <a name="getting-started"></a>利用するには:
+
+この操作を行うには、[表示] タブに移動し、[学習ツール]、[ページの色] の順に選択します。
+
+#### <a name="scenarios-to-try"></a>次の操作を試してみてください:
+
+この操作を行うには、[表示] タブに移動し、[学習ツール]、[ページの色] の順に選択します。
+
+### <a name="excel"></a>Excel
+
+#### <a name="elevate-creativity-with-animated-3d-models"></a>3D アニメーション モデルで創造性を高める
+
+Office では、アニメーションモデルをサポートするようになりました。エディターで再生するので、シートを活用することができます。
+
+#### <a name="getting-started"></a>利用するには:
+
+1. Excel を開く
+2. 3D アニメーション モデルを挿入します (まもなく Remix が公開されますが、今はここでアニメーション モデルにアクセスしてください: \\osan\ogx\Public\TestFiles\3D Models\Animated3D\C3Art)
+3. アニメーション モデルがエディターで再生されるようになります。 スライドショー モードも再生されるようになりますので、確認してください。
+4. [3D 形式] リボンで、モデル内の他のアニメーション シーンを探索する
+
+#### <a name="scenarios-to-try"></a>次の操作を試してみてください:
+
+1. アニメーション モデルを挿入し、エディターで再生します。
+2. アニメーション化されたモデルで使用できるアニメーション シーンについては、シーン ギャラリー ([3D 書式] リボンから利用できます) を参照してください。
+3. リボン、フローティング ツール バーまたはスペースバーを介してアニメーションを簡単に再生および一時停止することができます。
 
 ## <a name="notable-fixes"></a>主な修正:
 
@@ -378,6 +479,22 @@ OneDrive 同期クライアントを有効にして、Outlook デスクトップ
 ## <a name="march-15-2019"></a>2019 年 3 月 15 日
 バージョン 1904 (ビルド 11504.20000)
 
+## <a name="whats-new"></a>新機能:
+
+### <a name="word"></a>Word
+
+#### <a name="focus-mode"></a>フォーカス モード
+
+気を散らさずに作業に集中するには、[表示]メニューの[フォーカス]に切り替えます。 Office 365 サブスクリプションが必要です。
+
+#### <a name="getting-started"></a>利用するには:
+
+リボンのステータス バー [フォーカス] ボタンの [フォーカス] ボタンをタブして表示
+
+#### <a name="scenarios-to-try"></a>次の操作を試してみてください:
+
+フォーカス モードにしてフォーカス エクスペリエンスを経験する
+
 ## <a name="notable-fixes"></a>主な修正:
 
 ### <a name="word"></a>Word 
@@ -421,7 +538,19 @@ Microsoft Search を使用して、作業を完了するのに必要なすべて
 
 - 大学、最近使用したドキュメント、最もよく使用するリボン コマンドなどを検索する
 - トピックや話題を検索して、その詳細情報を取得する
+- 
+#### <a name="coauthoring"></a>共同編集
 
+マクロの文書を編集できない状況にうんざりしていませんか? これで OneDrive for Business 上の docm ファイルで複数の作成者による同時編集が可能になります。
+
+#### <a name="getting-started"></a>利用するには:
+
+ユーザーは、この機能にアクセスするために UI のボタンを押す必要はありません。 OneDrive for Business の docm ファイルでは、既定で有効になっています。
+したがって、試すには、ユーザーが docm ファイルを OneDrive for Business に保存しておく必要があります。
+
+#### <a name="scenarios-to-try"></a>次の操作を試してみてください:
+
+OneDrive for Business で docm ファイルを作成し、同僚と共有して共同作業を行います。
 
 ## <a name="notable-fixes"></a>主な修正:
 
@@ -452,6 +581,21 @@ Microsoft Search を使用して、作業を完了するのに必要なすべて
 ## <a name="march-1-2019"></a>2019 年 3 月 1 日 
 バージョン 1903 (ビルド 11414.20014)
 
+## <a name="whats-new"></a>新機能
+
+### <a name="word"></a>Word
+
+#### <a name="colors-for-track-changes-comments-and-real-time-collaboration-in-sync"></a>色の変更履歴、コメントとリアルタイムの共同作業の同期
+
+当社の製品での、コメント、変更履歴と共同作業者のカーソルが同じ色で表示されることについての修正箇所を確認しました。
+
+#### <a name="getting-started"></a>利用するには:
+
+他のユーザーが開いている SharePoint または OneDrive のドキュメントを開きます。 ユーザーの変更履歴とコメントの色が、ユーザーのカーソルの色と一致することを確認します。
+
+#### <a name="scenarios-to-try"></a>次の操作を試してみてください:
+
+他のユーザーが開いている SharePoint または OneDrive のドキュメントを開きます。 ユーザーの変更履歴とコメントの色が、ユーザーのカーソルの色と一致することを確認します。
 
 ## <a name="notable-fixes"></a>主な修正:
 

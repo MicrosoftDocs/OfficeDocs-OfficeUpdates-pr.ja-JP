@@ -3,19 +3,19 @@ title: 2019 年の半期チャネル (対象指定) リリースのリリース 
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/15/2019
+ms.date: 5/22/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル (対象指定) リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 8408b1a62691dd56647ee3071da43233b712a772
-ms.sourcegitcommit: 5815b2af46b57f1435486ceca0125c06ca6be106
+ms.openlocfilehash: 6c91efb8abe61b4d8324a18f5448f667e7e25954
+ms.sourcegitcommit: d704c92753b85a8cd257167cdd0d641b9405f63d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/21/2019
-ms.locfileid: "34337111"
+ms.lasthandoff: 05/24/2019
+ms.locfileid: "34432425"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年の半期チャネル (対象指定) リリースのリリース ノート
 
@@ -60,6 +60,8 @@ ms.locfileid: "34337111"
  - Word の起動時に [リソースを読み込めませんでした] ダイアログが表示される問題が修正されました。
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
+ - これは、ファイルを Apache WebDAV フォルダーに保存できない問題の修正プログラムです。
+ - ユーザーがクラウドに保存したファイルを開くと、Office が突然終了する問題の修正です。
  - 新時代の名前である「Reiwa」のひらがなと漢字をスペルミスまたは間違った文法として誤って識別していた問題を修正しました。
  - Windows 10 の多くのユーザーに対して最近のファイル リストがクリアされているように見えた問題を修正しました。
  - 管理者による更新が進行中であっても、エンドユーザーに Office Update のビジネス バーが表示される問題を修正しました。
