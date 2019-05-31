@@ -3,24 +3,22 @@ title: Office 365 ProPlus の更新履歴 (日付別の一覧)
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 4/30/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT プロフェッショナルに、日付ごとに整理した Office 365 ProPlus リリースすべての一覧を、リリース ノートへのリンクを含めて提供します
-ms.openlocfilehash: 9164af0880b564149beafdf2f6a2145714522a57
-ms.sourcegitcommit: 7180e0cecf76b5e7edc3a5d41238da15901ec1fd
+ms.openlocfilehash: 6f5a66ffd501c9c6e32eaa3eb9619260e6a06959
+ms.sourcegitcommit: 8d57be9ae77b5fc3275b0245103118a64d8dcc13
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/30/2019
-ms.locfileid: "33480099"
+ms.lasthandoff: 05/30/2019
+ms.locfileid: "34549754"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 ProPlus の更新履歴 (日付別の一覧)
 
 Office 365 ProPlus は、新機能、セキュリティ更新プログラム、セキュリティ外の更新プログラムによって定期的に更新されます。これらの更新プログラムは[更新プログラム チャネル](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)を使用してリリースされます。各更新プログラム チャネルのリリースごとに、バージョンとビルド番号が割り当てられています。 
-
 
 > [!NOTE]
 > - このバージョン番号とビルド番号は、Office 365 Business、Visio Pro for Office 365、Project Online デスクトップ クライアントにも適用されます。Office 365 Business は、Business Premium などの一部の Office 365 プランに付属する、Office のバージョンです。
@@ -28,22 +26,31 @@ Office 365 ProPlus は、新機能、セキュリティ更新プログラム、�
 > - 更新プログラム チャネルの詳細については、「[Office 365 ProPlus 更新プログラム チャネルの概要](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)」を参照してください。
 
 次の表では、サポートされているバージョンと最新のビルド番号を更新プログラム チャネルごとに記載しています。 
- 
+
+[//]: # (EOSTABLESTART)
+
 |**チャネル**|**バージョン**|**ビルド**|**リリース日**|**バージョンのサポート期限**|
 |:-----|:-----|:-----|:-----|:-----|
-|月次  <br/> |1904 <br/> |11601.20144 <br/> | 2019 年 4 月 29 日 <br/> |1905 バージョンがリリースされています。 <br/>|
-|半期 (対象指定)  <br/> |1902  <br/> |11328.20230 <br/> |  2019 年 4 月 9 日 <br/> | 2019 年 9 月 10 日 <br/>|
-|半期 <br/> |1808  <br/> | 10730.20334<br/> | 2019 年 4 月 9 日  <br/> |  2020 年 3 月 10 日 <br/>|
-|半期 <br/> |1803  <br/> | 9126.2382  <br/> | 2019 年 4 月 9 日  <br/> |  2019 年 9 月 10 日 <br/>|
+|月次<br/>|1905<br/>|11629.20196<br/>|2019 年 5 月 29日<br/>|1906 バージョンがリリースされました<br/>|
+|半期 (対象指定)<br/>|1902<br/>|11328.20286<br/>|2019 年 5 月 14 日<br/>|2019 年 9 月 10 日<br/>|
+|半期<br/>|1808<br/>|10730.20344<br/>|2019 年 5 月 14 日<br/>|2020 年 3 月 10 日<br/>|
+|半期<br/>|1803<br/>|9126.2387<br/>|2019 年 5 月 14 日<br/>|2019 年 9 月 10 日<br/>|
+
+[//]: # (EOSTABLEEND)
 
 以前のリリースの Office 365 ProPlus から最新の現在のリリースへ更新する場合のおおよそのダウンロード サイズについて詳しくは、「[Office 365 ProPlus に対する更新プログラムのダウンロード サイズ](download-sizes-office365-proplus-updates.md)」をご覧ください。
 
 
-次の表に、月次、半期 (対象指定)、半期という更新プログラム チャネルでリリースされた Office 365 ProPlus の更新プログラムのバージョン番号とビルド番号の一覧を示します。この表の各項目は、対象リリースのリリース ノートに直接リンクしています。これらのリリース ノートには、Office 365 ProPlus の対象更新プログラムに含まれる機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムに関する情報が含まれます。
+次の表に、月次、半期 (対象指定)、半期という更新プログラム チャネルでリリースされた Office 365 ProPlus の更新プログラムのバージョン番号とビルド番号の一覧を示します。この表の各項目は、対象リリースのリリース ノートに直接リンクしています。これらのリリース ノートには、Office 365 ProPlus の対象更新プログラムに含まれる機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムに関する情報が含まれます。  
 
+[//]: # (HISTORYTABLESTART)
 
 |**Year**|**リリース日**|**月次チャネル**|**半期チャネル (対象指定)**|**半期チャネル**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|5 月 29日 |[バージョン 1905 (ビルド 11629.20196)](monthly-channel-2019.md#version-1905-may-29)| | |
+|2019|5 月 22 日 |[バージョン 1904 (ビルド 11601.20230)](monthly-channel-2019.md#version-1904-may-22)| | |
+|2019|5 月 14 日 |[バージョン 1904 (ビルド 11601.20204)](monthly-channel-2019.md#version-1904-may-14)|[バージョン 1902 (ビルド 11328.20286)](semi-annual-channel-targeted-2019.md#version-1902-may-14) |[バージョン 1808 (ビルド 10730.20344)](semi-annual-channel-2019.md#version-1808-may-14)  <br/>  [バージョン 1803 (ビルド 9126.2387)](semi-annual-channel-2019.md#version-1803-may-14) |
+|2019|5 月 8 日 |[バージョン 1904 (ビルド 11601.20178)](monthly-channel-2019.md#version-1904-may-8)| | |
 |2019|4 月 29 日 |[バージョン 1904 (ビルド 11601.20144)](monthly-channel-2019.md#version-1904-april-29)| | |
 |2019|4 月 22 日 |[バージョン 1903 (ビルド 11425.20244)](monthly-channel-2019.md#version-1903-april-22)| | |
 |2019|4 月 17 日 |[バージョン 1903 (ビルド 11425.20228)](monthly-channel-2019.md#version-1903-april-17)| | |
@@ -182,7 +189,8 @@ Office 365 ProPlus は、新機能、セキュリティ更新プログラム、�
 ||10 月 21 日  <br/> |[バージョン 1509 (ビルド 6001.1034)](monthly-channel-2015.md#version-1509-october-21)  <br/> |[バージョン 1509 (ビルド 6001.1034)](semi-annual-channel-targeted-2015.md#version-1509-october-21)  <br/> |  <br/> |
 ||10 月 5 日  <br/> |[バージョン 1509 (ビルド 4229.1029)](monthly-channel-2015.md#version-1509-october-5)  <br/> |[バージョン 1509 (ビルド 4229.1029)](semi-annual-channel-targeted-2015.md#version-1509-october-5)  <br/> |  <br/> |
 ||9 月 22 日  <br/> |[バージョン 1509 (ビルド 4229.1024)](monthly-channel-2015.md#version-1509-september-22)  <br/> |[バージョン 1509 (ビルド 4229.1024)](semi-annual-channel-targeted-2015.md#version-1509-september-22)  <br/> |  <br/> |
-   
+
+[//]: # (HISTORYTABLEEND)
 
 ## <a name="related-topics"></a>関連項目
 
