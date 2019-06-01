@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: b7719bf3c8fd69aa43a9a680a68ae26d00a63878
-ms.sourcegitcommit: 91533ef9a8358bfe6162b4f4913ebcc4c0f928cc
+ms.openlocfilehash: 0cd1edf42de244ab240241fdc4af61044fb2d98e
+ms.sourcegitcommit: 8d57be9ae77b5fc3275b0245103118a64d8dcc13
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/09/2019
-ms.locfileid: "33834816"
+ms.lasthandoff: 05/30/2019
+ms.locfileid: "34549744"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年の毎月のチャネル リリースのリリース ノート
 
@@ -22,10 +22,72 @@ ms.locfileid: "33834816"
  
  > [!NOTE]
 > - ここに記載されている情報は、Business Premium など一部の Office 365 プランに付属する Office のバージョンの、Office 365 Business にも該当します。
-> - Microsoft では多くの場合、一定期間にわたって毎月、機能 (および場合によっては修正プログラム) を展開します。これにより、幅広いユーザーに機能を公開する前にスムーズに動作するかどうかを確認することができます。したがって、下記のものが表示されない場合でも、心配する必要はなく、いずれは表示されます。[詳細情報](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - Microsoft では多くの場合、一定期間にわたって毎月、機能 (および場合によっては修正プログラム) を展開します。これにより、幅広いユーザーに機能を公開する前にスムーズに動作するかどうかを確認することができます。したがって、下記のものが表示されない場合でも、心配する必要はなく、いずれは表示されます。[詳細情報](https://support.office.com/ja-JP/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  > [!NOTE]
-> - Office 365 ProPlus の各更新チャネルに対するセキュリティ更新プログラムの情報については、個別の一覧が「[セキュリティ更新プログラム](office365-proplus-security-updates.md)」に記載されます。 
+> - Office 365 ProPlus の各更新チャネルに対するセキュリティ更新プログラムの情報については、個別の一覧が「[セキュリティ更新プログラム](office365-proplus-security-updates.md)」に記載されます。
+
+## <a name="version-1905-may-29"></a>バージョン 1905: 5 月 29 日
+*バージョン 1905 (ビルド 11629.20196)*
+
+### <a name="access-feature-updates"></a>Access: 機能の更新
+
+- **シームレスな切り替え:** 新しいアカウント マネージャーでは、Office 365 の職場用と個人用アカウントがすべて 1 か所に表示されます。 アカウント間の切り替えがより簡単になりました。 [詳細情報](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+### <a name="excel-feature-updates"></a>Excel: 機能の更新
+
+- **シームレスな切り替え:** 新しいアカウント マネージャーでは、Office 365 の職場用と個人用アカウントがすべて 1 か所に表示されます。 アカウント間の切り替えがより簡単になりました。 [詳細情報](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+- **近日公開予定:** 近日公開予定の Office に対する魅力あふれる変更点を確認してお試しいただき、フィードバックをお寄せください。 [詳細情報](https://support.office.com/article/7800e0cf0-812f-475a-80aa-d47376e076f2)
+
+- **コメント内で @メンションを使用してより効率的に共同作業を行う:** 共同作業がとても簡単になりました。 ドキュメントのコメント内でチームメートを @メンションできるようになりました。ドキュメントに案内するメール通知が自動的にチームメートに送られます。
+
+- **共同編集の結合の改善:** 条件付き書式、セルのスタイル、範囲の保護、グリッド線の表示、シート間の切り取り/貼り付けを使用する際に、共同編集での結合の成功率が改善されました。 
+
+### <a name="outlook"></a>Outlook
+
+- **より簡単なアカウントの追加方法:** アカウントのセットアップの改善により、2 要素認証を使用する Outlook.com と Gmail のアカウントを Outlook に追加することが以前よりも簡単になりました。 [詳細情報](https://support.office.com/article/70191667-9c52-4581-990e-e30318c2c081)
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新
+
+- **シームレスな切り替え:** 新しいアカウント マネージャーでは、Office 365 の職場用と個人用アカウントがすべて 1 か所に表示されます。 アカウント間の切り替えがより簡単になりました。 [詳細情報](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+- **ライブ キャプションと字幕:** 発表者の言葉が、キャプションまたは選択した言語での字幕として自動的に画面に表示されます。 [詳細情報](https://support.office.com/article/d68d20e49-aec3-456a-939d-34a79e8ddd5f)
+
+- **近日公開予定:** 近日公開予定の Office に対する魅力あふれる変更点を確認してお試しいただき、フィードバックをお寄せください。 [詳細情報](https://support.office.com/article/7800e0cf0-812f-475a-80aa-d47376e076f2)
+
+- **コメント内で @メンションを使用してより効率的に共同作業を行う:** 共同作業がとても簡単になりました。 ドキュメントのコメント内でチームメートを @メンションできるようになりました。ドキュメントに案内するメール通知が自動的にチームメートに送られます。
+
+### <a name="project-feature-updates"></a>Project: 機能の更新
+
+- **シームレスな切り替え:** 新しいアカウント マネージャーでは、Office 365 の職場用と個人用アカウントがすべて 1 か所に表示されます。 アカウント間の切り替えがより簡単になりました。 [詳細情報](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+### <a name="visio-feature-updates"></a>Visio: 機能の更新
+
+- **シームレスな切り替え:** 新しいアカウント マネージャーでは、Office 365 の職場用と個人用アカウントがすべて 1 か所に表示されます。 アカウント間の切り替えがより簡単になりました。 [詳細情報](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+- **PDF または PPT にエクスポートされた、またはメール サブスクリプションをセットアップした Power BI レポートで、Visio Visual もサポートされるようになりました:** Power BI レポートを PDF または PPT にエクスポート、またはメール サブスクリプションにセットアップした場合、Visio Visual はこれらのエクスポート先の形式でシームレスにレンダリングされます。  [詳細情報](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
+
+### <a name="word-feature-updates"></a>Word: 機能の更新  
+
+- **コメント内で @メンションを使用してより効率的に共同作業を行う:** 共同作業がとても簡単になりました。 ドキュメントのコメント内でチームメートを @メンションできるようになりました。ドキュメントに案内するメール通知が自動的にチームメートに送られます。
+
+- **シームレスな切り替え:** 新しいアカウント マネージャーでは、Office 365 の職場用と個人用アカウントがすべて 1 か所に表示されます。 アカウント間の切り替えがより簡単になりました。 [詳細情報](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+- **[学習ツール] モードで、ページで使用できる色が増えました:** Word の学習ツールでは、より多くのページ テーマ色が追加され、ページの背景色を変更できるようになりました。  すべて白またはすべて黒の背景だと読みにくいと感じるユーザーは少なくないため、PC と Mac の Word で色の選択肢を拡大しました。
+
+- **近日公開予定:** 近日公開予定の Office に対する魅力あふれる変更点を確認してお試しいただき、フィードバックをお寄せください。 [詳細情報](https://support.office.com/article/7800e0cf0-812f-475a-80aa-d47376e076f2)
+
+## <a name="version-1904-may-22"></a>バージョン 1904: 5 月 22 日
+*バージョン 1904 (ビルド 11601.20230)*
+
+これにより、ユーザーがプライバシー レベルを選択してコミットした後も、アプリケーションが起動される度に新しいプライバシー プロンプトが表示される問題を解決します。
+
+## <a name="version-1904-may-14"></a>バージョン 1904: 5 月 14 日 
+*バージョン 1904 (ビルド 11601.20204)*
+
+ - 
+  [こちら](https://docs.microsoft.com/ja-JP/OfficeUpdates/office365-proplus-security-updates)からセキュリティ更新プログラムの一覧をご覧ください
 
 ## <a name="version-1904-may-08"></a>バージョン 1904: 5 月 8 日 
 *バージョン 1904 (ビルド 11601.20178)* 
@@ -144,7 +206,8 @@ ms.locfileid: "33834816"
 
 ### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
 
-- **連続する会議の合間に時間を組み込む:** 既定で 5 分から 10 分早く会議を終了するように設定することで、出席者に休憩時間や場所の移動時間を与えることができます。 [詳細情報](https://support.office.com/ja-JP/article/Schedule-a-meeting-with-other-people-5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F#BKMK_endmeetingsearly)
+- **連続する会議の合間に時間を組み込む:** 既定で 5 分から 10 分早く会議を終了するように設定することで、出席者に休憩時間や場所の移動時間を与えることができます。 
+  [詳細情報](https://support.office.com/ja-JP/article/Schedule-a-meeting-with-other-people-5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F#BKMK_endmeetingsearly)
 - **音声読み上げを使用してメールの内容を聞く:** Outlook では、メールのテキストを読み上げながら強調表示することができます。 読み上げ機能をオンにするには、[簡単操作] の設定に移動します。 [詳細情報](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
 - **フィルターが適用された SVG を挿入する機能:** Office ユーザーは、フィルターが適用された SVG を挿入できるようになりました。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
@@ -163,7 +226,8 @@ ms.locfileid: "33834816"
  
 ### <a name="office-suite-feature-updates"></a>Office スイート: 機能の更新
 
-- **Microsoft Teams のインストール:** Microsoft Teams は、Office 365 ProPlus の新規インストール用に既定でインストールされています。 [詳細情報](https://docs.microsoft.com/ja-JP/DeployOffice/teams-install)
+- **Microsoft Teams のインストール:** Microsoft Teams は、Office 365 ProPlus の新規インストール用に既定でインストールされています。 
+  [詳細情報](https://docs.microsoft.com/ja-JP/DeployOffice/teams-install)
 
 ## <a name="version-1901-february-12"></a>バージョン 1901: 2 月 12 日
 *バージョン 1901 (ビルド 11231.20174)* 
@@ -185,7 +249,11 @@ ms.locfileid: "33834816"
 
 - **ダブル テイク オン データ フローチャート:** データ ビジュアライザーのフローチャート用の新しいレイアウトは、きれいで鮮明でとても分かりやすいです。 [詳細情報](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
 
-- **Azure ステンシルが組み込まれている:** 多数の Azure ステンシルを使用してクラウド アプリの設計やアーキテクチャの計画を行うことができます。[詳細情報](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+- **Azure ステンシルが組み込まれました:** 豊富な Azure ステンシルを使用してクラウド アプリの設計やアーキテクチャの計画を行うことができます。 [詳細情報](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+
+### <a name="word-feature-updates"></a>Word: 機能の更新
+
+- **静的なドキュメントから魅力的なドキュメントへの変換:** ドキュメントを、すべてのデバイスに対応する対話型の使いやすい Web ページに変換します。[詳細情報](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
 
 ### <a name="office-suite-feature-updates"></a>Office スイート: 機能の更新
 
@@ -223,8 +291,7 @@ ms.locfileid: "33834816"
 ### <a name="word-feature-updates"></a>Word: 機能の更新
 
 - **行フォーカスによる読解力の向上:** ドキュメント内で行ごとの移動をスムーズに行います。一度に 1 行か、3 行か、5 行かを表示するようフォーカスを調整できます。[詳細情報](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
-- **静的なドキュメントから魅力的なドキュメントへの変換:** ドキュメントを、すべてのデバイスに対応する対話型の使いやすい Web ページに変換します。[詳細情報](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
-- **作業中にアクセシビリティ チェックを実行したままにする:** アクセシビリティ チェックを常に開いたままにしなくても、ドキュメントのアクセシビリティの問題を追跡できます。スペルチェックの場合のように、ステータス バーのインジケーターを介して、作業中に見つかったアクセシビリティの問題に Word が自動的にフラグを付けます。 
+- **作業中にアクセシビリティ チェックを実行したままにする:** アクセシビリティ チェックを常に開いたままにしなくても、ドキュメントのアクセシビリティの問題を追跡できます。スペルチェックの場合のように、ステータス バーのインジケーターを介して、作業中に見つかったアクセシビリティの問題に Word が自動的にフラグを付けます。
 
 ### <a name="visio-feature-updates"></a>Visio: 機能の更新
 
