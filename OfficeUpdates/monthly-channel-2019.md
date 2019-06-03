@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 0cd1edf42de244ab240241fdc4af61044fb2d98e
-ms.sourcegitcommit: 8d57be9ae77b5fc3275b0245103118a64d8dcc13
+ms.openlocfilehash: 88eaa31c57e093cbb693c5521e225b6a670216ca
+ms.sourcegitcommit: f0c8a6342bd72aa81106965ff0fe5254030e0b5d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 05/30/2019
-ms.locfileid: "34549744"
+ms.locfileid: "34550898"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年の毎月のチャネル リリースのリリース ノート
 
@@ -77,6 +77,14 @@ ms.locfileid: "34549744"
 - **[学習ツール] モードで、ページで使用できる色が増えました:** Word の学習ツールでは、より多くのページ テーマ色が追加され、ページの背景色を変更できるようになりました。  すべて白またはすべて黒の背景だと読みにくいと感じるユーザーは少なくないため、PC と Mac の Word で色の選択肢を拡大しました。
 
 - **近日公開予定:** 近日公開予定の Office に対する魅力あふれる変更点を確認してお試しいただき、フィードバックをお寄せください。 [詳細情報](https://support.office.com/article/7800e0cf0-812f-475a-80aa-d47376e076f2)
+
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: セキュリティ以外の更新プログラム
+
+- "ユーザーに自分を知ってもらうのに役立つ、写真の追加" コンテキストのヒントを無効にするオプションを Skype for Business Online ユーザーに提供します。 この修正を有効にするには、[詳細情報](https://support.microsoft.com/help/4503469)を確認してください。
+
+- Skype for Business の再起動後に、セカンダリ呼び出しの設定が常に有効になるのを防ぎます。 この修正を有効にするには、[詳細情報](https://support.microsoft.com/help/4503470)を確認してください。
+
+ - Lync SDK ベースのアプリケーションを使用しながら、大規模な会議に参加するときに Skype for Business の応答を停止させる問題を修正します。 この修正を有効にするには、[詳細情報](https://support.microsoft.com/help/4503472)を確認してください。
 
 ## <a name="version-1904-may-22"></a>バージョン 1904: 5 月 22 日
 *バージョン 1904 (ビルド 11601.20230)*
