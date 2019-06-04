@@ -3,19 +3,19 @@ title: Office Insider のリリース ノート
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 5/17/2019
+ms.date: 5/31/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: cc9094e2f5a98268ef6df3099028b4dede16ae23
-ms.sourcegitcommit: d704c92753b85a8cd257167cdd0d641b9405f63d
+ms.openlocfilehash: 22652263c29133cab298e77dfe6d1b28e57ad34e
+ms.sourcegitcommit: b40c5785c762fde67d8d3ece151bf3d8c9ff4cc5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/24/2019
-ms.locfileid: "34432415"
+ms.lasthandoff: 05/31/2019
+ms.locfileid: "34659784"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office Insider のリリース ノート
 
@@ -24,6 +24,112 @@ ms.locfileid: "34432415"
 > [!NOTE]
 > - リリース ノートは毎週投稿され、場合により複数のビルドのコンパイルになります
 > - リリースノートの発行日は実際のビルドのリリース日と一致しない場合があります
+
+
+## <a name="may-31-2019"></a>2019 年 5 月 31 日
+バージョン 1906 (ビルド 11722.20008)
+
+## <a name="whats-new"></a>新機能:
+
+### <a name="outlook"></a>Outlook
+
+#### <a name="dialog-for-contacting-support-now-is-dockable-and-appears-on-the-right"></a>サポートに問い合わせるためのダイアログがドッキング可能になり、右側に表示されるようになりました。
+
+サポートへの問い合わせに使用するダイアログが右側のウィンドウに表示され、最初からドッキングされたウィンドウとして表示されます。
+
+#### <a name="ink-in-your-email"></a>メールでインクを使用する
+
+Outlook メールで画像を描画し、注釈を付けることができるようになりました。
+
+### <a name="word"></a>Word
+
+#### <a name="open-document-links-in-word"></a>ドキュメント リンクを Word で開く
+
+Office でドキュメント リンクをクリックしたときに既定で Word アプリで開くように設定を変更できるようになりました。  設定を更新するには、[ファイル ] > [オプション] > [詳細設定] > [リンクの処理] の順に移動します。 詳しくは、以下を参照してください。https://support.office.com/ja-JP/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+
+##### <a name="getting-started"></a>作業を開始する:
+
+この機能は既定でオフになっています。 有効化するには、[オプション] > [詳細設定] > [リンクの処理] の設定経由でオンにする方法と、Win32 WXP アプリでオプトイン機能が動作中にオプトインする方法とがあります。
+OneDrive/OneDrive for Business/SharePoint に保存されている Word/PowerPoint/Excel ファイルへのリンクを Outlook/Word/PowerPoint/ Excel でクリックすると、既定で、これらのリンクがブラウザーではなく、適切な Office アプリケーションで開きます。
+
+この既定の設定を変更するには、Outlook/Word/Excel/PowerPoint で次の設定を更新します。
+
+[ファイル ] > [オプション] > [詳細設定] > [リンクの処理]
+
+この設定は、Outlook/Word/PowerPoint/Excel の間で共有され、いずれのアプリからでも設定できます。
+
+##### <a name="scenarios-to-try"></a>次の操作を試してみてください:
+
+オプトイン機能をトリガーするには、OneDrive/SharePoint に保存されている Word ドキュメントへのリンクを Outlook/Word/PowerPoint/Excel から開き、[Office Online からクライアントで開く] をクリックします。この操作を 30 日以内に 2 回行います。 オプトイン後は、リンクは既定で Win32 アプリで起動するようになります。
+
+### <a name="powerpoint"></a>PowerPoint
+
+#### <a name="open-presentation-links-in-powerpoint"></a>プレゼンテーションへのリンクを PowerPoint で開く
+
+Office でプレゼンテーションへのリンクをクリックしたときに既定で PowerPoint アプリで開くように設定を変更できるようになりました。 設定を更新するには、[ファイル ] > [オプション] > [詳細設定] > [リンクの処理] の順に移動します。 詳しくは、以下を参照してください。https://support.office.com/ja-JP/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+
+##### <a name="getting-started"></a>作業を開始する:
+
+この機能は既定でオフになっています。 有効化するには、[オプション] > [詳細設定] > [リンクの処理] の設定経由でオンにする方法と、Win32 WXP アプリでオプトイン機能が動作中にオプトインする方法とがあります。
+OneDrive/OneDrive for Business/SharePoint に保存されている Word/PowerPoint/Excel ファイルへのリンクを Outlook/Word/PowerPoint/ Excel でクリックすると、既定で、これらのリンクがブラウザーではなく、適切な Office アプリケーションで開きます。
+
+この既定の設定を変更するには、Outlook/Word/Excel/PowerPoint で次の設定を更新します。
+
+[ファイル ] > [オプション] > [詳細設定] > [リンクの処理]
+
+この設定は、Outlook/Word/PowerPoint/Excel の間で共有され、いずれのアプリからでも設定できます。
+
+##### <a name="scenarios-to-try"></a>次の操作を試してみてください:
+
+オプトイン機能をトリガーするには、OneDrive/SharePoint に保存されている PowerPoint プレゼンテーションへのリンクを Outlook/Word/PowerPoint/Excel から開き、[Office Online からクライアントで開く] をクリックします。この操作を 30 日以内に 2 回行います。 オプトイン後は、リンクは既定で Win32 アプリで起動するようになります。
+
+### <a name="excel"></a>Excel
+
+#### <a name="open-workbook-links-in-excel"></a>ブックのリンクを Excel で開く
+
+Office でブックのリンクをクリックしたときに既定で Excel アプリで開くように設定を変更できるようになりました。 設定を更新するには、[ファイル ] > [オプション] > [詳細設定] > [リンクの処理] の順に移動します。 詳細については、以下を参照してください。https://support.office.com/ja-JP/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+
+##### <a name="getting-started"></a>作業を開始する:
+
+この機能は既定でオフになっています。 有効化するには、[オプション] > [詳細設定] > [リンクの処理] の設定経由でオンにする方法と、Win32 WXP アプリでオプトイン機能が動作中にオプトインする方法とがあります。
+OneDrive/OneDrive for Business/SharePoint に保存されている Word/PowerPoint/Excel ファイルへのリンクを Outlook/Word/PowerPoint/ Excel でクリックすると、既定で、これらのリンクがブラウザーではなく、適切な Office アプリケーションで開きます。
+
+この既定の設定を変更するには、Outlook/Word/Excel/PowerPoint で次の設定を更新します。
+
+[ファイル ] > [オプション] > [詳細設定] > [リンクの処理]
+
+この設定は、Outlook/Word/PowerPoint/Excel の間で共有され、いずれのアプリからでも設定できます。
+
+##### <a name="scenarios-to-try"></a>次の操作を試してみてください:
+
+オプトイン機能をトリガーするには、OneDrive/SharePoint に保存されている Excel ブックへのリンクを Outlook/Word/PowerPoint/Excel から開き、[Office Online からクライアントで開く] をクリックします。この操作を 30 日以内に 2 回行います。 オプトイン後は、リンクは既定で Win32 アプリで起動するようになります。
+
+## <a name="notable-fixes"></a>主な修正:
+
+### <a name="all"></a>すべて
+- 自動保存が無効になっている場合でも、ファイルが自動保存されてしまう場合がある問題が修正されました。
+
+### <a name="word"></a>Word 
+- 一部のユーザーがファイルを SharePoint に保存できない問題を修正しました。
+
+### <a name="excel"></a>Excel
+- 無効なフィルターに間違ったアイコンが表示される場合がある問題が修正されました
+
+### <a name="powerpoint"></a>PowerPoint
+- パフォーマンスと安定性のさまざまな問題を修正
+
+### <a name="outlook"></a>Outlook
+- グループ スケジュール ビューで一部のユーザーがオフラインとして間違って表示される問題が修正されました
+- 末尾にスペースが挿入されている URL が SafeLink で解析できない問題が修正されました。
+- 業務時間外に部屋が利用可能と表示される問題が修正されました。
+
+### <a name="access"></a>Access
+- パフォーマンスと安定性のさまざまな問題を修正
+
+### <a name="project"></a>Project
+- パフォーマンスと安定性のさまざまな問題を修正
+
+</BR></BR>
 
 ## <a name="may-24-2019"></a>2019 年 5 月 24 日
 バージョン 1906 (ビルド 11715.20002)
