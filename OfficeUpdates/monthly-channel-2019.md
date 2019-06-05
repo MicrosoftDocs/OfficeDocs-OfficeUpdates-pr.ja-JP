@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 88eaa31c57e093cbb693c5521e225b6a670216ca
-ms.sourcegitcommit: f0c8a6342bd72aa81106965ff0fe5254030e0b5d
+ms.openlocfilehash: e51c94a9660afb2e1bfebf609fbbc8e65b7d2e11
+ms.sourcegitcommit: 23d07012db5d772ef0eb233777326a509fc4ef26
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/30/2019
-ms.locfileid: "34550898"
+ms.lasthandoff: 06/04/2019
+ms.locfileid: "34683993"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年の毎月のチャネル リリースのリリース ノート
 
@@ -26,6 +26,11 @@ ms.locfileid: "34550898"
 
  > [!NOTE]
 > - Office 365 ProPlus の各更新チャネルに対するセキュリティ更新プログラムの情報については、個別の一覧が「[セキュリティ更新プログラム](office365-proplus-security-updates.md)」に記載されます。
+
+## <a name="version-1905-june-03"></a>バージョン 1905: 6 月 3 日
+*バージョン 1905 (ビルド 11629.20214)*
+
+ - 一部のアドインがグラフ内の図形に対して予期しないエラーを発生させる問題を修正しました。
 
 ## <a name="version-1905-may-29"></a>バージョン 1905: 5 月 29 日
 *バージョン 1905 (ビルド 11629.20196)*

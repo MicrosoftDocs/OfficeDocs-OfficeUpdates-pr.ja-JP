@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 各チャネルの Office 365 ProPlus の更新プログラムのダウンロード サイズの概算に関する情報を IT 技術者に提供します
-ms.openlocfilehash: 9f7c1e10c63e9c37bf6a8695b6c3a909fc2ed925
-ms.sourcegitcommit: f0c8a6342bd72aa81106965ff0fe5254030e0b5d
+ms.openlocfilehash: b849b50792988a4640597749d5b4f33b99fac150
+ms.sourcegitcommit: 23d07012db5d772ef0eb233777326a509fc4ef26
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/30/2019
-ms.locfileid: "34550888"
+ms.lasthandoff: 06/04/2019
+ms.locfileid: "34684013"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 ProPlus の更新プログラムのダウンロード サイズ
 
@@ -35,7 +35,18 @@ ms.locfileid: "34550888"
 > - 表には、一番最近のリリースのみが記載されています。それより前のリリースから更新する場合、ダウンロード サイズはさらに大きくなります。
 > - 半期チャネル (対象指定) から半期チャネルなどに、チャネルを切り替える場合には、更新プログラムのサイズは表に記載されているサイズよりもかなり大きくなります。全体をダウンロードすることになるので、少なくとも 1 GB になります。
 
-## <a name="may-29-2019"></a>2019 年 5 月 29日
+## <a name="june-3-2019"></a>2019 年 6 月 3 日
+*バージョン 1905 (ビルド 11629.20214)*
+### <a name="monthly-channel"></a>月次チャネル
+
+最新のリリースは、バージョン 1905 (ビルド 11629.20214) です。
+  
+|**アップグレード前のリリース **|**リリース日**|**ダウンロード サイズの概算 (MB)**|
+|:-----|:-----|:-----|
+|バージョン 1905 (ビルド 11629.20196)  <br/> |2019 年 5 月 29 日  <br/> |291<br/> |
+|バージョン 1904 (ビルド 11601.20230)  <br/> |2019 年 5 月 22 日  <br/> |190<br/> |
+
+## <a name="may-29-2019"></a>2019 年 5 月 29 日
 *バージョン 1905 (ビルド 11629.20196)*
 ### <a name="monthly-channel"></a>毎月のチャネル
 
