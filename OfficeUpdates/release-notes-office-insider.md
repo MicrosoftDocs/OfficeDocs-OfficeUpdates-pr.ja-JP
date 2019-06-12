@@ -3,19 +3,19 @@ title: Office Insider のリリース ノート
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 5/31/2019
+ms.date: 6/7/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 22652263c29133cab298e77dfe6d1b28e57ad34e
-ms.sourcegitcommit: b40c5785c762fde67d8d3ece151bf3d8c9ff4cc5
+ms.openlocfilehash: 6fca274c0acf56aa2ba5d926e7b4f61a1c8f33d1
+ms.sourcegitcommit: 664eea7a20324858da3503f54d0efac97e2299e4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/31/2019
-ms.locfileid: "34659784"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34773753"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office Insider のリリース ノート
 
@@ -25,6 +25,35 @@ ms.locfileid: "34659784"
 > - リリース ノートは毎週投稿され、場合により複数のビルドのコンパイルになります
 > - リリースノートの発行日は実際のビルドのリリース日と一致しない場合があります
 
+
+## <a name="june-7-2019"></a>2019 年 6 月 7 日
+バージョン 1907 (ビルド 11727.20064)
+
+## <a name="notable-fixes"></a>主な修正:
+
+### <a name="word"></a>Word 
+- オートコレクトが文の先頭文字を大文字にするように設定されていると Word がクラッシュする場合がある問題を修正しました。
+- SharePoint でドキュメントを編集する際のパフォーマンスが向上しました。
+- Adobe Illustrator で作成されたベクター ベースの画像が正しく表示されない問題を修正しました。
+
+### <a name="excel"></a>Excel
+- マクロを記録するときに、並べ替えフィールドが正しく設定されない場合がある問題を修正しました。
+- 配列数式の計算中にハングまたはクラッシュする問題を修正しました。
+
+### <a name="powerpoint"></a>PowerPoint
+- パフォーマンスと安定性のさまざまな問題を修正
+
+### <a name="outlook"></a>Outlook
+- インライン添付ファイルが誤って拡大縮小されることがある問題を修正しました。
+
+### <a name="access"></a>Access
+- パフォーマンスと安定性のさまざまな問題を修正
+
+### <a name="project"></a>Project
+- 固定期間のタイムシートが割り当て終了日を変更するという問題を修正しました。
+- 以前のバージョンからプロジェクトを開くと、[完了率] の値が正しくない場合がある問題を修正しました。
+
+</BR></BR>
 
 ## <a name="may-31-2019"></a>2019 年 5 月 31 日
 バージョン 1906 (ビルド 11722.20008)
