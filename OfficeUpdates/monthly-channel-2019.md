@@ -1,36 +1,56 @@
 ---
 title: 2019 年の毎月のチャネル リリースのリリース ノート
 ms.author: andrewmo
-author: andymosten
+author: anankani
 manager: andrewmo
+//: ''
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: e51c94a9660afb2e1bfebf609fbbc8e65b7d2e11
-ms.sourcegitcommit: 23d07012db5d772ef0eb233777326a509fc4ef26
+ms.openlocfilehash: 9e452797e4250fa859ec725005a87f21115482e7
+ms.sourcegitcommit: d8ac84be012031d41fc29caf7e5b0bc32425a523
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34683993"
+ms.lasthandoff: 06/11/2019
+ms.locfileid: "34857747"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年の毎月のチャネル リリースのリリース ノート
 
-これらのリリースノートには、Visio Pro for Office 365およびProject Online Desktop Clientを含む、2019年のOffice 365 ProPlusの毎月の更新プログラムチャンネルに含まれる新機能およびセキュリティ以外の更新に関する情報が記載されています。
+これらのリリースノートには、Visio Pro for Office 365、Project Online Desktop Client、および Office 365 Business を含む、2019 年の Office 365 ProPlus の毎月の更新プログラム チャンネルに含まれる新機能およびセキュリティ以外の更新に関する情報が記載されています。
  
  > [!NOTE]
-> - ここに記載されている情報は、Business Premium など一部の Office 365 プランに付属する Office のバージョンの、Office 365 Business にも該当します。
+> - Office 365 ProPlus の各更新チャネルに対するセキュリティ更新プログラムの情報については、個別の一覧が「[セキュリティ更新プログラム](office365-proplus-security-updates.md)」に記載されます。
 > - Microsoft では多くの場合、一定期間にわたって毎月、機能 (および場合によっては修正プログラム) を展開します。これにより、幅広いユーザーに機能を公開する前にスムーズに動作するかどうかを確認することができます。したがって、下記のものが表示されない場合でも、心配する必要はなく、いずれは表示されます。[詳細情報](https://support.office.com/ja-JP/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  > [!NOTE]
-> - Office 365 ProPlus の各更新チャネルに対するセキュリティ更新プログラムの情報については、個別の一覧が「[セキュリティ更新プログラム](office365-proplus-security-updates.md)」に記載されます。
+> - Microsoft Teams に関連する既存の Office 365 ProPlus のインストール - 6 月の下旬から、これらの更新プログラムのインストール時に、Microsoft Teams が既存の Office 365 ProPlus (Office 365 Business) のインストールの中に含められます。 Teams が追加される日にちは、使用している更新プログラムチャネルによって異なります。 追加情報については、「[Office 365 ProPlus で Microsoft Teams を展開する](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)」を参照してください。
 
-## <a name="version-1905-june-03"></a>バージョン 1905: 6 月 3 日
+## <a name="version-1905-june-11"></a>バージョン 1905: 6 月 11 日
+*バージョン 1905 (ビルド 11629.20246)*
+<br/>
+  [こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)にセキュリティ更新プログラムが記載されています
+
+### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
+
+- セルが挿入または削除されたときに、ウォーターフォール図とじょうごグラフがテーブルと同期しなくなる原因となっていた問題が解決されました。
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: セキュリティ以外の更新プログラム
+
+ - 一部のアドインがグラフの図形に対して予期しないエラーをスローさせる問題を修正しました。
+
+### <a name="visio-non-security-updates"></a>Visio: セキュリティ以外の更新プログラム
+
+ - Visio から SVG へのエクスポートは、さまざまな図形に対してうまくいきませんでした。
+
+## <a name="version-1905-june-03"></a>バージョン 1905: 6 月 3 日 
 *バージョン 1905 (ビルド 11629.20214)*
 
- - 一部のアドインがグラフ内の図形に対して予期しないエラーを発生させる問題を修正しました。
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: セキュリティ以外の更新プログラム
+
+- 一部のアドインがグラフの図形に対して予期しないエラーをスローさせる問題を修正しました。
 
 ## <a name="version-1905-may-29"></a>バージョン 1905: 5 月 29 日
 *バージョン 1905 (ビルド 11629.20196)*
