@@ -3,19 +3,19 @@ title: Office Insider のリリース ノート
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 6/7/2019
+//: ''
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 6fca274c0acf56aa2ba5d926e7b4f61a1c8f33d1
-ms.sourcegitcommit: 664eea7a20324858da3503f54d0efac97e2299e4
+ms.openlocfilehash: 8cc5c8c9b11dabce030095a2d56404856850377a
+ms.sourcegitcommit: d8ac84be012031d41fc29caf7e5b0bc32425a523
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34773753"
+ms.lasthandoff: 06/11/2019
+ms.locfileid: "34857757"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office Insider のリリース ノート
 
@@ -25,6 +25,8 @@ ms.locfileid: "34773753"
 > - リリース ノートは毎週投稿され、場合により複数のビルドのコンパイルになります
 > - リリースノートの発行日は実際のビルドのリリース日と一致しない場合があります
 
+ > [!NOTE]
+> - Microsoft Teams に関連する既存の Office 365 ProPlus のインストール - 6 月の下旬から、これらの更新プログラムのインストール時に、Microsoft Teams が既存の Office 365 ProPlus (Office 365 Business) のインストールの中に含められます。 Teams が追加される日にちは、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)」を参照してください。
 
 ## <a name="june-7-2019"></a>2019 年 6 月 7 日
 バージョン 1907 (ビルド 11727.20064)

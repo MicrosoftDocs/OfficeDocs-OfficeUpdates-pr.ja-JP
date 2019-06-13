@@ -1,21 +1,21 @@
 ---
 title: Office の月次チャンネル (対象指定) の更新履歴
 ms.author: andrewmo
-author: andymosten
+author: anankani
 manager: andrewmo
-ms.date: 05/22/2019
+//: ''
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Windows デスクトップ用の月次チャンネル 対象指定リリースの更新履歴を Insider の皆様に提供します。
-ms.openlocfilehash: 2f5a739184c4064197538cba0cfe251604b06dd9
-ms.sourcegitcommit: 23d07012db5d772ef0eb233777326a509fc4ef26
+ms.openlocfilehash: 524ad5498491e1e5a9f7d130bf5514ba6e99d4a3
+ms.sourcegitcommit: d8ac84be012031d41fc29caf7e5b0bc32425a523
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34684023"
+ms.lasthandoff: 06/11/2019
+ms.locfileid: "34857767"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Windows 向け Office の月次チャンネル (対象指定) チャンネルの更新履歴
 
@@ -29,7 +29,13 @@ ms.locfileid: "34684023"
 > - こちらの更新履歴はリリースされたすべてのビルドを一覧表示します
 > - リリース ノートは、更新される頻度はもうすこし少なく、更新プログラムの複数のビルドを最新の発行済みリリース ノートのビルド番号までまとめたものである場合があります
 
+ > [!NOTE]
+> - Microsoft Teams に関連する既存の Office 365 ProPlus のインストール - 6 月の下旬から、これらの更新プログラムのインストール時に、Microsoft Teams が既存の Office 365 ProPlus (Office 365 Business) のインストールの中に含められます。 Teams が追加される日にちは、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)」を参照してください。
+
 [//]: # (削除禁止)
+
+**2019 年 6 月 11 日**<br/>
+バージョン 1906 (ビルド 11727.20104)<br/>
 
 **2019 年 6 月 3 日**<br/>
 バージョン 1905 (ビルド 11629.20214)<br/>
