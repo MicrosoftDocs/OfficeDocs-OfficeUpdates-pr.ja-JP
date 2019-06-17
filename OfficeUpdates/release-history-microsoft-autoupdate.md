@@ -3,19 +3,19 @@ title: Microsoft AutoUpdate (MAU) のリリース履歴
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/15/2019
+ms.date: 6/14/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT プロフェッショナルに、Microsoft AutoUpdate (MAU) のリリース履歴を提供します
-ms.openlocfilehash: b33d9718ce92494b25b294de4618ec6dd8132c7c
-ms.sourcegitcommit: 38b3f8be8686cd853e481c1e93b89040637a9748
+ms.openlocfilehash: 856e2a039b7b4e7bbd7dcd3cba72be59e07f8c7b
+ms.sourcegitcommit: eaa9ab73dea88c18d1d23474c21457d8656af821
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/23/2019
-ms.locfileid: "34419151"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "34935839"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) のリリース履歴
  
@@ -25,13 +25,37 @@ ms.locfileid: "34419151"
 
 
 > [!NOTE]
-> - 最新バージョンの Microsoft AutoUpdate は、いつでも [https://go.microsoft.com/fwlink/p/?linkid=830196](https://go.microsoft.com/fwlink/p/?linkid=830196) から利用できます。
-> - ダウンロード リンクは最新の Microsoft AutoUpdate リリースにのみ記します。
+> 
+> - ダウンロード リンクは、最新リリースの Microsoft AutoUpdate にのみ提供されます。
 > - Microsoft AutoUpdate は、Microsoft のさまざまな Mac 製品への更新プログラムを提供します。そのため、Office for Mac を実行していない場合でも、Microsoft AutoUpdate を更新する通知が表示される場合があります。
   
-|**リリース日**|**バージョン**|**詳細情報**|**更新プログラム パッケージのダウンロード リンク**|
+## <a name="june-2019-release"></a>2019 年 6 月リリース
+
+**リリース日:** 2019 年 6 月 11 日
+
+*Microsoft Auto Update 4.12*
+
+ **機能の更新プログラム:**
+
+- バイナリ デルタの更新: SSD デバイスを使用している場合は、更新プログラムを小規模に展開することで、更新プログラムのための帯域幅消費を削減します。
+- アクセサリ用アプリのサポート: MAU で Microsoft OneDrive などのアクセサリ用アプリがサポートされるようになりました。
+- クローンの拡張機能: クローンの更新が、より堅牢で失敗知らずになりました。
+
+**MAU のリンクの更新:**
+
+「[Microsoft Auto Update 4.12 パッケージをダウンロードする](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.12.19060901_Updater.pkg)」<br/>
+<br/>
+**SHA-1/ SHA-256 ハッシュ:**
+
+ABCC7D58DA7DB1B8B24B9B1BE6B1DB93BDC97AE487EFB615EC5695B9E1CC0FC9
+<br/><br/>
+
+## <a name="release-history"></a>リリース履歴
+
+|**リリース日**|**バージョン**|**詳細情報**||
 |:-----|:-----|:-----|:-----|
-|2019 年 5 月 14 日 <br/>|4.11 <br/> | [リリース ノート](release-notes-office-for-mac.md#May-2019-release) <br/> |[MAU 4.11のダウンロード](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |
+|2019 年 6 月 11 日 <br/>|4.12 <br/> |  <br/> ||
+|2019 年 5 月 14 日 <br/>|4.11 <br/> | [リリース ノート](release-notes-office-for-mac.md#May-2019-release) <br/> | <br/> |
 |2019 年 4 月 16 日 <br/>|4.10 <br/> | [リリース ノート](release-notes-office-for-mac.md#April-2019-release) <br/> |<br/> |
 |2019 年 3 月 14 日 <br/>|4.9.0 <br/> | [リリース ノート](release-notes-office-for-mac.md#march-2019-release) <br/> | <br/> |
 |2019 年 2 月 26 日 <br/>|4.8.0 <br/> | [リリース ノート](release-notes-office-for-mac.md#january-2019-release) <br/> |<br/> |

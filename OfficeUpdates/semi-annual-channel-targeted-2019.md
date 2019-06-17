@@ -3,19 +3,19 @@ title: 2019 年の半期チャネル (対象指定) リリースのリリース 
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/22/2019
+ms.date: 6/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル (対象指定) リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 6c91efb8abe61b4d8324a18f5448f667e7e25954
-ms.sourcegitcommit: d704c92753b85a8cd257167cdd0d641b9405f63d
+ms.openlocfilehash: eabd0a3bf3c7c44a74e0991b78e11e6d079dc7f3
+ms.sourcegitcommit: 2a0b5f0a6ef18194f8a8591ff2fd3e6894d162b2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/24/2019
-ms.locfileid: "34432425"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34910397"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年の半期チャネル (対象指定) リリースのリリース ノート
 
@@ -27,6 +27,32 @@ ms.locfileid: "34432425"
  
 > [!NOTE]
 > - Office 365 ProPlus の各更新チャネルに対するセキュリティ更新プログラムの情報については、個別の一覧が「[セキュリティ更新プログラム](office365-proplus-security-updates.md)」に記載されます。
+
+## <a name="version-1902-june-11"></a>バージョン 1902: 6 月 11 日
+*バージョン 1902 (ビルド 11328.20318)*
+<br/>
+  [こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)にセキュリティ更新プログラムが記載されています
+
+### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
+ - PDF にマッピングする XML を含むファイルを保存するときにクラッシュの原因となっていた問題が解決されました。
+ - 無効なシート名を含むブックを読み込むときに外部リンクが削除される原因となっていた問題が解決されました。
+ - Excel でカメラ ツールを使用するとスプレッドシートが終了する原因となっていた問題が修正されました。
+ - セルが挿入または削除されたときに、ウォーターフォール図とじょうごグラフがテーブルと同期しなくなる原因となっていた問題が解決されました。
+ - テーブルに依存する別のシートで配列計算を用いて Worksheet Calculate を動作させている間に、データ テーブルが再計算されるとクラッシュする問題が解決されました。 
+ - 最初にファイルをチェックアウトしないと、パスワードで保護されたブックを SharePoint から開けなかった問題が解決されました。
+ - 自動保存の共有または切り替えが行われているときに BeforeSave イベントの処理を確保する変更が行われました。
+
+### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
+ - "Group by" に 2 番目の条件を追加するとお客様に表示するタスクが表示されなくなる原因となっていた問題が修正されました。
+
+### <a name="word-non-security-updates"></a>Word: セキュリティ以外の更新プログラム
+ - .asd 拡張子が含まれる添付ファイルを生成するドキュメントとして現在共同作成しているドキュメントの共有を修正しました。
+ - ランダムな作成者に起因したコメントに関する問題が修正されました。
+ - ドキュメントをチェックアウトするときに発生する署名の削除の問題が修正されました。
+
+### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
+ - "元に戻す" 操作の後に VBA が不正確な図形の塗り潰しのステータスを報告する問題を修正しました。
+
 
 ## <a name="version-1902-may-14"></a>バージョン 1902: 5 月 14 日
 *バージョン 1902 (ビルド 11328.20286)*

@@ -3,19 +3,19 @@ title: Office Insider のリリース ノート
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-//: ''
+ms.date: 6/14/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 8cc5c8c9b11dabce030095a2d56404856850377a
-ms.sourcegitcommit: d8ac84be012031d41fc29caf7e5b0bc32425a523
+ms.openlocfilehash: 8a2bf54f60b7d35a0f3b2f023e0100ff65d09ed2
+ms.sourcegitcommit: 288bea365b4c0265fb9ff182b19ff4eb30b4c7d7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/11/2019
-ms.locfileid: "34857757"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "34948793"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office Insider のリリース ノート
 
@@ -26,7 +26,41 @@ ms.locfileid: "34857757"
 > - リリースノートの発行日は実際のビルドのリリース日と一致しない場合があります
 
  > [!NOTE]
-> - Microsoft Teams に関連する既存の Office 365 ProPlus のインストール - 6 月の下旬から、これらの更新プログラムのインストール時に、Microsoft Teams が既存の Office 365 ProPlus (Office 365 Business) のインストールの中に含められます。 Teams が追加される日にちは、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)」を参照してください。
+> - Microsoft Teams に関連する既存の Office 365 ProPlus のインストール - 6 月の下旬から、これらの更新プログラムのインストール時に、Microsoft Teams が既存の Office 365 ProPlus (Office 365 Business) のインストールの中に含められます。 Teams が追加される日にちは、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus で Microsoft Teams を展開する](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)」を参照してください。
+
+## <a name="june-14-2019"></a>2019 年 6 月 14 日
+バージョン 1907 (ビルド 11807.20000)
+
+## <a name="notable-fixes"></a>主な修正:
+
+### <a name="word"></a>Word 
+- OneDrive に保存しているときにユーザーがサインインするのを妨げていた問題が修正されました
+- アクセス制限モード中にユーザーによる SharePoint のプロパティの変更が妨げられていた問題が修正されました
+- 余白を調整しているときにヘッダーやフッターの内容が変更されてしまう問題が修正されました
+- Web ビューに切り替えているときに書式設定が崩れてしまう問題が修正されました
+- SharePoint で開いたときにユーザーによるカスタム フィールドの使用を妨げていた問題が修正されました
+
+### <a name="excel"></a>Excel
+- フィルター処理された行を削除するときのパフォーマンスの問題が修正されました
+- 時々、保護ビューでマウスをちらつかせる原因になっていた問題が修正されました
+- 系列を削除しているときにクラッシュを引き起こしていた問題が修正されました
+- 利用できなかった場合に一部のユーザーがバージョン履歴を追加するオプションを使用していたところの問題が修正されました
+- スプレッドシート比較ツールを使用しているときに例外を引き起こしていた問題が修正されました
+
+### <a name="powerpoint"></a>PowerPoint
+- SharePoint へのリンクをクリックしたときにクラッシュを発生させていた問題が修正されました
+- ユーザーが Surface ペンを使用して入力しているのに、次のページに切り替わってしまう問題が修正されました
+
+### <a name="outlook"></a>Outlook
+- 一部の宛先フィールドが通常より大きくなってしまう問題が修正されました
+
+### <a name="access"></a>Access
+- パフォーマンスと安定性のさまざまな問題を修正
+
+### <a name="project"></a>Project
+- パフォーマンスと安定性のさまざまな問題を修正
+
+</BR></BR>
 
 ## <a name="june-7-2019"></a>2019 年 6 月 7 日
 バージョン 1907 (ビルド 11727.20064)
