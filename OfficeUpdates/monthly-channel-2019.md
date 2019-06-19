@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 1495252aab347ba172e0094da296b2bda0bb25b6
-ms.sourcegitcommit: 2a0b5f0a6ef18194f8a8591ff2fd3e6894d162b2
+ms.openlocfilehash: 2668fe627278a2973d243f85d8889b077180fc75
+ms.sourcegitcommit: 0ef085de6bb68019197fcc791cd661dddb30fa43
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34910387"
+ms.lasthandoff: 06/17/2019
+ms.locfileid: "35017367"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年の毎月のチャネル リリースのリリース ノート
 
@@ -26,7 +26,7 @@ ms.locfileid: "34910387"
 > - Microsoft では多くの場合、一定期間にわたって毎月、機能 (および場合によっては修正プログラム) を展開します。これにより、幅広いユーザーに機能を公開する前にスムーズに動作するかどうかを確認することができます。したがって、下記のものが表示されない場合でも、心配する必要はなく、いずれは表示されます。[詳細情報](https://support.office.com/ja-JP/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  > [!NOTE]
-> - Microsoft Teams に関連する既存の Office 365 ProPlus のインストール - 6 月の下旬から、これらの更新プログラムのインストール時に、Microsoft Teams が既存の Office 365 ProPlus (Office 365 Business) のインストールの中に含められます。 Teams が追加される日にちは、使用している更新プログラムチャネルによって異なります。 追加情報については、「[Office 365 ProPlus で Microsoft Teams を展開する](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)」を参照してください。
+> - Microsoft Teams に関連する既存の Office 365 ProPlus のインストール - 6 月の下旬から、これらの更新プログラムのインストール時に、Microsoft Teams が既存の Office 365 ProPlus (Office 365 Business) のインストールの中に含められます。 Teams が追加される日にちは、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus で Microsoft Teams を展開する](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)」を参照してください。
 
 ## <a name="version-1905-june-11"></a>バージョン 1905: 6 月 11 日
 *バージョン 1905 (ビルド 11629.20246)*
@@ -39,13 +39,13 @@ ms.locfileid: "34910387"
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: セキュリティ以外の更新プログラム
 
- - 一部のアドインがグラフの図形に対して予期しないエラーをスローさせる問題を修正しました。
+- 一部のアドインがグラフの図形に対して予期しないエラーをスローさせる問題を修正しました。
 
 ### <a name="visio-non-security-updates"></a>Visio: セキュリティ以外の更新プログラム
 
- - Visio から SVG へのエクスポートは、さまざまな図形に対してうまくいきませんでした。
+- Visio から SVG へのエクスポートは、さまざまな図形に対して機能しませんでした。
 
-## <a name="version-1905-june-03"></a>バージョン 1905: 6 月 3 日 
+## <a name="version-1905-june-3"></a>バージョン 1905: 6 月 3 日
 *バージョン 1905 (ビルド 11629.20214)*
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: セキュリティ以外の更新プログラム
@@ -121,16 +121,15 @@ ms.locfileid: "34910387"
 ## <a name="version-1904-may-14"></a>バージョン 1904: 5 月 14 日 
 *バージョン 1904 (ビルド 11601.20204)*
 
- - 
-  [こちら](https://docs.microsoft.com/ja-JP/OfficeUpdates/office365-proplus-security-updates)からセキュリティ更新プログラムの一覧をご覧ください
+ - セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/OfficeUpdates/office365-proplus-security-updates)
 
-## <a name="version-1904-may-08"></a>バージョン 1904: 5 月 8 日 
-*バージョン 1904 (ビルド 11601.20178)* 
+## <a name="version-1904-may-8"></a>バージョン 1904: 5 月 8 日
+*バージョン 1904 (ビルド 11601.20178)*
 
- - さまざまなバグやパフォーマンスが修正されました。
+- さまざまなバグやパフォーマンスが修正されました。
 
 ## <a name="version-1904-april-29"></a>バージョン 1904: 4 月 29 日
-*バージョン 1904 (ビルド 11601.20144)* 
+*バージョン 1904 (ビルド 11601.20144)*
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
 
@@ -148,7 +147,7 @@ ms.locfileid: "34910387"
 
 - **プロセス図を Word にエクスポート:** Word 文書に図形やメタデータなどのグラフ コンテンツを自動的に追加します。 その後に、文書をカスタマイズしてプロセスに関するガイドラインや操作マニュアルを作成できます。 [詳細情報](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
 
- - **色の変更履歴、コメントとリアルタイムの共同作業の同期:** 当社の製品での、コメント、変更履歴と共同作業者のカーソルが同じ色で表示されることについての修正箇所を確認しました。
+- **色の変更履歴、コメントとリアルタイムの共同作業の同期:** 当社の製品での、コメント、変更履歴と共同作業者のカーソルが同じ色で表示されることについての修正箇所を確認しました。
 
 - **特定のファイルをすばやく見つける**: 最近作業を行ったファイルを探している場合は? [ファイル] > [ホーム ページ] タブの検索ボックスに入力するだけで、目的のファイルを見つけることができます。
 

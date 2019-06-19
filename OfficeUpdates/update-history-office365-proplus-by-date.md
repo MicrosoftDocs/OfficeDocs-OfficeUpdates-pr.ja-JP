@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT プロフェッショナルに、日付ごとに整理した Office 365 ProPlus リリースすべての一覧を、リリース ノートへのリンクを含めて提供します
-ms.openlocfilehash: 3eae3d3143d7e774ae785ce56f7934eb35dfac0e
-ms.sourcegitcommit: eaa9ab73dea88c18d1d23474c21457d8656af821
+ms.openlocfilehash: 44abaebed9d32ef279a600d28c54002c42d144c5
+ms.sourcegitcommit: 0ef085de6bb68019197fcc791cd661dddb30fa43
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "34935909"
+ms.lasthandoff: 06/17/2019
+ms.locfileid: "35017377"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 ProPlus の更新履歴 (日付別の一覧)
 
@@ -49,16 +49,16 @@ Office 365 ProPlus は、新機能、セキュリティ更新プログラム、�
 |**Year**|**リリース日**|**月次チャネル**|**半期チャネル (対象指定)**|**半期チャネル**|
 |:-----|:-----|:-----|:-----|:-----|
 |2019|6 月 11 日|[バージョン 1905 (ビルド 11629.20246)](monthly-channel-2019.md#version-1905-june-11)|[バージョン 1902 (ビルド 11328.20318)](semi-annual-channel-targeted-2019.md#version-1902-june-11)|[バージョン 1808 (ビルド 10730.20348)](semi-annual-channel-2019.md#version-1808-june-11)<br/>[バージョン 1803 (ビルド 9126.2388)](semi-annual-channel-2019.md#version-1803-june-11)|
-|2019|6 月 3 日|[バージョン 1905 (ビルド 11629.20214)](monthly-channel-2019.md#version-1905-june-3)| | |
+|2019|6 月 3 日 |[バージョン 1905 (ビルド 11629.20214)](monthly-channel-2019.md#version-1905-june-3)| | |
 |2019|5 月 29日 |[バージョン 1905 (ビルド 11629.20196)](monthly-channel-2019.md#version-1905-may-29)| | |
 |2019|5 月 22 日 |[バージョン 1904 (ビルド 11601.20230)](monthly-channel-2019.md#version-1904-may-22)| | |
 |2019|5 月 14 日 |[バージョン 1904 (ビルド 11601.20204)](monthly-channel-2019.md#version-1904-may-14)|[バージョン 1902 (ビルド 11328.20286)](semi-annual-channel-targeted-2019.md#version-1902-may-14) |[バージョン 1808 (ビルド 10730.20344)](semi-annual-channel-2019.md#version-1808-may-14)  <br/>  [バージョン 1803 (ビルド 9126.2387)](semi-annual-channel-2019.md#version-1803-may-14) |
 |2019|5 月 8 日 |[バージョン 1904 (ビルド 11601.20178)](monthly-channel-2019.md#version-1904-may-8)| | |
 |2019|4 月 29 日 |[バージョン 1904 (ビルド 11601.20144)](monthly-channel-2019.md#version-1904-april-29)| | |
-|2019|4 月 22 日 |[バージョン 1903 (ビルド 11425.20244)](monthly-channel-2019.md#version-1903-april-22)| | |
+|2019|4 月 23 日 |[バージョン 1903 (ビルド 11425.20244)](monthly-channel-2019.md#version-1903-april-23)| | |
 |2019|4 月 17 日 |[バージョン 1903 (ビルド 11425.20228)](monthly-channel-2019.md#version-1903-april-17)| | |
 |2019|4 月 16 日 |[バージョン 1903 (ビルド 11425.20218)](monthly-channel-2019.md#version-1903-april-16)| | |
-|2019|4 月 9 日 |[バージョン 1903 (ビルド 11425.20204)](monthly-channel-2019.md#version-1903-april-9)|[バージョン 1902 (ビルド 11328.20230)](semi-annual-channel-targeted-2019.md#version-1903-april-9) |[バージョン 1808 (ビルド 10730.20334)](semi-annual-channel-2019.md#version-1808-april-9)  <br/>  [バージョン 1803 (ビルド 9126.2382)](semi-annual-channel-2019.md#version-1803-april-9) |
+|2019|4 月 9 日 |[バージョン 1903 (ビルド 11425.20204)](monthly-channel-2019.md#version-1903-april-9)|[バージョン 1902 (ビルド 11328.20230)](semi-annual-channel-targeted-2019.md#version-1902-april-9) |[バージョン 1808 (ビルド 10730.20334)](semi-annual-channel-2019.md#version-1808-april-9)  <br/>  [バージョン 1803 (ビルド 9126.2382)](semi-annual-channel-2019.md#version-1803-april-9) |
 |2019|4月1日 |[Version 1903 (Build 11425.20202)](monthly-channel-2019.md#version-1903-april-01)| | |
 |2019|3 月 25 日 |[バージョン 1902 (ビルド 11328.20222)](monthly-channel-2019.md#version-1902-march-25)| | |
 |2019|3 月 12 日 |[バージョン 1902 (ビルド 11328.20158)](monthly-channel-2019.md#version-1902-march-12)|[バージョン 1902 (ビルド 11328.20158)](semi-annual-channel-targeted-2019.md#version-1902-march-12) |[バージョン 1808 (ビルド 10730.20304)](semi-annual-channel-2019.md#version-1808-march-12)  <br/> | |
