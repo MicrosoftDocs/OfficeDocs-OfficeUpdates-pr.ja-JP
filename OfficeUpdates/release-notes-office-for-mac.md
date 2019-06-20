@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 サブスクライバー向け Office for Mac リリース用リリース ノートを IT プロフェッショナルに提供
-ms.openlocfilehash: 6b4f1f4f2b7613617645cd5e1d1eebd7682f7698
-ms.sourcegitcommit: eaa9ab73dea88c18d1d23474c21457d8656af821
+ms.openlocfilehash: 38719e16466b6ed4885405e4265eddb43868c35d
+ms.sourcegitcommit: 241e7ece990d6ab11e1cd2aae491c4319f8b0ee6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "34935879"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "35060299"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac のリリース ノート
 
@@ -48,7 +48,7 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 |**Application**|**Update**|**セキュリティ更新プログラム**|**更新プログラム パッケージのダウンロード リンク**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/><br/>|@メンションを使用してユーザーの注意を引く: コメントで @メンションを使うと、他のユーザーによる入力が必要な場合にそのユーザーに知らせることができます。 |[CVE-2019-1034](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1034): Microsoft Word のリモート コード実行の脆弱性<br/><br/>[CVE-2019-1035](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1035): Microsoft Word のリモート コード実行の脆弱性<br/>|[Word の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Word_16.26.19060901_Updater.pkg)<br/>|
-|Excel<br/>|@メンションを使用してユーザーの注意を引く: コメントで @メンションを使うと、他のユーザーによる入力が必要な場合にそのユーザーに知らせることができます。|<br/>|[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.26.19060901_Updater.pkg)<br/>|
+|Excel<br/>|@メンションを使用してユーザーの注意を引く: コメントで @メンションを使うと、他のユーザーによる入力が必要な場合にそのユーザーに知らせることができます。<br/><br/>**グループ化するまたはグループ化しない:** ピボットテーブルの日付をグループ化する必要はありません。 次の場所で自動グループ化をオフにする: [Excel]、[環境設定]、[テーブルとフィルター] の順にクリックします。<br/><br/>**下付き文字と上付き文字の一覧:** 下付き、上付き、および取り消し線の文字が表示される場合は、リボンとクイック アクセス ツールバーに追加して、いつでも簡単にアクセスできるようにします。| |[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.26.19060901_Updater.pkg)<br/>|
 |PowerPoint<br/>|@メンションを使用してユーザーの注意を引く: コメントで @メンションを使うと、他のユーザーによる入力が必要な場合にそのユーザーに知らせることができます。<br/><br/>**オンライン ビデオの新しい保存場所:** Microsoft Stream にビデオを保存すれば、組織内のすべてのユーザーが視聴できます。 ビデオのリンクを挿入すれば、小さなファイル サイズでマルチメディア プレゼンテーションをご利用いただけます。<br/><br/>**ライブ キャプションと字幕:** 発言した言葉がキャプションまたは他の言語に翻訳された字幕として発表中に自動的に表示されます。 適切な字幕のためには、ヘッドセットのマイクを使用してください。||[PowerPoint の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.26.19060901_Updater.pkg)<br/>|
 |Outlook|**ワンクリックで Outlook から OneNote へ:** Outlook のメッセージや会議メモを OneNote ノートブックにワンクリックで保存することができるようになりました。 アーカイブとしても、一時的な置き場所としても使用できます。 <br/> | |[Outlook の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.26.19060901_Updater.pkg) <br/>|
 
