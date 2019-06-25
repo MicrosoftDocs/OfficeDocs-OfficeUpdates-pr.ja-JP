@@ -3,19 +3,19 @@ title: Office Insider のリリース ノート
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 6/14/2019
+ms.date: 6/21/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 8a2bf54f60b7d35a0f3b2f023e0100ff65d09ed2
-ms.sourcegitcommit: 288bea365b4c0265fb9ff182b19ff4eb30b4c7d7
+ms.openlocfilehash: d59dfd6abece5cefb49d2da86bf28ac24d1cebc7
+ms.sourcegitcommit: 61132166c48f967340a1579185728b5c3acd7bd8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "34948793"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130646"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office Insider のリリース ノート
 
@@ -27,6 +27,76 @@ ms.locfileid: "34948793"
 
  > [!NOTE]
 > - Microsoft Teams に関連する既存の Office 365 ProPlus のインストール - 6 月の下旬から、これらの更新プログラムのインストール時に、Microsoft Teams が既存の Office 365 ProPlus (Office 365 Business) のインストールの中に含められます。 Teams が追加される日にちは、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus で Microsoft Teams を展開する](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)」を参照してください。
+
+## <a name="june-21-2019"></a>2019 年 6 月 21 日
+バージョン 1907 (ビルド 11815.20002)
+
+## <a name="whats-new"></a>新機能:
+
+### <a name="outlook"></a>Outlook
+
+#### <a name="dark-mode-for-black-theme-in-outlook-desktop"></a>Outlook デスクトップにおける黒のテーマでの濃色モード
+
+[濃色] モードで黒のテーマを使用しているユーザーには、電子メールを読むときに [閲覧] ウィンドウは暗く表示され、メールを作成するときも同様に表示されます。 ユーザーが明るい背景でメッセージがどのように見えるかを確認する場合に備えて、[閲覧] ウィンドウとリボンに [太陽/月] トグルがあります。
+
+#### <a name="getting-started"></a>作業を開始する:
+
+1. [黒のテーマ] に切り替えると、既定では濃色モードになります。
+2. (閲覧ウィンドウとリボンにある) [月/太陽] トグルを使用して、濃色モードでないユーザーにメッセージがどのように見えるかを表示します。
+
+#### <a name="scenarios-to-try"></a>次の操作を試してみてください
+
+1. 濃色モードでメールを読みます。 何も見えない場合は、[閲覧] ウィンドウの [太陽] トグルを使用して、背景を明るくします。 
+2. [濃色] モードでメールを作成します。 リボンの [太陽] トグルを使用して、メッセージが明るい背景でどのように見えるかを確認します。 
+
+正常に表示されないメールが見つかった場合は、(添付ファイルとして) OutlookDarkModeFail に送信してください。
+
+#### <a name="get-location-suggestions"></a>場所の候補を取得する
+
+入力を開始すると、Outlook で一致する場所が検索されます。
+
+予定や会議を作成するときは、[場所] フィールドに適用されます。
+
+#### <a name="getting-started"></a>作業を開始する:
+
+- Outlook で O365 または Outlook.com の予定表に予定や会議を作成します。 
+- [場所] フィールドをクリックして、入力を開始します...。
+
+#### <a name="scenarios-to-try"></a>次の操作を試してみてください
+
+会議に会議室を追加するときは、[会議室の検索] アドインやアドレス帳を使用するのではなく、[場所] フィールドをクリックします。
+レストラン、喫茶店、歯科医院といった公共の場所での予定がある場合は、新しいピッカーを使用して正確な位置を見つけることができます。 こうすることで、外出するときに Outlook Mobile で通知を受け取ることができます。
+
+## <a name="notable-fixes"></a>主な修正:
+
+### <a name="all"></a>すべて
+- オフラインで [検索] ボックスが有効なままになる問題を修正しました
+
+### <a name="word"></a>Word 
+- キーボード フォーカスが表示されないことがある問題を修正しました
+- 新しいドキュメントにテキストを貼り付けたときに、テキストが間違えて配置される問題を修正しました
+- コンピューターを中断した後に、一部のユーザーが変更を保存できない問題を修正しました
+- 特定の場合に、選択したページの代わりにドキュメント全体が印刷される問題を修正しました
+- 小さなディスプレイでコメントが読みにくくなる問題を修正しました
+- デバイスにキャプチャするときにクラッシュする問題を修正しました
+
+### <a name="excel"></a>Excel
+- パフォーマンスと安定性のさまざまな問題を修正
+
+### <a name="powerpoint"></a>PowerPoint
+- キーボード フォーカスが表示されないことがある問題を修正しました
+
+### <a name="outlook"></a>Outlook
+- 有効ではないときにアドインが誤って有効になっていると表示される問題を修正しました。
+- 多数の保持ポリシーが表示されていない場合、ユーザーがすべての保持ポリシーを表示できない問題を修正しました
+
+### <a name="access"></a>Access
+- パフォーマンスと安定性のさまざまな問題を修正
+
+### <a name="project"></a>Project
+- さまざまなパフォーマンスと安定性に関する修正
+
+</BR></BR>
 
 ## <a name="june-14-2019"></a>2019 年 6 月 14 日
 バージョン 1907 (ビルド 11807.20000)
@@ -484,22 +554,6 @@ OneDrive 同期クライアントを有効にして、Outlook デスクトップ
 
 ## <a name="april-12-2019"></a>2019 年 4 月 12 日
 バージョン 1905 (ビルド 11601.20042)
-
-## <a name="whats-new"></a>新機能:
-
-### <a name="access"></a>Access
-
-#### <a name="new-in-access---data-connector-to-microsoft-graph"></a>Access の新機能 - Microsoft Graph でのデータ コネクタ
-
-Graph に保存されているスマート コンテキスト データを活用できるアプリケーションを構築できる Microsoft Graph サービスへのリンクまたはインポート フォーム
-
-#### <a name="getting-started"></a>利用するには:
-
-リボンの [外部データ] タブで、[新しいデータ ソース] をクリックし、[オンライン サービス] メニューの Graph コネクタを検索します。
-
-#### <a name="scenarios-to-try"></a>次の操作を試してみてください:
-
-ユーザー、グループ、OneDrive のアイテムなど、さまざまな Graph サービスからインポートまたはGraph サービスへリンクします。
 
 ## <a name="notable-fixes"></a>主な修正:
 
