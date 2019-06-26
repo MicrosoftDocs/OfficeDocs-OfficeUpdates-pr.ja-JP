@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Windows デスクトップ用の月次チャンネル Insider ファースト リリースの更新履歴を Insider の皆様に提供します。
-ms.openlocfilehash: 2ab2081539d102208300db285701d079238f77a8
-ms.sourcegitcommit: 8b9d765c2cc62b7dcb13f164522275148a6d0a50
+ms.openlocfilehash: eab9d344a24ed2790e540ed97517b3795b80f74e
+ms.sourcegitcommit: ada739d9c67ec77ce55b23453096f2fa8154297a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34696454"
+ms.lasthandoff: 06/24/2019
+ms.locfileid: "35192622"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Office Insider チャンネル の更新履歴
 
@@ -33,6 +33,15 @@ Insider レベルに登録している場合は、新機能や強化された機
 リリース ノートを確認するには、「[Windows デスクトップ版 Office のリリース ノート](https://docs.microsoft.com/ja-JP/OfficeUpdates/release-notes-office-insider)」を参照してください。
 
 [//]: # (削除禁止)
+
+**2019 年 6 月 24 日**<br/>
+バージョン 1907 (ビルド 11819.20002)<br/>
+
+**2019 年 6 月 19 日**<br/>
+バージョン 1907 (ビルド 11815.20002)<br/>
+
+**2019 年 6 月 11 日**<br/>
+バージョン 1907 (ビルド 11807.20000)<br/>
 
 **2019 年 6 月 4 日**<br/>
 バージョン 1906 (ビルド 11727.20064)<br/>
