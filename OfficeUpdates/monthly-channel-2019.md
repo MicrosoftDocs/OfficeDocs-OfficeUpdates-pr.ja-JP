@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 392932611e8005ece5ef460f6f2fc9b80230468c
-ms.sourcegitcommit: f83fafdefd4fdb5f8f21eec6c99553708b553b7a
+ms.openlocfilehash: 83a63aafcddafeab5eae641b13f7563f030286a8
+ms.sourcegitcommit: 138a3eb0d7e9eda71fae28ee580441c88bd39fea
 ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/25/2019
-ms.locfileid: "35203716"
+ms.locfileid: "35226867"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年の毎月のチャネル リリースのリリース ノート
 
@@ -26,7 +26,7 @@ ms.locfileid: "35203716"
 > - Microsoft では多くの場合、一定期間にわたって毎月、機能 (および場合によっては修正プログラム) を展開します。これにより、幅広いユーザーに機能を公開する前にスムーズに動作するかどうかを確認することができます。したがって、下記のものが表示されない場合でも、心配する必要はなく、いずれは表示されます。[詳細情報](https://support.office.com/ja-JP/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  > [!NOTE]
-> - Microsoft Teams に関連する既存の Office 365 ProPlus のインストール - 6 月の下旬から、これらの更新プログラムのインストール時に、Microsoft Teams が既存の Office 365 ProPlus (Office 365 Business) のインストールの中に含められます。 Teams が追加される日にちは、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)」を参照してください。
+> - Microsoft Teams の Office 365 ProPlus の既存のインストールについて: Microsoft Teams は 6 月の上旬から、Office 365 ProPlus (および Office 365 Business) の既存のインストールが更新をするさいにこれらのインストールに含まれます。 Teams が追加される日にちは、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)」を参照してください。
 
 ## <a name="version-1906-june-24"></a>バージョン 1906: 6 月24 日
 *バージョン 1906 (ビルド 11727.20210)*
@@ -54,7 +54,7 @@ ms.locfileid: "35203716"
 - ** Outlook のユーザー エクスペリエンスを更新しました：** これまで Coming Soon でプレビューできていた、最も重要なことに集中できるようにするためのシンプルな操作性です。 
   [詳細情報](https://support.office.com/ja-JP/article/db503157-1b45-45d5-af52-e9c978cd8bed)
 
-- **自分のメールアドレスを筆入れしましょう！** Outlook メールで画像を描画し、注釈を付けることができるようになりました。 
+- **自分で描いて表現しましょう:** 画像の上に走り書きするか、描画キャンバスを追加して、インクを用いて自分の考えを送信します。 
   [詳細情報](https://support.office.com/ja-JP/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
 
 ### <a name="word-feature-updates"></a>Word: 機能の更新
@@ -67,7 +67,7 @@ ms.locfileid: "35203716"
 
 - [会議のビデオをトリミングして中央揃えにする] 設定が有効になっている場合、4Kモニタで会議のビデオを正しくトリミングします
 
-- 複数のネットワークアダプタを備えたWindows 10コンピュータから従来のOffice Communicatorクライアントへのファイル転送を許可します。 [詳細情報] (https://support.microsoft.com/help/4508477)
+- 複数のネットワークアダプタを備えた Windows 10 コンピュータから従来の Office Communicator クライアントへのファイル転送を許可します。 [詳細情報](https://support.microsoft.com/help/4508477)
 
 - Skype for Business と Microsoft Teams の参加者間のコミュニケーションのしやすさが向上
 

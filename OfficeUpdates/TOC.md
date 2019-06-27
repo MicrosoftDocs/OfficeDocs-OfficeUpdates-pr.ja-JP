@@ -34,7 +34,7 @@
 # Office for Mac
 ## [更新の履歴 (Office 365、2019)](update-history-office-for-mac.md)
 ## [リリース ノート (Office 365、2019)](release-notes-office-for-mac.md)
-## [リリース ノート (2016)](release-notes-office-2016-mac.md)
+## [更新の履歴 (2016)](release-notes-office-2016-mac.md)
 ## [MAU のリリース ノート](release-history-microsoft-autoupdate.md)
 
 # Office (永続版)
