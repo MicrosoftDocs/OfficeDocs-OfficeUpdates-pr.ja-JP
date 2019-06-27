@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 2668fe627278a2973d243f85d8889b077180fc75
-ms.sourcegitcommit: 0ef085de6bb68019197fcc791cd661dddb30fa43
+ms.openlocfilehash: 392932611e8005ece5ef460f6f2fc9b80230468c
+ms.sourcegitcommit: f83fafdefd4fdb5f8f21eec6c99553708b553b7a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/17/2019
-ms.locfileid: "35017367"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35203716"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年の毎月のチャネル リリースのリリース ノート
 
@@ -26,7 +26,51 @@ ms.locfileid: "35017367"
 > - Microsoft では多くの場合、一定期間にわたって毎月、機能 (および場合によっては修正プログラム) を展開します。これにより、幅広いユーザーに機能を公開する前にスムーズに動作するかどうかを確認することができます。したがって、下記のものが表示されない場合でも、心配する必要はなく、いずれは表示されます。[詳細情報](https://support.office.com/ja-JP/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  > [!NOTE]
-> - Microsoft Teams に関連する既存の Office 365 ProPlus のインストール - 6 月の下旬から、これらの更新プログラムのインストール時に、Microsoft Teams が既存の Office 365 ProPlus (Office 365 Business) のインストールの中に含められます。 Teams が追加される日にちは、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus で Microsoft Teams を展開する](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)」を参照してください。
+> - Microsoft Teams に関連する既存の Office 365 ProPlus のインストール - 6 月の下旬から、これらの更新プログラムのインストール時に、Microsoft Teams が既存の Office 365 ProPlus (Office 365 Business) のインストールの中に含められます。 Teams が追加される日にちは、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)」を参照してください。
+
+## <a name="version-1906-june-24"></a>バージョン 1906: 6 月24 日
+*バージョン 1906 (ビルド 11727.20210)*
+* さまざまなバグとパフォーマンスの修正。
+
+### <a name="excel-feature-updates"></a>Excel: 機能の更新
+
+- **ワークシートが生まれ変わりました：** ワークブックを使ってアニメーション 3D グラフィックスを挿入し、心臓の鼓動、惑星軌道、そして T-Rex の大暴れを見ることができます。 
+  [詳細情報](https://support.office.com/ja-JP/article/6f08009a-3da5-400d-a706-8e23f304cd72)
+
+### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
+
+- **カスタマイズも可能、シンプルになったリボン：** 最もよく使うボタンが単一行にまとめられ、使いやすくなりました。 簡単に従来のビューとシンプルなビューを切り替えたり、コマンドを固定または固定解除できます。 
+  [詳細情報](https://support.office.com/ja-JP/article/44bef9c3-295d-4092-b7f0-f471fa629a98)
+
+- **お気に入りのアクションを選びましょう：** フラグや、削除機能を使いますか？ アーカイブまたは既読に​​しますか? クイック操作メニューをカスタマイズしてよく使うコマンドを追加できます。
+
+- **多数のフォルダを持つメールボックスの共有フォルダ同期の向上：** 共有メールボックスを同期するとき、Outlook は長年にわたって最大 500 個のフォルダに制限されていました。 この変更により Outlook の改善が行われ、同期をする際の 500 フォルダーの制限がなくなりました。
+
+- **集中受信トレイの設定がデバイス間で変わらなくなります：** 集中受信トレイの設定はクラウドに保存されるようになりました。 どのコンピューターの Windows 版 Outlook や Outlook on the web でも、同じ機能をご利用いただけます。 
+  [詳細情報](https://support.office.com/ja-JP/article/d77a442e-a86c-4bf8-b3dd-5571ae556986)
+
+- **ゆったりとしたレイアウト、まとめたレイアウト？自由に決めましょう：** 狭い間隔で、アイテム間の間隔をより広くしたり、レイアウトを狭くして表示量をより多くできます。
+
+- ** Outlook のユーザー エクスペリエンスを更新しました：** これまで Coming Soon でプレビューできていた、最も重要なことに集中できるようにするためのシンプルな操作性です。 
+  [詳細情報](https://support.office.com/ja-JP/article/db503157-1b45-45d5-af52-e9c978cd8bed)
+
+- **自分のメールアドレスを筆入れしましょう！** Outlook メールで画像を描画し、注釈を付けることができるようになりました。 
+  [詳細情報](https://support.office.com/ja-JP/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
+
+### <a name="word-feature-updates"></a>Word: 機能の更新
+
+- ** 共同編集：** マクロを使用したドキュメントから締め出されるのにうんざりしていませんか。 これで OneDrive for Business 上の docm ファイルで複数の作成者による同時編集が可能になります。
+
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: セキュリティ以外の更新プログラム 
+
+ - モニタの倍率が 100 ％を超えたときに、会議で Polycom CX5500 および関連デバイスからのすべてのカメラストリームを表示するように修正しました。
+
+- [会議のビデオをトリミングして中央揃えにする] 設定が有効になっている場合、4Kモニタで会議のビデオを正しくトリミングします
+
+- 複数のネットワークアダプタを備えたWindows 10コンピュータから従来のOffice Communicatorクライアントへのファイル転送を許可します。 [詳細情報] (https://support.microsoft.com/help/4508477)
+
+- Skype for Business と Microsoft Teams の参加者間のコミュニケーションのしやすさが向上
+
 
 ## <a name="version-1905-june-11"></a>バージョン 1905: 6 月 11 日
 *バージョン 1905 (ビルド 11629.20246)*
@@ -91,7 +135,7 @@ ms.locfileid: "35017367"
 
 - **シームレスな切り替え:** 新しいアカウント マネージャーでは、Office 365 の職場用と個人用アカウントがすべて 1 か所に表示されます。 アカウント間の切り替えがより簡単になりました。 [詳細情報](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
-- **PDF または PPT にエクスポートされた、またはメール サブスクリプションをセットアップした Power BI レポートで、Visio Visual もサポートされるようになりました:** Power BI レポートを PDF または PPT にエクスポート、またはメール サブスクリプションにセットアップした場合、Visio Visual はこれらのエクスポート先の形式でシームレスにレンダリングされます。  [詳細情報](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
+- **PDF または PPT にエクスポートされた、またはメール サブスクリプションをセットアップした Power BI レポートで、Visio Visual もサポートされるようになりました:** Power BI レポートを PDF または PPT にエクスポート、またはメール サブスクリプションにセットアップした場合、Visio Visual はこれらのエクスポート先の形式でシームレスにレンダリングされます。 [詳細情報](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
 
 ### <a name="word-feature-updates"></a>Word: 機能の更新  
 
