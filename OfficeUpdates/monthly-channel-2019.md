@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 83a63aafcddafeab5eae641b13f7563f030286a8
-ms.sourcegitcommit: 138a3eb0d7e9eda71fae28ee580441c88bd39fea
+ms.openlocfilehash: f8e2aaa1fe258bd00d49bfbc1c6b14a729a8bdfe
+ms.sourcegitcommit: edc5a5ef00487215091a2e1bf978b33868e62e4a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35226867"
+ms.lasthandoff: 06/27/2019
+ms.locfileid: "35345584"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年の毎月のチャネル リリースのリリース ノート
 
@@ -27,6 +27,25 @@ ms.locfileid: "35226867"
 
  > [!NOTE]
 > - Microsoft Teams の Office 365 ProPlus の既存のインストールについて: Microsoft Teams は 6 月の上旬から、Office 365 ProPlus (および Office 365 Business) の既存のインストールが更新をするさいにこれらのインストールに含まれます。 Teams が追加される日にちは、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)」を参照してください。
+
+## <a name="version-1906-june-27"></a>バージョン 1906: 6 月 27 日
+*バージョン 1906 (ビルド 11727.20230)*
+
+### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
+
+- 設定に関係なく、POP3 ユーザーの一部がプレーンテキストで書式設定されたすべてのメールを表示する問題に対処します。  この修正プログラムでは、HTML 形式のメッセージの表示が復元されます。
+
+## <a name="version-1906-june-26"></a>バージョン 1906: 6 月 26 日
+*バージョン 1906 (ビルド 11727.20224)*
+
+### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
+
+- 図形やフォームコントロールに割り当てられているマクロが間違ったエラーメッセージとして表示される、または間違った対象範囲で動作する問題が Excel で修正されました。
+- テーブルの横にある切り取りと貼り付けの操作を、他のユーザーと共同編集しているときに失敗する問題を解決しました。
+
+### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
+
+- 代理人が特定の会議出席依頼に既に返信したかどうかに関係なく、管理者が不明瞭になる問題を解決します。
 
 ## <a name="version-1906-june-24"></a>バージョン 1906: 6 月24 日
 *バージョン 1906 (ビルド 11727.20210)*
