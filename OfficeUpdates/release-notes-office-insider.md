@@ -3,19 +3,19 @@ title: Office Insider のリリース ノート
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 6/21/2019
+ms.date: 6/28/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: d59dfd6abece5cefb49d2da86bf28ac24d1cebc7
-ms.sourcegitcommit: 61132166c48f967340a1579185728b5c3acd7bd8
+ms.openlocfilehash: b050450f851ddf70ec45d34319ad845b88ef3d58
+ms.sourcegitcommit: a25e1449c286ef70f68ed1eca5d303f2874050cc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35130646"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35393341"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office Insider のリリース ノート
 
@@ -26,7 +26,42 @@ ms.locfileid: "35130646"
 > - リリースノートの発行日は実際のビルドのリリース日と一致しない場合があります
 
  > [!NOTE]
-> - Microsoft Teams に関連する既存の Office 365 ProPlus のインストール - 6 月の下旬から、これらの更新プログラムのインストール時に、Microsoft Teams が既存の Office 365 ProPlus (Office 365 Business) のインストールの中に含められます。 Teams が追加される日にちは、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus で Microsoft Teams を展開する](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)」を参照してください。
+> - Microsoft Teams に関連する既存の Office 365 ProPlus のインストール - 6 月の下旬から、これらの更新プログラムのインストール時に、Microsoft Teams が既存の Office 365 ProPlus (Office 365 Business) のインストールの中に含められます。 Teams が追加される日にちは、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)」を参照してください。
+
+## <a name="june-28-2019"></a>2019 年 6 月 28 日
+バージョン 1907 (ビルド 11819.20002)
+
+## <a name="whats-new"></a>新機能:
+
+### <a name="word-excel-powerpoint-and-visio"></a>Word、Excel、PowerPoint、Visio
+
+#### <a name="recommended-documents"></a>推奨されるドキュメント
+
+推奨される関連アクティビティを含むドキュメントをご確認ください。
+
+## <a name="notable-fixes"></a>主な修正:
+
+### <a name="word"></a>Word 
+- 一部の .DOC を開くことができない問題を修正しました
+- コメントが正常に読み込まれない問題を修正しました
+
+### <a name="excel"></a>Excel
+- Power Query のパフォーマンスが向上しました
+
+### <a name="powerpoint"></a>PowerPoint
+- 画面のちらつきの原因となる、Surface デバイスでのペン使用に関連する問題を修正しました
+
+### <a name="outlook"></a>Outlook
+- 会議に変換すると、予定の空き時間情報が変更される問題を修正しました
+- 電子メールがアドホック テンプレートで保護されている場合に、不適切なテンプレートと説明が表示される問題を修正しました
+
+### <a name="access"></a>Access
+- パフォーマンスと安定性のさまざまな問題を修正
+
+### <a name="project"></a>Project
+- パフォーマンスと安定性のさまざまな問題を修正
+
+</BR></BR>
 
 ## <a name="june-21-2019"></a>2019 年 6 月 21 日
 バージョン 1907 (ビルド 11815.20002)
