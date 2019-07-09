@@ -3,19 +3,19 @@ title: Office Insider のリリース ノート
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 6/28/2019
+ms.date: 7/5/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: b050450f851ddf70ec45d34319ad845b88ef3d58
-ms.sourcegitcommit: a25e1449c286ef70f68ed1eca5d303f2874050cc
+ms.openlocfilehash: 69d4e3cbe3bf6c57f08e5b8f3eb90f8abb47e459
+ms.sourcegitcommit: cb86c338e3a58b21bd6ed9dc5480388075c0194d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35393341"
+ms.lasthandoff: 07/05/2019
+ms.locfileid: "35575168"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office Insider のリリース ノート
 
@@ -27,6 +27,60 @@ ms.locfileid: "35393341"
 
  > [!NOTE]
 > - Microsoft Teams に関連する既存の Office 365 ProPlus のインストール - 6 月の下旬から、これらの更新プログラムのインストール時に、Microsoft Teams が既存の Office 365 ProPlus (Office 365 Business) のインストールの中に含められます。 Teams が追加される日にちは、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)」を参照してください。
+
+## <a name="july-5-2019"></a>2019 年 7 月 5 日
+バージョン 1908 (ビルド 11901.20002)
+
+## <a name="whats-new"></a>新機能:
+
+### <a name="word-excel-powerpoint"></a>Word、Excel、PowerPoint
+
+#### <a name="sketchy-shapes"></a>Sketchy で描く!
+
+プレゼンテーションを作成中ですか。 まだ作業中であることを示す Sketchy スタイルを適用します。 これを使用すると、自由形式や手描きの図形に変えることなく、オブジェクトに個人的な感触を与えることができます。
+
+## <a name="notable-fixes"></a>主な修正:
+
+### <a name="all"></a>すべて
+- リボンのキー ヒントのパフォーマンスが大幅に改善されました
+- 「今後のリリース予定を確認」ダイアログが正しく表示されない問題を修正しました
+- 共著ギャラリーのポップアップで写真の位置がずれてしまう問題を修正しました
+
+### <a name="word"></a>Word 
+- 新しいコメントが追加されないことがある問題を修正しました
+- 表がクラッシュすることがある問題を修正しました
+- 無効なデータが差し込み印刷の最後に追加されることがある問題を修正しました
+- 一部の LaTeX 数式が正しく表示されないことがある問題を修正しました
+
+### <a name="excel"></a>Excel
+- グラフの種類を変更するとランタイム例外が発生することがある問題を修正しました
+- 複数のウィンドウを開いたときに正しくないリボンが表示されることがある問題を修正しました
+- マクロがブックの 2 番目のインスタンスを開いたときにエラーが発生することがある問題を修正しました
+- ブックを開いたり作成したりするとき、またはブックを切り替えるときにクラッシュすることがある問題を修正しました。
+- ユーザーが Word で作成した PDF を Teams で開くことができない問題を修正しました
+
+### <a name="powerpoint"></a>PowerPoint
+- PDF にエクスポートすると、グラフの品質が低下する問題を修正しました
+- 中心までの距離を示すヒントが表示されない問題を修正しました
+
+### <a name="outlook"></a>Outlook
+- ディスクの領域不足エラーが表示されないことがある問題を修正しました
+- 会議出席依頼を更新する際に添付ファイルが複製されることがある問題を修正しました
+
+### <a name="access"></a>Access
+- 一部のクエリが大きい整数値を返さない問題を修正しました
+- SQL テキストボックスが編集できなくなることがある問題を修正しました
+- 一部の高 DPI ディスプレイでは、ヒントが見づらいことがある問題を修正しました
+
+### <a name="project"></a>Project
+- 新しいタスクでフラグの値が編集できなくなることがある問題を修正しました
+- ステータスの更新によって割り当てとタスクの実際の開始日が不適切に設定されることがある問題を修正しました
+- 一部のリソースが間違って割り当て超過に表示されることがある問題を修正しました。
+- ラグが追加され、小数点の記号がカンマで、サーバーに接続されていると TaskDependencies Add メソッドが失敗することがある問題を修正しました
+- CSOM を使用してローカル ユーザー設定フィールドの参照テーブルの値を更新すると PCS がクラッシュすることがある問題を修正しました
+- 作業時間の合計値に小数点が含まれる場合に正しく表示されないことがある問題を修正しました
+
+</BR></BR>
 
 ## <a name="june-28-2019"></a>2019 年 6 月 28 日
 バージョン 1907 (ビルド 11819.20002)
