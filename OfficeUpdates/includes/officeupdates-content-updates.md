@@ -3,21 +3,6 @@
 
 
 
-## <a name="week-of-may-27-2019"></a>2019年5月27日の週
-
-
-| 公開日 |トピックのタイトル | 変更 |
-|------|------------|--------|
-| 5/27/2019 | [Office の月次チャンネル (対象指定) の更新履歴](/OfficeUpdates/update-history-monthly-channel-targeted) | 更新日時 |
-| 5/29/2019 | [Office 365 ProPlus の更新履歴 (日付別の一覧)](/OfficeUpdates/update-history-office365-proplus-by-date) | 更新日時 |
-| 5/29/2019 | [Office for Mac のリリース ノート](/OfficeUpdates/release-notes-office-for-mac) | 更新日時 |
-| 5/29/2019 | [Office Insider Channel の更新履歴](/OfficeUpdates/update-history-office-insider) | 更新日時 |
-| 5/29/2019 | [2019 年の毎月のチャネル リリースのリリース ノート](/OfficeUpdates/monthly-channel-2019) | 更新日時 |
-| 5/29/2019 | [Office 365 ProPlus の更新プログラムのダウンロード サイズ](/OfficeUpdates/download-sizes-office365-proplus-updates) | 更新日時 |
-| 5/31/2019 | [Office Insider のリリース ノート](/OfficeUpdates/release-notes-office-insider) | 更新日時 |
-| 5/31/2019 | [Office Insider Channel の更新履歴](/OfficeUpdates/update-history-office-insider) | 更新日時 |
-
-
 ## <a name="week-of-june-03-2019"></a>2019年6月3日の週
 
 
@@ -100,3 +85,12 @@
 | 6/27/2019 | [Office 365 ProPlus の更新履歴 (日付別の一覧)](/OfficeUpdates/update-history-office365-proplus-by-date) | 更新日時 |
 | 6/28/2019 | [Office for Mac のリリース ノート](/OfficeUpdates/release-notes-office-for-mac) | 更新日時 |
 | 6/28/2019 | [Office Insider のリリース ノート](/OfficeUpdates/release-notes-office-insider) | 更新日時 |
+
+
+## <a name="week-of-july-01-2019"></a>2019年7月01日の週
+
+
+| 公開日 |トピックのタイトル | 変更 |
+|------|------------|--------|
+| 7/2/2019 | [Windows インストーラー (MSI) を使用しているバージョンの Office の最新のセキュリティ以外の更新プログラム](/OfficeUpdates/office-msi-non-security-updates) | 更新日時 |
+| 7/5/2019 | [Office Insider のリリース ノート](/OfficeUpdates/release-notes-office-insider) | 更新日時 |
