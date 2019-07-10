@@ -3,19 +3,19 @@ title: Office 2010 のクイック実行製品の更新履歴
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 04/10/2019
+ms.date: 07/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: クイック実行を使用する永続的なバージョンの Office 2010 の更新履歴を IT 技術者に提供します。
-ms.openlocfilehash: 3f2e2ebdf24184d3452682a5116787ba5bd0f2ae
-ms.sourcegitcommit: 9a194fb74c040cbb43079af22e756911754fb7ba
+ms.openlocfilehash: d393785c16090e6925ee6735b51ce290d1ff5a1c
+ms.sourcegitcommit: f0762345dc203481117f080f41fba451bffbac65
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31745529"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "35594564"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Office 2010 のクイック実行製品の更新履歴
 
@@ -30,7 +30,7 @@ ms.locfileid: "31745529"
 これらの製品のいずれかを使用しており、最新の状態になっていることを確認するには、Office のバージョン番号を確認し、必要に応じて手動で Office を更新します。
   
 > [!NOTE]
-> Office 2010 の最新バージョンは**14.0.7232.5000**で、2019年4月9日にリリースされました。 
+> Office 2010 の最新バージョンは**14.0.7235.5000**で、2019年7月9日にリリースされました。
   
 Office のバージョンを確認するには、以下のことを行います。
   
@@ -54,7 +54,10 @@ Office のバージョンを確認するには、以下のことを行います�
   
 |**リリース年**|**リリース日**|**バージョン番号**|**詳細情報**|
 |:-----|:-----|:-----|:-----|
-|2019|4 月 9 日  <br/> |14.0.7232.5000  <br/> |[KB 4495300](https://support.microsoft.com/en-us/help/4495300) <br/> |
+|2019|7 月 9 日  <br/> |14.0.7235.5000  <br/> |[KB 4509295](https://support.microsoft.com/en-us/help/4509295) <br/> |
+||6 月 11 日  <br/> |14.0.7234.5000  <br/> |[KB 4505743](https://support.microsoft.com/en-us/help/4505743) <br/> |
+||5 月 14 日  <br/> |14.0.7233.5000  <br/> |[KB 4501270](https://support.microsoft.com/en-us/help/4501270) <br/> |
+||4 月 9 日  <br/> |14.0.7232.5000  <br/> |[KB 4495300](https://support.microsoft.com/en-us/help/4495300) <br/> |
 ||3 月 12 日  <br/> |14.0.7230.5000  <br/> |[KB 4491754](https://support.microsoft.com/en-us/help/4491754) <br/> |
 ||2 月 15 日  <br/> |14.0.7229.5000  <br/> |[KB 4488446](https://support.microsoft.com/en-us/help/4488446) <br/> |
 ||1 月 8 日  <br/> |14.0.7228.5000  <br/> |[KB 4484800](https://support.microsoft.com/en-us/help/4484800) <br/> |

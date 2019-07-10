@@ -1,5 +1,5 @@
 ---
-title: 2015 で半年チャネル (対象) のリリースのリリース ノート
+title: 2015での半期チャネル (対象指定) リリースのリリースノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -9,25 +9,25 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: 提供 IT プロフェッショナルのリリース ・ ノートを半年チャネル (対象) のリリースの Office 365 用リソースの 2015年で
+description: Office 365 ProPlus 用の半期チャネル (対象指定) リリースのリリースノートを IT 担当者に提供します (2015)
 ms.openlocfilehash: 4b6eb5b96fddc57d8a1f64adfaeb10166d541c42
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "19556248"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32439142"
 ---
-# <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2015"></a>2015 で半年チャネル (対象) のリリースのリリース ノート
+# <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2015"></a>2015での半期チャネル (対象指定) リリースのリリースノート
 
-これらのリリース ・ ノートは、新機能、セキュリティ更新プログラム、および 2015年で Office 365 用リソースを半年チャネル (対象) の更新プログラムに含まれるセキュリティ以外の更新プログラムに関する情報を提供します。
+これらのリリースノートには、2015で Office 365 ProPlus の半期チャネル (対象指定) 更新プログラムに含まれる新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムに関する情報が記載されています。
  
 > [!NOTE]
 > - また、Visio Pro for Office 365 および Project Online デスクトップ クライアントの新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムについても説明しています。
 > - ここに記載されている情報は、Business Premium など一部の Office 365 プランに付属する Office のバージョンの、Office 365 Business にも該当します。
-> - 半年チャネル (対象) には、2017年 9 月の前に、延期のチャネルの最初のリリースは付きです。
+> - 半期チャネル (対象指定) は、2017年9月より前に段階的提供チャネルの最初のリリースという名前でした。
 
 
-## <a name="version-1509-december-8"></a>バージョン 1509: 12 月 8 日
+## <a name="version-1509-december-8"></a>バージョン 1509:12 月8日
 *バージョン 1509 (ビルド 6001.1043)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: セキュリティ以外の更新プログラム
@@ -50,13 +50,13 @@ ms.locfileid: "19556248"
 -   使用するフォントによっては、改行なしハイフンが四角形として表示されるという問題の修正。
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
--   更新プログラムをバックグラウンドでダウンロードするための既定のトランスポートを、Cached/BITS から HTTP に変更。
+-   更新プログラムをバックグラウンドでダウンロードするための既定のトランスポートが、Cached/BITS から HTTP に変更。
 -   自動アップグレードの際にライセンス関連の操作によるエラーが発生し、Office がインストールされないという問題の修正。
 -   Office プレインストール キットを監査モードで実行している Windows 7 OEM コンピューターで Office 2016 にアップグレードすると、ライセンス認証時にエラー 0x80070005 が発生するという問題の修正。
 
 
 
-## <a name="version-1509-november-10"></a>バージョン 1509: 11 月 10 日
+## <a name="version-1509-november-10"></a>バージョン 1509:11 月10日
 *バージョン 1509 (ビルド 6001.1038)*
 
 ### <a name="access-security-updates"></a>Access: セキュリティ更新プログラム
@@ -121,18 +121,18 @@ ms.locfileid: "19556248"
 -   手動アップグレードのときに、タスク バーに固定されているショートカットがすべてのユーザーで削除されないという問題の修正。
 -   クイック実行の手動アップグレード処理において、アップグレードに関して生じる可能性がある問題をユーザーに警告するために、Outlook が Exchange Server 2007 に接続されているかどうか、または Business Contact Manager がインストールされているかどうかを検出する機能の追加。
 -   アンインストールまたはアップグレード中に処理を終了させるためのダイアログの見やすさの改善。このダイアログは、開かれているアプリや他の UI に隠れてユーザーから見えなくなることがありました。
--   ドメインとクラウド ドメインの両方に参加していると識別されているコンピューターを使用していると、ユーザーが Office アプリケーションに自動的にサインインされないという問題の修正。
+-   ドメインとクラウド ドメインの両方に参加していると識別されているコンピューターを使用していると、ユーザーが Office アプリに自動的にサインインされないという問題の修正。
 
 
 
-## <a name="version-1509-october-21"></a>1509 のバージョン: 10 月 21 日
+## <a name="version-1509-october-21"></a>バージョン 1509:10 月21日
 *バージョン 1509 (ビルド 6001.1034)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: セキュリティ以外の更新プログラム
 -   カラー ピッカーで境界線に同じ色を 2 回選ぶと、OneNote がクラッシュするという問題の修正。
 
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
--   電子メールの署名を編集する際に、電子メールの署名に段落が複数あると、スクリーン リーダーに最初の段落しか読み込まれないという問題の修正。
+-   メールの署名を編集する際に、メールの署名に段落が複数あると、スクリーン リーダーが最初の段落のみを読み取るという問題の修正。
 -   電子メールに書き込みまたは返信するときにカーソルが正しい位置にないという問題の修正。
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: セキュリティ以外の更新プログラム
@@ -168,7 +168,7 @@ ms.locfileid: "19556248"
 
 
 
-## <a name="version-1509-october-5"></a>1509 のバージョン: 10 月 5 日
+## <a name="version-1509-october-5"></a>バージョン 1509:10 月5日
 *バージョン 1509 (ビルド 4229.1029)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: セキュリティ以外の更新プログラム
@@ -193,7 +193,7 @@ ms.locfileid: "19556248"
 
 
 
-## <a name="version-1509-september-22"></a>バージョン 1509: 9 月 22 日
+## <a name="version-1509-september-22"></a>バージョン 1509: 9 月22日
 *バージョン 1509 (ビルド 4229.1024)*
 
 このチャネルの最初のリリースです。Office 2016 アプリケーションが利用可能な最初のリリースです。
