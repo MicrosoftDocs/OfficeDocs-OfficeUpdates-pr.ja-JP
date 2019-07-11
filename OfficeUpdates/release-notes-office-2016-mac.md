@@ -1,5 +1,5 @@
 ---
-title: Office 2016 for Mac のリリース ノート
+title: Office 2016 for Mac の更新履歴
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -10,14 +10,14 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 2018 年 9 月以降にリリースされた Office 2016 for Mac のリリース ノートを IT プロフェッショナルに提供
-ms.openlocfilehash: 607abf772306e7c98657080fdabe5e304eccb051
-ms.sourcegitcommit: eaa9ab73dea88c18d1d23474c21457d8656af821
+ms.openlocfilehash: 094e0654c5e92dee64d0f1ce3c74a0f9f2443b06
+ms.sourcegitcommit: 7a98878289dd61a6cfa7ea5e9a4ee90ad085b9bb
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "34935899"
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "35110779"
 ---
-# <a name="release-notes-for-office-2016-for-mac"></a>Office 2016 for Mac のリリース ノート
+# <a name="update-history-for-office-2016-for-mac"></a>Office 2016 for Mac の更新履歴
 
 Office 2016 for Mac は、小売店やボリューム ライセンス契約を通じて 1 回限りの購入として利用可能な Office のバージョンです。2020 年 10 月 13 日までは、必要に応じて、セキュリティ更新プログラムおよびバグ修正プログラムでサポートされます。Office 2016 for Mac のサポートされている macOS の最小バージョンは 10.10 (Yosemite) です。
 

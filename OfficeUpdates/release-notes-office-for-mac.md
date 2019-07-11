@@ -3,19 +3,19 @@ title: Office for Mac のリリース ノート
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 6/14/2019
+ms.date: 6/28/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 サブスクライバー向け Office for Mac リリース用リリース ノートを IT プロフェッショナルに提供
-ms.openlocfilehash: 38719e16466b6ed4885405e4265eddb43868c35d
-ms.sourcegitcommit: 241e7ece990d6ab11e1cd2aae491c4319f8b0ee6
+ms.openlocfilehash: 5ddf84e1bae91ad0a610859078e8523f5987b955
+ms.sourcegitcommit: e6c9f7c47fa3ef117b6b234d9ac17777102e89ad
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/18/2019
-ms.locfileid: "35060299"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35390975"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac のリリース ノート
 
@@ -26,31 +26,46 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 
   
 > [!NOTE]
-> - Office for Mac のすべてのリリースおよびその他のダウンロード リンクの一覧については、[Office for Mac の更新履歴](update-history-office-for-mac.md)を参照してください。 
+> - Office for Mac のすべてのリリース、更新パッケージ、およびその他のダウンロード リンクの一覧については、「[Office for Mac の更新履歴](update-history-office-for-mac.md)」を参照してください。 
 > - Office Insider の場合は、[Insider Fast ビルドのリリース ノート](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a)を参照してください。
 > - 2018 年 9 月の 16.17 リリース以降、これらのリリース ノートは、Office 2019 for Mac にも該当します。これは、小売店またはボリューム ライセンス契約によって 1 回限りの購入で使用できる Office for Mac のバージョンです。ただし、リリース ノートに記載されている一部の機能は、Office 365 サブスクリプションがある場合にのみ使用できます。
 > - 16.16 以前のバージョンのリリース ノートは、Office 2016 for Mac にも該当します。これも、1 回限りの購入で使用できる Office for Mac のバージョンです。16.16 以前のバージョンは、Office 2016 for Mac のボリューム ライセンスでアクティブ化できます。Office 2016 for Mac のボリューム ライセンスでは、16.17 以降のバージョンをアクティブ化することはできません。9 月以降の Office 2016 for Mac リリースの詳細については、[Office 2016 for Mac のリリース ノート](release-notes-office-2016-mac.md)をご覧ください。
-> - ダウンロード リンクは、最新のリリースにのみ記します。
-> - Microsoft AutoUpdate は、Microsoft のさまざまな Mac 製品への更新プログラムを提供します。そのため、Office for Mac を実行していない場合でも、Microsoft AutoUpdate を更新する通知が表示される場合があります。
+> 
+> 
 > - Microsoft では多くの場合、一定期間にわたって毎月のチャネル、機能 (および場合によっては修正プログラム) を展開します。これにより、幅広いユーザーに機能を公開する前にスムーズに動作するかどうかを確認することができます。したがって、下記のものが表示されない場合でも、心配する必要はなく、いずれは表示されます。[詳細情報](https://support.office.com/ja-JP/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 
   **注:** Microsoft AutoUpdate (MAU) のリリース情報は、「[MAU のリリース ノート](https://docs.microsoft.com/ja-JP/officeupdates/release-history-microsoft-autoupdate)」ページに移動されました。<br/>
 
-## <a name="june-2019-release"></a>2019 年 6 月リリース
-
-**リリース日:** 2019 年 6 月 11 日
-
+## <a name="june-11-2019-release"></a>2019 年 6 月 11 日リリース
 *バージョン 16.26 (ビルド 19060901)*
 
- このリリースでは、次の更新プログラムを提供します。
 
-|**Application**|**Update**|**セキュリティ更新プログラム**|**更新プログラム パッケージのダウンロード リンク**|
-|:-----|:-----|:-----|:-----|
-|Word  <br/><br/>|@メンションを使用してユーザーの注意を引く: コメントで @メンションを使うと、他のユーザーによる入力が必要な場合にそのユーザーに知らせることができます。 |[CVE-2019-1034](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1034): Microsoft Word のリモート コード実行の脆弱性<br/><br/>[CVE-2019-1035](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1035): Microsoft Word のリモート コード実行の脆弱性<br/>|[Word の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Word_16.26.19060901_Updater.pkg)<br/>|
-|Excel<br/>|@メンションを使用してユーザーの注意を引く: コメントで @メンションを使うと、他のユーザーによる入力が必要な場合にそのユーザーに知らせることができます。<br/><br/>**グループ化するまたはグループ化しない:** ピボットテーブルの日付をグループ化する必要はありません。 次の場所で自動グループ化をオフにする: [Excel]、[環境設定]、[テーブルとフィルター] の順にクリックします。<br/><br/>**下付き文字と上付き文字の一覧:** 下付き、上付き、および取り消し線の文字が表示される場合は、リボンとクイック アクセス ツールバーに追加して、いつでも簡単にアクセスできるようにします。| |[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.26.19060901_Updater.pkg)<br/>|
-|PowerPoint<br/>|@メンションを使用してユーザーの注意を引く: コメントで @メンションを使うと、他のユーザーによる入力が必要な場合にそのユーザーに知らせることができます。<br/><br/>**オンライン ビデオの新しい保存場所:** Microsoft Stream にビデオを保存すれば、組織内のすべてのユーザーが視聴できます。 ビデオのリンクを挿入すれば、小さなファイル サイズでマルチメディア プレゼンテーションをご利用いただけます。<br/><br/>**ライブ キャプションと字幕:** 発言した言葉がキャプションまたは他の言語に翻訳された字幕として発表中に自動的に表示されます。 適切な字幕のためには、ヘッドセットのマイクを使用してください。||[PowerPoint の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.26.19060901_Updater.pkg)<br/>|
-|Outlook|**ワンクリックで Outlook から OneNote へ:** Outlook のメッセージや会議メモを OneNote ノートブックにワンクリックで保存することができるようになりました。 アーカイブとしても、一時的な置き場所としても使用できます。 <br/> | |[Outlook の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.26.19060901_Updater.pkg) <br/>|
+### <a name="word-feature-updates"></a>Word: 機能の更新
+
+- **\@メンション**を使用してユーザーの注意を引く: コメントで @メンションを使うと、他のユーザーによる入力が必要な場合にそのユーザーに知らせることができます。
+
+### <a name="word-security-updates"></a>Word: セキュリティ更新プログラム
+
+- [CVE-2019-1034](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1034): Microsoft Word のリモート コード実行の脆弱性
+- [CVE-2019-1035](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1035): Microsoft Word のリモート コード実行の脆弱性
+
+### <a name="excel-feature-updates"></a>Excel: 機能の更新
+
+- **\@メンション**を使用してユーザーの注意を引く: コメントで @メンションを使うと、他のユーザーによる入力が必要な場合にそのユーザーに知らせることができます。
+- **グループ化するまたはグループ化しない:** ピボットテーブルの日付をグループ化する必要はありません。 次の場所で自動グループ化をオフにする: [Excel]、[環境設定]、[テーブルとフィルター] の順にクリックします。
+- **下付き文字と上付き文字の一覧:** 下付き、上付き、および取り消し線の文字が表示される場合は、リボンとクイック アクセス ツールバーに追加して、いつでも簡単にアクセスできるようにします。
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新
+
+- **\@メンション**を使用してユーザーの注意を引く: コメントで @メンションを使うと、他のユーザーによる入力が必要な場合にそのユーザーに知らせることができます。
+- **オンライン ビデオの新しい保存場所:** Microsoft Stream にビデオを保存すれば、組織内のすべてのユーザーが視聴できます。 ビデオのリンクを挿入すれば、小さなファイル サイズでマルチメディア プレゼンテーションをご利用いただけます。
+- **ライブ キャプションと字幕:** 発言した言葉がキャプションまたは他の言語に翻訳された字幕として発表中に自動的に表示されます。 適切な字幕のためには、ヘッドセットのマイクを使用してください。
+
+### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
+
+- **ワン クリックで Outlook から OneNote へ:** Outlook のメッセージや会議メモを OneNote ノートブックにワン クリックで保存することができるようになりました。 アーカイブとしても、一時的な置き場所としても使用できます。<br/><br/>
+
 
 ## <a name="may-2019-release"></a>2019 年 5 月リリース      
 

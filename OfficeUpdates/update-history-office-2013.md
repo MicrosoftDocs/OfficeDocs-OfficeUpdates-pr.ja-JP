@@ -3,26 +3,26 @@ title: Office 2013 の更新履歴
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 04/10/2019
+ms.date: 07/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: クイック実行を使用する永続的なバージョンの Office 2013 の更新履歴を IT 技術者に提供します。
-ms.openlocfilehash: 0755b5b95b3ca4f232d35f1c7fe804d5c22c639d
-ms.sourcegitcommit: 9a194fb74c040cbb43079af22e756911754fb7ba
+ms.openlocfilehash: 940ae1f99faeb4a95d0266a0290ec135a7e026c1
+ms.sourcegitcommit: f0762345dc203481117f080f41fba451bffbac65
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31745559"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "35594625"
 ---
 # <a name="update-history-for-office-2013"></a>Office 2013 の更新履歴
 
 ほとんどの Office 2013 製品は、クイック実行というテクノロジを使用して自動的に最新の状態に維持されます。最新の状態にあることを検証するには、Office のバージョン番号を確認し、必要に応じて手動で更新します。
   
 > [!NOTE]
-> 最新バージョンの Office 2013 は、2019 年 4 月 9 日にリリースされた **15.0.5127.1000** です。 
+> 最新バージョンの Office 2013 は、2019 年 7 月 9 日にリリースされた **15.0.5153.1001** です。
   
 Office のバージョンを確認するには、以下のことを行います。
   
@@ -46,20 +46,40 @@ Office のバージョンを確認するには、以下のことを行います�
   
 |**リリース年**|**リリース日**|**バージョン番号**|**詳細情報**|
 |:-----|:-----|:-----|:-----|
-|2019|4 月 9 日   |15.0.5127.1000   |[KB 4495300](https://support.microsoft.com/en-us/help/4495300)  |
-||3 月 12 日   |15.0.5119.1000   |[KB 4491754](https://support.microsoft.com/en-us/help/4491754)  |
-||2 月 12 日   |15.0.5111.1001   |[KB 4488446](https://support.microsoft.com/en-us/help/4488446)  |
-||1 月 8 日   |15.0.5101.1002   |[KB 4484800](https://support.microsoft.com/en-us/help/4484800)  |
-|2018|12 月 19 日   |15.0.5093.1001   |[KB 4477615](https://support.microsoft.com/en-us/help/4477615)  |
-||11 月 13 日   |15.0.5085.1000   |[KB 4469617](https://support.microsoft.com/en-us/help/4469617)  |
-||10 月 9 日   |15.0.5075.1001   |[KB 4464656](https://support.microsoft.com/en-us/help/4464656)  |
-| |9 月 11 日   |15.0.5067.1000   |[KB 4459402](https://support.microsoft.com/en-us/help/4459402)  |
-||8 月 14 日   |15.0.5059.1000   |[KB 4346823](https://support.microsoft.com/en-us/help/4346823)  |
-||7 月 10 日   |15.0.5049.1000   |[KB 4340798](https://support.microsoft.com/en-us/help/4340798)  |
-||6 月 12 日   |15.0.5041.1001   |[KB 4299875](https://support.microsoft.com/en-us/help/4299875)  |
-||5 月 8 日   |15.0.5031.1000   |[KB 4133083](https://support.microsoft.com/en-us/help/4133083)  |
-||4 月 10 日   |15.0.5023.1000   |[KB 4098622](https://support.microsoft.com/en-us/help/4098622)  |
-||3 月 13 日   |15.0.5015.1000   |[KB 4090988](https://support.microsoft.com/en-us/help/4090988)  |
+|2019|7 月 9 日   |15.0.5153.1001   |
+  [KB 4509295](https://support.microsoft.com/ja-JP/help/4509295)  |
+||6 月 11 日   |15.0.5145.1001   |
+  [KB 4505743](https://support.microsoft.com/ja-JP/help/4505743)  |
+||5 月 14 日   |15.0.5137.1000   |
+  [KB 4501270](https://support.microsoft.com/ja-JP/help/4501270)  |
+||4 月 9 日   |15.0.5127.1000   |
+  [KB 4495300](https://support.microsoft.com/ja-JP/help/4495300)  |
+||3 月 12 日   |15.0.5119.1000   |
+  [KB 4491754](https://support.microsoft.com/ja-JP/help/4491754)  |
+||2 月 12 日   |15.0.5111.1001   |
+  [KB 4488446](https://support.microsoft.com/ja-JP/help/4488446)  |
+||1 月 8 日   |15.0.5101.1002   |
+  [KB 4484800](https://support.microsoft.com/ja-JP/help/4484800)  |
+|2018|12 月 19 日   |15.0.5093.1001   |
+  [KB 4477615](https://support.microsoft.com/ja-JP/help/4477615)  |
+||11 月 13 日   |15.0.5085.1000   |
+  [KB 4469617](https://support.microsoft.com/ja-JP/help/4469617)  |
+||10 月 9 日   |15.0.5075.1001   |
+  [KB 4464656](https://support.microsoft.com/ja-JP/help/4464656)  |
+| |9 月 11 日   |15.0.5067.1000   |
+  [KB 4459402](https://support.microsoft.com/ja-JP/help/4459402)  |
+||8 月 14 日   |15.0.5059.1000   |
+  [KB 4346823](https://support.microsoft.com/ja-JP/help/4346823)  |
+||7 月 10 日   |15.0.5049.1000   |
+  [KB 4340798](https://support.microsoft.com/ja-JP/help/4340798)  |
+||6 月 12 日   |15.0.5041.1001   |
+  [KB 4299875](https://support.microsoft.com/ja-JP/help/4299875)  |
+||5 月 8 日   |15.0.5031.1000   |
+  [KB 4133083](https://support.microsoft.com/ja-JP/help/4133083)  |
+||4 月 10 日   |15.0.5023.1000   |
+  [KB 4098622](https://support.microsoft.com/ja-JP/help/4098622)  |
+||3 月 13 日   |15.0.5015.1000   |
+  [KB 4090988](https://support.microsoft.com/ja-JP/help/4090988)  |
 ||2 月 13 日   |15.0.5007.1000   |[KB 4077965](https://support.microsoft.com/help/4077965)  |
 ||1 月 9 日   |15.0.4997.1000   |[KB 4058103](https://support.microsoft.com/help/4058103)  |
 |2017   |12 月 12 日   |15.0.4989.1000   |[KB 4055454](https://support.microsoft.com/help/4055454)  |
