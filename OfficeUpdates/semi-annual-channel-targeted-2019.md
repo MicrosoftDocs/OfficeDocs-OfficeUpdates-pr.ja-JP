@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル (対象指定) リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: eabd0a3bf3c7c44a74e0991b78e11e6d079dc7f3
-ms.sourcegitcommit: 2a0b5f0a6ef18194f8a8591ff2fd3e6894d162b2
+ms.openlocfilehash: 715250022d6bf9172f4e1c47d1437099a63b1ff1
+ms.sourcegitcommit: eea73f35ff3045e556ae603f9c6e18fa4fed6158
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34910397"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35607361"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年の半期チャネル (対象指定) リリースのリリース ノート
 
@@ -27,6 +27,49 @@ ms.locfileid: "34910397"
  
 > [!NOTE]
 > - Office 365 ProPlus の各更新チャネルに対するセキュリティ更新プログラムの情報については、個別の一覧が「[セキュリティ更新プログラム](office365-proplus-security-updates.md)」に記載されます。
+
+## <a name="version-1902-july-09"></a>バージョン 1902: 7 月 9 日
+*バージョン 1902 (ビルド 11328.20368)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+
+
+### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
+- フィルター処理された Excel 行を削除するときの動作が極端に遅くなる問題を修正しました。
+- 2 本の指でスクロールするとワークシート上にグレーの四角形が描かれて Excel がハングアップするという問題を修正しました。
+
+
+### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
+- Outlook で、中国語の単語を選ぶ IME 候補ウィンドウが開いたままになる代わりに、英語の PinYin 文字が挿入される場合があるという問題に対処します。
+- 会議室の空き時間外にスケジュールされた会議のためにその会議室がユーザーに提案されるという問題に対処します。
+- 会議シリーズの例外を開こうとしたときに代わりにマスター シリーズが開くという問題に対処します。
+- [削除済みアイテム] フォルダー内のアイテムの有効期限日が誤って計算されて表示されるという問題に対処します。
+
+
+### <a name="teams-non-security-updates"></a>Teams: セキュリティ以外の更新プログラム
+
+- Teams インストーラーで、インストール完了後の自動起動をオフにするポリシーが使用可能になりました。
+
+
+### <a name="visio-non-security-updates"></a>Visio: セキュリティ以外の更新プログラム
+
+- Visio 用の ActiveX ソリューションが Office 365 と連動しないことに関連する問題に対処します。この問題は、「riched20.dll が見つからない」というエラー メッセージとして出現します。
+
+
+### <a name="word--non-security-updates"></a>Word: セキュリティ以外の更新プログラム
+
+- テンプレート検索バーを無効にする GPO 設定を修正しました
+- オフラインになった後、サーバーのみのドキュメントをユーザーが編集すると変更内容の一部が失われることがあるという問題を修正しました。
+- 文書のクイックパーツ プロパティを有効にしたときのパフォーマンスが向上しました
+- サーバーからの初回ダウンロード リビジョンが失敗する場合があるという問題を修正しました
+
+
+### <a name="office-suite--non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
+
+- 追加の Office 製品や言語パックをインストールすると、共有コンピューターのライセンス認証を使用しているデバイスが、予期せずユーザーベースのライセンス認証に戻ることがあるという問題に対処します。
+- プロキシ認証がシステムとして実行されたときに Office の更新プログラムがブロックされるという問題を修正しました。
+- ユーザー プロファイルの変更によって Office アドインが表示されなくなる問題を修正します。
+
 
 ## <a name="version-1902-june-11"></a>バージョン 1902: 6 月 11 日
 *バージョン 1902 (ビルド 11328.20318)*

@@ -3,19 +3,18 @@ title: 2019 年の半期チャネル リリースのリリース ノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/25/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 0e8641b742db196ed58dc4ede93ee684ba5fce90
-ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
+ms.openlocfilehash: c30fea0f6e77e25db238ead95a786ba99f69790a
+ms.sourcegitcommit: a01cd0d0d2efe0aa3d0efce1848b773aaa0eca1e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "33370199"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "35605586"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019 年の半期チャネル リリースのリリース ノート
 
@@ -27,6 +26,215 @@ ms.locfileid: "33370199"
 > [!NOTE]
 > - Office 365 ProPlus の各更新チャネルに対するセキュリティ更新プログラムの情報については、個別の一覧が「[セキュリティ更新プログラム](office365-proplus-security-updates.md)」に記載されます。
 > - 半期チャネルのユーザーが Office ポータルから Office 365 をダウンロードして Windows 10 にインストールしたときに、既定では OneNote 2016 は含まれません。
+
+## <a name="version-1902-july-09"></a>バージョン 1902: 7 月 9 日
+*バージョン 1902 (ビルド 11328.20368)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+
+
+### <a name="access-feature-updates"></a>Access: 機能の更新
+
+- **リンク テーブルを更新、再リンク、または削除する:** 更新されたリンク テーブル マネージャーで、すべてのデータ ソースとリンク テーブルを管理できます。 [詳細情報](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
+- **黒にペイントする、灰色にペイントする:** アクセスの外観を好きなだけ変更します。次の 4 つのテーマを選択: カラフル、濃い灰色、黒、白のいずれか。[詳細情報](https://support.office.com/article/9d76a8b4-bfff-48a9-b8c8-8e133461bc94)
+- **Office の外観が新しくなる:** Office アプリに、よりシンプルでアクセスしやすい最新のアイコンが加わり、リボンの外観が、Office アプリで使用可能な豊富なコラボレーション機能を強調するように更新されました。
+
+### <a name="excel-feature-updates"></a>Excel: 機能の更新
+
+- **すばやく始めましょう **新しくデザインされたスタートページは、最近開いたドキュメントを前面と中央に配置します。 以前より少ないクリック数でファイルにアクセスし、そこからすぐアカウント設定またはオプションを開きます。
+- **コメントを利用して共同作業を行う:** 返信ボックスが組み込まれているので、スプレッドシートで直接会話を続けることができます。 [詳細情報](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)
+- **新しい見た目のリボン アイコン:** 機能に変化はないので、心配はいりません。 さらに、どのサイズの画面でも、見た目がきれいです。 [詳細情報](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **フィルターが適用された SVG を挿入する機能:** Office ユーザーは、フィルターが適用された SVG を挿入できるようになりました。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **画像の背後を見えるようにする:** ワークシートに画像を挿入し、既定の設定から選択して、透明度の変化を確認するだけです。[詳細情報](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
+- **データの取得と変換をご利用の皆様:** データの取得と変換をよく利用していただいているユーザーの皆様に、サンプルからの列の機能が改善されたことをお知らせします。 また、多くのコネクタも強化されました。 [詳細情報](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
+- **改善された高解像度ディスプレイのサポート:** 複数のモニター、またはドッキングでラップトップを使用する場合、各ディスプレイの倍率設定が異なっていても Office アプリがすべてのディスプレイで鮮明に表示されるようになります。 [詳細情報](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
+
+### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
+
+- **音声読み上げを使用してメールの内容を聞く:** Outlook では、メールのテキストを読み上げながら強調表示することができます。 読み上げ機能をオンにするには、[簡単操作] の設定に移動します。 [詳細情報](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
+- **ハンズフリーで入力:** マイクは用意しましたか。 [ディクテーション] をクリックして、発話すると Outlook によって入力されるのを確認してください。 [詳細情報](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
+- **新しい見た目のリボン アイコン:** 機能に変化はないので、心配はいりません。 さらに、どのサイズの画面でも、見た目がきれいです。 [詳細情報](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **SMIME の暗号化および署名されたメールでは、既定で外部コンテンツのダウンロードをブロック:** SMIME プロトコルに脆弱性があるため、Outlook が SMIME の暗号化または署名されたメッセージへの外部コンテンツのダウンロードをブロックします。 セキュリティの脆弱性から保護するため、ユーザーは Outlook UI を通じて外部コンテンツをワンクリックでダウンロードすることはできません。 [オプション] ダイアログには、ユーザーが以前の動作に戻すことができる新しいオプションが用意されています。
+- **会議の転送を無効にする:** 出席者が会議を他のユーザーに転送できないようにします。 リボンに移動して、[応答オプション] をクリックするだけです。 [詳細情報](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F)
+- **スケジュール アシスタントでの候補ユーザーの表示:** 会議のスケジュールを設定するときに、追加する出席者の候補が表示されます。スケジュール アシスタントと [宛先] 行を何度も切り替える必要はありません。[詳細情報](https://support.office.com/article/d284c6d9-206e-4926-92b4-5addc0fcbefb)
+- **会議室の予約がさらに簡単に:** 複数の会議室のリストを使用して、会議室を検索します。選択した会議室を失うことなく、リストを切り替えることができます。
+- **期間の新しい既定値:** [定期的なアイテム] ダイアログでは、期間に [終了日未定] の既定値が使われていました。 これにより、長期間実行される定期的なアイテムが作成され、時間と共に破損する可能性がありました。 既定値が予定表作成の推奨されるベスト プラクティスに一致するように、[定期的なアイテム] ダイアログ ボックスの既定値を [終了日] に更新します。
+- **Outlook のアラーム ダイアログから Teams 会議に参加する:** Outlook が今後の会議についてユーザーに通知する際、会議が Teams のオンライン会議の場合には、[オンラインで参加] ボタンが表示されます。これは、Outlook のアラート ダイアログから Skype for Business 会議に参加する場合に似ています。
+- **過去のイベントのリマインダーの表示を停止:** 終了したイベントのリマインダーを自動的に破棄するようにカレンダーを設定することができます。 [詳細情報](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
+- **安全なリンクの背後にある URL を表示する:** 安全なリンクは、メールで受け取った悪意のある URL からユーザーを保護しますが、元の URL は非表示になります。 元の URL を確認するには、URL をマウスでポイントします。 Advanced Threat Protection のライセンスが必要です。 
+  [詳細情報](https://products.office.com/ja-JP/exchange/advance-threat-protection)
+- **ズームとスティック:** メッセージを表示するたびにズームを調整するのではなく、すべてのメッセージに使用する既定値を選択します。 [詳細情報](https://support.office.com/article/56c090bc-e148-44a7-bd06-1290edd38983)
+- **メッセージ暗号化: 暗号化のみ IRM ポリシー:** 新しい暗号化のみオプションは、Office 365 Message Encryption ユーザーの [オプション] > [アクセス許可] に表示されます。 このオプションを使用すると、メッセージを暗号化して、組織の内外のユーザーに送信できます。
+- **BCC で受け取った場合の警告:** ブラインド カーボン コピーで受け取ったメールに対し、誤って全員に返信する前に、BCC のヒントで警告されます。
+- **洗練された [宛先] 行:** メッセージの宛先を指定するために [宛先] 行をクリックすると、選択されそうな受信者の候補が表示されます。 さらに、ユーザーの画像が表示されるので、正しいユーザーに送信しようとしていることを確認できます。 [詳細情報](https://support.office.com/article/147208AF-CA8E-4CDF-B71F-77BA81A54069)
+- **フィルターが適用された SVG を挿入する機能:** Office ユーザーは、フィルターが適用された SVG を挿入できるようになりました。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **改善された高解像度ディスプレイのサポート:** 複数のモニター、またはドッキングでラップトップを使用する場合、各ディスプレイの倍率設定が異なっていても Office アプリがすべてのディスプレイで鮮明に表示されるようになります。 [詳細情報](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新
+
+- **すばやく始めましょう **新しくデザインされたスタートページは、最近開いたドキュメントを前面と中央に配置します。 以前より少ないクリック数でファイルにアクセスし、そこからすぐアカウント設定またはオプションを開きます。
+- **ハンズフリーで入力:** マイクは用意しましたか？ [ディクテーション] をクリックして、発話すると PowerPoint によって入力されるのを確認してください。 [詳細情報](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
+- **新しい見た目のリボン アイコン:** 機能に変化はないので、心配はいりません。 さらに、どのサイズの画面でも、見た目がきれいです。 [詳細情報](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **改善された高解像度ディスプレイのサポート:** 複数のモニター、またはドッキングでラップトップを使用する場合、各ディスプレイの倍率設定が異なっていても Office アプリがすべてのディスプレイで鮮明に表示されるようになります。 [詳細情報](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
+- **ハイパーリンクの色の設定:** ハイパーリンクの色は青だけではなくなりました。 お好みのフォント色を適用してください。 [詳細情報](https://support.office.com/article/988ed94c-82e9-4e2c-96a1-7ffd2c382ce8)
+- **スライドを活気づかせる:** アニメーション 3D グラフィックスを挿入して、鼓動する心臓、周回する惑星、暴れ回るティラノサウルスを画面上に表示できます。 [詳細情報](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
+- **スケッチするだけで自動的に洗練される:** 手書きのテキストや図形が洗練された図表に変更されます。インク ストロークを選ぶだけで機能を利用できます。[詳細情報](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+- **画像の背後を見えるようにする:** ワークシートに画像を挿入し、既定の設定から選択して、透明度の変化を確認するだけです。[詳細情報](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
+- **インクで素晴らしいスライドを作成する:** インクを標準的な図形やテキストに変換してから、PowerPoint デザイナーの洗練されたスライドのデザイン アイデアを活用できます。 [詳細情報](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
+- **Microsoft Stream に公開:** Microsoft Stream を使用して、組織内でより安全にビデオとプレゼンテーションを共有できます。 [詳細情報](https://support.office.com/article/C140551F-CB37-4818-B5D4-3E30815C3E83)
+- **4K ビデオにエクスポート:** プレゼンテーションをビデオにエクスポートするときに、4K の解像度がオプションになりました。  [詳細情報](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
+- **フィルターが適用された SVG を挿入する機能:** Office ユーザーは、フィルターが適用された SVG を挿入できるようになりました。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+### <a name="word-feature-updates"></a>Word: 機能の更新
+
+- **すばやく始めましょう **新しくデザインされたスタートページは、最近開いたドキュメントを前面と中央に配置します。 以前より少ないクリック数でファイルにアクセスし、そこからすぐアカウント設定またはオプションを開きます。
+- **ハンズフリーで入力:** マイクは用意しましたか。 [ディクテーション] をクリックして、発話すると Word によって入力されるのを確認してください。 [詳細情報](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
+- **文書を活気づかせる:** アニメーション 3D グラフィックスを挿入して、鼓動する心臓、周回する惑星、暴れ回るティラノサウルスをページ上に表示できます。[詳細情報](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
+- **新しい見た目のリボン アイコン:** 機能に変化はないので、心配はいりません。 さらに、どのサイズの画面でも、見た目がきれいです。 [詳細情報](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **画像の背後を見えるようにする:** ワークシートに画像を挿入し、既定の設定から選択して、透明度の変化を確認するだけです。[詳細情報](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
+- **フィルターが適用された SVG を挿入する機能:** Office ユーザーは、フィルターが適用された SVG を挿入できるようになりました。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **改善された高解像度ディスプレイのサポート:** 複数のモニター、またはドッキングでラップトップを使用する場合、各ディスプレイの倍率設定が異なっていても Office アプリがすべてのディスプレイで鮮明に表示されるようになります。 [詳細情報](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
+- **LinkedIn を活用して、最適な履歴書または CV を作成します:** 履歴書アシスタントを使用して、特定の役割に関する職歴、提案されているスキルなどを表示できます。 [詳細情報](https://support.office.com/article/444ff6f0-ef74-4a9c-9091-ffd7a9d1917a)
+
+### <a name="project-feature-updates"></a>Project: 機能の更新
+
+- **タスク ボード カードに詳細を表示する:** タイトルだけでは内容が伝わらない場合は、最も重要な詳細がすべて表示されるようにタスク ボード カードをカスタマイズできます。 [詳細情報](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
+- **Office の外観が新しくなる:** Office アプリに、よりシンプルでアクセスしやすい最新のアイコンが加わり、リボンの外観が、Office アプリで使用可能な豊富なコラボレーション機能を強調するように更新されました。
+
+### <a name="publisher-feature-updates"></a>Publisher: 機能の更新
+
+- **Office の外観が新しくなる:** Office アプリに、よりシンプルでアクセスしやすい最新のアイコンが加わり、リボンの外観が、Office アプリで使用可能な豊富なコラボレーション機能を強調するように更新されました。
+
+### <a name="visio-feature-updates"></a>Visio: 機能の更新
+
+- **新しい図面でアイコンを楽しむ:** 分析、アート、お祝い、顔文字、スポーツなどのアイコンが含まれる 26 種類の新しいステンシルから選択できます。
+- **Office の外観が新しくなる:** Office アプリに、よりシンプルでアクセスしやすい最新のアイコンが加わり、リボンの外観が、Office アプリで使用可能な豊富なコラボレーション機能を強調するように更新されました。
+
+### <a name="office-suite-feature-updates"></a>Office スイート: 機能の更新
+
+- **Office のサード パーティ アプリケーションでは office.js api を使用した SVG の挿入をサポート:** Office アドインとも呼ばれるサード パーティ アプリケーションで SVG を挿入できるようになりました。ユーザーは、個人の SVG コレクションを Office に結び付けることができます。開発者は、Office.js API を使用してこの機能を利用できます。
+- **Microsoft Teams のインストール:** Microsoft Teams は、Office 365 ProPlus の新規インストールでは既定でインストールされています。 
+  [詳細情報](https://docs.microsoft.com/ja-JP/DeployOffice/teams-install)
+
+### <a name="skype-for-business-feature-updates"></a>Skype for Business: 機能の更新
+
+- **改善された高解像度ディスプレイのサポート:** 複数のモニター、またはドッキングでラップトップを使用する場合、各ディスプレイの倍率設定が異なっていても Office アプリがすべてのディスプレイで鮮明に表示されるようになります。 [詳細情報](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
+
+
+### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
+
+- PDF にマッピングする XML を含むファイルを保存するときにクラッシュの原因となっていた問題が解決されました。
+- 無効なシート名を含むブックを読み込むときに外部リンクが削除される原因となっていた問題が解決されました。
+- Excel でカメラ ツールを使用するとスプレッドシートが終了する原因となっていた問題が修正されました。
+- セルが挿入または削除されたときに、ウォーターフォール図とじょうごグラフがテーブルと同期しなくなる原因となっていた問題が解決されました。
+- テーブルに依存する別のシートで配列計算を使って Worksheet Calculate を動作させる際、データ テーブルが再計算されるときの問題が解決されました。 
+- 最初にファイルをチェックアウトしないと、パスワードで保護されたブックを SharePoint から開けなかった問題が解決されました。
+- 自動保存の共有時または切り替え時に BeforeSave イベントが確実に処理されるように変更が行われました。 
+- グラフ シートのある非アクティブ ウィンドウでマウス スクロール ホイールを使用するときの問題が修正されました。
+- SharePoint でスプレッドシートをインポートするときに「予期しないエラー」メッセージが表示される問題が解決されました。
+- ルールの名前を使用する条件付き書式を含むブックを開くとき、ユーザー設定のビューが適用される問題が解決されました。
+- 255 文字より長い数式のデータ入力規則を使用するマクロでは、実行時エラーが発生する場合があります。 この問題は修正されました。
+- 他のブックにリンクされているピボットテーブルを含むファイルの読み込み速度が低下する問題。 この問題は解決されました。
+- HTML ファイルを開くと「ファイル形式と拡張子が一致しない」というエラーが発生する問題が解決されました。
+- 非アクティブ ウィンドウでのマウス ホイール スクロールによる問題を解決するために変更が行われました。
+- 定義された名前で終わる数式が含まれるセルにいる場合、Tab キーを押しても次のセルに移動できないという問題が解決されました。
+- セルの書式設定が原因でファイルのサイズが必要以上に大きくなるという問題が解決されました。
+- ブック間でピボットテーブルをカット アンド ペーストすると、共同作業している他のユーザーのピボットテーブルを含まずにデータが貼り付けられるという問題が解決されました。
+
+
+### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
+
+- "Group by" に 2 番目の条件を追加するとき、お客様のタスクが消えるように見える原因となっていた問題が修正されました。
+- 移行されたアイテムの一部のフィールドをお客様が編集できなくなる問題が解決されました。 
+- システムタスクバーを画面の左または上に置いたときにウィンドウが正しい場所に表示されない問題を修正しました。
+- 顧客の連絡先カード上の画像の読み込み中にクラッシュが発生する原因となった問題に対処します。
+- 一部の顧客がOffice アプリケーションの起動時にクラッシュするという問題に対処します。
+- システムタスクバーを画面の左または上に置いたときにウィンドウが正しい場所に表示されない問題を修正しました。
+- 移行されたアイテムの一部のフィールドをお客様が編集できなくなる問題が解決されました。
+
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: セキュリティ以外の更新プログラム
+
+- PowerPoint がクラウドへのユーザー変更のアップロードを停止することがある問題が修正されました。
+
+
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: セキュリティ以外の更新プログラム
+
+- Lync (Skype for Business) で、参加者が 7 人以上のオンライン ミーティングのミーティング ウィンドウが表示されないという問題が修正されました。
+- 別の Office アプリケーションにサインインするために使用された資格情報で Skype for Business にサインインします。
+- 共有コンピューターのライセンス認証でインストールした場合は、Skype for Business アプリを正しくライセンス認証します。
+
+
+### <a name="visio-non-security-updates"></a>Visio: セキュリティ以外の更新プログラム
+
+- 動的 DPI 機能を無効にして Visio を拡張するサードパーティ ソリューションで、ウィンドウ階層が壊れる問題が修正されました。
+
+
+### <a name="word-non-security-updates"></a>Word: セキュリティ以外の更新プログラム
+
+ - .asd 拡張子が含まれる添付ファイルを生成するドキュメントとして現在共同作成しているドキュメントの共有を修正しました。
+ - ランダムな作成者に起因したコメントに関する問題が修正されました。
+ - ドキュメントをチェックアウトするときの署名の削除の問題が修正されました。
+ - SharePoint によって追加された関係者を編集する際にクラッシュする場合がある問題が修正されました。
+ - Word の起動時に [リソースを読み込めませんでした] というダイアログが表示される問題が修正されました。
+ - ファイルが読み取り専用モードで開かれているときに[情報]枠から[名前を付けて保存]をクリックすると、保存UIが表示されるように問題が修正されています。
+
+
+### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
+
+ - "元に戻す" 操作の後に VBA が不正確な図形塗り潰しステータスを報告する問題が修正されました。
+ - これは、ファイルを Apache WebDAV フォルダーに保存できない問題の修正プログラムです。
+ - ユーザーがクラウドに保存したファイルを開くと、Office が突然終了する問題の修正です。
+ - 新時代の名前である「Reiwa」のひらがなと漢字をスペルミスまたは間違った文法として誤って識別していた問題を修正しました。
+ - Windows 10 の多くのユーザーに対して最近のファイル リストがクリアされているように見えた問題を修正しました。
+ - 管理者による更新が進行中であっても、エンドユーザーに Office Update のビジネス バーが表示される問題を修正しました。
+ - 断続的な空白のサインインプロンプトに関する問題を修正しました。
+ - Office の更新プログラムの一部で配信の最適化のピア キャッシュを使用しないという問題が修正されました。 
+  [詳細情報]("https://docs.microsoft.com/ja-JP/windows/deployment/update/waas-delivery-optimization)
+- Office が Office 展開ツールを使用してインストールされ、大文字/小文字が一致しない場合、製品が削除されたり、アクティブ化されなかったりする可能性があるバグが修正されました。
+- Windows 10（バージョン1803以降）のデバイスで過剰なサインインプロンプトを引き起こしていた問題を修正しました。
+- リンクされた写真をダウンロードするときにハングする原因となる退行を修正しました。
+- Word、Excel、PowerPointに貼り付けられた大きなEMFファイルのぼやけを修正しました。
+- バージョン履歴の解析ロジックで、ドキュメントが読み取り専用で開かれることがあったケースを修正しました。
+
+
+## <a name="version-1808-june-11"></a>バージョン 1808: 6 月 11 日
+*バージョン 1808 (ビルド 10730.20348)*
+<br/>セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+
+### <a name="word-non-security-updates"></a>Word: セキュリティ以外の更新プログラム
+ - ファイルをチェックアウトするときの署名の削除に関する問題が修正されました。
+
+### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
+ - 仮想化された Windows で実行される Office アプリケーションがクラッシュすることがある問題が修正されました。
+
+## <a name="version-1803-june-11"></a>バージョン 1803: 6 月 11 日
+*バージョン 1803 (ビルド 9126.2388)*
+<br/>セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates) 
+
+## <a name="version-1808-may-14"></a>バージョン 1808: 5 月 14 日
+*バージョン 1808 (ビルド 10730.20344)*   
+
+### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
+ - 移行されたアイテムの一部のフィールドをお客様が編集できなくなる問題が解決されました。
+
+### <a name="visio-non-security-updates"></a>Visio: セキュリティ以外の更新プログラム
+ - 動的 DPI 機能を無効にして Visio を拡張するサードパーティ ソリューションで、ウィンドウ階層が壊れる問題が修正されました。
+
+### <a name="word-non-security-updates"></a>Word: セキュリティ以外の更新プログラム
+ - SharePoint によって追加された関係者を編集する際にクラッシュする場合がある問題が修正されました。
+
+### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
+ - 新時代の名前である「Reiwa」のひらがなと漢字をスペルミスまたは間違った文法として誤って識別していた問題を修正しました。
+  
+## <a name="version-1803-may-14"></a>バージョン 1803: 5 月 14 日
+*バージョン 1803 (ビルド 9126.2387)*
+
+### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
+ - 移行されたアイテムの一部のフィールドをお客様が編集できなくなる問題が解決されました。
+
+### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
+ - 新時代の名前である「Reiwa」のひらがなと漢字をスペルミスまたは間違った文法として誤って識別していた問題を修正しました。
 
 ## <a name="version-1808-april-9"></a>バージョン 1808: 4 月 9 日
 *バージョン 1808 (ビルド 10730.20334)*
@@ -78,7 +286,8 @@ ms.locfileid: "33370199"
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 
-- [Office 365 の一元展開](https://docs.microsoft.com/ja-JP/office/dev/add-ins/publish/centralized-deployment)を使用して展開したアドインが機能停止して使用できなくなる問題を修正しました。
+- 
+  [Office 365 の一元展開](https://docs.microsoft.com/ja-JP/office/dev/add-ins/publish/centralized-deployment)を使用して展開したアドインが機能停止して使用できなくなる問題を修正しました。
 
 
 ## <a name="version-1803-february-12"></a>バージョン 1803: 2 月 12 日
@@ -111,7 +320,8 @@ ms.locfileid: "33370199"
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 
-- [Office 365 の一元展開](https://docs.microsoft.com/ja-JP/office/dev/add-ins/publish/centralized-deployment)を使用して展開したアドインが機能停止して使用できなくなる問題を修正しました。
+- 
+  [Office 365 の一元展開](https://docs.microsoft.com/ja-JP/office/dev/add-ins/publish/centralized-deployment)を使用して展開したアドインが機能停止して使用できなくなる問題を修正しました。
 
 ## <a name="version-1708-february-12"></a>バージョン 1708: 2 月 12 日
 *バージョン 1708 (ビルド 8431.2372)*
@@ -120,7 +330,8 @@ ms.locfileid: "33370199"
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 
-- [Office 365 の一元展開](https://docs.microsoft.com/ja-JP/office/dev/add-ins/publish/centralized-deployment)を使用して展開したアドインが機能停止して使用できなくなる問題を修正しました。
+- 
+  [Office 365 の一元展開](https://docs.microsoft.com/ja-JP/office/dev/add-ins/publish/centralized-deployment)を使用して展開したアドインが機能停止して使用できなくなる問題を修正しました。
 
 
 ## <a name="version-1808-january-8"></a>バージョン 1808: 1 月 8 日
@@ -238,7 +449,6 @@ ms.locfileid: "33370199"
 - **クラウド ファイルの自動保存が既定で有効になる:** これにより、OneDrive または SharePoint Online に保存されたドキュメントの変更が失われる心配がなくなります。変更はクラウドに自動的に保存されるので、ユーザーは明示的に Ctrl + S キーを押したり、[保存] ボタンをクリックする必要がなくなります。ただし、この動作の変更を理解した上で、プレゼンテーションを誤って変更しないように注意する必要があります。画面の上部にある [自動保存] トグルを使用して自動保存をオフにすることができます。この変更についてユーザーに通知し、Office 365 のこの新機能を最大限に利用する方法について説明することをお勧めします。[自動保存の詳細](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)と[IT 管理者が自動保存について知っておくべきことの詳細](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)も参照してください。
 - **アクセシビリティ チェックの改善:** アクセシビリティ チェックで、文書のアクセシビリティを向上させるための国際標準のサポートと推奨事項が更新されました。[詳細情報](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 - **SVG サポートの強化:** フィルターが適用された SVG を挿入できます。[詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
-- **静的なドキュメントから魅力的なドキュメントへの変換:** ドキュメントを、すべてのデバイスに対応する対話型の使いやすい Web ページに変換します。[詳細情報](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
 
 ### <a name="word-non-security-updates"></a>Word: セキュリティ以外の更新プログラム
 - メモリ不足を示すメッセージが表示される原因となる問題を修正します。
@@ -264,7 +474,7 @@ ms.locfileid: "33370199"
 ### <a name="office-suite-security-update"></a>Office スイート: セキュリティ更新プログラム
 
 - 
-  **セキュリティ上の理由から、Office での Flash、Silverlight、および Shockwave のコントロールのアクティブ化がブロックされる:** セキュリティ上の理由から、Windows 上の Microsoft Office for Office 365 の新しいビルドでは、Flash、Silverlight、および Shockwave のコントロールのアクティブ化がブロックされます。詳細については、[こちら](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)および[こちら](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)をご覧ください。
+  **セキュリティ上の理由から、Office での Flash、Silverlight、および Shockwave のコントロールのアクティブ化がブロックされる:** セキュリティ上の理由から、Windows 上の Microsoft Office for Office 365 の新しいビルドでは、Flash、Silverlight、および Shockwave のコントロールのアクティブ化がブロックされます。詳細については、[こちら](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)および[こちら](https://support.office.com/ja-JP/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)をご覧ください。
  
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 - 特定のシナリオで更新プログラムのインストールが長くかかる原因となった問題を修正しました。
