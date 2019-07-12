@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: c30fea0f6e77e25db238ead95a786ba99f69790a
-ms.sourcegitcommit: a01cd0d0d2efe0aa3d0efce1848b773aaa0eca1e
+ms.openlocfilehash: 041802476192d1ca6b684a46046aefa2c9ba2a73
+ms.sourcegitcommit: 9e7d201c887af0708df6ce48fba7f414b066dcd0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35605586"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35612146"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019 年の半期チャネル リリースのリリース ノート
 
@@ -29,8 +29,7 @@ ms.locfileid: "35605586"
 
 ## <a name="version-1902-july-09"></a>バージョン 1902: 7 月 9 日
 *バージョン 1902 (ビルド 11328.20368)*
-
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+<br/>セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
 
 
 ### <a name="access-feature-updates"></a>Access: 機能の更新
@@ -196,6 +195,26 @@ ms.locfileid: "35605586"
 - リンクされた写真をダウンロードするときにハングする原因となる退行を修正しました。
 - Word、Excel、PowerPointに貼り付けられた大きなEMFファイルのぼやけを修正しました。
 - バージョン履歴の解析ロジックで、ドキュメントが読み取り専用で開かれることがあったケースを修正しました。
+
+
+## <a name="version-1808-july-09"></a>バージョン 1808: 7 月 9 日
+*バージョン 1808 (ビルド 10730.20360)*
+<br/>セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+
+
+### <a name="word-non-security-updates"></a>Word: セキュリティ以外の更新プログラム
+
+- 文書のクイックパーツ プロパティを有効にしたときのパフォーマンスが向上しました。
+- ファイルをチェックアウトするときの署名の削除に関する問題が修正されました。
+
+### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
+
+- 仮想化された Windows で実行される Office アプリケーションに影響する問題が修正されました。
+
+
+## <a name="version-1803-july-09"></a>バージョン 1803: 7 月 9 日
+*バージョン 1803 (ビルド 9126.2428)*
+<br/>セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
 
 
 ## <a name="version-1808-june-11"></a>バージョン 1808: 6 月 11 日
