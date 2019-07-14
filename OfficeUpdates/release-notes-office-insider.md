@@ -10,12 +10,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 69d4e3cbe3bf6c57f08e5b8f3eb90f8abb47e459
-ms.sourcegitcommit: cb86c338e3a58b21bd6ed9dc5480388075c0194d
+ms.openlocfilehash: c6d380fac5fa002179597a7e32002e1889482063
+ms.sourcegitcommit: eea73f35ff3045e556ae603f9c6e18fa4fed6158
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/05/2019
-ms.locfileid: "35575168"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35607371"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office Insider のリリース ノート
 
@@ -29,7 +29,7 @@ ms.locfileid: "35575168"
 > - Microsoft Teams に関連する既存の Office 365 ProPlus のインストール - 6 月の下旬から、これらの更新プログラムのインストール時に、Microsoft Teams が既存の Office 365 ProPlus (Office 365 Business) のインストールの中に含められます。 Teams が追加される日にちは、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)」を参照してください。
 
 ## <a name="july-5-2019"></a>2019 年 7 月 5 日
-バージョン 1908 (ビルド 11901.20002)
+バージョン 1907 (ビルド 11901.20018)
 
 ## <a name="whats-new"></a>新機能:
 
@@ -138,7 +138,7 @@ ms.locfileid: "35575168"
 1. 濃色モードでメールを読みます。 何も見えない場合は、[閲覧] ウィンドウの [太陽] トグルを使用して、背景を明るくします。 
 2. [濃色] モードでメールを作成します。 リボンの [太陽] トグルを使用して、メッセージが明るい背景でどのように見えるかを確認します。 
 
-正常に表示されないメールが見つかった場合は、(添付ファイルとして) OutlookDarkModeFail に送信してください。
+正常に表示されないメールが見つかった場合は、(添付ファイルとして) OutlookDarkModeFail@service.microsoft.com に送信してください
 
 #### <a name="get-location-suggestions"></a>場所の候補を取得する
 
