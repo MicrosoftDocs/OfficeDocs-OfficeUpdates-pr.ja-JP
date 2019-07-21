@@ -1,35 +1,34 @@
 # Office 365 ProPlus
+## [リリース情報](release-notes-office365-proplus.md)
+## [セキュリティ更新プログラム](office365-proplus-security-updates.md)
 ## [更新の履歴 (日付順)](update-history-office365-proplus-by-date.md)
 ## [更新プログラムのサイズ](download-sizes-office365-proplus-updates.md)
 
-## [リリース ノート](release-notes-office365-proplus.md)
 
-### [セキュリティの更新](office365-proplus-security-updates.md)
-
-### 毎月のチャネル
-#### [2019](monthly-channel-2019.md)
-#### [2018](monthly-channel-2018.md)
-#### [2017](monthly-channel-2017.md)
-#### [2016](monthly-channel-2016.md)
+## 月次チャネル
+### [2019](monthly-channel-2019.md)
+### [2018](monthly-channel-2018.md)
+### [2017](monthly-channel-2017.md)
+### [2016](monthly-channel-2016.md)
 
 
-### 半期チャネル
-#### [2019](semi-annual-channel-2019.md)
-#### [2018](semi-annual-channel-2018.md)
-#### [2017](semi-annual-channel-2017.md)
-#### [2016](semi-annual-channel-2016.md)
+## 半期チャネル
+### [2019](semi-annual-channel-2019.md)
+### [2018](semi-annual-channel-2018.md)
+### [2017](semi-annual-channel-2017.md)
+### [2016](semi-annual-channel-2016.md)
 
-### 半期チャネル (対象指定)
-#### [2019](semi-annual-channel-targeted-2019.md)
-#### [2018](semi-annual-channel-targeted-2018.md)
-#### [2017](semi-annual-channel-targeted-2017.md)
-#### [2016](semi-annual-channel-targeted-2016.md)
+## 半期チャネル (対象指定)
+### [2019](semi-annual-channel-targeted-2019.md)
+### [2018](semi-annual-channel-targeted-2018.md)
+### [2017](semi-annual-channel-targeted-2017.md)
+### [2016](semi-annual-channel-targeted-2016.md)
 
 
-### Office Insider プログラム  
-#### [Insider チャネルの更新の履歴](update-history-office-insider.md)
-#### [月次チャネルの更新の履歴 (対象指定)](update-history-monthly-channel-targeted.md)
-####[リリース ノートの Insider チャネル](release-notes-office-insider.md)
+## Office Insider プログラム  
+### [Insider チャネルの更新の履歴](update-history-office-insider.md)
+### [月次チャネルの更新の履歴 (対象指定)](update-history-monthly-channel-targeted.md)
+###[リリース ノートの Insider チャネル](release-notes-office-insider.md)
 
 # Office for Mac
 ## [更新の履歴 (Office 365、2019)](update-history-office-for-mac.md)
