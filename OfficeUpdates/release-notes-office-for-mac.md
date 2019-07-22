@@ -3,19 +3,19 @@ title: Office for Mac のリリース ノート
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 6/28/2019
+ms.date: 7/17/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 サブスクライバー向け Office for Mac リリース用リリース ノートを IT プロフェッショナルに提供
-ms.openlocfilehash: 5ddf84e1bae91ad0a610859078e8523f5987b955
-ms.sourcegitcommit: e6c9f7c47fa3ef117b6b234d9ac17777102e89ad
+ms.openlocfilehash: 86905ca4df7f2fd35c69ea4ec996c4275cbe5b9c
+ms.sourcegitcommit: acb18b76345b4635d96c14bed1f0d9b0c219dc4f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35390975"
+ms.lasthandoff: 07/17/2019
+ms.locfileid: "35759457"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac のリリース ノート
 
@@ -37,6 +37,38 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 
   **注:** Microsoft AutoUpdate (MAU) のリリース情報は、「[MAU のリリース ノート](https://docs.microsoft.com/ja-JP/officeupdates/release-history-microsoft-autoupdate)」ページに移動されました。<br/>
 
+## <a name="july-16-2019-release"></a>2019 年 7 月 16 日リリース
+*バージョン 16.27 (ビルド 19071500)*
+
+
+### <a name="word-feature-updates"></a>Word: 機能の更新
+
+- さまざまなパフォーマンスの問題が修正されました。
+
+
+
+
+### <a name="excel-feature-updates"></a>Excel: 機能の更新
+
+- さまざまなパフォーマンスの問題が修正されました。
+
+
+### <a name="excel-security-updates"></a>Excel: セキュリティの更新
+
+- [CVE-2019-1110](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1110): Microsoft Excel のリモート コード実行の脆弱性
+- [CVE-2019-1111](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1111): Microsoft Excel のリモート コード実行の脆弱性
+### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新
+
+- さまざまなパフォーマンスの問題が修正されました。
+
+
+### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
+
+- **クラウド ファイルから添付ファイルを共有:** クラウド ファイルを電子メール メッセージに簡単に添付して、コラボレーションを強化します。<br/>
+
+### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム
+
+- [CVE-2019-1084](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1084): Microsoft Exchange の情報漏えいの脆弱性<br/><br/>
 ## <a name="june-11-2019-release"></a>2019 年 6 月 11 日リリース
 *バージョン 16.26 (ビルド 19060901)*
 
