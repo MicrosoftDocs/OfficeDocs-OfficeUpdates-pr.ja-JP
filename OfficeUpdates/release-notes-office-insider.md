@@ -3,19 +3,19 @@ title: Office Insider のリリース ノート
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 7/12/2019
+ms.date: 7/19/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 29b2cf8edb700db4b887c603570a43bc62ca7356
-ms.sourcegitcommit: 433c9f63b2b868767c23672ccc1845d2d90327aa
+ms.openlocfilehash: ae18351dbb8d37786892e622bcb6c86624dcbb23
+ms.sourcegitcommit: bc0fc6203e00628704639923db8de54affbe2005
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/12/2019
-ms.locfileid: "35643039"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35803164"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office Insider のリリース ノート
 
@@ -27,6 +27,50 @@ ms.locfileid: "35643039"
 
  > [!NOTE]
 > - Microsoft Teams に関連する既存の Office 365 ProPlus のインストール - 6 月の下旬から、これらの更新プログラムのインストール時に、Microsoft Teams が既存の Office 365 ProPlus (Office 365 Business) のインストールの中に含められます。 Teams が追加される日にちは、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)」を参照してください。
+
+## <a name="july-19-2019"></a>2019 年 7 月 19 日
+バージョン 1908 (ビルド 11911.20000)
+
+## <a name="whats-new"></a>新機能:
+
+### <a name="word"></a>Word
+
+#### <a name="learn-what-acronyms-mean-when-you-read-in-word-online"></a>Word Online の文書で使われている略語の意味を確認する
+
+略語があると、組織内のデータを使用して定義するよう試みます。
+
+#### <a name="coauthoring-improvements"></a>共同編集の改善
+
+コンテンツの変更を他のユーザーがリアルタイムに受信する可能性を高くすることにより、共同編集の操作性を改善しました。
+
+## <a name="notable-fixes"></a>主な修正:
+
+### <a name="word"></a>Word 
+- BookMarkEnd タグが欠けているという問題を修正しました。
+- ユーザーが特殊文字を入力しているときに、フォントの選択が変更される場合があるという問題を修正しました
+- 新しいコメント カードに空白の返信が発生することがあるという問題を修正しました
+- メールを共有すると、書式設定が失われる場合があるという問題を修正しました
+
+### <a name="excel"></a>Excel
+- 範囲の広い配列がクラッシュすることがあるという問題を修正しました
+- フィルター処理された範囲からデータをコピーする場合のパフォーマンスを大幅に向上しました
+- ファイル名に特殊文字が含まれていると、一部のファイルを開くことができないという問題を修正しました
+
+### <a name="powerpoint"></a>PowerPoint
+- PowerPoint で新しく作成したセクションのセクション名が既定で選択されていないという問題を修正しました。
+- 4:3 ディスプレイを使用すると、UI の使用が困難になることがあるという問題を修正しました
+
+### <a name="outlook"></a>Outlook
+- 利用可能な会議室がリストに表示されないという問題を修正しました
+- 一部の POP3 ユーザーの HTML 形式を設定できないという問題を修正しました
+
+### <a name="access"></a>Access
+- パフォーマンスと安定性のさまざまな問題を修正
+
+### <a name="project"></a>Project
+- パフォーマンスと安定性のさまざまな問題を修正
+
+</BR></BR>
 
 ## <a name="july-12-2019"></a>2019 年 7 月 12 日
 バージョン 1907 (ビルド 11901.20038)
