@@ -1,5 +1,5 @@
+# [リリース情報](release-notes-office365-proplus.md)
 # Office 365 ProPlus
-## [リリース情報](release-notes-office365-proplus.md)
 ## [セキュリティ更新プログラム](office365-proplus-security-updates.md)
 ## [更新の履歴 (日付順)](update-history-office365-proplus-by-date.md)
 ## [更新プログラムのサイズ](download-sizes-office365-proplus-updates.md)
