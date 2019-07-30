@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 0aaff25b48109f843c6eccbaf650da4006e83f1d
-ms.sourcegitcommit: 3583f7d48360ffc79d0d26b1b2385fec0d99be14
+ms.openlocfilehash: 1677b097fd249eec67dee4600adcb212b26999b8
+ms.sourcegitcommit: b4644c48a3fb2106d9e4939e6b1b210b9be027e5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35601516"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35931167"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年の毎月のチャネル リリースのリリース ノート
 
@@ -27,6 +27,51 @@ ms.locfileid: "35601516"
 
  > [!NOTE]
 > - Microsoft Teams の Office 365 ProPlus の既存のインストールについて: Microsoft Teams は 6 月の上旬から、Office 365 ProPlus (および Office 365 Business) の既存のインストールが更新をするさいにこれらのインストールに含まれます。 Teams が追加される日にちは、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)」を参照してください。
+
+## <a name="version-1907-july-29"></a>バージョン 1907 (7 月 29 日)
+*バージョン 1907 (ビルド 11901.20176)*
+* さまざまなバグとパフォーマンスの修正。
+
+### <a name="excel-feature-updates"></a>Excel: 機能の更新
+
+- **ブラウザーへのバウンスは不要:** ブラウザーまたはアプリで Office ドキュメントへのリンクを開く方法を決定することができます。
+
+- **Power Query の機能強化を使用して素早くコーディングする:** オートコンプリートおよび構文の色分けによって素早くコーディングを完了できます。 関数、列、パラメーターも簡単に見つけることができます。 
+  [詳細情報](https://support.office.com/ja-JP/article/66eef01e-0fd5-4d26-ab2b-e08378f74ac5)
+
+- **マップ グラフを作成する:** この機能は、Excel の地理データ型を使用して、塗り分けされたマップ グラフにプロットするユーザーのための機能強化です。 エンドユーザーにとっては、機能とエンドユーザーがマップする領域の精度向上とがより高度に統合されたことが利点です。 さらに、ポリゴンで都市をマッピングする機能も含まれてます。 
+  [詳細情報](https://support.office.com/ja-JP/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+- **類似列のテーブルを結合する:** 取得と変換 (Power Query) では、テーブルを統合するために列を比較するときに、近似文字列マッチング ロジック (あいまい一致とも呼ばれる) が使用できるようになりました。 
+  [詳細情報](https://support.office.com/ja-JP/article/ffdd5082-c0c8-4c8e-a794-bd3962b90649)
+
+### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
+
+- **あなたが人を検索するときに電子メールの提案を得ます:** [検索]ボックスにその人の名前を入力すると、最も関連性の高い電子メールメッセージが検索結果に含まれます。 
+  [詳細情報](https://support.office.com/ja-JP/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新
+
+- **ブラウザーへのバウンスは不要:** ブラウザーまたはアプリで Office ドキュメントへのリンクを開く方法を決定することができます。
+
+- **オンライン ビデオの新しい保存場所:** Microsoft Stream にビデオを保存すれば、組織内のすべてのユーザーが視聴できます。 ビデオのリンクを挿入すれば、小さなファイル サイズでマルチメディア プレゼンテーションをご利用いただけます。 
+  [詳細情報](https://support.office.com/ja-JP/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+
+- **マップ グラフを作成する:** この機能は、Excel の地理データ型を使用して、塗り分けされたマップ グラフにプロットするユーザーのための機能強化です。 エンドユーザーにとっては、機能とエンドユーザーがマップする領域の精度向上とがより高度に統合されたことが利点です。 さらに、ポリゴンで都市をマッピングする機能も含まれてます。 
+  [詳細情報](https://support.office.com/ja-JP/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+### <a name="word-feature-updates"></a>Word: 機能の更新
+
+- **作業の邪魔をするものにさよならしましょう:** Mac のお気に入りの機能が Windows にも登場します。 気を散らさずに作業に集中するには、[表示]メニューの[フォーカス]に切り替えます。 
+  [詳細情報](https://support.office.com/ja-JP/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
+
+- **ブラウザーへのバウンスは不要:** ブラウザーまたはアプリで Office ドキュメントへのリンクを開く方法を決定することができます。
+
+- **マップ グラフを作成する:** この機能は、Excel の地理データ型を使用して、塗り分けされたマップ グラフにプロットするユーザーのための機能強化です。 エンドユーザーにとっては、機能とエンドユーザーがマップする領域の精度向上とがより高度に統合されたことが利点です。 さらに、ポリゴンで都市をマッピングする機能も含まれてます。 
+  [詳細情報](https://support.office.com/ja-JP/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+- **精度による消去:** 手描き入力の小さな不備を修正するのに、2 つのサイズの消しゴムから選択できます。 
+  [詳細情報](https://support.office.com/ja-JP/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 ## <a name="version-1906-july-09"></a>バージョン 1906: 7 月 9 日
 *バージョン 1906 (ビルド 11727.20244)*

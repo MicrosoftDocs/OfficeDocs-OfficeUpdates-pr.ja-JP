@@ -3,19 +3,19 @@ title: Office Insider のリリース ノート
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 7/19/2019
+ms.date: 7/26/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: ae18351dbb8d37786892e622bcb6c86624dcbb23
-ms.sourcegitcommit: bc0fc6203e00628704639923db8de54affbe2005
+ms.openlocfilehash: cc2966f80bdedb937de10ba909a4e60ba6169617
+ms.sourcegitcommit: da76d85450dc1743e839d4874d2e90af1b729391
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35803164"
+ms.lasthandoff: 07/26/2019
+ms.locfileid: "35916970"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office Insider のリリース ノート
 
@@ -27,6 +27,44 @@ ms.locfileid: "35803164"
 
  > [!NOTE]
 > - Microsoft Teams に関連する既存の Office 365 ProPlus のインストール - 6 月の下旬から、これらの更新プログラムのインストール時に、Microsoft Teams が既存の Office 365 ProPlus (Office 365 Business) のインストールの中に含められます。 Teams が追加される日にちは、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)」を参照してください。
+
+## <a name="july-26-2019"></a>2019 年 7 月 26 日
+バージョン 1908 (ビルド 11916.20000)
+
+## <a name="whats-new"></a>新機能:
+
+### <a name="word-excel-powerpoint"></a>Word、Excel、PowerPoint
+
+#### <a name="create-more-accessible-pdfs"></a>よりアクセシビリティの高い PDF ファイルを作成する
+
+PDF を作成すると、アクセシビリティ チェックが、保存する前に修正するアクセシビリティの問題を指摘します。
+
+## <a name="notable-fixes"></a>主な修正:
+
+### <a name="all"></a>すべて
+
+- Office の更新後に、Office のファイルの種類の関連付けとアイコンが破損する可能性がある問題を修正しました
+
+### <a name="word"></a>Word 
+- パフォーマンスと安定性のさまざまな問題を修正
+
+### <a name="excel"></a>Excel
+- グラフを移動するとクラッシュする場合がある問題を修正しました
+- グラフの種類を変更した後にグラフ オブジェクトからブック オブジェクトを取得するとエラーが発生することがある問題を修正しました
+
+### <a name="powerpoint"></a>PowerPoint
+- パフォーマンスと安定性のさまざまな問題を修正
+
+### <a name="outlook"></a>Outlook
+- シンプル リボンで、無効にしてあるコントロールが淡色表示されないことがある問題を修正しました
+
+### <a name="access"></a>Access
+- パフォーマンスと安定性のさまざまな問題を修正
+
+### <a name="project"></a>Project
+- パフォーマンスと安定性のさまざまな問題を修正
+
+</BR></BR>
 
 ## <a name="july-19-2019"></a>2019 年 7 月 19 日
 バージョン 1908 (ビルド 11911.20000)
