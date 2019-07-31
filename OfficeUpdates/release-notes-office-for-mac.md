@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 サブスクライバー向け Office for Mac リリース用リリース ノートを IT プロフェッショナルに提供
-ms.openlocfilehash: 86905ca4df7f2fd35c69ea4ec996c4275cbe5b9c
-ms.sourcegitcommit: acb18b76345b4635d96c14bed1f0d9b0c219dc4f
+ms.openlocfilehash: 04bd800cf823e9c3ad9400da0a004cca7bb19dad
+ms.sourcegitcommit: e3ff8b5b96149cb4bf5e011a11bddb57a9d760f9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2019
-ms.locfileid: "35759457"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35937625"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac のリリース ノート
 
@@ -65,7 +65,7 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 ### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
 
 - **クラウド ファイルから添付ファイルを共有:** クラウド ファイルを電子メール メッセージに簡単に添付して、コラボレーションを強化します。<br/>
-
+- **閲覧ウィンドウでダーク モードのサポート:** 受信する電子メールには、光りの少ない環境で容易に閲覧するための濃い背景色が加わりました。 macOS Mojave が必要です。 
 ### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム
 
 - [CVE-2019-1084](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1084): Microsoft Exchange の情報漏えいの脆弱性<br/><br/>
