@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル (対象指定) リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 715250022d6bf9172f4e1c47d1437099a63b1ff1
-ms.sourcegitcommit: eea73f35ff3045e556ae603f9c6e18fa4fed6158
+ms.openlocfilehash: c310abe1ae582684e7e59ffbd3b15939fbcc2039
+ms.sourcegitcommit: 03e9e308f4791aeebda4ad284591e8ddb973f56c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/10/2019
-ms.locfileid: "35607361"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36054809"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年の半期チャネル (対象指定) リリースのリリース ノート
 
@@ -190,6 +190,7 @@ ms.locfileid: "35607361"
 - **画像の背後を見えるようにする:** ワークシートに画像を挿入し、既定の設定から選択して、透明度の変化を確認するだけです。[詳細情報](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
 - **データの取得と変換をご利用の皆様:** データの取得と変換をよく利用していただいているユーザーの皆様に、サンプルからの列の機能が改善されたことをお知らせします。 また、多くのコネクタも強化されました。 [詳細情報](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
 - **改善された高解像度ディスプレイのサポート:** 複数のモニター、またはドッキングでラップトップを使用する場合、各ディスプレイの倍率設定が異なっていても Office アプリがすべてのディスプレイで鮮明に表示されるようになります。 [詳細情報](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
+- **迅速な検索:** VLOOKUP、HLOOKUP、および MATCH の計算が高速化されたので、より迅速に回答を得られるようになりました。 [詳細情報](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
 
 ### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
 
