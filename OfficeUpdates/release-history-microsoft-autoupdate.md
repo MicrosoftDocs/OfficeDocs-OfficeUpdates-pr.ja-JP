@@ -3,19 +3,19 @@ title: Microsoft AutoUpdate (MAU) のリリース履歴
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/19/2019
+ms.date: 7/31/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT プロフェッショナルに、Microsoft AutoUpdate (MAU) のリリース履歴を提供します
-ms.openlocfilehash: ff8d4ef4bf8082a1c1d40dbf7c850f29c6689f20
-ms.sourcegitcommit: bdc3b17bf45b9ce2decbcfe752b1a1bf1efdbe9b
+ms.openlocfilehash: 4dc2287a284ab4dd41113c87f16ed1f0cada682a
+ms.sourcegitcommit: 17facf664b8e512d51a2059fdfeea2693b4294cb
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35795543"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35936348"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) のリリース履歴
  
@@ -40,7 +40,7 @@ ms.locfileid: "35795543"
  **機能の更新プログラム:**
 
 - MAU のプライバシーの変更: コンプライアンスの一環として、必要なデータ収集に関する通知がエンド ユーザーに表示されます。
-- MAU 更新期限: Mac 管理者は、Mac ユーザー全員に更新を適用するために、MAU 内で期限を設定できるようになりました。
+- MAU 更新期限: Mac 管理者は、Mac ユーザー全員に更新を適用するために、MAU 内で期限を設定できるようになりました。 [詳細情報](https://docs.microsoft.com/deployoffice/mac/mau-deadline)
 - さまざまなバグとパフォーマンスの修正。
 
 **MAU のリンクの更新:**
@@ -51,13 +51,92 @@ ms.locfileid: "35795543"
 
 9FDCEAFA05AB070531ECEE50E1E977839C1E2DE2312569F816C59F35DE162B08
 <br/><br/>
+## <a name="june-2019-release"></a>2019 年 6 月リリース
+
+**リリース日:** 2019 年 6 月 27 日
+
+*Microsoft Auto Update 4.12*
+
+ **機能の更新プログラム:**
+
+- すべてのアップデーター用の MAU アップデートを失敗させる Apple OS ベータ版の問題を修正しました。 
+
+**MAU のリンクの更新:**
+
+[Microsoft Auto Update 4.12 パッケージをダウンロードする](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.12.19062700_Updater.pkg)<br/>
+<br/>
+**SHA-256 ハッシュ:**
+
+85ce26ece89a256711f082e61b313c1ed6a22bfc402d4789a78a08022a96f6fa
+<br/><br/>
+
+**リリース日:** 2019 年 6 月 9 日
+
+*Microsoft Auto Update 4.12*
+
+ **機能の更新プログラム:**
+
+- バイナリ デルタの更新: SSD デバイスを使用している場合は、更新プログラムを小規模に展開することで、更新プログラムのための帯域幅消費を削減します。
+- アクセサリ用アプリのサポート: MAU で Microsoft OneDrive などのアクセサリ用アプリがサポートされるようになりました。
+- クローンの拡張機能: クローンの更新が、より堅牢で失敗知らずになりました。
+
+**MAU のリンクの更新:**
+
+[Microsoft Auto Update 4.12 パッケージをダウンロードする](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.12.19060901_Updater.pkg)<br/>
+<br/>
+**SHA-256 ハッシュ:**
+
+ABCC7D58DA7DB1B8B24B9B1BE6B1DB93BDC97AE487EFB615EC5695B9E1CC0FC9
+<br/><br/>
+
+
+## <a name="may-2019-release"></a>2019 年 5 月リリース
+
+**リリース日:** 2019 年 5 月 14 日
+
+*Microsoft Auto Update 4.11*
+
+ **機能の更新プログラム:**
+
+- MAU のプライバシーの変更: コンプライアンスの一環として、必要なデータ収集に関する通知がエンド ユーザーに表示されます。
+- MAU 更新期限: Mac 管理者は、Mac ユーザー全員に更新を適用するために、MAU 内で期限を設定できるようになりました。 [詳細情報](https://docs.microsoft.com/deployoffice/mac/mau-deadline)
+- さまざまなバグとパフォーマンスの修正。
+
+**MAU のリンクの更新:**
+
+[Microsoft Auto Update 4.11 パッケージをダウンロードする](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.11.19051201_Updater.pkg)<br/>
+<br/>
+**SHA-256 ハッシュ:**
+
+EE3403B79E536191E545E70708A99D3A33B384372F65C028490AFFB551CD1EE2
+<br/><br/>
+
+## <a name="april-2019-release"></a>2019年 4 月リリース
+
+**リリース日:** 2019 年 4 月 16日
+
+*Microsoft Auto Update 4.10*
+
+ **機能の更新プログラム:**
+
+- クローンでのインストール機能の強化: SSD デバイスでは、現在使用中のアプリのクローンでアップデートが展開されるため、アップデートによるアプリのダウンタイムが短縮されます。
+- インストールの最適化: アップデート プロセスで並列化されたクローンが使用されるため、アップデートによるアプリのダウンタイムが短縮されます。
+
+**MAU のリンクの更新:**
+
+[Microsoft Auto Update 4.10 パッケージをダウンロードする](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.10.19041401_Updater.pkg)<br/>
+<br/>
+**SHA-256 ハッシュ:**
+
+FF676870D5B3521202095810B85DEF36538B59E00AEA44A2ED0D7EA8B3B99D6C
+<br/><br/>
 
 ## <a name="release-history"></a>リリース履歴
 
 |**リリース日**|**バージョン**|**詳細情報**||
 |:-----|:-----|:-----|:-----|
 |2019 年 7 月 18 日 <br/>|4.13 <br/> |  <br/> ||
-|2019 年 6 月 11 日 <br/>|4.12 <br/> | <br/> ||
+|2019 年 6 月 27 日 <br/>2019 年 6 月 9 日|4.12 <br/> | <br/> ||
 |2019 年 5 月 14 日 <br/>|4.11 <br/> |  <br/> | <br/> |
 |2019 年 4 月 16 日 <br/>|4.10 <br/> |  <br/> |<br/> |
 |2019 年 3 月 14 日 <br/>|4.9.0 <br/> | [リリース ノート](release-notes-office-for-mac.md#march-2019-release) <br/> | <br/> |

@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 1677b097fd249eec67dee4600adcb212b26999b8
-ms.sourcegitcommit: b4644c48a3fb2106d9e4939e6b1b210b9be027e5
+ms.openlocfilehash: 38bf1f7662af29427878afd9e015f30bb9b6e554
+ms.sourcegitcommit: 4a43961fb9786e6f8b7cc25ee45beaf62665db83
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35931167"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36222965"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年の毎月のチャネル リリースのリリース ノート
 
@@ -36,8 +36,7 @@ ms.locfileid: "35931167"
 
 - **ブラウザーへのバウンスは不要:** ブラウザーまたはアプリで Office ドキュメントへのリンクを開く方法を決定することができます。
 
-- **Power Query の機能強化を使用して素早くコーディングする:** オートコンプリートおよび構文の色分けによって素早くコーディングを完了できます。 関数、列、パラメーターも簡単に見つけることができます。 
-  [詳細情報](https://support.office.com/ja-JP/article/66eef01e-0fd5-4d26-ab2b-e08378f74ac5)
+- **Power Query の機能強化を使用して素早くコーディングする:** オートコンプリートおよび構文の色分けによって素早くコーディングを完了できます。 関数、列、パラメーターも簡単に見つけることができます。
 
 - **マップ グラフを作成する:** この機能は、Excel の地理データ型を使用して、塗り分けされたマップ グラフにプロットするユーザーのための機能強化です。 エンドユーザーにとっては、機能とエンドユーザーがマップする領域の精度向上とがより高度に統合されたことが利点です。 さらに、ポリゴンで都市をマッピングする機能も含まれてます。 
   [詳細情報](https://support.office.com/ja-JP/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
@@ -262,11 +261,13 @@ ms.locfileid: "35931167"
 
 ### <a name="word-feature-updates"></a>Word: 機能の更新
 
-- **プロセス図を Word にエクスポート:** Word 文書に図形やメタデータなどのグラフ コンテンツを自動的に追加します。 その後に、文書をカスタマイズしてプロセスに関するガイドラインや操作マニュアルを作成できます。 [詳細情報](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
-
 - **色の変更履歴、コメントとリアルタイムの共同作業の同期:** 当社の製品での、コメント、変更履歴と共同作業者のカーソルが同じ色で表示されることについての修正箇所を確認しました。
 
 - **特定のファイルをすばやく見つける**: 最近作業を行ったファイルを探している場合は? [ファイル] > [ホーム ページ] タブの検索ボックスに入力するだけで、目的のファイルを見つけることができます。
+
+### <a name="visio-feature-updates"></a>Visio: 機能の更新
+
+- **プロセス図を Word にエクスポート:** Word 文書に図形やメタデータなどのグラフ コンテンツを自動的に追加します。 その後に、文書をカスタマイズしてプロセスに関するガイドラインや操作マニュアルを作成できます。 [詳細情報](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
 
 ### <a name="office-suite-feature-updates"></a>Office スイート: 機能の更新
 
@@ -274,10 +275,12 @@ ms.locfileid: "35931167"
 
 - **プライバシー制御**: 診断データおよび関連するエクスペリエンスに関する新しく更新されて改善された制御。 [詳細情報](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
 
-- **新しい Office アプリのアイコン:** Office のシンプルで強力、そしてインテリジェントなエクスペリエンスを反映するように、アプリのアイコンを再設計しました。
+### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
+
+- 件名が極端に小さくなる問題を修正しました。
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
-新時代の名前である「Reiwa」のひらがなと漢字をスペルミスまたは間違った文法として誤って識別していた問題を修正しました。
+- 新時代の名前である「Reiwa」のひらがなと漢字をスペルミスまたは間違った文法として誤って識別していた問題を修正しました。
 
 ## <a name="version-1903-april-23"></a>バージョン 1903: 4 月 23 日
 *バージョン 1903 (ビルド 11425.20244)*

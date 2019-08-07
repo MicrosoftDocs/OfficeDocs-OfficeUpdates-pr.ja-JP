@@ -3,31 +3,39 @@ title: Office 365 ProPlus の更新プログラムに関するリリース情報
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 1/8/2018
+ms.date: 7/23/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT プロフェッショナルに対して、最新リリースの Office 365 ProPlus の一覧をそれぞれの更新プログラム チャネルごとに、リリース ノートへのリンクと更新履歴を含めて提供します
-ms.openlocfilehash: 28fcd7169df09e40384b695083120f33856cfc4a
-ms.sourcegitcommit: 288bea365b4c0265fb9ff182b19ff4eb30b4c7d7
+ms.openlocfilehash: b100110d36b730901339c3db1d78edae64099612
+ms.sourcegitcommit: c8c625824fd574e9365f60afee5c816b5845a8db
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "34948783"
+ms.lasthandoff: 07/23/2019
+ms.locfileid: "35823956"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Office 365 ProPlus の更新プログラムに関するリリース情報
 
-> [!NOTE]
-> - 各更新プログラム チャネルのサポートされているバージョンを一覧表示にしている表は、[Office 365 ProPlus の更新履歴 (日付別の一覧)](update-history-office365-proplus-by-date.md)に移動しました。
 
+## <a name="security-updates-for-office-365-proplus-releases"></a>Office 365 ProPlus リリースのセキュリティ更新プログラム
+
+セキュリティ更新プログラムすべての一覧については、次の記事をご覧ください:
+ - [Office 365 ProPlus のセキュリティ更新プログラム](office365-proplus-security-updates.md)
 
 
 ## <a name="update-history-for-office-365-proplus-releases"></a>Office 365 ProPlus リリースの更新履歴
 
-リリースすべての一覧については、次の記事をご覧ください。
+各チャネルのリリースとサポートされるバージョンのすべての一覧については、次の記事をご覧ください:
  - [Office 365 ProPlus の更新履歴 (日付別の一覧)](update-history-office365-proplus-by-date.md)
+
+
+ ## <a name="update-sizes-for-office-365-proplus-releases"></a>Office 365 ProPlus リリースの更新サイズ
+
+更新サイズすべての一覧については、次の記事をご覧ください。
+ - [Office 365 ProPlus の更新プログラムのダウンロード サイズ](download-sizes-office365-proplus-updates.md)
 
 ## <a name="release-notes-for-office-365-proplus-releases"></a>Office 365 ProPlus リリースのリリース ノート
 
@@ -41,6 +49,7 @@ ms.locfileid: "34948783"
 Office for Mac の更新プログラム (Office 365 ProPlus が含まれる Office 365 サブスクリプション プランに付属) に関する情報については、次の記事をご覧ください。
  - [Office for Mac の更新履歴](update-history-office-for-mac.md)
  - [Office for Mac のリリース ノート](release-notes-office-for-mac.md)
+ - [MAU のリリース ノート](release-history-microsoft-autoupdate.md)
 
 
 ## <a name="related-topics"></a>関連項目

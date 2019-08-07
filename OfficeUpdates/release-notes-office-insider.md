@@ -3,19 +3,19 @@ title: Office Insider のリリース ノート
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 7/26/2019
+ms.date: 8/2/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: cc2966f80bdedb937de10ba909a4e60ba6169617
-ms.sourcegitcommit: da76d85450dc1743e839d4874d2e90af1b729391
+ms.openlocfilehash: 929d3747d64abb491787dec5cc32604230581614
+ms.sourcegitcommit: 58a9a2eb76f7cceda8f1a4ddd062512495f2f899
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/26/2019
-ms.locfileid: "35916970"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "36168332"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office Insider のリリース ノート
 
@@ -27,6 +27,97 @@ ms.locfileid: "35916970"
 
  > [!NOTE]
 > - Microsoft Teams に関連する既存の Office 365 ProPlus のインストール - 6 月の下旬から、これらの更新プログラムのインストール時に、Microsoft Teams が既存の Office 365 ProPlus (Office 365 Business) のインストールの中に含められます。 Teams が追加される日にちは、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)」を参照してください。
+
+[//]: # (削除禁止)
+
+
+## <a name="august-02-2019br"></a>**2019 年 8 月 2 日**<br/>
+バージョン 1908 (ビルド 11929.20002)<br/>
+
+### <a name="excel-feature-updates"></a>Excel 機能の更新
+
+- **ファイルを変換してアクセシビリティを向上させる**: ファイルを最新の形式にアップグレードすると、すべてのユーザがアクセスできるようになります。
+
+
+- **ドキュメントに機密ラベルを適用する:** ファイルとメールに機密ラベルを適用すると、ドキュメントは組織の情報保護ポリシーに準拠したものになります。
+
+
+### <a name="outlook-feature-updates"></a>Outlook 機能の更新
+
+- **ドキュメントに機密ラベルを適用する:** ファイルとメールに機密ラベルを適用すると、ドキュメントは組織の情報保護ポリシーに準拠したものになります。
+
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint 機能の更新
+
+- **ファイルを変換してアクセシビリティを向上させる**: ファイルを最新の形式にアップグレードすると、すべてのユーザがアクセスできるようになります。
+
+
+- **ドキュメントに機密ラベルを適用する:** ファイルとメールに機密ラベルを適用すると、ドキュメントは組織の情報保護ポリシーに準拠したものになります。
+
+
+### <a name="word-feature-updates"></a>Word 機能の更新
+
+- **ファイルを変換してアクセシビリティを向上させる**: ファイルを最新の形式にアップグレードすると、すべてのユーザがアクセスできるようになります。
+
+
+- **書き直しのお手伝い:** 別の言い方にしたいですか? [書き換え] を使用して、メッセージを伝えるためのさまざまな提案を確認します。
+
+
+- **ドキュメントに機密ラベルを適用する:** ファイルとメールに機密ラベルを適用すると、ドキュメントは組織の情報保護ポリシーに準拠したものになります。
+
+
+
+
+## <a name="non-security-updates"></a>セキュリティ以外の更新プログラム:
+
+### <a name="access"></a>Access
+- パフォーマンスと安定性のさまざまな問題を修正
+
+### <a name="excel"></a>Excel
+
+- <div><span>PDF に印刷するときに [&quot;すべてのラベルを繰り返す&quot;] が適用されているかのように表示されていた問題を修正しました</span></div>
+
+### <a name="office-suite"></a>Office スイート
+
+- <div><span>デスクトップからドキュメントを開けないことがある問題を修正しました</span></div>
+
+- <div><span>[&quot;別のインストールが進行中です&quot;] という誤ったエラー メッセージによりアップグレードに失敗することがある問題を修正しました</span></div>
+
+- <div><span>セキュリティ更新プログラムがインストールされるときに、エラー メッセージが表示されることがある問題を修正しました</span></div>
+
+- <div><span>カーソルが消えることがある問題を修正しました</span></div>
+
+- <div><span>既定で [ホーム] タブではなく [描画] タブが設定されていることがある問題を修正しました</span></div>
+
+- <div><span>大きなツリー ビューがクラッシュすることがある問題を修正しました</span></div>
+
+### <a name="outlook"></a>Outlook
+
+- <div></div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">パスワード入力画面が繰り返し表示されることがある問題を修正しました</span>
+
+- <div><span>メール アドレスが正しくクエリされないことがある問題を修正しました</span></div>
+
+- <div><span>以前のバージョンの Outlook で作成した予定表アイテムを開けないことがある問題を修正しました</span></div>
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>一部のアニメーションが開始されないことがある問題を修正しました</span></div>
+
+### <a name="project"></a>Project
+- パフォーマンスと安定性のさまざまな問題を修正
+
+### <a name="word"></a>Word
+
+- <div><span>コメントへの返信が順番に表示されないことがある問題を修正しました</span></div>
+
+- <div><span>状況によって、コメントの代わりにヒントが表示されることがある問題を修正しました</span></div>
+
+- <div><span>新しいコメントを追加しようとしたときに [変更履歴] ウィンドウが表示されることがある問題を修正しました</span></div>
+
+- <div><span>[元に戻す] ドロップダウン リストが表示されないことがある問題を修正しました</span></div>
+
+- <div><span>コメントを追加できないことがある問題を修正しました</span></div>
+
 
 ## <a name="july-26-2019"></a>2019 年 7 月 26 日
 バージョン 1908 (ビルド 11916.20000)
