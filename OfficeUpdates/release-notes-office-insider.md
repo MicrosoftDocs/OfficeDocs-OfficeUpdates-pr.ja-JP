@@ -10,12 +10,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 21bfa08b20bc7f809913cfb4ddf30da31ca58054
-ms.sourcegitcommit: 092ddd24dee36b99293d3d9231bef014cc21fbc1
+ms.openlocfilehash: c97fb384e093e8bbbc3e4e43b70de3b2cba773ee
+ms.sourcegitcommit: 03ffa84860ba8b6274641eedef588619ea389316
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231602"
+ms.lasthandoff: 08/10/2019
+ms.locfileid: "36285984"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office Insider のリリース ノート
 
@@ -29,6 +29,60 @@ ms.locfileid: "36231602"
 > - Microsoft Teams に関連する既存の Office 365 ProPlus のインストール - 6 月の下旬から、これらの更新プログラムのインストール時に、Microsoft Teams が既存の Office 365 ProPlus (Office 365 Business) のインストールの中に含められます。 Teams が追加される日にちは、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)」を参照してください。
 
 [//]: # (削除禁止)
+
+
+## <a name="august-09-2019br"></a>**2019 年 8 月 9 日**<br/>
+バージョン 1909 (ビルド 12001.20000)<br/>
+
+### <a name="excel-feature-updates"></a>Excel 機能の更新
+
+- **共同作業がさらに簡単に:** 共同編集の改善とは、条件付き書式、セルのスタイルなどを使用して作業しているときに、ユーザーによる変更がシームレスに共同作業者のそれらと統合されるということを意味します。
+
+
+- **検索して楽しむ:** 目的のアイコンを簡単に検索できるように、アイコンを挿入するための検索が追加されました。 選択しているときに、[挿入] ボタンではユーザーによって選択された数をお知らせします。
+
+
+### <a name="office-suite-feature-updates"></a>Office スイートの機能の更新
+
+- **新しい Office アプリのアイコン:** シンプルかつ高性能で、インテリジェントな Office のエクスペリエンスを反映するように、アプリのアイコンがリニューアルされました。
+
+
+### <a name="outlook-feature-updates"></a>Outlook 機能の更新
+
+- **攻撃に対する高度な保護:** Office 365 Advanced Threat Protection を用いると、メールの件名、添付メッセージ、署名されたメッセージ、ネットワーク パスなどの範囲内のハイパーリンクを利用した攻撃から保護されます。
+
+
+- **検索して楽しむ:** 目的のアイコンを簡単に検索できるように、アイコンを挿入するための検索が追加されました。 選択しているときに、[挿入] ボタンではユーザーによって選択された数をお知らせします。
+
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint 機能の更新
+
+- **検索して楽しむ:** 目的のアイコンを簡単に検索できるように、アイコンを挿入するための検索が追加されました。 選択しているときに、[挿入] ボタンではユーザーによって選択された数をお知らせします。
+
+
+### <a name="word-feature-updates"></a>Word 機能の更新
+
+- **他のユーザーがすばやく変更を確認する:** 共同編集の改善とは、これまでになく迅速に、共同作業者がユーザーによる変更を確認できることを意味します。
+
+
+- **検索して楽しむ:** 目的のアイコンを簡単に検索できるように、アイコンを挿入するための検索が追加されました。 選択しているときに、[挿入] ボタンではユーザーによって選択された数をお知らせします。
+
+
+
+
+## <a name="non-security-updates"></a>セキュリティ以外の更新プログラム:
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>会議がキャンセルされた後に、会議の受信者が 2 つの通知を受け取る原因となっていた問題が修正されました</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>図形とアイコンの [線なし]、[塗りつぶしなし] をユーザーが選択したときに、クラッシュを引き起こす問題が修正されました</span></div>
+
+
+
 
 
 ## <a name="august-02-2019br"></a>**2019 年 8 月 2 日**<br/>
@@ -166,11 +220,8 @@ PDF を作成すると、アクセシビリティ チェックが、保存する
 
 #### <a name="learn-what-acronyms-mean-when-you-read-in-word-online"></a>Word Online の文書で使われている略語の意味を確認する
 
-略語があると、組織内のデータを使用して定義するよう試みます。
+略語を見つけたら、組織内のデータを使用してそれを定義しようとします。
 
-#### <a name="coauthoring-improvements"></a>共同編集の改善
-
-コンテンツの変更を他のユーザーがリアルタイムに受信する可能性を高くすることにより、共同編集の操作性を改善しました。
 
 ## <a name="notable-fixes"></a>主な修正:
 
@@ -293,6 +344,12 @@ PowerPoint でインクの再生アニメーションを適用して、プレゼ
 
 ## <a name="whats-new"></a>新機能:
 
+### <a name="excel"></a>Excel
+
+- **Power Query の機能強化を使用して素早くコーディングする:** オートコンプリートと構文の色分けを使用して、素早くコーディングを完了します。 関数、列、パラメーターも簡単に見つけることができます
+
+- **類似列のテーブルを結合する:** 取得と変換 (Power Query) では、テーブルを統合するために列を比較するときに、近似文字列マッチング ロジック (あいまい一致とも呼ばれる) が使用できるようになりました。
+ 
 ### <a name="word-excel-powerpoint-and-visio"></a>Word、Excel、PowerPoint、Visio
 
 #### <a name="recommended-documents"></a>推奨されるドキュメント
@@ -771,6 +828,18 @@ OneDrive 同期クライアントを有効にして、Outlook デスクトップ
 ## <a name="april-26-2019"></a>2019 年 4 月 26 日
 バージョン 1905 (ビルド 11617.20002)
 
+## <a name="new-features"></a>新機能
+
+### <a name="excel"></a>Excel
+
+#### <a name="coauthoring-improvements"></a>共同編集の改善
+
+他のユーザーがリアルタイムでコンテンツの変更を受け取れるようにすることで、共同編集のエクスペリエンスを改善しました。
+
+### <a name="visio"></a>Visio
+
+- **Power BI から Visio ビジュアルをエクスポートする:** PDF、PowerPoint のファイルなどの Power BI レポートをエクスポートするときに、Power BI 用の Visio Visual が正しく表示されるようになりました。
+
 ## <a name="notable-fixes"></a>主な修正:
 
 ### <a name="word"></a>Word 
@@ -969,6 +1038,12 @@ Office では、アニメーションモデルをサポートするようにな�
 
 ## <a name="march-22-2019"></a>2019 年 3 月 22 日
 バージョン 1904 (ビルド 11514.20004)
+
+## <a name="new-features"></a>新機能
+
+- **プライバシー制御**: 診断データとコネクテッド エクスペリエンス用に新しく更新されて、改善された制御。 詳細 <https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json>
+
+- **新しい外観を備えた Office のアイコン:** シンプルかつ高性能で、インテリジェントな Office のエクスペリエンスを反映するように、Office のアイコンがリニューアルされました。
 
 ## <a name="notable-fixes"></a>主な修正:
 
