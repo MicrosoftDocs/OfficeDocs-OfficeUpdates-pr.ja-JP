@@ -3,19 +3,19 @@ title: Windows インストーラー (MSI) を使用しているバージョン�
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 07/03/2019
+ms.date: 08/07/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 永続的なバージョンの Office 2016、Office 2013、Office 2010 の最新のセキュリティ以外の更新プログラム情報へのリンクを IT 技術者に提供します
-ms.openlocfilehash: 7dd49883aa369c02b2a41972a48a8f256403b497
-ms.sourcegitcommit: 74ea0d0bc86d111be5cbe93a8f02aa69dbb40c90
+ms.openlocfilehash: 4109b10a199d09b2bcf4515d9f63f1107de71846
+ms.sourcegitcommit: 092ddd24dee36b99293d3d9231bef014cc21fbc1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "35430180"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36231592"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Windows インストーラー (MSI) を使用しているバージョンの Office の最新のセキュリティ以外の更新プログラム
 
@@ -24,8 +24,32 @@ ms.locfileid: "35430180"
 > [!NOTE]
 > - この記事の情報は、Windows インストーラー (MSI) のインストール テクノロジを使用する Office の永続バージョンについてのみ適用されます (例: Office Professional Plus 2016)。
 > - この記事の情報は、Office の Office 365 バージョン (Office 365 ProPlus など) には適用されません。
-> - Office の更新プログラムのインストールに関する詳細については、「[Office の更新プログラムをインストールする](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)」を参照してください。
+> - Office の更新プログラムをインストールする手順については、「[Office の更新プログラムをインストールする](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)」を参照してください。
 <br/><br/>
+
+## <a name="august-6-2019"></a>2019 年 8 月 6 日
+
+**Office 2016**<br/>
+Microsoft Excel 2016 の更新プログラム ([KB4475550](https://support.microsoft.com/help/4475550))<br/>
+Microsoft Office 2016 の更新プログラム ([KB4475516](https://support.microsoft.com/help/4475516))<br/>
+Microsoft Office 2016 の更新プログラム ([KB3114528](https://support.microsoft.com/help/3114528))<br/>
+Microsoft Office 2016 の更新プログラム ([KB4475542](https://support.microsoft.com/help/4475542))<br/>
+Microsoft Office 2016 の更新プログラム ([KB3141456](https://support.microsoft.com/help/3141456))<br/>
+Microsoft Office 2016 の更新プログラム ([KB4464588](https://support.microsoft.com/help/4464588))<br/>
+Microsoft Office 2016 の更新プログラム ([KB4032254](https://support.microsoft.com/help/4032254))<br/>
+Microsoft Office 2016 の更新プログラム ([KB4475551](https://support.microsoft.com/help/4475551))<br/>
+Microsoft Office 2016 の更新プログラム ([KB4464535](https://support.microsoft.com/help/4464535))<br/>
+Microsoft Office 2016 言語インターフェイス パックの更新プログラム ([KB4475541](https://support.microsoft.com/help/4475541))<br/>
+Microsoft OneNote 2016 の更新プログラム ([KB4092450](https://support.microsoft.com/help/4092450))<br/>
+Microsoft PowerPoint 2016 の更新プログラム ([KB4464577](https://support.microsoft.com/help/4464577))<br/>
+Microsoft Project 2016 の更新プログラム ([KB4475544](https://support.microsoft.com/help/4475544))<br/>
+Skype for Business 2016 の更新プログラム ([KB4475548](https://support.microsoft.com/help/4475548))<br/>
+
+**Office 2013**<br/>
+Microsoft Office 2013 の更新プログラム ([KB4475556](https://support.microsoft.com/help/4475556))<br/>
+Skype for Business 2015 の更新プログラム ([KB4475564](https://support.microsoft.com/help/4475564))<br/><br/>
+
+
 
 ## <a name="july-2-2019"></a>2019 年 7 月 2 日
 

@@ -10,12 +10,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 929d3747d64abb491787dec5cc32604230581614
-ms.sourcegitcommit: 58a9a2eb76f7cceda8f1a4ddd062512495f2f899
+ms.openlocfilehash: 21bfa08b20bc7f809913cfb4ddf30da31ca58054
+ms.sourcegitcommit: 092ddd24dee36b99293d3d9231bef014cc21fbc1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/02/2019
-ms.locfileid: "36168332"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36231602"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office Insider のリリース ノート
 
@@ -57,10 +57,10 @@ ms.locfileid: "36168332"
 
 ### <a name="word-feature-updates"></a>Word 機能の更新
 
-- **ファイルを変換してアクセシビリティを向上させる**: ファイルを最新の形式にアップグレードすると、すべてのユーザがアクセスできるようになります。
+- **ファイルを変換してアクセシビリティを向上させる:** ファイルを最新の形式にアップグレードすると、すべてのユーザがアクセスできるようになります。
 
 
-- **書き直しのお手伝い:** 別の言い方にしたいですか? [書き換え] を使用して、メッセージを伝えるためのさまざまな提案を確認します。
+- **別の言葉で伝える:** 別の言葉で伝えたいときに、[書き換え] でお助けします。 [書き換え] では、フレーズを洗練させるための別の言葉遣いを提供します。
 
 
 - **ドキュメントに機密ラベルを適用する:** ファイルとメールに機密ラベルを適用すると、ドキュメントは組織の情報保護ポリシーに準拠したものになります。
