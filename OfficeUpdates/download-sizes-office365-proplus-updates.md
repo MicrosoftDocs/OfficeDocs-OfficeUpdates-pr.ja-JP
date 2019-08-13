@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 各チャネルの Office 365 ProPlus の更新プログラムのダウンロード サイズの概算に関する情報を IT 技術者に提供します
-ms.openlocfilehash: f6a9080906c257e6a1cc426d69b77eb1e1a64203
-ms.sourcegitcommit: 4bcb4a9e319494a6d66a3234e1295b979d73ed0a
+ms.openlocfilehash: 5b5f4f92db3b767c557506bc755c5755bdd0f938
+ms.sourcegitcommit: b8462ca4bb2759e492f6dac4b1f9e9e32fa5aa0e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "36044999"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36210685"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 ProPlus の更新プログラムのダウンロード サイズ
 
@@ -32,6 +32,32 @@ ms.locfileid: "36044999"
 
 
 [//]: # (削除禁止)
+
+## <a name="august-6-2019"></a>2019 年 8 月 6 日
+
+[//]: # (予測コンテンツを削除しないでください。開始)
+
+### <a name="semi-annual-channel"></a>半期チャネル
+
+<i>予定されているリリースは、バージョン 1902 (ビルド 11328.20388) です。</i>
+
+|**アップグレード前のリリース **|**リリース日**|**ダウンロード サイズの概算 (MB)**|
+|:-----|:-----|:-----|
+|バージョン 1902 (ビルド 11328.20368) <br/> |2019 年 7 月 9 日 <br/> |61<br/> |
+|バージョン 1808 (ビルド 10730.20348) <br/> |2019 年 6 月 11 日 <br/> |307<br/> |
+
+
+### <a name="semi-annual-targeted-channel"></a>半期チャネル (対象指定)
+
+<i>予定されているリリースは、バージョン 1902 (ビルド 11328.20388) です。</i>
+
+|**アップグレード前のリリース **|**リリース日**|**ダウンロード サイズの概算 (MB)**|
+|:-----|:-----|:-----|
+|バージョン 1902 (ビルド 11328.20368) <br/> |2019 年 7 月 9 日 <br/> |61<br/> |
+|バージョン 1902 (ビルド 11328.20318) <br/> |2019 年 6 月 11 日 <br/> |73<br/> |
+
+
+[//]: # (予測コンテンツを削除しないでください。終了)
 
 ## <a name="july-29-2019"></a>2019 年 7 月 29 日
 

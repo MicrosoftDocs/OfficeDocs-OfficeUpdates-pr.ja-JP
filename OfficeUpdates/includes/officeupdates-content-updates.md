@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-july-01-2019"></a>2019年7月01日の週
-
-
-| 公開日 |トピックのタイトル | 変更 |
-|------|------------|--------|
-| 7/2/2019 | [Windows インストーラー (MSI) を使用しているバージョンの Office の最新のセキュリティ以外の更新プログラム](/OfficeUpdates/office-msi-non-security-updates) | 更新日時 |
-| 7/5/2019 | [Office Insider のリリース ノート](/OfficeUpdates/release-notes-office-insider) | 更新日時 |
-
-
 ## <a name="week-of-july-08-2019"></a>2019年7月8日の週
 
 
@@ -90,3 +81,17 @@
 | 8/1/2019 | [2019 年の半期チャネル リリースのリリース ノート](/OfficeUpdates/semi-annual-channel-2019) | 更新日時 |
 | 8/1/2019 | [2019 年の半期チャネル (対象指定) リリースのリリース ノート](/OfficeUpdates/semi-annual-channel-targeted-2019) | 更新日時 |
 | 8/2/2019 | [Office Insider のリリース ノート](/OfficeUpdates/release-notes-office-insider) | 更新日時 |
+
+
+## <a name="week-of-august-05-2019"></a>2019年8月5日の週
+
+
+| 公開日 |トピックのタイトル | 変更 |
+|------|------------|--------|
+| 8/5/2019 | [2019 年の毎月のチャネル リリースのリリース ノート](/OfficeUpdates/monthly-channel-2019) | 更新日時 |
+| 8/6/2019 | [Office Insider Channel の更新履歴](/OfficeUpdates/update-history-office-insider) | 更新日時 |
+| 8/6/2019 | [Office 365 ProPlus の更新プログラムのダウンロード サイズ](/OfficeUpdates/download-sizes-office365-proplus-updates) | 更新日時 |
+| 8/6/2019 | [2019 年の毎月のチャネル リリースのリリース ノート](/OfficeUpdates/monthly-channel-2019) | 更新日時 |
+| 8/6/2019 | [Windows インストーラー (MSI) を使用しているバージョンの Office の最新のセキュリティ以外の更新プログラム](/OfficeUpdates/office-msi-non-security-updates) | 更新日時 |
+| 8/7/2019 | [Office Insider のリリース ノート](/OfficeUpdates/release-notes-office-insider) | 更新日時 |
+| 8/9/2019 | [Office Insider のリリース ノート](/OfficeUpdates/release-notes-office-insider) | 更新日時 |
