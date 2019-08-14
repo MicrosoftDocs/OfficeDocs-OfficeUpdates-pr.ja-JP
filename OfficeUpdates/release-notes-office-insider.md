@@ -10,12 +10,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: c97fb384e093e8bbbc3e4e43b70de3b2cba773ee
-ms.sourcegitcommit: 03ffa84860ba8b6274641eedef588619ea389316
+ms.openlocfilehash: dc7b82e85b061d840aa4b780d22b7abfd63d9c23
+ms.sourcegitcommit: c74d193b1673075d4f0550bf37fa5f2fb9bd08c9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/10/2019
-ms.locfileid: "36285984"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36302486"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office Insider のリリース ノート
 
@@ -295,6 +295,10 @@ PowerPoint でインクの再生アニメーションを適用して、プレゼ
 #### <a name="sketchy-shapes"></a>Sketchy で描く!
 
 プレゼンテーションを作成中ですか。 まだ作業中であることを示す Sketchy スタイルを適用します。 これを使用すると、自由形式や手描きの図形に変えることなく、オブジェクトに個人的な感触を与えることができます。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **アクセスを容易にするため、[印刷] メニューに [配布資料にスライド番号を印刷する] を移動しました:** 配布資料が指定されているときに、[印刷] > [印刷レイアウト] ドロップダウンの順にクリックすると見つかります。 これにより、プレゼンテーションごとに簡単に設定を切り替えることもできます。 
 
 ## <a name="notable-fixes"></a>主な修正:
 
