@@ -3,19 +3,18 @@ title: Office Insider のリリース ノート
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 8/2/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: dc7b82e85b061d840aa4b780d22b7abfd63d9c23
-ms.sourcegitcommit: c74d193b1673075d4f0550bf37fa5f2fb9bd08c9
+ms.openlocfilehash: 4d9125fa3f1765da7012737359a28b1e2d1adf68
+ms.sourcegitcommit: 79b250d484e34750a64d28d0883c59d8c7aa0e5a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/13/2019
-ms.locfileid: "36302486"
+ms.locfileid: "36393222"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office Insider のリリース ノート
 
@@ -299,6 +298,7 @@ PowerPoint でインクの再生アニメーションを適用して、プレゼ
 ### <a name="powerpoint"></a>PowerPoint
 
 - **アクセスを容易にするため、[印刷] メニューに [配布資料にスライド番号を印刷する] を移動しました:** 配布資料が指定されているときに、[印刷] > [印刷レイアウト] ドロップダウンの順にクリックすると見つかります。 これにより、プレゼンテーションごとに簡単に設定を切り替えることもできます。 
+  [詳細情報](https://support.office.com/ja-JP/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
 ## <a name="notable-fixes"></a>主な修正:
 
