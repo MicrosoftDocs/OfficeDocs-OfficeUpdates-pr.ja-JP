@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 38bf1f7662af29427878afd9e015f30bb9b6e554
-ms.sourcegitcommit: 4a43961fb9786e6f8b7cc25ee45beaf62665db83
+ms.openlocfilehash: 6369209a28bebce07241d12a798dbf47a9a54183
+ms.sourcegitcommit: c74d193b1673075d4f0550bf37fa5f2fb9bd08c9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36222965"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36302476"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年の毎月のチャネル リリースのリリース ノート
 
@@ -58,6 +58,8 @@ ms.locfileid: "36222965"
 
 - **マップ グラフを作成する:** この機能は、Excel の地理データ型を使用して、塗り分けされたマップ グラフにプロットするユーザーのための機能強化です。 エンドユーザーにとっては、機能とエンドユーザーがマップする領域の精度向上とがより高度に統合されたことが利点です。 さらに、ポリゴンで都市をマッピングする機能も含まれてます。 
   [詳細情報](https://support.office.com/ja-JP/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+- **アクセスを容易にするため、[印刷] メニューに [配布資料にスライド番号を印刷する] を移動しました:** 配布資料を指定したら、[印刷]、[印刷レイアウト] ドロップダウンの順にクリックすれば見つかります。 おまけに、これでプレゼンテーションごとに簡単に設定を切り替えられます。 
 
 ### <a name="word-feature-updates"></a>Word: 機能の更新
 
@@ -312,6 +314,7 @@ ms.locfileid: "36222965"
 
 - **Excel のインサイト:** インサイトには、ユーザーの範囲に値が用意されています。 インサイトは、データ分析にソフトなアプローチを提供し、データに他からの違う視点を提供します。 [詳細情報](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
+
 - **コンテンツのリーチを拡大:** アクセシビリティの高いスプレッドシートを作成する必要がありますか? アクセシビリティ チェックを使用すると、アクセシビリティの問題を自動的に監視できます。 [校閲] > [アクセシビリティ チェック] をクリックすると、何か問題が見つかった場合に、ステータス バーに通知が表示されます。
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新
@@ -321,6 +324,10 @@ ms.locfileid: "36222965"
 - **コンテンツのリーチを拡大:** アクセシビリティの高いプレゼンテーションを作成する必要がありますか? アクセシビリティ チェックを使用すると、アクセシビリティの問題を自動的に監視できます。 [校閲]>[アクセシビリティ チェック] をクリックすると、何か問題が見つかった場合に、ステータス バーに通知が表示されます。
 
 - **再利用できる場合、新たに作成し直しますか?**  作成した、または他のユーザーと共有しているスライドを再利用して時間を節約します。
+
+### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
+
+- Excel では、ユーザーが変更を取得するためにブックを再び開くよう要求される結果となるマージ競合の問題が修正されました。
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: セキュリティ以外の更新プログラム
 
