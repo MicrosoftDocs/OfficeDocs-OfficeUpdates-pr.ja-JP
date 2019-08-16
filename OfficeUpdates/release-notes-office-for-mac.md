@@ -3,19 +3,19 @@ title: Office for Mac のリリース ノート
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 7/17/2019
+ms.date: 8/14/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 サブスクライバー向け Office for Mac リリース用リリース ノートを IT プロフェッショナルに提供
-ms.openlocfilehash: 04bd800cf823e9c3ad9400da0a004cca7bb19dad
-ms.sourcegitcommit: e3ff8b5b96149cb4bf5e011a11bddb57a9d760f9
+ms.openlocfilehash: 3b2065e8c457507ce70415e346befaac06395b27
+ms.sourcegitcommit: ab7ce44030f562d10025ffd5de7555132b0f191c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35937625"
+ms.lasthandoff: 08/14/2019
+ms.locfileid: "36396601"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac のリリース ノート
 
@@ -36,6 +36,55 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 
 
   **注:** Microsoft AutoUpdate (MAU) のリリース情報は、「[MAU のリリース ノート](https://docs.microsoft.com/ja-JP/officeupdates/release-history-microsoft-autoupdate)」ページに移動されました。<br/>
+
+## <a name="august-13-2019-release"></a>2019 年 8 月 13 日リリース
+*バージョン 16.28 (ビルド 19081202)*
+
+
+### <a name="word-feature-updates"></a>Word: 機能の更新
+
+- **あらましを描く:** プレゼンテーション内の Office の図形にカジュアルな手描きの外観を与える。 [詳細情報](https://support.office.com/article/15967a38-117b-4e36-b588-253a8c464bf0)
+- **精度による消去:** 手描き入力の小さな不備を修正するのに、2 つのサイズの消しゴムから選択できます。 [詳細情報](https://support.office.com/article/6D76C674-7F4B-414D-B67F-B3FFEF6CCF53)
+- **改善されたマップ グラフ:** マップ グラフを Excel の地理のデータの種類と統合することにより、マップ グラフを改善しました。これにより、マップされた場所に関する豊富な情報を明らかにすることができます。 [詳細情報](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+### <a name="word-security-updates"></a>Word: セキュリティ更新プログラム
+
+- [CVE-2019-1201](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1201): Microsoft Word のリモート コード実行の脆弱性
+- [CVE-2019-1205](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1205): Microsoft Word のリモート コード実行の脆弱性
+
+
+
+
+### <a name="excel-feature-updates"></a>Excel: 機能の更新
+
+- **あらましを描く:** プレゼンテーション内の Office の図形にカジュアルな手描きの外観を与える。 [詳細情報](https://support.office.com/article/15967a38-117b-4e36-b588-253a8c464bf0)
+- **残っている作業に集中する:** [解決] を選択して、コメントを折りたたみ、開いているアイテムを目立たせます。
+- **改善されたマップ グラフ:** マップ グラフを Excel の地理のデータの種類と統合することにより、マップ グラフを改善しました。これにより、マップされた場所に関する豊富な情報を明らかにすることができます。 [詳細情報](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+
+
+
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新
+
+- **あらましを描く:** プレゼンテーション内の Office の図形にカジュアルな手描きの外観を与える。 [詳細情報](https://support.office.com/article/15967a38-117b-4e36-b588-253a8c464bf0)
+- **スライドショーの実行中ずっと持続する手描き入力:** プレゼンテーション中にスライドに描画すると、プレゼンテーションが終わるまでペンのアクティブな状態が維持されます。 インク注釈も保存します。 [詳細情報](https://support.office.com/article/80a78a11-cb5d-4dfc-a1ad-a26e877da770)
+- **改善されたマップ グラフ:** マップ グラフを Excel の地理のデータの種類と統合することにより、マップ グラフを改善しました。これにより、マップされた場所に関する豊富な情報を明らかにすることができます。 [詳細情報](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+
+
+
+### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
+
+- **クラウド ファイルから添付ファイルを共有:** クラウド ファイルを電子メール メッセージに簡単に添付して、コラボレーションを強化します。 [詳細情報](https://support.office.com/article/96490541-8b0c-462e-aacf-fd939c1f22f3)
+
+### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
+
+- [CVE-2019-1148](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1148): Microsoft Graphics コンポーネントの情報漏えいの脆弱性
+- [CVE-2019-1149](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1149): Microsoft グラフィックのリモート コード実行の脆弱性
+- [CVE-2019-1151](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1151): Microsoft グラフィックのリモート コード実行の脆弱性
+- [CVE-2019-1153](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1153): Microsoft Graphics コンポーネントの情報漏えいの脆弱性
+
 
 ## <a name="july-16-2019-release"></a>2019 年 7 月 16 日リリース
 *バージョン 16.27 (ビルド 19071500)*

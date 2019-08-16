@@ -3,19 +3,18 @@ title: 2019 年の毎月のチャネル リリースのリリース ノート
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 6/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 6369209a28bebce07241d12a798dbf47a9a54183
-ms.sourcegitcommit: c74d193b1673075d4f0550bf37fa5f2fb9bd08c9
+ms.openlocfilehash: 3743d7868707d6db002d622bdf7fb8c9a6dcea19
+ms.sourcegitcommit: 79b250d484e34750a64d28d0883c59d8c7aa0e5a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/13/2019
-ms.locfileid: "36302476"
+ms.locfileid: "36393212"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年の毎月のチャネル リリースのリリース ノート
 
@@ -28,7 +27,19 @@ ms.locfileid: "36302476"
  > [!NOTE]
 > - Microsoft Teams の Office 365 ProPlus の既存のインストールについて: Microsoft Teams は 6 月の上旬から、Office 365 ProPlus (および Office 365 Business) の既存のインストールが更新をするさいにこれらのインストールに含まれます。 Teams が追加される日にちは、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)」を参照してください。
 
-## <a name="version-1907-july-29"></a>バージョン 1907 (7 月 29 日)
+## <a name="version-1907-august-13"></a>バージョン 1907: 8 月 13 日
+*バージョン 1907 (ビルド 11901.20218)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+
+### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
+
+ - ピボットテーブルの並べ替え方法を変更し、他のユーザーとの共同編集セッション中にそれを更新する問題を修正しました。
+
+### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
+  - メールボックスを基本認証から最新認証にアップグレードしたユーザーが、Outlook プロファイルに関連付けられた正しくないアカウントで終了する問題を修正しました。
+
+## <a name="version-1907-july-29"></a>バージョン 1907: (7 月 29 日)
 *バージョン 1907 (ビルド 11901.20176)*
 * さまざまなバグとパフォーマンスの修正。
 
@@ -59,7 +70,8 @@ ms.locfileid: "36302476"
 - **マップ グラフを作成する:** この機能は、Excel の地理データ型を使用して、塗り分けされたマップ グラフにプロットするユーザーのための機能強化です。 エンドユーザーにとっては、機能とエンドユーザーがマップする領域の精度向上とがより高度に統合されたことが利点です。 さらに、ポリゴンで都市をマッピングする機能も含まれてます。 
   [詳細情報](https://support.office.com/ja-JP/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-- **アクセスを容易にするため、[印刷] メニューに [配布資料にスライド番号を印刷する] を移動しました:** 配布資料を指定したら、[印刷]、[印刷レイアウト] ドロップダウンの順にクリックすれば見つかります。 おまけに、これでプレゼンテーションごとに簡単に設定を切り替えられます。 
+- **アクセスを容易にするため、[印刷] メニューに [配布資料にスライド番号を印刷する] を移動しました:** 配布資料を指定したら、[印刷]、[印刷レイアウト] ドロップダウンの順にクリックすれば見つかります。 これにより、プレゼンテーションごとに簡単に設定を切り替えることもできます。 
+  [詳細情報](https://support.office.com/ja-JP/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
 ### <a name="word-feature-updates"></a>Word: 機能の更新
 

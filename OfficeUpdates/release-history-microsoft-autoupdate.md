@@ -3,19 +3,19 @@ title: Microsoft AutoUpdate (MAU) のリリース履歴
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/31/2019
+ms.date: 8/14/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT プロフェッショナルに、Microsoft AutoUpdate (MAU) のリリース履歴を提供します
-ms.openlocfilehash: 4dc2287a284ab4dd41113c87f16ed1f0cada682a
-ms.sourcegitcommit: 17facf664b8e512d51a2059fdfeea2693b4294cb
+ms.openlocfilehash: 6f9c5e78135b3311077445c6de6fb593b5796875
+ms.sourcegitcommit: ab7ce44030f562d10025ffd5de7555132b0f191c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35936348"
+ms.lasthandoff: 08/14/2019
+ms.locfileid: "36396591"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) のリリース履歴
  
@@ -31,6 +31,25 @@ ms.locfileid: "35936348"
 
 リリース ノートを確認するには、「[リリース ノート](release-notes-office-for-mac.md)」を参照してください。<br/><br/>
 
+## <a name="august-2019-release"></a>2019 年 8 月リリース
+
+**リリース日:** 2019 年 8 月 13 日
+
+*Microsoft Auto Update 4.14*
+
+ **機能の更新プログラム:**
+
+- ボイス オーバー翻訳の改善、パフォーマンスの更新、UI のさまざまな問題を修正しました。
+- トラブルシューティングのためのテレメトリと修正を追加しました。
+
+
+**MAU 更新プログラムのリンク:**
+
+[Microsoft Auto Update 4.14 パッケージをダウンロードする](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.14.19081202_Updater.pkg)<br/>
+<br/>
+**SHA-256 ハッシュ:**
+
+76FA706E9E5B717D333B7EFB5AB95FCF9EE3E571A7FF171CA25E77CA6E9EBD97
 ## <a name="july-2019-release"></a>2019 年 7 月リリース
 
 **リリース日:** 2019 年 7 月 18 日
