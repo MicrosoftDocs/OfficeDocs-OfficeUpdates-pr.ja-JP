@@ -30,6 +30,8 @@
 ### [月次チャネルの更新の履歴 (対象指定)](update-history-monthly-channel-targeted.md)
 ###[リリース ノートの Insider チャネル](release-notes-office-insider.md)
 
+## [ODT のリリース ノート](ODT-release-history.md)
+
 # Office for Mac
 ## [更新の履歴 (Office 365、2019)](update-history-office-for-mac.md)
 ## [リリース ノート (Office 365、2019)](release-notes-office-for-mac.md)
