@@ -9,23 +9,61 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 65c4e73c6696d1d7056a1b15397b7256c448660a
-ms.sourcegitcommit: 03e9e308f4791aeebda4ad284591e8ddb973f56c
+ms.openlocfilehash: 8dfdc0e4e21c037aba0adccc0e86b6c16b96872f
+ms.sourcegitcommit: 1b1bf8dde78540f7953f2faad614f3862c363921
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36054819"
+ms.lasthandoff: 08/21/2019
+ms.locfileid: "36488510"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019 年の半期チャネル リリースのリリース ノート
 
-これらのリリースノートには、Visio Pro for Office 365 および Project Online Desktop Client を含む、2019年の Office 365 ProPlus の半期チャネルの更新プログラムに含まれる新機能およびセキュリティ以外の更新に関する情報が記載されています。
+これらのリリースノートには、Visio Pro for Office 365、Project Online Desktop Client、および Office 365 Business を含む、2019 年の Office 365 ProPlus の半期チャネルの更新プログラムに含まれる新機能およびセキュリティ以外の更新に関する情報が記載されています。
 
 > [!NOTE]
-> - ここに記載されている情報は、Business Premium など一部の Office 365 プランに付属する Office のバージョンの、Office 365 Business にも該当します。
-
-> [!NOTE]
-> - Office 365 ProPlus の各更新チャネルに対するセキュリティ更新プログラムの情報については、個別の一覧が「[セキュリティ更新プログラム](office365-proplus-security-updates.md)」に記載されます。
+> - 多くの場合、機能 (場合によっては修正プログラムも) は、特定の期間にわたって半期チャネルにロールアウトされます。 ここで説明される内容がすぐに確認できなくても、間もなく利用できるようになります。 
+  [詳細情報](https://support.office.com/ja-JP/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - 半期チャネルのユーザーが Office ポータルから Office 365 をダウンロードして Windows 10 にインストールしたときに、既定では OneNote 2016 は含まれません。
+
+## <a name="version-1902-august-13"></a>バージョン 1902: 8 月 13 日
+*バージョン 1902 (ビルド 11328.20392)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+
+### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
+- テーブルのフィルター処理ありのスライサーとフィルター処理なしのスライサーの両方に、[フィルターのクリア] アイコンが表示される問題が修正されました。
+
+### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
+- ユーザーがメールボックスを基本認証から最新認証にアップグレードすると、関連付けられる先の正しくないアカウントで終了する問題が修正されました。
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: セキュリティ以外の更新プログラム
+- 他のユーザーとドキュメントの共同作業を行っている間に、アプリケーションが予期せず終了する可能性がある問題が修正されました。
+
+### <a name="word-non-security-updates"></a>Word: セキュリティ以外の更新プログラム
+- VBA のフィールド更新が遅かった問題が修正されました。
+- 一部の DOC ファイルを開くと、破損していると表示される問題が修正されました。
+- 他のユーザーとドキュメントの共同作業を行っている間に、アプリケーションが予期せず終了する可能性がある問題が修正されました。
+
+### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
+- 特定のシナリオで Office JavaScript ライブラリ の Setting API が機能しなくなる問題が修正されました ([詳細](https://support.microsoft.com/ja-JP/help/4475551/august-6-2019-update-for-office-2016-kb4475551))
+
+## <a name="version-1808-august-13"></a>バージョン 1808: 8 月 13 日
+*バージョン 1808 (ビルド 10730.20370)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+
+### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
+- 特定のシナリオで Office JavaScript ライブラリ の Setting API が機能しなくなる問題が修正されました ([詳細](https://support.microsoft.com/ja-JP/help/4475551/august-6-2019-update-for-office-2016-kb4475551))
+
+
+## <a name="version-1803-august-13"></a>バージョン 1803: 8 月 13 日
+*バージョン 1803 (ビルド 9126.2432)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+
+### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
+- 特定のシナリオで Office JavaScript ライブラリ の Setting API が機能しなくなる問題が修正されました ([詳細](https://support.microsoft.com/ja-JP/help/4475551/august-6-2019-update-for-office-2016-kb4475551))
+
 
 ## <a name="version-1902-july-09"></a>バージョン 1902: 7 月 9 日
 *バージョン 1902 (ビルド 11328.20368)*
