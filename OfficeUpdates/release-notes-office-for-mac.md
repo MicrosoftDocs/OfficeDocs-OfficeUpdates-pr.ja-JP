@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 サブスクライバー向け Office for Mac リリース用リリース ノートを IT プロフェッショナルに提供
-ms.openlocfilehash: 3b2065e8c457507ce70415e346befaac06395b27
-ms.sourcegitcommit: ab7ce44030f562d10025ffd5de7555132b0f191c
+ms.openlocfilehash: 2a7afe03d5c5ba0b99dad4844ae8c71b8abc9217
+ms.sourcegitcommit: 4880505c8bb9bf7692755ba54faa980a6bff94de
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/14/2019
-ms.locfileid: "36396601"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36567207"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac のリリース ノート
 
@@ -30,8 +30,7 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 > - Office Insider の場合は、[Insider Fast ビルドのリリース ノート](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a)を参照してください。
 > - 2018 年 9 月の 16.17 リリース以降、これらのリリース ノートは、Office 2019 for Mac にも該当します。これは、小売店またはボリューム ライセンス契約によって 1 回限りの購入で使用できる Office for Mac のバージョンです。ただし、リリース ノートに記載されている一部の機能は、Office 365 サブスクリプションがある場合にのみ使用できます。
 > - 16.16 以前のバージョンのリリース ノートは、Office 2016 for Mac にも該当します。これも、1 回限りの購入で使用できる Office for Mac のバージョンです。16.16 以前のバージョンは、Office 2016 for Mac のボリューム ライセンスでアクティブ化できます。Office 2016 for Mac のボリューム ライセンスでは、16.17 以降のバージョンをアクティブ化することはできません。9 月以降の Office 2016 for Mac リリースの詳細については、[Office 2016 for Mac のリリース ノート](release-notes-office-2016-mac.md)をご覧ください。
-> 
-> 
+> > 
 > - Microsoft では多くの場合、一定期間にわたって毎月のチャネル、機能 (および場合によっては修正プログラム) を展開します。これにより、幅広いユーザーに機能を公開する前にスムーズに動作するかどうかを確認することができます。したがって、下記のものが表示されない場合でも、心配する必要はなく、いずれは表示されます。[詳細情報](https://support.office.com/ja-JP/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 
@@ -39,7 +38,6 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 
 ## <a name="august-13-2019-release"></a>2019 年 8 月 13 日リリース
 *バージョン 16.28 (ビルド 19081202)*
-
 
 ### <a name="word-feature-updates"></a>Word: 機能の更新
 
@@ -52,18 +50,11 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 - [CVE-2019-1201](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1201): Microsoft Word のリモート コード実行の脆弱性
 - [CVE-2019-1205](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1205): Microsoft Word のリモート コード実行の脆弱性
 
-
-
-
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
 
 - **あらましを描く:** プレゼンテーション内の Office の図形にカジュアルな手描きの外観を与える。 [詳細情報](https://support.office.com/article/15967a38-117b-4e36-b588-253a8c464bf0)
 - **残っている作業に集中する:** [解決] を選択して、コメントを折りたたみ、開いているアイテムを目立たせます。
 - **改善されたマップ グラフ:** マップ グラフを Excel の地理のデータの種類と統合することにより、マップ グラフを改善しました。これにより、マップされた場所に関する豊富な情報を明らかにすることができます。 [詳細情報](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
-
-
-
-
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新
 
@@ -71,12 +62,12 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 - **スライドショーの実行中ずっと持続する手描き入力:** プレゼンテーション中にスライドに描画すると、プレゼンテーションが終わるまでペンのアクティブな状態が維持されます。 インク注釈も保存します。 [詳細情報](https://support.office.com/article/80a78a11-cb5d-4dfc-a1ad-a26e877da770)
 - **改善されたマップ グラフ:** マップ グラフを Excel の地理のデータの種類と統合することにより、マップ グラフを改善しました。これにより、マップされた場所に関する豊富な情報を明らかにすることができます。 [詳細情報](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-
-
-
 ### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
 
 - **クラウド ファイルから添付ファイルを共有:** クラウド ファイルを電子メール メッセージに簡単に添付して、コラボレーションを強化します。 [詳細情報](https://support.office.com/article/96490541-8b0c-462e-aacf-fd939c1f22f3)
+
+### <a name="office-suite-feature-updates"></a>Office スイート: 機能の更新
+- **プライバシー制御**: 診断データおよび関連するエクスペリエンスに関する新しく更新されて改善された制御。 [詳細情報](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
 
