@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 4d9125fa3f1765da7012737359a28b1e2d1adf68
-ms.sourcegitcommit: 79b250d484e34750a64d28d0883c59d8c7aa0e5a
+ms.openlocfilehash: f77370fab0937b4880738de0188b42db1d77dedc
+ms.sourcegitcommit: f84f754f105631e81585397a1795418ff26ea5d7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36393222"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36620526"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office Insider のリリース ノート
 
@@ -28,6 +28,122 @@ ms.locfileid: "36393222"
 > - Microsoft Teams に関連する既存の Office 365 ProPlus のインストール - 6 月の下旬から、これらの更新プログラムのインストール時に、Microsoft Teams が既存の Office 365 ProPlus (Office 365 Business) のインストールの中に含められます。 Teams が追加される日にちは、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)」を参照してください。
 
 [//]: # (削除禁止)
+
+
+## <a name="august-23-2019br"></a>**2019 年 8 月 23 日**<br/>
+バージョン 1909 (ビルド 12015.20004)<br/>
+
+
+
+## <a name="non-security-updates"></a>セキュリティ以外の更新プログラム:
+
+### <a name="excel"></a>Excel
+
+- <div><span>結合されたセルで列を削除するパフォーマンスが大幅に改善されました</span></div>
+
+
+### <a name="office-suite"></a>Office スイート
+
+- <div><span>一部の Unicode 文字がブラウザー上で表示されない問題を修正しました</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>WebDAV の場所にファイルを保存できないことがある問題を修正しました</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>ユーザーがあるコメントをクリックすると別のコメントが選択される問題を修正しました</span></div>
+
+
+
+
+
+## <a name="august-16-2019br"></a>**2019 年 8 月 16 日**<br/>
+バージョン 1909 (ビルド 12013.20000)<br/>
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint 機能の更新:
+
+- **配布資料にスライド番号を印刷する:** スライド番号は配布資料に自動的に含まれます。 それらをオンのままにするか、オフにするか、選択します。
+
+
+
+
+## <a name="non-security-updates"></a>セキュリティ以外の更新プログラム:
+
+### <a name="excel"></a>Excel
+
+- <div><span>自動保存が有効になることがある問題を修正しました</span></div>
+
+
+- <div>セルの高さが不正確に測定されることがある問題を修正しました</div>
+
+
+### <a name="office-suite"></a>Office スイート
+
+- <div><span>コメント機能のパフォーマンスを大幅に改善する問題を修正しました</span></div>
+
+
+- <div><span>検索中に方向キーを使用するとクラッシュすることがある問題を修正しました</span></div>
+
+
+- <div><span>@ 記号が特定の文字の後に配置された場合に @メンションを使用できないことがある問題を修正しました</span></div>
+
+
+- <div><span>@メンションを削除するとクラッシュすることがある問題を修正しました</span></div>
+
+
+- <div><span>コメント カードに絵文字が正しく表示されない問題を修正しました</span></div>
+
+
+- <div><span>アクティブ​​ クリップボード​​でクラッシュすることがある問題を修正しました</span></div>
+
+
+- <div><span>クイック アクセス ツール バーのボタンが機能しなくなることがある問題を修正しました</span></div>
+
+
+- <div><span>文書の書式設定プレビュー​​がバックグラウンドに切り替わらないことがある問題を修正しました</span></div>
+
+### <a name="onenote"></a>OneNote
+
+- Office テーマが黒に設定されている場合、セクションのドロップダウン リストにセクションの名前が空白で表示される問題を修正しました。
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>Outlook が繰り返しフォーカスを取得して失うことがある送信イベントに関する問題を修正しました</span></div>
+
+
+- <div><span>[フォルダーに返信を投稿] ショートカットが機能しない問題を修正しました</span></div>
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>共同作業の際に問題を引き起こすことがある保護ビューの問題を修正しました</span></div>
+
+
+- <div><span>コメント ウィンドウのタスクが適切に表示されないことがある問題を修正しました</span></div>
+
+
+- <div><span>新しいスライドを挿入するときにクラッシュすることがある問題を修正しました</span></div>
+
+
+### <a name="user-lifecycle"></a>ユーザーのライフサイクル
+
+- <div><span>サブスクリプション機能が消えることがある問題を修正しました</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>ハイパーリンクに特定の文字が含まれている場合、ハイパーリンクが壊れることがある問題を修正しました</span></div>
+
+
+- <div><span>画像のコメントを表示するときに画像のサイズが不適切になることがある問題を修正しました</span></div>
+
+
+- <div><span>箇条書きのドロップダウン メニューでクラッシュすることがある問題を修正しました</span></div>
+
+
+
 
 
 ## <a name="august-09-2019br"></a>**2019 年 8 月 9 日**<br/>
