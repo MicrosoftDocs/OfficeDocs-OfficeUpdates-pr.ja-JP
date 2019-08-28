@@ -9,139 +9,142 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Windows デスクトップ用の月次チャンネル Insider ファースト リリースの更新履歴を Insider の皆様に提供します。
-ms.openlocfilehash: 4522d5ef58a81a3cf6ff0072343572c8ddbb4cc8
-ms.sourcegitcommit: 0532571587f56b45f04f8fe8e19db01196182d9d
+ms.openlocfilehash: aa36eeaa6eb95cbbf0675f0f6852fc43bfedda87
+ms.sourcegitcommit: ba31adfbc9514f2c98d8420923696b1b77872621
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/19/2019
-ms.locfileid: "36464250"
+ms.lasthandoff: 08/26/2019
+ms.locfileid: "36631249"
 ---
-# <a name="update-history-for-office-insider-channel"></a><span data-ttu-id="24b1a-103">Office Insider チャンネル の更新履歴</span><span class="sxs-lookup"><span data-stu-id="24b1a-103">Update history for Office Insider Channel</span></span>
+# <a name="update-history-for-office-insider-channel"></a><span data-ttu-id="2a59e-103">Office Insider チャンネル の更新履歴</span><span class="sxs-lookup"><span data-stu-id="2a59e-103">Update history for Office Insider Channel</span></span>
 
-<span data-ttu-id="24b1a-p101">Insider の皆様。最新の更新プログラムがインストールされているかどうかを確認したり、最近の Insider ビルドの一覧を探したりしている場合は、この記事をご活用いただけます。Insider プログラムの詳細については、[こちら](https://insider.office.com/)をクリックしてください。</span><span class="sxs-lookup"><span data-stu-id="24b1a-p101">Hello, Insiders! If you're wondering whether you have the latest update installed or are looking for a list of recent Insider build, you're in the right place. Click [here](https://insider.office.com/) for more information on the Insiders Program.</span></span>
+<span data-ttu-id="2a59e-p101">Insider の皆様。最新の更新プログラムがインストールされているかどうかを確認したり、最近の Insider ビルドの一覧を探したりしている場合は、この記事をご活用いただけます。Insider プログラムの詳細については、[こちら](https://insider.office.com/)をクリックしてください。</span><span class="sxs-lookup"><span data-stu-id="2a59e-p101">Hello, Insiders! If you're wondering whether you have the latest update installed or are looking for a list of recent Insider build, you're in the right place. Click [here](https://insider.office.com/) for more information on the Insiders Program.</span></span>
 
 > [!NOTE]
-> - <span data-ttu-id="24b1a-107">こちらの更新履歴はリリースされたすべてのビルドを一覧表示します</span><span class="sxs-lookup"><span data-stu-id="24b1a-107">The Update History here lists all builds released</span></span>
-> - <span data-ttu-id="24b1a-108">リリース ノートは、更新される頻度は低く、複数のビルドの更新を発行済みリリース ノートのビルド番号までまとめたものである場合があります。</span><span class="sxs-lookup"><span data-stu-id="24b1a-108">Release notes are updated on a slower cadence and may be a compilation of updates for multiple builds up to the release notes published build number.</span></span>
+> - <span data-ttu-id="2a59e-107">こちらの更新履歴はリリースされたすべてのビルドを一覧表示します</span><span class="sxs-lookup"><span data-stu-id="2a59e-107">The Update History here lists all builds released</span></span>
+> - <span data-ttu-id="2a59e-108">リリース ノートは、更新される頻度は低く、複数のビルドの更新を発行済みリリース ノートのビルド番号までまとめたものである場合があります。</span><span class="sxs-lookup"><span data-stu-id="2a59e-108">Release notes are updated on a slower cadence and may be a compilation of updates for multiple builds up to the release notes published build number.</span></span>
 
 
 
-## <a name="office-insider-versions-and-builds"></a><span data-ttu-id="24b1a-109">Office Insider のバージョンとビルド</span><span class="sxs-lookup"><span data-stu-id="24b1a-109">Office Insider versions and builds</span></span>
+## <a name="office-insider-versions-and-builds"></a><span data-ttu-id="2a59e-109">Office Insider のバージョンとビルド</span><span class="sxs-lookup"><span data-stu-id="2a59e-109">Office Insider versions and builds</span></span>
 
-<span data-ttu-id="24b1a-p102">Insider レベルに登録している場合は、新機能や強化された機能が含まれた更新プログラムを頻繁に取得できます。次の一覧は、最新の Insider のバージョンとビルドの更新履歴を示し、**最も新しくリリースされたビルドを最初に示しています**。新しいビルドには、以前のビルドに含まれるすべての更新プログラムが含まれます。</span><span class="sxs-lookup"><span data-stu-id="24b1a-p102">If you're enrolled in the Insider level you get frequent updates with new features and improvements. The following list shows a history of recent Insider versions and builds, with **the most recently released build listed first**. New builds contain all the updates contained in previous builds.</span></span> 
+<span data-ttu-id="2a59e-p102">Insider レベルに登録している場合は、新機能や強化された機能が含まれた更新プログラムを頻繁に取得できます。次の一覧は、最新の Insider のバージョンとビルドの更新履歴を示し、**最も新しくリリースされたビルドを最初に示しています**。新しいビルドには、以前のビルドに含まれるすべての更新プログラムが含まれます。</span><span class="sxs-lookup"><span data-stu-id="2a59e-p102">If you're enrolled in the Insider level you get frequent updates with new features and improvements. The following list shows a history of recent Insider versions and builds, with **the most recently released build listed first**. New builds contain all the updates contained in previous builds.</span></span> 
 
-<span data-ttu-id="24b1a-113">リリース ノートを確認するには、「[Windows デスクトップ版 Office のリリース ノート](https://docs.microsoft.com/ja-JP/OfficeUpdates/release-notes-office-insider)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="24b1a-113">To find release notes, see [Insider release notes for Office for Windows desktop](https://docs.microsoft.com/en-us/OfficeUpdates/release-notes-office-insider).</span></span>
+<span data-ttu-id="2a59e-113">リリース ノートを確認するには、「[Windows デスクトップ版 Office のリリース ノート](https://docs.microsoft.com/ja-JP/OfficeUpdates/release-notes-office-insider)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="2a59e-113">To find release notes, see [Insider release notes for Office for Windows desktop](https://docs.microsoft.com/en-us/OfficeUpdates/release-notes-office-insider).</span></span>
 
 [//]: # (削除禁止)
 
-<span data-ttu-id="24b1a-115">**2019 年 8 月 19 日**</span><span class="sxs-lookup"><span data-stu-id="24b1a-115">**August 19, 2019**</span></span><br/>
-<span data-ttu-id="24b1a-116">バージョン 1909 (ビルド 12015.20004)</span><span class="sxs-lookup"><span data-stu-id="24b1a-116">Version 1909 (Build 12015.20004)</span></span><br/>
+<span data-ttu-id="2a59e-115">**2019 年 8 月 26 日**</span><span class="sxs-lookup"><span data-stu-id="2a59e-115">**August 26, 2019**</span></span><br/>
+<span data-ttu-id="2a59e-116">バージョン 1909 (ビルド 12022.20000)</span><span class="sxs-lookup"><span data-stu-id="2a59e-116">Version 1909 (Build 12022.20000)</span></span><br/>
 
-<span data-ttu-id="24b1a-117">**2019 年 8 月 15 日**</span><span class="sxs-lookup"><span data-stu-id="24b1a-117">**August 15, 2019**</span></span><br/>
-<span data-ttu-id="24b1a-118">バージョン 1909 (ビルド 12013.20000)</span><span class="sxs-lookup"><span data-stu-id="24b1a-118">Version 1909 (Build 12013.20000)</span></span><br/>
+<span data-ttu-id="2a59e-117">**2019 年 8 月 19 日**</span><span class="sxs-lookup"><span data-stu-id="2a59e-117">**August 19, 2019**</span></span><br/>
+<span data-ttu-id="2a59e-118">バージョン 1909 (ビルド 12015.20004)</span><span class="sxs-lookup"><span data-stu-id="2a59e-118">Version 1909 (Build 12015.20004)</span></span><br/>
 
-<span data-ttu-id="24b1a-119">**2019 年 8 月 13 日**</span><span class="sxs-lookup"><span data-stu-id="24b1a-119">**August 13, 2019**</span></span><br/>
-<span data-ttu-id="24b1a-120">バージョン 1909 (ビルド 12008.20000)</span><span class="sxs-lookup"><span data-stu-id="24b1a-120">Version 1909 (Build 12008.20000)</span></span><br/>
+<span data-ttu-id="2a59e-119">**2019 年 8 月 15 日**</span><span class="sxs-lookup"><span data-stu-id="2a59e-119">**August 15, 2019**</span></span><br/>
+<span data-ttu-id="2a59e-120">バージョン 1909 (ビルド 12013.20000)</span><span class="sxs-lookup"><span data-stu-id="2a59e-120">Version 1909 (Build 12013.20000)</span></span><br/>
 
-<span data-ttu-id="24b1a-121">**2019 年 8 月 5 日**</span><span class="sxs-lookup"><span data-stu-id="24b1a-121">**August 05, 2019**</span></span><br/>
-<span data-ttu-id="24b1a-122">バージョン 1909 (ビルド 12001.20000)</span><span class="sxs-lookup"><span data-stu-id="24b1a-122">Version 1909 (Build 12001.20000)</span></span><br/>
+<span data-ttu-id="2a59e-121">**2019 年 8 月 13 日**</span><span class="sxs-lookup"><span data-stu-id="2a59e-121">**August 13, 2019**</span></span><br/>
+<span data-ttu-id="2a59e-122">バージョン 1909 (ビルド 12008.20000)</span><span class="sxs-lookup"><span data-stu-id="2a59e-122">Version 1909 (Build 12008.20000)</span></span><br/>
 
-<span data-ttu-id="24b1a-123">**2019 年 7 月 31 日**</span><span class="sxs-lookup"><span data-stu-id="24b1a-123">**July 31, 2019**</span></span><br/>
-<span data-ttu-id="24b1a-124">バージョン 1908 (ビルド 11929.20002)</span><span class="sxs-lookup"><span data-stu-id="24b1a-124">Version 1908 (Build 11929.20002)</span></span><br/>
+<span data-ttu-id="2a59e-123">**2019 年 8 月 5 日**</span><span class="sxs-lookup"><span data-stu-id="2a59e-123">**August 05, 2019**</span></span><br/>
+<span data-ttu-id="2a59e-124">バージョン 1909 (ビルド 12001.20000)</span><span class="sxs-lookup"><span data-stu-id="2a59e-124">Version 1909 (Build 12001.20000)</span></span><br/>
 
-<span data-ttu-id="24b1a-125">**2019 年 7 月 29 日**</span><span class="sxs-lookup"><span data-stu-id="24b1a-125">**July 29, 2019**</span></span><br/>
-<span data-ttu-id="24b1a-126">バージョン 1908 (ビルド 11924.20004)</span><span class="sxs-lookup"><span data-stu-id="24b1a-126">Version 1908 (Build 11924.20004)</span></span><br/>
+<span data-ttu-id="2a59e-125">**2019 年 7 月 31 日**</span><span class="sxs-lookup"><span data-stu-id="2a59e-125">**July 31, 2019**</span></span><br/>
+<span data-ttu-id="2a59e-126">バージョン 1908 (ビルド 11929.20002)</span><span class="sxs-lookup"><span data-stu-id="2a59e-126">Version 1908 (Build 11929.20002)</span></span><br/>
 
-<span data-ttu-id="24b1a-127">**2019 年 7 月 22 日**</span><span class="sxs-lookup"><span data-stu-id="24b1a-127">**July 22, 2019**</span></span><br/>
-<span data-ttu-id="24b1a-128">バージョン 1908 (ビルド 11916.20000)</span><span class="sxs-lookup"><span data-stu-id="24b1a-128">Version 1908 (Build 11916.20000)</span></span><br/>
+<span data-ttu-id="2a59e-127">**2019 年 7 月 29 日**</span><span class="sxs-lookup"><span data-stu-id="2a59e-127">**July 29, 2019**</span></span><br/>
+<span data-ttu-id="2a59e-128">バージョン 1908 (ビルド 11924.20004)</span><span class="sxs-lookup"><span data-stu-id="2a59e-128">Version 1908 (Build 11924.20004)</span></span><br/>
 
-<span data-ttu-id="24b1a-129">**2019 年 7 月 15 日**</span><span class="sxs-lookup"><span data-stu-id="24b1a-129">**July 15, 2019**</span></span><br/>
-<span data-ttu-id="24b1a-130">バージョン 1908 (ビルド 11911.20000)</span><span class="sxs-lookup"><span data-stu-id="24b1a-130">Version 1908 (Build 11911.20000)</span></span><br/>
+<span data-ttu-id="2a59e-129">**2019 年 7 月 22 日**</span><span class="sxs-lookup"><span data-stu-id="2a59e-129">**July 22, 2019**</span></span><br/>
+<span data-ttu-id="2a59e-130">バージョン 1908 (ビルド 11916.20000)</span><span class="sxs-lookup"><span data-stu-id="2a59e-130">Version 1908 (Build 11916.20000)</span></span><br/>
 
-<span data-ttu-id="24b1a-131">**2019 年 7 月 9 日**</span><span class="sxs-lookup"><span data-stu-id="24b1a-131">**July 9, 2019**</span></span><br/>
-<span data-ttu-id="24b1a-132">バージョン 1907 (ビルド 11901.20038)</span><span class="sxs-lookup"><span data-stu-id="24b1a-132">Version 1907 (Build 11901.20038)</span></span><br/>
+<span data-ttu-id="2a59e-131">**2019 年 7 月 15 日**</span><span class="sxs-lookup"><span data-stu-id="2a59e-131">**July 15, 2019**</span></span><br/>
+<span data-ttu-id="2a59e-132">バージョン 1908 (ビルド 11911.20000)</span><span class="sxs-lookup"><span data-stu-id="2a59e-132">Version 1908 (Build 11911.20000)</span></span><br/>
 
-<span data-ttu-id="24b1a-133">**2019 年 7 月 3 日**</span><span class="sxs-lookup"><span data-stu-id="24b1a-133">**July 3, 2019**</span></span><br/>
-<span data-ttu-id="24b1a-134">バージョン 1907 (ビルド 11901.20018)</span><span class="sxs-lookup"><span data-stu-id="24b1a-134">Version 1907 (Build 11901.20018)</span></span><br/>
+<span data-ttu-id="2a59e-133">**2019 年 7 月 9 日**</span><span class="sxs-lookup"><span data-stu-id="2a59e-133">**July 9, 2019**</span></span><br/>
+<span data-ttu-id="2a59e-134">バージョン 1907 (ビルド 11901.20038)</span><span class="sxs-lookup"><span data-stu-id="2a59e-134">Version 1907 (Build 11901.20038)</span></span><br/>
 
-<span data-ttu-id="24b1a-135">**2019 年 7 月 1 日**</span><span class="sxs-lookup"><span data-stu-id="24b1a-135">**July 1, 2019**</span></span><br/>
-<span data-ttu-id="24b1a-136">バージョン 1907 (ビルド 11827.20002)</span><span class="sxs-lookup"><span data-stu-id="24b1a-136">Version 1907 (Build 11827.20002)</span></span><br/>
+<span data-ttu-id="2a59e-135">**2019 年 7 月 3 日**</span><span class="sxs-lookup"><span data-stu-id="2a59e-135">**July 3, 2019**</span></span><br/>
+<span data-ttu-id="2a59e-136">バージョン 1907 (ビルド 11901.20018)</span><span class="sxs-lookup"><span data-stu-id="2a59e-136">Version 1907 (Build 11901.20018)</span></span><br/>
 
-<span data-ttu-id="24b1a-137">**2019 年 6 月 24 日**</span><span class="sxs-lookup"><span data-stu-id="24b1a-137">**June 24, 2019**</span></span><br/>
-<span data-ttu-id="24b1a-138">バージョン 1907 (ビルド 11819.20002)</span><span class="sxs-lookup"><span data-stu-id="24b1a-138">Version 1907 (Build 11819.20002)</span></span><br/>
+<span data-ttu-id="2a59e-137">**2019 年 7 月 1 日**</span><span class="sxs-lookup"><span data-stu-id="2a59e-137">**July 1, 2019**</span></span><br/>
+<span data-ttu-id="2a59e-138">バージョン 1907 (ビルド 11827.20002)</span><span class="sxs-lookup"><span data-stu-id="2a59e-138">Version 1907 (Build 11827.20002)</span></span><br/>
 
-<span data-ttu-id="24b1a-139">**2019 年 6 月 19 日**</span><span class="sxs-lookup"><span data-stu-id="24b1a-139">**June 19, 2019**</span></span><br/>
-<span data-ttu-id="24b1a-140">バージョン 1907 (ビルド 11815.20002)</span><span class="sxs-lookup"><span data-stu-id="24b1a-140">Version 1907 (Build 11815.20002)</span></span><br/>
+<span data-ttu-id="2a59e-139">**2019 年 6 月 24 日**</span><span class="sxs-lookup"><span data-stu-id="2a59e-139">**June 24, 2019**</span></span><br/>
+<span data-ttu-id="2a59e-140">バージョン 1907 (ビルド 11819.20002)</span><span class="sxs-lookup"><span data-stu-id="2a59e-140">Version 1907 (Build 11819.20002)</span></span><br/>
 
-<span data-ttu-id="24b1a-141">**2019 年 6 月 11 日**</span><span class="sxs-lookup"><span data-stu-id="24b1a-141">**June 11, 2019**</span></span><br/>
-<span data-ttu-id="24b1a-142">バージョン 1907 (ビルド 11807.20000)</span><span class="sxs-lookup"><span data-stu-id="24b1a-142">Version 1907 (Build 11807.20000)</span></span><br/>
+<span data-ttu-id="2a59e-141">**2019 年 6 月 19 日**</span><span class="sxs-lookup"><span data-stu-id="2a59e-141">**June 19, 2019**</span></span><br/>
+<span data-ttu-id="2a59e-142">バージョン 1907 (ビルド 11815.20002)</span><span class="sxs-lookup"><span data-stu-id="2a59e-142">Version 1907 (Build 11815.20002)</span></span><br/>
 
-<span data-ttu-id="24b1a-143">**2019 年 6 月 4 日**</span><span class="sxs-lookup"><span data-stu-id="24b1a-143">**June 04, 2019**</span></span><br/>
-<span data-ttu-id="24b1a-144">バージョン 1906 (ビルド 11727.20064)</span><span class="sxs-lookup"><span data-stu-id="24b1a-144">Version 1906 (Build 11727.20064)</span></span><br/>
+<span data-ttu-id="2a59e-143">**2019 年 6 月 11 日**</span><span class="sxs-lookup"><span data-stu-id="2a59e-143">**June 11, 2019**</span></span><br/>
+<span data-ttu-id="2a59e-144">バージョン 1907 (ビルド 11807.20000)</span><span class="sxs-lookup"><span data-stu-id="2a59e-144">Version 1907 (Build 11807.20000)</span></span><br/>
 
-
-<span data-ttu-id="24b1a-145">**2019 年 5 月 29 日**</span><span class="sxs-lookup"><span data-stu-id="24b1a-145">**May 29, 2019**</span></span><br/>
-<span data-ttu-id="24b1a-146">バージョン 1906 (ビルド 11722.20008)</span><span class="sxs-lookup"><span data-stu-id="24b1a-146">Version 1906 (Build 11722.20008)</span></span><br/>
-
-<span data-ttu-id="24b1a-147">**2019 年 5 月 22 日**</span><span class="sxs-lookup"><span data-stu-id="24b1a-147">**May 22, 2019**</span></span><br/> <span data-ttu-id="24b1a-148">バージョン 1906 (ビルド 11715.20002)</span><span class="sxs-lookup"><span data-stu-id="24b1a-148">Version 1906 (Build 11715.20002)</span></span><br/> 
-
-<span data-ttu-id="24b1a-149">**2019 年 5 月 14 日**</span><span class="sxs-lookup"><span data-stu-id="24b1a-149">**May 14, 2019**</span></span><br/> <span data-ttu-id="24b1a-150">バージョン 1906 (ビルド 11708.20006)</span><span class="sxs-lookup"><span data-stu-id="24b1a-150">Version 1906 (Build 11708.20006)</span></span><br/>
-
-<span data-ttu-id="24b1a-151">**2019 年 5 月 6 日**</span><span class="sxs-lookup"><span data-stu-id="24b1a-151">**May 06, 2019**</span></span><br/>
-<span data-ttu-id="24b1a-152">バージョン 1906 (ビルド 11702.20000)</span><span class="sxs-lookup"><span data-stu-id="24b1a-152">Version 1906 (Build 11702.20000)</span></span><br/>
-
-<span data-ttu-id="24b1a-153">**2019 年 5 月 2日**</span><span class="sxs-lookup"><span data-stu-id="24b1a-153">**May 02, 2019**</span></span><br/>
-<span data-ttu-id="24b1a-154">バージョン 1905 (ビルド 11629.20008)</span><span class="sxs-lookup"><span data-stu-id="24b1a-154">Version 1905 (Build 11629.20008)</span></span><br/>
-
-<span data-ttu-id="24b1a-155">**2019 年 4 月 29 日**</span><span class="sxs-lookup"><span data-stu-id="24b1a-155">**April 29, 2019**</span></span><br/>
-<span data-ttu-id="24b1a-156">バージョン 1905 (ビルド 11624.20000)</span><span class="sxs-lookup"><span data-stu-id="24b1a-156">Version 1905 (Build 11624.20000)</span></span><br/>
-
-<span data-ttu-id="24b1a-157">**2019 年 4 月 23 日**</span><span class="sxs-lookup"><span data-stu-id="24b1a-157">**April 23, 2019**</span></span><br/> <span data-ttu-id="24b1a-158">バージョン 1905 (ビルド 11617.20002)</span><span class="sxs-lookup"><span data-stu-id="24b1a-158">Version 1905 (Build 11617.20002)</span></span><br/>
-
-<span data-ttu-id="24b1a-159">**2019 年 4 月 15 日**</span><span class="sxs-lookup"><span data-stu-id="24b1a-159">**April 15, 2019**</span></span><br/> <span data-ttu-id="24b1a-160">バージョン 1905 (ビルド 11609.20002)</span><span class="sxs-lookup"><span data-stu-id="24b1a-160">Version 1905 (Build 11609.20002)</span></span><br/>
-
-<span data-ttu-id="24b1a-161">**2019 年 4 月 7 日**</span><span class="sxs-lookup"><span data-stu-id="24b1a-161">**April 7, 2019**</span></span><br/> <span data-ttu-id="24b1a-162">バージョン 1904 (ビルド11601.20042)</span><span class="sxs-lookup"><span data-stu-id="24b1a-162">Version 1904 (Build 11601.20042)</span></span><br/>
-
-<span data-ttu-id="24b1a-163">**2019 年 3 月 18 日**</span><span class="sxs-lookup"><span data-stu-id="24b1a-163">**March 18, 2019**</span></span><br/> <span data-ttu-id="24b1a-164">バージョン 1904 (ビルド 11520.20004)</span><span class="sxs-lookup"><span data-stu-id="24b1a-164">Version 1904 (Build 11520.20004)</span></span><br/>
-
-<span data-ttu-id="24b1a-165">**2019 年 3 月 11 日**</span><span class="sxs-lookup"><span data-stu-id="24b1a-165">**March 11, 2019**</span></span><br/> <span data-ttu-id="24b1a-166">バージョン 1904 (ビルド 11504.20000)</span><span class="sxs-lookup"><span data-stu-id="24b1a-166">Version 1904 (Build 11504.20000)</span></span><br/>
-
-<span data-ttu-id="24b1a-167">**2019 年 3 月 1 日**</span><span class="sxs-lookup"><span data-stu-id="24b1a-167">**March 1, 2019**</span></span><br/> <span data-ttu-id="24b1a-168">バージョン 1903 (ビルド 11425.20036)</span><span class="sxs-lookup"><span data-stu-id="24b1a-168">Version 1903 (Build 11425.20036)</span></span><br/> 
-
-<span data-ttu-id="24b1a-169">**2019 年 2 月 25 日**</span><span class="sxs-lookup"><span data-stu-id="24b1a-169">**February 25, 2019**</span></span><br/> <span data-ttu-id="24b1a-170">バージョン 1903 (ビルド 11414.20014)</span><span class="sxs-lookup"><span data-stu-id="24b1a-170">Version 1903 (Build 11414.20014)</span></span><br/> 
-
-<span data-ttu-id="24b1a-171">**2019 年 2 月 12 日**</span><span class="sxs-lookup"><span data-stu-id="24b1a-171">**February 12, 2019**</span></span><br/> <span data-ttu-id="24b1a-172">バージョン 1903 (ビルド 11406.20002)</span><span class="sxs-lookup"><span data-stu-id="24b1a-172">Version 1903 (Build 11406.20002)</span></span><br/> 
-
-<span data-ttu-id="24b1a-173">**2019 年 2 月 9 日**</span><span class="sxs-lookup"><span data-stu-id="24b1a-173">**February 9, 2019**</span></span><br/> <span data-ttu-id="24b1a-174">バージョン 1903 (ビルド 11330.20014)</span><span class="sxs-lookup"><span data-stu-id="24b1a-174">Version 1903 (Build 11330.20014)</span></span><br/> 
-
-<span data-ttu-id="24b1a-175">**2019 年 1 月 30 日**</span><span class="sxs-lookup"><span data-stu-id="24b1a-175">**January 30, 2019**</span></span><br/> <span data-ttu-id="24b1a-176">バージョン 1902 (ビルド 11326.20000)</span><span class="sxs-lookup"><span data-stu-id="24b1a-176">Version 1902 (Build 11326.20000)</span></span><br/> 
-
-<span data-ttu-id="24b1a-177">**2019 年 1 月 25 日**</span><span class="sxs-lookup"><span data-stu-id="24b1a-177">**January 25, 2019**</span></span><br/> <span data-ttu-id="24b1a-178">バージョン 1902 (ビルド 11316.20026)</span><span class="sxs-lookup"><span data-stu-id="24b1a-178">Version 1902 (Build 11316.20026)</span></span><br/> 
-
-<span data-ttu-id="24b1a-179">**2019 年 1 月 22 日**</span><span class="sxs-lookup"><span data-stu-id="24b1a-179">**January 22, 2019**</span></span><br/> <span data-ttu-id="24b1a-180">バージョン 1902 (ビルド 11310.20016)</span><span class="sxs-lookup"><span data-stu-id="24b1a-180">Version 1902 (Build 11310.20016)</span></span><br/> 
-
-<span data-ttu-id="24b1a-181">**2019 年 1 月 17 日**</span><span class="sxs-lookup"><span data-stu-id="24b1a-181">**January 17, 2019**</span></span><br/> <span data-ttu-id="24b1a-182">バージョン 1902 (ビルド 11231.20080)</span><span class="sxs-lookup"><span data-stu-id="24b1a-182">Version 1902 (Build 11231.20080)</span></span><br/>
-
-<span data-ttu-id="24b1a-183">**2019 年 1 月 10 日**</span><span class="sxs-lookup"><span data-stu-id="24b1a-183">**January 10, 2019**</span></span><br/> <span data-ttu-id="24b1a-184">バージョン 1902 (ビルド 11231.20066)</span><span class="sxs-lookup"><span data-stu-id="24b1a-184">Version 1902 (build 11231.20066)</span></span><br/> 
+<span data-ttu-id="2a59e-145">**2019 年 6 月 4 日**</span><span class="sxs-lookup"><span data-stu-id="2a59e-145">**June 04, 2019**</span></span><br/>
+<span data-ttu-id="2a59e-146">バージョン 1906 (ビルド 11727.20064)</span><span class="sxs-lookup"><span data-stu-id="2a59e-146">Version 1906 (Build 11727.20064)</span></span><br/>
 
 
-## <a name="insider-community"></a><span data-ttu-id="24b1a-185">Insider コミュニティ</span><span class="sxs-lookup"><span data-stu-id="24b1a-185">Insider community</span></span>
+<span data-ttu-id="2a59e-147">**2019 年 5 月 29 日**</span><span class="sxs-lookup"><span data-stu-id="2a59e-147">**May 29, 2019**</span></span><br/>
+<span data-ttu-id="2a59e-148">バージョン 1906 (ビルド 11722.20008)</span><span class="sxs-lookup"><span data-stu-id="2a59e-148">Version 1906 (Build 11722.20008)</span></span><br/>
 
-<span data-ttu-id="24b1a-186">![Insider コミュニティを表示している画像。</span><span class="sxs-lookup"><span data-stu-id="24b1a-186">![Image showing insider community.</span></span> ](images/insidercommunity.png) <br/>
-<span data-ttu-id="24b1a-187">**Office Insider コミュニティ**</span><span class="sxs-lookup"><span data-stu-id="24b1a-187">**Office Insider community**</span></span><br/> <span data-ttu-id="24b1a-188">他の Insider とチャットする場合は、コミュニティに投稿してください。</span><span class="sxs-lookup"><span data-stu-id="24b1a-188">If you want to chat with other Insiders, post in our community.</span></span><br/><span data-ttu-id="24b1a-189"> 
-[コミュニティを訪れる](https://go.microsoft.com/fwlink/?linkid=843493)</span><span class="sxs-lookup"><span data-stu-id="24b1a-189"> 
+<span data-ttu-id="2a59e-149">**2019 年 5 月 22 日**</span><span class="sxs-lookup"><span data-stu-id="2a59e-149">**May 22, 2019**</span></span><br/> <span data-ttu-id="2a59e-150">バージョン 1906 (ビルド 11715.20002)</span><span class="sxs-lookup"><span data-stu-id="2a59e-150">Version 1906 (Build 11715.20002)</span></span><br/> 
+
+<span data-ttu-id="2a59e-151">**2019 年 5 月 14 日**</span><span class="sxs-lookup"><span data-stu-id="2a59e-151">**May 14, 2019**</span></span><br/> <span data-ttu-id="2a59e-152">バージョン 1906 (ビルド 11708.20006)</span><span class="sxs-lookup"><span data-stu-id="2a59e-152">Version 1906 (Build 11708.20006)</span></span><br/>
+
+<span data-ttu-id="2a59e-153">**2019 年 5 月 6 日**</span><span class="sxs-lookup"><span data-stu-id="2a59e-153">**May 06, 2019**</span></span><br/>
+<span data-ttu-id="2a59e-154">バージョン 1906 (ビルド 11702.20000)</span><span class="sxs-lookup"><span data-stu-id="2a59e-154">Version 1906 (Build 11702.20000)</span></span><br/>
+
+<span data-ttu-id="2a59e-155">**2019 年 5 月 2日**</span><span class="sxs-lookup"><span data-stu-id="2a59e-155">**May 02, 2019**</span></span><br/>
+<span data-ttu-id="2a59e-156">バージョン 1905 (ビルド 11629.20008)</span><span class="sxs-lookup"><span data-stu-id="2a59e-156">Version 1905 (Build 11629.20008)</span></span><br/>
+
+<span data-ttu-id="2a59e-157">**2019 年 4 月 29 日**</span><span class="sxs-lookup"><span data-stu-id="2a59e-157">**April 29, 2019**</span></span><br/>
+<span data-ttu-id="2a59e-158">バージョン 1905 (ビルド 11624.20000)</span><span class="sxs-lookup"><span data-stu-id="2a59e-158">Version 1905 (Build 11624.20000)</span></span><br/>
+
+<span data-ttu-id="2a59e-159">**2019 年 4 月 23 日**</span><span class="sxs-lookup"><span data-stu-id="2a59e-159">**April 23, 2019**</span></span><br/> <span data-ttu-id="2a59e-160">バージョン 1905 (ビルド 11617.20002)</span><span class="sxs-lookup"><span data-stu-id="2a59e-160">Version 1905 (Build 11617.20002)</span></span><br/>
+
+<span data-ttu-id="2a59e-161">**2019 年 4 月 15 日**</span><span class="sxs-lookup"><span data-stu-id="2a59e-161">**April 15, 2019**</span></span><br/> <span data-ttu-id="2a59e-162">バージョン 1905 (ビルド 11609.20002)</span><span class="sxs-lookup"><span data-stu-id="2a59e-162">Version 1905 (Build 11609.20002)</span></span><br/>
+
+<span data-ttu-id="2a59e-163">**2019 年 4 月 7 日**</span><span class="sxs-lookup"><span data-stu-id="2a59e-163">**April 7, 2019**</span></span><br/> <span data-ttu-id="2a59e-164">バージョン 1904 (ビルド11601.20042)</span><span class="sxs-lookup"><span data-stu-id="2a59e-164">Version 1904 (Build 11601.20042)</span></span><br/>
+
+<span data-ttu-id="2a59e-165">**2019 年 3 月 18 日**</span><span class="sxs-lookup"><span data-stu-id="2a59e-165">**March 18, 2019**</span></span><br/> <span data-ttu-id="2a59e-166">バージョン 1904 (ビルド 11520.20004)</span><span class="sxs-lookup"><span data-stu-id="2a59e-166">Version 1904 (Build 11520.20004)</span></span><br/>
+
+<span data-ttu-id="2a59e-167">**2019 年 3 月 11 日**</span><span class="sxs-lookup"><span data-stu-id="2a59e-167">**March 11, 2019**</span></span><br/> <span data-ttu-id="2a59e-168">バージョン 1904 (ビルド 11504.20000)</span><span class="sxs-lookup"><span data-stu-id="2a59e-168">Version 1904 (Build 11504.20000)</span></span><br/>
+
+<span data-ttu-id="2a59e-169">**2019 年 3 月 1 日**</span><span class="sxs-lookup"><span data-stu-id="2a59e-169">**March 1, 2019**</span></span><br/> <span data-ttu-id="2a59e-170">バージョン 1903 (ビルド 11425.20036)</span><span class="sxs-lookup"><span data-stu-id="2a59e-170">Version 1903 (Build 11425.20036)</span></span><br/> 
+
+<span data-ttu-id="2a59e-171">**2019 年 2 月 25 日**</span><span class="sxs-lookup"><span data-stu-id="2a59e-171">**February 25, 2019**</span></span><br/> <span data-ttu-id="2a59e-172">バージョン 1903 (ビルド 11414.20014)</span><span class="sxs-lookup"><span data-stu-id="2a59e-172">Version 1903 (Build 11414.20014)</span></span><br/> 
+
+<span data-ttu-id="2a59e-173">**2019 年 2 月 12 日**</span><span class="sxs-lookup"><span data-stu-id="2a59e-173">**February 12, 2019**</span></span><br/> <span data-ttu-id="2a59e-174">バージョン 1903 (ビルド 11406.20002)</span><span class="sxs-lookup"><span data-stu-id="2a59e-174">Version 1903 (Build 11406.20002)</span></span><br/> 
+
+<span data-ttu-id="2a59e-175">**2019 年 2 月 9 日**</span><span class="sxs-lookup"><span data-stu-id="2a59e-175">**February 9, 2019**</span></span><br/> <span data-ttu-id="2a59e-176">バージョン 1903 (ビルド 11330.20014)</span><span class="sxs-lookup"><span data-stu-id="2a59e-176">Version 1903 (Build 11330.20014)</span></span><br/> 
+
+<span data-ttu-id="2a59e-177">**2019 年 1 月 30 日**</span><span class="sxs-lookup"><span data-stu-id="2a59e-177">**January 30, 2019**</span></span><br/> <span data-ttu-id="2a59e-178">バージョン 1902 (ビルド 11326.20000)</span><span class="sxs-lookup"><span data-stu-id="2a59e-178">Version 1902 (Build 11326.20000)</span></span><br/> 
+
+<span data-ttu-id="2a59e-179">**2019 年 1 月 25 日**</span><span class="sxs-lookup"><span data-stu-id="2a59e-179">**January 25, 2019**</span></span><br/> <span data-ttu-id="2a59e-180">バージョン 1902 (ビルド 11316.20026)</span><span class="sxs-lookup"><span data-stu-id="2a59e-180">Version 1902 (Build 11316.20026)</span></span><br/> 
+
+<span data-ttu-id="2a59e-181">**2019 年 1 月 22 日**</span><span class="sxs-lookup"><span data-stu-id="2a59e-181">**January 22, 2019**</span></span><br/> <span data-ttu-id="2a59e-182">バージョン 1902 (ビルド 11310.20016)</span><span class="sxs-lookup"><span data-stu-id="2a59e-182">Version 1902 (Build 11310.20016)</span></span><br/> 
+
+<span data-ttu-id="2a59e-183">**2019 年 1 月 17 日**</span><span class="sxs-lookup"><span data-stu-id="2a59e-183">**January 17, 2019**</span></span><br/> <span data-ttu-id="2a59e-184">バージョン 1902 (ビルド 11231.20080)</span><span class="sxs-lookup"><span data-stu-id="2a59e-184">Version 1902 (Build 11231.20080)</span></span><br/>
+
+<span data-ttu-id="2a59e-185">**2019 年 1 月 10 日**</span><span class="sxs-lookup"><span data-stu-id="2a59e-185">**January 10, 2019**</span></span><br/> <span data-ttu-id="2a59e-186">バージョン 1902 (ビルド 11231.20066)</span><span class="sxs-lookup"><span data-stu-id="2a59e-186">Version 1902 (build 11231.20066)</span></span><br/> 
+
+
+## <a name="insider-community"></a><span data-ttu-id="2a59e-187">Insider コミュニティ</span><span class="sxs-lookup"><span data-stu-id="2a59e-187">Insider community</span></span>
+
+<span data-ttu-id="2a59e-188">![Insider コミュニティを表示している画像。</span><span class="sxs-lookup"><span data-stu-id="2a59e-188">![Image showing insider community.</span></span> ](images/insidercommunity.png) <br/>
+<span data-ttu-id="2a59e-189">**Office Insider コミュニティ**</span><span class="sxs-lookup"><span data-stu-id="2a59e-189">**Office Insider community**</span></span><br/> <span data-ttu-id="2a59e-190">他の Insider とチャットする場合は、コミュニティに投稿してください。</span><span class="sxs-lookup"><span data-stu-id="2a59e-190">If you want to chat with other Insiders, post in our community.</span></span><br/><span data-ttu-id="2a59e-191"> 
+[コミュニティを訪れる](https://go.microsoft.com/fwlink/?linkid=843493)</span><span class="sxs-lookup"><span data-stu-id="2a59e-191"> 
 [Visit the community](https://go.microsoft.com/fwlink/?linkid=843493)</span></span><br/> 
 
-<span data-ttu-id="24b1a-190">![Twitter のアイコンを表示している画像。</span><span class="sxs-lookup"><span data-stu-id="24b1a-190">![Image showing twitter icon.</span></span> ](images/twitter.png)<br/>
-<span data-ttu-id="24b1a-191">**Twitter の Office Insider**</span><span class="sxs-lookup"><span data-stu-id="24b1a-191">**Office Insider on Twitter**</span></span><br/> <span data-ttu-id="24b1a-192">@Officeinsider では、Insider 向けのリリースが頻繁に投稿され、Insider 向けの特別なイベントもホストされます。</span><span class="sxs-lookup"><span data-stu-id="24b1a-192">On @OfficeInsider, we post frequently about Insider releases and host special events for Insiders.</span></span><br/><span data-ttu-id="24b1a-193"> 
-[Twitter でフォローしてください](https://go.microsoft.com/fwlink/?linkid=717717)</span><span class="sxs-lookup"><span data-stu-id="24b1a-193"> 
+<span data-ttu-id="2a59e-192">![Twitter のアイコンを表示している画像。</span><span class="sxs-lookup"><span data-stu-id="2a59e-192">![Image showing twitter icon.</span></span> ](images/twitter.png)<br/>
+<span data-ttu-id="2a59e-193">**Twitter の Office Insider**</span><span class="sxs-lookup"><span data-stu-id="2a59e-193">**Office Insider on Twitter**</span></span><br/> <span data-ttu-id="2a59e-194">@Officeinsider では、Insider 向けのリリースが頻繁に投稿され、Insider 向けの特別なイベントもホストされます。</span><span class="sxs-lookup"><span data-stu-id="2a59e-194">On @OfficeInsider, we post frequently about Insider releases and host special events for Insiders.</span></span><br/><span data-ttu-id="2a59e-195"> 
+[Twitter でフォローしてください](https://go.microsoft.com/fwlink/?linkid=717717)</span><span class="sxs-lookup"><span data-stu-id="2a59e-195"> 
 [Follow us on Twitter](https://go.microsoft.com/fwlink/?linkid=717717)</span></span><br/> 
 
-<span data-ttu-id="24b1a-194">
+<span data-ttu-id="2a59e-196">
   [
-  ![Facebook のアイコンを表示している画像。 ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/ja-JP/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)</span><span class="sxs-lookup"><span data-stu-id="24b1a-194">[![Image showing Facebook icon. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)</span></span>
+  ![Facebook のアイコンを表示している画像。 ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/ja-JP/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)</span><span class="sxs-lookup"><span data-stu-id="2a59e-196">[![Image showing Facebook icon. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)</span></span>
 
 
-<span data-ttu-id="24b1a-195">**新機能をいち早く取得**
-[Office Insider に参加](https://insider.office.com/)</span><span class="sxs-lookup"><span data-stu-id="24b1a-195">**Get new features first**
+<span data-ttu-id="2a59e-197">**新機能をいち早く取得**
+[Office Insider に参加](https://insider.office.com/)</span><span class="sxs-lookup"><span data-stu-id="2a59e-197">**Get new features first**
 [Join Office Insiders](https://insider.office.com/)</span></span>
