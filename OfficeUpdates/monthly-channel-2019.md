@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: d1303df71491b1ed244f70fcd4d135d308815d69
-ms.sourcegitcommit: a7326cf3aad7eb2a0f336d7558b4701a3a6037ca
+ms.openlocfilehash: 9a6e0bbc189ebb970647fae2f9810505e327cfd8
+ms.sourcegitcommit: ba31adfbc9514f2c98d8420923696b1b77872621
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/20/2019
-ms.locfileid: "36473447"
+ms.lasthandoff: 08/26/2019
+ms.locfileid: "36631239"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年の毎月のチャネル リリースのリリース ノート
 
@@ -25,6 +25,48 @@ ms.locfileid: "36473447"
   [詳細情報](https://support.office.com/ja-JP/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Microsoft Teams の Office 365 ProPlus の既存のインストールについて: 7月の上旬から、Office 365 ProPlus (および Office 365 Business) の更新に Microsoft Teams が含まれます。  Teams が追加される日付は、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)」を参照してください。
 
+
+## <a name="version-1908-august-26"></a>バージョン 1908: 8 月 26 日
+*バージョン 1908 (ビルド 11929.20254)*
+* さまざまなバグとパフォーマンスの修正。
+
+### <a name="excel-feature-updates"></a>Excel: 機能の更新
+
+- **あらましを描く:** ブック内の Office の図形をカジュアルな手描き風にします。 
+  [詳細情報](https://support.office.com/ja-JP/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+
+- **検索して楽しむ:** 目的のアイコンが簡単に見つかるように、アイコンを挿入するための検索が追加されました。 選択しているときに、[挿入] ボタンではユーザーによって選択された数をお知らせします。 
+  [詳細情報](https://support.office.com/ja-JP/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+- **残っている作業に集中する:** [解決] を選択して、コメントを折りたたみ、開いているアイテムを目立たせます。
+
+### <a name="office-suite-feature-updates"></a>Office スイート: 機能の更新
+
+- **新しい外観を備えた Office のアイコン:** シンプルかつ高性能で、インテリジェントな Office のエクスペリエンスを反映するように、Office のアイコンがリニューアルされました。
+
+### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
+
+- **場所の候補を取得する:** 予定や会議をスケジュールするときに、[場所] に入力すると、会議室、住所、およびその他の最新の場所が提示されます。 
+  [詳細情報](https://support.office.com/ja-JP/article/1d8631be-611a-4e3d-9109-b153e4622d53)
+
+- **検索して楽しむ:** 目的のアイコンが簡単に見つかるように、アイコンを挿入するための検索が追加されました。 選択しているときに、[挿入] ボタンではユーザーによって選択された数をお知らせします。 
+  [詳細情報](https://support.office.com/ja-JP/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新
+
+- **あらましを描く:** プレゼンテーション内の Office の図形をカジュアルな手描き風にします。 
+  [詳細情報](https://support.office.com/ja-JP/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+
+- **検索して楽しむ:** 目的のアイコンが簡単に見つかるように、アイコンを挿入するための検索が追加されました。 選択しているときに、[挿入] ボタンではユーザーによって選択された数をお知らせします。 
+  [詳細情報](https://support.office.com/ja-JP/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+### <a name="word-feature-updates"></a>Word: 機能の更新
+
+- **あらましを描く:** ドキュメント内の Office の図形をカジュアルな手描き風にします。 
+  [詳細情報](https://support.office.com/ja-JP/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+
+- **検索して楽しむ:** 目的のアイコンが簡単に見つかるように、アイコンを挿入するための検索が追加されました。 選択しているときに、[挿入] ボタンではユーザーによって選択された数をお知らせします。 
+  [詳細情報](https://support.office.com/ja-JP/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ## <a name="version-1907-august-13"></a>バージョン 1907: 8 月 13 日
 *バージョン 1907 (ビルド 11901.20218)*
