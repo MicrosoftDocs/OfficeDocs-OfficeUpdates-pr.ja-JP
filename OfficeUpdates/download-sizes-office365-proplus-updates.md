@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 各チャネルの Office 365 ProPlus の更新プログラムのダウンロード サイズの概算に関する情報を IT 技術者に提供します
-ms.openlocfilehash: 3a7a4b7262274921a0511e38135616c99c771691
-ms.sourcegitcommit: 72b12def03a145b379c518a4e3c29e14585ca256
+ms.openlocfilehash: 8d53f8a6ab05629d3229314fb30e2401146a49b7
+ms.sourcegitcommit: ba31adfbc9514f2c98d8420923696b1b77872621
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36384518"
+ms.lasthandoff: 08/26/2019
+ms.locfileid: "36631199"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 ProPlus の更新プログラムのダウンロード サイズ
 
@@ -32,6 +32,22 @@ ms.locfileid: "36384518"
 
 
 [//]: # (削除禁止)
+
+## <a name="august-26-2019"></a>2019 年 8 月 26 日
+
+[//]: # (コンテンツを削除しないでください。開始 2019 年 8 月 26 日)
+
+### <a name="monthly-channel"></a>毎月のチャネル
+
+最新のリリースはバージョン 1908 (ビルド 11929.20254) です。
+
+|**アップグレード前のリリース **|**リリース日**|**ダウンロード サイズの概算 (MB)**|
+|:-----|:-----|:-----|
+|バージョン 1907 (ビルド 11901.20218) <br/> |2019 年 8 月 13 日 <br/> |169<br/> |
+|バージョン 1907 (ビルド 11901.20176) <br/> |2019 年 7 月 29 日 <br/> |174<br/> |
+
+
+[//]: # (コンテンツを削除しないでください。終了 2019 年 8 月 26 日)
 
 ## <a name="august-13-2019"></a>2019 年 8 月 13 日
 
