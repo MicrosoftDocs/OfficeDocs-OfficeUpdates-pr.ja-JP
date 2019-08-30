@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 8dfdc0e4e21c037aba0adccc0e86b6c16b96872f
-ms.sourcegitcommit: 1b1bf8dde78540f7953f2faad614f3862c363921
+ms.openlocfilehash: fbd9e068fe2a258020e81b06550656d781fb447f
+ms.sourcegitcommit: e46cbcba082c5f2394cc3282a9edb756a33cbc85
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/21/2019
-ms.locfileid: "36488510"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36672907"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019 年の半期チャネル リリースのリリース ノート
 
@@ -31,18 +31,18 @@ ms.locfileid: "36488510"
 セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
-- テーブルのフィルター処理ありのスライサーとフィルター処理なしのスライサーの両方に、[フィルターのクリア] アイコンが表示される問題が修正されました。
+- テーブルのフィルター処理ありのスライサーとフィルター処理なしのスライサーの両方に、[フィルターのクリア] アイコンが表示される問題を修正しました。
 
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
-- ユーザーがメールボックスを基本認証から最新認証にアップグレードすると、関連付けられる先の正しくないアカウントで終了する問題が修正されました。
+- ユーザーがメールボックスを基本認証から最新認証にアップグレードすると、関連付けられた正しくないアカウントで終了する問題を修正しました
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: セキュリティ以外の更新プログラム
 - 他のユーザーとドキュメントの共同作業を行っている間に、アプリケーションが予期せず終了する可能性がある問題が修正されました。
 
 ### <a name="word-non-security-updates"></a>Word: セキュリティ以外の更新プログラム
-- VBA のフィールド更新が遅かった問題が修正されました。
-- 一部の DOC ファイルを開くと、破損していると表示される問題が修正されました。
-- 他のユーザーとドキュメントの共同作業を行っている間に、アプリケーションが予期せず終了する可能性がある問題が修正されました。
+- VBA のフィールド更新が遅い問題を修正しました。
+- 一部の DOC ファイルを開くと、破損していると表示される問題を修正しました。
+- 他のユーザーとドキュメントの共同作業を行っている間に、アプリケーションが予期せず終了することがある問題を修正しました。
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 - 特定のシナリオで Office JavaScript ライブラリ の Setting API が機能しなくなる問題が修正されました ([詳細](https://support.microsoft.com/ja-JP/help/4475551/august-6-2019-update-for-office-2016-kb4475551))
@@ -62,7 +62,7 @@ ms.locfileid: "36488510"
 セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
-- 特定のシナリオで Office JavaScript ライブラリ の Setting API が機能しなくなる問題が修正されました ([詳細](https://support.microsoft.com/ja-JP/help/4475551/august-6-2019-update-for-office-2016-kb4475551))
+- 特定のシナリオで Office JavaScript ライブラリ の Setting API が機能しなくなる問題を修正しました ([詳細情報](https://support.microsoft.com/ja-JP/help/4475551/august-6-2019-update-for-office-2016-kb4475551))
 
 
 ## <a name="version-1902-july-09"></a>バージョン 1902: 7 月 9 日
