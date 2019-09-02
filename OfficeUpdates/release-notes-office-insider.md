@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: f77370fab0937b4880738de0188b42db1d77dedc
-ms.sourcegitcommit: f84f754f105631e81585397a1795418ff26ea5d7
+ms.openlocfilehash: 0e33b8b29604cf5ada95a5d996dc8959750a0f7b
+ms.sourcegitcommit: 309b405d7fdfe3ca7d6c9da179b6c7ddb34378b1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36620526"
+ms.lasthandoff: 08/30/2019
+ms.locfileid: "36693884"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office Insider のリリース ノート
 
@@ -27,8 +27,103 @@ ms.locfileid: "36620526"
  > [!NOTE]
 > - Microsoft Teams に関連する既存の Office 365 ProPlus のインストール - 6 月の下旬から、これらの更新プログラムのインストール時に、Microsoft Teams が既存の Office 365 ProPlus (Office 365 Business) のインストールの中に含められます。 Teams が追加される日にちは、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)」を参照してください。
 
-[//]: # (削除禁止)
+[//]: # (削除しないでください)
 
+
+## <a name="version-1909-august-30"></a>バージョン 1909: 8 月 30 日
+*バージョン 1909 (ビルド 12026.20000)*
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="powerpoint"></a>PowerPoint
+
+- **図を SVG として保存する:** グラフ、図形、その他の図を、サイズ変更しても画質が低下しないスケーラブル ベクター グラフィックとして保存できます。 [詳細情報](https://support.office.com/ja-JP/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="non-security-updates"></a>セキュリティ以外の更新プログラム
+### <a name="excel"></a>Excel
+
+- <div><span>&nbsp;<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);">秘密度</span>のキー ヒントが&nbsp;<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);">別のキー ヒントと競合している問題が修正されました。</span></span></div>
+
+- <div><span>共有ブックでの作業中に保存を行おうとする際に発生する問題が修正されました。</span></div>
+
+- <div><span>Excel で、レジストリ値 "\Excel\Add-in Manager" にあるアドインのうち、最初の 16 個しか表示されない問題が修正されました。<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);"></span></span></div>
+
+
+- <div><span>関数 Frequency() が誤った結果を返す問題が修正されました。</span></div>
+
+
+- <div><span>色によるフィルター処理のパフォーマンスが大幅に改善されました。</span></div>
+
+
+- <div><span>Surface のユーザーがマウスを動かすと、それがマウス クリックのイベントとして解釈されることがある問題が修正されました。</span></div>
+
+
+- <div><span>[検索と置換] ダイアログでキーボードによるナビゲーションを行えない問題が修正されました</span></div>
+
+
+- <div><span>一部のフォント名が正しく表示されない問題が修正されました</span></div>
+
+
+- <div><span>サポートされているファイル形式として CSV が表示されない問題が修正されました</span></div>
+
+
+### <a name="access"></a>Access
+
+- <div>共有データベースの使用中に、"&quot;矛盾がある状態&quot;" エラーがユーザーに表示されることがある問題が修正されました。</div>
+
+
+- <div><span>日付選択カレンダーが表示されるべきではないときに表示されてしまうことがある問題が修正されました。</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>一部の POP3 ユーザーに HTML コンテンツが表示されない問題が修正されました</span></div>
+
+
+- <div><span>Planner を利用できない環境で、連絡先カードのオーバーフロー メニューから機能しない [Planner] リンクを削除するための修正を行いました。</span></div>
+
+### <a name="onenote"></a>OneNote
+
+- <div><span>フォーカスが &nbsp;OneNote のバックグラウンド同期に移動してしまうことがある問題が修正されました。</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>3-D Turntable の回転の向きに影響を与えていた問題が修正されました。</span></div>
+
+- <div><span>ハイパーリンクに特殊文字が含まれている場合に一部のハイパーリンクが機能しない問題が修正されました。</span></div>
+
+- <div><span>同時に複数のコメント ウィンドウが開かれる問題が修正されました。</span></div>
+
+### <a name="project"></a>Project
+
+- <div><span>チーム プランナー ビューを印刷した後にクラッシュすることがある問題が修正されました。</span></div>
+
+### <a name="word"></a>Word
+
+- <div>閲覧表示で、縦書きテキスト ボックス内の複数バイト文字が重なって表示される問題が<span>修正されました。<br></span></div>
+
+- <div><span>&nbsp;<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);color:rgba(0, 0, 0, 0.9);">ユーザーがアドイン ウィザードでアクションを実行する際に、日本語のはがきとグリーティング カードに関連するアドインのリソースが見つからない問題が修正されました。</span></span></div>
+
+- <div><span>保護ビューで表示中に、タイトル バーのユーザー インターフェイスで問題を発生させることがある問題が修正されました。</span></div>
+
+### <a name="office-suite"></a>Office スイート
+
+- <div><span><span style="display:inline !important;background-color:rgba(255, 255, 255, 1);">標準の図形とコネクタ図形の両方が含まれる選択部分に対して [図形の変更] を適用するとファイルが破損する問題が修正されました。</span></span></div>
+
+- <div><span><span style="display:inline !important;background-color:rgba(255, 255, 255, 1);color:rgba(0, 0, 0, 0.9);">複数の外付けモニターからドッキングとドッキングの解除を使用すると、アプリケーションに問題が発生する</span>問題が修正されました。</span></div>
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="august-23-2019br"></a>**2019 年 8 月 23 日**<br/>
 バージョン 1909 (ビルド 12015.20004)<br/>
@@ -413,8 +508,7 @@ PowerPoint でインクの再生アニメーションを適用して、プレゼ
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **アクセスを容易にするため、[印刷] メニューに [配布資料にスライド番号を印刷する] を移動しました:** 配布資料が指定されているときに、[印刷] > [印刷レイアウト] ドロップダウンの順にクリックすると見つかります。 これにより、プレゼンテーションごとに簡単に設定を切り替えることもできます。 
-  [詳細情報](https://support.office.com/ja-JP/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+- **アクセスを容易にするため、[印刷] メニューに [配布資料にスライド番号を印刷する] を移動しました:** 配布資料が指定されているときに、[印刷] > [印刷レイアウト] ドロップダウンの順にクリックすると見つかります。 これにより、プレゼンテーションごとに簡単に設定を切り替えることもできます。 [詳細情報](https://support.office.com/ja-JP/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
 ## <a name="notable-fixes"></a>主な修正:
 
@@ -1038,6 +1132,14 @@ OneDrive 同期クライアントを有効にして、Outlook デスクトップ
 
 ## <a name="april-12-2019"></a>2019 年 4 月 12 日
 バージョン 1905 (ビルド 11601.20042)
+
+## <a name="whats-new"></a>新機能:
+
+### <a name="access"></a>Access
+
+#### <a name="get-smart-with-microsoft-graph"></a>Microsoft Graph を使用してスマートに作業
+
+インテリジェントなテクノロジを使用して、インテリジェントなデータをインポートしたり、またはデータにリンクしたりして、デスクトップ データベースを作り変えましょう。
 
 ## <a name="notable-fixes"></a>主な修正:
 
