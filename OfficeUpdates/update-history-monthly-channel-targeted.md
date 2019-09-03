@@ -144,8 +144,7 @@ ms.locfileid: "35919121"
 **Twitter の Office Insider**<br/> @Officeinsider では、Insider 向けのリリースが頻繁に投稿され、Insider 向けの特別なイベントもホストされます。<br/> 
 [Twitter でフォローしてください](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
-
-  [
+[
   ![Facebook のアイコンを表示している画像。 ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/ja-JP/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
 
 
