@@ -21,8 +21,7 @@ ms.locfileid: "36672897"
 これらのリリースノートには、Visio Pro for Office 365、Project Online Desktop Client、および Office 365 Business を含む、2019 年の Office 365 ProPlus の半期チャネル (対象指定) の更新プログラムに含まれる新機能およびセキュリティ以外の更新に関する情報が記載されています。
  
 > [!NOTE]
-> - 多くの場合、機能 (場合によっては修正プログラムも) は、特定の期間にわたって半期チャネル (対象指定) にロールアウトされます。 ここで説明される内容がすぐに確認できなくても、間もなく利用できるようになります。 
-  [詳細情報](https://support.office.com/ja-JP/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - 多くの場合、機能 (場合によっては修正プログラムも) は、特定の期間にわたって半期チャネル (対象指定) にロールアウトされます。 ここで説明される内容がすぐに確認できなくても、間もなく利用できるようになります。 [詳細情報](https://support.office.com/ja-JP/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  
 ## <a name="version-1902-august-13"></a>バージョン 1902: 8 月 13 日
@@ -92,8 +91,7 @@ ms.locfileid: "36672897"
 
 ## <a name="version-1902-june-11"></a>バージョン 1902: 6 月 11 日
 *バージョン 1902 (ビルド 11328.20318)*
-<br/>
-  [こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)にセキュリティ更新プログラムが記載されています
+<br/>[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)にセキュリティ更新プログラムが記載されています
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
  - PDF にマッピングする XML を含むファイルを保存するときにクラッシュの原因となっていた問題が解決されました。
@@ -183,8 +181,7 @@ ms.locfileid: "36672897"
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 
-- Office の更新プログラムの一部で配信の最適化のピア キャッシュを使用しないという問題が修正されました。 
-  [詳細情報](https://docs.microsoft.com/ja-JP/windows/deployment/update/waas-delivery-optimization)
+- Office の更新プログラムの一部で配信の最適化のピア キャッシュを使用しないという問題が修正されました。 [詳細情報](https://docs.microsoft.com/ja-JP/windows/deployment/update/waas-delivery-optimization)
 - Office が Office 展開ツールを使用してインストールされ、大文字/小文字が一致しない場合、製品が削除されたり、アクティブ化されなかったりする可能性があるバグが修正されました。
 - Windows 10（バージョン1803以降）のデバイスで過剰なサインインプロンプトを引き起こしていた問題を修正しました。
 - リンクされた写真をダウンロードするときにハングする原因となる退行を修正しました。
@@ -223,8 +220,7 @@ ms.locfileid: "36672897"
 - **期間の新しい既定値:** [定期的なアイテム] ダイアログでは、期間に [終了日未定] の既定値が使われていました。 これにより、長期間実行される定期的なアイテムが作成され、時間と共に破損する可能性がありました。 既定値が予定表作成の推奨されるベスト プラクティスに一致するように、[定期的なアイテム] ダイアログ ボックスの既定値を [終了日] に更新します。
 - **Outlook のアラーム ダイアログから Teams 会議に参加する:** Outlook が今後の会議についてユーザーに通知する際、会議が Teams のオンライン会議の場合には、[オンラインで参加] ボタンが表示されます。これは、Outlook のアラート ダイアログから Skype for Business 会議に参加する場合に似ています。
 - **過去のイベントのリマインダーの表示を停止:** 終了したイベントのリマインダーを自動的に破棄するようにカレンダーを設定することができます。 [詳細情報](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
-- **安全なリンクの背後にある URL を表示する:** 安全なリンクは、メールで受け取った悪意のある URL からユーザーを保護しますが、元の URL は非表示になります。 元の URL を確認するには、URL をマウスでポイントします。 Advanced Threat Protection のライセンスが必要です。 
-  [詳細情報](https://products.office.com/ja-JP/exchange/advance-threat-protection)
+- **安全なリンクの背後にある URL を表示する:** 安全なリンクは、メールで受け取った悪意のある URL からユーザーを保護しますが、元の URL は非表示になります。 元の URL を確認するには、URL をマウスでポイントします。 Advanced Threat Protection のライセンスが必要です。 [詳細情報](https://products.office.com/ja-JP/exchange/advance-threat-protection)
 - **ズームとスティック:** メッセージを表示するたびにズームを調整するのではなく、すべてのメッセージに使用する既定値を選択します。 [詳細情報](https://support.office.com/article/56c090bc-e148-44a7-bd06-1290edd38983)
 - **メッセージ暗号化: 暗号化のみ IRM ポリシー:** 新しい暗号化のみオプションは、Office 365 Message Encryption ユーザーの [オプション] > [アクセス許可] に表示されます。 このオプションを使用すると、メッセージを暗号化して、組織の内外のユーザーに送信できます。
 - **BCC で受け取った場合の警告:** ブラインド カーボン コピーで受け取ったメールに対し、誤って全員に返信する前に、BCC のヒントで警告されます。
@@ -243,7 +239,7 @@ ms.locfileid: "36672897"
 - **スケッチするだけで自動的に洗練される:** 手書きのテキストや図形が洗練された図表に変更されます。インク ストロークを選ぶだけで機能を利用できます。[詳細情報](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **画像の背後を見えるようにする:** ワークシートに画像を挿入し、既定の設定から選択して、透明度の変化を確認するだけです。[詳細情報](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
 - **インクで素晴らしいスライドを作成する:** インクを標準的な図形やテキストに変換してから、PowerPoint デザイナーの洗練されたスライドのデザイン アイデアを活用できます。 [詳細情報](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
-- **Microsoft Stream に公開:** Microsoft Stream を使用して、組織内でより安全にビデオとプレゼンテーションを共有できます。 [詳細情報](https://support.office.com/article/C140551F-CB37-4818-B5D4-3E30815C3E83)
+- **Microsoft Stream に公開:** Microsoft Stream を使用して、組織内でより安全にビデオとプレゼンテーションを共有できます。 [詳細情報](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
 - **4K ビデオにエクスポート:** プレゼンテーションをビデオにエクスポートするときに、4K の解像度がオプションになりました。  [詳細情報](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
 - **フィルターが適用された SVG を挿入する機能:** Office ユーザーは、フィルターが適用された SVG を挿入できるようになりました。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
@@ -275,8 +271,7 @@ ms.locfileid: "36672897"
 ### <a name="office-suite-feature-updates"></a>Office スイート: 機能の更新
 
 - **Office のサード パーティ アプリケーションでは office.js api を使用した SVG の挿入をサポート:** Office アドインとも呼ばれるサード パーティ アプリケーションで SVG を挿入できるようになりました。ユーザーは、個人の SVG コレクションを Office に結び付けることができます。開発者は、Office.js API を使用してこの機能を利用できます。
-- **Microsoft Teams のインストール:** Microsoft Teams は、Office 365 ProPlus の新規インストールでは既定でインストールされています。 
-  [詳細情報](https://docs.microsoft.com/ja-JP/DeployOffice/teams-install)
+- **Microsoft Teams のインストール:** Microsoft Teams は、Office 365 ProPlus の新規インストールでは既定でインストールされています。 [詳細情報](https://docs.microsoft.com/ja-JP/DeployOffice/teams-install)
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: 機能の更新
 
@@ -302,8 +297,7 @@ ms.locfileid: "36672897"
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 
-- 
-  [Office 365 の一元展開](https://docs.microsoft.com/ja-JP/office/dev/add-ins/publish/centralized-deployment)を使用して展開したアドインが機能停止して使用できなくなる問題を修正しました。
+- [Office 365 の一元展開](https://docs.microsoft.com/ja-JP/office/dev/add-ins/publish/centralized-deployment)を使用して展開したアドインが機能停止して使用できなくなる問題を修正しました。
 
 
 ## <a name="version-1808-january-8"></a>バージョン 1808: 1 月 8 日

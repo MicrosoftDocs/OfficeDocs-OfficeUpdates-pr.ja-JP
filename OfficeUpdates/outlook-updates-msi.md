@@ -56,7 +56,6 @@ Outlook の Office 365 およびご使用のオンプレミス環境との互換
 
 |**最新の Service Pack (SP)**|**最低限必要な更新プログラム**|**最新のパブリック更新プログラム (PU)**|
 |:-----|:-----|:-----|
-|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |2015 年 10 月 PU <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  MAPI/HTTP 用の Office 2010 の 2015 年 4 月 PU <br/> 
-  [KB2956191](https://support.microsoft.com/ja-JP/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |2019 年 7 月 PU <br/>[KB4475509](https://support.microsoft.com/help/4475509) <br><br><br><br/>|
+|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |2015 年 10 月 PU <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  MAPI/HTTP 用の Office 2010 の 2015 年 4 月 PU <br/> [KB2956191](https://support.microsoft.com/ja-JP/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |2019 年 7 月 PU <br/>[KB4475509](https://support.microsoft.com/help/4475509) <br><br><br><br/>|
    
 

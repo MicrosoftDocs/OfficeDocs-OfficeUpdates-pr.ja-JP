@@ -54,14 +54,11 @@ ms.locfileid: "35594496"
 
 [2019 年 6 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB4505743](https://support.microsoft.com/help/4505743)
 
+[2019 年 5 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB4501270](https://support.microsoft.com/ja-JP/help/4501270)
 
-  [2019 年 5 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB4501270](https://support.microsoft.com/ja-JP/help/4501270)
+[2019 年 4 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB4495300](https://support.microsoft.com/ja-JP/help/4495300)
 
-
-  [2019 年 4 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB4495300](https://support.microsoft.com/ja-JP/help/4495300)
-
-
-  [2019 年 3 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB4491754](https://support.microsoft.com/ja-JP/help/4491754) 
+[2019 年 3 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB4491754](https://support.microsoft.com/ja-JP/help/4491754) 
 
 [2019 年 2 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB4488446](https://support.microsoft.com/help/4488446)
 

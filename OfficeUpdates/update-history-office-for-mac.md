@@ -53,8 +53,7 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 
 次の表に、IT プロフェッショナルが関心を示す可能性がある Microsoft の他の Mac プログラムに関する最新パッケージに関する情報を、ダウンロード リンクを含めて記します。バージョン番号の後に YYMMDD という形式でビルド日付を括弧内に示します。
 
-
-  **注:** Microsoft AutoUpdate (MAU) のリリース情報は、「[MAU のリリース ノート](https://docs.microsoft.com/ja-JP/officeupdates/release-history-microsoft-autoupdate)」ページに移動されました。<br/><br/>
+**注:** Microsoft AutoUpdate (MAU) のリリース情報は、「[MAU のリリース ノート](https://docs.microsoft.com/ja-JP/officeupdates/release-history-microsoft-autoupdate)」ページに移動されました。<br/><br/>
 
   
 |**プログラム**|**バージョン**|**パッケージ**|**詳細情報**|**SHA-1/ SHA-256 ハッシュ**|
