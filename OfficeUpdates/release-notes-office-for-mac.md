@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 サブスクライバー向け Office for Mac リリース用リリース ノートを IT プロフェッショナルに提供
-ms.openlocfilehash: 2a7afe03d5c5ba0b99dad4844ae8c71b8abc9217
-ms.sourcegitcommit: 4880505c8bb9bf7692755ba54faa980a6bff94de
+ms.openlocfilehash: e5a7cf72e1b8c98f877f469c664139a3663d4ff4
+ms.sourcegitcommit: fc06058bc54e91f57e3a147e6f3a02565e245e9f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36567207"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36758211"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac のリリース ノート
 
@@ -114,7 +114,8 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 
 ### <a name="word-feature-updates"></a>Word: 機能の更新
 
-- **\@メンション**を使用してユーザーの注意を引く: コメントで @メンションを使うと、他のユーザーによる入力が必要な場合にそのユーザーに知らせることができます。
+- **\@メンションを使用してユーザーの注意を引く:** コメントで @メンションを使うと、他のユーザーによる入力が必要な場合にそのユーザーに知らせることができます。
+- **共同編集の改善**: 文書で共同編集するときの Word のパフォーマンスが改善されました。
 
 ### <a name="word-security-updates"></a>Word: セキュリティ更新プログラム
 
