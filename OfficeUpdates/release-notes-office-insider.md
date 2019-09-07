@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 0e33b8b29604cf5ada95a5d996dc8959750a0f7b
-ms.sourcegitcommit: 309b405d7fdfe3ca7d6c9da179b6c7ddb34378b1
+ms.openlocfilehash: e670e0faf90aa736a5270bd525c5020c0f547524
+ms.sourcegitcommit: 899d752cdb5c5b77c6247499ea4ac74b5ac5cc9a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/30/2019
-ms.locfileid: "36693884"
+ms.lasthandoff: 09/06/2019
+ms.locfileid: "36785414"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office Insider のリリース ノート
 
@@ -29,6 +29,60 @@ ms.locfileid: "36693884"
 
 [//]: # (削除しないでください)
 
+
+## <a name="version-1910-september-06"></a>バージョン 1910: 9 月 6 日
+*バージョン 1910 (ビルド 12030.20004)*
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="excel"></a>Excel
+
+- **準備ができたら、描画を開始:** Surface ペンを持てば、描画の準備完了です。 [詳細情報](https://support.office.com/ja-JP/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **準備ができたら、描画を開始:** Surface ペンを持てば、描画の準備完了です。 [詳細情報](https://support.office.com/ja-JP/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+### <a name="word"></a>Word
+
+- **準備ができたら、描画を開始:** Surface ペンを持てば、描画の準備完了です。 [詳細情報](https://support.office.com/ja-JP/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="non-security-updates"></a>セキュリティ以外の更新プログラム
+### <a name="excel"></a>Excel
+
+- <div><span> リボンのフォント名が使用されているフォントと異なることがある問題が修正されました</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span> Internet Explorer で制限付きサイトの保護モードが無効になると、Outlook により不適切なリソースの使用量になることがある問題が修正されました</span></div>
+
+
+- <div><span>時々、ANSI ソースのテキスト貼り付けるときに Unicode 文字が表示されることがある問題が修正されました</span></div>
+
+
+- <div><span>グループ スケジュール ビューで一部のユーザーがオフラインとして間違って表示される問題が修正されました</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>テーブルの書式設定が失われることがある問題が修正されました</span></div>
+
+
+- <div><span>Ctrl + V ショートカット キーが効かなくなることがある問題が修正されました</span></div>
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-1909-august-30"></a>バージョン 1909: 8 月 30 日
 *バージョン 1909 (ビルド 12026.20000)*
