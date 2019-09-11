@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT プロフェッショナルに、office for Mac の最新更新プログラムに関する情報を提供します。それには、ダウンロード パッケージへのリンク、更新履歴が含まれます
-ms.openlocfilehash: d9c5cc51009a1fb0002581aa63640e2161df4e95
-ms.sourcegitcommit: ab7ce44030f562d10025ffd5de7555132b0f191c
+ms.openlocfilehash: cefa2cad86a7d15b25e5e6aedc9dcb00284e060a
+ms.sourcegitcommit: bff4f60861d00fc918535960251ad062848d9b3b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/14/2019
-ms.locfileid: "36396551"
+ms.lasthandoff: 09/09/2019
+ms.locfileid: "36819005"
 ---
 # <a name="update-history-for-office-for-mac"></a>Office for Mac の更新履歴
   
@@ -58,10 +58,10 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
   
 |**プログラム**|**バージョン**|**パッケージ**|**詳細情報**|**SHA-1/ SHA-256 ハッシュ**|
 |:-----|:-----|:-----|:-----|:-----|
-|Skype for Business  <br/> |16.24.0.191 <br/> |[ダウンロード](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> |最新バージョンは、2019 年 1 月 31 日にリリースされました。 <br/><br/>[最新の更新プログラム](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> |  B35E2BE81C90D9E0ABFE1EC3A9384A3DE826C35D9F1304C111C56D5B44BB2A72 <br/> |
-|リモート デスクトップ | 10.2.9  | [ダウンロード](https://go.microsoft.com/fwlink/?linkid=868963) | このインストール パッケージは、64 ビットです。 <br/> <br/>[新機能](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |   ffed37daf89803c40f59e61a539d4e0a347ac2dee7070a523b44cf69bb9221cd <br/> |
-|Intune ポータル サイト |1.5 (52.1805002.000) [180509] | [ダウンロード](https://go.microsoft.com/fwlink/?linkid=869655)| [Microsoft Intune の新機能](https://docs.microsoft.com/intune/whats-new) | 6aa67dc0accea7a3745e29133d2591568ff9f1cb <br/> |
-|Office 2016 for Mac 用の Microsoft SharePoint オンプレミス Safari ブラウザー プラグイン  <br/> |15.32.0 (170309)  <br/> |[ダウンロード](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |このインストール パッケージは、64 ビットです。  <br/>| 45af4855ee23157b8f0a909e60a7e97865d1f8c0  <br/>  |
+|Skype for Business  <br/> |16.27.37 <br/> |[ダウンロード](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> |最新バージョンは、2019 年 6 月 23 日にリリースされました。 <br/><br/>[最新の更新プログラム](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> |  ac33fbfa83e304e1ac3ba7365e8bf307b117ec954fd48902991356ee86f2e836 <br/> |
+|リモート デスクトップ | 10.3.1  | [ダウンロード](https://go.microsoft.com/fwlink/?linkid=868963) | このインストール パッケージは、64 ビットです。 <br/> <br/>[新機能](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |   a846cecda7391b4e67c37b4b30a0c49ebd3c80f4782a989c0b4f866cd6d09339 <br/> |
+|Intune ポータル サイト |1.17 (52.1908008.000) [190823] | [ダウンロード](https://go.microsoft.com/fwlink/?linkid=869655)| [Microsoft Intune の新機能](https://docs.microsoft.com/intune/whats-new) | fec704b5194360a48365d0193a46135358c5f129fc2b1fb02acb902cd1f96de0 <br/> |
+|Office 2016 for Mac 用の Microsoft SharePoint オンプレミス Safari ブラウザー プラグイン  <br/> |15.32.0 (170309)  <br/> |[ダウンロード](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |このインストール パッケージは、64 ビットです。  <br/>| f7f29202881a319fb249d15ab6125b5a1a94b303c649cbe3fafb37ecd4728ed8  <br/>  |
    
 ## <a name="release-history-for-office-for-mac"></a>Office for Mac のリリース履歴
 
