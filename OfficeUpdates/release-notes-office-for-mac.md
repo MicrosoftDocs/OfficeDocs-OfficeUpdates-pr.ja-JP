@@ -3,19 +3,19 @@ title: Office for Mac のリリース ノート
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 8/14/2019
+ms.date: 9/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 サブスクライバー向け Office for Mac リリース用リリース ノートを IT プロフェッショナルに提供
-ms.openlocfilehash: e5a7cf72e1b8c98f877f469c664139a3663d4ff4
-ms.sourcegitcommit: fc06058bc54e91f57e3a147e6f3a02565e245e9f
+ms.openlocfilehash: 9459036de8424fcd9a9c0dc86a4f69aa8e8d88fa
+ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36758211"
+ms.lasthandoff: 09/11/2019
+ms.locfileid: "36838244"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac のリリース ノート
 
@@ -34,6 +34,31 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 > - Microsoft では多くの場合、一定期間にわたって毎月のチャネル、機能 (および場合によっては修正プログラム) を展開します。これにより、幅広いユーザーに機能を公開する前にスムーズに動作するかどうかを確認することができます。したがって、下記のものが表示されない場合でも、心配する必要はなく、いずれは表示されます。[詳細情報](https://support.office.com/ja-JP/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 **注:** Microsoft AutoUpdate (MAU) のリリース情報は、「[MAU のリリース ノート](https://docs.microsoft.com/ja-JP/officeupdates/release-history-microsoft-autoupdate)」ページに移動されました。<br/>
+
+## <a name="september-10-2019-release"></a>2019 年 9 月 10 日リリース
+*バージョン 16.29 (ビルド 19090802)*
+
+### <a name="word-feature-updates"></a>Word: 機能の更新
+
+- さまざまなパフォーマンスの問題が修正されました。
+### <a name="excel--feature-updates"></a>Excel: 機能の更新
+
+- **フル カラー シート タブ**: ワークシートのタブの色を選択すると、タブ全体が塗りつぶされるため、見やすくなりました。
+
+- **Mac のローカル ファイルのデータを更新する**: テキスト、CSV、XLSX、XML、および JSON ファイルからの Power Query クエリを Mac で更新できるようになりました。 
+
+ ### <a name="excel-security-updates"></a>Excel: セキュリティの更新
+
+- [CVE-2019-1263](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2019-1263): Microsoft Excel の情報漏えいの脆弱性
+- [CVE-2019-1297](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2019-1297): Microsoft Excel のリモート コード実行の脆弱性
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新
+
+- さまざまなパフォーマンスの問題が修正されました。
+
+### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
+
+- さまざまなパフォーマンスの問題が修正されました。
 
 ## <a name="august-13-2019-release"></a>2019 年 8 月 13 日リリース
 *バージョン 16.28 (ビルド 19081202)*
