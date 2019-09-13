@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル (対象指定) リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 6f03d240a0d61521398f37a4a813bd1e89a7a6ac
-ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
+ms.openlocfilehash: 5bf729562ac8c1f1dfa0c7741c87147080d62857
+ms.sourcegitcommit: 89effb1372d21b8cefa2fc5b64ce9294f8c303ac
 ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/11/2019
-ms.locfileid: "36838288"
+ms.locfileid: "36841046"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年の半期チャネル (対象指定) リリースのリリース ノート
 
@@ -22,6 +22,9 @@ ms.locfileid: "36838288"
  
 > [!NOTE]
 > - 多くの場合、機能 (場合によっては修正プログラムも) は、特定の期間にわたって半期チャネル (対象指定) にロールアウトされます。 ここで説明される内容がすぐに確認できなくても、間もなく利用できるようになります。 [詳細情報](https://support.office.com/ja-JP/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+
+ > [!NOTE]
+> - Microsoft Teams は、バージョン 1902 以降の半期チャネル (対象指定) の新規インストールに含まれています。 Teams は、バージョン 1908以降に更新されると、半期チャネル (対象指定) の既存のインストールに追加されます。 詳細については、「[Office 365 ProPlus で Microsoft Teams を展開する](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)」をご覧ください。
 
  
 ## <a name="version-1908-september-10"></a>バージョン 1908: 9 月 10 日
@@ -139,6 +142,8 @@ ms.locfileid: "36838288"
 - **作業の邪魔をするものにさよならしましょう:** Mac のお気に入りの機能が Windows に登場します。 気を散らさずに作業に集中するには、[表示]メニューの[フォーカス]に切り替えます。 [詳細情報](https://support.office.com/ja-JP/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
 
 ### <a name="office-suite"></a>Office スイート
+
+- **Microsoft Teams のインストール**: Teams は、Office 365 ProPlus の既存のインストールに追加されます。 [詳細情報](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)
 
 - **情報バーに新しく表示されたボタンを使用して、ドキュメントを共有し、アップロードします:** 以前は、[共有]、[クリップボードへのパスのコピー]、[ファイルの場所を開く] ボタンは、ドキュメント保存パスの後ろからしかアクセスできませんでした。これらのボタンは情報バーに明確に表示されるようになりました。通常は、[ファイル] > [情報] の順に移動すると、これらの新しいボタンを表示されます。
 
@@ -475,7 +480,7 @@ ms.locfileid: "36838288"
 ### <a name="office-suite-feature-updates"></a>Office スイート: 機能の更新
 
 - **Office のサード パーティ アプリケーションでは office.js api を使用した SVG の挿入をサポート:** Office アドインとも呼ばれるサード パーティ アプリケーションで SVG を挿入できるようになりました。ユーザーは、個人の SVG コレクションを Office に結び付けることができます。開発者は、Office.js API を使用してこの機能を利用できます。
-- **Microsoft Teams のインストール:** Microsoft Teams は、Office 365 ProPlus の新規インストールでは既定でインストールされています。 [詳細情報](https://docs.microsoft.com/ja-JP/DeployOffice/teams-install)
+- **Microsoft Teams のインストール:** Microsoft Teams は、Office 365 ProPlus の新規インストールでは既定でインストールされています。 [詳細情報](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: 機能の更新
 
