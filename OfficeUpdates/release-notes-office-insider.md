@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: e670e0faf90aa736a5270bd525c5020c0f547524
-ms.sourcegitcommit: 899d752cdb5c5b77c6247499ea4ac74b5ac5cc9a
+ms.openlocfilehash: 22fccba2af26eb0f8effd8ff516fbb57fb26fcfb
+ms.sourcegitcommit: d4f156d8437e56965f74a3add79f7aa7a42c00ed
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/06/2019
-ms.locfileid: "36785414"
+ms.lasthandoff: 09/12/2019
+ms.locfileid: "36972858"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office Insider のリリース ノート
 
@@ -91,6 +91,11 @@ ms.locfileid: "36785414"
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
 ### <a name="feature-updates"></a>機能の更新プログラム
+
+### <a name="access"></a>Access
+
+- **リンク テーブルの高速検索:** 新しい検索ボックスにより、リンク テーブルを簡単に見つけることができます。
+
 ### <a name="powerpoint"></a>PowerPoint
 
 - **図を SVG として保存する:** グラフ、図形、その他の図を、サイズ変更しても画質が低下しないスケーラブル ベクター グラフィックとして保存できます。 [詳細情報](https://support.office.com/ja-JP/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
@@ -558,11 +563,20 @@ PowerPoint でインクの再生アニメーションを適用して、プレゼ
 
 #### <a name="sketchy-shapes"></a>Sketchy で描く!
 
-プレゼンテーションを作成中ですか。 まだ作業中であることを示す Sketchy スタイルを適用します。 これを使用すると、自由形式や手描きの図形に変えることなく、オブジェクトに個人的な感触を与えることができます。
+プレゼンテーションを作成中ですか。 まだ作業中であることを示す Sketchy スタイルを適用します。 これを使用すると、自由形式や手描きの図形に変えることなく、オブジェクトに個人的なタッチを与えることができます。
 
+### <a name="excel"></a>Excel
+
+- **ファイル共有の高速化**: ファイルを開かなくても、最近使用したファイルの一覧からドキュメントを直接共有できます。
 ### <a name="powerpoint"></a>PowerPoint
 
 - **アクセスを容易にするため、[印刷] メニューに [配布資料にスライド番号を印刷する] を移動しました:** 配布資料が指定されているときに、[印刷] > [印刷レイアウト] ドロップダウンの順にクリックすると見つかります。 これにより、プレゼンテーションごとに簡単に設定を切り替えることもできます。 [詳細情報](https://support.office.com/ja-JP/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+
+- **ファイル共有の高速化:** ファイルを開かなくても、最近使用したファイルの一覧からドキュメントを直接共有できます。
+
+### <a name="word"></a>Word
+
+- **ファイル共有の高速化:** ファイルを開かなくても、最近使用したファイルの一覧からドキュメントを直接共有できます。
 
 ## <a name="notable-fixes"></a>主な修正:
 
@@ -616,7 +630,11 @@ PowerPoint でインクの再生アニメーションを適用して、プレゼ
 
 - **Power Query の機能強化を使用して素早くコーディングする:** オートコンプリートと構文の色分けを使用して、素早くコーディングを完了します。 関数、列、パラメーターも簡単に見つけることができます
 
-- **類似列のテーブルを結合する:** 取得と変換 (Power Query) では、テーブルを統合するために列を比較するときに、近似文字列マッチング ロジック (あいまい一致とも呼ばれる) が使用できるようになりました。
+- **類似列のテーブルを結合する:** 取得と変換 (Power Query) では、テーブルを結合するために列を比較するときに、近似テキスト マッチング ロジック (あいまい一致とも呼ばれる) が使用できるようになりました。
+
+### <a name="word"></a>Word
+
+- **共同編集の改善:** 共同編集時の信頼性が向上しました。
  
 ### <a name="word-excel-powerpoint-and-visio"></a>Word、Excel、PowerPoint、Visio
 
@@ -1036,6 +1054,12 @@ OneDrive 同期クライアントを有効にして、Outlook デスクトップ
 ## <a name="may-10-2019"></a>2019 年 5 月 10日
 バージョン 1906 (ビルド 11702.20000)
 
+## <a name="whats-new"></a>新機能:
+
+### <a name="outlook"></a>Outlook
+
+**より多くのメッセージを画面に収める:** [表示] > [より狭い文字間隔を使用] の順に選択し、メッセージの間隔を調整します。
+
 ## <a name="notable-fixes"></a>主な修正:
 
 ### <a name="all"></a>すべて
@@ -1063,6 +1087,12 @@ OneDrive 同期クライアントを有効にして、Outlook デスクトップ
 
 ## <a name="may-3-2019"></a>2019 年 5 月 3日
 バージョン 1906 (ビルド 11629.20008)
+
+## <a name="whats-new"></a>新機能:
+
+### <a name="outlook"></a>Outlook
+
+**すべての暗号化オプションを1か所で:** [オプション] > [暗号化] の順に移動して、メール メッセージを保護する方法を選択します。
 
 ## <a name="notable-fixes"></a>主な修正:
 
@@ -1097,6 +1127,10 @@ OneDrive 同期クライアントを有効にして、Outlook デスクトップ
 バージョン 1905 (ビルド 11617.20002)
 
 ## <a name="new-features"></a>新機能
+
+### <a name="outlook"></a>Outlook
+
+**共有カレンダーの更新がより速く**: Office 365 の共有カレンダーの場合、Outlook は REST API を使用してこれらのカレンダーを更新できます。 共有カレンダーのより高速で信頼性の高い更新を行うには、プレビューを有効にします。
 
 ### <a name="excel"></a>Excel
 
@@ -1135,6 +1169,10 @@ OneDrive 同期クライアントを有効にして、Outlook デスクトップ
 バージョン 1905 (ビルド 11609.20002)
 
 ## <a name="whats-new"></a>新機能:
+
+### <a name="outlook"></a>Outlook
+
+**人物を検索するときにメールの候補を取得する:** [検索] ボックスに人の名前を入力すると、最も関連性の高いメール メッセージが検索候補に含まれます。
 
 ### <a name="excel"></a>Excel
 

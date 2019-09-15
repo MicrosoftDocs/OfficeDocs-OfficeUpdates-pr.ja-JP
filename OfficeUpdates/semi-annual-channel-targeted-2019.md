@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル (対象指定) リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 5bf729562ac8c1f1dfa0c7741c87147080d62857
-ms.sourcegitcommit: 89effb1372d21b8cefa2fc5b64ce9294f8c303ac
+ms.openlocfilehash: 3b3438087d34c0ce05606498e2eafea60ee516a6
+ms.sourcegitcommit: d4f156d8437e56965f74a3add79f7aa7a42c00ed
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/11/2019
-ms.locfileid: "36841046"
+ms.lasthandoff: 09/12/2019
+ms.locfileid: "36972818"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年の半期チャネル (対象指定) リリースのリリース ノート
 
@@ -219,7 +219,9 @@ ms.locfileid: "36841046"
 
 ### <a name="word"></a>Word
 
-- ユーザーが Word ドキュメントで他のユーザーと共同作業しているときに、エラー メッセージが表示される問題が修正されました。
+- ユーザーが Word ドキュメントで他のユーザーと共同作業しているときに、エラー メッセージが表示される問題を修正しました。
+
+- SharePoint 2016 に保存されているファイルを共有しようとすると、"申し訳ございません。何かがこのファイルの共有を妨げています。" というメッセージが表示される問題を修正しました。
 
 
 ### <a name="office-suite"></a>Office スイート

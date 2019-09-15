@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 9a6e0bbc189ebb970647fae2f9810505e327cfd8
-ms.sourcegitcommit: ba31adfbc9514f2c98d8420923696b1b77872621
+ms.openlocfilehash: 7972f00672f3f195695617a10d22a98d8a25ebe3
+ms.sourcegitcommit: f8b6acb84a922aa7fadb4c789bbd49f95c560c62
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631239"
+ms.lasthandoff: 09/13/2019
+ms.locfileid: "36973386"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年の毎月のチャネル リリースのリリース ノート
 
@@ -24,6 +24,37 @@ ms.locfileid: "36631239"
 >- Microsoft では多くの場合、一定期間にわたって毎月、機能 (および場合によっては修正プログラム) を展開します。  ここで説明した内容がすぐに表示されない場合は、間もなく利用できるようになります。 [詳細情報](https://support.office.com/ja-JP/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Microsoft Teams の Office 365 ProPlus の既存のインストールについて: 7月の上旬から、Office 365 ProPlus (および Office 365 Business) の更新に Microsoft Teams が含まれます。  Teams が追加される日付は、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)」を参照してください。
 
+## <a name="version-1908-september-10"></a>バージョン 1908: 9 月 10 日
+*バージョン 1908 (ビルド 11929.20300)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="non-security-updates"></a>セキュリティ以外の更新プログラム
+### <a name="outlook"></a>Outlook
+
+- スクリーン リーダーからユーザーが場所の候補にアクセスできない問題が修正されました。
+
+- 一部のユーザーが Outlook のクラウド設定を取得しようとすると、認証エラーが発生する問題が修正されました。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- PowerPoint ビデオ コントロールのアクセス可能な名前を復元する問題を修正しました。
+
+- 一部のアニメーションが開始できない問題を修正しました。
+
+### <a name="word"></a>Word
+
+- SharePoint 2016 に保存されているファイルを共有しようとすると、"申し訳ございません。何かがこのファイルの共有を妨げています。" というメッセージが表示される問題を修正しました。
+
+### <a name="office-suite"></a>Office スイート
+
+- 大きなツリー ビューの表示に失敗する問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-1908-august-26"></a>バージョン 1908: 8 月 26 日
 *バージョン 1908 (ビルド 11929.20254)*
@@ -97,7 +128,9 @@ ms.locfileid: "36631239"
 
 - **マップ グラフを作成する:** この機能は、Excel の地理データ型を使用して、塗り分けされたマップ グラフにプロットするユーザーのための機能強化です。 エンドユーザーにとっては、機能とエンドユーザーがマップする領域の精度向上とがより高度に統合されたことが利点です。 さらに、ポリゴンで都市をマッピングする機能も含まれてます。 [詳細情報](https://support.office.com/ja-JP/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-- **アクセスを容易にするため、[印刷] メニューに [配布資料にスライド番号を印刷する] を移動しました:** 配布資料を指定したら、[印刷]、[印刷レイアウト] ドロップダウンの順にクリックすれば見つかります。 これにより、プレゼンテーションごとに簡単に設定を切り替えることもできます。 [詳細情報](https://support.office.com/ja-JP/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+- **スライドのタイトルを追加してプレゼンテーションのアクセシビリティを高める:** アクセシビリティ チェックは、不足しているスライドのタイトルを見つけて修正するのに役立ちます。
+
+- **アクセスを容易にするため、[印刷] メニューに [配布資料にスライド番号を印刷する] を移動しました:** 配布資料が指定されているときに、[印刷] > [印刷レイアウト] ドロップダウンの順にクリックすると見つかります。 これにより、プレゼンテーションごとに簡単に設定を切り替えることもできます。 [詳細情報](https://support.office.com/ja-JP/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
 ### <a name="word-feature-updates"></a>Word: 機能の更新
 
