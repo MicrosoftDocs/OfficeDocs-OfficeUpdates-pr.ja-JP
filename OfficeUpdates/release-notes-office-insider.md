@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 22fccba2af26eb0f8effd8ff516fbb57fb26fcfb
-ms.sourcegitcommit: d4f156d8437e56965f74a3add79f7aa7a42c00ed
+ms.openlocfilehash: 372816fa81f0f5284a795f02edd9b1b4bb00c3f6
+ms.sourcegitcommit: d92c236702bae7efd84bd21b539cb7343b6973ba
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2019
-ms.locfileid: "36972858"
+ms.lasthandoff: 09/13/2019
+ms.locfileid: "36980453"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office Insider のリリース ノート
 
@@ -29,6 +29,44 @@ ms.locfileid: "36972858"
 
 [//]: # (削除しないでください)
 
+
+## <a name="version-1910-september-13"></a>バージョン 1910: 9 月 13 日
+*バージョン 1910 (ビルド 12105.20000)*
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="non-security-updates"></a>セキュリティ以外の更新プログラム
+### <a name="excel"></a>Excel
+
+- <div><span>一部の保護されたシートにユーザーがハイパーリンクを貼り付けられない問題を修正しました</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>コンパクト ビューで UI が動かなくなる問題を修正しました</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>PDFへの印刷時、ユーザーにエラーが発生する問題を修正しました</span></div>
+
+
+### <a name="project"></a>Project
+
+- <div><span>問題を修正しました (<span style="display:inline !important;background-color:rgb(255, 255, 255);font-size:13.33px;">保護された作業が有効になっている場合、サマリー タスクの作業値を変更するとクラッシュする</span></span>)</div>
+
+
+- <font size=2 style="background-color:rgb(255, 255, 255);">エンタープライズ カレンダーとイベントを同期する機能を阻害する可能性がある問題を修正しました</font>
+
+
+### <a name="office-suite"></a>Office スイート
+
+- <div><span>ファイルのローカル バージョンの破棄を促す警告が繰り返し発生する可能性がある問題を修正しました</span></div>
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-1910-september-06"></a>バージョン 1910: 9 月 6 日
 *バージョン 1910 (ビルド 12030.20004)*
