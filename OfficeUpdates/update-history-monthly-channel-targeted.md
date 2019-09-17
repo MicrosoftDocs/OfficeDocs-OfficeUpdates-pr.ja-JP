@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Windows デスクトップ用の月次チャンネル 対象指定リリースの更新履歴を Insider の皆様に提供します。
-ms.openlocfilehash: 97418d7e2550bb4cd00795e37fc467a35fecb264
-ms.sourcegitcommit: 40287cc78e58338d63dc01c5361dc46417f51a5e
-ms.translationtype: HT
+ms.openlocfilehash: d906239f2973a7d8f5e3b7585f27b8a77c02db94
+ms.sourcegitcommit: 387fdd3ae168f420e1ed93ce7d486c5e0ff39e88
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/28/2019
-ms.locfileid: "35919121"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36998623"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Windows 向け Office の月次チャンネル (対象指定) チャンネルの更新履歴
 
@@ -23,59 +23,74 @@ ms.locfileid: "35919121"
 
 ## <a name="office-insider-versions-and-builds"></a>Office Insider のバージョンとビルド
 
-以前はInsider Slowと呼ばれていた月次チャンネル (対象指定) レベルに登録している場合は、月に約1回Officeの新機能の更新に加えて、重要な修正やセキュリティの更新が含まれています。 次のリストは最近の月次チャンネル (対象指定) バージョンとビルドを示しており、 **最も最近リリースされたビルドが最初にリストされています**。新しいビルドには、以前のビルドに含まれていたすべての更新が含まれています。 リリースノートを見つけるには、 [Office Insidersの新機能](https://support.office.com/ja-JP/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24)を参照してください。
+以前はInsider Slowと呼ばれていた月次チャンネル (対象指定) レベルに登録している場合は、月に約1回Officeの新機能の更新に加えて、重要な修正やセキュリティの更新が含まれています。 次のリストは最近の月次チャンネル (対象指定) バージョンとビルドを示しており、 **最も最近リリースされたビルドが最初にリストされています**。新しいビルドには、以前のビルドに含まれていたすべての更新が含まれています。 リリースノートを見つけるには、 [Office Insidersの新機能](https://support.office.com/en-us/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24)を参照してください。
 
 > [!NOTE]
 > - こちらの更新履歴はリリースされたすべてのビルドを一覧表示します
 > - リリース ノートは、更新される頻度はもうすこし少なく、更新プログラムの複数のビルドを最新の発行済みリリース ノートのビルド番号までまとめたものである場合があります
 
  > [!NOTE]
-> - Microsoft Teams に関連する既存の Office 365 ProPlus のインストール - 6 月の下旬から、これらの更新プログラムのインストール時に、Microsoft Teams が既存の Office 365 ProPlus (Office 365 Business) のインストールの中に含められます。 Teams が追加される日にちは、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)」を参照してください。
+> - Office の既存のインストールに関する microsoft Teams 365 ProPlus-ProPlus 年6月より前に、これらのインストールの更新時に Microsoft Teams が既存の Office 365 (および Office 365 Business) のインストールに含まれます。 Teams が追加される日付は、使用している更新プログラムチャネルによって異なります。 詳細については、「 [office 365 ProPlus を使用して Microsoft Teams を展開](https://docs.microsoft.com/en-us/deployoffice/teams-install)する」を参照してください。
 
 [//]: # (削除禁止)
 
-**2019 年 7 月 27 日**<br/>
+**2019年9月16日**<br/>
+バージョン 1909 (ビルド 12026.20190)<br/>
+
+**2019 年 9 月 10 日**<br/>
+バージョン 1909 (ビルド 12026.20108)<br/>
+
+**2019年8月25日**<br/>
+バージョン 1908 (ビルド 11929.20254)<br/>
+
+**2019年8月16日**<br/>
+バージョン 1908 (ビルド 11929.20182)<br/>
+
+**2019年8月13日**<br/>
+バージョン 1908 (ビルド 11929.20114)<br/>
+
+**2019年7月27日**<br/>
 バージョン 1907 (ビルド 11901.20176)<br/>
 
-**2019 年 7 月 25 日**<br/>
+**2019年7月25日**<br/>
 バージョン 1907 (ビルド 11901.20156)<br/>
 
-**2019 年 7 月 22 日**<br/>
+**2019年7月22日**<br/>
 バージョン 1907 (ビルド 11901.20120)<br/>
 
-**2019 年 7 月 15 日**<br/>
+**2019年7月15日**<br/>
 バージョン 1907 (ビルド 11901.20080)<br/>
 
-**2019 年 7 月 9 日**<br/>
+**2019年7月9日**<br/>
 バージョン 1906 (ビルド 11727.20244)<br/>
 
-**2019 年 6 月 27 日**<br/>
+**2019年6月27日**<br/>
 バージョン 1906 (ビルド 11727.20230)<br/>
 
-**2019 年 6 月 26 日**<br/>
+**2019年6月26日**<br/>
 バージョン 1906 (ビルド 11727.20224)<br/>
 
-**2019 年 6 月 23 日**<br/>
+**2019年6月23日**<br/>
 バージョン 1906 (ビルド 11727.20210)<br/>
 
-**2019 年 6 月 20 日**<br/>
+**2019年6月20日**<br/>
 バージョン 1906 (ビルド 11727.20188)<br/>
 
-**2019 年 6 月 11 日**<br/>
+**2019年6月11日**<br/>
 バージョン 1906 (ビルド 11727.20104)<br/>
 
-**2019 年 6 月 3 日**<br/>
+**2019年6月3日**<br/>
 バージョン 1905 (ビルド 11629.20214)<br/>
 
-**2019 年 5 月 25 日**<br/>
+**2019年5月25日**<br/>
 バージョン 1905 (ビルド 11629.20196)<br/>
 
-**2019 年 5 月 22 日**<br/> バージョン 1905 (ビルド 11629.20164)<br/>
+**2019年5月22日**<br/> バージョン 1905 (ビルド 11629.20164)<br/>
 
-**2019 年 5 月 16 日**<br/>
+**2019年5月16時**<br/>
 バージョン 1905 (ビルド 11629.20136)<br/>
 
-**2019 年 5 月 14 日**<br/>
+**2019年5月14日**<br/>
 バージョン 1904 (ビルド 11601.20204)<br/>
 
 **2019 年 5 月 8 日**<br/>
@@ -144,8 +159,9 @@ ms.locfileid: "35919121"
 **Twitter の Office Insider**<br/> @Officeinsider では、Insider 向けのリリースが頻繁に投稿され、Insider 向けの特別なイベントもホストされます。<br/> 
 [Twitter でフォローしてください](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
-[
-  ![Facebook のアイコンを表示している画像。 ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/ja-JP/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
+
+  [
+  ![Facebook のアイコンを表示している画像。 ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
 
 
 **新機能をいち早く取得**
