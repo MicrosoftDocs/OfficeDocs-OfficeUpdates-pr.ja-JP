@@ -3,19 +3,19 @@ title: Office for Mac のリリース ノート
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 9/11/2019
+ms.date: 9/19/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 サブスクライバー向け Office for Mac リリース用リリース ノートを IT プロフェッショナルに提供
-ms.openlocfilehash: 9459036de8424fcd9a9c0dc86a4f69aa8e8d88fa
-ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
+ms.openlocfilehash: 4908b1e9cabf7bf273fe301a332841c0581a1c0c
+ms.sourcegitcommit: 2d7022fa8948c721aa334245d499a32f39c50d3d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/11/2019
-ms.locfileid: "36838244"
+ms.lasthandoff: 09/19/2019
+ms.locfileid: "37040695"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac のリリース ノート
 
@@ -34,6 +34,21 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 > - Microsoft では多くの場合、一定期間にわたって毎月のチャネル、機能 (および場合によっては修正プログラム) を展開します。これにより、幅広いユーザーに機能を公開する前にスムーズに動作するかどうかを確認することができます。したがって、下記のものが表示されない場合でも、心配する必要はなく、いずれは表示されます。[詳細情報](https://support.office.com/ja-JP/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 **注:** Microsoft AutoUpdate (MAU) のリリース情報は、「[MAU のリリース ノート](https://docs.microsoft.com/ja-JP/officeupdates/release-history-microsoft-autoupdate)」ページに移動されました。<br/>
+
+## <a name="september-18-2019-release"></a>2019 年 9 月 18 日リリース
+*バージョン 16.29.1 (ビルド 19091700)*
+
+### <a name="word-feature-updates"></a>Word: 機能の更新
+
+- Office にサインインしていない場合の最近開いたドキュメントの一覧に関する問題を解決しました。
+
+### <a name="excel--feature-updates"></a>Excel: 機能の更新
+
+- Office にサインインしていない場合の最近開いたドキュメントの一覧に関する問題を解決しました。
+
+ ### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新
+
+- Office にサインインしていない場合の最近開いたドキュメントの一覧に関する問題を解決しました。<br/><br/>
 
 ## <a name="september-10-2019-release"></a>2019 年 9 月 10 日リリース
 *バージョン 16.29 (ビルド 19090802)*
