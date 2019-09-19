@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 7972f00672f3f195695617a10d22a98d8a25ebe3
-ms.sourcegitcommit: f8b6acb84a922aa7fadb4c789bbd49f95c560c62
+ms.openlocfilehash: 39d280c0752083408c2cd3b8b370cdf04e1efd23
+ms.sourcegitcommit: d1718077f44805d5a7d0a7a0288847413a3e9d4f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/13/2019
-ms.locfileid: "36973386"
+ms.lasthandoff: 09/17/2019
+ms.locfileid: "37011677"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年の毎月のチャネル リリースのリリース ノート
 
@@ -128,9 +128,9 @@ ms.locfileid: "36973386"
 
 - **マップ グラフを作成する:** この機能は、Excel の地理データ型を使用して、塗り分けされたマップ グラフにプロットするユーザーのための機能強化です。 エンドユーザーにとっては、機能とエンドユーザーがマップする領域の精度向上とがより高度に統合されたことが利点です。 さらに、ポリゴンで都市をマッピングする機能も含まれてます。 [詳細情報](https://support.office.com/ja-JP/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-- **スライドのタイトルを追加してプレゼンテーションのアクセシビリティを高める:** アクセシビリティ チェックは、不足しているスライドのタイトルを見つけて修正するのに役立ちます。
+- **スライドのタイトルを追加してプレゼンテーションをアクセス可能にする:** アクセシビリティ チェックは、不足しているスライドのタイトルを見つけて修正するのに役立ちます。 [詳細情報](https://support.office.com/article/c5286802-495a-4b47-a8ae-212fb8a7dc74)
 
-- **アクセスを容易にするため、[印刷] メニューに [配布資料にスライド番号を印刷する] を移動しました:** 配布資料が指定されているときに、[印刷] > [印刷レイアウト] ドロップダウンの順にクリックすると見つかります。 これにより、プレゼンテーションごとに簡単に設定を切り替えることもできます。 [詳細情報](https://support.office.com/ja-JP/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+- **アクセスを容易にするため、[印刷] メニューに [配布資料にスライド番号を印刷する] を移動しました:** 配布資料を指定したら、[印刷]、[印刷レイアウト] ドロップダウンの順にクリックすれば見つかります。 これにより、プレゼンテーションごとに簡単に設定を切り替えることもできます。 [詳細情報](https://support.office.com/ja-JP/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
 ### <a name="word-feature-updates"></a>Word: 機能の更新
 
