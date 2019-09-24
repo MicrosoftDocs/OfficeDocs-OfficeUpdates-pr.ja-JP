@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Windows デスクトップ用の月次チャンネル 対象指定リリースの更新履歴を Insider の皆様に提供します。
-ms.openlocfilehash: d906239f2973a7d8f5e3b7585f27b8a77c02db94
-ms.sourcegitcommit: 387fdd3ae168f420e1ed93ce7d486c5e0ff39e88
+ms.openlocfilehash: dd415a14bef7aac3aa907a4847ee2e52e47d584c
+ms.sourcegitcommit: 85de4fbe2104e3dcea6f6487aa263778d16c1dc3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36998623"
+ms.lasthandoff: 09/24/2019
+ms.locfileid: "37131669"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Windows 向け Office の月次チャンネル (対象指定) チャンネルの更新履歴
 
@@ -33,6 +33,9 @@ ms.locfileid: "36998623"
 > - Office の既存のインストールに関する microsoft Teams 365 ProPlus-ProPlus 年6月より前に、これらのインストールの更新時に Microsoft Teams が既存の Office 365 (および Office 365 Business) のインストールに含まれます。 Teams が追加される日付は、使用している更新プログラムチャネルによって異なります。 詳細については、「 [office 365 ProPlus を使用して Microsoft Teams を展開](https://docs.microsoft.com/en-us/deployoffice/teams-install)する」を参照してください。
 
 [//]: # (削除禁止)
+
+**2019年9月23日**<br/>
+バージョン 1909 (ビルド 12026.20248)<br/>
 
 **2019年9月16日**<br/>
 バージョン 1909 (ビルド 12026.20190)<br/>
