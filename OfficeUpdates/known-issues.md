@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus の既知の問題に関する情報を提供します。
-ms.openlocfilehash: a8b385e197a6f61c10797bf160101cdd70285aaf
-ms.sourcegitcommit: a6d8dba3ee51727c2d3a2dad89cb986595c1a7b8
+ms.openlocfilehash: 7c24098c7a160c3d6391bc8e8e51a73d69c44b0c
+ms.sourcegitcommit: a5da36df390868d76bddfc78e9481ed8e9c5b673
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/20/2019
-ms.locfileid: "37068058"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37275498"
 ---
 # <a name="office-365-proplus-known-issues"></a>Office 365 ProPlus の既知の問題
 
@@ -31,13 +31,17 @@ ms.locfileid: "37068058"
 
 |概要|Investigating|Resolved|
 |:-------------------------------------------------------------------------------------|:-----|:-----|
+|**Excel**
+一部の保護されたシートにハイパーリンクが貼り付けられない問題が見つかりました。|月次および SACT バージョン 1908 および SAC バージョン 1902||
+Excel のアイデア機能に問題が見つかりました。Win32 クライアントの [アイデア] ボタンをクリックしてアドインを読み込むときにエラーが発生します。|月次バージョン 1908||
+アドイン マネージャーを参照すると、16 個のアドインしか表示されないという問題が見つかりました。|月次および SACT バージョン 1908||
 |**Outlook**
 WebDAV の場所にファイルを保存できなくなるという問題が見つかりました。|月次バージョン 1909||
 |**プロジェクト**
-次のシナリオについて考えます。 プロジェクトを開きます。 [ファイル] メニューをクリックして、[エクスポート] をクリックし、[PDF/XPS の作成] ボタンをクリックします。 [参照] ダイアログ ボックス内で、ファイル名を入力して [OK] をクリックします。 この場合、XPS ファイルの PDF は作成されていません。 |SAC バージョン 1902||
+ファイル メニューから PDF/XPS を作成するときに問題が見つかりました。ファイルが作成されません。 |SAC バージョン 1902||
 |**Word**
 ユーザーがファイルを開くときに発生する可能性のある問題が見つかりました。|月次バージョン 1908||
-OneDrive 同期エンジンによって同期されている Office ファイルの場合は、[保存] および [名前を付けて保存] をするにあたり、プロパティの要求およびコンテンツ タイプの要件などのドキュメントのメタデータが検証されることはありません。|SAC バージョン 1902||
+OneDrive 同期エンジンによって同期された Office ファイルに問題が見つかりました。プロパティの要求およびコンテンツ タイプの要件などのドキュメントのメタデータは、[保存] および [名前を付けて保存] で検証されなくなりました。|SAC バージョン 1902||
 
 ## <a name="may-2019---sample"></a>2019 年 5 月 - サンプル
 
