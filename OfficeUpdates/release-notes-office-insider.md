@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 372816fa81f0f5284a795f02edd9b1b4bb00c3f6
-ms.sourcegitcommit: d92c236702bae7efd84bd21b539cb7343b6973ba
+ms.openlocfilehash: 7b27ee8a99e987aea1d4e9f89e2816f570bbbe74
+ms.sourcegitcommit: a3d7811ec43bc314f1a90cbd2de5fb2a105c794a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/13/2019
-ms.locfileid: "36980453"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37300494"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office Insider のリリース ノート
 
@@ -29,6 +29,92 @@ ms.locfileid: "36980453"
 
 [//]: # (削除しないでください)
 
+
+## <a name="version-1910-september-27"></a>バージョン 1910: 9 月 27 日
+*バージョン 1910 (ビルド 12119.20000)*
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="non-security-updates"></a>セキュリティ以外の更新プログラム
+### <a name="excel"></a>Excel
+
+- <div><span>シリーズ コレクションを変更するときに、散布図が適切にレンダリングされない問題を修正しました</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>共有予定表フォルダーを操作するときに、アクセス許可エラーを報告する可能性があった問題を修正しました</span></div>
+
+
+- <div><span>ユーザーが予定表に添付ファイルを追加できない問題を修正しました</span></div>
+
+
+- <div><span>デジタル署名されたメッセージに返信するときに、エラー メッセージが表示される問題を修正しました</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>Deskjet プリンターへの印刷時に、スケーリングの問題を引き起こす可能性があった問題を修正しました</span></div>
+
+
+### <a name="office-suite"></a>Office スイート
+
+- <div><span>中太字のテキストのスタイルが正しく表示されない問題を修正しました</span></div>
+
+
+- <div><span>アップロードが保留されているファイルを閉じるときに、ユーザーに誤ったエラー メッセージが表示される問題を修正しました</span></div>
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-1910-september-20"></a>バージョン 1910: 9 月 20 日
+*バージョン 1910 (ビルド 12112.20000)*
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="non-security-updates"></a>セキュリティ以外の更新プログラム
+### <a name="excel"></a>Excel
+
+- <div><span>Excel が起動時にハングすることがある問題を修正しました</span></div>
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>多数の部屋が利用可能な場合の部屋選択のパフォーマンスが大幅に向上しました</span></div>
+
+
+- <div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">Office 365 の最新の認証に移行するときに、Outlook に複数のメールボックスを使用しているユーザーのメールボックスの同期を妨げる可能性がある問題を修正しました。</span><br></div>
+
+
+- <div><span>署名ラベルの一部の文字がドロップダウン メニューに表示されない問題を修正しました</span></div>
+
+
+### <a name="project"></a>プロジェクト
+
+- <div><span>エンタープライズ リソースをローカル リソースに置き換えるとクラッシュする可能性がある問題を修正しました</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>下書き表示で同期スクロールが正常に機能しない問題を修正しました</span></div>
+
+
+- <div>ドキュメントを初めて保存した後、ツール ヒントが正しく表示されない問題を修正しました</div>
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-1910-september-13"></a>バージョン 1910: 9 月 13 日
 *バージョン 1910 (ビルド 12105.20000)*
@@ -856,7 +942,7 @@ Outlook メールで画像を描画し、注釈を付けることができるよ
 
 #### <a name="open-document-links-in-word"></a>ドキュメント リンクを Word で開く
 
-Office でドキュメント リンクをクリックしたときに既定で Word アプリで開くように設定を変更できるようになりました。  設定を更新するには、[ファイル ] > [オプション] > [詳細設定] > [リンクの処理] の順に移動します。 詳しくは、以下を参照してください。https://support.office.com/ja-JP/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+Office でドキュメント リンクをクリックしたときに既定で Word アプリで開くように設定を変更できるようになりました。  設定を更新するには、[ファイル ] > [オプション] > [詳細設定] > [リンクの処理] の順に移動します。 詳しくは、以下を参照してください。https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>作業を開始する:
 
@@ -877,7 +963,7 @@ OneDrive/OneDrive for Business/SharePoint に保存されている Word/PowerPoi
 
 #### <a name="open-presentation-links-in-powerpoint"></a>プレゼンテーションへのリンクを PowerPoint で開く
 
-Office でプレゼンテーションへのリンクをクリックしたときに既定で PowerPoint アプリで開くように設定を変更できるようになりました。 設定を更新するには、[ファイル ] > [オプション] > [詳細設定] > [リンクの処理] の順に移動します。 詳しくは、以下を参照してください。https://support.office.com/ja-JP/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+Office でプレゼンテーションへのリンクをクリックしたときに既定で PowerPoint アプリで開くように設定を変更できるようになりました。 設定を更新するには、[ファイル ] > [オプション] > [詳細設定] > [リンクの処理] の順に移動します。 詳しくは、以下を参照してください。https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>作業を開始する:
 
@@ -898,7 +984,7 @@ OneDrive/OneDrive for Business/SharePoint に保存されている Word/PowerPoi
 
 #### <a name="open-workbook-links-in-excel"></a>ブックのリンクを Excel で開く
 
-Office でブックのリンクをクリックしたときに既定で Excel アプリで開くように設定を変更できるようになりました。 設定を更新するには、[ファイル ] > [オプション] > [詳細設定] > [リンクの処理] の順に移動します。 詳細については、以下を参照してください。https://support.office.com/ja-JP/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+Office でブックのリンクをクリックしたときに既定で Excel アプリで開くように設定を変更できるようになりました。 設定を更新するには、[ファイル ] > [オプション] > [詳細設定] > [リンクの処理] の順に移動します。 詳細については、以下を参照してください。https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>作業を開始する:
 
