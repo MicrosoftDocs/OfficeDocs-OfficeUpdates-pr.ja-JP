@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: IT プロフェッショナルに、Office 365 ProPlus の月次チャネルリリースのリリースノートを2017で提供します。
-ms.openlocfilehash: 51e8d963e0e7ed2780be29f882b8c92abc1e5179
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 517ba74ece85e4a4386189d7787f5fb46f8050a4
+ms.sourcegitcommit: 6b645cfab4e6b232ccc97f9805cd1c168783ba43
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438742"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37350258"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>2017の月次チャネルリリースのリリースノート
 
@@ -539,6 +539,7 @@ ms.locfileid: "32438742"
 -   **オンライン画像の挿入:** 画像と属性情報を選択するための新しいランディング ページは、画像と一緒に自動で挿入されます。
 -   **Azure Data Lake Store コネクタ:** ユーザーは、Azure Data Lake Store からデータをインポートできるようになりました。
 -   **"サンプルからの列の追加" の機能強化:** 推奨事項、その他の日付/時刻の操作、追加の変換をサポートしています。
+- **アクセシビリティの組み込み**オプション > 簡単にアクセスできるように、アプリをより使いやすくするための設定を簡単に見つけることができます。
 
 ### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
 -   **新しいアカウントの構成:** 新しいウィザードによる新しいアカウントの設定では、手動の手順が少なくなりました。
@@ -546,6 +547,7 @@ ms.locfileid: "32438742"
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新
 -   **ペンのカスタマイズ:** 手描き入力についてペンと蛍光ペンの個人用設定を選択します。カスタマイズした設定は、お使いのすべての Windows PC でご利用いただけます。
 -   **オンライン画像の挿入:** 画像と属性情報を選択するための新しいランディング ページは、画像と一緒に自動で挿入されます。
+- **アクセシビリティの組み込み**オプション > 簡単にアクセスできるように、アプリをより使いやすくするための設定を簡単に見つけることができます。
 
 ### <a name="project-non-security-updates"></a>Project: セキュリティ以外の更新プログラム
 -   プロジェクトを XML ファイル形式で保存すると、時間配分のベースライン値が最初の値に一致しないという問題を修正します。
@@ -563,8 +565,12 @@ ms.locfileid: "32438742"
 -   ユーザーが LyncAutoD を実行して外部ネットワーク上のクライアントにサインインすると、クライアントが OAuthUsed レジストリ キーを false にリセットするという問題を修正するための新しい DWORD レジストリ キーを追加します。問題を修正するには、HKEY\_CURRENT\_USER\\Software\\Microsoft\\Office\\16.0\\Lync\\\<SipID\> の下の EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket の値を 1 に設定します。
 
 ### <a name="word-feature-updates"></a>Word: 機能の更新
--   **ペンのカスタマイズ:** 手描き入力についてペンと蛍光ペンの個人用設定を選択します。カスタマイズした設定は、お使いのすべての Windows PC でご利用いただけます。
--   **オンライン画像の挿入:** 画像と属性情報を選択するための新しいランディング ページは、画像と一緒に自動で挿入されます。
+- **ペンのカスタマイズ:** 手描き入力についてペンと蛍光ペンの個人用設定を選択します。カスタマイズした設定は、お使いのすべての Windows PC でご利用いただけます。
+- **オンライン画像の挿入:** 画像と属性情報を選択するための新しいランディング ページは、画像と一緒に自動で挿入されます。
+- **アクセシビリティの組み込み**オプション > 簡単にアクセスできるように、アプリをより使いやすくするための設定を簡単に見つけることができます。
+
+### <a name="office-suite-feature-updates"></a>Office スイート: 機能の更新
+- **Office ドキュメント内の悪意のあるリンクから保護された状態を維持**するSafelinks は、Office ドキュメント内の web (http/https) リンクのクリック保護の時間を提供するエンタープライズ機能です。
 
 
 
@@ -619,6 +625,8 @@ ms.locfileid: "32438742"
 -   **ビデオのクローズド キャプション:** アクセシビリティを高めるため、ビデオにクローズド キャプションを追加します。 [詳細情報](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
 -   **デザイナーの機能強化:** デザイナーが、スライドに追加されたグラフのデザイン アイデアを提案するようになりました。
 -   **Windows Information Protection (WIP) のサポート:**   これで、PowerPoint はなりアプリになり、企業データと個人データを区別し、構成されたポリシーに基づいて保護する対象を正確に判断することができます。  [詳細情報](https://aka.ms/wiptechnet)
+- **画像をより**使いやすくするインテリジェントサービスは、視覚に障碍のある方がドキュメントにアクセスしやすくするために、画像用の代替テキストを生成します。
+- **PowerPoint Designer で変換する、その他の種類のスライド**デザイナーは、スライドに追加されたグラフのデザインアイデアをお勧めします。
 
 ### <a name="project-non-security-updates"></a>Project: セキュリティ以外の更新プログラム
 -   Project Online で各エンタープライズ プロジェクト テンプレート (EPT) がプロジェクト サイトの独自の URL を持つようになり、[プロジェクト サイトの作成] ダイアログがサイトの正しい場所を示すように修正されます。
@@ -633,7 +641,7 @@ ms.locfileid: "32438742"
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: 機能の更新
 -   **リンクの挿入:** IM およびグループ チャットにリンクを追加し、そのリンクを示すために完全な URL の代わりにわかりやすいテキストを指定します。
 -   **画面共有の通知:** IM の会話で画面を共有しているとき、または会議が終了した後に画面共有が継続されているときに、会話ウィンドウに通知が表示されます。この通知は、画面を共有していること、および [共有を停止] ボタンで簡単に共有を停止できることを示します。
--   **Windows Information Protection (WIP) のサポート:** Skype for Business は現在、WIP でのみ動作するアプリとしてサポートされています。Skype を許可されたアプリの一覧に追加すると、個人データが処理されないことが Windows に示されます。Windows は、Skype for business の代わりにデータを保護します。  [詳細情報](https://aka.ms/wiptechnet)
+-   **Windows Information Protection (WIP) のサポート:** Skype for Business は現在、WIP でのみ動作するアプリとしてサポートされています。Skype を許可されたアプリの一覧に追加すると、個人データが処理されないことが Windows に示されます。Windows は、Skype for Business の代わりにデータを保護します。  [詳細情報](https://aka.ms/wiptechnet)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: セキュリティ以外の更新プログラム
 -   ポリシーで音声が無効になっているユーザーへの呼び出し試行メッセージを、「通話を完了することができません」から「IT 管理者がオーディオを制限しているため通話することができません。インスタント メッセージや電子メールを使用して、IT 管理者にご確認ください。」に変更します。
@@ -649,6 +657,7 @@ ms.locfileid: "32438742"
 -   **強化された [エディター] ウィンドウでの文書作成支援:** [エディター] ウィンドウは、高度なスペル チェック、文章校正、文章のスタイルの推奨に使用します。支援技術の高度なサポートにより、アクセスできるように作成されています。
 -   **代替テキストの作成:** クラウドベースのサービスによって、ドキュメントの画像に対して代替テキストが自動で生成されます。
 -   **Windows Information Protection (WIP) のサポート:**    Word はなりアプリであり、企業データと個人データを区別し、構成されたポリシーに基づいて保護する対象を正確に判断することができます。  [詳細情報](https://aka.ms/wiptechnet)
+- **画像をより**使いやすくするインテリジェントサービスは、視覚に障碍のある方がドキュメントにアクセスしやすくするために、画像用の代替テキストを生成します。
 
 
 

@@ -9,20 +9,112 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 39d280c0752083408c2cd3b8b370cdf04e1efd23
-ms.sourcegitcommit: d1718077f44805d5a7d0a7a0288847413a3e9d4f
+ms.openlocfilehash: d9c9698fd7248bbf951295d774b2f75db3db24dd
+ms.sourcegitcommit: 425403be7c370a7c6980ba5f5696dcf3ffdb5ada
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/17/2019
-ms.locfileid: "37011677"
+ms.lasthandoff: 09/30/2019
+ms.locfileid: "37329255"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年の毎月のチャネル リリースのリリース ノート
 
 これらのリリースノートには、2019 年の Office 365 ProPlus、Visio Pro for Office 365、Project Online デスクトップ クライアント、および Office 365 Business の毎月の更新プログラム チャンネルに含まれる新機能およびセキュリティ以外の更新に関する情報が記載されています。
  
  > [!NOTE]
->- Microsoft では多くの場合、一定期間にわたって毎月、機能 (および場合によっては修正プログラム) を展開します。  ここで説明した内容がすぐに表示されない場合は、間もなく利用できるようになります。 [詳細情報](https://support.office.com/ja-JP/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+>- Microsoft では多くの場合、一定期間にわたって毎月、機能 (および場合によっては修正プログラム) を展開します。  ここで説明した内容がすぐに表示されない場合は、間もなく利用できるようになります。 [詳細情報](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Microsoft Teams の Office 365 ProPlus の既存のインストールについて: 7月の上旬から、Office 365 ProPlus (および Office 365 Business) の更新に Microsoft Teams が含まれます。  Teams が追加される日付は、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)」を参照してください。
+
+## <a name="version-1909-september-30"></a>バージョン 1909: 9 月 30 日
+*バージョン 1909 (ビルド 12026.20264)*
+* さまざまなバグとパフォーマンスの修正。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="access"></a>Access
+
+- **リンク テーブルをすばやく見つける:** 新しい検索ボックスを使用すると、リンク テーブルを簡単に見つけることができます。 [詳細情報](https://support.office.com/ja-JP/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
+
+### <a name="excel"></a>Excel
+
+- **ファイル共有の高速化:** ファイルを開かなくても、最近使用したファイルの一覧からドキュメントを直接共有できます。
+
+### <a name="outlook"></a>Outlook
+
+- **テナント管理者によって定義されたアクセス許可を使用して、Outlook の [リンクの挿入] メニューでリンクを挿入する:** Outlook で最近使用されたリンクの挿入 (MRU) のリンクでは、既にそれに対するアクセス許可を持つユーザーのみに動作したリンクが挿入されます。 これは、ドキュメントへのアクセス権の付与を求めるユーザー間でのメールの行き来をしばしば引き起こします。 このエクスペリエンスが更新されましたので、テナント管理者によって設定される既定のアクセス許可を使用し、リンクを挿入できるようになりました。
+
+- **Outlook の外観の更新:** これは、Outlook で核となるエクスペリエンスの外観の更新の一部であり、閲覧ウィンドウとインスペクターに含まれるメール メッセージのレイアウトを更新しています。
+
+- **より高速化した共有カレンダーの更新**: Office 365 の共有カレンダーの場合、Outlook では REST API を使用してこれらのカレンダーを更新します。 共有カレンダーのより高速で信頼性の高い更新を行うには、プレビューを有効にします。
+
+- **検索結果で関連メッセージを確認する:** Outlook では検索条件を分析し、最も関連性の高いメール メッセージを検索結果の上部に表示します。 また、[上位の結果] セクションには、すべての結果が日付順に表示されます。
+
+- **適切なユーザーにメールを送信する:** [宛先] 行をクリックして、連絡先候補から選択するだけです。 画像とプレゼンス インジケーターにより、適切なユーザーを選択することができます。
+
+- **攻撃に対する高度な保護:** Office 365 Advanced Threat Protection を用いると、メールの件名、添付メッセージ、署名されたメッセージ、ネットワーク パスなどの範囲内のハイパーリンクを利用した攻撃から保護されます。
+
+- **異なる明るさでメッセージを表示する:** [太陽] または [月] のボタンを使用して、閲覧ウィンドウの明るい背景と暗い背景を切り替えます。 [詳細情報](https://support.office.com/ja-JP/article/3e2446e0-9a7b-4189-9af9-57fb94d02ae3)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **図を SVG として保存する:** グラフ、図形、その他の図を、サイズ変更しても画質が低下しないスケーラブル ベクター グラフィックとして保存できます。 [詳細情報](https://support.office.com/ja-JP/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+- **インクを瞬時に再生:** インク描画にアニメーション効果を適用して、スライド ショーの間中、それが進んだり戻ったりして再生されるようにします。 [詳細情報](https://support.office.com/ja-JP/article/fa4f044f-810b-43fe-b774-da04a0b37496)
+
+- **ファイル共有の高速化:** ファイルを開かなくても、最近使用したファイルの一覧からドキュメントを直接共有できます。
+
+### <a name="word"></a>Word
+
+- **別の言葉で伝える:** 別の言葉で伝えたいときに、[書き換え] でお助けします。 [書き換え] では、フレーズを洗練させるための別の言葉遣いを提供します。
+
+- **共同編集の改善:** 共同編集時の信頼性が向上しました。
+
+- **ファイル共有の高速化:** ファイルを開かなくても、最近使用したファイルの一覧からドキュメントを直接共有できます。
+
+- **他のユーザーがすばやく変更を確認:** 共同編集の改善とは、これまでになく迅速に、共同作業者がユーザーによる変更を確認できることを意味します。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="non-security-updates"></a>セキュリティ以外の更新プログラム
+### <a name="excel"></a>Excel
+
+- <div><span style="background-color:rgb(255, 255, 255);display:inline !important;">一部の保護されたシートにハイパーリンクが貼り付けられない問題が解決されました。</span><br></div>
+
+
+- <div>アドイン マネジャーで参照するときに、&nbsp;<span style="font-size:13.3333px;background-color:rgb(255, 255, 255);display:inline !important;">16 個以上のアドインを表示できるようになりました。</span></div>
+
+
+### <a name="insights-services"></a>インサイト サービス
+
+- <div>Win32 クライアントの [アイデア] ボタンをクリックしてアドインを読み込むときにエラーが発生するという Excel のアイデア機能の問題を修正します。&nbsp;</div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div>一部の safelinks に対して簡易的なホバーの URL が正しく表示されなくなる問題が修正されました。</div>
+
+
+- <span style="background-color:rgb(255, 255, 255);display:inline !important;">Python による添付ファイルもブロックされるよう、Outlook の添付ファイルのブロック ロジックが更新されました。</span>
+
+
+- <span style="background-color:rgb(255, 255, 255);display:inline !important;">ユーザーによって確認される Outlook のプロセスのメモリ リークを引き起こす問題が修正されました。</span>
+
+- WebDAV の場所にファイルを保存できない問題が修正されました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- <div><p style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri, sans-serif;">ファイルを開くときにユーザーが直面していた問題が修正されました。</p></div>
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-1908-september-10"></a>バージョン 1908: 9 月 10 日
 *バージョン 1908 (ビルド 11929.20300)*
