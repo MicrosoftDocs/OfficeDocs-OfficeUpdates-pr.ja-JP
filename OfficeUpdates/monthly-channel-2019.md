@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: d9c9698fd7248bbf951295d774b2f75db3db24dd
-ms.sourcegitcommit: 425403be7c370a7c6980ba5f5696dcf3ffdb5ada
+ms.openlocfilehash: f35e65c7ddf3288063d578f4515de38c037b60ba
+ms.sourcegitcommit: 6b645cfab4e6b232ccc97f9805cd1c168783ba43
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37329255"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37350268"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年の毎月のチャネル リリースのリリース ノート
 
@@ -87,13 +87,8 @@ ms.locfileid: "37329255"
 - <div><span style="background-color:rgb(255, 255, 255);display:inline !important;">一部の保護されたシートにハイパーリンクが貼り付けられない問題が解決されました。</span><br></div>
 
 
-- <div>アドイン マネジャーで参照するときに、&nbsp;<span style="font-size:13.3333px;background-color:rgb(255, 255, 255);display:inline !important;">16 個以上のアドインを表示できるようになりました。</span></div>
-
-
-### <a name="insights-services"></a>インサイト サービス
-
+- <div>&nbsp;<span style="font-size:13.3333px;background-color:rgb(255, 255, 255);display:inline !important;">アドイン マネジャーで参照するときに</span>、16 個以上のアドインを表示できるようになりました。</div>
 - <div>Win32 クライアントの [アイデア] ボタンをクリックしてアドインを読み込むときにエラーが発生するという Excel のアイデア機能の問題を修正します。&nbsp;</div>
-
 
 ### <a name="outlook"></a>Outlook
 
