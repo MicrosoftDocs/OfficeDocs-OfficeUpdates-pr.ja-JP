@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 9d7decd6b91045b9a7669428749c4fc3d7b3cc0d
-ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
+ms.openlocfilehash: b17a06e0bd38e7bdb8d0d91de27fa4f09a962eba
+ms.sourcegitcommit: 01ac73d10be11b830776836c70d0a0efe4e7aafc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/11/2019
-ms.locfileid: "36838298"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "37391321"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019 年の半期チャネル リリースのリリース ノート
 
 これらのリリースノートには、Visio Pro for Office 365、Project Online Desktop Client、および Office 365 Business を含む、2019 年の Office 365 ProPlus の半期チャネルの更新プログラムに含まれる新機能およびセキュリティ以外の更新に関する情報が記載されています。
 
 > [!NOTE]
-> - 多くの場合、機能 (場合によっては修正プログラムも) は、特定の期間にわたって半期チャネルにロールアウトされます。 ここで説明される内容がすぐに確認できなくても、間もなく利用できるようになります。 [詳細情報](https://support.office.com/ja-JP/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - 多くの場合、機能 (場合によっては修正プログラムも) は、特定の期間にわたって半期チャネルにロールアウトされます。 ここで説明される内容がすぐに確認できなくても、間もなく利用できるようになります。 [詳細情報](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - 半期チャネルのユーザーが Office ポータルから Office 365 をダウンロードして Windows 10 にインストールしたときに、既定では OneNote 2016 は含まれません。
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
@@ -159,6 +159,7 @@ ms.locfileid: "36838298"
 - **Microsoft Stream に公開:** Microsoft Stream を使用して、組織内でより安全にビデオとプレゼンテーションを共有できます。 [詳細情報](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
 - **4K ビデオにエクスポート:** プレゼンテーションをビデオにエクスポートするときに、4K の解像度がオプションになりました。  [詳細情報](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
 - **フィルターが適用された SVG を挿入する機能:** Office ユーザーは、フィルターが適用された SVG を挿入できるようになりました。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **大きなファイルがより速く開くようになりました:** OneDrive または SharePoint に保存されているファイルを開くと、画像、ビデオ、およびその他の大きな要素がバックグラウンドでダウンロードされるようになりました。
 
 ### <a name="word-feature-updates"></a>Word: 機能の更新
 
@@ -263,7 +264,7 @@ ms.locfileid: "36838298"
  - Windows 10 の多くのユーザーに対して最近のファイル リストがクリアされているように見えた問題を修正しました。
  - 管理者による更新が進行中であっても、エンドユーザーに Office Update のビジネス バーが表示される問題を修正しました。
  - 断続的な空白のサインインプロンプトに関する問題を修正しました。
- - Office の更新プログラムの一部で配信の最適化のピア キャッシュを使用しないという問題が修正されました。 [詳細情報]("https://docs.microsoft.com/ja-JP/windows/deployment/update/waas-delivery-optimization)
+ - Office の更新プログラムの一部で配信の最適化のピア キャッシュを使用しないという問題が修正されました。 [詳細情報]("https://docs.microsoft.com/en-us/windows/deployment/update/waas-delivery-optimization)
 - Office が Office 展開ツールを使用してインストールされ、大文字/小文字が一致しない場合、製品が削除されたり、アクティブ化されなかったりする可能性があるバグが修正されました。
 - Windows 10（バージョン1803以降）のデバイスで過剰なサインインプロンプトを引き起こしていた問題を修正しました。
 - リンクされた写真をダウンロードするときにハングする原因となる退行を修正しました。
@@ -563,7 +564,7 @@ ms.locfileid: "36838298"
 
 ### <a name="office-suite-security-update"></a>Office スイート: セキュリティ更新プログラム
 
-- **セキュリティ上の理由から、Office での Flash、Silverlight、および Shockwave のコントロールのアクティブ化がブロックされる:** セキュリティ上の理由から、Windows 上の Microsoft Office for Office 365 の新しいビルドでは、Flash、Silverlight、および Shockwave のコントロールのアクティブ化がブロックされます。詳細については、[こちら](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)および[こちら](https://support.office.com/ja-JP/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)をご覧ください。
+- **セキュリティ上の理由から、Office での Flash、Silverlight、および Shockwave のコントロールのアクティブ化がブロックされる:** セキュリティ上の理由から、Windows 上の Microsoft Office for Office 365 の新しいビルドでは、Flash、Silverlight、および Shockwave のコントロールのアクティブ化がブロックされます。詳細については、[こちら](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)および[こちら](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)をご覧ください。
  
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 - 特定のシナリオで更新プログラムのインストールが長くかかる原因となった問題を修正しました。

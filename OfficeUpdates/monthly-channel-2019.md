@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: f35e65c7ddf3288063d578f4515de38c037b60ba
-ms.sourcegitcommit: 6b645cfab4e6b232ccc97f9805cd1c168783ba43
+ms.openlocfilehash: 839e57a08aa9d38f7a9e473175968f2e91c9d28d
+ms.sourcegitcommit: 01ac73d10be11b830776836c70d0a0efe4e7aafc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37350268"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "37391301"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年の毎月のチャネル リリースのリリース ノート
 
@@ -63,6 +63,10 @@ ms.locfileid: "37350268"
 - **インクを瞬時に再生:** インク描画にアニメーション効果を適用して、スライド ショーの間中、それが進んだり戻ったりして再生されるようにします。 [詳細情報](https://support.office.com/ja-JP/article/fa4f044f-810b-43fe-b774-da04a0b37496)
 
 - **ファイル共有の高速化:** ファイルを開かなくても、最近使用したファイルの一覧からドキュメントを直接共有できます。
+
+### <a name="visio"></a>Visio
+
+- **Microsoft Flow と Visio を使用したビジネス ワークフローの設計と自動化:** Visio を使用してワークフロー図を設計し、Microsoft Flow にエクスポートして自動化します。
 
 ### <a name="word"></a>Word
 
@@ -528,6 +532,7 @@ ms.locfileid: "37350268"
 - **手書きの数式の自動書式設定:** 手書きの数式を標準の文字に変換することができます。 変換を開始するには、[インクから数式] を選択して、手書きのメモを選択します。 [詳細情報](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **変更が発生したときに変更内容を自動的に保存する:** 変更が自動的に保存されるように、ファイルを OneDrive にアップロードしましょう。
 - **フィルターが適用された SVG を挿入する機能:** Office ユーザーは、フィルターが適用された SVG を挿入できるようになりました。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **大きなファイルがより速く開くようになりました:** OneDrive または SharePoint に保存されているファイルを開くと、画像、ビデオ、およびその他の大きな要素がバックグラウンドでダウンロードされるようになりました。
 
 ### <a name="word-feature-updates"></a>Word: 機能の更新
 
