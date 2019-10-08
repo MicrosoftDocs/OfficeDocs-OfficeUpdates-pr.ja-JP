@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 7b27ee8a99e987aea1d4e9f89e2816f570bbbe74
-ms.sourcegitcommit: a3d7811ec43bc314f1a90cbd2de5fb2a105c794a
+ms.openlocfilehash: 164383bff371e64336a2c9fb5c93cb3d5723ba3a
+ms.sourcegitcommit: 54722a89dde19941dfc9ad959f128a5c67f79023
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37300494"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "37400146"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office Insider のリリース ノート
 
@@ -29,6 +29,78 @@ ms.locfileid: "37300494"
 
 [//]: # (削除しないでください)
 
+
+## <a name="version-1910-october-04"></a>バージョン 1910: 10 月 4 日
+*バージョン 1910 (ビルド 12126.20000)*
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="excel"></a>Excel
+
+- **データ ビジュアライザー アドイン:** Excel から Visio フローチャートをすばやく作成します。 [詳細情報](https://support.office.com/ja-JP/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="non-security-updates"></a>セキュリティ以外の更新プログラム
+### <a name="excel"></a>Excel
+
+- <div><span>印刷プレビューの印刷範囲が正しくない問題を修正しました</span></div>
+
+
+- <div><span>共同編集セッション中にピボット テーブルが更新されないことがあった問題を修正しました</span></div>
+
+
+### <a name="access"></a>Access
+
+- <div>共有データベースの使用中に、"&quot;矛盾がある状態&quot;" エラーがユーザーに表示されることがある問題が修正されました。</div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>メール フォルダーの重複を引き起こすことがあった問題を修正しました</span></div>
+
+
+- <div><span>S/MIME で暗号化された電子メールを送信しようとしたときに誤ったエラー メッセージが表示されることがあった問題を修正しました</span></div>
+
+
+- <div><span>ユーザーが Skype から「不在着信した会話」メッセージを受信したときにクラッシュすることがあった問題を修正しました</span></div>
+
+
+- <div><span>メモリ リークを引き起こすことがあった問題を修正しました</span></div>
+
+
+- <div><span>下書きとして保存したときに送信者の名前が変更されることがあった問題を修正しました</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span></span></div>スライド マスターとスライド レイアウトのヘッダー/フッター/スライド番号プレースホルダーにテキストを貼り付けた後、TextRanges が破損することがあった問題を修正しました
+
+
+- <div><span></span></div>ハイパーリンク付きのテキストを貼り付けるときにハイパーリンクが作成されない問題を修正しました
+
+
+- <div>統計が正常に機能しなくなる問題を修正しました</div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>フォントの色がコミットされない問題を修正しました</span></div>
+
+
+### <a name="office-suite"></a>Office スイート
+
+- <div>この機能が無効になったときにバージョン履歴が表示されることがあった問題を修正しました</div>
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-1910-september-27"></a>バージョン 1910: 9 月 27 日
 *バージョン 1910 (ビルド 12119.20000)*
