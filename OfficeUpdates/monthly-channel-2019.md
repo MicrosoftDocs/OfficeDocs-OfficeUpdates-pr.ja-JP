@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: aebb9804268114f6716f3d283ac516b26c25c211
-ms.sourcegitcommit: 54722a89dde19941dfc9ad959f128a5c67f79023
+ms.openlocfilehash: 5171b3c95e42d23c140fe8f662dae84c129b1b4f
+ms.sourcegitcommit: b7303cf1e168500bcb2efe71dec23c9096715894
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37400136"
+ms.lasthandoff: 10/09/2019
+ms.locfileid: "37427687"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年の毎月のチャネル リリースのリリース ノート
 
@@ -24,10 +24,31 @@ ms.locfileid: "37400136"
 >- Microsoft では多くの場合、一定期間にわたって毎月、機能 (および場合によっては修正プログラム) を展開します。  ここで説明した内容がすぐに表示されない場合は、間もなく利用できるようになります。 [詳細情報](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Microsoft Teams の Office 365 ProPlus の既存のインストールについて: 7月の上旬から、Office 365 ProPlus (および Office 365 Business) の更新に Microsoft Teams が含まれます。  Teams が追加される日付は、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)」を参照してください。
 
+## <a name="version-1909-october-08"></a>バージョン 1909: 10 月 8 日
+*バージョン 1909 (ビルド 12026.20320)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="non-security-updates"></a>セキュリティ以外の更新プログラム
+
+### <a name="outlook"></a>Outlook
+
+- Outlook の添付ファイルのブロック ロジックが Python による添付ファイルもブロックする問題を修正しました。
+
+- ユーザーが定期的な予定表の一部のインスタンスを開けない原因となった問題に対処しました。
+
+- ユーザーが Outlook プロセスでメモリ リークを観測する原因となった問題に対処しました。
+
+- ユーザーがプロフィールの作成中にクラッシュを発生させる原因となった問題に対処しました。
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
 ## <a name="version-1909-september-30"></a>バージョン 1909: 9 月 30 日
 *バージョン 1909 (ビルド 12026.20264)*
 * さまざまなバグとパフォーマンスの修正。
-
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
@@ -240,7 +261,7 @@ ms.locfileid: "37400136"
 
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
 
- - 現在のフォルダー検索で断続的な失敗を引き起こす問題に対処します。
+- 現在のフォルダー検索で断続的な失敗を引き起こす問題に対処します。
 
 ## <a name="version-1906-june-27"></a>バージョン 1906: 6 月 27 日
 *バージョン 1906 (ビルド 11727.20230)*

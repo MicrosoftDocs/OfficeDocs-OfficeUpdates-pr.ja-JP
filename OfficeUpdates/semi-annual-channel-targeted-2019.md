@@ -9,24 +9,59 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル (対象指定) リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 3426e637cc5875cf8b463645ac8fba1af317eda1
-ms.sourcegitcommit: 01ac73d10be11b830776836c70d0a0efe4e7aafc
+ms.openlocfilehash: ecf9078bbde72572a96d97c97fc165a3678cd993
+ms.sourcegitcommit: b7303cf1e168500bcb2efe71dec23c9096715894
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37391271"
+ms.lasthandoff: 10/09/2019
+ms.locfileid: "37427697"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年の半期チャネル (対象指定) リリースのリリース ノート
 
 これらのリリースノートには、Visio Pro for Office 365、Project Online Desktop Client、および Office 365 Business を含む、2019 年の Office 365 ProPlus の半期チャネル (対象指定) の更新プログラムに含まれる新機能およびセキュリティ以外の更新に関する情報が記載されています。
- 
+
 > [!NOTE]
 > - 多くの場合、機能 (場合によっては修正プログラムも) は、特定の期間にわたって半期チャネル (対象指定) にロールアウトされます。 ここで説明される内容がすぐに確認できなくても、間もなく利用できるようになります。 [詳細情報](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
-
- > [!NOTE]
 > - Microsoft Teams は、バージョン 1902 以降の半期チャネル (対象指定) の新規インストールに含まれています。 Teams は、バージョン 1908以降に更新されると、半期チャネル (対象指定) の既存のインストールに追加されます。 詳細については、「[Office 365 ProPlus で Microsoft Teams を展開する](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)」をご覧ください。
 
- 
+## <a name="version-1908-october-08"></a>バージョン 1908: 10 月 8 日
+*バージョン 1908 (ビルド 11929.20388)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="non-security-updates"></a>セキュリティ以外の更新プログラム
+### <a name="excel"></a>Excel
+
+- 一部の保護されたシートにハイパーリンクが貼り付けられない問題を解決しました。
+
+- アドイン マネジャーで参照するときに、16 個以上のアドインを表示できる問題を修正しました。
+
+- Win32 クライアントの [アイデア] ボタンをクリックしてアドインを読み込むときにエラーが発生するという Excel のアイデア機能の問題を修正しました。
+
+### <a name="outlook"></a>Outlook
+
+- 一部の safelinks に対して簡易的なホバーの URL が正しく表示されなくなる問題が修正されました。
+
+- Python による添付ファイルもブロックされるよう、Outlook の添付ファイルのブロック ロジックを更新しました。
+
+- ユーザーが Outlook プロセスでメモリ リークを観測する原因となった問題に対処しました。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- PowerPoint での共同編集とオフライン編集の両方を含むセッションでデータの損失を引き起こす可能性のある問題を修正しました。
+
+### <a name="office-suite"></a>Office スイート
+
+- ユーザーがファイルを開くときに発生する可能性のあるクラッシュの問題を修正しました。
+
+- Backstage の Info Place のスラブにアクセシビリティ情報が表示されていない問題を修正しました。
+
+- 以前に中断された可能性のあるダウンロードを再開することにより、Office の更新プログラムをダウンロードするときの信頼性が向上しました。
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
 ## <a name="version-1908-september-10"></a>バージョン 1908: 9 月 10 日
 *バージョン 1908 (ビルド 11929.20300)*
 
