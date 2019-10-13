@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 164383bff371e64336a2c9fb5c93cb3d5723ba3a
-ms.sourcegitcommit: 54722a89dde19941dfc9ad959f128a5c67f79023
+ms.openlocfilehash: d55140544fff10e89ae061ba137d0516a8a9b181
+ms.sourcegitcommit: 9adeb1f93a176a586c2e12f7692141c4de3c1d9b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37400146"
+ms.lasthandoff: 10/11/2019
+ms.locfileid: "37471332"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office Insider のリリース ノート
 
@@ -29,6 +29,51 @@ ms.locfileid: "37400146"
 
 [//]: # (削除しないでください)
 
+
+## <a name="version-1910-october-11"></a>バージョン 1910: 10 月 11 日
+*バージョン 1910 (ビルド 12130.20112)*
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="non-security-updates"></a>セキュリティ以外の更新プログラム
+### <a name="excel"></a>Excel
+
+- <div>OneDrive からオブジェクトとしてファイルを挿入する場合の問題が解決されました</div>
+
+
+- <div>ハイパーリンク形式が一部のコンテンツに適切に適用されない場合がある問題が解決されました</div>
+
+
+- <div>数式に構造化された絶対参照が含まれる場合に誤って調整される可能性がある問題が解決されました</div>
+
+
+- <div>Office 現在のバージョンで開いた場合に Excel の停止を引き起こす可能性がある、Office の以前のバージョンで作成されるブックの問題が解決されました</div>
+
+
+- <div>Excel からコピーされたコンテンツを他の Office アプリケーションに貼り付けると、間違って表示されることがある問題が解決されました。</div>
+
+
+- <div>グラフ テンプレートを使用してグラフを挿入する場合に、プレビューで正しい色が使用されるよう修正します</div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div>AirSpace WinComp 下で実行しているときに ARC デバイスの接続が失われる問題を特定しました</div>
+
+
+### <a name="word"></a>Word
+
+- <div>OneDrive からオブジェクトとしてファイルを挿入する場合の問題が解決されました</div>
+
+
+- <div><span>メールのスレッドからグラフィカル コンテンツが削除される原因となっていた問題を修正&nbsp;</span>するための回復手順が改善されました。</div>
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-1910-october-04"></a>バージョン 1910: 10 月 4 日
 *バージョン 1910 (ビルド 12126.20000)*
