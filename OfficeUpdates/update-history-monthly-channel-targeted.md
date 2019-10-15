@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Windows デスクトップ用の月次チャンネル 対象指定リリースの更新履歴を Insider の皆様に提供します。
-ms.openlocfilehash: dd415a14bef7aac3aa907a4847ee2e52e47d584c
-ms.sourcegitcommit: 85de4fbe2104e3dcea6f6487aa263778d16c1dc3
+ms.openlocfilehash: 830179b4afed238c40bccaaa22d873cac227915a
+ms.sourcegitcommit: 49683ab7e2807057042defb376a31b332369d617
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/24/2019
-ms.locfileid: "37131669"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37508882"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Windows 向け Office の月次チャンネル (対象指定) チャンネルの更新履歴
 
@@ -30,11 +30,23 @@ ms.locfileid: "37131669"
 > - リリース ノートは、更新される頻度はもうすこし少なく、更新プログラムの複数のビルドを最新の発行済みリリース ノートのビルド番号までまとめたものである場合があります
 
  > [!NOTE]
-> - Office の既存のインストールに関する microsoft Teams 365 ProPlus-ProPlus 年6月より前に、これらのインストールの更新時に Microsoft Teams が既存の Office 365 (および Office 365 Business) のインストールに含まれます。 Teams が追加される日付は、使用している更新プログラムチャネルによって異なります。 詳細については、「 [office 365 ProPlus を使用して Microsoft Teams を展開](https://docs.microsoft.com/en-us/deployoffice/teams-install)する」を参照してください。
+> - Microsoft Teams に関連する既存の Office 365 ProPlus のインストール - 6 月の下旬から、これらの更新プログラムのインストール時に、Microsoft Teams が既存の Office 365 ProPlus (Office 365 Business) のインストールの中に含められます。 Teams が追加される日にちは、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/en-us/deployoffice/teams-install)」を参照してください。
 
-[//]: # (削除禁止)
+[//]: # (削除しないでください)
 
-**2019年9月23日**<br/>
+**2019年10月14日**<br/>
+バージョン 1910 (ビルド 12130.20184)<br/>
+
+**2019年10月14日**<br/>
+バージョン 1910 (ビルド 12130.20178)<br/>
+
+**2019年10月8日**<br/>
+バージョン 1909 (ビルド 12026.20320)<br/>
+
+**2019年9月28日**<br/>
+バージョン 1909 (ビルド 12026.20264)<br/>
+
+**2019 年 9 月 23 日**<br/>
 バージョン 1909 (ビルド 12026.20248)<br/>
 
 **2019年9月16日**<br/>
@@ -46,10 +58,10 @@ ms.locfileid: "37131669"
 **2019年8月25日**<br/>
 バージョン 1908 (ビルド 11929.20254)<br/>
 
-**2019年8月16日**<br/>
+**2019 年 8 月 16 日**<br/>
 バージョン 1908 (ビルド 11929.20182)<br/>
 
-**2019年8月13日**<br/>
+**2019 年 8 月 13 日**<br/>
 バージョン 1908 (ビルド 11929.20114)<br/>
 
 **2019年7月27日**<br/>
@@ -64,13 +76,13 @@ ms.locfileid: "37131669"
 **2019年7月15日**<br/>
 バージョン 1907 (ビルド 11901.20080)<br/>
 
-**2019年7月9日**<br/>
+**2019 年 7 月 9 日**<br/>
 バージョン 1906 (ビルド 11727.20244)<br/>
 
-**2019年6月27日**<br/>
+**2019 年 6 月 27 日**<br/>
 バージョン 1906 (ビルド 11727.20230)<br/>
 
-**2019年6月26日**<br/>
+**2019 年 6 月 26 日**<br/>
 バージョン 1906 (ビルド 11727.20224)<br/>
 
 **2019年6月23日**<br/>
@@ -79,7 +91,7 @@ ms.locfileid: "37131669"
 **2019年6月20日**<br/>
 バージョン 1906 (ビルド 11727.20188)<br/>
 
-**2019年6月11日**<br/>
+**2019 年 6 月 11 日**<br/>
 バージョン 1906 (ビルド 11727.20104)<br/>
 
 **2019年6月3日**<br/>
@@ -88,12 +100,12 @@ ms.locfileid: "37131669"
 **2019年5月25日**<br/>
 バージョン 1905 (ビルド 11629.20196)<br/>
 
-**2019年5月22日**<br/> バージョン 1905 (ビルド 11629.20164)<br/>
+**2019 年 5 月 22 日**<br/> バージョン 1905 (ビルド 11629.20164)<br/>
 
 **2019年5月16時**<br/>
 バージョン 1905 (ビルド 11629.20136)<br/>
 
-**2019年5月14日**<br/>
+**2019 年 5 月 14 日**<br/>
 バージョン 1904 (ビルド 11601.20204)<br/>
 
 **2019 年 5 月 8 日**<br/>
