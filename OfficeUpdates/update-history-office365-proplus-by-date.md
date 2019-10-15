@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT プロフェッショナルに、日付ごとに整理した Office 365 ProPlus リリースすべての一覧を、リリース ノートへのリンクを含めて提供します
-ms.openlocfilehash: 33c5882494fc6dc407eb9cd1438d65008935173d
-ms.sourcegitcommit: ba31adfbc9514f2c98d8420923696b1b77872621
+ms.openlocfilehash: f7555a84f2e95d03eec5d438678deb69a186a464
+ms.sourcegitcommit: 49683ab7e2807057042defb376a31b332369d617
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631232"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37508872"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 ProPlus の更新履歴 (日付別の一覧)
 
@@ -25,22 +25,20 @@ Office 365 ProPlus は、新機能、セキュリティ更新プログラム、�
 > - この表ではリリース日付順に表示され、最新リリース日が最初に示されています。 
 > - 更新プログラム チャネルの詳細については、「[Office 365 ProPlus 更新プログラム チャネルの概要](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)」を参照してください。
 
-次の表では、サポートされているバージョンと最新のビルド番号を更新プログラム チャネルごとに記載しています。 
+次の表では、サポートされているバージョンと最新のビルド番号を更新プログラム チャネルごとに記載しています。
 
 [//]: # (EOSTABLESTART)
 
 |**チャネル**|**バージョン**|**ビルド**|**リリース日**|**バージョンのサポート期限**|
 |:-----|:-----|:-----|:-----|:-----|
-|月次<br/>|1908<br/>|11929.20254<br/>|2019 年 8 月 26 日<br/>|バージョン 1909 がリリースされました<br/>|
-|半期 (対象指定)<br/>|1902<br/>|11328.20392<br/>|2019 年 8 月 13 日<br/>|2019 年 9 月 10 日<br/>|
-|半期<br/>|1902<br/>|11328.20392<br/>|2019 年 8 月 13 日<br/>|2020 年 9 月 8 日<br/>|
-|半期<br/>|1808<br/>|10730.20370<br/>|2019 年 8 月 13 日<br/>|2020 年 3 月 10 日<br/>|
-|半期<br/>|1803<br/>|9126.2432<br/>|2019 年 8 月 13 日<br/>|2019 年 9 月 10 日<br/>|
+|毎月<br/>|1909<br/>|12026.20334<br/>|2019 年 10 月 14 日<br/>|1910 バージョンがリリースされました<br/>|
+|半期 (対象指定)<br/>|1908<br/>|11929.20396<br/>|2019 年 10 月 14 日<br/>|2020 年 3 月 10 日<br/>|
+|半期<br/>|1902<br/>|11328.20438<br/>|2019 年 10 月 8 日<br/>|2020 年 9 月 8 日<br/>|
+|半期<br/>|1808<br/>|10730.20386<br/>|2019 年 10 月 8 日<br/>|2020 年 3 月 10 日<br/>|
 
 [//]: # (EOSTABLEEND)
 
 以前のリリースの Office 365 ProPlus から最新の現在のリリースへ更新する場合のおおよそのダウンロード サイズについて詳しくは、「[Office 365 ProPlus に対する更新プログラムのダウンロード サイズ](download-sizes-office365-proplus-updates.md)」をご覧ください。
-
 
 次の表に、月次、半期 (対象指定)、半期という更新プログラム チャネルでリリースされた Office 365 ProPlus の更新プログラムのバージョン番号とビルド番号の一覧を示します。この表の各項目は、対象リリースのリリース ノートに直接リンクしています。これらのリリース ノートには、Office 365 ProPlus の対象更新プログラムに含まれる機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムに関する情報が含まれます。  
 
@@ -48,6 +46,10 @@ Office 365 ProPlus は、新機能、セキュリティ更新プログラム、�
 
 |**Year**|**リリース日**|**月次チャネル**|**半期チャネル (対象指定)**|**半期チャネル**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|10 月 14 日|[バージョン 1909 (ビルド 12026.20334)](monthly-channel-2019.md#version-1909-october-14)|[バージョン 1908 (ビルド 11929.20396)](semi-annual-channel-targeted-2019.md#version-1908-october-14)| |
+|2019|10 月 8 日|[バージョン 1909 (ビルド 12026.20320)](monthly-channel-2019.md#version-1909-october-8)|[バージョン 1908 (ビルド 11929.20388)](semi-annual-channel-targeted-2019.md#version-1908-october-8)|[バージョン 1902 (ビルド 11328.20438)](semi-annual-channel-2019.md#version-1902-october-8)<br/>[バージョン 1808 (ビルド 10730.20386)](semi-annual-channel-2019.md#version-1808-october-8)|
+|2019|9 月 30 日|[バージョン 1909 (ビルド 12026.20264)](monthly-channel-2019.md#version-1909-september-30)| | |
+|2019|9 月 10 日|[バージョン 1908 (ビルド 11929.20300)](monthly-channel-2019.md#version-1908-september-10)|[バージョン 1908 (ビルド 11929.20300)](semi-annual-channel-targeted-2019.md#version-1908-september-10)|[バージョン 1902 (ビルド 11328.20420)](semi-annual-channel-2019.md#version-1902-september-10)<br/>[バージョン 1808 (ビルド 10730.20380)](semi-annual-channel-2019.md#version-1808-september-10)|
 |2019|8 月 26 日|[バージョン 1908 (ビルド 11929.20254)](monthly-channel-2019.md#version-1908-august-26)| | |
 |2019|8 月 13 日|[バージョン 1907 (ビルド 11901.20218)](monthly-channel-2019.md#version-1907-august-13)|[バージョン 1902 (ビルド 11328.20392)](semi-annual-channel-targeted-2019.md#version-1902-august-13)|[バージョン 1902 (ビルド 11328.20392)](semi-annual-channel-2019.md#version-1902-august-13)<br/>[バージョン 1808 (ビルド 10730.20370)](semi-annual-channel-2019.md#version-1808-august-13)<br/>[バージョン 1803 (ビルド 9126.2432)](semi-annual-channel-2019.md#version-1803-august-13)|
 |2019|7 月 29 日|[バージョン 1907 (ビルド 11901.20176)](monthly-channel-2019.md#version-1907-july-29)| | |

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 5171b3c95e42d23c140fe8f662dae84c129b1b4f
-ms.sourcegitcommit: b7303cf1e168500bcb2efe71dec23c9096715894
+ms.openlocfilehash: 42f7f28eb5b37681cdc5a39259230c4928e2e99b
+ms.sourcegitcommit: 49683ab7e2807057042defb376a31b332369d617
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "37427687"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37508862"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年の毎月のチャネル リリースのリリース ノート
 
@@ -23,6 +23,16 @@ ms.locfileid: "37427687"
  > [!NOTE]
 >- Microsoft では多くの場合、一定期間にわたって毎月、機能 (および場合によっては修正プログラム) を展開します。  ここで説明した内容がすぐに表示されない場合は、間もなく利用できるようになります。 [詳細情報](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Microsoft Teams の Office 365 ProPlus の既存のインストールについて: 7月の上旬から、Office 365 ProPlus (および Office 365 Business) の更新に Microsoft Teams が含まれます。  Teams が追加される日付は、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)」を参照してください。
+
+## <a name="version-1909-october-14"></a>バージョン 1909: 10 月 14 日
+*バージョン 1909 (ビルド 12026.20334)*
+
+### <a name="non-security-updates"></a>セキュリティ以外の更新プログラム
+
+### <a name="office-suite"></a>Office スイート
+
+- ユーザーが Word、Excel、および PowerPoint のドキュメントを保存できなくなるという問題が解決されました。  この問題は、[保存] アイコンをクリックしたり Ctrl キーを押しながら S キーを押したりした後に、新しいファイルを作成して "[モデル形式で保存] ダイアログ" を表示するユーザーに影響を与えます。
+
 
 ## <a name="version-1909-october-08"></a>バージョン 1909: 10 月 8 日
 *バージョン 1909 (ビルド 12026.20320)*

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Windows デスクトップ用の月次チャンネル Insider ファースト リリースの更新履歴を Insider の皆様に提供します。
-ms.openlocfilehash: f83de6b5c8a56e0bc7ff83c3c4ac039171839ebc
-ms.sourcegitcommit: 387fdd3ae168f420e1ed93ce7d486c5e0ff39e88
+ms.openlocfilehash: dbae84384185ba68b75ab69cfd979aee6e641a5c
+ms.sourcegitcommit: 9c4a7d9d2a2171e009e4e46ec5e46eaec6b78f10
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36998633"
+ms.lasthandoff: 10/14/2019
+ms.locfileid: "37501805"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Office Insider チャンネル の更新履歴
 
@@ -26,11 +26,23 @@ Insider の皆様。最新の更新プログラムがインストールされて
 
 ## <a name="office-insider-versions-and-builds"></a>Office Insider のバージョンとビルド
 
-Insider レベルに登録している場合は、新機能や強化された機能が含まれた更新プログラムを頻繁に取得できます。次の一覧は、最新の Insider のバージョンとビルドの更新履歴を示し、**最も新しくリリースされたビルドを最初に示しています**。新しいビルドには、以前のビルドに含まれるすべての更新プログラムが含まれます。 
+Insider レベルに登録している場合は、新機能や強化された機能が含まれた更新プログラムを頻繁に取得できます。次の一覧は、最新の Insider のバージョンとビルドの更新履歴を示し、**最も新しくリリースされたビルドを最初に示しています**。新しいビルドには、以前のビルドに含まれるすべての更新プログラムが含まれます。
 
 リリース ノートを確認するには、「[Windows デスクトップ版 Office のリリース ノート](https://docs.microsoft.com/ja-JP/OfficeUpdates/release-notes-office-insider)」を参照してください。
 
 [//]: # (削除しないでください)
+
+**2019 年 10 月 14 日**<br/>
+バージョン 1911 (ビルド 12209.20010)<br/>
+
+**2019 年 10 月 08 日**<br/>
+バージョン 1910 (ビルド 12130.20112)<br/>
+
+**2019 年 9 月 30 日**<br/>
+バージョン 1910 (ビルド 12126.20000)<br/>
+
+**2019 年 9 月 23 日**<br/>
+バージョン 1910 (ビルド 12119.20000)<br/>
 
 **2019 年 9 月 16 日**<br/>
 バージョン 1910 (ビルド 12112.20000)<br/>
@@ -148,7 +160,7 @@ Insider レベルに登録している場合は、新機能や強化された機
 [Twitter でフォローしてください](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
 [
-  ![Facebook のアイコンを表示している画像。 ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/ja-JP/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
+  ![Facebook のアイコンを表示している画像。 ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
 
 
 **新機能をいち早く取得**
