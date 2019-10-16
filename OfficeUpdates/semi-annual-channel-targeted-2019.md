@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル (対象指定) リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 932a52dd77bd7ab10217faef92fbc0cef02fca07
-ms.sourcegitcommit: 49683ab7e2807057042defb376a31b332369d617
+ms.openlocfilehash: 1416d7cfba623a37b0f206790e445b11d4be87e7
+ms.sourcegitcommit: 5dfdc197f7b08cd6ba44c20b3e540c3ebf5c4bde
 ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 10/15/2019
-ms.locfileid: "37508852"
+ms.locfileid: "37523133"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年の半期チャネル (対象指定) リリースのリリース ノート
 
@@ -23,6 +23,14 @@ ms.locfileid: "37508852"
 > [!NOTE]
 > - 多くの場合、機能 (場合によっては修正プログラムも) は、特定の期間にわたって半期チャネル (対象指定) にロールアウトされます。 ここで説明される内容がすぐに確認できなくても、間もなく利用できるようになります。 [詳細情報](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - Microsoft Teams は、バージョン 1902 以降の半期チャネル (対象指定) の新規インストールに含まれています。 Teams は、バージョン 1908以降に更新されると、半期チャネル (対象指定) の既存のインストールに追加されます。 詳細については、「[Office 365 ProPlus で Microsoft Teams を展開する](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)」をご覧ください。
+
+## <a name="version-1909-october-15"></a>バージョン 1909: 10 月 15 日
+*バージョン 1908 (ビルド 11929.20396)*
+
+### <a name="non-security-updates"></a>セキュリティ以外の更新プログラム
+
+### <a name="office-suite"></a>Office スイート
+- 2019 年 10 月 14 日に投稿した保存の問題に対処するために、クラウド保存ダイアログを一時的に無効にしました。 この機能は、7 日間のキャッシュ期間が経過すると再び有効になります。
 
 ## <a name="version-1908-october-14"></a>バージョン 1908: 10 月 14 日
 *バージョン 1908 (ビルド 11929.20396)*
@@ -37,7 +45,7 @@ ms.locfileid: "37508852"
 
 ### <a name="office-suite"></a>Office スイート
 
-- ユーザーが Word、Excel、および PowerPoint のドキュメントを保存できなくなるという問題が解決されました。  この問題は、[保存] アイコンをクリックしたり Ctrl キーを押しながら S キーを押したりした後に、新しいファイルを作成して "[モデル形式で保存] ダイアログ" を表示するユーザーに影響を与えます。
+- ユーザーが Word、Excel、および PowerPoint のドキュメントを保存できなくなるという問題が解決されました。  この問題は、[保存] アイコンをクリックしたり Ctrl キーを押しながら S キーを押したりした後に、新しいファイルを作成して [ダイアログで保存] オプションを表示するユーザーに影響を与えます。
 
 - 特定の状況で、更新後に Office ショートカットが消えてしまう場合があるという問題が解決されました。  この更新プログラムでは、Office ショートカットを公開するときの信頼性を向上します。
 

@@ -3,19 +3,19 @@ title: Office for Mac のリリース ノート
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 9/19/2019
+ms.date: 10/16/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 サブスクライバー向け Office for Mac リリース用リリース ノートを IT プロフェッショナルに提供
-ms.openlocfilehash: 4908b1e9cabf7bf273fe301a332841c0581a1c0c
-ms.sourcegitcommit: 2d7022fa8948c721aa334245d499a32f39c50d3d
+ms.openlocfilehash: fd48bba268faa49e78d4ce6100a895d2597cc224
+ms.sourcegitcommit: 5dfdc197f7b08cd6ba44c20b3e540c3ebf5c4bde
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/19/2019
-ms.locfileid: "37040695"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523143"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac のリリース ノート
 
@@ -31,9 +31,36 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 > - 2018 年 9 月の 16.17 リリース以降、これらのリリース ノートは、Office 2019 for Mac にも該当します。これは、小売店またはボリューム ライセンス契約によって 1 回限りの購入で使用できる Office for Mac のバージョンです。ただし、リリース ノートに記載されている一部の機能は、Office 365 サブスクリプションがある場合にのみ使用できます。
 > - 16.16 以前のバージョンのリリース ノートは、Office 2016 for Mac にも該当します。これも、1 回限りの購入で使用できる Office for Mac のバージョンです。16.16 以前のバージョンは、Office 2016 for Mac のボリューム ライセンスでアクティブ化できます。Office 2016 for Mac のボリューム ライセンスでは、16.17 以降のバージョンをアクティブ化することはできません。9 月以降の Office 2016 for Mac リリースの詳細については、[Office 2016 for Mac のリリース ノート](release-notes-office-2016-mac.md)をご覧ください。
 > > 
-> - Microsoft では多くの場合、一定期間にわたって毎月のチャネル、機能 (および場合によっては修正プログラム) を展開します。これにより、幅広いユーザーに機能を公開する前にスムーズに動作するかどうかを確認することができます。したがって、下記のものが表示されない場合でも、心配する必要はなく、いずれは表示されます。[詳細情報](https://support.office.com/ja-JP/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - Microsoft では多くの場合、一定期間にわたって毎月のチャネル、機能 (および場合によっては修正プログラム) を展開します。これにより、幅広いユーザーに機能を公開する前にスムーズに動作するかどうかを確認することができます。したがって、下記のものが表示されない場合でも、心配する必要はなく、いずれは表示されます。[詳細情報](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 **注:** Microsoft AutoUpdate (MAU) のリリース情報は、「[MAU のリリース ノート](https://docs.microsoft.com/ja-JP/officeupdates/release-history-microsoft-autoupdate)」ページに移動されました。<br/>
+
+## <a name="october-15-2019-release"></a>2019 年 10 月 15 日リリース
+*バージョン 16.30 (ビルド 19101301)*
+
+### <a name="word-feature-updates"></a>Word: 機能の更新
+
+- **Word で PDF を編集する**: PDF を開いて Word 文書に変換し、編集できるようになりました。
+### <a name="excel--feature-updates"></a>Excel: 機能の更新
+
+- **Visio データ ビジュアライザー Excel アドイン:** Excel の洗練された Visio 図にデータをすばやく簡単に可視化します。 [詳細情報](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+
+
+ ### <a name="excel-security-updates"></a>Excel: セキュリティの更新
+
+- [CVE-2019-1327](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2019-1327): Microsoft Excel のリモート コード実行の脆弱性
+- [CVE-2019-1331](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2019-1331): Microsoft Excel のリモート コード実行の脆弱性
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新
+
+- **インクを瞬時に再生:** インク描画にアニメーション効果を適用して、スライド ショーの間中、それが進んだり戻ったりして再生されるようにします。 [詳細情報](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496
+)
+
+
+### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
+
+- さまざまなパフォーマンスの問題が修正されました。<br/><br/>
 
 ## <a name="september-18-2019-release"></a>2019 年 9 月 18 日リリース
 *バージョン 16.29.1 (ビルド 19091700)*
