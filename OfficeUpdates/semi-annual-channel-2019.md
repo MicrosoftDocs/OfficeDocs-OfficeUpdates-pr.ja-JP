@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: b17a06e0bd38e7bdb8d0d91de27fa4f09a962eba
-ms.sourcegitcommit: 01ac73d10be11b830776836c70d0a0efe4e7aafc
+ms.openlocfilehash: 35c36de78ffe34da4565bb2996a81d73b178cfcc
+ms.sourcegitcommit: f0366356e2da83813c99a59e9ce3e60338d11dcc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37391321"
+ms.lasthandoff: 10/11/2019
+ms.locfileid: "37453587"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019 年の半期チャネル リリースのリリース ノート
 
@@ -25,6 +25,39 @@ ms.locfileid: "37391321"
 > - 半期チャネルのユーザーが Office ポータルから Office 365 をダウンロードして Windows 10 にインストールしたときに、既定では OneNote 2016 は含まれません。
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-1902-october-08"></a>バージョン 1902: 10 月 8 日
+*バージョン 1902 (ビルド 11328.20438)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="non-security-updates"></a>セキュリティ以外の更新プログラム
+### <a name="excel"></a>Excel
+
+- 一部の保護されたシートにハイパーリンクが貼り付けられない問題を解決しました。
+
+### <a name="project"></a>Project
+
+- 以下のシナリオで XPS ファイルの PDF が作成されない場合の問題を修正しました。</div><ul><li>プロジェクトを開きます。</li><li>[ファイル] メニューをクリックして、[エクスポート] をクリックし、[<b>PDF/XPS の作成</b>] ボタンをクリックします。</li><li>[参照] ダイアログ ボックス内で、ファイル名を入力して [OK] をクリックします。</li></ul>
+
+### <a name="word"></a>Word
+
+- Windows の現在のビルド上での JAWS で CapsLock と同時に右方向キーを使用すると単語が読み上げられないという問題を修正しました。
+
+### <a name="office-suite"></a>Office スイート
+
+- ユーザーは、OneDrive 同期クライアントによって同期された、必要なプロパティが欠落している Office ファイルを保存できるようになります。 [ファイル] > [情報] の順に移動して、ドキュメントのプロパティを引き続き表示し、ドキュメント バックステージで編集できます。 この変更により、パフォーマンスが向上します。
+
+- サインインに成功した後、&quot;アカウントを修正&quot;通知が消えないという問題を修正しました。
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-1808-october-08"></a>バージョン 1808: 10 月 8 日
+*バージョン 1808 (ビルド 10730.20386)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
 
 ## <a name="version-1902-september-10"></a>バージョン 1902: 9 月 10 日
 *バージョン 1902 (ビルド 11328.20420)*
