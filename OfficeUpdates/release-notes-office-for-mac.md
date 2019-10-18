@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 サブスクライバー向け Office for Mac リリース用リリース ノートを IT プロフェッショナルに提供
-ms.openlocfilehash: fd48bba268faa49e78d4ce6100a895d2597cc224
-ms.sourcegitcommit: 5dfdc197f7b08cd6ba44c20b3e540c3ebf5c4bde
+ms.openlocfilehash: e9e6dc1442a2b7b50f968b09a059e35f42bf0a33
+ms.sourcegitcommit: bd2285bb5931e247232bb31c47f7fcc8147360d4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523143"
+ms.lasthandoff: 10/17/2019
+ms.locfileid: "37564758"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac のリリース ノート
 
@@ -43,7 +43,7 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 - **Word で PDF を編集する**: PDF を開いて Word 文書に変換し、編集できるようになりました。
 ### <a name="excel--feature-updates"></a>Excel: 機能の更新
 
-- **Visio データ ビジュアライザー Excel アドイン:** Excel の洗練された Visio 図にデータをすばやく簡単に可視化します。 [詳細情報](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- さまざまなパフォーマンスの問題が修正されました。
 
 
 
