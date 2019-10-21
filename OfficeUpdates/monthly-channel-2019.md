@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: b21507a1d6802326f4888bebe7f2d2351bfe4842
-ms.sourcegitcommit: 5dfdc197f7b08cd6ba44c20b3e540c3ebf5c4bde
+ms.openlocfilehash: 2943fc287038498cd62c42932aebb5c216676619
+ms.sourcegitcommit: 5787a23a670c1b2412e7437d33124f6c5b80550c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523113"
+ms.lasthandoff: 10/16/2019
+ms.locfileid: "37553824"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年の毎月のチャネル リリースのリリース ノート
 
@@ -24,13 +24,12 @@ ms.locfileid: "37523113"
 >- Microsoft では多くの場合、一定期間にわたって毎月、機能 (および場合によっては修正プログラム) を展開します。  ここで説明した内容がすぐに表示されない場合は、間もなく利用できるようになります。 [詳細情報](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Microsoft Teams の Office 365 ProPlus の既存のインストールについて: 7月の上旬から、Office 365 ProPlus (および Office 365 Business) の更新に Microsoft Teams が含まれます。  Teams が追加される日付は、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)」を参照してください。
 
-## <a name="version-1909-october-15"></a>バージョン 1909: 10 月 15 日
-*バージョン 1908 (ビルド 11929.20396)*
+## <a name="october-15"></a>10 月 15 日
 
 ### <a name="non-security-updates"></a>セキュリティ以外の更新プログラム
 
 ### <a name="office-suite"></a>Office スイート
-- 2019 年 10 月 14 日に投稿された保存の問題を解決するために、一時的に [クラウド保存] ダイアログを無効にしました。 この機能は、7 日間のキャッシュ期間が経過すると再び有効になります。
+- 12130.20184 よりも古いビルドで 2019 年 10 月 14 日に投稿された保存の問題を解決するために、一時的に [クラウド保存] ダイアログを無効にしました。 この機能は、まもなく有効になります。
 
 ## <a name="version-1909-october-14"></a>バージョン 1909: 10 月 14 日
 *バージョン 1909 (ビルド 12026.20334)*
@@ -39,7 +38,7 @@ ms.locfileid: "37523113"
 
 ### <a name="office-suite"></a>Office スイート
 
-- ユーザーが Word、Excel、および PowerPoint のドキュメントを保存できなくなるという問題が解決されました。  この問題は、[保存] アイコンをクリックしたり Ctrl キーを押しながら S キーを押したりした後に、新しいファイルを作成して [ダイアログで保存] オプションを表示するユーザーに影響を与えます。
+- 12130.20184 よりも古いビルドでユーザーが Word、Excel、および PowerPoint 2019 のドキュメントを保存できなくなるという問題が解決されました。  この問題は、[保存] アイコンをクリックしたり Ctrl キーを押しながら S キーを押したりした後に、新しいファイルを作成して [名前を付けて保存] ダイアログを表示するユーザーに影響を与えます。
 
 
 ## <a name="version-1909-october-08"></a>バージョン 1909: 10 月 8 日
