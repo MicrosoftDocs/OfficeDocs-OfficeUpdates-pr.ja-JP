@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus の既知の問題に関する情報を提供します。
-ms.openlocfilehash: 60706952efab5ec1379cbe260442b5865f599f28
-ms.sourcegitcommit: 34571aa50b48a2111dee315f0ebf2e5f90cdf434
+ms.openlocfilehash: 8872d045698d314bcd2d911df744a696cbd60c5f
+ms.sourcegitcommit: d0863aa4ffd223e663bbbf4be0182192b127795e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37574375"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37593778"
 ---
 # <a name="office-365-proplus-known-issues"></a>Office 365 ProPlus の既知の問題
 
@@ -33,6 +33,7 @@ ms.locfileid: "37574375"
 |概要|影響を受けるアプリケーション|
 |:-------------------------------------------------------------------------------------|:---------------------|
 |検索と置換で、最初のアイテムを検索した後にダイアログでのフォーカスの位置が変わってしまう問題を特定しました。 <br><br> **解決済みのバージョン**: <br> SACT バージョン 1908 (16.0.11929.20396)|Excel<br><br>
+|色によるフィルター処理のパフォーマンスの問題を特定しました。 <br><br> **解決済みのバージョン**: <br>月次バージョン 1909 (16.0.12026.20264) <br>|Excel<br><br>
 |標準予定表からグループ予定表にアイテムをコピーするときに、ユーザーに権限エラーが発生する問題を特定しました。<br><br> **状態: 調査中**|Outlook<br><br>
 |すべてのアプリのリボンから図形の挿入ギャラリーが表示されるまでに約 4 秒かかるという Win7 のパフォーマンスの問題を特定しました。<br><br> **解決済みのバージョン**: <br>月次バージョン 1909 (16.0.12026.20264) <br> SACT バージョン 1908 (16.0.11929.20396)|PowerPoint<br><br>
 |特定の状況で、更新後に Office ショートカットが消えてしまう場合があるという問題を特定しました。  <br><br> **状態: 調査中**|Office スイート<br><br>
