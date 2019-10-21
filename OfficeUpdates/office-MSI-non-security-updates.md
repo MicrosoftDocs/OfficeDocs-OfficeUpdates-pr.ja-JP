@@ -3,19 +3,19 @@ title: Windows インストーラー (MSI) を使用しているバージョン�
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 永続的なバージョンの Office 2016、Office 2013、Office 2010 の最新のセキュリティ以外の更新プログラム情報へのリンクを IT 技術者に提供します
-ms.openlocfilehash: 8e9dbe270b0cd2104f73f363b865f6c3d8b498df
-ms.sourcegitcommit: bd6e681bdde320ee6d55f7d4e4434d4f0cde7a81
+ms.openlocfilehash: 59b615d4abf9e6af5dd69d242900648f659992b5
+ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36713540"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37342770"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Windows インストーラー (MSI) を使用しているバージョンの Office の最新のセキュリティ以外の更新プログラム
 
@@ -26,6 +26,23 @@ ms.locfileid: "36713540"
 > - この記事の情報は、Office の Office 365 バージョン (Office 365 ProPlus など) には適用されません。
 > - Office の更新プログラムをインストールする手順については、「[Office の更新プログラムをインストールする](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)」を参照してください。
 <br/><br/>
+
+## <a name="october-1-2019"></a>2019 年 10 月 1 日
+
+**Office 2016**<br/>
+Microsoft Office 2016 の更新プログラム ([KB4475585](https://support.microsoft.com/help/4475585)) <br/> Microsoft Office 2016 の更新プログラム ([KB4484114](https://support.microsoft.com/help/4484114)) <br/>
+Microsoft Office 2016 言語インターフェイス パックの更新プログラム ([KB4475582](https://support.microsoft.com/help/4475582))<br/>
+Microsoft Outlook 2016 の更新プログラム ([KB4484107](https://support.microsoft.com/help/4484107)) <br/>
+Microsoft PowerPoint 2016 の更新プログラム ([KB4475578](https://support.microsoft.com/help/4475578)) <br/>
+Microsoft Project 2016 の更新プログラム ([KB4484116](https://support.microsoft.com/help/4484116)) <br/>
+Microsoft Word 2016 の更新プログラム ([KB4484105](https://support.microsoft.com/help/4484105)) <br/>
+Skype for Business 2016 の更新プログラム ([KB4484102](https://support.microsoft.com/help/4484102)) <br/>
+
+**Office 2013**<br/>
+Microsoft Outlook 2013 の更新プログラム ([KB4484096](https://support.microsoft.com/help/4484096))<br/>
+
+**Office 2010**<br/>
+Microsoft Outlook 2010 の更新プログラム ([KB4475604](https://support.microsoft.com/help/4475604))<br/><br/>
 
 ## <a name="september-3-2019"></a>2019 年 9 月 3 日
 
