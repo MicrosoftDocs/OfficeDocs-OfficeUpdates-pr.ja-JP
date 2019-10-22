@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT プロフェッショナルに対して、最新リリースの Office 365 ProPlus の一覧をそれぞれの更新プログラム チャネルごとに、リリース ノートへのリンクと更新履歴を含めて提供します
-ms.openlocfilehash: b100110d36b730901339c3db1d78edae64099612
-ms.sourcegitcommit: c8c625824fd574e9365f60afee5c816b5845a8db
+ms.openlocfilehash: 4743df1d8d437972d0ec8800e2a2e232d7eda7b1
+ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/23/2019
-ms.locfileid: "35823956"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36444570"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Office 365 ProPlus の更新プログラムに関するリリース情報
 
@@ -44,6 +44,10 @@ ms.locfileid: "35823956"
  - 半期 (対象指定): [2019](semi-annual-channel-targeted-2019.md)、[2018](semi-annual-channel-targeted-2018.md)、[2017](semi-annual-channel-targeted-2017.md)、[2016](semi-annual-channel-targeted-2016.md)
  - 半期: [2019](semi-annual-channel-2019.md)、[2018](semi-annual-channel-2018.md)、[2017](semi-annual-channel-2017.md)、[2016](semi-annual-channel-2016.md)
 
+ ## <a name="release-history-for-office-deployment-tool"></a>Office 展開ツールのリリース履歴
+ Office 展開ツールのリリースの完全リストは、次の記事を参照してください。
+ - [Office 展開ツールのリリース履歴](ODT-release-history.md)
+
 ## <a name="office-for-mac-release-information"></a>Office for Mac のリリース情報
 
 Office for Mac の更新プログラム (Office 365 ProPlus が含まれる Office 365 サブスクリプション プランに付属) に関する情報については、次の記事をご覧ください。
@@ -54,7 +58,7 @@ Office for Mac の更新プログラム (Office 365 ProPlus が含まれる Offi
 
 ## <a name="related-topics"></a>関連項目
 
-- [Office 365 ProPlus 更新プログラムのチャネルの概要](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Office 365 ProPlus 更新プログラムのチャネルの概要](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)
 - [Office の展開](https://docs.microsoft.com/deployoffice/)
 - [Office 365 の新機能](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
 - [Office 365 のロードマップ](https://products.office.com/business/office-365-roadmap)
