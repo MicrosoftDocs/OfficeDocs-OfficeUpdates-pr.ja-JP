@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: d55140544fff10e89ae061ba137d0516a8a9b181
-ms.sourcegitcommit: 9adeb1f93a176a586c2e12f7692141c4de3c1d9b
+ms.openlocfilehash: 688f469ac559bd60f8bb309c49af83c5d33751b7
+ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "37471332"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595325"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office Insider のリリース ノート
 
@@ -29,6 +29,92 @@ ms.locfileid: "37471332"
 
 [//]: # (削除しないでください)
 
+
+## <a name="version-1911-october-18"></a>バージョン 1911: 10 月 18 日
+*バージョン 1911 (ビルド 12209.20010)*
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="outlook"></a>Outlook
+
+- **アクセシビリティ対応のメールを最も必要としている人に送信する:** Outlook では、メールのヒントが表示され、アクセシビリティ対応のコンテンツを必要とするユーザーに送信するときに、コンテンツがアクセシビリティ対応であることを確認できます
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **プレゼンテーションの最適化:** アクセシビリティ チェックを使用すると、スクリーン リーダーを考慮に入れて、スライド上のオブジェクトを配置することができます。
+
+### <a name="office-suite"></a>Office スイート
+
+- **アップロード センターは、Files Needing Attention experience に置き換えられます:** アップロード センターは、[ファイル] > [開く] の Office アプリケーション内に表示される Files Needing Attention experience に置き換えられます。 この新しいエクスペリエンスは、アップロード センターに比べ、最新かつ総合的で、煩わしくありません。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="non-security-updates"></a>セキュリティ以外の更新プログラム
+### <a name="excel"></a>Excel
+
+- <div><span>自動調整を使用して行の高さを調整するときにチェック ボックスのコントロールが縮小されるという問題を解決しました</span></div>
+
+
+- <div><span>スクロール後にセルを選択すると間違ったセルが選択されるという問題を解決しました</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>メールにデジタル署名付きの添付ファイルがある場合にそのメールに署名するとデジタル署名が破損する可能性があるという問題を特定しました</span></div>
+
+
+- <div><span>長いファイル名がメッセージ本文へのドラッグ アンド ドロップ後に切り捨てられるという問題を特定しました</span></div>
+
+
+- <div>リボンを自動的に非表示にするよう設定されている場合に検索ボックスが消えるという問題を特定しました</div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span></span></div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">スライド プレビューの縦横比が適切にロック/ロック解除されていないという問題を特定しました</span>
+
+
+### <a name="security"></a>セキュリティ
+
+- <div><span>ウェルカム メッセージに無効なリンクが含まれているという問題を特定しました</span></div>
+
+
+### <a name="project"></a>Project
+
+- <div>タスクの更新を実行中に入力したノートが保存されない可能性があるという問題を特定しました<br></div>
+
+
+- <div>ファイルがユーザーによってロックされている場合に、ユーザー名がエラー メッセージに表示されない可能性があるという問題を特定しました</div>
+
+
+- <div><span>読み取り専用のプロジェクトを開いたときに複数のメッセージを取得する可能性があるという問題を特定しました</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>スクリーン リーダーを使用中にコメントを表示するときの問題を特定しました</span></div>
+
+
+- <div><span>一部の批評がスペルまたは文法の批評と誤って識別されるという問題を特定しました</span></div>
+
+
+- <div><span>新しいコメント ダイアログがフォーカスを取得できないことがあるという問題を特定しました</span></div>
+
+
+### <a name="office-suite"></a>Office スイート
+
+- <div><span>&quot;[別のインストールが進行中です]&quot; という誤ったエラー メッセージによりアップグレードに失敗することがある問題を修正しました</span></div>
+
+- <div><span>ローカル リソースからクラウド リソースへの同期に影響する可能性がある問題を特定しました</span></div>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-1910-october-11"></a>バージョン 1910: 10 月 11 日
 *バージョン 1910 (ビルド 12130.20112)*
