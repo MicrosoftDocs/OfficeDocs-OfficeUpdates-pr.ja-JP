@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 2943fc287038498cd62c42932aebb5c216676619
-ms.sourcegitcommit: 5787a23a670c1b2412e7437d33124f6c5b80550c
+ms.openlocfilehash: f60a8ef5b2f4613ab4e5e4d49dbc6db06a5656cf
+ms.sourcegitcommit: a7df5bc43c95aeefb16cd4296eef29921d75f818
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "37553824"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37644188"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年の毎月のチャネル リリースのリリース ノート
 
@@ -24,12 +24,31 @@ ms.locfileid: "37553824"
 >- Microsoft では多くの場合、一定期間にわたって毎月、機能 (および場合によっては修正プログラム) を展開します。  ここで説明した内容がすぐに表示されない場合は、間もなく利用できるようになります。 [詳細情報](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Microsoft Teams の Office 365 ProPlus の既存のインストールについて: 7月の上旬から、Office 365 ProPlus (および Office 365 Business) の更新に Microsoft Teams が含まれます。  Teams が追加される日付は、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)」を参照してください。
 
+## <a name="version-1909-october-22"></a>バージョン 1909: 10 月 22 日
+*バージョン 1909 (ビルド 12026.20344)*
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="non-security-updates"></a>セキュリティ以外の更新プログラム
+### <a name="project"></a>Project
+- 読み取り専用のプロジェクトを開いたときに多数のメッセージを受けることがある問題を解決しました。
+
+### <a name="office-suite"></a>Office スイート
+
+- Office ユーザーのセキュリティを保護するために、Microsoft Office の更新プログラムは SHA-2 アルゴリズムのみを使用して署名されるようになりました。<br></div>
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+
 ## <a name="october-15"></a>10 月 15 日
 
 ### <a name="non-security-updates"></a>セキュリティ以外の更新プログラム
 
 ### <a name="office-suite"></a>Office スイート
 - 12130.20184 よりも古いビルドで 2019 年 10 月 14 日に投稿された保存の問題を解決するために、一時的に [クラウド保存] ダイアログを無効にしました。 この機能は、まもなく有効になります。
+
 
 ## <a name="version-1909-october-14"></a>バージョン 1909: 10 月 14 日
 *バージョン 1909 (ビルド 12026.20334)*

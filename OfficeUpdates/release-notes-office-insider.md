@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 688f469ac559bd60f8bb309c49af83c5d33751b7
-ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
+ms.openlocfilehash: 84c2c6eab8a590979e5578e7e4bd1fb1ca1df8a9
+ms.sourcegitcommit: d5f74908719192bf15836140fca7d160de2bccd1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595325"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37653440"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office Insider のリリース ノート
 
@@ -78,13 +78,7 @@ ms.locfileid: "37595325"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- <div><span></span></div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">スライド プレビューの縦横比が適切にロック/ロック解除されていないという問題を特定しました</span>
-
-
-### <a name="security"></a>セキュリティ
-
-- <div><span>ウェルカム メッセージに無効なリンクが含まれているという問題を特定しました</span></div>
-
+- <div><span>スライド プレビューの縦横比が適切にロック/ロック解除されていないという問題を特定しました</span></div>
 
 ### <a name="project"></a>Project
 
@@ -113,6 +107,9 @@ ms.locfileid: "37595325"
 - <div><span>&quot;[別のインストールが進行中です]&quot; という誤ったエラー メッセージによりアップグレードに失敗することがある問題を修正しました</span></div>
 
 - <div><span>ローカル リソースからクラウド リソースへの同期に影響する可能性がある問題を特定しました</span></div>
+
+- <div><span>ウェルカム メッセージに無効なリンクが含まれているという問題を特定しました</span></div>
+
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
