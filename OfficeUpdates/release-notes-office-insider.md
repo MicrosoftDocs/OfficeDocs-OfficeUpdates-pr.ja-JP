@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 84c2c6eab8a590979e5578e7e4bd1fb1ca1df8a9
-ms.sourcegitcommit: d5f74908719192bf15836140fca7d160de2bccd1
+ms.openlocfilehash: 22f4c64af414ed85db06bb4e7771f091076940ef
+ms.sourcegitcommit: 33bb47548810efeb6cd5c727c3487192fe6364a8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37653440"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37733011"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office Insider のリリース ノート
 
@@ -29,6 +29,97 @@ ms.locfileid: "37653440"
 
 [//]: # (削除しないでください)
 
+
+## <a name="version-1911-october-25"></a>バージョン 1911: 10 月 25 日
+*バージョン 1911 (ビルド 12215.20006)*
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="visio"></a>Visio
+
+- **Excel で洗練された Visio 図を作成する:** すばやく簡単に、データを Excel 内の洗練された Visio 図に可視化します。 [詳細情報](https://support.office.com/ja-JP/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+### <a name="word"></a>Word
+
+- **共同編集の改善:** コンテンツの変更をリアルタイムでユーザーが受け取れるようにすることで、共同編集のエクスペリエンスを改善しました。
+
+- **他のユーザーがすばやく変更を確認:** 共同編集の改善とは、これまでになく迅速に、共同作業者がユーザーによる変更を確認できることを意味します。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="access"></a>Access
+
+- <div><span>レコードのカウントが正しくないという問題が解決されました</span></div>
+
+
+### <a name="excel"></a>Excel
+
+- <div><span>結合されたセルで列を削除するパフォーマンスが大幅に改善されました</span></div>
+
+
+- <div><span>ユーザーが Office 365 の Excel ブック形式で保存できなくなる問題が解決されました</span></div>
+
+
+- <div><span>チェックボックスで正しく表示できないという問題が解決されました</span></div>
+
+
+- <div><span>グラフのサイズの変更が保存できないという問題が解決されました</span></div>
+
+
+- <div><span>VBA 関数の一部で、新しいグラフの種類に関するエラーが返される問題が解決されました</span></div>
+
+
+- <div><span>[データ ソースの選択] ダイアログで、一部のフィールドの大文字小文字の区別をしなかった問題が解決されました</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>グラフのサイズの変更が保存できないという問題が解決されました</span></div>
+
+
+### <a name="publisher"></a>Publisher
+
+- <div><span>図形がグラフィックの境界線の外側に表示される問題が解決されました</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>図形がグラフィックの境界線の外側に表示される問題が解決されました</span></div>
+
+
+- <div><span>テキストの強調表示が課題になるという問題が解決されました</span></div>
+
+
+- <div><span>ユーザーがエディターの個々のアイテムに移動できなくなる問題が解決されました</span></div>
+
+
+- <div><span>文法またはスペルのエラーが強調表示されない問題が解決されました</span></div>
+
+
+- <div><span>グラフのサイズの変更が保存できないという問題が解決されました</span></div>
+
+
+- <div><span>連絡先カードが、@ メンションに書式を設定した後に、開けなくなる問題が解決されました</span></div>
+
+
+- <div><span>ユーザーが、Word、Excel、PowerPoint のドキュメントを保存できなくなる場合があるという問題が解決されました。&nbsp;この問題は、[保存] アイコンをクリックしたり Ctrl キーを押しながら S キーを押したりした後に、新しいファイルを作成して &quot;[モデル形式で保存] ダイアログ&quot; を表示するユーザーに影響を与えます。</span></div>
+
+
+### <a name="office-suite"></a>Office スイート
+
+- <div><span>Windows 7 で図形を使用する場合のパフォーマンスの問題</span></div>
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-1911-october-18"></a>バージョン 1911: 10 月 18 日
 *バージョン 1911 (ビルド 12209.20010)*
@@ -1745,7 +1836,7 @@ Office では、アニメーションモデルをサポートするようにな�
 - 日本語で表示するとき、開封確認が正しく表示されない問題を解決しました
 
 ### <a name="access"></a>Access
-- パフォーマンスと安定性のさまざまな問題を修正
+- パフォーマンスと安定性のさまざまな問題の修正
 
 ### <a name="project"></a>Project
 - パフォーマンスと安定性のさまざまな問題を修正
