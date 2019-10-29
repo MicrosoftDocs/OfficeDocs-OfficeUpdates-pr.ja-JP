@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル (対象指定) リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: b7d3805f0305556362573c43606dcdc6f6755247
-ms.sourcegitcommit: 5787a23a670c1b2412e7437d33124f6c5b80550c
+ms.openlocfilehash: 8f023bc4e4155b17cb35ad85874b0c045f043da5
+ms.sourcegitcommit: 33bb47548810efeb6cd5c727c3487192fe6364a8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "37553814"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37732996"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年の半期チャネル (対象指定) リリースのリリース ノート
 
@@ -198,7 +198,7 @@ ms.locfileid: "37553814"
 
 - **コンテンツのリーチを拡大する:** ドキュメントのアクセシビリティを高める必要がありますか? アクセシビリティ チェックを使用すると、アクセシビリティの問題を自動的に監視できます。 [校閲]>[アクセシビリティ チェック] をクリックすると、何か問題が見つかった場合に、ステータス バーに通知が表示されます。
 
-- **ページに色を追加する:** すべて白の背景やすべて黒の背景が適していない場合に、新しいページの色を使用してすばやく変更できます。
+- **[学習ツール] モードで、ページで使用できる色が増えました:** Word の学習ツールでは、より多くのページ テーマ色が追加され、ページの背景色を変更できるようになりました。 すべて白またはすべて黒の背景だと読みにくいと感じるユーザーは少なくないため、PC と Mac の Word で色の選択肢を拡大しました。
 
 - **シームレスに切り替える:** 新しいアカウント マネージャーでは、Office 365 の職場用と個人用のアカウントがすべて 1 か所に表示されます。 アカウント間の切り替えがより簡単になりました。 [詳細情報](https://support.office.com/ja-JP/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
