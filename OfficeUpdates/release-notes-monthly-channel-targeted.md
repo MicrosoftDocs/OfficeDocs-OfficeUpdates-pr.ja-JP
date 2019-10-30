@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 78d4470967bee5c38f72b0845e5adcb854a96f89
-ms.sourcegitcommit: 23ba33ee213c0321adcffd12fea37e6fd119a40a
+ms.openlocfilehash: e14da6d1b42ec49e2466fa880d7961c480cc9b9b
+ms.sourcegitcommit: 0d87cddebea5866c31827bb1dd7636c1743deb73
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37663623"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37772580"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 月次チャネルのリリース ノート (対象指定)
 
@@ -33,7 +33,241 @@ ms.locfileid: "37663623"
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="version-1910-october-24"></a>バージョン 1910: 10 月 24 日
+### <a name="version-1910-october-28"></a>バージョン 1910: 10 月 28 日
+*バージョン 1910 (ビルド 12130.20272)*
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="excel"></a>Excel
+
+- **よりアクセシビリティの高い PDF ファイルを作成する:** PDF を作成すると、アクセシビリティ チェックが、保存する前に修正するアクセシビリティの問題を指摘します。 [詳細情報](https://support.office.com/ja-JP/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+- **ファイルを変換してアクセシビリティを向上させる**: ファイルを最新の形式にアップグレードすると、すべてのユーザがアクセスできるようになります。
+
+- **データ ビジュアライザー アドイン:** Excel から Visio フローチャートをすばやく作成します。 [詳細情報](https://support.office.com/ja-JP/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+### <a name="outlook"></a>Outlook
+
+- **未定:** 未定
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **インクを瞬時に再生:** スライドで手描き入力する場合は、スライド ショー中にアニメーションの再生を適用して、インクの実際の描画が再生されるようにします。 [詳細情報](https://support.office.com/ja-JP/article/fa4f044f-810b-43fe-b774-da04a0b37496)
+
+- **よりアクセシビリティの高い PDF ファイルを作成する:** PDF を作成すると、アクセシビリティ チェックが、保存する前に修正するアクセシビリティの問題を指摘します。
+
+- **ファイルを変換してアクセシビリティを向上させる**: ファイルを最新の形式にアップグレードすると、すべてのユーザがアクセスできるようになります。
+
+- **プレゼンテーションの最適化:** アクセシビリティ チェックを使用すると、スクリーン リーダーを考慮に入れて、スライド上のオブジェクトを配置することができます。
+
+### <a name="visio"></a>Visio
+
+- **Excel で洗練された Visio 図を作成する:** すばやく簡単に、データを Excel 内の洗練された Visio 図に可視化します。 [詳細情報](https://support.office.com/ja-JP/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+### <a name="word"></a>Word
+
+- **よりアクセシビリティの高い PDF ファイルを作成する:** PDF を作成すると、アクセシビリティ チェックが、保存する前に修正するアクセシビリティの問題を指摘します。 [詳細情報](https://support.office.com/ja-JP/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+- **ファイルを変換してアクセシビリティを向上させる**: ファイルを最新の形式にアップグレードすると、すべてのユーザがアクセスできるようになります。
+
+- **他のユーザーがすばやく変更を確認:** 共同編集の改善とは、これまでになく迅速に、共同作業者がユーザーによる変更を確認できることを意味します。
+
+- **共同編集の改善:** 他のユーザーがリアルタイムでコンテンツの変更を受け取れるようにすることで、共同編集のエクスペリエンスを改善しました。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="access"></a>Access
+
+- <div>共有データベースの使用中に、"&quot;矛盾がある状態&quot;" エラーがユーザーに表示されることがある問題が修正されました。</div>
+
+
+### <a name="excel"></a>Excel
+
+- <div>非同期のユーザー定義関数が同期して実行されるパフォーマンスの問題を解決ました。</div>
+
+
+- <div>以前のバージョンの Office で作成されたブックを、現在のバージョンの Office で開いたときに Excel がハングすることがある問題を解決しました</div>
+
+
+- <div><span>一部の保護されたシートにユーザーがハイパーリンクを貼り付けられないことがある問題を修正しました</span></div>
+
+
+- <div><span>リボンのフォント名が使用中のフォントと異なることがある問題を修正しました</span></div>
+
+
+- <div>ハイパーリンク形式が一部のコンテンツに適切に適用されない場合がある問題が解決されました</div>
+
+
+- <div>数式に構造化された絶対参照が含まれる場合に誤って調整される可能性がある問題が解決されました</div>
+
+
+- <div>Excel からコピーしたコンテンツを他の Office アプリケーションに貼り付けると正しく表示されないことがある問題を解決しました</div>
+
+
+- <h5>ユーザー シナリオ</h5><br><h5>欠陥</h5><br><h5>修正</h5><br><h5>開発/テストのメモ</h5><br><h5>コード レビュー</h5><br>
+
+
+- <div><span>シリーズ コレクションを変更するときに、散布図が適切にレンダリングされないことがある問題を修正しました</span></div>
+
+
+- <div><span>Excel が起動時にハングすることがある問題を修正しました</span></div>
+
+
+- <div>OneDrive からオブジェクトとしてファイルを挿入する場合の問題を解決しました</div>
+
+
+- <div><span>共同編集セッション中にピボット テーブルが更新されないことがあった問題を修正しました</span></div>
+
+
+- <div><span>印刷プレビューの印刷範囲が正しくない問題を修正しました</span></div>
+
+
+- <div>グラフ テンプレートを使用してグラフを挿入する場合に、プレビューで正しい色が使用されるよう修正します</div>
+
+
+### <a name="onenote"></a>OneNote
+
+- <div><span>コピーされたページへのリンクが、新しくコピーされたページではなく元のページに移動することがある問題を修正しました</span></div>
+
+
+### <a name="opc"></a>OPC
+
+- <div><span></span></div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;"> Internet Explorer で制限付きサイトの保護モードが無効になると、Outlook により不適切なリソースの使用量になることがある問題が修正されました</span>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">Office 365 の最新の認証に移行するときに、Outlook に複数のメールボックスを使用しているユーザーのメールボックスの同期を妨げる可能性がある問題を修正しました。</span><br></div>
+
+
+- <div><span>署名ラベルの一部の文字がドロップダウン メニューに表示されない問題を修正しました</span></div>
+
+
+- <div><span>多数の部屋が利用可能な場合の部屋選択のパフォーマンスが大幅に向上しました</span></div>
+
+
+- <div><span>ユーザーが予定表に添付ファイルを追加できない問題を修正しました</span></div>
+
+
+- <div><span>デジタル署名されたメッセージに返信するときに、エラー メッセージが表示される問題を修正しました</span></div>
+
+
+- <div><span>拡張されたフライトの検索の結果が検索結果に表示されない問題を修正しました</span></div>
+
+
+- <div><span>コンパクト ビューで UI が動かなくなることがある問題を修正しました</span></div>
+
+
+- <div><span>グループ スケジュール ビューで一部のユーザーがオフラインとして間違って表示される問題を修正しました</span></div>
+
+
+- <div><span>時々、ANSI ソースのテキスト貼り付けるときに Unicode 文字が表示されることがある問題を修正しました</span></div>
+
+
+- <div><span>メール フォルダーの重複を引き起こすことがあった問題を修正しました</span></div>
+
+
+- <div><span>S/MIME で暗号化された電子メールを送信しようとしたときに誤ったエラー メッセージが表示されることがあった問題を修正しました</span></div>
+
+
+- <div><span>ユーザーが Skype から「不在着信した会話」メッセージを受信したときにクラッシュすることがあった問題を修正しました</span></div>
+
+
+- <div><span>メモリ リークを引き起こすことがあった問題を修正しました</span></div>
+
+
+- <div><span>共有予定表フォルダーを操作するときに、アクセス許可エラーを報告することがあった問題を修正しました</span></div>
+
+
+- <div><span>下書きとして保存したときに送信者の名前が変更されることがあった問題を修正しました</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>PDFへの印刷時、ユーザーにエラーが発生する問題を修正しました</span></div>
+
+
+- <div>AirSpace WinComp 下で実行しているときに ARC デバイスの接続が失われることがある問題を特定しました</div>
+
+
+- <div><span></span></div>ハイパーリンク付きのテキストを貼り付けるときにハイパーリンクが作成されない問題を修正しました
+
+
+- <div>統計が正常に機能しなくなる問題を修正しました</div>
+
+
+- <div><span></span></div>スライド マスターとスライド レイアウトのヘッダー/フッター/スライド番号プレースホルダーにテキストを貼り付けた後、TextRanges が破損することがあった問題を修正しました
+
+
+### <a name="project"></a>Project
+
+- <div><span>エンタープライズ リソースをローカル リソースに置き換えるとクラッシュする可能性がある問題を修正しました</span></div>
+
+
+- <div><span><span style="display:inline !important;background-color:rgba(255, 255, 255, 1);">サブプロジェクトのローカル リソース、レート、およびその他のプロパティが保存されないことがあるマスター プロジェクトを介してプロジェクトが Project Web App に保存される問題を修正しました。</span><br></span></div>
+
+
+- <div><span><span style="display:inline !important;background-color:rgb(255, 255, 255);font-size:13.33px;">保護された作業が有効な場合、サマリー タスクの作業値を変更するとクラッシュすることがある問題</span></span>を修正しました</div>
+
+
+- <div><span>マスター プロジェクトがあり、ローカル カスタム フィールド値をマスター プロジェクトから挿入プロジェクトにコピー/貼り付けすると、タスクに関する一部の情報が正しく保存されない問題を修正しました。</span></div>
+
+
+- <font size=2 style="background-color:rgb(255, 255, 255);">エンタープライズ カレンダーとイベントを同期する機能を阻害することがある問題を修正しました</font>
+
+
+### <a name="word"></a>Word
+
+- <div><span>Ctrl + V ショートカット キーが効かなくなることがある問題を修正しました</span></div>
+
+
+- <div><span>下書き表示で同期スクロールが正常に機能しないことがある問題を修正しました</span></div>
+
+
+- <div><span>Deskjet プリンターの印刷時に、スケーリングの問題を引き起こすことがあった問題を修正しました</span></div>
+
+
+- <div>ドキュメントを初めて保存した後、ツール ヒントが正しく表示されないことがある問題を修正しました</div>
+
+
+- <div><span>テーブルの書式設定が失われることがある問題が修正されました</span></div>
+
+
+- <div>OneDrive からオブジェクトとしてファイルを挿入する場合の問題を解決しました</div>
+
+
+- <div><span>フォントの色がコミットされない問題を修正しました</span></div>
+
+
+### <a name="office-suite"></a>Office スイート
+
+- <div><span>アップロードが保留されているファイルを閉じるときに、ユーザーに誤ったエラー メッセージが表示される問題を修正しました</span></div>
+
+
+- <div><span>ファイルのローカル バージョンの破棄を促す警告が繰り返し発生することがある問題を修正しました</span></div>
+
+
+- <div>この機能が無効になったときにバージョン履歴が表示されることがあった問題を修正しました</div>
+
+
+- <div><span style="background-color:rgb(255, 255, 255);display:inline !important;">Outlook の基本認証プロンプト</span>にログイン名が事前に入力されるようになりました</div>
+
+
+- <div><span>中太字のテキストのスタイルが正しく表示されないことがあった問題を修正しました</span></div>
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-1910-october-24"></a>バージョン 1910: 10 月 24 日
 *バージョン 1910 (ビルド 12130.20238)*
 
 
@@ -64,7 +298,7 @@ ms.locfileid: "37663623"
 
 ### <a name="visio"></a>Visio
 
-- **Excel で洗練された Visio 図を作成する:** Excel の洗練された Visio 図にデータをすばやく簡単に可視化します。 [詳細情報](https://support.office.com/ja-JP/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Excel で洗練された Visio 図を作成する:** すばやく簡単に、データを Excel 内の洗練された Visio 図に可視化します。 [詳細情報](https://support.office.com/ja-JP/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 ### <a name="word"></a>Word
 
