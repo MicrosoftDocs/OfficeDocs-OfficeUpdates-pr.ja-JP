@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル (対象指定) リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 8f023bc4e4155b17cb35ad85874b0c045f043da5
-ms.sourcegitcommit: 33bb47548810efeb6cd5c727c3487192fe6364a8
+ms.openlocfilehash: c763167c1d2634c2c5baab54d3db2998921918ef
+ms.sourcegitcommit: 28b363a14142849ada83979106d2ff8ecfb9df9d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37732996"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37890036"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年の半期チャネル (対象指定) リリースのリリース ノート
 
@@ -131,8 +131,6 @@ ms.locfileid: "37732996"
 - **連続する会議の合間に時間を組み込む:** 既定で 5 分から 10 分早く会議を終了するように設定することで、出席者に休憩時間や場所の移動時間を与えることができます。
 
 - **ミームが表示される:** テキストまたは静的イメージだけでは十分ではない場合、アニメーション GIF を使用して要点を示すことができます。[詳細情報](https://support.office.com/ja-JP/article/114bb251-861f-41cd-b20f-7e7289630c5b)
-
-- **集中受信トレイの設定がデバイス間で変わらなくなります:** 集中受信トレイの設定がクラウドに保存されるようになりました。 どのコンピューターの Windows 版 Outlook や Outlook on the web でも、同じ機能をご利用いただけます。 [詳細情報](https://support.office.com/ja-JP/article/d77a442e-a86c-4bf8-b3dd-5571ae556986)
 
 - **Outlook のユーザー エクスペリエンスを更新しました:** 以前にプレビューを行い近日公開予定とされていたシンプルなエクスペリエンスで、最も重要な作業に集中できるように設計されています。 [詳細情報](https://support.office.com/ja-JP/article/db503157-1b45-45d5-af52-e9c978cd8bed)
 
