@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: b8481a71f1f861a9c8a0aace797c1f8dd46dd54b
-ms.sourcegitcommit: 28b363a14142849ada83979106d2ff8ecfb9df9d
+ms.openlocfilehash: 12534eb79781d02ff630097794273fd27fcc51dc
+ms.sourcegitcommit: 22e6c32930facc482cd61e5d2dcf00728e112806
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890026"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37929644"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年の毎月のチャネル リリースのリリース ノート
 
@@ -40,13 +40,13 @@ ms.locfileid: "37890026"
 
 - **ファイルを変換してアクセシビリティを向上させる**: ファイルを最新の形式にアップグレードすると、すべてのユーザがアクセスできるようになります。
 
-- **ドキュメントに機密ラベルを適用する:** ファイルとメールに機密ラベルを適用すると、ドキュメントは組織の情報保護ポリシーに準拠したものになります。
+- **ドキュメントとメールに機密ラベルを適用する:** ファイルとメールに機密ラベルを適用すると、それらは組織の情報保護ポリシーに準拠したものになります。 [詳細情報](https://aka.ms/officemipdocs)
 
 ### <a name="outlook"></a>Outlook
 
 - **エラーの後に Outlook をアップグレードするプロンプトが表示される:** Outlook で新しいバージョンで修正されたエラーが発生した場合、Outlook はお客様にアップグレードして修正するように促します
 
-- **ドキュメントに機密ラベルを適用する:** ファイルとメールに機密ラベルを適用すると、ドキュメントは組織の情報保護ポリシーに準拠したものになります。
+- **ドキュメントとメールに機密ラベルを適用する:** ファイルとメールに機密ラベルを適用すると、それらは組織の情報保護ポリシーに準拠したものになります。 [詳細情報](https://aka.ms/officemipdocs)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -54,7 +54,7 @@ ms.locfileid: "37890026"
 
 - **ファイルを変換してアクセシビリティを向上させる**: ファイルを最新の形式にアップグレードすると、すべてのユーザがアクセスできるようになります。
 
-- **ドキュメントに機密ラベルを適用する:** ファイルとメールに機密ラベルを適用すると、ドキュメントは組織の情報保護ポリシーに準拠したものになります。
+- **ドキュメントとメールに機密ラベルを適用する:** ファイルとメールに機密ラベルを適用すると、それらは組織の情報保護ポリシーに準拠したものになります。 [詳細情報](https://aka.ms/officemipdocs)
 
 ### <a name="word"></a>Word
 
@@ -66,7 +66,8 @@ ms.locfileid: "37890026"
 
 - **3D オブジェクトのマージによって引き起こされるドキュメント破損の問題を修正しました。:** 3D オブジェクトのマージによって引き起こされるドキュメント破損の問題を修正しました。
 
-- **ドキュメントに機密ラベルを適用する:** ファイルとメールに機密ラベルを適用すると、ドキュメントは組織の情報保護ポリシーに準拠したものになります。
+- **ドキュメントとメールに機密ラベルを適用する:** ファイルとメールに機密ラベルを適用すると、それらは組織の情報保護ポリシーに準拠したものになります。 [詳細情報](https://aka.ms/officemipdocs)
+
 ### <a name="office-suite"></a>Office スイート
 
 - **Office 365 ProPlus の既存のインストールに Microsoft Teams をインストールする:** 6 月下旬から、Microsoft Teams は、これらのインストールの更新時に、Office 365 ProPlus (および Office 365 Business) の既存のインストールに含まれます。 Teams が追加される日にちは、使用している更新プログラム チャネルによって異なります。 追加情報については、「Office 365 ProPlus と同時に Microsoft Teams を展開する」を参照してください。 [詳細情報](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)
