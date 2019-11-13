@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 81474ca6ba2e2cce145dfc8b80dff8c8b2857541
-ms.sourcegitcommit: e7eb58247abb6fc7f7082e98ae4847344f35a69e
+ms.openlocfilehash: 1c66699a53334e4da5c390bdfaae3455829b5b22
+ms.sourcegitcommit: 0488f84954e573c68209e28a2d11cf2010c6f588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/02/2019
-ms.locfileid: "37931911"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "38076421"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office Insider のリリース ノート
 
@@ -29,6 +29,42 @@ ms.locfileid: "37931911"
 
 [//]: # (削除しないでください)
 
+
+## <a name="version-1912-november-08"></a>バージョン 1912: 11 月 8 日
+*バージョン 1912 (ビルド 12231.20000)*
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="user-lifecycle"></a>ユーザーのライフサイクル
+
+- **AFO アクティベーションのエクスペリエンスの改善:** 新しい PC にバンドルされている Office のアクティベーション時にお客様に表示される画面の更新
+
+### <a name="word"></a>Word
+
+- **Word の新しい、改善されたオンライン ビデオ エクスペリエンス:** Word での新しいビデオの挿入および既存のビデオの再生に役立つ、新しくより安全なオンライン ビデオ エクスペリエンス
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- <div><span>クロス フォルダー コンテンツを含む断続的なクラッシュ</span></div>
+
+
+### <a name="office-suite"></a>Office スイート
+
+- <div><span>Excel から PowerPoint にグラフを貼り付けると、グラフのサイズが小さくなる場合があります</span></div>
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-1911-november-01"></a>バージョン 1911: 11 月 1 日
 *バージョン 1911 (ビルド 12228.20020)*
