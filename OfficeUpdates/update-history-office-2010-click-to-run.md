@@ -3,19 +3,19 @@ title: Office 2010 のクイック実行製品の更新履歴
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 08/14/2019
+ms.date: 11/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: クイック実行を使用する永続的なバージョンの Office 2010 の更新履歴を IT 技術者に提供します。
-ms.openlocfilehash: f12da7b89401b95d154dceba4cac27b25bff42a9
-ms.sourcegitcommit: 72b12def03a145b379c518a4e3c29e14585ca256
+ms.openlocfilehash: fde1f5a6ddc491caa8b2c949c0a95f70e76a1921
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36384548"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38282175"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Office 2010 のクイック実行製品の更新履歴
 
@@ -30,7 +30,7 @@ ms.locfileid: "36384548"
 これらの製品のいずれかを使用しており、最新の状態になっていることを確認するには、Office のバージョン番号を確認し、必要に応じて手動で Office を更新します。
   
 > [!NOTE]
-> Office 2010 の最新バージョンは**14.0.7236.5000**です。2019年8月13日にリリースされました。
+> Office 2010 の最新バージョンは**14.0.7241.5000**です。2019年11月12日にリリースされました。
   
 Office のバージョンを確認するには、以下のことを行います。
   
@@ -54,7 +54,10 @@ Office のバージョンを確認するには、以下のことを行います�
   
 |**リリース年**|**リリース日**|**バージョン番号**|**詳細情報**|
 |:-----|:-----|:-----|:-----|
-|2019|8 月 13 日  <br/> |14.0.7236.5000  <br/> |[KB 4514418](https://support.microsoft.com/en-us/help/4514418) <br/> |
+|2019|11 月 12 日  <br/> |14.0.7241.5000  <br/> |[KB 4527848](https://support.microsoft.com/en-us/help/4527848) <br/> |
+||10 月 8 日  <br/> |14.0.7239.5000  <br/> |[KB 4522242](https://support.microsoft.com/en-us/help/4522242) <br/> |
+||9 月 10 日  <br/> |14.0.7237.5000  <br/> |[KB 4517986](https://support.microsoft.com/en-us/help/4517986) <br/> |
+||8 月 13 日  <br/> |14.0.7236.5000  <br/> |[KB 4514418](https://support.microsoft.com/en-us/help/4514418) <br/> |
 ||7 月 9 日  <br/> |14.0.7235.5000  <br/> |[KB 4509295](https://support.microsoft.com/en-us/help/4509295) <br/> |
 ||6 月 11 日  <br/> |14.0.7234.5000  <br/> |[KB 4505743](https://support.microsoft.com/en-us/help/4505743) <br/> |
 ||5 月 14 日  <br/> |14.0.7233.5000  <br/> |[KB 4501270](https://support.microsoft.com/en-us/help/4501270) <br/> |

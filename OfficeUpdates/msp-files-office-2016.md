@@ -3,19 +3,19 @@ title: Office 2016 製品の最新の .msp ファイルの一覧
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 10/9/2019
+ms.date: 11/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Windows インストーラー (MSI) を使用する永続版の Office 2016 の最新の .msp ファイルのリストを IT 担当者に提供します
-ms.openlocfilehash: 1d3110b5361ef8cfaa99bf5df400833cfd2c61fb
-ms.sourcegitcommit: 29f758e10f808e181cc1fbe487023103353672a8
+ms.openlocfilehash: 4e7bcb36901aeb16ffb2e9f006b4a712a2adb5e4
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/08/2019
-ms.locfileid: "37423942"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289635"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2016-products"></a>Office 2016 製品の最新の .msp ファイルの一覧
 
@@ -25,19 +25,19 @@ ms.locfileid: "37423942"
   
 ## <a name="most-recently-updated-msp-files"></a>最近更新された .msp ファイル
 
-次の表に、 **2019 年10月**に更新された .msp ファイルの一覧を示します。
+次の表に、 **2019 年11月**に更新された .msp ファイルの一覧を示します。
   
 |セキュリティ以外の更新プログラム * * * *|セキュリティ更新プログラム * * * *|
 |:-----|:-----|
-|chart-x-none<br/>|excel-x-none  <br/>|
-|lip-*cc* <sup>1</sup><br/>|graph-x-none <br/>|
-|lync-x-none<br/>|<br/>|
-|mso-x-none<br/>|<br/>|
+|access-x-none<br/>|ace-x-none  <br/>|
+|chart-x-none <br/>|excel-x-none <br/>|
+|mso-x-none<br/>|graph-x-none<br/>|
+|msodll40ui-x-none<br/>|<br/>|
+|msodll99l-x-none<br/>|<br/>|
+|namectlserver-x-なし<br/>|<br/>|
 |outlook-x-none<br/>|<br/>|
 |powerpoint-x-none<br/>|<br/>|
-|project-x-none<br/>|<br/>|
 |word-x-none<br/>|<br/>|
-
 
 
 <br/>
@@ -48,64 +48,65 @@ ms.locfileid: "37423942"
   
 |****.msp ファイル名****|****製品****|****セキュリティ以外のリリース日****|****セキュリティ以外のサポート技術情報の記事****|****セキュリティのリリース日****|****セキュリティのリリースのサポート技術情報の記事****|****置き換えられたセキュリティのサポート技術情報の記事****|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|access-x-none  <br/> |Access 2016  <br/> |2019年7月2日  <br/> |[4462237](https://support.microsoft.com/help/4462237) <br/> |2018 年 7 月 10 日  <br/> |[4018338](https://support.microsoft.com/en-us/help/4018338) <br/> |[4011665](https://support.microsoft.com/en-us/help/4011665) <br/> |
-|ace-x-none  <br/> |Office 2016  <br/> |2019年7月2日  <br/> |[4464595](https://support.microsoft.com/help/4464595) <br/> |2019 年 9 月 10 日  <br/> |[4475591](https://support.microsoft.com/help/4475591) <br/> |[4475538](https://support.microsoft.com/help/4475538)  <br/> |
+|access-x-none  <br/> |Access 2016  <br/> |2019 年 11 月 5 日  <br/> |[4475539](https://support.microsoft.com/help/4475539) <br/> |2018 年 7 月 10 日  <br/> |[4018338](https://support.microsoft.com/en-us/help/4018338) <br/> |[4011665](https://support.microsoft.com/en-us/help/4011665) <br/> |
+|ace-x-none  <br/> |Office 2016  <br/> |2019 年 7 月 2 日  <br/> |[4464595](https://support.microsoft.com/help/4464595) <br/> |2019年11月12日  <br/> |[4484113](https://support.microsoft.com/help/4484113) <br/> |[4475591](https://support.microsoft.com/help/4475591)  <br/> |
 |acewss-x-none  <br/> |Office 2016  <br/> |2017 年 11 月 7 日  <br/> |[4011259](https://support.microsoft.com/help/4011259) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |
-|chart-x-none  <br/> |Office 2016  <br/> |2019年10月1日  <br/> |[4475585](https://support.microsoft.com/en-us/help/4475585) <br/> |2018 年 4 月 10 日  <br/> |[4018319](https://support.microsoft.com/en-us/help/4018319) <br/> |[4011095](https://support.microsoft.com/en-us/help/4011095) <br/> |
+|chart-x-none  <br/> |Office 2016  <br/> |2019 年 11 月 5 日  <br/> |[4484138](https://support.microsoft.com/en-us/help/4484138) <br/> |2018 年 4 月 10 日  <br/> |[4018319](https://support.microsoft.com/en-us/help/4018319) <br/> |[4011095](https://support.microsoft.com/en-us/help/4011095) <br/> |
 |conv-x-none  <br/> |Office 2016  <br/> |該当なし  <br/> |該当なし  <br/> |2017 年 9 月 12 日  <br/> |[3213551](https://support.microsoft.com/help/3213551) <br/> |[3203383](https://support.microsoft.com/help/3203383) <br/> |
 |csi-x-none  <br/> |Office 2016  <br/> |2018 年 5 月 1 日  <br/> |[4011634](https://support.microsoft.com/en-us/help/4011634) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |
 |csisyncclient-x-none  <br/> |Office 2016  <br/> |2016 年 10 月 4 日  <br/> |[3118264](https://support.microsoft.com/help/3118264) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |
 |dcf-x-none  <br/> |Office 2016  <br/> |2019 年 1 月 2 日  <br/> |[4461435](https://support.microsoft.com/help/4461435) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |
 |eqnedt32-x-none  <br/> |Office 2016  <br/> |該当なし  <br/> |該当なし  <br/> |2018 年 1 月 9 日  <br/> |[4011574](https://support.microsoft.com/help/4011574) <br/> |[4011262](https://support.microsoft.com/help/4011262)  <br/> |
-|excel-x-none  <br/> |Excel 2016  <br/> |2019年8月6日  <br/> |[4475550](https://support.microsoft.com/help/4475550) <br/> |2019年10月8日  <br/> |[4484112](https://support.microsoft.com/en-us/help/4484112) <br/> |[4475579](https://support.microsoft.com/en-us/help/4475579) <br/> |
+|excel-x-none  <br/> |Excel 2016  <br/> |2019 年 8 月 6 日  <br/> |[4475550](https://support.microsoft.com/help/4475550) <br/> |2019年11月12日  <br/> |[4484144](https://support.microsoft.com/en-us/help/4484144) <br/> |[4484112](https://support.microsoft.com/en-us/help/4484112) <br/> |
 |excelpp-x-none  <br/> |Office 2016  <br/> |2019 年 9 月 3 日  <br/> |[4011629](https://support.microsoft.com/help/4011629) <br/> |×  <br/> |×  <br/> |該当なし  <br/> |
 |exppdf-x-none  <br/> |Office 2016  <br/> |2016 年 4 月 5 日  <br/> |[2920720](https://support.microsoft.com/help/2920720) <br/> |×  <br/> |×  <br/> |該当なし  <br/> |
-|filterpack-x-none  <br/> |Office 2016  <br/> |2019年8月6日  <br/> |[3114528](https://support.microsoft.com/help/3114528) <br/> |×  <br/> |×  <br/> |該当なし  <br/> |
+|filterpack-x-none  <br/> |Office 2016  <br/> |2019 年 8 月 6 日  <br/> |[3114528](https://support.microsoft.com/help/3114528) <br/> |×  <br/> |×  <br/> |該当なし  <br/> |
 |fonts-x-none  <br/> |Office 2016  <br/> |2016 年 4 月 5 日  <br/> |[3114903](https://support.microsoft.com/help/3114903) <br/> |×  <br/> |×  <br/> |該当なし  <br/> |
 |gkall-x-none  <br/> |Office 2016  <br/> |2016 年 9 月 6 日  <br/> |[3115276](https://support.microsoft.com/help/3115276) <br/> |×  <br/> |×  <br/> |該当なし  <br/> |
-|graph-x-none  <br/> |Office 2016  <br/> |2018 年 3 月 6 日  <br/> |[4011624](https://support.microsoft.com/en-us/help/4011624) <br/> |2019年10月8日  <br/> |[4475554](https://support.microsoft.com/en-us/help/4475554) <br/> |[4461539](https://support.microsoft.com/en-us/help/4461539)  <br/> |
+|graph-x-none  <br/> |Office 2016  <br/> |2018 年 3 月 6 日  <br/> |[4011624](https://support.microsoft.com/en-us/help/4011624) <br/> |2019年11月12日  <br/> |[4484148](https://support.microsoft.com/en-us/help/4484148) <br/> |[4475554](https://support.microsoft.com/en-us/help/4475554)  <br/> |
 |groove-x-none  <br/> |OneDrive for Business  <br/> |2018年8月7日  <br/> |[4022219](https://support.microsoft.com/help/4022219) <br/> |×  <br/> |×  <br/> |該当なし  <br/> |
-|ieawsdc-x-none  <br/> |Office 2016  <br/> |2015 年 10 月 13 日  <br/> |[3085538](https://support.microsoft.com/help/3085538) <br/> |×  <br/> |×  <br/> |該当なし  <br/> |
+|ieawsdc-x-none  <br/> |Office 2016  <br/> |×  <br/> |該当なし <br/> |2015 年 10 月 13 日  <br/> |[3085538](https://support.microsoft.com/help/3085538)  <br/> |該当しない  <br/> |
 |kohhc-x-none  <br/> |Office 2016  <br/> |2017 年 6 月 6 日  <br/> |[3191929](https://support.microsoft.com/help/3191929) <br/> |×  <br/> |×  <br/> |該当なし  <br/> |
-|lip-*cc* <sup>1</sup> <br/> |Office 2016 Language Interface Pack  <br/> |2019年10月1日  <br/> |[4475582](https://support.microsoft.com/en-us/help/4475582) <br/> |×  <br/> |×  <br/> |該当なし  <br/> |
-|lync-x-none  <br/> |Skype for Business 2016  <br/> |2019年10月1日  <br/> |[4484102](https://support.microsoft.com/en-us/help/4484102) <br/> |2019 年 7 月 9 日  <br/> |[4475545](https://support.microsoft.com/help/4475545) <br/> |[4461473](https://support.microsoft.com/help/4461473)  <br/> |
+|lip-*cc* <sup>1</sup> <br/> |Office 2016 Language Interface Pack  <br/> |2019 年 10 月 1 日  <br/> |[4475582](https://support.microsoft.com/en-us/help/4475582) <br/> |×  <br/> |×  <br/> |該当なし  <br/> |
+|lync-x-none  <br/> |Skype for Business 2016  <br/> |2019 年 10 月 1 日  <br/> |[4484102](https://support.microsoft.com/en-us/help/4484102) <br/> |2019 年 7 月 9 日  <br/> |[4475545](https://support.microsoft.com/help/4475545) <br/> |[4461473](https://support.microsoft.com/help/4461473)  <br/> |
 |mscomctlocx-x-none  <br/> |Office 2016  <br/> |×  <br/> |該当なし  <br/> |2016 年 1 月 12 日  <br/> |[2920727](https://support.microsoft.com/help/2920727) <br/> |該当なし  <br/> |
 |msmipc-x-none  <br/> |Office 2016  <br/> |2017 年 4 月 4 日  <br/> |[3178666](https://support.microsoft.com/help/3178666) <br/> |該当しない  <br/> |×  <br/> |該当なし  <br/> |
-|mso-x-none  <br/> |Office 2016  <br/> |2019年10月1日  <br/> |[4484114](https://support.microsoft.com/en-us/help/4484114) <br/> |2019 年 9 月 10 日  <br/> |[4475583](https://support.microsoft.com/en-us/help/4475583) <br/> |[4462242](https://support.microsoft.com/en-us/help/4462242) <br/> |
+|mso-x-none  <br/> |Office 2016  <br/> |2019年11月5日  <br/> |[4484137](https://support.microsoft.com/en-us/help/4484137) <br/> |2019 年 9 月 10 日  <br/> |[4475583](https://support.microsoft.com/en-us/help/4475583) <br/> |[4462242](https://support.microsoft.com/en-us/help/4462242) <br/> |
 |msodll20-x-none  <br/> |Office 2016  <br/> |2019 年 5 月 7 日  <br/> |[4461441](https://support.microsoft.com/help/4461441) <br/> |2017 年 6 月 13 日  <br/> |[3178667](https://support.microsoft.com/help/3178667) <br/> |該当なし  <br/> |
 |msodll30-x-none  <br/> |Office 2016  <br/> |2019 年 9 月 3 日  <br/> |[4464584](https://support.microsoft.com/en-us/help/4464584) <br/> |2017 年 9 月 12 日  <br/> |[4011126](https://support.microsoft.com/help/4011126) <br/> |[3213545](https://support.microsoft.com/help/3213545)  <br/> |
-|msodll40ui-x-none  <br/> |Office 2016  <br/> |2019年8月6日  <br/> |[4464588](https://support.microsoft.com/en-us/help/4464588) <br/> |2016 年 5 月 10 日  <br/> |[3115103](https://support.microsoft.com/help/3115103) <br/> |該当なし  <br/> |
-|msodll99l-x-none  <br/> |Office 2016  <br/> |2019年6月4日  <br/> |[4464579](https://support.microsoft.com/en-us/help/4464579) <br/> |2019 年 7 月 9 日  <br/> |[4475514](https://support.microsoft.com/help/4475514) <br/> |[4011622](https://support.microsoft.com/help/4011622) <br/> |
+|msodll40ui-x-none  <br/> |Office 2016  <br/> |2019 年 11 月 5 日  <br/> |[4475588](https://support.microsoft.com/en-us/help/4475588) <br/> |2016 年 5 月 10 日  <br/> |[3115103](https://support.microsoft.com/help/3115103) <br/> |該当なし  <br/> |
+|msodll99l-x-none  <br/> |Office 2016  <br/> |2019 年 11 月 5 日  <br/> |[4475552](https://support.microsoft.com/en-us/help/4475552) <br/> |2019 年 7 月 9 日  <br/> |[4475514](https://support.microsoft.com/help/4475514) <br/> |[4011622](https://support.microsoft.com/help/4011622) <br/> |
 |msohevi-x-none  <br/> |Office 2016  <br/> |2018 年 5 月 1 日  <br/> |[4022133](https://support.microsoft.com/en-us/help/4022133) <br/> |2019 年 1 月 8 日  <br/> |[4022162](https://support.microsoft.com/help/4022162)  <br/> |該当なし  <br/> |
 |mtextra-x-なし  <br/> |Office 2016  <br/> |2018年6月5日  <br/> |[4022193](https://support.microsoft.com/en-us/help/4022193) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |
+|namectlserver-x-なし  <br/> |Office 2016  <br/> |2019 年 11 月 5 日  <br/> |[4484145](https://support.microsoft.com/help/4484145) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |
 |nlgmsproof-x-なし  <br/> |Office 2016  <br/> |2019 年 5 月 7 日  <br/> |[2920717](https://support.microsoft.com/help/2920717) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |
 |oart-x-none  <br/> |Office 2016  <br/> |2019 年 9 月 3 日  <br/> |[4464531](https://support.microsoft.com/help/4464531) <br/> |2018 年 4 月 10 日  <br/> |[4011628](https://support.microsoft.com/en-us/help/4011628) <br/> |[3203474](https://support.microsoft.com/en-us/help/3203474) <br/> |
 |oleo-x-none  <br/> |Office 2016  <br/> |2019 年 5 月 7 日  <br/> |[4462119](https://support.microsoft.com/help/4462119) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |
-|onenote-x-none  <br/> |OneNote 2016  <br/> |2019年8月6日  <br/> |[4092450](https://support.microsoft.com/en-us/help/4092450) <br/> |2016 年 8 月 9 日  <br/> |[3115419](https://support.microsoft.com/help/3115419) <br/> |[3114862](https://support.microsoft.com/help/3114862)  <br/> |
+|onenote-x-none  <br/> |OneNote 2016  <br/> |2019 年 8 月 6 日  <br/> |[4092450](https://support.microsoft.com/en-us/help/4092450) <br/> |2016 年 8 月 9 日  <br/> |[3115419](https://support.microsoft.com/help/3115419) <br/> |[3114862](https://support.microsoft.com/help/3114862)  <br/> |
 |orgidcrl-x-none  <br/> |Office 2016  <br/> |2015 年 12 月 8 日  <br/> |[2920712](https://support.microsoft.com/help/2920712) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |
 |ose-x-none  <br/> |Office 2016  <br/> |該当なし  <br/> |該当なし  <br/> |2018 年 7 月 10 日  <br/> |[4022176](https://support.microsoft.com/en-us/help/4022176) <br/> |[4011237](https://support.microsoft.com/en-us/help/4011237) <br/> |
-|osetup-x-none  <br/> |Office 2016  <br/> |2019年8月6日  <br/> |[4032254](https://support.microsoft.com/en-us/help/4032254) <br/>  |2018 年 7 月 10 日  <br/> |[4022172](https://support.microsoft.com/en-us/help/4022172) <br/> |[4011239](https://support.microsoft.com/en-us/help/4011239) <br/> |
+|osetup-x-none  <br/> |Office 2016  <br/> |2019 年 8 月 6 日  <br/> |[4032254](https://support.microsoft.com/en-us/help/4032254) <br/>  |2018 年 7 月 10 日  <br/> |[4022172](https://support.microsoft.com/en-us/help/4022172) <br/> |[4011239](https://support.microsoft.com/en-us/help/4011239) <br/> |
 |osfclient-x-none  <br/> |Office 2016  <br/> |2019 年 9 月 3 日  <br/> |[4475580](https://support.microsoft.com/en-us/help/4475580) <br/> |2019 年 7 月 9 日  <br/> |[4464534](https://support.microsoft.com/en-us/help/4464534)  <br/> |該当しない  <br/> |
-|ospp-x-none  <br/> |Office 2016  <br/> |2015 年 12 月 8 日  <br/> |[2920724](https://support.microsoft.com/help/2920724) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |
+|ospp-x-none  <br/> |Office 2016  <br/> |2015 年 12 月 8 日  <br/> |[2920724](https://support.microsoft.com/help/2920724) <br/> |×  <br/> |×  <br/> |該当なし  <br/> |
 |otkruntimertl-x-none  <br/> |Office 2016  <br/> |×  <br/> |該当なし  <br/> |2016 年 3 月 8 日  <br/> |[3114690](https://support.microsoft.com/help/3114690) <br/> |該当なし  <br/> |
-|outexum-x-none  <br/> |Office 2016  <br/> |2019年8月6日  <br/> |[4464535](https://support.microsoft.com/help/4464535) <br/> |×  <br/> |×  <br/> |該当なし  <br/> |
+|outexum-x-none  <br/> |Office 2016  <br/> |2019 年 8 月 6 日  <br/> |[4464535](https://support.microsoft.com/help/4464535) <br/> |×  <br/> |×  <br/> |該当なし  <br/> |
 |outlfltr-x-none  <br/> |Office 2016  <br/> |2016 年 8 月 2 日  <br/> |[3115407](https://support.microsoft.com/help/3115407) <br/> |×  <br/> |×  <br/> |該当なし  <br/> |
-|outlook-x-none  <br/> |Outlook 2016  <br/> |2019年10月1日  <br/> |[4484107](https://support.microsoft.com/en-us/help/4484107) <br/> |2019 年 8 月 13 日  <br/> |[4475553](https://support.microsoft.com/help/4475553) <br/> |[4475517](https://support.microsoft.com/help/4475517) <br/> |
+|outlook-x-none  <br/> |Outlook 2016  <br/> |2019 年 11 月 5 日  <br/> |[4484139](https://support.microsoft.com/en-us/help/4484139) <br/> |2019 年 8 月 13 日  <br/> |[4475553](https://support.microsoft.com/help/4475553) <br/> |[4475517](https://support.microsoft.com/help/4475517) <br/> |
 |policytips-x-none  <br/> |Office 2016  <br/> |2016 年 6 月 7 日  <br/> |[3115081](https://support.microsoft.com/help/3115081) <br/> |×  <br/> |×  <br/> |該当なし  <br/> |
-|powerpoint-x-none  <br/> |PowerPoint 2016  <br/> |2019年10月1日  <br/> |[4475578](https://support.microsoft.com/en-us/help/4475578) <br/> |2018 年 12 月 11 日  <br/> |[4461532](https://support.microsoft.com/help/4461532) <br/> |[4461434](https://support.microsoft.com/en-us/help/4461434) <br/> |
+|powerpoint-x-none  <br/> |PowerPoint 2016  <br/> |2019 年 11 月 5 日  <br/> |[4484134](https://support.microsoft.com/en-us/help/4484134) <br/> |2018 年 12 月 11 日  <br/> |[4461532](https://support.microsoft.com/help/4461532) <br/> |[4461434](https://support.microsoft.com/en-us/help/4461434) <br/> |
 |ppaddin-x-none  <br/> |Office 2016  <br/> |2017 年 12 月 5 日  <br/> |[4011225](https://support.microsoft.com/help/4011225) <br/> |該当しない  <br/> |×  <br/> |該当なし  <br/> |
-|project-x-none  <br/> |Project 2016  <br/> |2019年10月1日  <br/> |[4484116](https://support.microsoft.com/en-us/help/4484116) <br/> |2019 年 9 月 10 日  <br/> |[4475589](https://support.microsoft.com/help/4475589) <br/> |[4461478](https://support.microsoft.com/help/4461478)  <br/> |
+|project-x-none  <br/> |Project 2016  <br/> |2019 年 10 月 1 日  <br/> |[4484116](https://support.microsoft.com/en-us/help/4484116) <br/> |2019 年 9 月 10 日  <br/> |[4475589](https://support.microsoft.com/help/4475589) <br/> |[4461478](https://support.microsoft.com/help/4461478)  <br/> |
 |proof-x-none  <br/> |Office 2016  <br/> |2019 年 5 月 7 日  <br/> |[4464538](https://support.microsoft.com/help/4464538) <br/> |×  <br/> |×  <br/> |該当なし  <br/> |
 |protocolhndlr-x-なし  <br/> |Office 2016  <br/> |2019 年 9 月 3 日  <br/> |[3114852](https://support.microsoft.com/help/3114852) <br/> |×  <br/> |×  <br/> |該当なし  <br/> |
 |publisher-x-none  <br/> |Publisher 2016  <br/> |2017 年 8 月 1 日  <br/> |[3178696](https://support.microsoft.com/help/3178696) <br/> |2015 年 11 月 10 日  <br/> |[2920680](https://support.microsoft.com/help/2920680) <br/> |該当なし  <br/> |
 |riched20-x-none  <br/> |Office 2016  <br/> |2018年10月2日  <br/> |[4011669](https://support.microsoft.com/help/4011669) <br/> |×  <br/> |×  <br/> |該当なし  <br/> |
-|seguiemj-x-none  <br/> |Office 2016  <br/> |2019年7月2日  <br/> |[4032236](https://support.microsoft.com/help/4032236) <br/> |×  <br/> |×  <br/> |該当なし  <br/> ||
-|setupexe-x-なし  <br/> |Office 2016  <br/> |2019年8月6日  <br/> |[3141456](https://support.microsoft.com/en-us/help/3141456) <br/> |×  <br/> |×  <br/> |該当なし  <br/> |
+|seguiemj-x-none  <br/> |Office 2016  <br/> |2019 年 7 月 2 日  <br/> |[4032236](https://support.microsoft.com/help/4032236) <br/> |×  <br/> |×  <br/> |該当なし  <br/> ||
+|setupexe-x-なし  <br/> |Office 2016  <br/> |2019 年 8 月 6 日  <br/> |[3141456](https://support.microsoft.com/en-us/help/3141456) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |
 |stslist-x-none  <br/> |Office 2016  <br/> |2019年2月5日  <br/> |[4022161](https://support.microsoft.com/en-us/help/4022161) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |
 |stsupld-x0-none  <br/> |Office 2016  <br/> |2016 年 3 月 8 日  <br/> |[2920678](https://support.microsoft.com/help/2920678) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |
 |vbe7-x-none  <br/> |Office 2016  <br/> |2016 年 5 月 3 日  <br/> |[3114369](https://support.microsoft.com/help/3114369) <br/> |2016 年 11 月 8 日  <br/> |[3115135](https://support.microsoft.com/help/3115135) <br/> |該当なし  <br/> |
 |visio-x-none  <br/> |Visio 2016  <br/> |2019 年 5 月 7 日  <br/> |[4462113](https://support.microsoft.com/en-us/help/4462113) <br/> |2016 年 6 月 14 日  <br/> |[3115041](https://support.microsoft.com/help/3115041) <br/> |[3114511](https://support.microsoft.com/help/3114511)  <br/> |
-|word-x-none  <br/> |Word 2016  <br/> |2019年10月1日  <br/> |[4484105](https://support.microsoft.com/help/4484105) <br/> |2019 年 8 月 13 日  <br/> |[4475540](https://support.microsoft.com/en-us/help/4475540) <br/> |[4464596](https://support.microsoft.com/en-us/help/4464596) <br/> |
+|word-x-none  <br/> |Word 2016  <br/> |2019 年 11 月 5 日  <br/> |[4484135](https://support.microsoft.com/help/4484135) <br/> |2019 年 8 月 13 日  <br/> |[4475540](https://support.microsoft.com/en-us/help/4475540) <br/> |[4464596](https://support.microsoft.com/en-us/help/4464596) <br/> |
 |wxpcore-x-none  <br/> |Office 2016  <br/> |2016 年 10 月 4 日  <br/> |[3118263](https://support.microsoft.com/help/3118263) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |
 |wxpnse-x-none  <br/> |Office 2016  <br/> |2016 年 10 月 4 日  <br/> |[3118262](https://support.microsoft.com/help/3118262) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |
 |xdext-x-none  <br/> |Office 2016  <br/> |2017 年 8 月 1 日  <br/> |[3213650](https://support.microsoft.com/help/3213650) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |
