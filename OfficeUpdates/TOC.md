@@ -29,6 +29,7 @@
 ### [Insider チャネルの更新の履歴](update-history-office-insider.md)
 ### [月次チャネルの更新の履歴 (対象指定)](update-history-monthly-channel-targeted.md)
 ###[リリース ノートの Insider チャネル](release-notes-office-insider.md)
+### [リリース ノートの月次チャネル (対象指定)](release-notes-monthly-channel-targeted.md)
 
 ## [ODT のリリース ノート](ODT-release-history.md)
 
