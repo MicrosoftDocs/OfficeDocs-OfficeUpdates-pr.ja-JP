@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 12534eb79781d02ff630097794273fd27fcc51dc
-ms.sourcegitcommit: 22e6c32930facc482cd61e5d2dcf00728e112806
+ms.openlocfilehash: 870e6c6035cc5071dcaa7fe6f8e55e9e0f266b4b
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37929644"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289615"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年の毎月のチャネル リリースのリリース ノート
 
@@ -23,6 +23,25 @@ ms.locfileid: "37929644"
  > [!NOTE]
 >- Microsoft では多くの場合、一定期間にわたって毎月、機能 (および場合によっては修正プログラム) を展開します。  ここで説明した内容がすぐに表示されない場合は、間もなく利用できるようになります。 [詳細情報](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Microsoft Teams の Office 365 ProPlus の既存のインストールについて: 7月の上旬から、Office 365 ProPlus (および Office 365 Business) の更新に Microsoft Teams が含まれます。  Teams が追加される日付は、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)」を参照してください。
+
+## <a name="version-1910-november-12"></a>バージョン 1910: 11 月 12 日
+*バージョン 1910 (ビルド 12130.20344)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- 会議の場所フィールドが予期せず変更される原因となる問題を解決しました。
+
+- アカウント作成コンテキストからサポートに連絡しようとすると、ユーザーに [&quot;OK&quot;] ボタンのある空のメッセージ ボックスが表示される問題に対処しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-1910-october-30"></a>バージョン 1910: 10 月 30 日
 *バージョン 1910 (ビルド 12130.20272)*
@@ -40,13 +59,13 @@ ms.locfileid: "37929644"
 
 - **ファイルを変換してアクセシビリティを向上させる**: ファイルを最新の形式にアップグレードすると、すべてのユーザがアクセスできるようになります。
 
-- **ドキュメントとメールに機密ラベルを適用する:** ファイルとメールに機密ラベルを適用すると、それらは組織の情報保護ポリシーに準拠したものになります。 [詳細情報](https://aka.ms/officemipdocs)
+- **ドキュメントとメールに秘密度ラベルを適用する:** ファイルとメールに秘密度ラベルを適用すると、ドキュメントは組織の情報保護ポリシーに準拠したものになります。 [詳細情報](https://aka.ms/officemipdocs)
 
 ### <a name="outlook"></a>Outlook
 
 - **エラーの後に Outlook をアップグレードするプロンプトが表示される:** Outlook で新しいバージョンで修正されたエラーが発生した場合、Outlook はお客様にアップグレードして修正するように促します
 
-- **ドキュメントとメールに機密ラベルを適用する:** ファイルとメールに機密ラベルを適用すると、それらは組織の情報保護ポリシーに準拠したものになります。 [詳細情報](https://aka.ms/officemipdocs)
+- **ドキュメントとメールに秘密度ラベルを適用する:** ファイルとメールに秘密度ラベルを適用すると、ドキュメントは組織の情報保護ポリシーに準拠したものになります。 [詳細情報](https://aka.ms/officemipdocs)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -54,7 +73,7 @@ ms.locfileid: "37929644"
 
 - **ファイルを変換してアクセシビリティを向上させる**: ファイルを最新の形式にアップグレードすると、すべてのユーザがアクセスできるようになります。
 
-- **ドキュメントとメールに機密ラベルを適用する:** ファイルとメールに機密ラベルを適用すると、それらは組織の情報保護ポリシーに準拠したものになります。 [詳細情報](https://aka.ms/officemipdocs)
+- **ドキュメントとメールに秘密度ラベルを適用する:** ファイルとメールに秘密度ラベルを適用すると、ドキュメントは組織の情報保護ポリシーに準拠したものになります。 [詳細情報](https://aka.ms/officemipdocs)
 
 ### <a name="word"></a>Word
 
@@ -66,7 +85,7 @@ ms.locfileid: "37929644"
 
 - **3D オブジェクトのマージによって引き起こされるドキュメント破損の問題を修正しました。:** 3D オブジェクトのマージによって引き起こされるドキュメント破損の問題を修正しました。
 
-- **ドキュメントとメールに機密ラベルを適用する:** ファイルとメールに機密ラベルを適用すると、それらは組織の情報保護ポリシーに準拠したものになります。 [詳細情報](https://aka.ms/officemipdocs)
+- **ドキュメントとメールに秘密度ラベルを適用する:** ファイルとメールに秘密度ラベルを適用すると、ドキュメントは組織の情報保護ポリシーに準拠したものになります。 [詳細情報](https://aka.ms/officemipdocs)
 
 ### <a name="office-suite"></a>Office スイート
 

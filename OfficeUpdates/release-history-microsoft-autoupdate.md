@@ -3,19 +3,19 @@ title: Microsoft AutoUpdate (MAU) のリリース履歴
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/16/2019
+ms.date: 11/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT プロフェッショナルに、Microsoft AutoUpdate (MAU) のリリース履歴を提供します
-ms.openlocfilehash: a8a80b68ef3b63a85aeca4e1786623244980c45b
-ms.sourcegitcommit: 5dfdc197f7b08cd6ba44c20b3e540c3ebf5c4bde
+ms.openlocfilehash: 620c5d32848db366e110c799e5fef23c7fbf3455
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523103"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289655"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) のリリース履歴
  
@@ -30,6 +30,26 @@ ms.locfileid: "37523103"
 > - Microsoft AutoUpdate は、Microsoft のさまざまな Mac 製品への更新プログラムを提供します。そのため、Office for Mac を実行していない場合でも、Microsoft AutoUpdate を更新する通知が表示される場合があります。
 
 リリース ノートを確認するには、「[リリース ノート](release-notes-office-for-mac.md)」を参照してください。<br/><br/>
+
+## <a name="november-2019-release"></a>2019 年 11 月リリース
+
+**リリース日:** 2019 年 11 月 12 日
+
+*Microsoft Auto Update 4.17*
+
+ **機能の更新プログラム:**
+
+- 各メジャー更新の新機能は、Microsoft AutoUpdate ダッシュボードで表示できるようになりました。
+- Catalina のリリースにより、Office 2019 更新プログラムの最小 OS 要件が macOS 10.13 に変更されました。最新の Office 更新プログラムを入手するには、ユーザーにアップグレードするよう通知しています。
+
+
+**MAU 更新プログラムのリンク:**
+
+[Microsoft Auto Update 4.17 パッケージをダウンロードする](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 ハッシュ:**
+
+0F8BECB34385711F3D5E54B2944D9C30567B37352C5E59E0A7BC74B83371AB0A<br/><br/>
 
 ## <a name="october-2019-release"></a>2019 年 10 月リリース
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル (対象指定) リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: c763167c1d2634c2c5baab54d3db2998921918ef
-ms.sourcegitcommit: 28b363a14142849ada83979106d2ff8ecfb9df9d
+ms.openlocfilehash: 790003f78fb43db66e7ec89274313559b04c13cf
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890036"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289837"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年の半期チャネル (対象指定) リリースのリリース ノート
 
@@ -23,6 +23,57 @@ ms.locfileid: "37890036"
 > [!NOTE]
 > - 多くの場合、機能 (場合によっては修正プログラムも) は、特定の期間にわたって半期チャネル (対象指定) にロールアウトされます。 ここで説明される内容がすぐに確認できなくても、間もなく利用できるようになります。 [詳細情報](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - Microsoft Teams は、バージョン 1902 以降の半期チャネル (対象指定) の新規インストールに含まれています。 Teams は、バージョン 1908以降に更新されると、半期チャネル (対象指定) の既存のインストールに追加されます。 詳細については、「[Office 365 ProPlus で Microsoft Teams を展開する](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)」をご覧ください。
+
+## <a name="version-1908-november-12"></a>バージョン 1908: 11 月 12 日
+*バージョン 1908 (ビルド 11929.20436)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+
+### <a name="excel"></a>Excel
+
+- グラフ テンプレートを使用してグラフを挿入する場合に、プレビューで正しい色が使用されるよう修正します。
+- シリーズ コレクションを変更するときに、散布図が適切にレンダリングされない問題を修正しました。
+- 実行中のマクロでカスタム プロパティを変更すると、共同編集の中断を引き起こす問題を解決しました。
+- 非同期のユーザー定義関数が同期して実行されるパフォーマンスの問題を解決ました。
+- 色によるフィルタリングのパフォーマンスが大幅に向上しました。
+- Office 現在のバージョンで開いた場合に Excel の停止を引き起こす可能性がある、Office の以前のバージョンで作成されるブックの問題を解決しました。
+- Outlook メッセージからの cid: 画像のリンクが、要求があったときに正常に分割できるようになりました。
+
+### <a name="outlook"></a>Outlook
+
+- Outlook メッセージからの cid: 画像のリンクが、要求があったときに正常に分割できるようになりました。
+- プライマリ予定表からグループ予定表にアイテムをコピーするときに、ユーザーに権限エラーが発生する問題に対処しました。
+- 非常に長い Outlook セッションでメモリ リークが発生する問題に対処しました。
+- 特定のセーフリンクを操作すると、Outlook でユーザーにエラーが発生する問題に対処しました。
+- 一部の AutoDiscover の応答の処理中にユーザーにエラーが発生する問題に対処しました。
+- 一部のユーザーに、セカンダリ Exchange アカウントを追加するときに作成された重複した特別なフォルダーが表示される問題に対処しました。
+- 検索に関するフィードバックのエクスペリエンスでハングアップする問題に対処しました。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Outlook メッセージからの cid: 画像のリンクが、要求があったときに正常に分割できるようになりました。</div>
+- 信頼性の修正: サード パーティのアドインが PowerPoint を失敗させることがある問題を修正しました。
+
+### <a name="project"></a>Project
+
+- [すべて平準化] コマンドがリソースの割り当て超過を適切に解決していなかった問題を修正しました。
+- タスクの作業がゼロの割り当てがある場合、タスクに完了のマークを付けることができず、常に 99％ で表示される問題を修正しました。
+- 読み取り専用のプロジェクトを開いたときに複数のメッセージを取得する可能性があるという問題を特定しました。
+
+### <a name="word"></a>Word
+
+- Outlook メッセージからの cid: 画像のリンクが、要求があったときに正常に分割できるようになりました。
+- シャットダウン時にアプリがハングアップすることがあるさまざまな問題を修正しました。 特定のアドインに関連する問題も修正しました。
+
+### <a name="office-suite"></a>Office スイート
+
+- サード パーティ製プラグインのテキスト ボックスと図形の AutoFit に関連する問題に対処しました。
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="october-15"></a>10 月 15 日
 

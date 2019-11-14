@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 35c36de78ffe34da4565bb2996a81d73b178cfcc
-ms.sourcegitcommit: f0366356e2da83813c99a59e9ce3e60338d11dcc
+ms.openlocfilehash: d0445d53b34dee6f072d8153d2235b77591e0351
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "37453587"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289817"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019 年の半期チャネル リリースのリリース ノート
 
@@ -23,6 +23,57 @@ ms.locfileid: "37453587"
 > [!NOTE]
 > - 多くの場合、機能 (場合によっては修正プログラムも) は、特定の期間にわたって半期チャネルにロールアウトされます。 ここで説明される内容がすぐに確認できなくても、間もなく利用できるようになります。 [詳細情報](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - 半期チャネルのユーザーが Office ポータルから Office 365 をダウンロードして Windows 10 にインストールしたときに、既定では OneNote 2016 は含まれません。
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-1902-november-12"></a>バージョン 1902: 11 月 12 日
+*バージョン 1902 (ビルド 11328.20468)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+
+### <a name="excel"></a>Excel
+
+- 範囲を削除した後に入力した値の表示が遅れる問題を解決しました。
+- Office 現在のバージョンで開いた場合に Excel の停止を引き起こす可能性がある、Office の以前のバージョンで作成されるブックの問題を解決しました。
+
+### <a name="outlook"></a>Outlook
+
+- トースト通知が有効になっているときにユーザーがメモリ リークを観察する問題に対処しました。
+- Outlook でメモリ リークが発生したことを知らせる問題に対処しました。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 信頼性の修正: サード パーティのアドインが PowerPoint を失敗させることがある問題を修正しました。
+
+### <a name="office-suite"></a>Office スイート
+
+- すべてのアプリのリボンで、図形の挿入ギャラリーが表示されるまでに約 4 秒かかるという Win7 のパフォーマンスの問題を修正しました。
+- 更新後に [スタート] メニューのショートカットと Office ファイルの拡張子が予期せず表示されなくなる問題を修正しました。
+- Office ユーザーのセキュリティを保護するために、Microsoft Office の更新プログラムは SHA-2 アルゴリズムのみを使用して署名されるようになりました。
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-1808-november-12"></a>バージョン 1808: 11 月 12 日
+*バージョン 1808 (ビルド 10730.20416)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+
+### <a name="outlook"></a>Outlook
+
+- 同期ウィンドウ外でアイテムをローカル ストアから Exchange Online メールボックスに移動するときに、「すべて」以外の「オフラインにしておくメール」設定のユーザーがデータの損失を確認する問題に対処します。
+
+### <a name="office-suite"></a>Office スイート
+
+- Office ユーザーのセキュリティを保護するために、Microsoft Office の更新プログラムは SHA-2 アルゴリズムのみを使用して署名されるようになりました。
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 各チャネルの Office 365 ProPlus の更新プログラムのダウンロード サイズの概算に関する情報を IT 技術者に提供します
-ms.openlocfilehash: 9aed6048b81cf6e4bfd750875b8bc7608e0a251e
-ms.sourcegitcommit: a3a8b07e171e61f3dde1530a0c067d621db07feb
+ms.openlocfilehash: 5900ce9c86c2d1e1cd653c538dcb1db34d6c1c4d
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "37993712"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38282185"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 ProPlus の更新プログラムのダウンロード サイズ
 
@@ -30,13 +30,21 @@ ms.locfileid: "37993712"
 
 [//]: # (削除しないでください)
 
-## <a name="november-5-2019"></a>2019 年 11 月 5 日
+## <a name="november-12-2019"></a>2019 年 11 月 12 日
 
-[//]: # (予測コンテンツを削除しないでください。開始)
+### <a name="monthly-channel"></a>月次チャネル
+
+最新のリリースはバージョン 1910 (ビルド 12130.20344) です。
+
+|**アップグレード前のリリース **|**リリース日**|**ダウンロード サイズの概算 (MB)**|
+|:-----|:-----|:-----|
+|バージョン 1910 (ビルド 12130.20272) <br/> |2019 年 10 月 30 日 <br/> |61<br/> |
+|バージョン 1909 (ビルド 12026.20344) <br/> |2019 年 10 月 22 日 <br/> |156<br/> |
+
 
 ### <a name="semi-annual-channel"></a>半期チャネル
 
-<i>予定されているリリースは、バージョン 1902 (ビルド 11328.20468) です。</i>
+最新のリリースは、バージョン 1902 (ビルド 11328.20468) です。
 
 |**アップグレード前のリリース **|**リリース日**|**ダウンロード サイズの概算 (MB)**|
 |:-----|:-----|:-----|
@@ -44,9 +52,11 @@ ms.locfileid: "37993712"
 |バージョン 1902 (ビルド 11328.20420) <br/> |2019 年 9 月 10 日 <br/> |70<br/> |
 
 
+[//]: # (コンテンツを削除しないでください。開始 2019 年 11 月 12 日)
+
 ### <a name="semi-annual-targeted-channel"></a>半期チャネル (対象指定)
 
-<i>予定されているリリースは、バージョン 1908 (ビルド 11929.20436) です。</i>
+最新のリリースはバージョン 1908 (ビルド 11929.20436) です。
 
 |**アップグレード前のリリース **|**リリース日**|**ダウンロード サイズの概算 (MB)**|
 |:-----|:-----|:-----|
@@ -54,7 +64,12 @@ ms.locfileid: "37993712"
 |バージョン 1908 (ビルド 11929.20388) <br/> |2019 年 10 月 8 日 <br/> |66<br/> |
 
 
-[//]: # (予測コンテンツを削除しないでください。終了)
+[//]: # (コンテンツを削除しないでください。終了 2019 年 11 月 12 日)
+
+## <a name="november-5-2019"></a>2019 年 11 月 5 日
+
+
+
 
 ## <a name="october-30-2019"></a>2019 年 10 月 30 日
 

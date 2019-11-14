@@ -3,19 +3,19 @@ title: Office for Mac のリリース ノート
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 10/16/2019
+ms.date: 11/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 サブスクライバー向け Office for Mac リリース用リリース ノートを IT プロフェッショナルに提供
-ms.openlocfilehash: e9e6dc1442a2b7b50f968b09a059e35f42bf0a33
-ms.sourcegitcommit: bd2285bb5931e247232bb31c47f7fcc8147360d4
+ms.openlocfilehash: 952eef49a27824b361b0defba618e4f64d877ef6
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37564758"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289705"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac のリリース ノート
 
@@ -34,6 +34,33 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 > - Microsoft では多くの場合、一定期間にわたって毎月のチャネル、機能 (および場合によっては修正プログラム) を展開します。これにより、幅広いユーザーに機能を公開する前にスムーズに動作するかどうかを確認することができます。したがって、下記のものが表示されない場合でも、心配する必要はなく、いずれは表示されます。[詳細情報](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 **注:** Microsoft AutoUpdate (MAU) のリリース情報は、「[MAU のリリース ノート](https://docs.microsoft.com/ja-JP/officeupdates/release-history-microsoft-autoupdate)」ページに移動されました。<br/>
+
+## <a name="november-12-2019-release"></a>2019 年 11 月 12 日リリース
+*バージョン 16.31 (ビルド 19111002)*
+
+### <a name="word-feature-updates"></a>Word: 機能の更新
+
+- さまざまなパフォーマンスの問題が修正されました。
+### <a name="excel--feature-updates"></a>Excel: 機能の更新
+
+- さまざまなパフォーマンスの問題が修正されました。
+
+
+
+ ### <a name="excel-security-updates"></a>Excel: セキュリティの更新
+
+- [CVE-2019-1446](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2019-1446): Microsoft Excel の情報漏えいの脆弱性
+- [CVE-2019-1448](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2019-1448): Microsoft Excel のリモート コード実行の脆弱性
+- [CVE-2019-1457](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2019-1457): Microsoft Office Excel のセキュリティ機能のバイパス
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新
+
+- さまざまなパフォーマンスの問題が修正されました。
+
+
+### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
+
+- さまざまなパフォーマンスの問題が修正されました。<br/><br/>
 
 ## <a name="october-15-2019-release"></a>2019 年 10 月 15 日リリース
 *バージョン 16.30 (ビルド 19101301)*
