@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル (対象指定) リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 790003f78fb43db66e7ec89274313559b04c13cf
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: f57ae4f07bbf8838e2c82eeb28534d2ac364bf24
+ms.sourcegitcommit: 4ff072b2b611be960cbd8c7f810b31b2751c4c88
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289837"
+ms.lasthandoff: 11/13/2019
+ms.locfileid: "38312137"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年の半期チャネル (対象指定) リリースのリリース ノート
 
@@ -257,9 +257,7 @@ ms.locfileid: "38289837"
 
 - **Microsoft Teams のインストール**: Teams は、Office 365 ProPlus の既存のインストールに追加されます。 [詳細情報](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)
 
-- **情報バーに新しく表示されたボタンを使用して、ドキュメントを共有し、アップロードします:** 以前は、[共有]、[クリップボードへのパスのコピー]、[ファイルの場所を開く] ボタンは、ドキュメント保存パスの後ろからしかアクセスできませんでした。これらのボタンは情報バーに明確に表示されるようになりました。通常は、[ファイル] > [情報] の順に移動すると、これらの新しいボタンを表示されます。
-
-- **変更時に変更内容を保存する:** すべての更新が自動的に保存されるように、ファイルを OneDrive にアップロードしましょう。
+- **変更が発生したときに変更内容を自動的に保存する:** 変更が自動的に保存されるように、ファイルを OneDrive にアップロードしましょう。
 
 - **プライバシー制御**: 診断データとコネクテッド エクスペリエンス用に新しく更新されて、改善された制御。 [詳細情報](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
 
