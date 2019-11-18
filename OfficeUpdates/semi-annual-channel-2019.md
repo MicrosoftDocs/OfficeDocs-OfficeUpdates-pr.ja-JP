@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: d0445d53b34dee6f072d8153d2235b77591e0351
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: c79cdc9a9c11f12acfaeab511cd27f234ceda0eb
+ms.sourcegitcommit: 4027fcf35a0e3da959e83179d798c0981c4a0000
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289817"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38402443"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019 年の半期チャネル リリースのリリース ノート
 
@@ -304,7 +304,7 @@ ms.locfileid: "38289817"
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
 
 - "Group by" に 2 番目の条件を追加するとき、お客様のタスクが消えるように見える原因となっていた問題が修正されました。
-- 移行されたアイテムの一部のフィールドをお客様が編集できなくなる問題が解決されました。 
+- 移行されたアイテムの一部のフィールドをお客様が編集できなくなる問題が解決されました。
 - システムタスクバーを画面の左または上に置いたときにウィンドウが正しい場所に表示されない問題を修正しました。
 - 顧客の連絡先カード上の画像の読み込み中にクラッシュが発生する原因となった問題に対処します。
 - 一部の顧客がOffice アプリケーションの起動時にクラッシュするという問題に対処します。

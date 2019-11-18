@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 1c66699a53334e4da5c390bdfaae3455829b5b22
-ms.sourcegitcommit: 0488f84954e573c68209e28a2d11cf2010c6f588
+ms.openlocfilehash: 5cf8d0186852bf1dff2cefaa00c5f636082415e5
+ms.sourcegitcommit: 5400b7e701c098648937b0a0f4a5e6a50bff3fb1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/08/2019
-ms.locfileid: "38076421"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "38669836"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office Insider のリリース ノート
 
@@ -29,6 +29,79 @@ ms.locfileid: "38076421"
 
 [//]: # (削除しないでください)
 
+
+## <a name="version-1912-november-15"></a>バージョン 1912: 11 月 15 日
+*バージョン 1912 (ビルド 12307.20000)*
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="insights-services"></a>インサイト サービス
+
+- **Excel での自然言語のクエリ:** データについて自然言語の質問をする Excel Ideas の新機能
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- <div><span>一部のローカライズにおいて、[Text to Column] 機能が失敗することがある</span></div>
+
+
+- <h5>セル内の動的配列数式を編集すると、その結果、セルの境界の外にテキストが並んでしまう可能性がある<br></h5>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div>グループ ポリシーを使用して S/MIME 構成を適用する機能が追加された</div>
+
+
+- <div><span>思ったよりも埋め込み画像が小さく表示されることがある</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>テキストからフォーカスを移動した後、カーソルが表示されないことがある</span></div>
+
+
+### <a name="project"></a>Project
+
+- <div><span>ユーザーにライセンスに関するエラーが表示されることがある</span></div>
+
+
+- <div><span>日付の選択の今日のボタンで正しくない日付が設定されることがある</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>右クリックすると、完全に一致する単語が選択されないことがある</span></div>
+
+
+- <div>提案されたファイル形式に変換した後、カーソルがオブジェクト内でアクティブのままになっている可能性がある</div>
+
+
+- <div>一部のシナリオでは、メッセージ内の画像が正しく拡大されないことがある</div>
+
+
+- <div>一部のテーマでは、どのコメントが選択されているかの判断が困難になることがある</div>
+
+
+- <div><span>ウィンドウ スイッチャーが非表示のときに、コメントのヒントを選択すると最新のコメント ウィンドウが表示されるようになる</span></div>
+
+
+### <a name="office-suite"></a>Office スイート
+
+- <div><span>コメントに返信すると、テキスト ボックスがウィンドウの端を超えて縦方向に展開されることがある</span></div>
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-1912-november-08"></a>バージョン 1912: 11 月 8 日
 *バージョン 1912 (ビルド 12231.20000)*
