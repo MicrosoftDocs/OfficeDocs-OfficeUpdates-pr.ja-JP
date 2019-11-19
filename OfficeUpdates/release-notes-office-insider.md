@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 5cf8d0186852bf1dff2cefaa00c5f636082415e5
-ms.sourcegitcommit: 5400b7e701c098648937b0a0f4a5e6a50bff3fb1
+ms.openlocfilehash: c0128f82e5b00e5e6b0e13d56073732d2be3a73e
+ms.sourcegitcommit: 31531d8a7be9a65ac361168901c40c260dcbac46
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "38669836"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38704496"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office Insider のリリース ノート
 
@@ -54,7 +54,7 @@ ms.locfileid: "38669836"
 - <div><span>一部のローカライズにおいて、[Text to Column] 機能が失敗することがある</span></div>
 
 
-- <h5>セル内の動的配列数式を編集すると、その結果、セルの境界の外にテキストが並んでしまう可能性がある<br></h5>
+- <div>セル内の動的配列数式を編集すると、その結果、セルの境界の外にテキストが並んでしまう可能性がある</div>
 
 
 ### <a name="outlook"></a>Outlook
