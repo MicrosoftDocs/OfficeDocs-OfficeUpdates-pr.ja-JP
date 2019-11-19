@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: c79cdc9a9c11f12acfaeab511cd27f234ceda0eb
-ms.sourcegitcommit: 4027fcf35a0e3da959e83179d798c0981c4a0000
+ms.openlocfilehash: 76ebf594ea392deea85b5e1e941ac0803918ab8a
+ms.sourcegitcommit: 5400b7e701c098648937b0a0f4a5e6a50bff3fb1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38402443"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "38669826"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019 年の半期チャネル リリースのリリース ノート
 
@@ -48,6 +48,10 @@ ms.locfileid: "38402443"
 ### <a name="powerpoint"></a>PowerPoint
 
 - 信頼性の修正: サード パーティのアドインが PowerPoint を失敗させることがある問題を修正しました。
+
+### <a name="word"></a>Word
+
+- 特殊文字を確定しようとしたときに、フォントが MS 明朝に変更される問題を修正しました。
 
 ### <a name="office-suite"></a>Office スイート
 
