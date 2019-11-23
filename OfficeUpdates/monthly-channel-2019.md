@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 870e6c6035cc5071dcaa7fe6f8e55e9e0f266b4b
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: dafc1001d61da1691fe60c7141045f74a8e24156
+ms.sourcegitcommit: d923a1840b7e9e9541568a3fcd9ffb439fb3cca6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289615"
+ms.lasthandoff: 11/21/2019
+ms.locfileid: "38793845"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年の毎月のチャネル リリースのリリース ノート
 
@@ -22,12 +22,25 @@ ms.locfileid: "38289615"
  
  > [!NOTE]
 >- Microsoft では多くの場合、一定期間にわたって毎月、機能 (および場合によっては修正プログラム) を展開します。  ここで説明した内容がすぐに表示されない場合は、間もなく利用できるようになります。 [詳細情報](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
->- Microsoft Teams の Office 365 ProPlus の既存のインストールについて: 7月の上旬から、Office 365 ProPlus (および Office 365 Business) の更新に Microsoft Teams が含まれます。  Teams が追加される日付は、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)」を参照してください。
+>- Microsoft Teams の Office 365 ProPlus の既存のインストールについて: 7月の上旬から、Office 365 ProPlus (および Office 365 Business) の更新に Microsoft Teams が含まれます。  Teams が追加される日付は、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/DeployOffice/teams-install)」を参照してください。
+
+## <a name="version-1910-november-18"></a>バージョン 1910: 11 月 18 日
+*バージョン 1910 (ビルド 12130.20390)*
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+
+### <a name="access"></a>Access
+
+- 更新クエリを実行すると "クエリが破損しています" という誤ったエラー メッセージが表示される問題が修正されました。
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-1910-november-12"></a>バージョン 1910: 11 月 12 日
 *バージョン 1910 (ビルド 12130.20344)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -39,19 +52,19 @@ ms.locfileid: "38289615"
 
 - アカウント作成コンテキストからサポートに連絡しようとすると、ユーザーに [&quot;OK&quot;] ボタンのある空のメッセージ ボックスが表示される問題に対処しました。
 
-
-
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-1910-october-30"></a>バージョン 1910: 10 月 30 日
 *バージョン 1910 (ビルド 12130.20272)*
-* さまざまなバグとパフォーマンスの修正。
 
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- 検索に関するフィードバックのエクスペリエンスでハングアップする問題に対処しました。
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
 ### <a name="feature-updates"></a>機能の更新プログラム
-
 
 ### <a name="excel"></a>Excel
 
@@ -89,7 +102,7 @@ ms.locfileid: "38289615"
 
 ### <a name="office-suite"></a>Office スイート
 
-- **Office 365 ProPlus の既存のインストールに Microsoft Teams をインストールする:** 6 月下旬から、Microsoft Teams は、これらのインストールの更新時に、Office 365 ProPlus (および Office 365 Business) の既存のインストールに含まれます。 Teams が追加される日にちは、使用している更新プログラム チャネルによって異なります。 追加情報については、「Office 365 ProPlus と同時に Microsoft Teams を展開する」を参照してください。 [詳細情報](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)
+- **Office 365 ProPlus の既存のインストールに Microsoft Teams をインストールする:** 6 月下旬から、Microsoft Teams は、これらのインストールの更新時に、Office 365 ProPlus (および Office 365 Business) の既存のインストールに含まれます。 Teams が追加される日にちは、使用している更新プログラム チャネルによって異なります。 追加情報については、「Office 365 ProPlus と同時に Microsoft Teams を展開する」を参照してください。 [詳細情報](https://docs.microsoft.com/DeployOffice/teams-install)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
 
@@ -132,7 +145,7 @@ ms.locfileid: "38289615"
 ## <a name="version-1909-october-08"></a>バージョン 1909: 10 月 8 日
 *バージョン 1909 (ビルド 12026.20320)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
@@ -244,7 +257,7 @@ ms.locfileid: "38289615"
 ## <a name="version-1908-september-10"></a>バージョン 1908: 9 月 10 日
 *バージョン 1908 (ビルド 11929.20300)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
@@ -310,16 +323,18 @@ ms.locfileid: "38289615"
 ## <a name="version-1907-august-13"></a>バージョン 1907: 8 月 13 日
 *バージョン 1907 (ビルド 11901.20218)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
 
- - ピボットテーブルの並べ替え方法を変更し、他のユーザーとの共同編集セッション中にそれを更新する問題を修正しました。
+- ピボットテーブルの並べ替え方法を変更し、他のユーザーとの共同編集セッション中にそれを更新する問題を修正しました。
 
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
-  - メールボックスを基本認証から最新認証にアップグレードしたユーザーが、Outlook プロファイルに関連付けられた正しくないアカウントで終了する問題を修正しました。
+
+- メールボックスを基本認証から最新認証にアップグレードしたユーザーが、Outlook プロファイルに関連付けられた正しくないアカウントで終了する問題を修正しました。
 
 ## <a name="version-1907-july-29"></a>バージョン 1907: (7 月 29 日)
+
 *バージョン 1907 (ビルド 11901.20176)*
 * さまざまなバグとパフォーマンスの修正。
 
@@ -362,7 +377,7 @@ ms.locfileid: "38289615"
 ## <a name="version-1906-july-09"></a>バージョン 1906: 7 月 9 日
 *バージョン 1906 (ビルド 11727.20244)*
 
-セキュリティ更新プログラムの一覧は「[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)」
+セキュリティ更新プログラムの一覧は「[こちら](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)」
 
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
 
@@ -428,7 +443,7 @@ ms.locfileid: "38289615"
 
 ## <a name="version-1905-june-11"></a>バージョン 1905: 6 月 11 日
 *バージョン 1905 (ビルド 11629.20246)*
-<br/>[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)にセキュリティ更新プログラムが記載されています
+<br/>[こちら](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)にセキュリティ更新プログラムが記載されています
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
 
@@ -518,7 +533,7 @@ ms.locfileid: "38289615"
 ## <a name="version-1904-may-14"></a>バージョン 1904: 5 月 14 日 
 *バージョン 1904 (ビルド 11601.20204)*
 
- - セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+- セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
 
 ## <a name="version-1904-may-8"></a>バージョン 1904: 5 月 8 日
 *バージョン 1904 (ビルド 11601.20178)*
@@ -583,7 +598,7 @@ ms.locfileid: "38289615"
 ## <a name="version-1903-april-9"></a>バージョン 1903: 4 月 9 日
 *バージョン 1903 (ビルド 11425.20204)* 
 
-- セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+- セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: セキュリティ以外の更新プログラム
 - Lync (Skype for Business) で、参加者が 7 人以上のオンライン ミーティングのミーティング ウィンドウが表示されないという問題が修正されました。
@@ -668,7 +683,7 @@ ms.locfileid: "38289615"
  
 ### <a name="office-suite-feature-updates"></a>Office スイート: 機能の更新
 
-- **Microsoft Teams のインストール:** Microsoft Teams は、Office 365 ProPlus の新規インストール用に既定でインストールされています。 [詳細情報](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)
+- **Microsoft Teams のインストール:** Microsoft Teams は、Office 365 ProPlus の新規インストール用に既定でインストールされています。 [詳細情報](https://docs.microsoft.com/DeployOffice/teams-install)
 
 ## <a name="version-1901-february-12"></a>バージョン 1901: 2 月 12 日
 *バージョン 1901 (ビルド 11231.20174)* 
