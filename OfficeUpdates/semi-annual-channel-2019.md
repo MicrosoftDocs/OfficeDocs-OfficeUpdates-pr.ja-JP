@@ -9,27 +9,57 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 76ebf594ea392deea85b5e1e941ac0803918ab8a
-ms.sourcegitcommit: 5400b7e701c098648937b0a0f4a5e6a50bff3fb1
+ms.openlocfilehash: cb60b65d36a3bd05a2579c84cd97f82698ba868b
+ms.sourcegitcommit: 9fd95a1f16e15923ce60791093d907f32c28fc5d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "38669826"
+ms.lasthandoff: 11/23/2019
+ms.locfileid: "39204326"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019 年の半期チャネル リリースのリリース ノート
 
 これらのリリースノートには、Visio Pro for Office 365、Project Online Desktop Client、および Office 365 Business を含む、2019 年の Office 365 ProPlus の半期チャネルの更新プログラムに含まれる新機能およびセキュリティ以外の更新に関する情報が記載されています。
 
 > [!NOTE]
-> - 多くの場合、機能 (場合によっては修正プログラムも) は、特定の期間にわたって半期チャネルにロールアウトされます。 ここで説明される内容がすぐに確認できなくても、間もなく利用できるようになります。 [詳細情報](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - 多くの場合、機能 (場合によっては修正プログラムも) は、特定の期間にわたって半期チャネルにロールアウトされます。 ここで説明される内容がすぐに確認できなくても、間もなく利用できるようになります。 [詳細情報](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - 半期チャネルのユーザーが Office ポータルから Office 365 をダウンロードして Windows 10 にインストールしたときに、既定では OneNote 2016 は含まれません。
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-1902-november-22"></a>バージョン 1902: 11 月 22 日
+*バージョン 1902 (ビルド 11328.20480)*
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="access"></a>Access
+
+- この更新プログラムにより、更新クエリが実行されるか、SQL で UPDATE ステートメントが使用されるときに &quot;クエリは破損しています&quot; というエラーを発生させる場合のある Microsoft Access の問題が修正されます。
+
+### <a name="outlook"></a>Outlook
+
+- トースト通知が有効になっているときにユーザーがメモリ リークを観察する問題に対処しました。
+
+### <a name="office-suite"></a>Office スイート
+
+- この変更により、同期による調整との関連がない同期エラーに対する調整は行われなくなります。
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-1808-november-22"></a>バージョン 1808: 11 月 22 日
+*バージョン 1808 (ビルド 10730.20422)*
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+- さまざまなバグとパフォーマンスの修正。
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-1902-november-12"></a>バージョン 1902: 11 月 12 日
 *バージョン 1902 (ビルド 11328.20468)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
@@ -64,7 +94,7 @@ ms.locfileid: "38669826"
 ## <a name="version-1808-november-12"></a>バージョン 1808: 11 月 12 日
 *バージョン 1808 (ビルド 10730.20416)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -84,7 +114,7 @@ ms.locfileid: "38669826"
 ## <a name="version-1902-october-08"></a>バージョン 1902: 10 月 8 日
 *バージョン 1902 (ビルド 11328.20438)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
@@ -112,12 +142,12 @@ ms.locfileid: "38669826"
 ## <a name="version-1808-october-08"></a>バージョン 1808: 10 月 8 日
 *バージョン 1808 (ビルド 10730.20386)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 ## <a name="version-1902-september-10"></a>バージョン 1902: 9 月 10 日
 *バージョン 1902 (ビルド 11328.20420)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
@@ -128,7 +158,7 @@ ms.locfileid: "38669826"
 
 ### <a name="outlook"></a>Outlook
 
-- ユーザーにエラー「このファイルが見つかりません」が表示される一時的なサービスに関する問題を修正しました。 クラウドの添付ファイルを使用している場合、パスとファイル名が正しいことを確認します。 [詳細情報](https://support.office.com/ja-JP/article/outlook-unable-to-attach-onedrive-or-sharepoint-files-to-emails-136951bb-60dc-478a-b916-6ee39e62c37a)
+- ユーザーにエラー「このファイルが見つかりません」が表示される一時的なサービスに関する問題を修正しました。 クラウドの添付ファイルを使用している場合、パスとファイル名が正しいことを確認します。 [詳細情報](https://support.office.com/article/outlook-unable-to-attach-onedrive-or-sharepoint-files-to-emails-136951bb-60dc-478a-b916-6ee39e62c37a)
 
 - ユーザーに Outlook から OneDrive または Sharepoint にアップロードしたファイルが表示される問題を修正しました。ファイル名が変更され、複数の文字が下線で置き換えられました。
 
@@ -141,7 +171,7 @@ ms.locfileid: "38669826"
 ## <a name="version-1808-september-10"></a>バージョン 1808: 9 月 10 日
 *バージョン 1808 (ビルド 10730.20380)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -154,7 +184,7 @@ ms.locfileid: "38669826"
 ## <a name="version-1902-august-13"></a>バージョン 1902: 8 月 13 日
 *バージョン 1902 (ビルド 11328.20392)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
 - テーブルのフィルター処理ありのスライサーとフィルター処理なしのスライサーの両方に、[フィルターのクリア] アイコンが表示される問題を修正しました。
@@ -171,12 +201,12 @@ ms.locfileid: "38669826"
 - 他のユーザーとドキュメントの共同作業を行っている間に、アプリケーションが予期せず終了することがある問題を修正しました。
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
-- 特定のシナリオで Office JavaScript ライブラリ の Setting API が機能しなくなる問題が修正されました ([詳細](https://support.microsoft.com/ja-JP/help/4475551/august-6-2019-update-for-office-2016-kb4475551))
+- 特定のシナリオで Office JavaScript ライブラリ の Setting API が機能しなくなる問題が修正されました ([詳細](https://support.microsoft.com/help/4475551/august-6-2019-update-for-office-2016-kb4475551))
 
 ## <a name="version-1808-august-13"></a>バージョン 1808: 8 月 13 日
 *バージョン 1808 (ビルド 10730.20370)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 - 特定のシナリオで Office JavaScript ライブラリ の Setting API が機能しなくなる問題が修正されました ([詳細](https://support.microsoft.com/ja-JP/help/4475551/august-6-2019-update-for-office-2016-kb4475551))
@@ -185,7 +215,7 @@ ms.locfileid: "38669826"
 ## <a name="version-1803-august-13"></a>バージョン 1803: 8 月 13 日
 *バージョン 1803 (ビルド 9126.2432)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 - 特定のシナリオで Office JavaScript ライブラリ の Setting API が機能しなくなる問題を修正しました ([詳細情報](https://support.microsoft.com/ja-JP/help/4475551/august-6-2019-update-for-office-2016-kb4475551))
@@ -193,7 +223,7 @@ ms.locfileid: "38669826"
 
 ## <a name="version-1902-july-09"></a>バージョン 1902: 7 月 9 日
 *バージョン 1902 (ビルド 11328.20368)*
-<br/>セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+<br/>セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 
 ### <a name="access-feature-updates"></a>Access: 機能の更新
@@ -225,7 +255,7 @@ ms.locfileid: "38669826"
 - **期間の新しい既定値:** [定期的なアイテム] ダイアログでは、期間に [終了日未定] の既定値が使われていました。 これにより、長期間実行される定期的なアイテムが作成され、時間と共に破損する可能性がありました。 既定値が予定表作成の推奨されるベスト プラクティスに一致するように、[定期的なアイテム] ダイアログ ボックスの既定値を [終了日] に更新します。
 - **Outlook のアラーム ダイアログから Teams 会議に参加する:** Outlook が今後の会議についてユーザーに通知する際、会議が Teams のオンライン会議の場合には、[オンラインで参加] ボタンが表示されます。これは、Outlook のアラート ダイアログから Skype for Business 会議に参加する場合に似ています。
 - **過去のイベントのリマインダーの表示を停止:** 終了したイベントのリマインダーを自動的に破棄するようにカレンダーを設定することができます。 [詳細情報](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
-- **安全なリンクの背後にある URL を表示する:** 安全なリンクは、メールで受け取った悪意のある URL からユーザーを保護しますが、元の URL は非表示になります。 元の URL を確認するには、URL をマウスでポイントします。 Advanced Threat Protection のライセンスが必要です。 [詳細情報](https://products.office.com/ja-JP/exchange/advance-threat-protection)
+- **安全なリンクの背後にある URL を表示する:** 安全なリンクは、メールで受け取った悪意のある URL からユーザーを保護しますが、元の URL は非表示になります。 元の URL を確認するには、URL をマウスでポイントします。 Advanced Threat Protection のライセンスが必要です。 [詳細情報](https://products.office.com/exchange/advance-threat-protection)
 - **ズームとスティック:** メッセージを表示するたびにズームを調整するのではなく、すべてのメッセージに使用する既定値を選択します。 [詳細情報](https://support.office.com/article/56c090bc-e148-44a7-bd06-1290edd38983)
 - **メッセージ暗号化: 暗号化のみ IRM ポリシー:** 新しい暗号化のみオプションは、Office 365 Message Encryption ユーザーの [オプション] > [アクセス許可] に表示されます。 このオプションを使用すると、メッセージを暗号化して、組織の内外のユーザーに送信できます。
 - **BCC で受け取った場合の警告:** ブラインド カーボン コピーで受け取ったメールに対し、誤って全員に返信する前に、BCC のヒントで警告されます。
@@ -277,7 +307,7 @@ ms.locfileid: "38669826"
 ### <a name="office-suite-feature-updates"></a>Office スイート: 機能の更新
 
 - **Office のサード パーティ アプリケーションでは office.js api を使用した SVG の挿入をサポート:** Office アドインとも呼ばれるサード パーティ アプリケーションで SVG を挿入できるようになりました。ユーザーは、個人の SVG コレクションを Office に結び付けることができます。開発者は、Office.js API を使用してこの機能を利用できます。
-- **Microsoft Teams のインストール:** Microsoft Teams は、Office 365 ProPlus の新規インストールでは既定でインストールされています。 [詳細情報](https://docs.microsoft.com/ja-JP/DeployOffice/teams-install)
+- **Microsoft Teams のインストール:** Microsoft Teams は、Office 365 ProPlus の新規インストールでは既定でインストールされています。 [詳細情報](https://docs.microsoft.com/DeployOffice/teams-install)
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: 機能の更新
 
@@ -352,7 +382,7 @@ ms.locfileid: "38669826"
  - Windows 10 の多くのユーザーに対して最近のファイル リストがクリアされているように見えた問題を修正しました。
  - 管理者による更新が進行中であっても、エンドユーザーに Office Update のビジネス バーが表示される問題を修正しました。
  - 断続的な空白のサインインプロンプトに関する問題を修正しました。
- - Office の更新プログラムの一部で配信の最適化のピア キャッシュを使用しないという問題が修正されました。 [詳細情報]("https://docs.microsoft.com/en-us/windows/deployment/update/waas-delivery-optimization)
+ - Office の更新プログラムの一部で配信の最適化のピア キャッシュを使用しないという問題が修正されました。 [詳細情報]("https://docs.microsoft.com/windows/deployment/update/waas-delivery-optimization)
 - Office が Office 展開ツールを使用してインストールされ、大文字/小文字が一致しない場合、製品が削除されたり、アクティブ化されなかったりする可能性があるバグが修正されました。
 - Windows 10（バージョン1803以降）のデバイスで過剰なサインインプロンプトを引き起こしていた問題を修正しました。
 - リンクされた写真をダウンロードするときにハングする原因となる退行を修正しました。
@@ -362,7 +392,7 @@ ms.locfileid: "38669826"
 
 ## <a name="version-1808-july-09"></a>バージョン 1808: 7 月 9 日
 *バージョン 1808 (ビルド 10730.20360)*
-<br/>セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+<br/>セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 
 ### <a name="word-non-security-updates"></a>Word: セキュリティ以外の更新プログラム
@@ -377,12 +407,12 @@ ms.locfileid: "38669826"
 
 ## <a name="version-1803-july-09"></a>バージョン 1803: 7 月 9 日
 *バージョン 1803 (ビルド 9126.2428)*
-<br/>セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+<br/>セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 
 ## <a name="version-1808-june-11"></a>バージョン 1808: 6 月 11 日
 *バージョン 1808 (ビルド 10730.20348)*
-<br/>セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+<br/>セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 ### <a name="word-non-security-updates"></a>Word: セキュリティ以外の更新プログラム
  - ファイルをチェックアウトするときの署名の削除に関する問題が修正されました。
@@ -392,7 +422,7 @@ ms.locfileid: "38669826"
 
 ## <a name="version-1803-june-11"></a>バージョン 1803: 6 月 11 日
 *バージョン 1803 (ビルド 9126.2388)*
-<br/>セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates) 
+<br/>セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates) 
 
 ## <a name="version-1808-may-14"></a>バージョン 1808: 5 月 14 日
 *バージョン 1808 (ビルド 10730.20344)*   
@@ -468,7 +498,7 @@ ms.locfileid: "38669826"
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 
-- [Office 365 の一元展開](https://docs.microsoft.com/ja-JP/office/dev/add-ins/publish/centralized-deployment)を使用して展開したアドインが機能停止して使用できなくなる問題を修正しました。
+- [Office 365 の一元展開](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment)を使用して展開したアドインが機能停止して使用できなくなる問題を修正しました。
 
 
 ## <a name="version-1803-february-12"></a>バージョン 1803: 2 月 12 日
@@ -501,7 +531,7 @@ ms.locfileid: "38669826"
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 
-- [Office 365 の一元展開](https://docs.microsoft.com/ja-JP/office/dev/add-ins/publish/centralized-deployment)を使用して展開したアドインが機能停止して使用できなくなる問題を修正しました。
+- [Office 365 の一元展開](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment)を使用して展開したアドインが機能停止して使用できなくなる問題を修正しました。
 
 ## <a name="version-1708-february-12"></a>バージョン 1708: 2 月 12 日
 *バージョン 1708 (ビルド 8431.2372)*
@@ -510,7 +540,7 @@ ms.locfileid: "38669826"
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 
-- [Office 365 の一元展開](https://docs.microsoft.com/ja-JP/office/dev/add-ins/publish/centralized-deployment)を使用して展開したアドインが機能停止して使用できなくなる問題を修正しました。
+- [Office 365 の一元展開](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment)を使用して展開したアドインが機能停止して使用できなくなる問題を修正しました。
 
 
 ## <a name="version-1808-january-8"></a>バージョン 1808: 1 月 8 日
@@ -652,7 +682,7 @@ ms.locfileid: "38669826"
 
 ### <a name="office-suite-security-update"></a>Office スイート: セキュリティ更新プログラム
 
-- **セキュリティ上の理由から、Office での Flash、Silverlight、および Shockwave のコントロールのアクティブ化がブロックされる:** セキュリティ上の理由から、Windows 上の Microsoft Office for Office 365 の新しいビルドでは、Flash、Silverlight、および Shockwave のコントロールのアクティブ化がブロックされます。詳細については、[こちら](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)および[こちら](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)をご覧ください。
+- **セキュリティ上の理由から、Office での Flash、Silverlight、および Shockwave のコントロールのアクティブ化がブロックされる:** セキュリティ上の理由から、Windows 上の Microsoft Office for Office 365 の新しいビルドでは、Flash、Silverlight、および Shockwave のコントロールのアクティブ化がブロックされます。詳細については、[こちら](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)および[こちら](https://support.office.com/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)をご覧ください。
  
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 - 特定のシナリオで更新プログラムのインストールが長くかかる原因となった問題を修正しました。
