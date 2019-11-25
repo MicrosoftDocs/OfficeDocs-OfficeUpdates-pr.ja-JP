@@ -9,25 +9,64 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル (対象指定) リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: f57ae4f07bbf8838e2c82eeb28534d2ac364bf24
-ms.sourcegitcommit: 4ff072b2b611be960cbd8c7f810b31b2751c4c88
+ms.openlocfilehash: a9debfb0a7ce3b844627c528288fb408dcd563e3
+ms.sourcegitcommit: 9fd95a1f16e15923ce60791093d907f32c28fc5d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/13/2019
-ms.locfileid: "38312137"
+ms.lasthandoff: 11/23/2019
+ms.locfileid: "39204346"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年の半期チャネル (対象指定) リリースのリリース ノート
 
 これらのリリースノートには、Visio Pro for Office 365、Project Online Desktop Client、および Office 365 Business を含む、2019 年の Office 365 ProPlus の半期チャネル (対象指定) の更新プログラムに含まれる新機能およびセキュリティ以外の更新に関する情報が記載されています。
 
 > [!NOTE]
-> - 多くの場合、機能 (場合によっては修正プログラムも) は、特定の期間にわたって半期チャネル (対象指定) にロールアウトされます。 ここで説明される内容がすぐに確認できなくても、間もなく利用できるようになります。 [詳細情報](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
-> - Microsoft Teams は、バージョン 1902 以降の半期チャネル (対象指定) の新規インストールに含まれています。 Teams は、バージョン 1908以降に更新されると、半期チャネル (対象指定) の既存のインストールに追加されます。 詳細については、「[Office 365 ProPlus で Microsoft Teams を展開する](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)」をご覧ください。
+> - 多くの場合、機能 (場合によっては修正プログラムも) は、特定の期間にわたって半期チャネル (対象指定) にロールアウトされます。 ここで説明される内容がすぐに確認できなくても、間もなく利用できるようになります。 [詳細情報](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - Microsoft Teams は、バージョン 1902 以降の半期チャネル (対象指定) の新規インストールに含まれています。 Teams は、バージョン 1908以降に更新されると、半期チャネル (対象指定) の既存のインストールに追加されます。 詳細については、「[Office 365 ProPlus で Microsoft Teams を展開する](https://docs.microsoft.com/DeployOffice/teams-install)」をご覧ください。
+
+## <a name="version-1908-november-22"></a>バージョン 1908: 11 月 22 日
+*バージョン 1908 (ビルド 11929.20494)*
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- ファイルに広範な条件付き書式が設定されている場合に、[フォントの色] ボタンをクリックするとパフォーマンスが低下する問題。
+
+- 印刷プレビューの印刷範囲が正しくないという問題を修正しました。
+
+### <a name="outlook"></a>Outlook
+
+- アカウント作成コンテキストからサポートに連絡しようとすると、ユーザーに [&quot;OK&quot;] ボタンのある空のメッセージ ボックスが表示される問題に対処しました。
+
+- UPN 経由で自動検出の認証プロンプトに提供される電子メール アカウントの方を選択するために、ポリシーを管理者が有効にできるよう変更が行われました。 既定では、使用可能な場合に、自動検出ではアカウント UPN の方が選択されます。
+
+- 最新のグループに対し、検索の失敗がユーザーに表示される原因となった問題に対処しました。
+
+- &quot;不在着信した会話&quot; メッセージのルールを作成しようとするときに、クラッシュを発生させる原因となった問題に対処しました。
+
+### <a name="word"></a>Word
+
+- Deskjet プリンターへの印刷時にスケーリングの問題を引き起こす可能性がある問題を修正しました。
+
+### <a name="office-suite"></a>Office スイート
+
+- オンライン プレゼンテーションを行おうとするときに、PowerPoint ユーザーにエラーが発生しないように問題が修正されました。
+
+- レジストリ整合性に関する Office 更新プロセスの信頼性が向上しました。
+
+- 従量制課金ネットワークで更新プログラムが予期せずブロックされる可能性があるという問題が修正されました。
+
+- 相対期限が初めて設定されるときのみ機能するところの ODT と GPO の更新期限の設定に関する問題が修正されました。修正により、2 回目以降の更新プログラムに相対期限を使用することができます。
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-1908-november-12"></a>バージョン 1908: 11 月 12 日
 *バージョン 1908 (ビルド 11929.20436)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
@@ -104,7 +143,7 @@ ms.locfileid: "38312137"
 ## <a name="version-1908-october-08"></a>バージョン 1908: 10 月 8 日
 *バージョン 1908 (ビルド 11929.20388)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
@@ -144,34 +183,34 @@ ms.locfileid: "38312137"
 ## <a name="version-1908-september-10"></a>バージョン 1908: 9 月 10 日
 *バージョン 1908 (ビルド 11929.20300)*
 
-セキュリティ更新プログラムのリストは[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+セキュリティ更新プログラムのリストは[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
 ### <a name="feature-updates"></a>機能の更新プログラム
 ### <a name="access"></a>Access
 
-- **より大きい [ズーム] ボックス:** [ズーム] ボックスがより大きく表示され、そこでフォントを変更することができます。変更内容はすべて [ズーム] ボックス内に記憶されます。 [詳細情報](https://support.office.com/ja-JP/article/9a62d165-67f8-4790-bad8-a2c2e83dcedf)
+- **より大きい [ズーム] ボックス:** [ズーム] ボックスがより大きく表示され、そこでフォントを変更することができます。変更内容はすべて [ズーム] ボックス内に記憶されます。 [詳細情報](https://support.office.com/article/9a62d165-67f8-4790-bad8-a2c2e83dcedf)
 
 - **データベース オブジェクトをタブで管理する:** アクティブなタブが分かりやすく表示され、簡単にタブをドラッグして再配置し、ワンクリックでデータベース オブジェクトを閉じることができます。
 
-- **シームレスに切り替える:** 新しいアカウント マネージャーでは、Office 365 の職場用と個人用のアカウントがすべて 1 か所に表示されます。 アカウント間の切り替えがより簡単になりました。 [詳細情報](https://support.office.com/ja-JP/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+- **シームレスに切り替える:** 新しいアカウント マネージャーでは、Office 365 の職場用と個人用のアカウントがすべて 1 か所に表示されます。 アカウント間の切り替えがより簡単になりました。 [詳細情報](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
 ### <a name="excel"></a>Excel
 
-- **データの詳細を検出する:** 新しいアイデア ボタンは、データのパターンを探し、それを使用してインテリジェントな個人向けの提案を作成します。 [詳細情報](https://support.office.com/ja-JP/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+- **データの詳細を検出する:** 新しいアイデア ボタンは、データのパターンを探し、それを使用してインテリジェントな個人向けの提案を作成します。 [詳細情報](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
 - **特定のファイルをすばやく見つける**: 最近作業を行ったファイルを探している場合は? [ファイル] > [ホーム ページ] タブの検索ボックスに入力するだけで、目的のファイルを見つけることができます。
 
 - **コンテンツのリーチを拡大する:** プレゼンテーションのアクセシビリティを高める必要がありますか? アクセシビリティ チェックを使用すると、アクセシビリティの問題を自動的に監視できます。 [校閲]>[アクセシビリティ チェック] をクリックすると、何か問題が見つかった場合に、ステータス バーに通知が表示されます。
 
-- **シームレスに切り替える:** 新しいアカウント マネージャーでは、Office 365 の職場用と個人用のアカウントがすべて 1 か所に表示されます。 アカウント間の切り替えがより簡単になりました。 [詳細情報](https://support.office.com/ja-JP/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+- **シームレスに切り替える:** 新しいアカウント マネージャーでは、Office 365 の職場用と個人用のアカウントがすべて 1 か所に表示されます。 アカウント間の切り替えがより簡単になりました。 [詳細情報](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
-- **ワークシートに生気を吹き込む:** アニメーション 3D グラフィックスを挿入して、鼓動する心臓、周回する惑星、暴れまわるティラノサウルスをワークブックに表示できます。 [詳細情報](https://support.office.com/ja-JP/article/6f08009a-3da5-400d-a706-8e23f304cd72)
+- **ワークシートに生気を吹き込む:** アニメーション 3D グラフィックスを挿入して、鼓動する心臓、周回する惑星、暴れまわるティラノサウルスをワークブックに表示できます。 [詳細情報](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)
 
 - **共同作業がさらに簡単に:** 共同編集の改善とは、条件付き書式、セルのスタイルなどを使用して作業しているときに、ユーザーによる変更がシームレスに共同作業者の変更と統合されるということです。
 
-- **類似列のテーブルを結合する:** 取得と変換 (Power Query) では、テーブルを統合するために列を比較するときに、近似文字列マッチング ロジック (あいまい一致とも呼ばれる) が使用できるようになりました。 [詳細情報](https://support.office.com/ja-JP/article/ffdd5082-c0c8-4c8e-a794-bd3962b90649)
+- **類似列のテーブルを結合する:** 取得と変換 (Power Query) では、テーブルを統合するために列を比較するときに、近似文字列マッチング ロジック (あいまい一致とも呼ばれる) が使用できるようになりました。 [詳細情報](https://support.office.com/article/ffdd5082-c0c8-4c8e-a794-bd3962b90649)
 
 - **Power Query の機能強化を使用して素早くコーディングする:** オートコンプリートと構文の色分けを使用して、素早くコーディングを完了できます。 関数、列、パラメーターも簡単に見つけることができます。
 
@@ -181,15 +220,15 @@ ms.locfileid: "38312137"
 
 - **連続する会議の合間に時間を組み込む:** 既定で 5 分から 10 分早く会議を終了するように設定することで、出席者に休憩時間や場所の移動時間を与えることができます。
 
-- **ミームが表示される:** テキストまたは静的イメージだけでは十分ではない場合、アニメーション GIF を使用して要点を示すことができます。[詳細情報](https://support.office.com/ja-JP/article/114bb251-861f-41cd-b20f-7e7289630c5b)
+- **ミームが表示される:** テキストまたは静的イメージだけでは十分ではない場合、アニメーション GIF を使用して要点を示すことができます。[詳細情報](https://support.office.com/article/114bb251-861f-41cd-b20f-7e7289630c5b)
 
-- **Outlook のユーザー エクスペリエンスを更新しました:** 以前にプレビューを行い近日公開予定とされていたシンプルなエクスペリエンスで、最も重要な作業に集中できるように設計されています。 [詳細情報](https://support.office.com/ja-JP/article/db503157-1b45-45d5-af52-e9c978cd8bed)
+- **Outlook のユーザー エクスペリエンスを更新しました:** 以前にプレビューを行い近日公開予定とされていたシンプルなエクスペリエンスで、最も重要な作業に集中できるように設計されています。 [詳細情報](https://support.office.com/article/db503157-1b45-45d5-af52-e9c978cd8bed)
 
 - **ゆったりとしたレイアウト、まとまったレイアウト? 自由に決めましょう:** 狭いスペースでアイテム間の間隔を広くするか、レイアウトの間隔を狭くして表示量を増やすことができます。
 
-- **シンプルになったリボンでカスタマイズも可能:** 最もよく使うボタンが 1 行にまとめられ、使いやすくなりました。 簡単に従来のビューとシンプルなビューを切り替えたり、コマンドを固定または固定解除できます。 [詳細情報](https://support.office.com/ja-JP/article/44bef9c3-295d-4092-b7f0-f471fa629a98)
+- **シンプルになったリボンでカスタマイズも可能:** 最もよく使うボタンが 1 行にまとめられ、使いやすくなりました。 簡単に従来のビューとシンプルなビューを切り替えたり、コマンドを固定または固定解除できます。 [詳細情報](https://support.office.com/article/44bef9c3-295d-4092-b7f0-f471fa629a98)
 
-- **より簡単なアカウントの追加方法:** アカウント設定の改善により、2 要素認証を使用する Outlook.com と Gmail のアカウントの Outlook への追加が以前よりも簡単になりました。 [詳細情報](https://support.office.com/ja-JP/article/70191667-9c52-4581-990e-e30318c2c081)
+- **より簡単なアカウントの追加方法:** アカウント設定の改善により、2 要素認証を使用する Outlook.com と Gmail のアカウントの Outlook への追加が以前よりも簡単になりました。 [詳細情報](https://support.office.com/article/70191667-9c52-4581-990e-e30318c2c081)
 
 - **お気に入りのアクションを選びましょう：** フラグや、削除機能を使いますか？ アーカイブまたは既読に​​しますか? よく使うコマンドでクイック操作メニューをカスタマイズします。
 
@@ -197,7 +236,7 @@ ms.locfileid: "38312137"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **ユーザーへのテストやアンケート:** テストやアンケートをスライドに配置します。Office で応答が自動的に収集され、保存されます。[詳細情報](https://support.office.com/ja-JP/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
+- **ユーザーへのテストやアンケート:** テストやアンケートをスライドに配置します。Office で応答が自動的に収集され、保存されます。[詳細情報](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
 
 - **特定のファイルをすばやく見つける**: 最近作業を行ったファイルを探している場合は? [ファイル] > [ホーム ページ] タブの検索ボックスに入力するだけで、目的のファイルを見つけることができます。
 
@@ -205,41 +244,41 @@ ms.locfileid: "38312137"
 
 - **変更時に変更内容を保存する:** すべての更新が自動的に保存されるように、ファイルを OneDrive にアップロードしましょう。
 
-- **これまで以上に簡単にオンライン ビデオを挿入できるようになりました:** Vimeo または YouTube からビデオをスライドに挿入する場合は、 ビデオ ページへのリンクがあれば簡単に行えます。 [詳細情報](https://support.office.com/ja-JP/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+- **これまで以上に簡単にオンライン ビデオを挿入できるようになりました:** Vimeo または YouTube からビデオをスライドに挿入する場合は、 ビデオ ページへのリンクがあれば簡単に行えます。 [詳細情報](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
 
-- **よりよい変形操作:** 図形に名前を付けると、変形するときにより細かく制御できます。 [詳細情報](https://support.office.com/ja-JP/article/bc7f48ff-f152-4ee8-9081-d3121788024f)
+- **よりよい変形操作:** 図形に名前を付けると、変形するときにより細かく制御できます。 [詳細情報](https://support.office.com/article/bc7f48ff-f152-4ee8-9081-d3121788024f)
 
-- **シームレスに切り替える:** 新しいアカウント マネージャーでは、Office 365 の職場用と個人用のアカウントがすべて 1 か所に表示されます。 アカウント間の切り替えがより簡単になりました。 [詳細情報](https://support.office.com/ja-JP/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+- **シームレスに切り替える:** 新しいアカウント マネージャーでは、Office 365 の職場用と個人用のアカウントがすべて 1 か所に表示されます。 アカウント間の切り替えがより簡単になりました。 [詳細情報](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
-- **オンライン ビデオの新しい保存場所:** Microsoft Stream にビデオを保存すれば、組織内のすべてのユーザーが視聴できます。 ビデオのリンクを挿入すれば、小さなファイル サイズでマルチメディア プレゼンテーションをご利用いただけます。 [詳細情報](https://support.office.com/ja-JP/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+- **オンライン ビデオの新しい保存場所:** Microsoft Stream にビデオを保存すれば、組織内のすべてのユーザーが視聴できます。 ビデオのリンクを挿入すれば、小さなファイル サイズでマルチメディア プレゼンテーションをご利用いただけます。 [詳細情報](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
 
 ### <a name="project"></a>Project
 
-- **シームレスに切り替える:** 新しいアカウント マネージャーでは、Office 365 の職場用と個人用のアカウントがすべて 1 か所に表示されます。 アカウント間の切り替えがより簡単になりました。 [詳細情報](https://support.office.com/ja-JP/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+- **シームレスに切り替える:** 新しいアカウント マネージャーでは、Office 365 の職場用と個人用のアカウントがすべて 1 か所に表示されます。 アカウント間の切り替えがより簡単になりました。 [詳細情報](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
 ### <a name="visio"></a>Visio
 
-- **壊れた Excel リンクの問題を解消:** データ ビジュアライザーの図にリンクされているはずの Excel ブックが見つかりませんか? 再リンクして、すぐに業務を再開できます。[詳細情報](https://support.office.com/ja-JP/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
+- **壊れた Excel リンクの問題を解消:** データ ビジュアライザーの図にリンクされているはずの Excel ブックが見つかりませんか? 再リンクして、すぐに業務を再開できます。[詳細情報](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
 
-- **Azure ステンシルが組み込まれました:** 豊富な Azure ステンシルを使用してクラウド アプリを設計したりアーキテクチャを計画したりしましょう。 [詳細情報](https://support.office.com/ja-JP/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+- **Azure ステンシルが組み込まれました:** 豊富な Azure ステンシルを使用してクラウド アプリを設計したりアーキテクチャを計画したりしましょう。 [詳細情報](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 
 - **はっとするようなデータ フローチャート:** データ ビジュアライザーのフローチャートの見事な新しいレイアウトがすっきり、はっきり、わかりやすくなりました。 オプションの [デザイン] タブをクリックします。
 
-- **シームレスに切り替える:** 新しいアカウント マネージャーでは、Office 365 の職場用と個人用のアカウントがすべて 1 か所に表示されます。 アカウント間の切り替えがより簡単になりました。 [詳細情報](https://support.office.com/ja-JP/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+- **シームレスに切り替える:** 新しいアカウント マネージャーでは、Office 365 の職場用と個人用のアカウントがすべて 1 か所に表示されます。 アカウント間の切り替えがより簡単になりました。 [詳細情報](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
-- **プロセス図を Word にエクスポート:** Word 文書に図形やメタデータなどのグラフ コンテンツを自動的に追加します。 その後に、文書をカスタマイズしてプロセスに関するガイドラインや操作マニュアルを作成できます。 [詳細情報](https://support.office.com/ja-JP/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+- **プロセス図を Word にエクスポート:** Word 文書に図形やメタデータなどのグラフ コンテンツを自動的に追加します。 その後に、文書をカスタマイズしてプロセスに関するガイドラインや操作マニュアルを作成できます。 [詳細情報](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
 
-- **Power BI から Visio ビジュアルをエクスポートする:** Power BI レポートを PDF、PowerPoint などのファイルとしてエクスポートするときに、Power BI 用の Visio ビジュアルが正しく表示されるようになりました。 [詳細情報](https://support.office.com/ja-JP/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
+- **Power BI から Visio ビジュアルをエクスポートする:** Power BI レポートを PDF、PowerPoint などのファイルとしてエクスポートするときに、Power BI 用の Visio ビジュアルが正しく表示されるようになりました。 [詳細情報](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
 
 ### <a name="word"></a>Word
 
-- **インク エディターを使った自然な編集:** ペンを使って 1 ストローク描くだけで、単語の分割や結合、新しい線の追加、単語の挿入などができます。[詳細情報](https://support.office.com/ja-JP/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
+- **インク エディターを使った自然な編集:** ペンを使って 1 ストローク描くだけで、単語の分割や結合、新しい線の追加、単語の挿入などができます。[詳細情報](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
 
-- **静的なドキュメントから魅力的なドキュメントへの変換:** ドキュメントを、すべてのデバイスに対応する対話型の使いやすい Web ページに変換します。[詳細情報](https://support.office.com/ja-JP/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
+- **静的なドキュメントから魅力的なドキュメントへの変換:** ドキュメントを、すべてのデバイスに対応する対話型の使いやすい Web ページに変換します。[詳細情報](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
 
-- **\@メンションを使用してユーザーの注意を引く:** コメントで @メンションを使うと、他のユーザーによる入力が必要な場合にそのユーザーに知らせることができます。 [詳細情報](https://support.office.com/ja-JP/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **\@メンションを使用してユーザーの注意を引く:** コメントで @メンションを使うと、他のユーザーによる入力が必要な場合にそのユーザーに知らせることができます。 [詳細情報](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 
-- **行フォーカスによる読解力の向上:** ドキュメント内で行ごとの移動をスムーズに行います。一度に 1 行か、3 行か、5 行かを表示するようフォーカスを調整できます。[詳細情報](https://support.office.com/ja-JP/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
+- **行フォーカスによる読解力の向上:** ドキュメント内で行ごとの移動をスムーズに行います。一度に 1 行か、3 行か、5 行かを表示するようフォーカスを調整できます。[詳細情報](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
 
 - **特定のファイルをすばやく見つける**: 最近作業を行ったファイルを探している場合は? [ファイル] > [ホーム ページ] タブの検索ボックスに入力するだけで、目的のファイルを見つけることができます。
 
@@ -249,13 +288,13 @@ ms.locfileid: "38312137"
 
 - **[学習ツール] モードで、ページで使用できる色が増えました:** Word の学習ツールでは、より多くのページ テーマ色が追加され、ページの背景色を変更できるようになりました。 すべて白またはすべて黒の背景だと読みにくいと感じるユーザーは少なくないため、PC と Mac の Word で色の選択肢を拡大しました。
 
-- **シームレスに切り替える:** 新しいアカウント マネージャーでは、Office 365 の職場用と個人用のアカウントがすべて 1 か所に表示されます。 アカウント間の切り替えがより簡単になりました。 [詳細情報](https://support.office.com/ja-JP/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+- **シームレスに切り替える:** 新しいアカウント マネージャーでは、Office 365 の職場用と個人用のアカウントがすべて 1 か所に表示されます。 アカウント間の切り替えがより簡単になりました。 [詳細情報](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
-- **作業の邪魔をするものにさよならしましょう:** Mac のお気に入りの機能が Windows に登場します。 気を散らさずに作業に集中するには、[表示]メニューの[フォーカス]に切り替えます。 [詳細情報](https://support.office.com/ja-JP/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
+- **作業の邪魔をするものにさよならしましょう:** Mac のお気に入りの機能が Windows に登場します。 気を散らさずに作業に集中するには、[表示]メニューの[フォーカス]に切り替えます。 [詳細情報](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
 
 ### <a name="office-suite"></a>Office スイート
 
-- **Microsoft Teams のインストール**: Teams は、Office 365 ProPlus の既存のインストールに追加されます。 [詳細情報](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)
+- **Microsoft Teams のインストール**: Teams は、Office 365 ProPlus の既存のインストールに追加されます。 [詳細情報](https://docs.microsoft.com/DeployOffice/teams-install)
 
 - **変更が発生したときに変更内容を自動的に保存する:** 変更が自動的に保存されるように、ファイルを OneDrive にアップロードしましょう。
 
@@ -303,7 +342,7 @@ ms.locfileid: "38312137"
 
 - 会議室の空き時間外に発生した会議のために会議室がユーザーに提案されるという問題が修正されました。
 
-- ユーザーにエラー "このファイルが見つかりません" が表示される一時的なサービスに関する問題が修正されました。 クラウドの添付ファイルを使用している場合は、パスとファイル名が正しいことを確認します。 [詳細情報](https://support.office.com/ja-JP/article/outlook-unable-to-attach-onedrive-or-sharepoint-files-to-emails-136951bb-60dc-478a-b916-6ee39e62c37a)
+- ユーザーにエラー "このファイルが見つかりません" が表示される一時的なサービスに関する問題が修正されました。 クラウドの添付ファイルを使用している場合は、パスとファイル名が正しいことを確認します。 [詳細情報](https://support.office.com/article/outlook-unable-to-attach-onedrive-or-sharepoint-files-to-emails-136951bb-60dc-478a-b916-6ee39e62c37a)
 
 - ユーザーに Outlook から OneDrive または Sharepoint にアップロードしたファイルが表示される問題が修正されました。ファイル名が変更され、複数の文字が下線で置き換えられました。
 
@@ -348,7 +387,7 @@ ms.locfileid: "38312137"
 ## <a name="version-1902-august-13"></a>バージョン 1902: 8 月 13 日
 *バージョン 1902 (ビルド 11328.20392)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
 - テーブルのフィルター処理ありのスライサーとフィルター処理なしのスライサーの両方に、[フィルターのクリア] アイコンが表示される問題を修正しました。
@@ -365,12 +404,12 @@ ms.locfileid: "38312137"
 - 他のユーザーとドキュメントの共同作業を行っている間に、アプリケーションが予期せず終了することがある問題を修正しました。
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
-- 特定のシナリオで Office JavaScript ライブラリ の Setting API が機能しなくなる問題を修正しました ([詳細情報](https://support.microsoft.com/ja-JP/help/4475551/august-6-2019-update-for-office-2016-kb4475551))
+- 特定のシナリオで Office JavaScript ライブラリ の Setting API が機能しなくなる問題を修正しました ([詳細情報](https://support.microsoft.com/help/4475551/august-6-2019-update-for-office-2016-kb4475551))
 
 ## <a name="version-1902-july-09"></a>バージョン 1902: 7 月 9 日
 *バージョン 1902 (ビルド 11328.20368)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
@@ -412,7 +451,7 @@ ms.locfileid: "38312137"
 
 ## <a name="version-1902-june-11"></a>バージョン 1902: 6 月 11 日
 *バージョン 1902 (ビルド 11328.20318)*
-<br/>[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)にセキュリティ更新プログラムが記載されています
+<br/>[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)にセキュリティ更新プログラムが記載されています
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
  - PDF にマッピングする XML を含むファイルを保存するときにクラッシュの原因となっていた問題が解決されました。
@@ -502,7 +541,7 @@ ms.locfileid: "38312137"
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 
-- Office の更新プログラムの一部で配信の最適化のピア キャッシュを使用しないという問題が修正されました。 [詳細情報](https://docs.microsoft.com/ja-JP/windows/deployment/update/waas-delivery-optimization)
+- Office の更新プログラムの一部で配信の最適化のピア キャッシュを使用しないという問題が修正されました。 [詳細情報](https://docs.microsoft.com/windows/deployment/update/waas-delivery-optimization)
 - Office が Office 展開ツールを使用してインストールされ、大文字/小文字が一致しない場合、製品が削除されたり、アクティブ化されなかったりする可能性があるバグが修正されました。
 - Windows 10（バージョン1803以降）のデバイスで過剰なサインインプロンプトを引き起こしていた問題を修正しました。
 - リンクされた写真をダウンロードするときにハングする原因となる退行を修正しました。
@@ -541,7 +580,7 @@ ms.locfileid: "38312137"
 - **期間の新しい既定値:** [定期的なアイテム] ダイアログでは、期間に [終了日未定] の既定値が使われていました。 これにより、長期間実行される定期的なアイテムが作成され、時間と共に破損する可能性がありました。 既定値が予定表作成の推奨されるベスト プラクティスに一致するように、[定期的なアイテム] ダイアログ ボックスの既定値を [終了日] に更新します。
 - **Outlook のアラーム ダイアログから Teams 会議に参加する:** Outlook が今後の会議についてユーザーに通知する際、会議が Teams のオンライン会議の場合には、[オンラインで参加] ボタンが表示されます。これは、Outlook のアラート ダイアログから Skype for Business 会議に参加する場合に似ています。
 - **過去のイベントのリマインダーの表示を停止:** 終了したイベントのリマインダーを自動的に破棄するようにカレンダーを設定することができます。 [詳細情報](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
-- **安全なリンクの背後にある URL を表示する:** 安全なリンクは、メールで受け取った悪意のある URL からユーザーを保護しますが、元の URL は非表示になります。 元の URL を確認するには、URL をマウスでポイントします。 Advanced Threat Protection のライセンスが必要です。 [詳細情報](https://products.office.com/ja-JP/exchange/advance-threat-protection)
+- **安全なリンクの背後にある URL を表示する:** 安全なリンクは、メールで受け取った悪意のある URL からユーザーを保護しますが、元の URL は非表示になります。 元の URL を確認するには、URL をマウスでポイントします。 Advanced Threat Protection のライセンスが必要です。 [詳細情報](https://products.office.com/exchange/advance-threat-protection)
 - **ズームとスティック:** メッセージを表示するたびにズームを調整するのではなく、すべてのメッセージに使用する既定値を選択します。 [詳細情報](https://support.office.com/article/56c090bc-e148-44a7-bd06-1290edd38983)
 - **メッセージ暗号化: 暗号化のみ IRM ポリシー:** 新しい暗号化のみオプションは、Office 365 Message Encryption ユーザーの [オプション] > [アクセス許可] に表示されます。 このオプションを使用すると、メッセージを暗号化して、組織の内外のユーザーに送信できます。
 - **BCC で受け取った場合の警告:** ブラインド カーボン コピーで受け取ったメールに対し、誤って全員に返信する前に、BCC のヒントで警告されます。
@@ -593,7 +632,7 @@ ms.locfileid: "38312137"
 ### <a name="office-suite-feature-updates"></a>Office スイート: 機能の更新
 
 - **Office のサード パーティ アプリケーションでは office.js api を使用した SVG の挿入をサポート:** Office アドインとも呼ばれるサード パーティ アプリケーションで SVG を挿入できるようになりました。ユーザーは、個人の SVG コレクションを Office に結び付けることができます。開発者は、Office.js API を使用してこの機能を利用できます。
-- **Microsoft Teams のインストール:** Microsoft Teams は、Office 365 ProPlus の新規インストールでは既定でインストールされています。 [詳細情報](https://docs.microsoft.com/ja-JP/deployoffice/teams-install)
+- **Microsoft Teams のインストール:** Microsoft Teams は、Office 365 ProPlus の新規インストールでは既定でインストールされています。 [詳細情報](https://docs.microsoft.com/DeployOffice/teams-install)
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: 機能の更新
 
@@ -619,7 +658,7 @@ ms.locfileid: "38312137"
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 
-- [Office 365 の一元展開](https://docs.microsoft.com/ja-JP/office/dev/add-ins/publish/centralized-deployment)を使用して展開したアドインが機能停止して使用できなくなる問題を修正しました。
+- [Office 365 の一元展開](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment)を使用して展開したアドインが機能停止して使用できなくなる問題を修正しました。
 
 
 ## <a name="version-1808-january-8"></a>バージョン 1808: 1 月 8 日
