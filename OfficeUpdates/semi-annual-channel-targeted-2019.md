@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル (対象指定) リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: a9debfb0a7ce3b844627c528288fb408dcd563e3
-ms.sourcegitcommit: 9fd95a1f16e15923ce60791093d907f32c28fc5d
+ms.openlocfilehash: ad38d452524ad3fd9ee90e435c55f6ffa6a009e3
+ms.sourcegitcommit: d42cb920d5533cc1fcbdf97e7f186af9bf4a9633
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/23/2019
-ms.locfileid: "39204346"
+ms.lasthandoff: 11/25/2019
+ms.locfileid: "39254346"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年の半期チャネル (対象指定) リリースのリリース ノート
 
@@ -31,6 +31,11 @@ ms.locfileid: "39204346"
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
 ### <a name="resolved-issues"></a>解決済みの問題
+
+### <a name="access"></a>Access
+
+- 更新クエリを実行すると "クエリが破損しています" という誤ったエラー メッセージが表示される問題が修正されました。
+
 ### <a name="excel"></a>Excel
 
 - ファイルに広範な条件付き書式が設定されている場合に、[フォントの色] ボタンをクリックするとパフォーマンスが低下する問題。

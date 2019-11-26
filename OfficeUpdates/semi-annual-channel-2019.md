@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: cb60b65d36a3bd05a2579c84cd97f82698ba868b
-ms.sourcegitcommit: 9fd95a1f16e15923ce60791093d907f32c28fc5d
+ms.openlocfilehash: 58bbbc3e37e0347f18f075d4d29126caf78e5439
+ms.sourcegitcommit: d42cb920d5533cc1fcbdf97e7f186af9bf4a9633
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/23/2019
-ms.locfileid: "39204326"
+ms.lasthandoff: 11/25/2019
+ms.locfileid: "39254366"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019 年の半期チャネル リリースのリリース ノート
 
@@ -35,7 +35,7 @@ ms.locfileid: "39204326"
 ### <a name="resolved-issues"></a>解決済みの問題
 ### <a name="access"></a>Access
 
-- この更新プログラムにより、更新クエリが実行されるか、SQL で UPDATE ステートメントが使用されるときに &quot;クエリは破損しています&quot; というエラーを発生させる場合のある Microsoft Access の問題が修正されます。
+- 更新クエリを実行すると "クエリが破損しています" という誤ったエラー メッセージが表示される問題が修正されました。
 
 ### <a name="outlook"></a>Outlook
 
@@ -52,7 +52,9 @@ ms.locfileid: "39204326"
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-- さまざまなバグとパフォーマンスの修正。
+### <a name="access"></a>Access
+
+- 更新クエリを実行すると "クエリが破損しています" という誤ったエラー メッセージが表示される問題が修正されました。
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
