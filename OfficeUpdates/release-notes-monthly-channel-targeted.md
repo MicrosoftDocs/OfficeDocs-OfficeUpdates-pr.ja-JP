@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 5abaa516f750daa60b0a2538f8d75f7a1b3fb71b
-ms.sourcegitcommit: d54d66f9c5f68a3a20ebb5f1004fb6c3ad9f62cc
+ms.openlocfilehash: a1ad777f8794fe2ec85b583ebd51dcdfe6b07f06
+ms.sourcegitcommit: 2008f3580435cc725ca36b2f762e5adf4df7f89a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39603691"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39668047"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 月次チャネルのリリース ノート (対象指定)
 
@@ -29,6 +29,7 @@ ms.locfileid: "39603691"
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
 
 ## <a name="version-1911-november-20"></a>バージョン 1911: 11 月 20 日
 *バージョン 1911 (ビルド 12228.20250)*
