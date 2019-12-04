@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 1820de477c70563d208be3fa26ad9f0bf66e2611
-ms.sourcegitcommit: 9fd95a1f16e15923ce60791093d907f32c28fc5d
+ms.openlocfilehash: d412d9cdd90b3a4a647404e30119ae3f8f231554
+ms.sourcegitcommit: fa15539afddaa27c28846d3968381a67788b4588
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/23/2019
-ms.locfileid: "39204336"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "39818777"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年の毎月のチャネル リリースのリリース ノート
 
@@ -23,6 +23,64 @@ ms.locfileid: "39204336"
  > [!NOTE]
 >- Microsoft では多くの場合、一定期間にわたって毎月、機能 (および場合によっては修正プログラム) を展開します。  ここで説明した内容がすぐに表示されない場合は、間もなく利用できるようになります。 [詳細情報](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Microsoft Teams の Office 365 ProPlus の既存のインストールについて: 7月の上旬から、Office 365 ProPlus (および Office 365 Business) の更新に Microsoft Teams が含まれます。  Teams が追加される日付は、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/DeployOffice/teams-install)」を参照してください。
+
+## <a name="version-1911-december-03"></a>バージョン 1911: 12 月 3 日
+*バージョン 1911 (ビルド 12228.20332)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="excel"></a>Excel
+
+- **複数の値を返す式を入力する:** 複数の値を返す式を素早く入力できるようになりました。隣接するセルに自動的に入力されます。 [詳細情報](https://support.office.com/ja-JP/article/5c2c9cbb-def8-409a-b380-2fbf91b20aa3)
+
+- **6 つの強力な機能:** スプレッドシートを強化する 6 つの新しい関数が追加されました。FILTER、SORT、SORTBY、UNIQUE、SEQUENCE、RANDARRAY です。 [詳細情報](https://support.office.com/ja-JP/article/003df6c7-1dcb-4388-8e2e-0fe77a0887bc)
+
+- **データ ビジュアライザー アドイン:** Excel から Visio フローチャートをすばやく作成します。 [詳細情報](https://support.office.com/ja-JP/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+### <a name="word"></a>Word
+
+- **共同編集の改善:** コンテンツの変更をリアルタイムでユーザーが受け取れるようにすることで、共同編集のエクスペリエンスを改善しました。
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="access"></a>Access
+
+- 更新クエリが実行されるか、SQL で UPDATE ステートメントが使用されるときに「&quot;クエリは破損しています&quot;」というエラーを発生させる場合のある Microsoft Access の問題が修正されました。
+
+### <a name="excel"></a>Excel
+
+- 信頼されていないネットワーク共有から保護されたファイルを編集する際に、Excel にエラーが発生する場合があります。
+
+- ブックが開かれていない状態で最近使用したファイルを検索する際にクラッシュが発生する可能性がある問題が解決されました。
+
+### <a name="outlook"></a>Outlook
+
+- アカウント作成コンテキストからサポートに連絡しようとすると、ユーザーに [&quot;OK&quot;] ボタンのある空のメッセージ ボックスが表示される問題に対処しました。
+
+- 2019 年に ブラジル タイム ゾーンを使用している場合、2020 年の定期的な会議や予定が間違った時間帯に表示されます。 この変更は、ブラジル タイム ゾーンに設定されているクライアントまたは同タイム ゾーンで設定された会議や予定に影響を与えます。 
+
+- ユーザーが [ルール] ダイアログを開くと、「&quot;このコンピューターのルールは、Microsoft Exchange のルールと異なります&quot;」というメッセージが表示される問題に対処しました。
+
+- SMIME アルゴリズムの選択に関する問題を修正しました。
+
+- 会議の [場所] フィールドが予期せず更新される問題に対処しました。
+
+### <a name="office-suite"></a>Office スイート
+
+- Office の更新プログラムが、意図したソース (ローカル共有、ネットワーク共有、構成マネージャー
+で提供される場所など) からではなく、予期せずに Office CDN からファイルをダウンロードする場合がある問題を解決しました。
+
+- ODT と GPO の更新期限設定で、相対期限の設定後、初回のみしか機能しない問題が修正されました。修正により、2 回目以降の更新プログラムで相対期限を使用きるようになりました。
+
+- Office の更新プログラムが、意図したソース (ローカル共有、ネットワーク共有、構成マネージャーで提供される場所など) からではなく、予期せずに Office CDN からファイルをダウンロードする場合がある問題を解決しました。
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-1910-november-22"></a>バージョン 1910: 11 月 22 日
 *バージョン 1910 (ビルド 12130.20410)*
