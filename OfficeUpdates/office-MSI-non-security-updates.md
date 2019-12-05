@@ -3,19 +3,19 @@ title: Windows インストーラー (MSI) を使用しているバージョン�
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 11/06/2019
+ms.date: 12/04/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 永続的なバージョンの Office 2016、Office 2013、Office 2010 の最新のセキュリティ以外の更新プログラム情報へのリンクを IT 技術者に提供します
-ms.openlocfilehash: dfb3e62d922774dce989bc6fadca93e1b80bc126
-ms.sourcegitcommit: a3a8b07e171e61f3dde1530a0c067d621db07feb
+ms.openlocfilehash: 85c94bef062f0ed71bbdcbfd1f1fd0684ba206be
+ms.sourcegitcommit: 37fc7174310b0a4dc6a816d675b8e1b7d9302ffd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "37993702"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39678649"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Windows インストーラー (MSI) を使用しているバージョンの Office の最新のセキュリティ以外の更新プログラム
 
@@ -26,6 +26,13 @@ ms.locfileid: "37993702"
 > - この記事の情報は、Office の Office 365 バージョン (Office 365 ProPlus など) には適用されません。
 > - Office の更新プログラムをインストールする手順については、「[Office の更新プログラムをインストールする](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)」を参照してください。
 <br/><br/>
+
+## <a name="december-3-2019"></a>2019 年 12 月 3 日
+
+**Office 2016**<br/>
+Microsoft Office 2016 の更新プログラム ([KB4484170](https://support.microsoft.com/help/4484170)) <br/>
+Microsoft Outlook 2016 の更新プログラム ([KB4484172](https://support.microsoft.com/help/4484172)) <br/>
+Skype for Business 2016 の更新プログラム ([KB4484133](https://support.microsoft.com/help/4484133)) <br/>
 
 ## <a name="november-5-2019"></a>2019 年 11 月 5 日
 
@@ -117,17 +124,3 @@ Microsoft Word 2013 の更新プログラム ([KB4475525](https://support.micros
 **Office 2010**<br/>
 Microsoft Filter Pack 2.0 の更新プログラム ([KB3114879](https://support.microsoft.com/help/3114879))<br/>Microsoft Office 2010 の更新プログラム ([KB3114397](https://support.microsoft.com/help/3114397))<br/><br/>
 
-## <a name="june-4-2019"></a>2019 年 6 月 4 日
-
-**Office 2016**<br/>
-Microsoft Excel 2016 の更新プログラム ([KB4464578](https://support.microsoft.com/help/4464578))<br/>
-Microsoft Office 2016 の更新プログラム ([KB4464539](https://support.microsoft.com/help/4464539))<br/>
-Microsoft Office 2016 の更新プログラム ([KB4464579](https://support.microsoft.com/help/4464579))<br/>
-Microsoft Office 2016 言語インターフェイス パックの更新プログラム ([KB4464581](https://support.microsoft.com/help/4464581))<br/>
-Microsoft Outlook 2016 の更新プログラム ([KB4464585](https://support.microsoft.com/help/4464585))<br/>
-Microsoft Project 2016 の更新プログラム ([KB4464589](https://support.microsoft.com/help/4464589))<br/>
-Skype for Business 2016 の更新プログラム ([KB4464576](https://support.microsoft.com/help/4464576))<br/>
-
-**Office 2013**<br/>
-Skype for Business 2015 の更新プログラム ([KB4464593](https://support.microsoft.com/help/4464593))<br/>
-<br/>
