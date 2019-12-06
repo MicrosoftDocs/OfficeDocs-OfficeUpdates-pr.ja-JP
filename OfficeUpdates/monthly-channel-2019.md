@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: d412d9cdd90b3a4a647404e30119ae3f8f231554
-ms.sourcegitcommit: fa15539afddaa27c28846d3968381a67788b4588
+ms.openlocfilehash: 3fb07aad5bc46630d2929cf36d18581bbb15fa99
+ms.sourcegitcommit: b259312e6a28ce767d11dc75e85844d209b94d88
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "39818777"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "39857845"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年の毎月のチャネル リリースのリリース ノート
 
@@ -77,8 +77,6 @@ ms.locfileid: "39818777"
 で提供される場所など) からではなく、予期せずに Office CDN からファイルをダウンロードする場合がある問題を解決しました。
 
 - ODT と GPO の更新期限設定で、相対期限の設定後、初回のみしか機能しない問題が修正されました。修正により、2 回目以降の更新プログラムで相対期限を使用きるようになりました。
-
-- Office の更新プログラムが、意図したソース (ローカル共有、ネットワーク共有、構成マネージャーで提供される場所など) からではなく、予期せずに Office CDN からファイルをダウンロードする場合がある問題を解決しました。
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
