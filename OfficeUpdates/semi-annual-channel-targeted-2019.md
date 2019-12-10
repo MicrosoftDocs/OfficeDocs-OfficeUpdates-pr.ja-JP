@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル (対象指定) リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: ad38d452524ad3fd9ee90e435c55f6ffa6a009e3
-ms.sourcegitcommit: d42cb920d5533cc1fcbdf97e7f186af9bf4a9633
+ms.openlocfilehash: 45a382ee14fc4d9b2e92b7b911f1c8d1cb1ac67a
+ms.sourcegitcommit: cdd69a3af5873fd60a3dabc010339acc19265db3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/25/2019
-ms.locfileid: "39254346"
+ms.lasthandoff: 12/06/2019
+ms.locfileid: "39890451"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年の半期チャネル (対象指定) リリースのリリース ノート
 
@@ -42,6 +42,10 @@ ms.locfileid: "39254346"
 
 - 印刷プレビューの印刷範囲が正しくないという問題を修正しました。
 
+- 信頼されていないネットワーク共有から保護されたファイルを編集する際に、Excel にエラーが発生する場合があります。
+
+- ブックが開かれていない状態で最近使用したファイルを検索する際にクラッシュが発生する可能性がある問題が解決されました。
+
 ### <a name="outlook"></a>Outlook
 
 - アカウント作成コンテキストからサポートに連絡しようとすると、ユーザーに [&quot;OK&quot;] ボタンのある空のメッセージ ボックスが表示される問題に対処しました。
@@ -51,6 +55,8 @@ ms.locfileid: "39254346"
 - 最新のグループに対し、検索の失敗がユーザーに表示される原因となった問題に対処しました。
 
 - &quot;不在着信した会話&quot; メッセージのルールを作成しようとするときに、クラッシュを発生させる原因となった問題に対処しました。
+
+- 最新のグループに対し、検索の失敗がユーザーに表示される原因となった問題に対処しました。
 
 ### <a name="word"></a>Word
 
