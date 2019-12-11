@@ -3,26 +3,26 @@ title: Office 2013 の更新履歴
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 11/13/2019
+ms.date: 12/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: クイック実行を使用する永続的なバージョンの Office 2013 の更新履歴を IT 技術者に提供します。
-ms.openlocfilehash: 91da43b4e86d47dd4f614124fb0661acbe508ada
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: 08c372300adbde8298b2b66d19fafc74162fb2cc
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289827"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961934"
 ---
 # <a name="update-history-for-office-2013"></a>Office 2013 の更新履歴
 
-ほとんどの Office 2013 製品は、クイック実行というテクノロジを使用して自動的に最新の状態に維持されます。最新の状態にあることを検証するには、Office のバージョン番号を確認し、必要に応じて手動で更新します。
+特定の Office 2013 製品は、クイック実行というテクノロジを使用して自動的に最新の状態に維持されます。最新の状態にあることを検証するには、Office のバージョン番号を確認し、必要に応じて手動で更新します。
   
 > [!NOTE]
-> 最新バージョンの Office 2013 は、2019 年 11 月 12 日にリリースされた **15.0.5189.1000** です。
+> 最新バージョンの Office 2013 は、2019 年 12 月 10 日にリリースされた **15.0.5197.1000** です。
   
 Office のバージョンを確認するには、以下を実行します。
   
@@ -46,9 +46,10 @@ Office のバージョンを確認するには、以下を実行します。
   
 |**リリース年**|**リリース日**|**バージョン番号**|**詳細情報**|
 |:-----|:-----|:-----|:-----|
-|2019|11 月 12 日   |15.0.5189.1000   |[KB 4527848 ](https://support.microsoft.com/ja-JP/help/4527848 )  |
-||10 月 8 日   |15.0.5179.1000   |[KB 4522242 ](https://support.microsoft.com/ja-JP/help/4522242 )  |
-||9 月 10 日   |15.0.5172.1000   |[KB 4517986 ](https://support.microsoft.com/ja-JP/help/4517986 )  |
+|2019|12 月 10 日   |15.0.5197.1000   |[KB 4532624  ](https://support.microsoft.com/ja-JP/help/4532624)  |
+||11 月 12 日   |15.0.5189.1000   |[KB 4527848 ](https://support.microsoft.com/ja-JP/help/4527848)  |
+||10 月 8 日   |15.0.5179.1000   |[KB 4522242 ](https://support.microsoft.com/ja-JP/help/4522242)  |
+||9 月 10 日   |15.0.5172.1000   |[KB 4517986 ](https://support.microsoft.com/ja-JP/help/4517986)  |
 ||8 月 13 日   |15.0.5163.1000   |[KB 4514418](https://support.microsoft.com/ja-JP/help/4514418)  |
 ||7 月 9 日   |15.0.5153.1001   |[KB 4509295](https://support.microsoft.com/ja-JP/help/4509295)  |
 ||6 月 11 日   |15.0.5145.1001   |[KB 4505743](https://support.microsoft.com/ja-JP/help/4505743)  |
