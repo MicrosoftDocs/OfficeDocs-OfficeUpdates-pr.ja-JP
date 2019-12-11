@@ -3,19 +3,19 @@ title: Office 2010 のクイック実行製品の更新履歴
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 11/13/2019
+ms.date: 12/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: クイック実行を使用する永続的なバージョンの Office 2010 の更新履歴を IT 技術者に提供します。
-ms.openlocfilehash: fde1f5a6ddc491caa8b2c949c0a95f70e76a1921
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: 679c94fb42683f97b7b866874bee27faca15a573
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38282175"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961944"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Office 2010 のクイック実行製品の更新履歴
 
@@ -30,7 +30,7 @@ ms.locfileid: "38282175"
 これらの製品のいずれかを使用しており、最新の状態になっていることを確認するには、Office のバージョン番号を確認し、必要に応じて手動で Office を更新します。
   
 > [!NOTE]
-> Office 2010 の最新バージョンは**14.0.7241.5000**です。2019年11月12日にリリースされました。
+> Office 2010 の最新バージョンは**14.0.7243.5000**です。2019年12月10日にリリースされました。
   
 Office のバージョンを確認するには、以下のことを行います。
   
@@ -54,7 +54,8 @@ Office のバージョンを確認するには、以下のことを行います�
   
 |**リリース年**|**リリース日**|**バージョン番号**|**詳細情報**|
 |:-----|:-----|:-----|:-----|
-|2019|11 月 12 日  <br/> |14.0.7241.5000  <br/> |[KB 4527848](https://support.microsoft.com/en-us/help/4527848) <br/> |
+|2019|12 月 10 日  <br/> |14.0.7243.5000  <br/> |[KB 4532624](https://support.microsoft.com/en-us/help/4532624) <br/> |
+||11 月 12 日  <br/> |14.0.7241.5000  <br/> |[KB 4527848](https://support.microsoft.com/en-us/help/4527848) <br/> |
 ||10 月 8 日  <br/> |14.0.7239.5000  <br/> |[KB 4522242](https://support.microsoft.com/en-us/help/4522242) <br/> |
 ||9 月 10 日  <br/> |14.0.7237.5000  <br/> |[KB 4517986](https://support.microsoft.com/en-us/help/4517986) <br/> |
 ||8 月 13 日  <br/> |14.0.7236.5000  <br/> |[KB 4514418](https://support.microsoft.com/en-us/help/4514418) <br/> |
