@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 58bbbc3e37e0347f18f075d4d29126caf78e5439
-ms.sourcegitcommit: d42cb920d5533cc1fcbdf97e7f186af9bf4a9633
+ms.openlocfilehash: c014a790374d1b3143033774b4acd7e5e5f9aaa2
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/25/2019
-ms.locfileid: "39254366"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961984"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019 年の半期チャネル リリースのリリース ノート
 
@@ -26,9 +26,47 @@ ms.locfileid: "39254366"
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
+
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-1902-december-10"></a>バージョン 1902: 12 月 10 日
+*バージョン 1902 (ビルド 11328.20492)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- この変更は、ソフトウェア レンダリングを活用することにより、特定の Intel グラフィック ドライバーの問題を回避します。
+
+### <a name="outlook"></a>Outlook
+
+- 来年の予定表アイテムに Outlook で間違った時刻が表示される場合があります。 [詳細情報](https://docs.microsoft.com/ja-JP/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
+
+- &quot;不在着信した会話&quot;メッセージのルールを作成しようとするときに、クラッシュを発生させる原因となった問題に対処しました。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 場合によってはレイアウトの問題があったノート ページでの印刷に関連する問題を修正しました。
+
+## <a name="version-1808-december-10"></a>バージョン 1808: 12 月 10 日
+*バージョン 1808 (ビルド 10730.20426)*
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- 来年の予定表アイテムに Outlook で間違った時刻が表示される場合があります。 [詳細情報](https://docs.microsoft.com/ja-JP/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
 ## <a name="version-1902-november-22"></a>バージョン 1902: 11 月 22 日
 *バージョン 1902 (ビルド 11328.20480)*
-
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
