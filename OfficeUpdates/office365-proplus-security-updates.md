@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus セキュリティ更新プログラムのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 76e51f729663364d3c1ff68ba0c9a4c1ad5bd20c
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: ec6f6f5035a2f4436ea429754d5d37d4c26712eb
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289665"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961782"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Office 365 ProPlus セキュリティ更新プログラムのリリース ノート
 
@@ -25,6 +25,29 @@ ms.locfileid: "38289665"
 > - ここに記載されている情報は、Business Premium など一部の Office 365 プランに付属する Office のバージョンの、Office 365 Business にも該当します。  
 
 [//]: # (上の行は間隔を空けるために使用されているので、削除しないでください。)  
+
+## <a name="december-10-2019"></a>2019 年 12 月 10 日
+月次チャネル バージョン 1911 (ビルド 12228.20364)  
+半期チャネル (対象指定): バージョン 1908 (ビルド 11929.20516)  
+半期チャネル: バージョン 1902 (ビルド 11328.20492)  
+半期チャネル: バージョン 1808 (ビルド 10730.20426)  
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2019-1464](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2019-1464)
+
+### <a name="powerpoint"></a>PowerPoint
+
+-   [CVE-2019-1462](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2019-1462)
+
+### <a name="word"></a>Word
+
+-   [CVE-2019-1461](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2019-1461)
+
+### <a name="office-suite"></a>Office スイート
+
+-   [CVE-2019-1400](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2019-1400)
+-   [CVE-2019-1463](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2019-1463)
 
 ## <a name="november-12-2019"></a>2019 年 11 月 12 日
 月次チャネル: バージョン 1910 (ビルド 12130.20344)  

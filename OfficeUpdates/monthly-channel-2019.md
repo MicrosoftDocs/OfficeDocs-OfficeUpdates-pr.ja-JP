@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 3fb07aad5bc46630d2929cf36d18581bbb15fa99
-ms.sourcegitcommit: b259312e6a28ce767d11dc75e85844d209b94d88
+ms.openlocfilehash: 8a4f4ed0d165a592d5ac6503ca42cf02058ff988
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/05/2019
-ms.locfileid: "39857845"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961792"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年の毎月のチャネル リリースのリリース ノート
 
@@ -23,6 +23,26 @@ ms.locfileid: "39857845"
  > [!NOTE]
 >- Microsoft では多くの場合、一定期間にわたって毎月、機能 (および場合によっては修正プログラム) を展開します。  ここで説明した内容がすぐに表示されない場合は、間もなく利用できるようになります。 [詳細情報](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Microsoft Teams の Office 365 ProPlus の既存のインストールについて: 7月の上旬から、Office 365 ProPlus (および Office 365 Business) の更新に Microsoft Teams が含まれます。  Teams が追加される日付は、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/DeployOffice/teams-install)」を参照してください。
+
+## <a name="version-1911-december-10"></a>バージョン 1911: 12 月 10 日
+*バージョン 1911 (ビルド 12228.20364)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- この変更は、ソフトウェア レンダリングを活用することにより、特定の Intel グラフィック ドライバーの問題を回避します。
+
+- ピボット グラフの右クリック メニューを修正して、[詳細の表示] オプションを有効にしました。
+
+### <a name="outlook"></a>Outlook
+
+- Web アドインがデジタル著作権管理 (DRM) メッセージにアクセスする原因となった問題に対処します。
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-1911-december-03"></a>バージョン 1911: 12 月 3 日
 *バージョン 1911 (ビルド 12228.20332)*

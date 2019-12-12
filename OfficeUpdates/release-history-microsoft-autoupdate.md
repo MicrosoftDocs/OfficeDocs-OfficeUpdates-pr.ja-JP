@@ -3,19 +3,19 @@ title: Microsoft AutoUpdate (MAU) のリリース履歴
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/13/2019
+ms.date: 12/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT プロフェッショナルに、Microsoft AutoUpdate (MAU) のリリース履歴を提供します
-ms.openlocfilehash: 620c5d32848db366e110c799e5fef23c7fbf3455
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: c4fa1fa339d50ea94a95af16174f1e00c4f280ee
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289655"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961802"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) のリリース履歴
  
@@ -30,6 +30,25 @@ ms.locfileid: "38289655"
 > - Microsoft AutoUpdate は、Microsoft のさまざまな Mac 製品への更新プログラムを提供します。そのため、Office for Mac を実行していない場合でも、Microsoft AutoUpdate を更新する通知が表示される場合があります。
 
 リリース ノートを確認するには、「[リリース ノート](release-notes-office-for-mac.md)」を参照してください。<br/><br/>
+
+## <a name="december-2019-release"></a>2019 年 12 月リリース
+
+**リリース日**: 2019 年 12 月 10 日
+
+*Microsoft Auto Update 4.18*
+
+ **機能の更新プログラム:**
+
+- アプリごとのチャネル: Mac 管理者は、アプリごとに異なるチャネルまたは検証リングをサブスクライブできるようになりました。 
+
+
+**MAU 更新プログラムのリンク:**
+
+[Microsoft Auto Update 4.18 パッケージをダウンロードする](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 ハッシュ:**
+
+3AC34987AE344C6B097081DE15350DC9126FF7B5A00E24105AACD80E6F4DFCAF<br/><br/>
 
 ## <a name="november-2019-release"></a>2019 年 11 月リリース
 

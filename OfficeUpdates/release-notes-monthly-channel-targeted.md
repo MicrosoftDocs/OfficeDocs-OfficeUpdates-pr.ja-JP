@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: a1ad777f8794fe2ec85b583ebd51dcdfe6b07f06
-ms.sourcegitcommit: 2008f3580435cc725ca36b2f762e5adf4df7f89a
+ms.openlocfilehash: f6187b1c78133d5e8e89c7a9927e7ff037804c4c
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39668047"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961742"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 月次チャネルのリリース ノート (対象指定)
 
@@ -30,6 +30,52 @@ ms.locfileid: "39668047"
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
 
+## <a name="version-1911-december-10"></a>バージョン 1911: 12 月 10 日
+*バージョン 1911 (ビルド 12228.20364)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="excel"></a>Excel
+
+- **ファイルを変換してアクセシビリティを向上させる**: ファイルを最新の形式にアップグレードすると、すべてのユーザがアクセスできるようになります。
+
+- **よりアクセシビリティの高い PDF ファイルを作成する:** PDF を作成すると、アクセシビリティ チェックが、保存する前に修正するアクセシビリティの問題を指摘します。 [詳細情報](https://support.office.com/ja-JP/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+### <a name="outlook"></a>Outlook
+
+- **グループの名前付けポリシー**: グループの名前付けポリシーを使用すると、IT 管理者は組織内のユーザーが作成するグループの名前の標準化と管理を行えます。 管理者は、グループが作成される際に特定のプレフィックスとサフィックスをグループ名に追加することを要求できます。また、特定の単語の使用を禁止できます。 これにより、グループ名での不適切な単語の使用を最小限に抑えられる他、ディレクトリ内のグループ名の記載を IT 管理者が管理できます。 また、名前付けポリシーを使用することで、チーム サイトを展開する組織は、チーム サイトを部署ごとに分類できるようにもなります。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **インクを瞬時に再生:** スライドで手描き入力する場合は、スライド ショー中にアニメーションの再生を適用して、インクの実際の描画が再生されるようにします。 [詳細情報](https://support.office.com/ja-JP/article/fa4f044f-810b-43fe-b774-da04a0b37496)
+
+- **ファイルを変換してアクセシビリティを向上させる**: ファイルを最新の形式にアップグレードすると、すべてのユーザがアクセスできるようになります。
+
+- **よりアクセシビリティの高い PDF ファイルを作成する:** PDF を作成すると、アクセシビリティ チェックが、保存する前に修正するアクセシビリティの問題を指摘します。
+
+### <a name="word"></a>Word
+
+- **他のユーザーがすばやく変更を確認:** 共同編集の改善とは、これまでになく迅速に、共同作業者がユーザーによる変更を確認できることを意味します。
+
+- **ファイルを変換してアクセシビリティを向上させる**: ファイルを最新の形式にアップグレードすると、すべてのユーザがアクセスできるようになります。
+
+- **よりアクセシビリティの高い PDF ファイルを作成する:** PDF を作成すると、アクセシビリティ チェックが、保存する前に修正するアクセシビリティの問題を指摘します。 [詳細情報](https://support.office.com/ja-JP/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+## <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- この変更は、ソフトウェア レンダリングを活用することにより、特定の Intel グラフィック ドライバーの問題を回避します。
+
+- ピボット グラフの右クリック メニューを修正して、[詳細の表示] オプションを有効にしました。
+
+### <a name="outlook"></a>Outlook
+
+- Web アドインがデジタル著作権管理 (DRM) メッセージにアクセスする原因となった問題に対処します。
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-1911-november-20"></a>バージョン 1911: 11 月 20 日
 *バージョン 1911 (ビルド 12228.20250)*
@@ -78,7 +124,6 @@ ms.locfileid: "39668047"
 ### <a name="office-suite"></a>Office スイート
 
 - **アップロード センターは、Files Needing Attention experience に置き換えられます:** アップロード センターは、[ファイル] > [開く] の Office アプリケーション内に表示される Files Needing Attention experience に置き換えられます。 この新しいエクスペリエンスは、アップロード センターに比べ、最新かつ総合的で、煩わしくありません。
-
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
 
