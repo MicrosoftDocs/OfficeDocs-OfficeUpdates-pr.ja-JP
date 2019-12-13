@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル (対象指定) リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 45a382ee14fc4d9b2e92b7b911f1c8d1cb1ac67a
-ms.sourcegitcommit: cdd69a3af5873fd60a3dabc010339acc19265db3
+ms.openlocfilehash: 8521872143f0330dd8ff7fd4092556503501b4a1
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/06/2019
-ms.locfileid: "39890451"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961974"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年の半期チャネル (対象指定) リリースのリリース ノート
 
@@ -23,6 +23,59 @@ ms.locfileid: "39890451"
 > [!NOTE]
 > - 多くの場合、機能 (場合によっては修正プログラムも) は、特定の期間にわたって半期チャネル (対象指定) にロールアウトされます。 ここで説明される内容がすぐに確認できなくても、間もなく利用できるようになります。 [詳細情報](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - Microsoft Teams は、バージョン 1902 以降の半期チャネル (対象指定) の新規インストールに含まれています。 Teams は、バージョン 1908以降に更新されると、半期チャネル (対象指定) の既存のインストールに追加されます。 詳細については、「[Office 365 ProPlus で Microsoft Teams を展開する](https://docs.microsoft.com/DeployOffice/teams-install)」をご覧ください。
+
+## <a name="version-1908-december-10"></a>バージョン 1908: 12 月 10 日
+*バージョン 1908 (ビルド 11929.20516)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="access"></a>Access
+
+- リモート テーブル (SQL Server テーブルなど) への参照を含むユニオン クエリにより Access が閉じて再起動する問題を修正しました。
+
+- Sum などの集計が結果を整数値に切り捨てる問題を修正しました。
+
+### <a name="excel"></a>Excel
+
+- スクロール後にセルを選択すると間違ったセルが選択されることがある問題を解決しました。
+
+- OLAP ピボットテーブルのフィルターがキューブから削除された値に設定された場合の問題を修正しました。
+
+- この変更は、ソフトウェア レンダリングを活用することにより、特定の Intel グラフィック ドライバーの問題を回避します。
+
+- Lookup 関数がエラーを返す問題を解決しました。
+
+- 結合されたセルで列を削除するパフォーマンスが大幅に改善されました。
+
+- 最小化されたウィンドウをアクティブにするマクロ実行時エラーの原因となる問題を解決しました。
+
+### <a name="outlook"></a>Outlook
+
+- SMIME アルゴリズムの選択に関する問題を修正しました。
+
+- ユーザーが [ルール] ダイアログを開くと、「&quot;このコンピューターのルールは、Microsoft Exchange のルールと異なります&quot;」というメッセージが表示される問題に対処しました。
+
+- Web アドインがデジタル著作権管理 (DRM) メッセージにアクセスするべきではないときにアクセスする原因となった問題に対処します。
+
+### <a name="word"></a>Word
+
+- 無限ループになることがあるトラック変更の問題を修正しました。
+
+### <a name="office-suite"></a>Office スイート
+
+- PowerPoint の垂直テキストボックスで半角カタカナ文字が適切に回転しない問題を修正しました。
+
+- Office の更新プログラムが、意図したソース (ローカル共有、ネットワーク共有、構成マネージャー
+で提供される場所など) からではなく、予期せずに Office CDN からファイルをダウンロードする場合がある問題を解決しました。
+
+- Office ユーザーのセキュリティを保護するために、Microsoft Office の更新プログラムは SHA-2 アルゴリズムのみを使用して署名されるようになりました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-1908-november-22"></a>バージョン 1908: 11 月 22 日
 *バージョン 1908 (ビルド 11929.20494)*
