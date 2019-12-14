@@ -9,25 +9,25 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 8a4f4ed0d165a592d5ac6503ca42cf02058ff988
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 69b4f1a573d412e665554f9c697cbce9e3003b27
+ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39961792"
+ms.lasthandoff: 12/14/2019
+ms.locfileid: "40023602"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年の毎月のチャネル リリースのリリース ノート
 
 これらのリリースノートには、2019 年の Office 365 ProPlus、Visio Pro for Office 365、Project Online デスクトップ クライアント、および Office 365 Business の毎月の更新プログラム チャンネルに含まれる新機能およびセキュリティ以外の更新に関する情報が記載されています。
 
  > [!NOTE]
->- Microsoft では多くの場合、一定期間にわたって毎月、機能 (および場合によっては修正プログラム) を展開します。  ここで説明した内容がすぐに表示されない場合は、間もなく利用できるようになります。 [詳細情報](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+>- Microsoft では多くの場合、一定期間にわたって毎月、機能 (および場合によっては修正プログラム) を展開します。  ここで説明した内容がすぐに表示されない場合は、間もなく利用できるようになります。 [詳細情報](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Microsoft Teams の Office 365 ProPlus の既存のインストールについて: 7月の上旬から、Office 365 ProPlus (および Office 365 Business) の更新に Microsoft Teams が含まれます。  Teams が追加される日付は、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/DeployOffice/teams-install)」を参照してください。
 
 ## <a name="version-1911-december-10"></a>バージョン 1911: 12 月 10 日
 *バージョン 1911 (ビルド 12228.20364)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
@@ -52,11 +52,11 @@ ms.locfileid: "39961792"
 ### <a name="feature-updates"></a>機能の更新プログラム
 ### <a name="excel"></a>Excel
 
-- **複数の値を返す式を入力する:** 複数の値を返す式を素早く入力できるようになりました。隣接するセルに自動的に入力されます。 [詳細情報](https://support.office.com/ja-JP/article/5c2c9cbb-def8-409a-b380-2fbf91b20aa3)
+- **複数の値を返す式を入力する:** 複数の値を返す式を素早く入力できるようになりました。隣接するセルに自動的に入力されます。 [詳細情報](https://support.office.com/article/5c2c9cbb-def8-409a-b380-2fbf91b20aa3)
 
-- **6 つの強力な機能:** スプレッドシートを強化する 6 つの新しい関数が追加されました。FILTER、SORT、SORTBY、UNIQUE、SEQUENCE、RANDARRAY です。 [詳細情報](https://support.office.com/ja-JP/article/003df6c7-1dcb-4388-8e2e-0fe77a0887bc)
+- **6 つの強力な機能:** スプレッドシートを強化する 6 つの新しい関数が追加されました。FILTER、SORT、SORTBY、UNIQUE、SEQUENCE、RANDARRAY です。 [詳細情報](https://support.office.com/article/003df6c7-1dcb-4388-8e2e-0fe77a0887bc)
 
-- **データ ビジュアライザー アドイン:** Excel から Visio フローチャートをすばやく作成します。 [詳細情報](https://support.office.com/ja-JP/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **データ ビジュアライザー アドイン:** Excel から Visio フローチャートをすばやく作成します。 [詳細情報](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 ### <a name="word"></a>Word
 
@@ -148,7 +148,7 @@ ms.locfileid: "39961792"
 
 ### <a name="excel"></a>Excel
 
-- **よりアクセシビリティの高い PDF ファイルを作成する:** PDF を作成すると、アクセシビリティ チェックが、保存する前に修正するアクセシビリティの問題を指摘します。 [詳細情報](https://support.office.com/ja-JP/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+- **よりアクセシビリティの高い PDF ファイルを作成する:** PDF を作成すると、アクセシビリティ チェックが、保存する前に修正するアクセシビリティの問題を指摘します。 [詳細情報](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
 
 - **ファイルを変換してアクセシビリティを向上させる**: ファイルを最新の形式にアップグレードすると、すべてのユーザがアクセスできるようになります。
 
@@ -162,7 +162,7 @@ ms.locfileid: "39961792"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **よりアクセシビリティの高い PDF ファイルを作成する:** PDF を作成すると、アクセシビリティ チェックが、保存する前に修正するアクセシビリティの問題を指摘します。 [詳細情報](https://support.office.com/ja-JP/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+- **よりアクセシビリティの高い PDF ファイルを作成する:** PDF を作成すると、アクセシビリティ チェックが、保存する前に修正するアクセシビリティの問題を指摘します。 [詳細情報](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
 
 - **ファイルを変換してアクセシビリティを向上させる**: ファイルを最新の形式にアップグレードすると、すべてのユーザがアクセスできるようになります。
 
@@ -172,7 +172,7 @@ ms.locfileid: "39961792"
 
 - **共同編集の改善**: 変更を追跡したドキュメントで共同編集を行う際の Word のパフォーマンスが改善されました。
 
-- **よりアクセシビリティの高い PDF ファイルを作成する:** PDF を作成すると、アクセシビリティ チェックが、保存する前に修正するアクセシビリティの問題を指摘します。 [詳細情報](https://support.office.com/ja-JP/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+- **よりアクセシビリティの高い PDF ファイルを作成する:** PDF を作成すると、アクセシビリティ チェックが、保存する前に修正するアクセシビリティの問題を指摘します。 [詳細情報](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
 
 - **ファイルを変換してアクセシビリティを向上させる**: ファイルを最新の形式にアップグレードすると、すべてのユーザがアクセスできるようになります。
 
@@ -253,7 +253,7 @@ ms.locfileid: "39961792"
 ### <a name="feature-updates"></a>機能の更新プログラム
 ### <a name="access"></a>Access
 
-- **リンク テーブルをすばやく見つける:** 新しい検索ボックスを使用すると、リンク テーブルを簡単に見つけることができます。 [詳細情報](https://support.office.com/ja-JP/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
+- **リンク テーブルをすばやく見つける:** 新しい検索ボックスを使用すると、リンク テーブルを簡単に見つけることができます。 [詳細情報](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
 
 ### <a name="excel"></a>Excel
 
@@ -273,13 +273,13 @@ ms.locfileid: "39961792"
 
 - **攻撃に対する高度な保護:** Office 365 Advanced Threat Protection を用いると、メールの件名、添付メッセージ、署名されたメッセージ、ネットワーク パスなどの範囲内のハイパーリンクを利用した攻撃から保護されます。
 
-- **異なる明るさでメッセージを表示する:** [太陽] または [月] のボタンを使用して、閲覧ウィンドウの明るい背景と暗い背景を切り替えます。 [詳細情報](https://support.office.com/ja-JP/article/3e2446e0-9a7b-4189-9af9-57fb94d02ae3)
+- **異なる明るさでメッセージを表示する:** [太陽] または [月] のボタンを使用して、閲覧ウィンドウの明るい背景と暗い背景を切り替えます。 [詳細情報](https://support.office.com/article/3e2446e0-9a7b-4189-9af9-57fb94d02ae3)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **図を SVG として保存する:** グラフ、図形、その他の図を、サイズ変更しても画質が低下しないスケーラブル ベクター グラフィックとして保存できます。 [詳細情報](https://support.office.com/ja-JP/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **図を SVG として保存する:** グラフ、図形、その他の図を、サイズ変更しても画質が低下しないスケーラブル ベクター グラフィックとして保存できます。 [詳細情報](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
-- **インクを瞬時に再生:** インク描画にアニメーション効果を適用して、スライド ショーの間中、それが進んだり戻ったりして再生されるようにします。 [詳細情報](https://support.office.com/ja-JP/article/fa4f044f-810b-43fe-b774-da04a0b37496)
+- **インクを瞬時に再生:** インク描画にアニメーション効果を適用して、スライド ショーの間中、それが進んだり戻ったりして再生されるようにします。 [詳細情報](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496)
 
 - **ファイル共有の高速化:** ファイルを開かなくても、最近使用したファイルの一覧からドキュメントを直接共有できます。
 
@@ -372,9 +372,9 @@ ms.locfileid: "39961792"
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
 
-- **あらましを描く:** ブック内の Office の図形をカジュアルな手描き風にします。 [詳細情報](https://support.office.com/ja-JP/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+- **あらましを描く:** ブック内の Office の図形をカジュアルな手描き風にします。 [詳細情報](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
 
-- **検索して楽しむ:** 目的のアイコンが簡単に見つかるように、アイコンを挿入するための検索が追加されました。 選択しているときに、[挿入] ボタンではユーザーによって選択された数をお知らせします。 [詳細情報](https://support.office.com/ja-JP/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **検索して楽しむ:** 目的のアイコンが簡単に見つかるように、アイコンを挿入するための検索が追加されました。 選択しているときに、[挿入] ボタンではユーザーによって選択された数をお知らせします。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 - **残っている作業に集中する:** [解決] を選択して、コメントを折りたたみ、開いているアイテムを目立たせます。
 
@@ -384,21 +384,21 @@ ms.locfileid: "39961792"
 
 ### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
 
-- **場所の候補を取得する:** 予定や会議をスケジュールするときに、[場所] に入力すると、会議室、住所、およびその他の最新の場所が提示されます。 [詳細情報](https://support.office.com/ja-JP/article/1d8631be-611a-4e3d-9109-b153e4622d53)
+- **場所の候補を取得する:** 予定や会議をスケジュールするときに、[場所] に入力すると、会議室、住所、およびその他の最新の場所が提示されます。 [詳細情報](https://support.office.com/article/1d8631be-611a-4e3d-9109-b153e4622d53)
 
-- **検索して楽しむ:** 目的のアイコンが簡単に見つかるように、アイコンを挿入するための検索が追加されました。 選択しているときに、[挿入] ボタンではユーザーによって選択された数をお知らせします。 [詳細情報](https://support.office.com/ja-JP/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **検索して楽しむ:** 目的のアイコンが簡単に見つかるように、アイコンを挿入するための検索が追加されました。 選択しているときに、[挿入] ボタンではユーザーによって選択された数をお知らせします。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新
 
-- **あらましを描く:** プレゼンテーション内の Office の図形をカジュアルな手描き風にします。 [詳細情報](https://support.office.com/ja-JP/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+- **あらましを描く:** プレゼンテーション内の Office の図形をカジュアルな手描き風にします。 [詳細情報](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
 
-- **検索して楽しむ:** 目的のアイコンが簡単に見つかるように、アイコンを挿入するための検索が追加されました。 選択しているときに、[挿入] ボタンではユーザーによって選択された数をお知らせします。 [詳細情報](https://support.office.com/ja-JP/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **検索して楽しむ:** 目的のアイコンが簡単に見つかるように、アイコンを挿入するための検索が追加されました。 選択しているときに、[挿入] ボタンではユーザーによって選択された数をお知らせします。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="word-feature-updates"></a>Word: 機能の更新
 
-- **あらましを描く:** ドキュメント内の Office の図形をカジュアルな手描き風にします。 [詳細情報](https://support.office.com/ja-JP/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+- **あらましを描く:** ドキュメント内の Office の図形をカジュアルな手描き風にします。 [詳細情報](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
 
-- **検索して楽しむ:** 目的のアイコンが簡単に見つかるように、アイコンを挿入するための検索が追加されました。 選択しているときに、[挿入] ボタンではユーザーによって選択された数をお知らせします。 [詳細情報](https://support.office.com/ja-JP/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **検索して楽しむ:** 目的のアイコンが簡単に見つかるように、アイコンを挿入するための検索が追加されました。 選択しているときに、[挿入] ボタンではユーザーによって選択された数をお知らせします。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ## <a name="version-1907-august-13"></a>バージョン 1907: 8 月 13 日
 *バージョン 1907 (ビルド 11901.20218)*
@@ -424,35 +424,35 @@ ms.locfileid: "39961792"
 
 - **Power Query の機能強化を使用して素早くコーディングする:** オートコンプリートおよび構文の色分けによって素早くコーディングを完了できます。 関数、列、パラメーターも簡単に見つけることができます。
 
-- **マップ グラフを作成する:** この機能は、Excel の地理データ型を使用して、塗り分けされたマップ グラフにプロットするユーザーのための機能強化です。 エンドユーザーにとっては、機能とエンドユーザーがマップする領域の精度向上とがより高度に統合されたことが利点です。 さらに、ポリゴンで都市をマッピングする機能も含まれてます。 [詳細情報](https://support.office.com/ja-JP/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+- **マップ グラフを作成する:** この機能は、Excel の地理データ型を使用して、塗り分けされたマップ グラフにプロットするユーザーのための機能強化です。 エンドユーザーにとっては、機能とエンドユーザーがマップする領域の精度向上とがより高度に統合されたことが利点です。 さらに、ポリゴンで都市をマッピングする機能も含まれてます。 [詳細情報](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-- **類似列のテーブルを結合する:** 取得と変換 (Power Query) では、テーブルを統合するために列を比較するときに、近似文字列マッチング ロジック (あいまい一致とも呼ばれる) が使用できるようになりました。 [詳細情報](https://support.office.com/ja-JP/article/ffdd5082-c0c8-4c8e-a794-bd3962b90649)
+- **類似列のテーブルを結合する:** 取得と変換 (Power Query) では、テーブルを統合するために列を比較するときに、近似文字列マッチング ロジック (あいまい一致とも呼ばれる) が使用できるようになりました。 [詳細情報](https://support.office.com/article/ffdd5082-c0c8-4c8e-a794-bd3962b90649)
 
 ### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
 
-- **あなたが人を検索するときに電子メールの提案を得ます:** [検索]ボックスにその人の名前を入力すると、最も関連性の高い電子メールメッセージが検索結果に含まれます。 [詳細情報](https://support.office.com/ja-JP/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
+- **あなたが人を検索するときに電子メールの提案を得ます:** [検索]ボックスにその人の名前を入力すると、最も関連性の高い電子メールメッセージが検索結果に含まれます。 [詳細情報](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新
 
 - **ブラウザーへのバウンスは不要:** ブラウザーまたはアプリで Office ドキュメントへのリンクを開く方法を決定することができます。
 
-- **オンライン ビデオの新しい保存場所:** Microsoft Stream にビデオを保存すれば、組織内のすべてのユーザーが視聴できます。 ビデオのリンクを挿入すれば、小さなファイル サイズでマルチメディア プレゼンテーションをご利用いただけます。 [詳細情報](https://support.office.com/ja-JP/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+- **オンライン ビデオの新しい保存場所:** Microsoft Stream にビデオを保存すれば、組織内のすべてのユーザーが視聴できます。 ビデオのリンクを挿入すれば、小さなファイル サイズでマルチメディア プレゼンテーションをご利用いただけます。 [詳細情報](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
 
-- **マップ グラフを作成する:** この機能は、Excel の地理データ型を使用して、塗り分けされたマップ グラフにプロットするユーザーのための機能強化です。 エンドユーザーにとっては、機能とエンドユーザーがマップする領域の精度向上とがより高度に統合されたことが利点です。 さらに、ポリゴンで都市をマッピングする機能も含まれてます。 [詳細情報](https://support.office.com/ja-JP/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+- **マップ グラフを作成する:** この機能は、Excel の地理データ型を使用して、塗り分けされたマップ グラフにプロットするユーザーのための機能強化です。 エンドユーザーにとっては、機能とエンドユーザーがマップする領域の精度向上とがより高度に統合されたことが利点です。 さらに、ポリゴンで都市をマッピングする機能も含まれてます。 [詳細情報](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
 - **スライドのタイトルを追加してプレゼンテーションをアクセス可能にする:** アクセシビリティ チェックは、不足しているスライドのタイトルを見つけて修正するのに役立ちます。 [詳細情報](https://support.office.com/article/c5286802-495a-4b47-a8ae-212fb8a7dc74)
 
-- **アクセスを容易にするため、[印刷] メニューに [配布資料にスライド番号を印刷する] を移動しました:** 配布資料を指定したら、[印刷]、[印刷レイアウト] ドロップダウンの順にクリックすれば見つかります。 これにより、プレゼンテーションごとに簡単に設定を切り替えることもできます。 [詳細情報](https://support.office.com/ja-JP/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+- **アクセスを容易にするため、[印刷] メニューに [配布資料にスライド番号を印刷する] を移動しました:** 配布資料を指定したら、[印刷]、[印刷レイアウト] ドロップダウンの順にクリックすれば見つかります。 これにより、プレゼンテーションごとに簡単に設定を切り替えることもできます。 [詳細情報](https://support.office.com/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
 ### <a name="word-feature-updates"></a>Word: 機能の更新
 
-- **作業の邪魔をするものにさよならしましょう:** Mac のお気に入りの機能が Windows にも登場します。 気を散らさずに作業に集中するには、[表示]メニューの[フォーカス]に切り替えます。 [詳細情報](https://support.office.com/ja-JP/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
+- **作業の邪魔をするものにさよならしましょう:** Mac のお気に入りの機能が Windows にも登場します。 気を散らさずに作業に集中するには、[表示]メニューの[フォーカス]に切り替えます。 [詳細情報](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
 
 - **ブラウザーへのバウンスは不要:** ブラウザーまたはアプリで Office ドキュメントへのリンクを開く方法を決定することができます。
 
-- **マップ グラフを作成する:** この機能は、Excel の地理データ型を使用して、塗り分けされたマップ グラフにプロットするユーザーのための機能強化です。 エンドユーザーにとっては、機能とエンドユーザーがマップする領域の精度向上とがより高度に統合されたことが利点です。 さらに、ポリゴンで都市をマッピングする機能も含まれてます。 [詳細情報](https://support.office.com/ja-JP/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+- **マップ グラフを作成する:** この機能は、Excel の地理データ型を使用して、塗り分けされたマップ グラフにプロットするユーザーのための機能強化です。 エンドユーザーにとっては、機能とエンドユーザーがマップする領域の精度向上とがより高度に統合されたことが利点です。 さらに、ポリゴンで都市をマッピングする機能も含まれてます。 [詳細情報](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-- **精度による消去:** 手描き入力の小さな不備を修正するのに、2 つのサイズの消しゴムから選択できます。 [詳細情報](https://support.office.com/ja-JP/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **精度による消去:** 手描き入力の小さな不備を修正するのに、2 つのサイズの消しゴムから選択できます。 [詳細情報](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 ## <a name="version-1906-july-09"></a>バージョン 1906: 7 月 9 日
 *バージョン 1906 (ビルド 11727.20244)*
@@ -488,23 +488,23 @@ ms.locfileid: "39961792"
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
 
-- **ワークシートが生まれ変わりました：** ワークブックを使ってアニメーション 3D グラフィックスを挿入し、心臓の鼓動、惑星軌道、そして T-Rex の大暴れを見ることができます。 [詳細情報](https://support.office.com/ja-JP/article/6f08009a-3da5-400d-a706-8e23f304cd72)
+- **ワークシートが生まれ変わりました：** ワークブックを使ってアニメーション 3D グラフィックスを挿入し、心臓の鼓動、惑星軌道、そして T-Rex の大暴れを見ることができます。 [詳細情報](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)
 
 ### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
 
-- **カスタマイズも可能、シンプルになったリボン：** 最もよく使うボタンが単一行にまとめられ、使いやすくなりました。 簡単に従来のビューとシンプルなビューを切り替えたり、コマンドを固定または固定解除できます。 [詳細情報](https://support.office.com/ja-JP/article/44bef9c3-295d-4092-b7f0-f471fa629a98)
+- **カスタマイズも可能、シンプルになったリボン：** 最もよく使うボタンが単一行にまとめられ、使いやすくなりました。 簡単に従来のビューとシンプルなビューを切り替えたり、コマンドを固定または固定解除できます。 [詳細情報](https://support.office.com/article/44bef9c3-295d-4092-b7f0-f471fa629a98)
 
 - **お気に入りのアクションを選びましょう：** フラグや、削除機能を使いますか？ アーカイブまたは既読に​​しますか? クイック操作メニューをカスタマイズしてよく使うコマンドを追加できます。
 
 - **多数のフォルダを持つメールボックスの共有フォルダ同期の向上：** 共有メールボックスを同期するとき、Outlook は長年にわたって最大 500 個のフォルダに制限されていました。 この変更により Outlook の改善が行われ、同期をする際の 500 フォルダーの制限がなくなりました。
 
-- **集中受信トレイの設定がデバイス間で変わらなくなります：** 集中受信トレイの設定はクラウドに保存されるようになりました。 どのコンピューターの Windows 版 Outlook や Outlook on the web でも、同じ機能をご利用いただけます。 [詳細情報](https://support.office.com/ja-JP/article/d77a442e-a86c-4bf8-b3dd-5571ae556986)
+- **集中受信トレイの設定がデバイス間で変わらなくなります：** 集中受信トレイの設定はクラウドに保存されるようになりました。 どのコンピューターの Windows 版 Outlook や Outlook on the web でも、同じ機能をご利用いただけます。 [詳細情報](https://support.office.com/article/d77a442e-a86c-4bf8-b3dd-5571ae556986)
 
 - **ゆったりとしたレイアウト、まとめたレイアウト？自由に決めましょう：** 狭い間隔で、アイテム間の間隔をより広くしたり、レイアウトを狭くして表示量をより多くできます。
 
-- ** Outlook のユーザー エクスペリエンスを更新しました：** これまで Coming Soon でプレビューできていた、最も重要なことに集中できるようにするためのシンプルな操作性です。 [詳細情報](https://support.office.com/ja-JP/article/db503157-1b45-45d5-af52-e9c978cd8bed)
+- ** Outlook のユーザー エクスペリエンスを更新しました：** これまで Coming Soon でプレビューできていた、最も重要なことに集中できるようにするためのシンプルな操作性です。 [詳細情報](https://support.office.com/article/db503157-1b45-45d5-af52-e9c978cd8bed)
 
-- **自分で描いて表現しましょう:** 画像の上に走り書きするか、描画キャンバスを追加して、インクを用いて自分の考えを送信します。 [詳細情報](https://support.office.com/ja-JP/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
+- **自分で描いて表現しましょう:** 画像の上に走り書きするか、描画キャンバスを追加して、インクを用いて自分の考えを送信します。 [詳細情報](https://support.office.com/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
 
 ### <a name="word-feature-updates"></a>Word: 機能の更新
 
@@ -516,7 +516,7 @@ ms.locfileid: "39961792"
 
 - [会議のビデオをトリミングして中央揃えにする] 設定が有効になっている場合、4Kモニタで会議のビデオを正しくトリミングします
 
-- 複数のネットワークアダプタを備えた Windows 10 コンピュータから従来の Office Communicator クライアントへのファイル転送を許可します。 [詳細情報](https://support.microsoft.com/help/4508477)
+- 複数のネットワークアダプタを備えた Windows 10 コンピュータから従来の Office Communicator クライアントへのファイル転送を許可します。 [詳細情報](help/4508477)
 
 - Skype for Business と Microsoft Teams の参加者間のコミュニケーションのしやすさが向上
 
@@ -743,7 +743,7 @@ ms.locfileid: "39961792"
 
 ### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
 
-- **連続する会議の合間に時間を組み込む:** 既定で 5 分から 10 分早く会議を終了するように設定することで、出席者に休憩時間や場所の移動時間を与えることができます。 [詳細情報](https://support.office.com/ja-JP/article/Schedule-a-meeting-with-other-people-5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F#BKMK_endmeetingsearly)
+- **連続する会議の合間に時間を組み込む:** 既定で 5 分から 10 分早く会議を終了するように設定することで、出席者に休憩時間や場所の移動時間を与えることができます。 [詳細情報](https://support.office.com/article/Schedule-a-meeting-with-other-people-5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F#BKMK_endmeetingsearly)
 - **音声読み上げを使用してメールの内容を聞く:** Outlook では、メールのテキストを読み上げながら強調表示することができます。 読み上げ機能をオンにするには、[簡単操作] の設定に移動します。 [詳細情報](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
 - **フィルターが適用された SVG を挿入する機能:** Office ユーザーは、フィルターが適用された SVG を挿入できるようになりました。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 

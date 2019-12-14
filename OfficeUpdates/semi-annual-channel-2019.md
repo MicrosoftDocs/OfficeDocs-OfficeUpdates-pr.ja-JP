@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: c014a790374d1b3143033774b4acd7e5e5f9aaa2
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: f991dfa99e668dc8cc06918c0d5e5c9a418f4ed7
+ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39961984"
+ms.lasthandoff: 12/14/2019
+ms.locfileid: "40023728"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019 年の半期チャネル リリースのリリース ノート
 
@@ -35,7 +35,7 @@ ms.locfileid: "39961984"
 ## <a name="version-1902-december-10"></a>バージョン 1902: 12 月 10 日
 *バージョン 1902 (ビルド 11328.20492)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -47,7 +47,7 @@ ms.locfileid: "39961984"
 
 ### <a name="outlook"></a>Outlook
 
-- 来年の予定表アイテムに Outlook で間違った時刻が表示される場合があります。 [詳細情報](https://docs.microsoft.com/ja-JP/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
+- 来年の予定表アイテムに Outlook で間違った時刻が表示される場合があります。 [詳細情報](https://docs.microsoft.com/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
 
 - &quot;不在着信した会話&quot;メッセージのルールを作成しようとするときに、クラッシュを発生させる原因となった問題に対処しました。
 
@@ -61,7 +61,7 @@ ms.locfileid: "39961984"
 ### <a name="resolved-issues"></a>解決済みの問題
 ### <a name="outlook"></a>Outlook
 
-- 来年の予定表アイテムに Outlook で間違った時刻が表示される場合があります。 [詳細情報](https://docs.microsoft.com/ja-JP/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
+- 来年の予定表アイテムに Outlook で間違った時刻が表示される場合があります。 [詳細情報](https://docs.microsoft.com/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
@@ -249,7 +249,7 @@ ms.locfileid: "39961984"
 セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
-- 特定のシナリオで Office JavaScript ライブラリ の Setting API が機能しなくなる問題が修正されました ([詳細](https://support.microsoft.com/ja-JP/help/4475551/august-6-2019-update-for-office-2016-kb4475551))
+- 特定のシナリオで Office JavaScript ライブラリ の Setting API が機能しなくなる問題が修正されました ([詳細](https://support.microsoft.com/help/4475551/august-6-2019-update-for-office-2016-kb4475551))
 
 
 ## <a name="version-1803-august-13"></a>バージョン 1803: 8 月 13 日
@@ -258,7 +258,7 @@ ms.locfileid: "39961984"
 セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
-- 特定のシナリオで Office JavaScript ライブラリ の Setting API が機能しなくなる問題を修正しました ([詳細情報](https://support.microsoft.com/ja-JP/help/4475551/august-6-2019-update-for-office-2016-kb4475551))
+- 特定のシナリオで Office JavaScript ライブラリ の Setting API が機能しなくなる問題を修正しました ([詳細情報](https://support.microsoft.com/help/4475551/august-6-2019-update-for-office-2016-kb4475551))
 
 
 ## <a name="version-1902-july-09"></a>バージョン 1902: 7 月 9 日

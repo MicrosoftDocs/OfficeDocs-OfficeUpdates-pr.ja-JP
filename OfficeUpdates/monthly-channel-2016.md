@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: IT プロフェッショナルに、Office 365 ProPlus の月次チャネルリリースのリリースノートを2016で提供します。
-ms.openlocfilehash: 7a5f8b13f06fc236cedc50d394d361dc1d797dfd
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 74d992e9f6129772e04ea1245cd2ced8d4a1006e
+ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438771"
+ms.lasthandoff: 12/14/2019
+ms.locfileid: "40023592"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2016"></a>2016の月次チャネルリリースのリリースノート
 
@@ -29,7 +29,7 @@ ms.locfileid: "32438771"
 ## <a name="version-1611-december-13"></a>バージョン 1611:12 月13日
 *バージョン 1611 (ビルド 7571.2075)*
 
-### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
+### <a name="excel-security-updates"></a>Excel: セキュリティの更新
 -   マイクロソフト セキュリティ情報 [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Microsoft Office のセキュリティ更新プログラム (3204068)
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
@@ -81,7 +81,7 @@ ms.locfileid: "32438771"
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: 機能の更新
 
--   **ui** 要素で [表示] を [共有] に変更します。たとえば、[デスクトップ] を [共有画面] に変更し、[プログラムの表示] を [共有ウィンドウ] に変更します。
+-   **Ui** 要素で [表示] を [共有] に変更します。たとえば、[デスクトップ] を [共有画面] に変更し、[プログラムの表示] を [共有ウィンドウ] に変更します。
 -   **[自分の番号] の無効化:** DisableDisplayMyNumber レジストリ エントリを使用して、ダイヤル パッドの下の “自分の番号” を無効にします。
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: セキュリティ以外の更新プログラム
@@ -201,7 +201,7 @@ ms.locfileid: "32438771"
 ## <a name="version-1609-november-8"></a>バージョン 1609:11 月8日
 *バージョン 1609 (ビルド 7369.2055)*
 
-### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
+### <a name="excel-security-updates"></a>Excel: セキュリティの更新
 -   マイクロソフト セキュリティ情報 [MS16-133](https://technet.microsoft.com/library/security/ms16-133): Microsoft Office のセキュリティ更新プログラム (3199168)
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
@@ -392,7 +392,7 @@ ms.locfileid: "32438771"
 ## <a name="version-1607-september-13"></a>バージョン 1607: 9 月13日
 *バージョン 1607 (ビルド 7167.2060)*
 
-### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
+### <a name="excel-security-updates"></a>Excel: セキュリティの更新
 -   マイクロソフト セキュリティ情報 [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Microsoft Office のセキュリティ更新プログラム (3185852)
 
 ### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム
@@ -528,7 +528,7 @@ ms.locfileid: "32438771"
 ## <a name="version-1606-july-12"></a>バージョン 1606: 7 月12日
 *バージョン 1606 (ビルド 7070.2026)*
 
-### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
+### <a name="excel-security-updates"></a>Excel: セキュリティの更新
 -   マイクロソフト セキュリティ情報 [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Microsoft Office のセキュリティ更新プログラム (3170008)
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
@@ -749,7 +749,7 @@ ms.locfileid: "32438771"
 ## <a name="version-1603-april-12"></a>バージョン 1603: 4 月12日
 *バージョン 1603 (ビルド 6769.2017)*
 
-### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
+### <a name="excel-security-updates"></a>Excel: セキュリティの更新
 -   マイクロソフト セキュリティ情報 [MS16-042](https://technet.microsoft.com/library/security/ms16-042): Microsoft Office のセキュリティ更新プログラム (3148775)
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: セキュリティ更新プログラム
@@ -916,7 +916,7 @@ ms.locfileid: "32438771"
 ## <a name="version-1511-february-9"></a>バージョン 1511: 2 月9日
 *バージョン 1511 (ビルド 6366.2068)*
 
-### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
+### <a name="excel-security-updates"></a>Excel: セキュリティの更新
 -   マイクロソフト セキュリティ情報 MS [16-015](https://go.microsoft.com/fwlink/?LinkId=722214): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3134226)
 
 ### <a name="word-security-updates"></a>Word: セキュリティ更新プログラム
@@ -931,14 +931,14 @@ ms.locfileid: "32438771"
 -   Application.OnKey() を使用して、キーボード操作をインターセプトすると、Excel がクラッシュするという問題の修正。
 
 ### <a name="word-non-security-updates"></a>Word: セキュリティ以外の更新プログラム
--   Word で文書を編集するときに、文書の書式設定が正しく表示されないという問題の修正。 [この問題についての詳細情報](https://answers.microsoft.com/en-us/office/forum/office_2016-word/word-2016-doesnt-display-your-document-formatting/b7bb4017-8ae5-41ab-881b-03199d24ba83)
+-   Word で文書を編集するときに、文書の書式設定が正しく表示されないという問題の修正。 [この問題についての詳細情報](https://answers.microsoft.com/office/forum/office_2016-word/word-2016-doesnt-display-your-document-formatting/b7bb4017-8ae5-41ab-881b-03199d24ba83)
 
 
 
 ## <a name="version-1511-january-12"></a>バージョン 1511: 1 月12日
 *バージョン 1511 (ビルド 6366.2056)*
 
-### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
+### <a name="excel-security-updates"></a>Excel: セキュリティの更新
 -   マイクロソフト セキュリティ情報 [MS16-004](https://go.microsoft.com/fwlink/?LinkId=717998): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3124585)
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: セキュリティ更新プログラム

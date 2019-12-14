@@ -10,12 +10,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 永続的なバージョンの Office 2016、Office 2013、Office 2010 の最新の更新プログラムの情報へのリンクを IT 技術者に提供します
-ms.openlocfilehash: c274cef54692cdb8f793edc78292cca275be8001
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 12389950564e67e2fe79efa1243695cc4e60c57f
+ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39961762"
+ms.lasthandoff: 12/14/2019
+ms.locfileid: "40023562"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Windows インストーラー (MSI) を使用しているバージョンの Office の最新の更新プログラム
 
@@ -64,11 +64,11 @@ ms.locfileid: "39961762"
 
 [2019 年 6 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB4505743](https://support.microsoft.com/help/4505743)
 
-[2019 年 5 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB4501270](https://support.microsoft.com/ja-JP/help/4501270)
+[2019 年 5 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB4501270](https://support.microsoft.com/help/4501270)
 
-[2019 年 4 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB4495300](https://support.microsoft.com/ja-JP/help/4495300)
+[2019 年 4 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB4495300](https://support.microsoft.com/help/4495300)
 
-[2019 年 3 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB4491754](https://support.microsoft.com/ja-JP/help/4491754) 
+[2019 年 3 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB4491754](https://support.microsoft.com/help/4491754) 
 
 [2019 年 2 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB4488446](https://support.microsoft.com/help/4488446)
 
