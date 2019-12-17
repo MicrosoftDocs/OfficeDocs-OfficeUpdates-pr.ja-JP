@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Windows デスクトップ用の月次チャンネル Insider ファースト リリースの更新履歴を Insider の皆様に提供します。
-ms.openlocfilehash: eec5c93ec1e6f5b35c9dd90f8114dfe42f3f7ad6
-ms.sourcegitcommit: b259312e6a28ce767d11dc75e85844d209b94d88
+ms.openlocfilehash: 83aa929d5be14f8020f3f349e525c525da79b33a
+ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/05/2019
-ms.locfileid: "39857865"
+ms.lasthandoff: 12/14/2019
+ms.locfileid: "40023768"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Office Insider チャンネル の更新履歴
 
@@ -31,6 +31,9 @@ Insider レベルに登録している場合は、新機能や強化された機
 リリース ノートを確認するには、「[Windows デスクトップ版 Office のリリース ノート](https://docs.microsoft.com/OfficeUpdates/release-notes-office-insider)」を参照してください。
 
 [//]: # (削除しないでください)
+
+**2019 年 12 月 12 日**<br/>
+バージョン 2001 (ビルド 12410.20000)<br/>
 
 **2019 年 12 月 2 日**<br/>
 バージョン 1912 (ビルド 12325.20012)<br/>
@@ -177,8 +180,7 @@ Insider レベルに登録している場合は、新機能や強化された機
 **Twitter の Office Insider**<br/> @Officeinsider では、Insider 向けのリリースが頻繁に投稿され、Insider 向けの特別なイベントもホストされます。<br/> 
 [Twitter でフォローしてください](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
-[
-  ![Facebook のアイコンを表示している画像。 ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
+[![Facebook のアイコンを表示している画像。 ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
 
 
 **新機能をいち早く取得**
