@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 69b4f1a573d412e665554f9c697cbce9e3003b27
-ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
+ms.openlocfilehash: 4d5c623be109cc8a0b21b3c90e91ca981ca2c2e8
+ms.sourcegitcommit: 519689175e202f7059ab9e49d70ea0ce6d23075e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/14/2019
-ms.locfileid: "40023602"
+ms.lasthandoff: 12/18/2019
+ms.locfileid: "40302976"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年の毎月のチャネル リリースのリリース ノート
 
@@ -155,8 +155,6 @@ ms.locfileid: "40023602"
 - **ドキュメントとメールに秘密度ラベルを適用する:** ファイルとメールに秘密度ラベルを適用すると、ドキュメントは組織の情報保護ポリシーに準拠したものになります。 [詳細情報](https://aka.ms/officemipdocs)
 
 ### <a name="outlook"></a>Outlook
-
-- **エラーの後に Outlook をアップグレードするプロンプトが表示される:** Outlook で新しいバージョンで修正されたエラーが発生した場合、Outlook はお客様にアップグレードして修正するように促します
 
 - **ドキュメントとメールに秘密度ラベルを適用する:** ファイルとメールに秘密度ラベルを適用すると、ドキュメントは組織の情報保護ポリシーに準拠したものになります。 [詳細情報](https://aka.ms/officemipdocs)
 
