@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT プロフェッショナルに、office for Mac の最新更新プログラムに関する情報を提供します。それには、ダウンロード パッケージへのリンク、更新履歴が含まれます
-ms.openlocfilehash: 91ae5036b889a0113281cfd438eb5b19987940ec
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 5749572870fba13ba51ded6928a491d30d46c5a8
+ms.sourcegitcommit: 2152c5d7b0b98398c1f31f659d68a8e74001acea
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39962264"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889312"
 ---
 # <a name="update-history-for-office-for-mac"></a>Office for Mac の更新履歴
   
@@ -23,7 +23,7 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 
 > [!NOTE]
 > - バージョン 16.21 以降、Office スイートのインストール パッケージを使用している場合、***新規***インストールであれば、既定で Microsoft Teams がインストールされます。詳細については、「[Mac 上の Microsoft Teams のインストール](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac)」を参照してください。  
-> - セキュリティ上の理由から、Microsoft では SHA-1 は使用されなくなりました。[詳細情報](https://docs.microsoft.com/ja-JP/security-updates/SecurityAdvisories/2017/4010323)
+> - セキュリティ上の理由から、Microsoft では SHA-1 は使用されなくなりました。[詳細情報](https://docs.microsoft.com/security-updates/SecurityAdvisories/2017/4010323)
 > - 2018 年 9 月の 16.17 リリース以降では、この情報は、Office 2019 for Mac にも該当します。これは、小売店またはボリューム ライセンス契約によって 1 回限りの購入で使用できる Office for Mac のバージョンです。
 > - 16.16 以前のバージョンの更新履歴情報は、Office 2016 for Mac にも該当します。これも、1 回限りの購入で使用できる Office for Mac のバージョンです。16.16 以前のバージョンは、Office 2016 for Mac のボリューム ライセンスでアクティブ化できます。Office 2016 for Mac のボリューム ライセンスでは、16.17 以降のバージョンをアクティブ化することはできません。9 月以降の Office 2016 for Mac リリースの詳細については、[Office 2016 for Mac のリリース ノート](release-notes-office-2016-mac.md)をご覧ください。
 > - 指定されたリリースの Office for Mac に含まれる機能、セキュリティ更新プログラム、およびセキュリティ以外の更新プログラムの詳細については、「[Office for Mac のリリース ノート](release-notes-office-for-mac.md)」をご覧ください。
@@ -54,7 +54,7 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 
 次の表に、IT プロフェッショナルが関心を示す可能性がある Microsoft の他の Mac プログラムに関する最新パッケージに関する情報を、ダウンロード リンクを含めて記します。バージョン番号の後に YYMMDD という形式でビルド日付を括弧内に示します。
 
-**注:** Microsoft AutoUpdate (MAU) のリリース情報は、「[MAU のリリース ノート](https://docs.microsoft.com/ja-JP/officeupdates/release-history-microsoft-autoupdate)」ページに移動されました。<br/><br/>
+**注:** Microsoft AutoUpdate (MAU) のリリース情報は、「[MAU のリリース ノート](https://docs.microsoft.com/officeupdates/release-history-microsoft-autoupdate)」ページに移動されました。<br/><br/>
 
   
 |**プログラム**|**バージョン**|**パッケージ**|**詳細情報**|**SHA-1/ SHA-256 ハッシュ**|

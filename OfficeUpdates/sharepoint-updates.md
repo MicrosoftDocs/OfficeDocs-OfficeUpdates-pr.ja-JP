@@ -14,12 +14,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: SharePoint Server 2016、SharePoint 2013、および SharePoint 2010 の更新プログラムを 1 か所で検索および管理できます。このページのリンクを使用して、更新プログラムに関する詳細な情報を取得し、更新プログラムをダウンロードしてください。
-ms.openlocfilehash: c572d3ffb93b4d0c8c9e970234ff134e291a3da2
-ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
+ms.openlocfilehash: a726b1a103d0956d966c60cfbb334f4a7de71678
+ms.sourcegitcommit: 2152c5d7b0b98398c1f31f659d68a8e74001acea
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/14/2019
-ms.locfileid: "40023738"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889332"
 ---
 # <a name="sharepoint-updates"></a>SharePoint 更新プログラム
 
@@ -258,7 +258,7 @@ SharePoint 更新プログラムだけでなく、SharePoint が依存してい�
   
 - SharePoint での Windows Server AppFabric
   
-  - [AppFabric](https://msdn.microsoft.com/ja-JP/library/aa139641.aspx)
+  - [AppFabric](https://msdn.microsoft.com/library/aa139641.aspx)
   - [SharePoint での AppFabric に関する主な概念](https://blogs.msdn.microsoft.com/besidethepoint/2013/03/27/appfabric-caching-and-sharepoint-concepts-and-examples-part-1/)
   - [AppFabric の更新プログラム](https://blogs.msdn.microsoft.com/distributedservices/2014/02/26/how-to-update-windows-server-appfabric-1-1-with-cumulative-update-packages/)
   
@@ -270,7 +270,7 @@ SharePoint 更新プログラムだけでなく、SharePoint が依存してい�
 
 ## <a name="related-topics"></a>関連項目
 
-- [SharePoint Server 2019 のソフトウェア更新プログラムをインストールする](https://docs.microsoft.com/ja-JP/SharePoint/upgrade-and-update/deploy-updates-for-sharepoint-server-2016)
+- [SharePoint Server 2019 のソフトウェア更新プログラムをインストールする](https://docs.microsoft.com/SharePoint/upgrade-and-update/deploy-updates-for-sharepoint-server-2016)
 - [ソフトウェア更新プログラムをインストールする (SharePoint Server 2016)](https://docs.microsoft.com/SharePoint/upgrade-and-update/install-a-software-update)
 - [SharePoint Server 2013 のソフトウェア更新の概要](https://docs.microsoft.com/SharePoint/upgrade-and-update/software-updates-overview-for-sharepoint-server-2013)
 - [SharePoint Server 2013 のソフトウェア更新プログラムを展開するために準備する](https://docs.microsoft.com/SharePoint/upgrade-and-update/prepare-to-deploy-software-updates)

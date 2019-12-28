@@ -10,19 +10,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 2018 年 9 月以降にリリースされた Office 2016 for Mac のリリース ノートを IT プロフェッショナルに提供
-ms.openlocfilehash: 7f489b97cf41119d1fc7bd884e2dde46434cb048
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 2d001ad0d7ef43ef5484267f16b5c388a146cb23
+ms.sourcegitcommit: 2152c5d7b0b98398c1f31f659d68a8e74001acea
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39962214"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889282"
 ---
 # <a name="update-history-for-office-2016-for-mac"></a>Office 2016 for Mac の更新履歴
 
 Office 2016 for Mac は、小売店やボリューム ライセンス契約を通じて 1 回限りの購入として利用可能な Office のバージョンです。2020 年 10 月 13 日までは、必要に応じて、セキュリティ更新プログラムおよびバグ修正プログラムでサポートされます。Office 2016 for Mac のサポートされている macOS の最小バージョンは 10.10 (Yosemite) です。
 
 > [!NOTE]
-> - セキュリティ上の理由から、Microsoft では SHA-1 は使用されなくなりました。[詳細情報](https://docs.microsoft.com/ja-JP/security-updates/SecurityAdvisories/2017/4010323)
+> - セキュリティ上の理由から、Microsoft では SHA-1 は使用されなくなりました。[詳細情報](https://docs.microsoft.com/security-updates/SecurityAdvisories/2017/4010323)
 > - 2018 年 9 月より前にリリースされた Office 2016 for Mac のリリース ノートについては、「[Office for Mac のリリース ノート](release-notes-office-for-mac.md)」をご覧ください。  
 > - Office for Mac (Office 365 サブスクリプションに付属しているバージョン) のリリース情報については、Office for Mac の[リリース ノート](release-notes-office-for-mac.md)と[更新履歴](update-history-office-for-mac.md)をご覧ください。
 > - Office 2019 for Mac は、1 回限りの購入として利用可能な最新バージョンです。Office 2019 for Mac のリリース情報については、Office for Mac の[リリース ノート](release-notes-office-for-mac.md)と[更新履歴](update-history-office-for-mac.md)をご覧ください。
