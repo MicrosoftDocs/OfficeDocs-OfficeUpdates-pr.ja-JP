@@ -4,31 +4,28 @@
 ## [更新の履歴 (日付順)](update-history-office365-proplus-by-date.md)
 ## [更新プログラムのサイズ](download-sizes-office365-proplus-updates.md)
 
-
 ## 月次チャネル
+### [2020](monthly-channel-2020.md)
 ### [2019](monthly-channel-2019.md)
 ### [2018](monthly-channel-2018.md)
 ### [2017](monthly-channel-2017.md)
-### [2016](monthly-channel-2016.md)
-
 
 ## 半期チャネル
+### [2020](semi-annual-channel-2020.md)
 ### [2019](semi-annual-channel-2019.md)
 ### [2018](semi-annual-channel-2018.md)
 ### [2017](semi-annual-channel-2017.md)
-### [2016](semi-annual-channel-2016.md)
 
 ## 半期チャネル (対象指定)
+### [2020](semi-annual-channel-targeted-2020.md)
 ### [2019](semi-annual-channel-targeted-2019.md)
 ### [2018](semi-annual-channel-targeted-2018.md)
 ### [2017](semi-annual-channel-targeted-2017.md)
-### [2016](semi-annual-channel-targeted-2016.md)
-
 
 ## Office Insider プログラム  
 ### [Insider チャネルの更新の履歴](update-history-office-insider.md)
 ### [月次チャネルの更新の履歴 (対象指定)](update-history-monthly-channel-targeted.md)
-###[リリース ノートの Insider チャネル](release-notes-office-insider.md)
+### [リリース ノートの Insider チャネル](release-notes-office-insider.md)
 ### [リリース ノートの月次チャネル (対象指定)](release-notes-monthly-channel-targeted.md)
 
 ## [ODT のリリース ノート](ODT-release-history.md)
