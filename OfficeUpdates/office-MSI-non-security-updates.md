@@ -3,19 +3,19 @@ title: Windows インストーラー (MSI) を使用しているバージョン�
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 12/04/2019
+ms.date: 1/08/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 永続的なバージョンの Office 2016、Office 2013、Office 2010 の最新のセキュリティ以外の更新プログラム情報へのリンクを IT 技術者に提供します
-ms.openlocfilehash: 85c94bef062f0ed71bbdcbfd1f1fd0684ba206be
-ms.sourcegitcommit: 37fc7174310b0a4dc6a816d675b8e1b7d9302ffd
+ms.openlocfilehash: 5bbc11ef2d5c2612fb8f76929522b36a6d1aad39
+ms.sourcegitcommit: 1cf47498ccc05d5933fd27dcf89b786157b419a2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "39678649"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "40961654"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Windows インストーラー (MSI) を使用しているバージョンの Office の最新のセキュリティ以外の更新プログラム
 
@@ -26,6 +26,21 @@ ms.locfileid: "39678649"
 > - この記事の情報は、Office の Office 365 バージョン (Office 365 ProPlus など) には適用されません。
 > - Office の更新プログラムをインストールする手順については、「[Office の更新プログラムをインストールする](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)」を参照してください。
 <br/><br/>
+
+## <a name="january-7-2020"></a>2020 年 1 月 7 日
+
+**Office 2016**<br/>
+Microsoft Office 2016 の更新プログラム ([KB4464586](https://support.microsoft.com/help/4464586)) <br/>
+Microsoft Office 2016 の更新プログラム ([KB4484168](https://support.microsoft.com/help/4484168)) <br/>
+Microsoft Office 2016 の更新プログラム ([KB4484218](https://support.microsoft.com/help/4484218)) <br/>
+Microsoft Outlook 2016 の更新プログラム ([KB4484212](https://support.microsoft.com/help/4484212)) <br/>
+Microsoft PowerPoint 2016 の更新プログラム ([KB4484216](https://support.microsoft.com/help/4484216)) <br/>
+Microsoft Project 2016 の更新プログラム ([KB4484140](https://support.microsoft.com/help/4484140)) <br/>
+Microsoft Visio 2016 の更新プログラム ([KB4464575](https://support.microsoft.com/help/4464575)) <br/>
+Microsoft Visio Viewer 2016 の更新プログラム ([KB2920709](https://support.microsoft.com/help/2920709)) <br/>
+Microsoft Word 2016 の更新プログラム ([KB4484219](https://support.microsoft.com/help/4484219)) <br/>
+Skype for Business 2016 の更新プログラム ([KB4484213](https://support.microsoft.com/help/4484213)) <br/>
+
 
 ## <a name="december-3-2019"></a>2019 年 12 月 3 日
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: f11cd846890d876eede81090df2ea718022bb3f9
-ms.sourcegitcommit: e98fd276315194ca861f00d6bcd2795f13edf5d0
+ms.openlocfilehash: a2831cbc12f916c5678aab32f4cd6b6cd96c4008
+ms.sourcegitcommit: 1cf47498ccc05d5933fd27dcf89b786157b419a2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/31/2019
-ms.locfileid: "40918443"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "40961644"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 月次チャネルのリリース ノート (対象指定)
 
@@ -27,6 +27,20 @@ ms.locfileid: "40918443"
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-1912-january-06"></a>バージョン 1912: 1 月 6 日
+*バージョン 1912 (ビルド 12325.20264)*
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="powerpoint"></a>PowerPoint
+
+- **簡単な GIF:** 1 つのスライド、1 つのフレーム。 PowerPoint でループ GIF を簡単に作成できます。 [詳細情報](https://support.office.com/ja-JP/article/a598753e-92de-4f1b-8393-714db4d334b4)
+
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
 
