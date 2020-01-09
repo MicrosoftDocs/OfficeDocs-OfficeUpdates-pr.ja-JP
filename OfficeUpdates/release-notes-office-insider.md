@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 860ec2d6bbd8623442ecc10657fee71a62c8d89d
-ms.sourcegitcommit: 941b77865c5b2d92e0f98b961fc702e865589ec3
+ms.openlocfilehash: b136c43128f6f995057f35c7b47c9e517c457097
+ms.sourcegitcommit: 78fb0c27e6b75aefcfcbd1b0ac7d17c1b53f86e0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/13/2019
-ms.locfileid: "40019853"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "40951095"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office Insider のリリース ノート
 
@@ -26,6 +26,41 @@ ms.locfileid: "40019853"
 > - Microsoft Teams に関連する既存の Office 365 ProPlus のインストール - 6 月の下旬から、これらの更新プログラムのインストール時に、Microsoft Teams が既存の Office 365 ProPlus (Office 365 Business) のインストールの中に含められます。 Teams が追加される日にちは、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/deployoffice/teams-install)」を参照してください。
 
 [//]: # (削除しないでください)
+
+## <a name="version-2001-january-03"></a>バージョン 2001: 1 月 3 日
+*バージョン 2001 (ビルド 12425.20000)*
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+
+### <a name="excel"></a>Excel
+- 一部の罫線は A4 サイズ用紙に印刷されないことがあります。
+- VBA を使用してシート上のグラフオブジェクトのヘッダーまたはフッターに画像を追加すると、エラーが発生することがあります。
+- グラフの軸を書式設定するときにラベルの間隔が 255 に制限されます。
+- データ ソースの URL が切り詰められている XML クエリを更新しようとするとエラーが発生するという問題を修正しました。
+- ブックの統計情報では、個人のマクロ ブックを含め、開いているすべてのブックからマクロの回数が報告されます。
+
+### <a name="outlook"></a>Outlook
+- フォルダーを切り替えると、メール リスト/メール プレビューに、しばらく白い「フラッシュ」が表示される場合があります。 この現象は、ダーク モードでより顕著になりました。
+
+### <a name="powerpoint"></a>PowerPoint
+- Shape.Paste メソッドを呼び出すと貼り付けられた図形がフォーカスされるオブジェクトモデルの問題を修正しました。&nbsp;
+- コピーと貼り付けシナリオの改善: &nbsp;PowerPoint スライドからプログラムによってコピーして、ループ内の別のスライドに貼り付けると、例外エラーが発生する場合があります。&nbsp;
+- スライドのセクション ヘッダー内のアニメーションは、セクション ヘッダーを折りたたんで展開した後は、正しくレンダリングされません。
+
+### <a name="project"></a>Project
+- 文字列の折り返しが [タスク] ビュー と [リソース配分状況] ビューで機能しない問題を修正しました。
+- リソースに複数の原価率がある場合、割り当ての原価価値が正しくない可能性があるという問題を修正しました。
+
+### <a name="word"></a>Word
+- コントロール (テキスト コンテンツ コントロールなど) を数式に挿入し、ファイルを保存して開くと、読み取り不可能なコンテンツ エラーが発生します。
+- 共同編集時に、Word Online を使用して追加したコメントが Word デスクトップに表示されません。
+
+### <a name="office-suite"></a>Office スイート
+- ライセンスを 1 つだけ使用してライセンスを変更しようとしたときに、有効なライセンスの有効期限が誤って表示されなくなりました。
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2001-december-13"></a>バージョン 2001: 12 月 13 日
 *バージョン 2001 (ビルド 12410.20000)*
@@ -232,7 +267,7 @@ ms.locfileid: "40019853"
 - **Surface ペンを使用するときにペンのオプションを確認する:** Word、Excel、PowerPoint で Surface ペンを初めて使用するときに、ペンの色を簡単に選べる [描画] タブがアクティブになります。
 
 ### <a name="visio"></a>Visio
-- **Excel で洗練された Visio 図を作成する:** すばやく簡単に、データを Excel 内の洗練された Visio 図に可視化します。 [詳細情報](https://support.office.com/ja-JP/article/bee3b5aa-aaaf-4401-acc6-276b711c763c) を参照してください。
+- **Excel で洗練された Visio 図を作成する:** すばやく簡単に、データを Excel 内の洗練された Visio 図に可視化します。 [詳細情報](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c) を参照してください。
 
 ### <a name="word"></a>Word
 - **Surface ペンを使用するときにペンのオプションを確認する:** Word、Excel、PowerPoint で Surface ペンを初めて使用するときに、ペンの色を簡単に選べる [描画] タブがアクティブになります。
@@ -294,7 +329,7 @@ ms.locfileid: "40019853"
 ### <a name="feature-updates"></a>機能の更新プログラム
 ### <a name="visio"></a>Visio
 
-- **Excel で洗練された Visio 図を作成する:** すばやく簡単に、データを Excel 内の洗練された Visio 図に可視化します。 [詳細情報](https://support.office.com/ja-JP/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Excel で洗練された Visio 図を作成する:** すばやく簡単に、データを Excel 内の洗練された Visio 図に可視化します。 [詳細情報](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 ### <a name="word"></a>Word
 
@@ -513,7 +548,7 @@ ms.locfileid: "40019853"
 ### <a name="feature-updates"></a>機能の更新プログラム
 ### <a name="excel"></a>Excel
 
-- **データ ビジュアライザー アドイン:** Excel から Visio フローチャートをすばやく作成します。 [詳細情報](https://support.office.com/ja-JP/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **データ ビジュアライザー アドイン:** Excel から Visio フローチャートをすばやく作成します。 [詳細情報](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
 
@@ -709,15 +744,15 @@ ms.locfileid: "40019853"
 ### <a name="feature-updates"></a>機能の更新プログラム
 ### <a name="excel"></a>Excel
 
-- **準備ができたら、描画を開始:** Surface ペンを持てば、描画の準備完了です。 [詳細情報](https://support.office.com/ja-JP/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **準備ができたら、描画を開始:** Surface ペンを持てば、描画の準備完了です。 [詳細情報](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **準備ができたら、描画を開始:** Surface ペンを持てば、描画の準備完了です。 [詳細情報](https://support.office.com/ja-JP/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **準備ができたら、描画を開始:** Surface ペンを持てば、描画の準備完了です。 [詳細情報](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 ### <a name="word"></a>Word
 
-- **準備ができたら、描画を開始:** Surface ペンを持てば、描画の準備完了です。 [詳細情報](https://support.office.com/ja-JP/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **準備ができたら、描画を開始:** Surface ペンを持てば、描画の準備完了です。 [詳細情報](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -768,7 +803,7 @@ ms.locfileid: "40019853"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **図を SVG として保存する:** グラフ、図形、その他の図を、サイズ変更しても画質が低下しないスケーラブル ベクター グラフィックとして保存できます。 [詳細情報](https://support.office.com/ja-JP/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **図を SVG として保存する:** グラフ、図形、その他の図を、サイズ変更しても画質が低下しないスケーラブル ベクター グラフィックとして保存できます。 [詳細情報](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
 
@@ -1240,7 +1275,7 @@ PowerPoint でインクの再生アニメーションを適用して、プレゼ
 - **ファイル共有の高速化**: ファイルを開かなくても、最近使用したファイルの一覧からドキュメントを直接共有できます。
 ### <a name="powerpoint"></a>PowerPoint
 
-- **アクセスを容易にするため、[印刷] メニューに [配布資料にスライド番号を印刷する] を移動しました:** 配布資料が指定されているときに、[印刷] > [印刷レイアウト] ドロップダウンの順にクリックすると見つかります。 これにより、プレゼンテーションごとに簡単に設定を切り替えることもできます。 [詳細情報](https://support.office.com/ja-JP/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+- **アクセスを容易にするため、[印刷] メニューに [配布資料にスライド番号を印刷する] を移動しました:** 配布資料が指定されているときに、[印刷] > [印刷レイアウト] ドロップダウンの順にクリックすると見つかります。 これにより、プレゼンテーションごとに簡単に設定を切り替えることもできます。 [詳細情報](https://support.office.com/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
 - **ファイル共有の高速化:** ファイルを開かなくても、最近使用したファイルの一覧からドキュメントを直接共有できます。
 
@@ -1488,7 +1523,7 @@ Outlook メールで画像を描画し、注釈を付けることができるよ
 
 #### <a name="open-document-links-in-word"></a>ドキュメント リンクを Word で開く
 
-Office でドキュメント リンクをクリックしたときに既定で Word アプリで開くように設定を変更できるようになりました。  設定を更新するには、[ファイル ] > [オプション] > [詳細設定] > [リンクの処理] の順に移動します。 詳しくは、以下を参照してください。https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+Office でドキュメント リンクをクリックしたときに既定で Word アプリで開くように設定を変更できるようになりました。  設定を更新するには、[ファイル ] > [オプション] > [詳細設定] > [リンクの処理] の順に移動します。 詳しくは、以下を参照してください。https://support.office.com/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>作業を開始する:
 
@@ -1509,7 +1544,7 @@ OneDrive/OneDrive for Business/SharePoint に保存されている Word/PowerPoi
 
 #### <a name="open-presentation-links-in-powerpoint"></a>プレゼンテーションへのリンクを PowerPoint で開く
 
-Office でプレゼンテーションへのリンクをクリックしたときに既定で PowerPoint アプリで開くように設定を変更できるようになりました。 設定を更新するには、[ファイル ] > [オプション] > [詳細設定] > [リンクの処理] の順に移動します。 詳しくは、以下を参照してください。https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+Office でプレゼンテーションへのリンクをクリックしたときに既定で PowerPoint アプリで開くように設定を変更できるようになりました。 設定を更新するには、[ファイル ] > [オプション] > [詳細設定] > [リンクの処理] の順に移動します。 詳しくは、以下を参照してください。https://support.office.com/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>作業を開始する:
 
@@ -1530,7 +1565,7 @@ OneDrive/OneDrive for Business/SharePoint に保存されている Word/PowerPoi
 
 #### <a name="open-workbook-links-in-excel"></a>ブックのリンクを Excel で開く
 
-Office でブックのリンクをクリックしたときに既定で Excel アプリで開くように設定を変更できるようになりました。 設定を更新するには、[ファイル ] > [オプション] > [詳細設定] > [リンクの処理] の順に移動します。 詳細については、以下を参照してください。https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+Office でブックのリンクをクリックしたときに既定で Excel アプリで開くように設定を変更できるようになりました。 設定を更新するには、[ファイル ] > [オプション] > [詳細設定] > [リンクの処理] の順に移動します。 詳細については、以下を参照してください。https://support.office.com/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>作業を開始する:
 
