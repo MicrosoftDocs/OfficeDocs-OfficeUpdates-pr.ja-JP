@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: a2831cbc12f916c5678aab32f4cd6b6cd96c4008
-ms.sourcegitcommit: 1cf47498ccc05d5933fd27dcf89b786157b419a2
+ms.openlocfilehash: 6e0b9a578a8ed68c693ec254ddd304bfbcd9a85e
+ms.sourcegitcommit: f59095492cd5301eff069f004dcae56624345cf4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "40961644"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "40995557"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 月次チャネルのリリース ノート (対象指定)
 
@@ -29,6 +29,24 @@ ms.locfileid: "40961644"
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-1912-january-08"></a>バージョン 1912: 1 月 8 日
+*バージョン 1912 (ビルド 12325.20288)*
+
+## <a name="version-1912-january-07"></a>バージョン 1912: 1 月 7 日
+*バージョン 1912 (ビルド 12325.20280)*
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- <div>状況によっては、表示された SMTP アドレスと一致しないアドレスに送信されたメールがユーザーに表示される問題に対処します。</div>
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-1912-january-06"></a>バージョン 1912: 1 月 6 日
 *バージョン 1912 (ビルド 12325.20264)*
