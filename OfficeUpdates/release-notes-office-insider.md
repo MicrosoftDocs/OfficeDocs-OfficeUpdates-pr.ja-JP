@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: b136c43128f6f995057f35c7b47c9e517c457097
-ms.sourcegitcommit: 78fb0c27e6b75aefcfcbd1b0ac7d17c1b53f86e0
+ms.openlocfilehash: 5d4d18cfff0ee6460c8356b61533e77295ab723b
+ms.sourcegitcommit: 9ff490c13fbe6cbe61d34876d36b1717e15014cb
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "40951095"
+ms.lasthandoff: 01/10/2020
+ms.locfileid: "41022052"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office Insider のリリース ノート
 
@@ -26,6 +26,38 @@ ms.locfileid: "40951095"
 > - Microsoft Teams に関連する既存の Office 365 ProPlus のインストール - 6 月の下旬から、これらの更新プログラムのインストール時に、Microsoft Teams が既存の Office 365 ProPlus (Office 365 Business) のインストールの中に含められます。 Teams が追加される日にちは、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/deployoffice/teams-install)」を参照してください。
 
 [//]: # (削除しないでください)
+
+## <a name="version-2001-january-10"></a>バージョン 2001: 1 月 10 日
+*バージョン 2001 (ビルド 12430.20000)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="excel"></a>Excel
+- **図形を画像として保存する:** 簡単なクリック操作で図形、アイコン、その他のオブジェクトを画像ファイルとして保存し、別の場所で再利用することができます。 [詳細情報](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+### <a name="outlook"></a>Outlook
+- **Word、Excel、Outlook のオブジェクトを Windows 用の画像として保存できるようになりました。:** PowerPoint で既に提供されていたこの機能を使うとで、ユーザーは Word、Excel、Outlook 内のオブジェクトを画像として保存できるようになりました。 オブジェクトには、図形、アイコン、図などがあります。 右クリックのメニューからアクセスできます。
+
+### <a name="word"></a>Word
+- **周りに図形を描くだけで Word のインク描画を簡単に選択できます。:** [描画] タブのなげなわツールを使用することで、インクで描画されたオブジェクトを選択することができます。 個別のストロークまたは文字全体を選択できます。 インク描画が多数ある場合に、その中の一部を操作したい場合に便利です。 [詳細情報](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+- **図形を画像として保存する:** 簡単なクリック操作で図形、アイコン、その他のオブジェクトを画像ファイルとして保存し、別の場所で再利用することができます。 [詳細情報](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="onenote"></a>OneNote
+- 100% の解像度だと、ページ タブが小さすぎるためにくっついて表示される場合があります。
+
+### <a name="word"></a>Word
+- コメントの数が多い場合、コメント一覧の末尾付近のコメントを削除すると、ウィンドウが一番上までスクロールされる場合があります。
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2001-january-03"></a>バージョン 2001: 1 月 3 日
 *バージョン 2001 (ビルド 12425.20000)*
