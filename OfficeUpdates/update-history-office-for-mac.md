@@ -3,19 +3,18 @@ title: Office for Mac の更新履歴
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT プロフェッショナルに、office for Mac の最新更新プログラムに関する情報を提供します。それには、ダウンロード パッケージへのリンク、更新履歴が含まれます
-ms.openlocfilehash: 5749572870fba13ba51ded6928a491d30d46c5a8
-ms.sourcegitcommit: 2152c5d7b0b98398c1f31f659d68a8e74001acea
+ms.openlocfilehash: 97bc297241699a8f919b7a023b42e521009ebc23
+ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40889312"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "41122236"
 ---
 # <a name="update-history-for-office-for-mac"></a>Office for Mac の更新履歴
   
@@ -35,20 +34,26 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 
 リリース ノートを確認するには、「[リリース ノート](release-notes-office-for-mac.md)」を参照してください。
 
+[//]: # (コンテンツを削除しないでください。開始)
 
-### <a name="december-10-2019"></a>2019 年 12 月 10 日
-バージョン 16.32 (19120802)
- 
+### <a name="january-14-2020"></a>2020 年 1 月 14 日
+バージョン 16.33 (20011301)
+
+[//]: # (コンテンツを削除しないでください。終了)
+
+[//]: # (アプリ コンテンツを削除しないでください。開始)
+
 |**Application**|**ダウンロード リンク**|**インストール パッケージの SHA-256 ハッシュ**|
 |:-----|:-----|:-----|
-|Office スイート <br/> (Teams あり)   |[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=2009112) <br/> |19035B8AFF8D385A1BB4EFE2C69D43D8D6D61BDBB27402666373DD30465C8096<br/> |
-|Office スイート <br/>(Teams なし)  <br/> |[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> | E7EE6030512017C6D2468DC5FEDC46F5E866F14BC9E8A452741B150F3DEF235B<br/> |
-|Word  <br/> |[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=525134) <br/> [更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.32.19120802_Updater.pkg) <br/> |E3755FFE5AC3146F36810F666D1594059BD48C349026866972BCFF42580EA6FE <br/> |
-|Excel  <br/> |[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=525135) <br/> [更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.32.19120802_Updater.pkg) <br/> |05F79F9CB5364C8BACFC7162B0921351DE675AA0958CA16528D84AEBDE6A5231 <br/> |
-|PowerPoint  <br/> |[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=525136) <br/> [更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.32.19120802_Updater.pkg) <br/> | 404A7017CF9B2E92A0D50CA32B33304ED84D83CF20EAF7F882520F4239AF1323<br/> |
-|Outlook  <br/> |[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=525137) <br/> [更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.32.19120802_Updater.pkg) <br/> |094CADF90E8D6CF5D97A0E1D62E3E8D2C9491F467AFB4786A0D02E9183E8066E <br/> |
-|OneNote  <br/> |[更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.32.19120802_Updater.pkg) <br/> |該当なし  <br/> |
-   
+|Office スイート (Teams あり)|[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=2009112)|AA350437E23D0E0EE4F8E2B96CE3AEFA61ADE74C6CDCB34F85A0B8E2FE725A73|
+|Office スイート (Teams なし)|[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=525133)|C920DF8D0ACC36BA6E32BC740862F169A93F747ABB9F223552C97F2F076C65AB|
+|Word|[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=525134)<br/>[更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.33.20011301_Updater.pkg)|B9C8DBBD1320CCE3A59B6A49B01D788A1225BDB0F096EE173DC70C358531D7E7|
+|Excel|[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=525135)<br/>[更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.33.20011301_Updater.pkg)|EA28B04636157A287D6A1ACC0DC01F5452B9B7964401492127B1D08465AADF13|
+|PowerPoint|[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=525136)<br/>[更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.33.20011301_Updater.pkg)|0B971687DDA98F37EB63C07D06ED4069C3722D0FD0DC9AA35520D8AC8FEF9A47|
+|Outlook|[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=525137)<br/>[更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.33.20011301_Updater.pkg)|6B9206F60C8A26529D5786447C64327DE92212A9D6B3892C4BD283F4C1C02C42|
+|OneNote|[更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.33.20011301_Updater.pkg)|該当なし|
+
+[//]: # (アプリ コンテンツを削除しないでください。終了)
 
 ## <a name="most-current-packages-for-other-mac-programs-from-microsoft"></a>Microsoft の他の Mac プログラムに関する最新パッケージ
 
@@ -70,9 +75,12 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 
 > [!NOTE]
 > ダウンロード リンクは、最新のリリースにのみ記します。
-  
+
+[//]: # (履歴コンテンツを削除しないでください。開始)
+
 |**リリース日**|**バージョン**|**インストール パッケージ**|**更新プログラム パッケージ**|
-|:-----|:-----|:-----|:-----|:-----|
+|:-----|:-----|:-----|:-----|
+|2020 年 1 月 14 日|16.33 (20011301)|[Office スイート (Teams あり)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.33.20011301_BusinessPro_Installer.pkg)<br/><br/>[Office スイート (Teams なし)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.33.20011301_Installer.pkg)|[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.33.20011301_Updater.pkg)、[Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.33.20011301_Updater.pkg)、[PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.33.20011301_Updater.pkg)、[Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.33.20011301_Updater.pkg)、[OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.33.20011301_Updater.pkg)|
 2019 年 12 月 10 日  <br/> |16.32 (19120802)  <br/> | [Office スイート (Teams あり)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.32.19120802_BusinessPro_Installer.pkg) <br/> <br/>[Office スイート (Teams なし)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.32.19120802_Installer.pkg)  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.32.19120802_Updater.pkg)、[Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.32.19120802_Updater.pkg)、[PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.32.19120802_Updater.pkg)、[Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.32.19120802_Updater.pkg)、[OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.32.19120802_Updater.pkg) <br/>
 2019 年 11 月 12 日  <br/> |16.31 (19111002)  <br/> | [Office スイート (Teams あり)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.31.19111002_BusinessPro_Installer.pkg) <br/> <br/>[Office スイート (Teams なし)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.31.19111002_Installer.pkg)  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.31.19111002_Updater.pkg)、[Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.31.19111002_Updater.pkg)、[PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.31.19111002_Updater.pkg)、[Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.31.19111002_Updater.pkg)、[OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.31.19111002_Updater.pkg) <br/>
 2019 年 10 月 15 日  <br/> |16.30 (19101301)  <br/> | [Office スイート (Teams あり)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.30.19101301_BusinessPro_Installer.pkg) <br/> <br/>[Office スイート (Teams なし)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.30.19101301_Installer.pkg)  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.30.19101301_Updater.pkg)、[Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.30.19101301_Updater.pkg)、[PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.30.19101301_Updater.pkg)、[Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.30.19101301_Updater.pkg)、[OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.30.19101301_Updater.pkg) <br/>
@@ -141,3 +149,4 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 |2016 年 2 月 16 日  <br/> |15.19.1 (160212)  <br/> |<!---[KB 3134241](https://support.microsoft.com/kb/3134241) <br/> -->|||
 |2016 年 1 月 12 日  <br/> |15.18.0 (160109)  <br/> |<!---[KB 3133711](https://support.microsoft.com/kb/3133711) <br/> -->|||
 
+[//]: # (履歴コンテンツを削除しないでください。終了)

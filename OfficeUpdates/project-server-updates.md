@@ -3,7 +3,7 @@ title: Project Server の更新プログラム
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 12/11/2019
+ms.date: 1/15/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: project-server-itpro
@@ -13,12 +13,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: Project Server 2013 と Project Server 2010 の更新プログラムを 1 か所で検索および管理できます。このページのリンクを使用して、更新プログラムに関する詳細な情報を取得し、更新プログラムをダウンロードしてください。
-ms.openlocfilehash: a2a4245543ac485ea5dd77e5a6370be027d4cb25
-ms.sourcegitcommit: 18b353e9edfaa8a4f3d6681866b584bdf4f35ee6
+ms.openlocfilehash: 61d23f221d8149c213c79fc42b118246dd75d01a
+ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "39982247"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "41122256"
 ---
 # <a name="project-server-updates"></a>Project Server の更新プログラム
 
@@ -30,6 +30,7 @@ ms.locfileid: "39982247"
   
 |**リリース日**|**サポート技術情報番号**|
 |:-----|:-----|:-----|
+|2020 年 1 月  <br/> |[KB4484230](https://support.microsoft.com/kb/4484230) <br/>|
 |2019 年 12 月  <br/> |[KB4484187](https://support.microsoft.com/kb/4484187) <br/>|
 |2019 年 11 月  <br/> |[KB4484154](https://support.microsoft.com/kb/4484154) <br/>|
 |2019 年 10 月  <br/> |[KB4484120](https://support.microsoft.com/kb/4484120) <br/>|

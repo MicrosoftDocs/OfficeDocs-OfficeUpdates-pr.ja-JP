@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 各チャネルの Office 365 ProPlus の更新プログラムのダウンロード サイズの概算に関する情報を IT 技術者に提供します
-ms.openlocfilehash: cd63909491b0a9c3c838c3357fd8cfd4b0a98ced
-ms.sourcegitcommit: 7878888296fd804525e07ef84947f8133ab7dcba
+ms.openlocfilehash: 9499ba80668b7512888b27f32caef11454c0c1a3
+ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "41004325"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "41122126"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 ProPlus の更新プログラムのダウンロード サイズ
 
@@ -30,13 +30,24 @@ ms.locfileid: "41004325"
 
 [//]: # (削除しないでください)
 
-## <a name="january-9-2020"></a>2020 年 1 月 9 日
+## <a name="january-14-2020"></a>2020 年 1 月 14 日
 
-[//]: # (予測コンテンツを削除しないでください。開始)
+[//]: # (コンテンツを削除しないでください。開始 2020 年 1月 14 日)
+
+### <a name="monthly-channel"></a>月次チャネル
+
+最新のリリースはバージョン 1912 (ビルド 12325.20298) です。
+
+|**アップグレード前のリリース **|**リリース日**|**ダウンロード サイズの概算 (MB)**|
+|:-----|:-----|:-----|
+|バージョン 1912 (ビルド 12325.20288) <br/> |2020 年 1 月 8 日 <br/> |46<br/> |
+|バージョン 1911 (ビルド 12228.20364) <br/> |2019 年 12 月 10 日 <br/> |151<br/> |
+
+
 
 ### <a name="semi-annual-channel"></a>半期チャネル
 
-<i>予定されているリリースは、バージョン 1908 (ビルド 11929.20562) です。</i>
+最新のリリースはバージョン 1908 (ビルド 11929.20562) です。
 
 |**アップグレード前のリリース **|**リリース日**|**ダウンロード サイズの概算 (MB)**|
 |:-----|:-----|:-----|
@@ -46,7 +57,7 @@ ms.locfileid: "41004325"
 
 ### <a name="semi-annual-targeted-channel"></a>半期チャネル (対象指定)
 
-<i>予定されているリリースは、バージョン 1908 (ビルド 11929.20562) です。</i>
+最新のリリースはバージョン 1908 (ビルド 11929.20562) です。
 
 |**アップグレード前のリリース **|**リリース日**|**ダウンロード サイズの概算 (MB)**|
 |:-----|:-----|:-----|
@@ -54,7 +65,8 @@ ms.locfileid: "41004325"
 |バージョン 1908 (ビルド 11929.20494) <br/> |2019 年 11 月 22 日 <br/> |64<br/> |
 
 
-[//]: # (予測コンテンツを削除しないでください。終了)
+[//]: # (コンテンツを削除しないでください。終了 2020 年 1 月 14 日)
+
 
 ## <a name="january-8-2020"></a>2020 年 1 月 8 日
 
