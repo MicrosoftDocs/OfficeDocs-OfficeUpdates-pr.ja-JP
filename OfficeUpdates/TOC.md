@@ -28,7 +28,7 @@
 ### [リリース ノートの Insider チャネル](release-notes-office-insider.md)
 ### [リリース ノートの月次チャネル (対象指定)](release-notes-monthly-channel-targeted.md)
 
-## [Office Windows 7 の更新の履歴](update-history-office-Win7.md)
+## [Windows 7 の更新履歴](update-history-office-Win7.md)
 
 ## [ODT のリリース ノート](ODT-release-history.md)
 
