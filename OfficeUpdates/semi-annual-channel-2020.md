@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2020 年の半期チャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: d91f3ed15a726c96891eee51e4b53de4db71928b
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: 0b31c340e651f3a2862c7fa996c060ce86b5a724
+ms.sourcegitcommit: 8c07d6182c66a7ea9e44d0bb7550a7a1d44877eb
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122266"
+ms.lasthandoff: 01/16/2020
+ms.locfileid: "41214541"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>2020 年の半期チャネル リリースのリリース ノート
 
@@ -39,6 +39,8 @@ ms.locfileid: "41122266"
 - **データベース オブジェクトをタブで管理する:** アクティブなタブが分かりやすく表示され、簡単にタブをドラッグして再配置し、ワンクリックでデータベース オブジェクトを閉じることができます。
 
 - **シームレスに切り替える:** 新しいアカウント マネージャーでは、Office 365 の職場用と個人用のアカウントがすべて 1 か所に表示されます。 アカウント間の切り替えがより簡単になりました。 [詳細情報](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+- **より大きい [ズーム] ボックス:** [ズーム] ボックスがより大きく表示され、そこでフォントを変更することができます。変更内容はすべて [ズーム] ボックス内に記憶されます。 [詳細情報](https://support.office.com/article/9a62d165-67f8-4790-bad8-a2c2e83dcedf)
 
 ### <a name="excel"></a>Excel
 
@@ -80,8 +82,6 @@ ms.locfileid: "41122266"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **変形切り替え効果の強化:** 最適な切り替えを行います。 SmartArt と表の変形をより滑らかに切り替え
-
 - **よりよい変形操作:** 図形に名前を付けると、変形するときにより細かく制御できます。 [詳細情報](https://support.office.com/article/bc7f48ff-f152-4ee8-9081-d3121788024f)
 
 - **特定のファイルをすばやく見つける**: 最近作業を行ったファイルを探している場合は? [ファイル] > [ホーム ページ] タブの検索ボックスに入力するだけで、目的のファイルを見つけることができます。
@@ -118,7 +118,7 @@ ms.locfileid: "41122266"
 
 ### <a name="word"></a>Word
 
-- **ページに色を追加する:** すべて白の背景やすべて黒の背景が適していない場合に、新しいページの色を使用してすばやく変更できます。
+- **[学習ツール] モードで、ページで使用できる色が増えました:** Word の学習ツールでは、より多くのページ テーマ色が追加され、ページの背景色を変更できるようになりました。 すべて白またはすべて黒の背景だと読みにくいと感じるユーザーは少なくないため、PC と Mac の Word で色の選択肢を拡大しました。
 
 - **インク エディターを使った自然な編集:** ペンを使って 1 ストローク描くだけで、単語の分割や結合、新しい線の追加、単語の挿入などができます。[詳細情報](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
 
@@ -146,7 +146,9 @@ ms.locfileid: "41122266"
 
 - **プライバシー制御**: 診断データとコネクテッド エクスペリエンス用に新しく更新されて、改善された制御。 [詳細情報](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
 
-- **新しい外観を備えた Office のアイコン:** シンプルかつ高性能で、インテリジェントな Office のエクスペリエンスを反映するように、Office のアイコンがリニューアルされました。
+- **新しい外観を備えた Office のアイコン:** Office のアイコンがリニューアルされ、シンプルかつ高性能でインテリジェントな Office のエクスペリエンスが反映されるようになりました。
+
+- **Microsoft Teams のインストール:** Microsoft Teams は、Office 365 ProPlus の新規インストールでは既定でインストールされています。 [詳細情報](https://docs.microsoft.com/DeployOffice/teams-install)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
 
