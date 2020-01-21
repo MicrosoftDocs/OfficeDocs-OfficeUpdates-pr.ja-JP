@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 5d4d18cfff0ee6460c8356b61533e77295ab723b
-ms.sourcegitcommit: 9ff490c13fbe6cbe61d34876d36b1717e15014cb
+ms.openlocfilehash: 3889a3f93c8b83129928c95fd9880472de0be8eb
+ms.sourcegitcommit: f042b25b15960fc4911a7e7d8500dcfd992ee95c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/10/2020
-ms.locfileid: "41022052"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41230085"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office Insider のリリース ノート
 
@@ -26,6 +26,37 @@ ms.locfileid: "41022052"
 > - Microsoft Teams に関連する既存の Office 365 ProPlus のインストール - 6 月の下旬から、これらの更新プログラムのインストール時に、Microsoft Teams が既存の Office 365 ProPlus (Office 365 Business) のインストールの中に含められます。 Teams が追加される日にちは、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/deployoffice/teams-install)」を参照してください。
 
 [//]: # (削除しないでください)
+
+## <a name="version-2002-january-17"></a>バージョン 2002: 1 月 17 日
+*バージョン 2002 (ビルド 12508.20000)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="word"></a>Word
+
+- **メンションとコメントの通知メールにプレビューが含まれるようになりました:** メンションとコメントのメール通知には、コメント テキストのプレビューとそれが参照している内容のコンテキストが含まれるようになりました。
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- アクセシビリティ チェックが図形の推奨事項を表示しないことがあります。
+
+### <a name="outlook"></a>Outlook
+
+- 左側のナビゲーション ウィンドウで [お気に入り] に保存したフォルダーが断続的に表示されないことがあります。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- インクが PowerPoint のインク アニメーションで使用すると完全にレンダリングされない、またはスキップされることがある問題を修正します。
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2001-january-10"></a>バージョン 2001: 1 月 10 日
 *バージョン 2001 (ビルド 12430.20000)*

@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: a58fd969078411936719b79db9ef090db1bd7ef3
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: a3edffcc7a997e4dc2e512518a6a8050f60f7141
+ms.sourcegitcommit: 9b7d0cbf39e67f308c6c24821d3a736a43521e85
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122006"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41231860"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 月次チャネルのリリース ノート (対象指定)
 
@@ -29,6 +29,24 @@ ms.locfileid: "41122006"
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2001-january-17"></a>バージョン 2001: 1 月 17 日
+*バージョン 2001 (ビルド 12430.20120)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="word"></a>Word
+
+- **周りに図形を描くだけで Word のインク描画を簡単に選択できます。:** [描画] タブのなげなわツールを使用することで、インクで描画されたオブジェクトを選択することができます。 個別のストロークまたは文字全体を選択できます。 インク描画が多数ある場合に、その中の一部を操作したい場合に便利です。 [詳細情報](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- Excel クライアントでは、ビルド 12430.20050 で 32 ビット バージョンの Excel を実行しているユーザーに対して、英語以外の言語バージョン 2001 でいくつかのシナリオ (印刷、マクロ実行、ズームなど) で問題が発生しています。 
 
 ## <a name="version-2001-january-14"></a>バージョン 2001: 1 月 14 日
 *バージョン 2001 (ビルド 12430.20050)*
