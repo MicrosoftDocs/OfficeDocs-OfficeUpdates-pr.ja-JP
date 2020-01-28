@@ -3,19 +3,19 @@ title: Office 2016 C2R および Office 2019 の更新履歴
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 1/15/2020
+ms.date: 1/23/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: クイック実行 (C2R) を使用する永続的なバージョンの Office 2016 および 2019 の更新履歴を IT 技術者に提供します
-ms.openlocfilehash: f06fabf6b50544b1d0a8776767da3a1843312277
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: 5b0dad68a65a5fce15e6fa363de8b20ac31e4bea
+ms.sourcegitcommit: d1eb4fe4ab2606a94e786011de3f77635ee3b987
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122306"
+ms.lasthandoff: 01/24/2020
+ms.locfileid: "41519156"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R および Office 2019 の更新履歴
 
@@ -58,6 +58,7 @@ Microsoft は、Office 2016 のクイック実行 (C2R) バージョンおよび
 
 |**リリース日**|**バージョン番号**|**詳細情報**|
 |:-----|:-----|:-----|
+|2020 年 1 月 22 日   |バージョン 1912 (ビルド 12325.20344)  |さまざまなバグとパフォーマンスの修正。 <br/>  |
 |2020 年 1 月 14 日   |バージョン 1912 (ビルド 12325.20298)  |[CVE-2020-0650](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0650) <br/> [CVE-2020-0651](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0651) <br/> [CVE-2020-0652](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0652) <br/>  |
 |2020 年 1 月 8 日   |バージョン 1912 (ビルド 12325.20288)  |さまざまなバグとパフォーマンスの修正。 <br/>  |
 |2019 年 12 月 10 日   |バージョン 1911 (ビルド 12228.20364)  |[CVE-2019-1400](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2019-1400) <br/> [CVE-2019-1461](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2019-1461) <br/> [CVE-2019-1462](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2019-1462) <br/> [CVE-2019-1463](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2019-1463) <br/> [CVE-2019-1464](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2019-1464) <br/> |
