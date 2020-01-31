@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2018 年の半期チャネル (対象指定) リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: ef2d238cd2219c9a72857f813528ef6806d53049
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 827436fccc1ba336e216d3d2b18d48a4b7168a12
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32439102"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629304"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>2018 年の半期チャネル (対象指定) リリースのリリース ノート
 
@@ -299,7 +299,7 @@ ms.locfileid: "32439102"
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0950): Microsoft Office の情報漏えいの脆弱性
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-1026): Microsoft Office のリモート コード実行の脆弱性
 -   [CVE-2018-1030](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-1030): Microsoft Office のリモート コード実行の脆弱性
--   **セキュリティ上の理由から、Office での Flash、Silverlight、および Shockwave のコントロールのアクティブ化がブロックされる:** セキュリティ上の理由から、Windows 上の Microsoft Office for Office 365 の新しいビルドでは、Flash、Silverlight、および Shockwave のコントロールのアクティブ化がブロックされます。詳細については、[こちら](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)および[こちら](https://support.office.com/ja-JP/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)をご覧ください。
+-   **セキュリティ上の理由から、Office での Flash、Silverlight、および Shockwave のコントロールのアクティブ化がブロックされる:** セキュリティ上の理由から、Windows 上の Microsoft Office for Office 365 の新しいビルドでは、Flash、Silverlight、および Shockwave のコントロールのアクティブ化がブロックされます。詳細については、[こちら](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)および[こちら](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)をご覧ください。
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 -  特定のシナリオで更新プログラムのインストールが長くかかる原因となった問題を修正しました。
@@ -350,7 +350,7 @@ ms.locfileid: "32439102"
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 -   特定のシナリオで更新プログラムのインストールが長くかかる原因となったバグを修正します。 
 -   SVG テストが失敗するという問題を修正します。
--   Office アプリケーションが実行されているクライアントに System Center Configuration Manager を使用して更新プログラムを展開した場合、Office アプリケーションの実行中にデバイスを再起動すると更新プログラムが適用されない問題を修正します。
+-   Office アプリケーションが実行されているクライアントに Configuration Manager を使用して更新プログラムを展開した場合、Office アプリケーションの実行中にデバイスを再起動すると更新プログラムが適用されない問題を修正します。
 
 
 ## <a name="version-1803-june-12"></a>バージョン 1803: 6 月 12 日
@@ -375,7 +375,7 @@ ms.locfileid: "32439102"
 -   タイムライン ビューで既存のタスクをタイムライン ダイアログに追加すると、最初のサマリー タスクのタスクしか表示されない問題を修正します。
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
--   Office アプリケーションが実行されているクライアントに System Center Configuration Manager を使用して更新プログラムを展開した場合、Office アプリケーションの実行中にデバイスを再起動すると更新プログラムが適用されない問題を修正します。
+-   Office アプリケーションが実行されているクライアントに Configuration Manager を使用して更新プログラムを展開した場合、Office アプリケーションの実行中にデバイスを再起動すると更新プログラムが適用されない問題を修正します。
 
 
 
@@ -714,7 +714,7 @@ ms.locfileid: "32439102"
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 -   ユーザーがアプリケーションを開いたときに、セーフ モードでの起動に関するメッセージが表示され、アプリケーションが起動しない問題を修正します。
--   Office 365 クライアントの更新が System Center Configuration Manager によって管理されるように、Office COM オブジェクトが有効になっている場合は、[ファイル] \> [アカウント] \> [更新オプション] で [今すぐ更新] オプションが非表示になっています。
+-   Office 365 クライアントの更新が Configuration Manager によって管理されるように、Office COM オブジェクトが有効になっている場合は、[ファイル] \> [アカウント] \> [更新オプション] で [今すぐ更新] オプションが非表示になっています。
 -   ユーザーが [Office ライセンス認証] ダイアログ ボックスを使用して Office のライセンス認証をしようとすると、Office アプリがクラッシュする問題を修正します。
 -   動的 DPI 環境下における Office アドインのズームとスケーリングに関する問題を修正します。
 -   Office 365 ProPlus が現在インストールされている場合でも、Office 構成サービス プロバイダー (CSP) の CurrentStatus ノードが空の文字列を返す問題を修正します。

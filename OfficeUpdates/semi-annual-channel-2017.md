@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: IT プロフェッショナルに、Office 365 ProPlus の半期チャネルリリースのリリースノートを2017で提供します。
-ms.openlocfilehash: 97df90f17529a2c3336e19a2954b6c596e7d3410
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 9d3a8a62656e52fd556920745d64ba2d1da47b1f
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32439232"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629264"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2017"></a>2017での半期チャネルリリースのリリースノート
 
@@ -388,7 +388,7 @@ ms.locfileid: "32439232"
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 -   一部のプログラム ファイルの署名において、ウイルス対策プログラムでこれらのファイルにフラグが設定されたり、Windows Information Protection (WIP) でのデータの保護およびアクセスに関して問題が発生したりするという問題の修正。
 -   新機能ダイアログが表示されない問題を修正します。
--   System Center Configuration Manager の使用時に、Office 2013 から Office 2016 への無人アップグレードが失敗する原因になる問題を修正します。
+-   構成マネージャーを使用しているときに、Office 2013 の無人アップグレードが Office 2016 に失敗する原因となる問題を修正します。
 -   ストアから企業のカタログに展開された従来のアドインが読み込まれない問題の修正。
 
 
@@ -398,7 +398,7 @@ ms.locfileid: "32439232"
 
 *これは、2017年6月から使用可能になった遅延チャネルリリースです。引き続きサポートされ、2018年1月までセキュリティ更新プログラムを受信します。しかし、新しい遅延チャネルリリースが使用可能になりました—バージョン 1705 (ビルド 8201.2193) —新しい機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムが含まれます。*
 
-### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
+### <a name="excel-security-updates"></a>Excel: セキュリティの更新
 -   [CVE-2017-8631](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8631): Microsoft Office のメモリ破損の脆弱性
 -   [CVE-2017-8632](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8632): Microsoft Office のメモリ破損の脆弱性
 
@@ -742,7 +742,7 @@ ms.locfileid: "32439232"
 -   Office ドキュメントに SVG 画像を挿入し、その後ドキュメントを保存してから再び開くと、SVG 画像が表示されなくなるという問題を修正します。
 -   Fix an issue where Office shows the following error message during activation for non-English users: "The maximum length of the product key is 25 characters."
 -   フレームの Z オーダーが機能しなくなる、または正しく表示されなくなる可能性のある VBA フォームに関する問題を修正します。
--   System Center Configuration Manager でトリガーされる更新によって、レジストリの UpdateChannel 設定が有効な更新チャネルでないものに変更される問題を修正します。
+-   Configuration Manager によってトリガーされるの更新プログラムによって、レジストリの UpdateChannel 設定が有効な更新プログラムチャネルではないものに変更されるという問題を修正します。
 
 
 
@@ -839,7 +839,7 @@ ms.locfileid: "32439232"
 ## <a name="version-1609-march-14"></a>バージョン 1609: 3 月14日
 *バージョン 1609 (ビルド 7369.2120)*
 
-### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
+### <a name="excel-security-updates"></a>Excel: セキュリティの更新
 -   マイクロソフト セキュリティ情報 [MS17-014](https://technet.microsoft.com/library/security/ms17-014): Microsoft Office のセキュリティ更新プログラム (3217868)
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: セキュリティ更新プログラム
@@ -858,7 +858,7 @@ ms.locfileid: "32439232"
 
 *これは、2016年10月から使用可能になった遅延チャネルリリースです。引き続きサポートされ、2017年6月までセキュリティ更新プログラムを受信します。しかし、新しい遅延チャネルリリースが使用可能になりました—バージョン 1609 (ビルド 7369.2120) —新しい機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムが含まれます。*
 
-### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
+### <a name="excel-security-updates"></a>Excel: セキュリティの更新
 -   マイクロソフト セキュリティ情報 [MS17-014](https://technet.microsoft.com/library/security/ms17-014): Microsoft Office のセキュリティ更新プログラム (3217868)
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: セキュリティ更新プログラム
@@ -1064,7 +1064,7 @@ ms.locfileid: "32439232"
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 -   フレームの Z オーダーが機能しなくなる、または正しく表示されなくなる可能性のある VBA フォームに関する問題を修正します。
--   System Center Configuration Manager でトリガーされる更新によって、レジストリの UpdateChannel 設定が有効な更新チャネルでないものに変更される問題を修正します。
+-   Configuration Manager によってトリガーされるの更新プログラムによって、レジストリの UpdateChannel 設定が有効な更新プログラムチャネルではないものに変更されるという問題を修正します。
 -   OneDrive 同期クライアントを使用して、ファイルを OneDrive for Business サイトからローカル コンピューターに同期する場合に、URL から開いた同期済みのバックアップ ファイルを保存すると、Word、Excel、または PowerPoint がハングする問題を修正します。
 -   フォーム コントロールを含むマクロ有効ファイルを開こうとすると、透明ラベル コントロールが不透明になる、既存のフォームが表示されなくなるか正しく機能しなくなる、および Office アプリケーションが応答しなくなる原因となる可能性のある VBA フォーム コントロールに関する問題を修正します。
 -   管理されているメタデータ プロパティを使用すると、設定されているメタデータ値ではなく、[詳細の表示] ボタンが [ファイル] \> [情報] の下の [プロパティ] セクションに表示される問題を修正します。

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Office 356 サブスクライバー向け Office for Mac リリース用リリース ノートを IT プロフェッショナルに提供
-ms.openlocfilehash: 2f43ce3fa752bc749fcb39cf9e9a792133ced7e4
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: ea7f2bd55b0aa1088eec2219b562f28b83985a2f
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122296"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629224"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac のリリース ノート
 
@@ -483,8 +483,8 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 |**アプリケーション**|**機能の更新プログラム**|**セキュリティの更新プログラムを入手できます。**|**更新プログラム パッケージのダウンロード リンク**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>| **ダーク モードで目に優しい:** 低照度の環境では、濃い色の背景の方が目に優しくなります。macOS Mojave が必要です。<br/><br/>  **テキストの外観を維持する:** フォントを埋め込むことにより、すべてのコンピューターでドキュメントのテキストの外観を同一にします。これは嬉しい機能です。[詳細情報](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/><br/>**文書に埋め込まれたフォントを表示する:** ファイルに埋め込まれているフォントを Mac Word で表示できるようにします。<br/><br/>**フォーカス モードの呼び出し可能なステータス バー:** フォーカスモードで呼び出し可能なステータス バーを使用して、Word での文字カウントやズーム コントロールへのアクセスを簡単に行えます。<br/><br/>**より高機能になったフォーカスモード:** ご要望にお応えいたします。 フォーカス モードが設定した表示倍率で表示され、スクロール中もページ番号が表示されるようになりました。| |[Word の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.20.18120801_Updater.pkg) <br/>|
-|Excel  <br/>|  **目に優しい濃色モード:** 光の少ない環境において目に優しい、暗い背景色を利用できます。 macOS Mojave が必要です。 <br/><br/> | [CVE-2018-8597](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8597): Microsoft Excel のリモート コード実行の脆弱性 <br/><br/> [CVE-2018-8627](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8627): Microsoft Excel の情報漏えいの脆弱性 |[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.20.18120801_Updater.pkg) <br/>|
-|PowerPoint  <br/>| **目に優しい濃色モード:** 光の少ない環境において目に優しい、暗い背景色を利用できます。 macOS Mojave が必要です。 <br/><br/>  **iPhone から直接 PowerPoint へ:** Apple Continuity Camera を使用して、写真を iPhone からスライドへ挿入します。macOS Mojave が必要です。[詳細情報](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8628): Microsoft PowerPoint のリモート コード実行の脆弱性 <br/>|[PowerPoint の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg) <br/>|
+|Excel  <br/>|  **ダーク モードで目に優しい:** 低照度の環境では、濃い色の背景の方が目に優しくなります。macOS Mojave が必要です。<br/><br/> | [CVE-2018-8597](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8597): Microsoft Excel のリモート コード実行の脆弱性 <br/><br/> [CVE-2018-8627](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8627): Microsoft Excel の情報漏えいの脆弱性 |[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.20.18120801_Updater.pkg) <br/>|
+|PowerPoint  <br/>| **ダーク モードで目に優しい:** 低照度の環境では、濃い色の背景の方が目に優しくなります。macOS Mojave が必要です。<br/><br/>  **iPhone から直接 PowerPoint へ:** Apple Continuity Camera を使用して、写真を iPhone からスライドへ挿入します。macOS Mojave が必要です。[詳細情報](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8628): Microsoft PowerPoint のリモート コード実行の脆弱性 <br/>|[PowerPoint の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg) <br/>|
 |Outlook  <br/>|  **ダーク モードで目に優しい:** 低照度の環境では、濃い色の背景の方が目に優しくなります。macOS Mojave が必要です。<br/><br/>  **予定表を共有する:** 家族、友人、同僚と予定表を共有します。Mac、PC、またはクラウド バージョンの Outlook で共有している予定表を開きます。[詳細情報](https://support.office.com/article/365-b576ecc3-0945-4d75-85f1-5efafb8a37b4) <br/><br/> **会議の転送を無効にする:** 出席者が会議を他のユーザーに転送できないようにします。[詳細情報](https://support.office.com/article/8cd354e5-b319-403e-8dd2-88b8ee89b4dd) <br/><br/> **チームを使用して会議に接続する:** リモートのチームと協力する場合。Outlook でチームを使用して、オンライン会議のスケジュールを設定したり、会議に参加します。[詳細情報](https://support.office.com/article/883cc15c-580f-441a-92ea-0992c00a9b0f) <br/><br/>**会議の出席者を確認する:** 予定表に記載された任意の会議やイベントをクリックすると、参加予定者を確認できます。<br/><br/> **3 タイムゾーンを表示する:** タイム ゾーン間で会議をスケジュールする必要がある場合。複数のタイム ゾーンを予定表に追加すると、全員の予定の確認や、全員が参加できる時間の選択が容易になります。[詳細情報](https://support.office.com/article/938d9db9-14ae-4203-ab91-b2d183429382)<br/><br/>  ||[Outlook の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.20.18120801_Updater.pkg) <br/>|
 |Microsoft Auto Update 4.6 <br/>| SHA-1 ではなく SHA-256 ハッシュを含む最新のセキュリティ カタログ <br/>|<br/> | [Microsoft AutoUpdate 更新パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.6.18120801_Updater.pkg)|
 |Office スイート  <br/>|**新しい見た目のリボン アイコン:** 機能に変更はないので、ご安心ください。 また、すべてのアイコンがあらゆるサイズの画面で適切に表示されるようになりました。 [詳細情報](https://support.office.com/article/a6cdf19a-b2bd-4be1-9515-d74a37aa59bf)<br/><br/>**[代替テキスト] ウィンドウの更新:** 役に立つキャプションを追加したり、要素を装飾用としてマークしたりして、コンテンツのアクセシビリティを高めます。 |<br/>||
@@ -861,8 +861,8 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 |**アプリケーション**|**機能の更新プログラム**|**セキュリティ更新プログラム**|
 |:-----|:-----|:-----|
 |Word  <br/> |**フォーカス モードのモダンな背景:** **ビュー** タブでフォーカス モードのときに、夕暮れや夜景の背景から選択します。[詳細を見る](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292.aspx)  <br/><br/> **Dubai フォント:** 西ヨーロッパ言語とアラビア文字を使用する主要言語の両方に対応しているフォント ファミリ。[詳細を見る](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
-|Excel  <br/> |**Dubai フォント:** 西ヨーロッパ言語とアラビア文字を使用する主要言語の両方に対応しているフォント ファミリ。 [詳細情報](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
-|PowerPoint  <br/> |**Dubai フォント:** 西ヨーロッパ言語とアラビア文字を使用する主要言語の両方に対応しているフォント ファミリ。 [詳細情報](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
+|Excel  <br/> |**Dubai フォント:** 西ヨーロッパ言語とアラビア文字を使用する主要言語の両方に対応しているフォント ファミリ。[詳細を見る](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
+|PowerPoint  <br/> |**Dubai フォント:** 西ヨーロッパ言語とアラビア文字を使用する主要言語の両方に対応しているフォント ファミリ。[詳細を見る](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Outlook  <br/> |**グループ:** 上位 10 グループを表示し、[グループ] フォルダーから直接グループの会話を読んだり返信したりできます。  <br/> <br/> **Dubai フォント:** 西ヨーロッパ言語とアラビア文字を使用する主要言語の両方に対応しているフォント ファミリ。[詳細を見る](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Office スイート  <br/> ||[CVE-2017-0254](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2017-0254): Microsoft Office のメモリ破損の脆弱性   |
 
@@ -933,66 +933,3 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 |Word  <br/> |オーク、マホガニー、グラファイトなど、その他のフォーカス モードの選択肢です。Office 365 サブスクライバーの場合のみです。[詳細を見る](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292.aspx) <br/> |サイズの大きいドキュメントを編集するときに、入力やスクロールの遅れ、パフォーマンスの低下など、さまざまなパフォーマンスの問題が修正されています。  |
 |Microsoft AutoUpdate  <br/> |その他のログ記録とトラブルシューティング機能。  <br/> |バージョン番号が 3.8.3 に更新されました。  |
    
-## <a name="december-2016-release"></a>2016 年 12 月リリース
-
-
- **リリース日**: 2016 年 12 月 15 日 
-  
- *バージョン 15.29.1 (ビルド 16121500)* 
-  
-このリリースでは、ファイル パスの最初の部分にスペースや特定の文字が含まれている場合に、Word、Excel、または PowerPoint でファイルを開いたり保存したりする際の問題が修正されています。
-
-<br/><br/>
-  
- **リリース日**: 2016 年 12 月 13 日 
-  
- *バージョン 15.29.0 (ビルド 16120900)* 
-  
-このリリースでは、次の更新プログラムを提供します。
-  
-|**アプリケーション**|**機能の更新プログラム**|**セキュリティ以外の更新プログラム**|**セキュリティ更新プログラム**|
-|:-----|:-----|:-----|:-----|
-|Word  <br/> | PDF に変換する際に、ハイパーリンクを使用してドキュメントの忠実さを保持します。[詳細を見る](https://support.office.com/article/aa183751-1f09-4b8b-88a4-099a0c7528da) <br/>  <br/> アクセス可能なドキュメントを作成したり、VoiceOver やその他の支援技術を使用してドキュメントを読み込んだり編集したりするためのサポートを改善しました。[詳細を見る](https://support.office.com/article/c681eb25-549e-4d1d-a970-e52450c701de) |
-|Excel  <br/> | アクセシビリティに対応したドキュメントの作成や、VoiceOver やその他の支援技術を使用して、ドキュメントの読み上げや編集を行うためのサポートが改善されました。 [詳細情報](https://support.office.com/article/1d014a46-3416-413d-909d-51c817e83580#PickTab=Mac) <br/> | データの入力規則を使用するときにエラー メッセージ ボックスにテキストを入力すると、Excel がクラッシュする問題が修正されています。  <br/> |マイクロソフト セキュリティ情報 [MS16-148](https://technet.microsoft.com/library/security/MS16-148): Microsoft Office のセキュリティ更新プログラム (3204068)   |
-|PowerPoint  <br/> | アクセス可能なドキュメントを作成したり、VoiceOver やその他の支援技術を使用してドキュメントを読み込んだり編集したりするためのサポートを改善しました。[詳細を見る](https://support.office.com/article/8f6382e8-280e-4c33-9fc0-1cd98065aca7) |
-|Office スイート  <br/> | ギリシャ語、ハンガリー語、スロバキア語の 3 つの言語のサポート  <br/> ||マイクロソフト セキュリティ情報 [MS16-148](https://technet.microsoft.com/library/security/MS16-148): Microsoft Office のセキュリティ更新プログラム (3204068)  |
-|Microsoft AutoUpdate  <br/> || バージョン番号が 3.8.2 に更新されました。  <br/> - 信頼性を向上し、マイナーなバグを修正しました。  <br/> |マイクロソフト セキュリティ情報 [MS16-148](https://technet.microsoft.com/library/security/MS16-148): Microsoft Office のセキュリティ更新プログラム (3204068)  |
-   
-## <a name="november-2016-release"></a>2016 年 11 月リリース
-
-
- **リリース日:** 2016 年 11 月 17 日 
-  
- *バージョン 15.28.0 (ビルド 16111700)* 
-  
-このリリースでは、Exchange Server 2010 の Outlook およびパブリック フォルダーに関する問題が修正されています。 
-
-<br/><br/>
-  
- **リリース日:** 2016 年 11 月 15 日 
-  
- *バージョン 15.28.0 (ビルド 16111501)* 
-  
-このリリースでは、個々のアプリケーションの更新プログラム パッケージに関する問題が修正されています。
-
-<br/><br/>
-  
-
- **リリース日:** 2016 年 11 月 15 日 
-  
- *バージョン 15.28.0 (ビルド 16111300)* 
-  
-このリリースでは、次の更新プログラムを提供します。
-  
-|**アプリケーション**|**機能の更新プログラム**|**セキュリティ以外の更新プログラム**|**セキュリティ更新プログラム**|
-|:-----|:-----|:-----|:-----|
-|Word  <br/> |チェコ語、ハンガリー語、韓国語、ノルウェー語、ポーランド語、ロシア語、トルコ語の新しい文章校正のサポート。  <br/> | 特定の罫線のコンテンツを含む Excel スプレッドシートがドキュメントに埋め込まれているときに、Word がドキュメントを保存できない問題が修正されています。  <br/> |マイクロソフト セキュリティ情報[MS16 133](https://technet.microsoft.com/library/security/MS16-133): Microsoft Office (3199168) のセキュリティ更新プログラム |
-|Excel  <br/> || Excel が NetApp FAS ユニットなどの特定のエンタープライズ ストレージ構成の変更を保存できない場合、長時間実行される問題が修正されています。Excel は Word と同じファイル保存パターンを採用するようになりました。  <br/> |マイクロソフト セキュリティ情報[MS16 133](https://technet.microsoft.com/library/security/MS16-133): Microsoft Office (3199168) のセキュリティ更新プログラム  <br/> |
-|PowerPoint  <br/> |PowerPoint 2016 for Windows の Zoom コマンドを使用して作成された対話型の要約と自動ナビゲーション リンクを表示します。  <br/> | 画像が表示されず、rID# を参照してエラーに置き換えられる問題が修正されています。  ||
-|Outlook  <br/> |アクセシビリティ チェックを使用してメッセージや招待状を作成するときに発生するアクセシビリティの問題を検出し、修正します。[詳細を見る](https://support.office.com/article/3b84295e-d55b-49f1-b443-523ec45a5232) <br/> | メール作成時の言語の自動検出に関する問題が修正されています。 ||
-|Office スイート  <br/> || - アクセシビリティを必要とするユーザー向けに大幅に改善されました。  <br/><br/>  - 最後のクラッシュ ログをディスクに保存するように Microsoft エラー報告を設定することができます (既定では com.microsofterrorreporting IsStoreLastCrashEnabled -bool TRUE を書き込みます)。 <br/> <br/>  - E1/K1 ユーザー向けのアクティブ化メッセージを改善しました。エラーが発生したことをユーザーに示唆せず、閲覧限定のエクスペリエンスで対応します。  <br/><br/> インストーラーとアップデーターのファイル名の形式が変更されています。たとえば、Microsoft_Office_2016_15.28.0_161113_Installer.pkg ではなく Microsoft_Office_2016_15.28.16111300_Installer.pkg となります。  ||
-|Microsoft AutoUpdate  <br/> |更新プログラムを自動的に検出、ダウンロード、インストールするための新しいオプションが含まれます。  <br/> | バージョン番号が 3.8.1 に更新されました。  <br/> <br/>- 古いバージョンの Microsoft Silverlight がインストールされている場合、特に Silverlight が null の LCID で登録されている場合に、MAU がクラッシュする可能性のある問題が修正されています。  <br/><br/>  - ManifestServer 環境設定を使用しているときに MAU がクラッシュする可能性のある問題が修正されています。  <br/><br/> - Microsoft AU Daemon のバンドル表示名が「Microsoft Update Assistant」に変更されました。  <br/><br/> - 2016 アプリ用の MAU XML フィードには、Triggers ディクショナリが含まれず、バージョン検出のために「Update Version」に依存します。  <br/><br/> - MAU では、アプリ更新時のウィンドウに完全なバージョン文字列を表示するようになりました。たとえば、15.28 ではなく 15.28.16110300 となります。  ||
-   
-
-   
-

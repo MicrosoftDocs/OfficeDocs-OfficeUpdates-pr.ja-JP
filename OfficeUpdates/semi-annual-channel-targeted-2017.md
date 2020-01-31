@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の半期チャネル (対象指定) リリースのリリースノートを IT 担当者に提供します (2017)
-ms.openlocfilehash: 6014107ae2471707d226602cc71efaa24f1de310
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 911626feb56a68ab258b51de78142dfaf6926bbe
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32439132"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629274"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2017"></a>2017での半期チャネル (対象指定) リリースのリリースノート
 
@@ -29,7 +29,7 @@ ms.locfileid: "32439132"
 ## <a name="version-1708-december-12"></a>バージョン 1708:12 月12日
 *バージョン 1708 (ビルド 8431.2131)*
 
- ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
+ ### <a name="excel-security-updates"></a>Excel: セキュリティの更新
 -   [CVE-2017-11935](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11935): Microsoft Excel のリモート コード実行の脆弱性
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
@@ -375,7 +375,7 @@ ms.locfileid: "32439132"
 -   [CVE-2017-8570](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570): Microsoft Office のリモート コード実行の脆弱性
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
--   System Center Configuration Manager の使用時に、Office 2013 から Office 2016 への無人アップグレードが失敗する原因になる問題の修正。
+-   構成マネージャーを使用しているときに、Office 2013 の無人アップグレードが Office 2016 に失敗する原因となる問題を修正します。
 -   ストアから企業のカタログに展開された従来のアドインが読み込まれない問題の修正。
 
 
@@ -701,7 +701,7 @@ ms.locfileid: "32439132"
 -   **自分と共有:** [ファイル] \> [開く] \> [自分と共有] で、他のユーザーが自分と共有しているのドキュメントを参照します。 [詳細情報](https://support.office.com/article/e0476dc7-bf2f-4203-b9ad-c809578b03e7)
 -   **色の変更:** 操作アシストを使用して、フォント、強調表示、図形の塗りつぶしなどの色を設定します。 [詳細情報](https://support.office.com/article/5bab7082-b772-427c-a106-14ae46f8687f)
 
-### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
+### <a name="excel-security-updates"></a>Excel: セキュリティの更新
 -   マイクロソフト セキュリティ情報 [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Microsoft Office のセキュリティ更新プログラム (3204068)
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
@@ -909,7 +909,7 @@ ms.locfileid: "32439132"
 -   Office ドキュメントに SVG 画像を挿入し、その後ドキュメントを保存してから再び開くと、SVG 画像が表示されなくなるという問題を修正します。
 -   Fix an issue where Office shows the following error message during activation for non-English users: "The maximum length of the product key is 25 characters."
 -   フレームの Z オーダーが機能しなくなる、または正しく表示されなくなる可能性のある VBA フォームに関する問題を修正します。
--   System Center Configuration Manager でトリガーされる更新によって、レジストリの UpdateChannel 設定が有効な更新チャネルでないものに変更される問題を修正します。
+-   Configuration Manager によってトリガーされるの更新プログラムによって、レジストリの UpdateChannel 設定が有効な更新プログラムチャネルではないものに変更されるという問題を修正します。
 
 
 
