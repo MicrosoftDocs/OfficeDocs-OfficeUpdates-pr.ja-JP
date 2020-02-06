@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT プロフェッショナルに、日付ごとに整理した Office 365 ProPlus リリースすべての一覧を、リリース ノートへのリンクを含めて提供します
-ms.openlocfilehash: a94cdd19bdfa085381ff053749a506aafc91eac5
-ms.sourcegitcommit: 5534ba17ff0437b4dc25213f364c714397911e6a
+ms.openlocfilehash: 4a4c4de8c1fb0645a0ae630075cc07cf2035cc9e
+ms.sourcegitcommit: fd8217398475375ef1a403f9aac2bb615447eb74
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/01/2020
-ms.locfileid: "41650825"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41721808"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 ProPlus の更新履歴 (日付別の一覧)
 
@@ -31,7 +31,7 @@ Office 365 ProPlus は、新機能、セキュリティ更新プログラム、�
 
 |**チャネル**|**バージョン**|**ビルド**|**リリース日**|**バージョンのサポート期限**|
 |:-----|:-----|:-----|:-----|:-----|
-|毎月<br/>|1912<br/>|12325.20344<br/>|2020 年 1 月 22 日<br/>|2001 バージョンがリリースされました<br/>|
+|毎月<br/>|2001<br/>|12430.20184<br/>|2020 年 1 月 30 日<br/>|2002 バージョンがリリースされました<br/>|
 |半期 (対象指定)<br/>|1908<br/>|11929.20562<br/>|2020 年 1 月 14 日<br/>|2020 年 3 月 10 日<br/>|
 |半期<br/>|1908<br/>|11929.20562<br/>|2020 年 1 月 14 日<br/>|2021 年 3 月 9 日<br/>|
 |半期<br/>|1902<br/>|11328.20512<br/>|2020 年 1 月 14 日<br/>|2020 年 9 月 8 日<br/>|
