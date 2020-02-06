@@ -3,19 +3,19 @@ title: Windows インストーラー (MSI) を使用しているバージョン�
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 1/08/2020
+ms.date: 2/05/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 永続的なバージョンの Office 2016、Office 2013、Office 2010 の最新のセキュリティ以外の更新プログラム情報へのリンクを IT 技術者に提供します
-ms.openlocfilehash: 5bbc11ef2d5c2612fb8f76929522b36a6d1aad39
-ms.sourcegitcommit: 1cf47498ccc05d5933fd27dcf89b786157b419a2
+ms.openlocfilehash: a52a84cbd9a068bad61492730bf870798833f1b3
+ms.sourcegitcommit: fd8217398475375ef1a403f9aac2bb615447eb74
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "40961654"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41721818"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Windows インストーラー (MSI) を使用しているバージョンの Office の最新のセキュリティ以外の更新プログラム
 
@@ -26,6 +26,12 @@ ms.locfileid: "40961654"
 > - この記事の情報は、Office の Office 365 バージョン (Office 365 ProPlus など) には適用されません。
 > - Office の更新プログラムをインストールする手順については、「[Office の更新プログラムをインストールする](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)」を参照してください。
 <br/><br/>
+
+## <a name="february-4-2020"></a>2020 年 2 月 4 日
+
+**Office 2016**<br/>
+Microsoft Project 2016 の更新プログラム ([KB4484253](https://support.microsoft.com/help/4484253)) <br/>
+Microsoft Word 2016 の更新プログラム ([KB4484249](https://support.microsoft.com/help/4484249)) <br/>
 
 ## <a name="january-7-2020"></a>2020 年 1 月 7 日
 
