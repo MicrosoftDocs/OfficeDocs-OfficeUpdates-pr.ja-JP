@@ -3,19 +3,19 @@ title: Windows インストーラー (MSI) を使用しているバージョン�
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 2/05/2020
+ms.date: 2/04/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 永続的なバージョンの Office 2016、Office 2013、Office 2010 の最新のセキュリティ以外の更新プログラム情報へのリンクを IT 技術者に提供します
-ms.openlocfilehash: a52a84cbd9a068bad61492730bf870798833f1b3
-ms.sourcegitcommit: fd8217398475375ef1a403f9aac2bb615447eb74
+ms.openlocfilehash: cfc8e4e89f2a3cfb4ec9ae23de4588b7a356bbf0
+ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41721818"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "41978655"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Windows インストーラー (MSI) を使用しているバージョンの Office の最新のセキュリティ以外の更新プログラム
 
