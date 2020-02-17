@@ -3,19 +3,18 @@ title: Microsoft AutoUpdate (MAU) のリリース履歴
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 1/15/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT プロフェッショナルに、Microsoft AutoUpdate (MAU) のリリース履歴を提供します
-ms.openlocfilehash: 9d81237da3cb66bbfe2242e270ca416e709ec30e
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: ea4c4a71c501be72e744e53b9ac3681a9ef9e5bc
+ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122286"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "41978725"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) のリリース履歴
  
@@ -30,6 +29,26 @@ ms.locfileid: "41122286"
 > - Microsoft AutoUpdate は、Microsoft のさまざまな Mac 製品への更新プログラムを提供します。そのため、Office for Mac を実行していない場合でも、Microsoft AutoUpdate を更新する通知が表示される場合があります。
 
 リリース ノートを確認するには、「[リリース ノート](release-notes-office-for-mac.md)」を参照してください。<br/><br/>
+
+## <a name="february-2020-release"></a>2020 年 2 月リリース
+
+**リリース日:** 2020 年 2 月 11 日
+
+*Microsoft Auto Update 4.20*
+
+ **機能の更新プログラム:**
+
+- デバイス上の少なくとも 1 つのアプリが MAU に登録されている場合にのみ、Microsoft AutoUpdate UI が起動します
+- バグの修正と強化された機能
+
+
+**MAU のリンクの更新:**
+
+[Microsoft Auto Update 4.20 パッケージをダウンロードする](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 ハッシュ:**
+
+397EAABFC230E801C571917BEED548A988C716F121077ED43669FF012FE9D7CE<br/><br/>
 
 ## <a name="january-2020-release"></a>2020 年 1 月リリース
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2020 年の半期チャネル (対象指定) リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 25595916d7983ef15a57e14280b98e87d4a547e4
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: 64270156e5985b3214a0e75c56f4bdb1713125fa
+ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122326"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "41978715"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2020"></a>2020 年の半期チャネル (対象指定) リリースのリリース ノート
 
@@ -24,6 +24,74 @@ ms.locfileid: "41122326"
 >
 > - 多くの場合、機能 (場合によっては修正プログラムも) は、特定の期間にわたって半期チャネル (対象指定) にロールアウトされます。 ここで説明される内容がすぐに確認できなくても、間もなく利用できるようになります。 [詳細情報](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - Microsoft Teams は、バージョン 1902 以降の半期チャネル (対象指定) の新規インストールに含まれています。 Teams は、バージョン 1908以降に更新されると、半期チャネル (対象指定) の既存のインストールに追加されます。 詳細については、「[Office 365 ProPlus で Microsoft Teams を展開する](https://docs.microsoft.com/deployoffice/teams-install)」をご覧ください。
+
+## <a name="version-1908-february-11"></a>バージョン 1908: 2 月 11 日
+*バージョン 1908 (ビルド 11929.20606)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- この更新プログラムは、VBA を使用してグラフのヘッダー/フッターに画像を追加するたびにエラーが発生する問題を修正します。
+
+- グループ ボックス コントロールの境界線が印刷プレビューまたは印刷時に表示されない問題を修正しました。
+
+- 英語以外の文字セットを使用している場合に、ユーザーが変更を保存する際にエラーが発生する場合があります。
+
+- グラフを含むブックを保存すると、グラフ ヘッダーの画像のファイル サイズが大きくなる問題を修正しました。
+
+
+- 選択範囲を相互参照ブックと同期させ続けることにより、相互参照ブックの DBCS 文字が破損する問題を修正しました。
+
+- 自動調整を使用して行の高さを調整するときにチェック ボックスのコントロールが縮小される可能性があるという問題を解決しました。
+
+
+### <a name="outlook"></a>Outlook
+
+- 無効な差出人アドレスを指定するとクラッシュが発生する問題に対処しました。
+
+- 競合メッセージの処理中にユーザーに同期エラーが発生する問題に対処しました。
+
+- Outlook の起動時にユーザーが [プロファイルの読み込み中] 画面でハングアップする問題に対処しました。
+
+- ビューを変更すると、断続的なクラッシュが発生する問題を解決しました。
+
+
+- Citrix 環境で 30 件を超える予定表を表示したときにクラッシュする原因となった問題に対処しました。 [こちら](https://support.microsoft.com/ja-JP/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)は、以前のバージョンで文書化された個々の KB です。
+
+- ユーザーが OST と同期している共有予定表フォルダーに問題があり、これらのフォルダーを操作しようとするとアクセス許可エラーが発生する問題に対処しました。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- PowerPoint スライドでのコピーと貼り付けのシナリオである図形のコピーを改善しました。ループ内の他のスライドに貼り付けると例外で失敗する場合があります。
+
+
+- 共同作業ユーザー間のパフォーマンスが低下する問題を修正しました。
+
+- 増分で開くファイルに、複数のメディア ストリームが埋め込まれたスライドが含まれている場合に発生する可能性がある問題を修正しました。
+
+- PowerPoint の初回起動時に、信頼されていないアドインに対してセキュリティ警告メッセージ バーが表示されない問題を修正しました。
+
+### <a name="project"></a>Project
+
+- 基本カレンダーが変更されたときにリソース カレンダーが更新されないために、実際の作業がタイムシートとプロジェクト計画の間で異なる場合があるという問題を修正しました。
+
+### <a name="word"></a>Word
+
+- 非推奨の API から移動することにより、Word でクラッシュが発生する問題を修正しました。
+
+### <a name="office-suite"></a>Office スイート
+
+- この変更は、破損したファイルを開いた後の画像の正しいレンダリングに対処します。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-1908-january-14"></a>バージョン 1908: 1 月 14 日
 *バージョン 1908 (ビルド 11929.20562)*

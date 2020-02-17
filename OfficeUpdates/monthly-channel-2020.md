@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2020 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 93e55fb553593c96d3a15bdf3b4000895e00190b
-ms.sourcegitcommit: 5534ba17ff0437b4dc25213f364c714397911e6a
+ms.openlocfilehash: 35d4a8383dcfcb81a872901337cb5f36ed6166e6
+ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/01/2020
-ms.locfileid: "41650795"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "41978605"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>2020 年の毎月のチャネル リリースのリリース ノート
 
@@ -24,6 +24,47 @@ ms.locfileid: "41650795"
 >
 >- Microsoft では多くの場合、一定期間にわたって毎月、機能 (および場合によっては修正プログラム) を展開します。  ここで説明した内容がすぐに表示されない場合は、間もなく利用できるようになります。 [詳細情報](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- Microsoft Teams の Office 365 ProPlus の既存のインストールについて: 7月の上旬から、Office 365 ProPlus (および Office 365 Business) の更新に Microsoft Teams が含まれます。  Teams が追加される日付は、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/deployoffice/teams-install)」を参照してください。
+
+## <a name="version-2001-february-11"></a>バージョン 2001: 2 月 11 日
+*バージョン 2001 (ビルド 12430.20264)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="access"></a>Access
+
+- Access テンプレートは、データベース内の添付ファイル列のエラーを発生させることがなくなりました。 テンプレートのインスタンス化後に、データベースに添付ファイル フィールドを追加できるようになりました。
+
+### <a name="excel"></a>Excel
+
+- コンテキスト メニューのコメント コマンドが表示されない問題を修正しました。
+
+- スピル配列が含まれるセルで区切り位置を指定するとクラッシュが発生することがある問題を修正しました。
+
+
+### <a name="outlook"></a>Outlook
+
+- 無効な差出人アドレスを指定するとクラッシュが発生する問題に対処しました。
+
+
+- ユーザーがアカウントのセットアップをキャンセルするときにクラッシュする問題に対処しました。
+
+
+### <a name="project"></a>Project
+
+- 作業時間固定タイプの達成率 100% のタスクで、達成率が誤って 100% 未満に計算される問題を修正しました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- この変更では、Intel Integrated GPU を使用するグラフィック アダプターに関して報告された問題に対処します。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2001-january-30"></a>バージョン 2001: 1 月 30 日
 *バージョン 2001 (ビルド 12430.20184)*
