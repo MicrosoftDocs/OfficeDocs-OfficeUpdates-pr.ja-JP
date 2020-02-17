@@ -3,19 +3,18 @@ title: Windows インストーラー (MSI) を使用しているバージョン�
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 1/15/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 永続的なバージョンの Office 2016、Office 2013、Office 2010 の最新の更新プログラムの情報へのリンクを IT 技術者に提供します
-ms.openlocfilehash: bf2b5dcb6399f5f3ec9dc5753275d490e2d958a7
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: 43524d948ef4520ae8e378b70dc0fc5f55ceb853
+ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122246"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "41978695"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Windows インストーラー (MSI) を使用しているバージョンの Office の最新の更新プログラム
 
@@ -32,23 +31,25 @@ ms.locfileid: "41122246"
 
 |**バージョンと製品**|**最新の Service Pack (SP)**|**最新のパブリック更新プログラム (PU)**|
 |:-----|:-----|:-----|
-|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |該当なし  <br/> |2020 年 1 月 PU   <br/> [KB4536554](https://support.microsoft.com/help/4536554) <br/> |
+|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |該当せず  <br/> |2020 年 2 月 PU  <br/> [KB4538704](https://support.microsoft.com/help/4538704) <br/> |
    
 ## <a name="office-2013-updates"></a>Office 2013 の更新プログラム
 
 |**バージョンと製品**|**最新の Service Pack (SP)**|**最新のパブリック更新プログラム (PU)**|
 |:-----|:-----|:-----|:-----|
-|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |2020 年 1 月 PU   <br/> [KB4536554](https://support.microsoft.com/help/4536554) <br/> |
+|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |2020 年 2 月 PU  <br/> [KB4538704](https://support.microsoft.com/help/4538704) <br/> |
    
 ## <a name="office-2010-updates"></a>Office 2010 の更新プログラム
 
 |**バージョンと製品**|**最新の Service Pack (SP)**|**最新のパブリック更新プログラム (PU)**|
 |:-----|:-----|:-----|:-----|
-|**2010** <br/> Office 2010 スイート  <br/> Project 2010  <br/> Visio 2010  <br/> Office 2010 サーバー  <br/> Office Web Apps  <br/> Search Server 2010  <br/> SharePoint 2010 製品  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |2020 年 1 月 PU   <br/> [KB4536554](https://support.microsoft.com/help/4536554) <br/>|
+|**2010** <br/> Office 2010 スイート  <br/> Project 2010  <br/> Visio 2010  <br/> Office 2010 サーバー  <br/> Office Web Apps  <br/> Search Server 2010  <br/> SharePoint 2010 製品  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |2020 年 2 月 PU  <br/> [KB4538704](https://support.microsoft.com/help/4538704) <br/>|
    
 
    
 ## <a name="updates-released-in-past-12-months"></a>過去 12 か月にリリースされた更新プログラム
+
+[2020 年 2 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB4538704](https://support.microsoft.com/help/4538704)
 
 [2020 年 1 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB4536554](https://support.microsoft.com/help/4536554)
 
@@ -72,7 +73,7 @@ ms.locfileid: "41122246"
 
 [2019 年 3 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB4491754](https://support.microsoft.com/help/4491754) 
 
-[2019 年 2 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB4488446](https://support.microsoft.com/help/4488446)
+
 
 
 
