@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 37292929bc5d1301d662a8ced97c7cabc6d273de
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: 34ca75e8083c2386a7b779975b01579fda80d11b
+ms.sourcegitcommit: 220736aa7c6bf7466beba7f3291f068546c3c77e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978705"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "42228379"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 月次チャネルのリリース ノート (対象指定)
 
@@ -30,10 +30,61 @@ ms.locfileid: "41978705"
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
 
+## <a name="version-2002-february-21"></a>バージョン 2002: 2 月 21 日
+*バージョン 2002 (ビルド 12527.20174)*
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="access"></a>Access
+
+- **クエリ デザイナー、SQL ビュー、およびリレーションシップ ウィンドウでの作業効率の向上:** テーブルを右クリックして、テーブルを開き、デザインし、サイズを変更し、非表示にします。 SQL ビューでテキストを検索および置換します。 リレーションシップ ウィンドウ内の複数のテーブルを選択します。
+
+### <a name="outlook"></a>Outlook
+
+- **キャプティブ WiFi ネットワークの新しいエクスペリエンス**: サインインに Web ページを必要とする WiFi ネットワークに参加したことはありませんか ? Outlook はこれを検出し、接続を支援します。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- <div style="box-sizing:border-box;">CUBEVALUE 関数が間違った結果を返すことがある問題が修正されました。&nbsp;</div><div><span style="display:inline !important;"></span><br></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div>会議の [場所] フィールドにあるコンマがセミコロンになる問題に対処しました。</div>
+
+
+- <div>複数のウィンドウで同じアイテムを表示するとクラッシュする場合がある問題に対処しました。</div>
+
+
+- <div>同期のスライダーが小さい設定に設定されている場合でも、Outlook で予期せずすべてのメールが同期される問題に対処しました。&nbsp;</div>
+
+
+- <div>黒のテーマを持つユーザーが [&quot;差出人&quot;] ドロップダウンを表示すると、白色の背景に白いテキストが表示される問題に対処しました。</div>
+
+
+- <div><span style="display:inline !important;">この変更により、メッセージ ヘッダーに複数行の件名を表示できる機能が復元されます。</span><br></div>
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2002-february-18"></a>バージョン 2002: 2 月 18 日
+*バージョン 2002 (ビルド 12527.20138)*
+
 ## <a name="version-2002-february-11"></a>バージョン 2002: 2 月 11 日
 *バージョン 2002 (ビルド 12527.20092)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
