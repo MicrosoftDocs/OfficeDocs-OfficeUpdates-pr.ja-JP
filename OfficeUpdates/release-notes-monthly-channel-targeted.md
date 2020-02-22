@@ -9,20 +9,20 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 37292929bc5d1301d662a8ced97c7cabc6d273de
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: 34ca75e8083c2386a7b779975b01579fda80d11b
+ms.sourcegitcommit: 220736aa7c6bf7466beba7f3291f068546c3c77e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978705"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "42228379"
 ---
-# <a name="release-notes-for-office-monthly-channel-targeted"></a><span data-ttu-id="e1627-103">Office 月次チャネルのリリース ノート (対象指定)</span><span class="sxs-lookup"><span data-stu-id="e1627-103">Release Notes for Office Monthly Channel (Targeted)</span></span>
+# <a name="release-notes-for-office-monthly-channel-targeted"></a><span data-ttu-id="d3ab9-103">Office 月次チャネルのリリース ノート (対象指定)</span><span class="sxs-lookup"><span data-stu-id="d3ab9-103">Release Notes for Office Monthly Channel (Targeted)</span></span>
 
-<span data-ttu-id="e1627-104">この記事には、Windows デスクトップ向け Word、Excel、PowerPoint、Outlook、Access、Project の月次チャネル (対象指定) ビルドのリリース ノートが含まれています。</span><span class="sxs-lookup"><span data-stu-id="e1627-104">This article contains release notes for Monthly Channel (Targeted) builds of Word, Excel, PowerPoint, Outlook, Access, and Project for Windows desktop.</span></span> <span data-ttu-id="e1627-105">Microsoft では、毎週、皆様にお知らせしたい魅力的な新機能、重要な修正プログラム、重大な問題に関する情報を提供しています。</span><span class="sxs-lookup"><span data-stu-id="e1627-105">Every week, we’ll highlight interesting new features, important fixes, and any significant issues we want you to know about.</span></span> <span data-ttu-id="e1627-106">多くの場合、機能 (場合によっては修正プログラムも) は、特定の期間にわたって月次チャネル (対象指定) に展開されることに注意してください。</span><span class="sxs-lookup"><span data-stu-id="e1627-106">Note that we often roll out features (and sometimes even fixes) to Monthly Channel (Targeted) over a period of time.</span></span> <span data-ttu-id="e1627-107">これにより、Microsoft では、より広範な対象ユーザーに機能をリリースする前に、作業がスムーズに行われていることを確認できます。</span><span class="sxs-lookup"><span data-stu-id="e1627-107">This allows us to ensure that things are working smoothly before releasing the feature to a wider audience.</span></span> <span data-ttu-id="e1627-108">したがって、下記のものが表示されない場合でも、心配する必要はなく、いずれは表示されます。</span><span class="sxs-lookup"><span data-stu-id="e1627-108">So, if you don’t see something described below, don't worry you'll get it eventually.</span></span>  
+<span data-ttu-id="d3ab9-104">この記事には、Windows デスクトップ向け Word、Excel、PowerPoint、Outlook、Access、Project の月次チャネル (対象指定) ビルドのリリース ノートが含まれています。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-104">This article contains release notes for Monthly Channel (Targeted) builds of Word, Excel, PowerPoint, Outlook, Access, and Project for Windows desktop.</span></span> <span data-ttu-id="d3ab9-105">Microsoft では、毎週、皆様にお知らせしたい魅力的な新機能、重要な修正プログラム、重大な問題に関する情報を提供しています。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-105">Every week, we’ll highlight interesting new features, important fixes, and any significant issues we want you to know about.</span></span> <span data-ttu-id="d3ab9-106">多くの場合、機能 (場合によっては修正プログラムも) は、特定の期間にわたって月次チャネル (対象指定) に展開されることに注意してください。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-106">Note that we often roll out features (and sometimes even fixes) to Monthly Channel (Targeted) over a period of time.</span></span> <span data-ttu-id="d3ab9-107">これにより、Microsoft では、より広範な対象ユーザーに機能をリリースする前に、作業がスムーズに行われていることを確認できます。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-107">This allows us to ensure that things are working smoothly before releasing the feature to a wider audience.</span></span> <span data-ttu-id="d3ab9-108">したがって、下記のものが表示されない場合でも、心配する必要はなく、いずれは表示されます。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-108">So, if you don’t see something described below, don't worry you'll get it eventually.</span></span>  
 
 > [!NOTE]
-> - <span data-ttu-id="e1627-109">リリースノートの発行日は実際のビルドのリリース日と一致しない場合があります。</span><span class="sxs-lookup"><span data-stu-id="e1627-109">The release notes publication date may not match the actual build release date.</span></span>
-> - <span data-ttu-id="e1627-110">Microsoft Teams に関連する既存の Office 365 ProPlus のインストール - 6 月の下旬から、これらの更新プログラムのインストール時に、Microsoft Teams が既存の Office 365 ProPlus (Office 365 Business) のインストールの中に含められます。</span><span class="sxs-lookup"><span data-stu-id="e1627-110">Microsoft Teams on existing installations of Office 365 ProPlus - Beginning in late June, Microsoft Teams will be included in existing installations of Office 365 ProPlus (and Office 365 Business) upon updates of these installations.</span></span> <span data-ttu-id="e1627-111">Teams が追加される日にちは、使用している更新プログラム チャネルによって異なります。</span><span class="sxs-lookup"><span data-stu-id="e1627-111">The date when Teams will be added depends on which update channel you're using.</span></span> <span data-ttu-id="e1627-112">追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/deployoffice/teams-install)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="e1627-112">Please refer to [Deploy Microsoft Teams with Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install) for additional information.</span></span>
+> - <span data-ttu-id="d3ab9-109">リリースノートの発行日は実際のビルドのリリース日と一致しない場合があります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-109">The release notes publication date may not match the actual build release date.</span></span>
+> - <span data-ttu-id="d3ab9-110">Microsoft Teams に関連する既存の Office 365 ProPlus のインストール - 6 月の下旬から、これらの更新プログラムのインストール時に、Microsoft Teams が既存の Office 365 ProPlus (Office 365 Business) のインストールの中に含められます。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-110">Microsoft Teams on existing installations of Office 365 ProPlus - Beginning in late June, Microsoft Teams will be included in existing installations of Office 365 ProPlus (and Office 365 Business) upon updates of these installations.</span></span> <span data-ttu-id="d3ab9-111">Teams が追加される日にちは、使用している更新プログラム チャネルによって異なります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-111">The date when Teams will be added depends on which update channel you're using.</span></span> <span data-ttu-id="d3ab9-112">追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/deployoffice/teams-install)」を参照してください。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-112">Please refer to [Deploy Microsoft Teams with Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install) for additional information.</span></span>
 
 [//]: # (削除しないでください)
 
@@ -30,26 +30,20 @@ ms.locfileid: "41978705"
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2002-february-11"></a><span data-ttu-id="e1627-116">バージョン 2002: 2 月 11 日</span><span class="sxs-lookup"><span data-stu-id="e1627-116">Version 2002: February 11</span></span>
-<span data-ttu-id="e1627-117">*バージョン 2002 (ビルド 12527.20092)*</span><span class="sxs-lookup"><span data-stu-id="e1627-117">*Version 2002 (Build 12527.20092)*</span></span>
-
-<span data-ttu-id="e1627-118">セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)</span><span class="sxs-lookup"><span data-stu-id="e1627-118">Security updates listed [here](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)</span></span>
+## <a name="version-2002-february-21"></a><span data-ttu-id="d3ab9-116">バージョン 2002: 2 月 21 日</span><span class="sxs-lookup"><span data-stu-id="d3ab9-116">Version 2002: February 21</span></span>
+<span data-ttu-id="d3ab9-117">*バージョン 2002 (ビルド 12527.20174)*</span><span class="sxs-lookup"><span data-stu-id="d3ab9-117">*Version 2002 (Build 12527.20174)*</span></span>
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="feature-updates"></a><span data-ttu-id="e1627-120">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="e1627-120">Feature updates</span></span>
-### <a name="outlook"></a><span data-ttu-id="e1627-121">Outlook</span><span class="sxs-lookup"><span data-stu-id="e1627-121">Outlook</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="d3ab9-119">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="d3ab9-119">Feature updates</span></span>
+### <a name="access"></a><span data-ttu-id="d3ab9-120">Access</span><span class="sxs-lookup"><span data-stu-id="d3ab9-120">Access</span></span>
 
-- <span data-ttu-id="e1627-122">**所有しているグループにメールをドラッグ:** メッセージや会話を受信トレイからドラッグして移動し、コピーします。</span><span class="sxs-lookup"><span data-stu-id="e1627-122">**Drag email to a group you own:** Move and copy messages and conversations by dragging them from your inbox.</span></span> <span data-ttu-id="e1627-123">ドラッグしたメッセージは、すべてのグループ メンバーと共有されます。</span><span class="sxs-lookup"><span data-stu-id="e1627-123">Messages you drag will be shared with all group members.</span></span>
+- <span data-ttu-id="d3ab9-121">**クエリ デザイナー、SQL ビュー、およびリレーションシップ ウィンドウでの作業効率の向上:** テーブルを右クリックして、テーブルを開き、デザインし、サイズを変更し、非表示にします。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-121">**Be more productive working in Query Designer, SQL view, and the Relationships window:** Right-click a table to open, design, size, and hide it.</span></span> <span data-ttu-id="d3ab9-122">SQL ビューでテキストを検索および置換します。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-122">Search and replace text in SQL View.</span></span> <span data-ttu-id="d3ab9-123">リレーションシップ ウィンドウ内の複数のテーブルを選択します。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-123">Select multiple tables in the Relationships window.</span></span>
 
-### <a name="word"></a><span data-ttu-id="e1627-124">Word</span><span class="sxs-lookup"><span data-stu-id="e1627-124">Word</span></span>
+### <a name="outlook"></a><span data-ttu-id="d3ab9-124">Outlook</span><span class="sxs-lookup"><span data-stu-id="d3ab9-124">Outlook</span></span>
 
-- <span data-ttu-id="e1627-125">**他のユーザーがすばやく変更を確認する:** 共同編集の改善とは、これまでになく迅速に、共同作業者がユーザーによる変更を確認できることを意味します。</span><span class="sxs-lookup"><span data-stu-id="e1627-125">**Others see your changes quickly:** Co-authoring improvements mean your collaborators can see your changes faster than ever before.</span></span>
-
-### <a name="office-suite"></a><span data-ttu-id="e1627-126">Office スイート</span><span class="sxs-lookup"><span data-stu-id="e1627-126">Office Suite</span></span>
-
-- <span data-ttu-id="e1627-127">**明瞭になったステータス バー アイコン:** ステータス バーのアイコンが見やすくなりました。</span><span class="sxs-lookup"><span data-stu-id="e1627-127">**Clearer status bar icons:** Status bar icons are now easier to see.</span></span>
+- <span data-ttu-id="d3ab9-125">**キャプティブ WiFi ネットワークの新しいエクスペリエンス**: サインインに Web ページを必要とする WiFi ネットワークに参加したことはありませんか ?</span><span class="sxs-lookup"><span data-stu-id="d3ab9-125">**New experience for captive wifi networks:** Have you ever joined a wifi network that required a web page to sign in with?</span></span> <span data-ttu-id="d3ab9-126">Outlook はこれを検出し、接続を支援します。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-126">Outlook now detects this and helps you get connected.</span></span>
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -58,112 +52,55 @@ ms.locfileid: "41978705"
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="e1627-130">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="e1627-130">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="e1627-131">Access</span><span class="sxs-lookup"><span data-stu-id="e1627-131">Access</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="d3ab9-129">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="d3ab9-129">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="d3ab9-130">Excel</span><span class="sxs-lookup"><span data-stu-id="d3ab9-130">Excel</span></span>
 
-- <span data-ttu-id="e1627-132">Access テンプレートは、データベース内の添付ファイル列のエラーを発生させることがなくなりました。</span><span class="sxs-lookup"><span data-stu-id="e1627-132">Access templates should no longer cause attachment columns to fail within a database.</span></span> <span data-ttu-id="e1627-133">テンプレートのインスタンス化後に、データベースに添付ファイル フィールドを追加できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="e1627-133">After instantiating a template, you should now be able to add an attachment field to your database.</span></span>
-
-- <span data-ttu-id="e1627-134">この更新プログラムでは、ADODB を使用する問題を修正します。</span><span class="sxs-lookup"><span data-stu-id="e1627-134">This update fixes an issue where using an ADODB.</span></span> <span data-ttu-id="e1627-135">VB コードのれコーター オブジェクトがエラーを誤って報告することがあります。</span><span class="sxs-lookup"><span data-stu-id="e1627-135">Recorder object in VB code may incorrectly report an error.</span></span>
-
-- <span data-ttu-id="e1627-136">この更新プログラムでは、Microsoft Access がリンクされた SQL Server テーブル内の ID 列を識別できない原因となり、行が削除されたと誤って報告される原因となる問題が修正されます。</span><span class="sxs-lookup"><span data-stu-id="e1627-136">This update fixes an issue that can cause Microsoft Access to fail to identify an Identity Column in a linked SQL Server table, which can cause rows to be reported as deleted incorrectly.</span></span>
+- <div style="box-sizing:border-box;"><span data-ttu-id="d3ab9-131">CUBEVALUE 関数が間違った結果を返すことがある問題が修正されました。&nbsp;</span><span class="sxs-lookup"><span data-stu-id="d3ab9-131">Fixed an issue where CUBEVALUE functions would sometimes return an incorrect result.&nbsp;</span></span></div><div><span style="display:inline !important;"></span><br></div>
 
 
-### <a name="excel"></a><span data-ttu-id="e1627-137">Excel</span><span class="sxs-lookup"><span data-stu-id="e1627-137">Excel</span></span>
+### <a name="outlook"></a><span data-ttu-id="d3ab9-132">Outlook</span><span class="sxs-lookup"><span data-stu-id="d3ab9-132">Outlook</span></span>
 
-- <span data-ttu-id="e1627-138">コンテキスト メニューのコメント コマンドが表示されない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="e1627-138">Fixed an issue where comment commands in the context menu were not being displayed.</span></span>
-
-
-- <span data-ttu-id="e1627-139">はみ出している列挙が含まれるセルで区切り位置を指定するとクラッシュが発生することがある問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="e1627-139">Fixed an issue that caused some users to experience crashes when converting text to columns with cells that have a spilling array.</span></span>
+- <div><span data-ttu-id="d3ab9-133">会議の [場所] フィールドにあるコンマがセミコロンになる問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-133">Addresses an issue that caused commas in the location field of a meeting to turn into semicolons.</span></span></div>
 
 
-- <span data-ttu-id="e1627-140">動的配列で [区切り位置] を使用すると Excel がクラッシュする問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="e1627-140">Fixed an issue where Excel would crash when using Text To Columns with dynamic arrays.</span></span>
-
-### <a name="outlook"></a><span data-ttu-id="e1627-141">Outlook</span><span class="sxs-lookup"><span data-stu-id="e1627-141">Outlook</span></span>
-
-- <span data-ttu-id="e1627-142">月ビューで予定表をスクロールしても以前の予定表のイベントが表示されない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="e1627-142">Fixed an issue where scrolling in calendar with month view, fails to show previous calendar events.</span></span>
-
-- <span data-ttu-id="e1627-143">左側のナビゲーション ウィンドウで [お気に入り] に保存したフォルダーが断続的に表示されないことがあります。</span><span class="sxs-lookup"><span data-stu-id="e1627-143">Folders saved in 'Favorites' in the left navigation pane may intermittently disappear.</span></span>
+- <div><span data-ttu-id="d3ab9-134">複数のウィンドウで同じアイテムを表示するとクラッシュする場合がある問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-134">Addresses an issue that could result in a crash when viewing the same item in multiple windows.</span></span></div>
 
 
-- <span data-ttu-id="e1627-144">無効な差出人アドレスを指定するとクラッシュが発生する問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="e1627-144">Addressed an issue that caused users to experience a crash when specifying an invalid From address.</span></span>
+- <div><span data-ttu-id="d3ab9-135">同期のスライダーが小さい設定に設定されている場合でも、Outlook で予期せずすべてのメールが同期される問題に対処しました。&nbsp;</span><span class="sxs-lookup"><span data-stu-id="d3ab9-135">Addresses an issue that caused Outlook to unexpectedly sync all mail even when the sync slider is set to a smaller setting.&nbsp;</span></span></div>
 
 
-- <span data-ttu-id="e1627-145">フラグ付きアイテムの強調表示を無効にするオプションが一部のシナリオで無視される問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="e1627-145">Addressed an issue that caused the option to disable flagged item highlighting to fail to be respected in some scenarios.</span></span>
-
-- <span data-ttu-id="e1627-146">ユーザーがアカウントのセットアップをキャンセルするときにクラッシュする問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="e1627-146">Addressed an issue that caused users to experience a crash when canceling account setup.</span></span>
+- <div><span data-ttu-id="d3ab9-136">黒のテーマを持つユーザーが [&quot;差出人&quot;] ドロップダウンを表示すると、白色の背景に白いテキストが表示される問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-136">Addresses an issue that caused users with Black Theme to see the &quot;From&quot; dropdown show white text on a white background.</span></span></div>
 
 
-- <span data-ttu-id="e1627-147">アイテム保持ポリシーに基づいて期限切れになるメールに 2 つのラベルが表示される問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="e1627-147">Fixed an issue where emails expiring based on a retention policy would display two labels.</span></span> <span data-ttu-id="e1627-148">メールが 1 日で期限切れになることを示すものと、2 日で期限切れになることを示すものです。</span><span class="sxs-lookup"><span data-stu-id="e1627-148">One showing that the mail will expire in one day and another displaying that it will expire in two days.</span></span>
-
-
-- <span data-ttu-id="e1627-149">Citrix 環境で 30 件を超える予定表を表示したときにクラッシュする原因となった問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="e1627-149">Addressed an issue that caused users to experience a crash when viewing more than 30 calendars in a Citrix environment.</span></span>
-
-
-### <a name="powerpoint"></a><span data-ttu-id="e1627-150">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="e1627-150">PowerPoint</span></span>
-
-- <span data-ttu-id="e1627-151">インクが PowerPoint のインク アニメーションで使用すると完全にレンダリングされない、またはスキップされることがある問題を修正します。</span><span class="sxs-lookup"><span data-stu-id="e1627-151">Fixed an issue where Ink may not render completely or get skipped when used in a PowerPoint ink animations.</span></span>
-
-- <span data-ttu-id="e1627-152">ファイルを閉じた後、実行中のイベント ハンドラーがある場合、PowerPoint がファイルを Presentations コレクションからすぐに削除しないという問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="e1627-152">Fixed an issue where After closing a file, PowerPoint does not immediately remove it from the Presentations collection if there are any event handlers running.</span></span> <span data-ttu-id="e1627-153">したがって、オブジェクト モデルによって報告される開いているプレゼンテーションの数は正しくなく、PowerPoint のシャットダウンは防止されます。</span><span class="sxs-lookup"><span data-stu-id="e1627-153">Hence the number of open presentations reported by the object model is incorrect, and shutdown of PowerPoint is prevented.</span></span>
-
-
-- <span data-ttu-id="e1627-154">蛍光ペンの問題を修正しました。暗い蛍光ペン色の白いテキストはグレースケールで黒として印刷されます。</span><span class="sxs-lookup"><span data-stu-id="e1627-154">Fixed an issue with highlighter : White texts with dark highlighter colors are printed as black in Grayscale.</span></span>
-
-
-### <a name="project"></a><span data-ttu-id="e1627-155">Project</span><span class="sxs-lookup"><span data-stu-id="e1627-155">Project</span></span>
-
-- <span data-ttu-id="e1627-156">作業時間固定タイプの達成率 100% のタスクで、達成率が誤って 100% 未満に計算される問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="e1627-156">Fixed an issue where 100% tasks of type fixed duration may wrongly have their % complete calculated at less than 100% complete.</span></span>
-
-
-### <a name="word"></a><span data-ttu-id="e1627-157">Word</span><span class="sxs-lookup"><span data-stu-id="e1627-157">Word</span></span>
-
-- <span data-ttu-id="e1627-158">目次を更新してスクロールすると、ドキュメント上に灰色の領域が表示される場合があります。</span><span class="sxs-lookup"><span data-stu-id="e1627-158">Updating and scrolling through a table of contents may sometimes display a gray area over the document.</span></span>
-
-
-- <span data-ttu-id="e1627-159">コメントが書き込まれたが投稿されず、ユーザーがファイルを保存しようとした場合、「参照」を使用してファイルを保存できない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="e1627-159">Fixed an issue where using 'Browse' to save a file did not work if a comment was written but not posted and the user tried to save the file.</span></span>
-
-
-- <span data-ttu-id="e1627-160">コメント カード間を行き来すると、最初に選択されたコメントが選択の強調表示で表示されることがある問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="e1627-160">Fixed an issue where going back and forth between comment cards would sometimes display the initially selected comment with a selection highlight.</span></span>
-
-
-- <span data-ttu-id="e1627-161">コメントを編集し、テキストをイタリック体にし、それを投稿すると、その後にイタリック体の書式設定が失われる問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="e1627-161">Fixed an issue where italics formatting is lost after editing a comment, italicizing the text and then posting it.</span></span>
-
-
-- <span data-ttu-id="e1627-162">反転したページ色を使用する読み取りモードでコメントのヒントが表示されない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="e1627-162">Fixed an issue where comment hint was not visible in read mode with Inverse page color.</span></span>
-
-
-- <span data-ttu-id="e1627-163">ドキュメントが共同編集されている場合、ルート コメントの下書き版が保持されない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="e1627-163">Fixed an issue where if a document is being coauthored, the draft version of a root comment may not be preserved.</span></span>
-
-
-- <span data-ttu-id="e1627-164">SlideTrack を有効にしてコメント ウィンドウを閉じると、Ctrl + Alt + M でコメント ウィンドウが開かない場合があります。</span><span class="sxs-lookup"><span data-stu-id="e1627-164">With SlideTrack enabled and the comments pane closed, Ctrl+Alt+M may not open the comments pane.</span></span>
-
-
-- <span data-ttu-id="e1627-165">@メンションをテーブルに追加すると、「このドキュメントのテーブルが破損しました」というエラー メッセージが生成される場合がある問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="e1627-165">Fixed an issue when adding @mention in a table could generate the error message: 'A table in this document has become corrupted'.</span></span>
-
-
-- <span data-ttu-id="e1627-166">コメント コンテキスト メニューのコメント コマンド (コメントの編集、コメントへの返信、コメントの削除、コメントの解決) が表示されない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="e1627-166">Fixed an issue where comment commands (Edit comment, Reply to comment, Delete comment, Resolve comment) in the comments context menu were not being displayed.</span></span>
-
-
-### <a name="office-suite"></a><span data-ttu-id="e1627-167">Office スイート</span><span class="sxs-lookup"><span data-stu-id="e1627-167">Office Suite</span></span>
-
-- <span data-ttu-id="e1627-168">Norway Nynorsk (nn-no) 校正ツール パッケージが正しくインストールされなかった場合がある問題を解決します。</span><span class="sxs-lookup"><span data-stu-id="e1627-168">Resolves an issue that may have caused Norway Nynorsk (nn-no) proofing tools package to be installed incorrectly.</span></span>
-
-
-- <span data-ttu-id="e1627-169">この変更では、Intel Integrated GPU を使用するグラフィック アダプターに関して報告された問題に対処します。</span><span class="sxs-lookup"><span data-stu-id="e1627-169">This change addresses reported problems with graphics adaptors that leverage the Intel Integrated GPU.</span></span>
+- <div><span data-ttu-id="d3ab9-137"><span style="display:inline !important;">この変更により、メッセージ ヘッダーに複数行の件名を表示できる機能が復元されます。</span></span><span class="sxs-lookup"><span data-stu-id="d3ab9-137"><span style="display:inline !important;">This change restores the ability to view multi-line subjects in the message header.</span></span></span><br></div>
 
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2001-january-29"></a><span data-ttu-id="e1627-171">バージョン 2001: 1 月 29 日</span><span class="sxs-lookup"><span data-stu-id="e1627-171">Version 2001: January 29</span></span>
-<span data-ttu-id="e1627-172">*バージョン 2001 (ビルド 12430.20184)*</span><span class="sxs-lookup"><span data-stu-id="e1627-172">*Version 2001 (Build 12430.20184)*</span></span>
+## <a name="version-2002-february-18"></a><span data-ttu-id="d3ab9-139">バージョン 2002: 2 月 18 日</span><span class="sxs-lookup"><span data-stu-id="d3ab9-139">Version 2002: February 18</span></span>
+<span data-ttu-id="d3ab9-140">*バージョン 2002 (ビルド 12527.20138)*</span><span class="sxs-lookup"><span data-stu-id="d3ab9-140">*Version 2002 (Build 12527.20138)*</span></span>
+
+## <a name="version-2002-february-11"></a><span data-ttu-id="d3ab9-141">バージョン 2002: 2 月 11 日</span><span class="sxs-lookup"><span data-stu-id="d3ab9-141">Version 2002: February 11</span></span>
+<span data-ttu-id="d3ab9-142">*バージョン 2002 (ビルド 12527.20092)*</span><span class="sxs-lookup"><span data-stu-id="d3ab9-142">*Version 2002 (Build 12527.20092)*</span></span>
+
+<span data-ttu-id="d3ab9-143">セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)</span><span class="sxs-lookup"><span data-stu-id="d3ab9-143">Security updates listed [here](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)</span></span>
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="feature-updates"></a><span data-ttu-id="e1627-174">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="e1627-174">Feature updates</span></span>
-### <a name="word"></a><span data-ttu-id="e1627-175">Word</span><span class="sxs-lookup"><span data-stu-id="e1627-175">Word</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="d3ab9-145">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="d3ab9-145">Feature updates</span></span>
+### <a name="outlook"></a><span data-ttu-id="d3ab9-146">Outlook</span><span class="sxs-lookup"><span data-stu-id="d3ab9-146">Outlook</span></span>
 
-- <span data-ttu-id="e1627-176">**図形を画像として保存する:** 簡単なクリック操作で図形、アイコン、その他のオブジェクトを画像ファイルとして保存し、別の場所で再利用することができます。</span><span class="sxs-lookup"><span data-stu-id="e1627-176">**Save shapes as pictures:** In just a few clicks, save a shape, icon, or other object as a picture file so you can reuse it elsewhere.</span></span> [<span data-ttu-id="e1627-177">詳細情報</span><span class="sxs-lookup"><span data-stu-id="e1627-177">Learn more</span></span>](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- <span data-ttu-id="d3ab9-147">**所有しているグループにメールをドラッグ:** メッセージや会話を受信トレイからドラッグして移動し、コピーします。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-147">**Drag email to a group you own:** Move and copy messages and conversations by dragging them from your inbox.</span></span> <span data-ttu-id="d3ab9-148">ドラッグしたメッセージは、すべてのグループ メンバーと共有されます。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-148">Messages you drag will be shared with all group members.</span></span>
+
+### <a name="word"></a><span data-ttu-id="d3ab9-149">Word</span><span class="sxs-lookup"><span data-stu-id="d3ab9-149">Word</span></span>
+
+- <span data-ttu-id="d3ab9-150">**他のユーザーがすばやく変更を確認する:** 共同編集の改善とは、これまでになく迅速に、共同作業者がユーザーによる変更を確認できることを意味します。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-150">**Others see your changes quickly:** Co-authoring improvements mean your collaborators can see your changes faster than ever before.</span></span>
+
+### <a name="office-suite"></a><span data-ttu-id="d3ab9-151">Office スイート</span><span class="sxs-lookup"><span data-stu-id="d3ab9-151">Office Suite</span></span>
+
+- <span data-ttu-id="d3ab9-152">**明瞭になったステータス バー アイコン:** ステータス バーのアイコンが見やすくなりました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-152">**Clearer status bar icons:** Status bar icons are now easier to see.</span></span>
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -172,37 +109,112 @@ ms.locfileid: "41978705"
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="e1627-180">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="e1627-180">Resolved issues</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="d3ab9-155">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="d3ab9-155">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="d3ab9-156">Access</span><span class="sxs-lookup"><span data-stu-id="d3ab9-156">Access</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="e1627-181">Outlook</span><span class="sxs-lookup"><span data-stu-id="e1627-181">Outlook</span></span>
+- <span data-ttu-id="d3ab9-157">Access テンプレートは、データベース内の添付ファイル列のエラーを発生させることがなくなりました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-157">Access templates should no longer cause attachment columns to fail within a database.</span></span> <span data-ttu-id="d3ab9-158">テンプレートのインスタンス化後に、データベースに添付ファイル フィールドを追加できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-158">After instantiating a template, you should now be able to add an attachment field to your database.</span></span>
 
-- <span data-ttu-id="e1627-182">署名の名前を変更したときにクラッシュする原因となった問題に対処します。</span><span class="sxs-lookup"><span data-stu-id="e1627-182">Addresses an issue that caused users to experience crashes when renaming a signature.</span></span>
+- <span data-ttu-id="d3ab9-159">この更新プログラムでは、ADODB を使用する問題を修正します。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-159">This update fixes an issue where using an ADODB.</span></span> <span data-ttu-id="d3ab9-160">VB コードのれコーター オブジェクトがエラーを誤って報告することがあります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-160">Recorder object in VB code may incorrectly report an error.</span></span>
+
+- <span data-ttu-id="d3ab9-161">この更新プログラムでは、Microsoft Access がリンクされた SQL Server テーブル内の ID 列を識別できない原因となり、行が削除されたと誤って報告される原因となる問題が修正されます。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-161">This update fixes an issue that can cause Microsoft Access to fail to identify an Identity Column in a linked SQL Server table, which can cause rows to be reported as deleted incorrectly.</span></span>
+
+
+### <a name="excel"></a><span data-ttu-id="d3ab9-162">Excel</span><span class="sxs-lookup"><span data-stu-id="d3ab9-162">Excel</span></span>
+
+- <span data-ttu-id="d3ab9-163">コンテキスト メニューのコメント コマンドが表示されない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-163">Fixed an issue where comment commands in the context menu were not being displayed.</span></span>
+
+
+- <span data-ttu-id="d3ab9-164">はみ出している列挙が含まれるセルで区切り位置を指定するとクラッシュが発生することがある問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-164">Fixed an issue that caused some users to experience crashes when converting text to columns with cells that have a spilling array.</span></span>
+
+
+- <span data-ttu-id="d3ab9-165">動的配列で [区切り位置] を使用すると Excel がクラッシュする問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-165">Fixed an issue where Excel would crash when using Text To Columns with dynamic arrays.</span></span>
+
+### <a name="outlook"></a><span data-ttu-id="d3ab9-166">Outlook</span><span class="sxs-lookup"><span data-stu-id="d3ab9-166">Outlook</span></span>
+
+- <span data-ttu-id="d3ab9-167">月ビューで予定表をスクロールしても以前の予定表のイベントが表示されない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-167">Fixed an issue where scrolling in calendar with month view, fails to show previous calendar events.</span></span>
+
+- <span data-ttu-id="d3ab9-168">左側のナビゲーション ウィンドウで [お気に入り] に保存したフォルダーが断続的に表示されないことがあります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-168">Folders saved in 'Favorites' in the left navigation pane may intermittently disappear.</span></span>
+
+
+- <span data-ttu-id="d3ab9-169">無効な差出人アドレスを指定するとクラッシュが発生する問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-169">Addressed an issue that caused users to experience a crash when specifying an invalid From address.</span></span>
+
+
+- <span data-ttu-id="d3ab9-170">フラグ付きアイテムの強調表示を無効にするオプションが一部のシナリオで無視される問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-170">Addressed an issue that caused the option to disable flagged item highlighting to fail to be respected in some scenarios.</span></span>
+
+- <span data-ttu-id="d3ab9-171">ユーザーがアカウントのセットアップをキャンセルするときにクラッシュする問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-171">Addressed an issue that caused users to experience a crash when canceling account setup.</span></span>
+
+
+- <span data-ttu-id="d3ab9-172">アイテム保持ポリシーに基づいて期限切れになるメールに 2 つのラベルが表示される問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-172">Fixed an issue where emails expiring based on a retention policy would display two labels.</span></span> <span data-ttu-id="d3ab9-173">メールが 1 日で期限切れになることを示すものと、2 日で期限切れになることを示すものです。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-173">One showing that the mail will expire in one day and another displaying that it will expire in two days.</span></span>
+
+
+- <span data-ttu-id="d3ab9-174">Citrix 環境で 30 件を超える予定表を表示したときにクラッシュする原因となった問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-174">Addressed an issue that caused users to experience a crash when viewing more than 30 calendars in a Citrix environment.</span></span>
+
+
+### <a name="powerpoint"></a><span data-ttu-id="d3ab9-175">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="d3ab9-175">PowerPoint</span></span>
+
+- <span data-ttu-id="d3ab9-176">インクが PowerPoint のインク アニメーションで使用すると完全にレンダリングされない、またはスキップされることがある問題を修正します。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-176">Fixed an issue where Ink may not render completely or get skipped when used in a PowerPoint ink animations.</span></span>
+
+- <span data-ttu-id="d3ab9-177">ファイルを閉じた後、実行中のイベント ハンドラーがある場合、PowerPoint がファイルを Presentations コレクションからすぐに削除しないという問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-177">Fixed an issue where After closing a file, PowerPoint does not immediately remove it from the Presentations collection if there are any event handlers running.</span></span> <span data-ttu-id="d3ab9-178">したがって、オブジェクト モデルによって報告される開いているプレゼンテーションの数は正しくなく、PowerPoint のシャットダウンは防止されます。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-178">Hence the number of open presentations reported by the object model is incorrect, and shutdown of PowerPoint is prevented.</span></span>
+
+
+- <span data-ttu-id="d3ab9-179">蛍光ペンの問題を修正しました。暗い蛍光ペン色の白いテキストはグレースケールで黒として印刷されます。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-179">Fixed an issue with highlighter : White texts with dark highlighter colors are printed as black in Grayscale.</span></span>
+
+
+### <a name="project"></a><span data-ttu-id="d3ab9-180">Project</span><span class="sxs-lookup"><span data-stu-id="d3ab9-180">Project</span></span>
+
+- <span data-ttu-id="d3ab9-181">作業時間固定タイプの達成率 100% のタスクで、達成率が誤って 100% 未満に計算される問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-181">Fixed an issue where 100% tasks of type fixed duration may wrongly have their % complete calculated at less than 100% complete.</span></span>
+
+
+### <a name="word"></a><span data-ttu-id="d3ab9-182">Word</span><span class="sxs-lookup"><span data-stu-id="d3ab9-182">Word</span></span>
+
+- <span data-ttu-id="d3ab9-183">目次を更新してスクロールすると、ドキュメント上に灰色の領域が表示される場合があります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-183">Updating and scrolling through a table of contents may sometimes display a gray area over the document.</span></span>
+
+
+- <span data-ttu-id="d3ab9-184">コメントが書き込まれたが投稿されず、ユーザーがファイルを保存しようとした場合、「参照」を使用してファイルを保存できない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-184">Fixed an issue where using 'Browse' to save a file did not work if a comment was written but not posted and the user tried to save the file.</span></span>
+
+
+- <span data-ttu-id="d3ab9-185">コメント カード間を行き来すると、最初に選択されたコメントが選択の強調表示で表示されることがある問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-185">Fixed an issue where going back and forth between comment cards would sometimes display the initially selected comment with a selection highlight.</span></span>
+
+
+- <span data-ttu-id="d3ab9-186">コメントを編集し、テキストをイタリック体にし、それを投稿すると、その後にイタリック体の書式設定が失われる問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-186">Fixed an issue where italics formatting is lost after editing a comment, italicizing the text and then posting it.</span></span>
+
+
+- <span data-ttu-id="d3ab9-187">反転したページ色を使用する読み取りモードでコメントのヒントが表示されない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-187">Fixed an issue where comment hint was not visible in read mode with Inverse page color.</span></span>
+
+
+- <span data-ttu-id="d3ab9-188">ドキュメントが共同編集されている場合、ルート コメントの下書き版が保持されない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-188">Fixed an issue where if a document is being coauthored, the draft version of a root comment may not be preserved.</span></span>
+
+
+- <span data-ttu-id="d3ab9-189">SlideTrack を有効にしてコメント ウィンドウを閉じると、Ctrl + Alt + M でコメント ウィンドウが開かない場合があります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-189">With SlideTrack enabled and the comments pane closed, Ctrl+Alt+M may not open the comments pane.</span></span>
+
+
+- <span data-ttu-id="d3ab9-190">@メンションをテーブルに追加すると、「このドキュメントのテーブルが破損しました」というエラー メッセージが生成される場合がある問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-190">Fixed an issue when adding @mention in a table could generate the error message: 'A table in this document has become corrupted'.</span></span>
+
+
+- <span data-ttu-id="d3ab9-191">コメント コンテキスト メニューのコメント コマンド (コメントの編集、コメントへの返信、コメントの削除、コメントの解決) が表示されない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-191">Fixed an issue where comment commands (Edit comment, Reply to comment, Delete comment, Resolve comment) in the comments context menu were not being displayed.</span></span>
+
+
+### <a name="office-suite"></a><span data-ttu-id="d3ab9-192">Office スイート</span><span class="sxs-lookup"><span data-stu-id="d3ab9-192">Office Suite</span></span>
+
+- <span data-ttu-id="d3ab9-193">Norway Nynorsk (nn-no) 校正ツール パッケージが正しくインストールされなかった場合がある問題を解決します。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-193">Resolves an issue that may have caused Norway Nynorsk (nn-no) proofing tools package to be installed incorrectly.</span></span>
+
+
+- <span data-ttu-id="d3ab9-194">この変更では、Intel Integrated GPU を使用するグラフィック アダプターに関して報告された問題に対処します。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-194">This change addresses reported problems with graphics adaptors that leverage the Intel Integrated GPU.</span></span>
+
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2001-january-27"></a><span data-ttu-id="e1627-184">バージョン 2001: 1 月 27 日</span><span class="sxs-lookup"><span data-stu-id="e1627-184">Version 2001: January 27</span></span>
-<span data-ttu-id="e1627-185">*バージョン 2001 (ビルド 12430.20170)*</span><span class="sxs-lookup"><span data-stu-id="e1627-185">*Version 2001 (Build 12430.20170)*</span></span>
+## <a name="version-2001-january-29"></a><span data-ttu-id="d3ab9-196">バージョン 2001: 1 月 29 日</span><span class="sxs-lookup"><span data-stu-id="d3ab9-196">Version 2001: January 29</span></span>
+<span data-ttu-id="d3ab9-197">*バージョン 2001 (ビルド 12430.20184)*</span><span class="sxs-lookup"><span data-stu-id="d3ab9-197">*Version 2001 (Build 12430.20184)*</span></span>
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="feature-updates"></a><span data-ttu-id="e1627-187">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="e1627-187">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="e1627-188">Excel</span><span class="sxs-lookup"><span data-stu-id="e1627-188">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="d3ab9-199">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="d3ab9-199">Feature updates</span></span>
+### <a name="word"></a><span data-ttu-id="d3ab9-200">Word</span><span class="sxs-lookup"><span data-stu-id="d3ab9-200">Word</span></span>
 
-- <span data-ttu-id="e1627-189">**すぐに読んで返信する**: ブックを開かずに、メールからコメントやメンションに直接返信します。</span><span class="sxs-lookup"><span data-stu-id="e1627-189">**Read and reply on the fly:** Respond to comments and mentions right from email without opening the workbook.</span></span>
-
-- <span data-ttu-id="e1627-190">**準備ができたら、描画を開始:** Surface ペンを持てば、描画の準備完了です。</span><span class="sxs-lookup"><span data-stu-id="e1627-190">**Ready, set, draw:** When you grab your Surface Pen, you're ready to draw.</span></span> [<span data-ttu-id="e1627-191">詳細情報</span><span class="sxs-lookup"><span data-stu-id="e1627-191">Learn more</span></span>](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
-
-- <span data-ttu-id="e1627-192">**クエリ エディターでのデータ プロファイリング**: 列のデータを一目で分析し、エラーと空の値を識別し、配布ヒストグラムなどを確認します。</span><span class="sxs-lookup"><span data-stu-id="e1627-192">**Data Profiling in Query Editor:** Get at-a-glance analysis of the data in your columns, identify error and empty values, see distribution histograms and more.</span></span>
-
-### <a name="powerpoint"></a><span data-ttu-id="e1627-193">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="e1627-193">PowerPoint</span></span>
-
-- <span data-ttu-id="e1627-194">**準備ができたら、描画を開始:** Surface ペンを持てば、描画の準備完了です。</span><span class="sxs-lookup"><span data-stu-id="e1627-194">**Ready, set, draw:** When you grab your Surface Pen, you're ready to draw.</span></span> [<span data-ttu-id="e1627-195">詳細情報</span><span class="sxs-lookup"><span data-stu-id="e1627-195">Learn more</span></span>](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
-
-### <a name="word"></a><span data-ttu-id="e1627-196">Word</span><span class="sxs-lookup"><span data-stu-id="e1627-196">Word</span></span>
-
-- <span data-ttu-id="e1627-197">**準備ができたら、描画を開始:** Surface ペンを持てば、描画の準備完了です。</span><span class="sxs-lookup"><span data-stu-id="e1627-197">**Ready, set, draw:** When you grab your Surface Pen, you're ready to draw.</span></span> [<span data-ttu-id="e1627-198">詳細情報</span><span class="sxs-lookup"><span data-stu-id="e1627-198">Learn more</span></span>](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- <span data-ttu-id="d3ab9-201">**図形を画像として保存する:** 簡単なクリック操作で図形、アイコン、その他のオブジェクトを画像ファイルとして保存し、別の場所で再利用することができます。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-201">**Save shapes as pictures:** In just a few clicks, save a shape, icon, or other object as a picture file so you can reuse it elsewhere.</span></span> [<span data-ttu-id="d3ab9-202">詳細情報</span><span class="sxs-lookup"><span data-stu-id="d3ab9-202">Learn more</span></span>](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -211,79 +223,37 @@ ms.locfileid: "41978705"
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="e1627-201">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="e1627-201">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="e1627-202">Access</span><span class="sxs-lookup"><span data-stu-id="e1627-202">Access</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="d3ab9-205">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="d3ab9-205">Resolved issues</span></span>
 
-- <div style="box-sizing:border-box;"><span data-ttu-id="e1627-203"><span style="box-sizing:border-box;"><span style="background-color:rgba(255, 255, 255, 1);box-sizing:border-box;display:inline;">この更新プログラムでは、Microsoft Access がリンクされた SQL Server テーブル内の ID 列を識別できない原因となり、行が削除されたと誤って報告される原因となる問題が修正されます。</span></span></span><span class="sxs-lookup"><span data-stu-id="e1627-203"><span style="box-sizing:border-box;"><span style="background-color:rgba(255, 255, 255, 1);box-sizing:border-box;display:inline;">This update fixes an issue that can cause Microsoft Access to fail to identify an Identity Column in a linked SQL Server table, which can cause rows to be reported as deleted incorrectly</span></span></span></span></div>
+### <a name="outlook"></a><span data-ttu-id="d3ab9-206">Outlook</span><span class="sxs-lookup"><span data-stu-id="d3ab9-206">Outlook</span></span>
 
+- <span data-ttu-id="d3ab9-207">署名の名前を変更したときにクラッシュする原因となった問題に対処します。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-207">Addresses an issue that caused users to experience crashes when renaming a signature.</span></span>
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2001-january-17"></a><span data-ttu-id="e1627-205">バージョン 2001: 1 月 17 日</span><span class="sxs-lookup"><span data-stu-id="e1627-205">Version 2001: January 17</span></span>
-<span data-ttu-id="e1627-206">*バージョン 2001 (ビルド 12430.20120)*</span><span class="sxs-lookup"><span data-stu-id="e1627-206">*Version 2001 (Build 12430.20120)*</span></span>
-
-[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
-
-### <a name="feature-updates"></a><span data-ttu-id="e1627-208">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="e1627-208">Feature updates</span></span>
-### <a name="word"></a><span data-ttu-id="e1627-209">Word</span><span class="sxs-lookup"><span data-stu-id="e1627-209">Word</span></span>
-
-- <span data-ttu-id="e1627-210">**周りに図形を描くだけで Word のインク描画を簡単に選択できます。:** [描画] タブのなげなわツールを使用することで、インクで描画されたオブジェクトを選択することができます。</span><span class="sxs-lookup"><span data-stu-id="e1627-210">**Easily select ink in Word by drawing a shape around it.:** The Lasso tool on the Draw tab helps you select objects drawn with ink.</span></span> <span data-ttu-id="e1627-211">個別のストロークまたは文字全体を選択できます。</span><span class="sxs-lookup"><span data-stu-id="e1627-211">Select individual strokes, or whole words.</span></span> <span data-ttu-id="e1627-212">インク描画が多数ある場合に、その中の一部を操作したい場合に便利です。</span><span class="sxs-lookup"><span data-stu-id="e1627-212">It's handy when you have lots of ink and you only want to work with some of it.</span></span> [<span data-ttu-id="e1627-213">詳細情報</span><span class="sxs-lookup"><span data-stu-id="e1627-213">Learn more</span></span>](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
-
-
-[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
-
-### <a name="resolved-issues"></a><span data-ttu-id="e1627-215">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="e1627-215">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="e1627-216">Excel</span><span class="sxs-lookup"><span data-stu-id="e1627-216">Excel</span></span>
-
-- <span data-ttu-id="e1627-217">Excel クライアントでは、ビルド 12430.20050 で 32 ビット バージョンの Excel を実行しているユーザーに対して、英語以外の言語バージョン 2001 でいくつかのシナリオ (印刷、マクロ実行、ズームなど) で問題が発生しています。</span><span class="sxs-lookup"><span data-stu-id="e1627-217">Excel client is causing issues in several scenarios (such as print, macro execution, zoom,…) on a non-English language Version 2001 for users with build 12430.20050 and running the 32-bit version of Excel.</span></span> 
-
-## <a name="version-2001-january-14"></a><span data-ttu-id="e1627-218">バージョン 2001: 1 月 14 日</span><span class="sxs-lookup"><span data-stu-id="e1627-218">Version 2001: January 14</span></span>
-<span data-ttu-id="e1627-219">*バージョン 2001 (ビルド 12430.20050)*</span><span class="sxs-lookup"><span data-stu-id="e1627-219">*Version 2001 (Build 12430.20050)*</span></span>
-
-<span data-ttu-id="e1627-220">セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)</span><span class="sxs-lookup"><span data-stu-id="e1627-220">Security updates listed [here](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)</span></span>
-
-## <a name="version-1912-january-08"></a><span data-ttu-id="e1627-221">バージョン 1912: 1 月 8 日</span><span class="sxs-lookup"><span data-stu-id="e1627-221">Version 1912: January 08</span></span>
-<span data-ttu-id="e1627-222">*バージョン 1912 (ビルド 12325.20288)*</span><span class="sxs-lookup"><span data-stu-id="e1627-222">*Version 1912 (Build 12325.20288)*</span></span>
-
-## <a name="version-1912-january-07"></a><span data-ttu-id="e1627-223">バージョン 1912: 1 月 7 日</span><span class="sxs-lookup"><span data-stu-id="e1627-223">Version 1912: January 07</span></span>
-<span data-ttu-id="e1627-224">*バージョン 1912 (ビルド 12325.20280)*</span><span class="sxs-lookup"><span data-stu-id="e1627-224">*Version 1912 (Build 12325.20280)*</span></span>
-
-[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
-
-### <a name="resolved-issues"></a><span data-ttu-id="e1627-226">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="e1627-226">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="e1627-227">Outlook</span><span class="sxs-lookup"><span data-stu-id="e1627-227">Outlook</span></span>
-
-- <span data-ttu-id="e1627-228">状況によっては、表示された SMTP アドレスと一致しないアドレスに送信されたメールがユーザーに表示される問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="e1627-228">Addressed an issue that caused users to see emails sent to an address that did not match the displayed SMTP address in some circumstances.</span></span></div>
-
-[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
-
-## <a name="version-1912-january-06"></a><span data-ttu-id="e1627-230">バージョン 1912: 1 月 6 日</span><span class="sxs-lookup"><span data-stu-id="e1627-230">Version 1912: January 06</span></span>
-<span data-ttu-id="e1627-231">*バージョン 1912 (ビルド 12325.20264)*</span><span class="sxs-lookup"><span data-stu-id="e1627-231">*Version 1912 (Build 12325.20264)*</span></span>
-
-[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
-
-### <a name="feature-updates"></a><span data-ttu-id="e1627-233">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="e1627-233">Feature updates</span></span>
-### <a name="powerpoint"></a><span data-ttu-id="e1627-234">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="e1627-234">PowerPoint</span></span>
-
-- <span data-ttu-id="e1627-235">**簡単な GIF:** 1 つのスライド、1 つのフレーム。</span><span class="sxs-lookup"><span data-stu-id="e1627-235">**GIFs in a jiffy:** One slide, one frame.</span></span> <span data-ttu-id="e1627-236">PowerPoint でループ GIF を簡単に作成できます。</span><span class="sxs-lookup"><span data-stu-id="e1627-236">Easily create looping GIFs in PowerPoint.</span></span> [<span data-ttu-id="e1627-237">詳細情報</span><span class="sxs-lookup"><span data-stu-id="e1627-237">Learn more</span></span>](https://support.office.com/article/a598753e-92de-4f1b-8393-714db4d334b4)
-
-[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
-
-## <a name="version-1912-december-30"></a><span data-ttu-id="e1627-239">バージョン 1912: 12 月 30 日</span><span class="sxs-lookup"><span data-stu-id="e1627-239">Version 1912: December 30</span></span>
-<span data-ttu-id="e1627-240">*バージョン 1912 (ビルド 12325.20240)*</span><span class="sxs-lookup"><span data-stu-id="e1627-240">*Version 1912 (Build 12325.20240)*</span></span>
+## <a name="version-2001-january-27"></a><span data-ttu-id="d3ab9-209">バージョン 2001: 1 月 27 日</span><span class="sxs-lookup"><span data-stu-id="d3ab9-209">Version 2001: January 27</span></span>
+<span data-ttu-id="d3ab9-210">*バージョン 2001 (ビルド 12430.20170)*</span><span class="sxs-lookup"><span data-stu-id="d3ab9-210">*Version 2001 (Build 12430.20170)*</span></span>
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="feature-updates"></a><span data-ttu-id="e1627-242">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="e1627-242">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="e1627-243">Excel</span><span class="sxs-lookup"><span data-stu-id="e1627-243">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="d3ab9-212">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="d3ab9-212">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="d3ab9-213">Excel</span><span class="sxs-lookup"><span data-stu-id="d3ab9-213">Excel</span></span>
 
-- <span data-ttu-id="e1627-244">**SVG オブジェクトにコンテキストを取り入れる:** 地図やグラフ、その他の SVG ベクターを Office で変換する場合、それらのオブジェクトの中にテキストを保持できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="e1627-244">**Bring the context along with your SVG objects!:** Now you can retain the text in maps, chart and other SVG vectors when converting these objects in Office.</span></span>
+- <span data-ttu-id="d3ab9-214">**すぐに読んで返信する**: ブックを開かずに、メールからコメントやメンションに直接返信します。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-214">**Read and reply on the fly:** Respond to comments and mentions right from email without opening the workbook.</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="e1627-245">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="e1627-245">PowerPoint</span></span>
+- <span data-ttu-id="d3ab9-215">**準備ができたら、描画を開始:** Surface ペンを持てば、描画の準備完了です。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-215">**Ready, set, draw:** When you grab your Surface Pen, you're ready to draw.</span></span> [<span data-ttu-id="d3ab9-216">詳細情報</span><span class="sxs-lookup"><span data-stu-id="d3ab9-216">Learn more</span></span>](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
-- <span data-ttu-id="e1627-246">**SVG オブジェクトにコンテキストを取り入れる:** 地図やグラフ、その他の SVG ベクターを Office で変換する場合、それらのオブジェクトの中にテキストを保持できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="e1627-246">**Bring the context along with your SVG objects!:** Now you can retain the text in maps, chart and other SVG vectors when converting these objects in Office.</span></span>
+- <span data-ttu-id="d3ab9-217">**クエリ エディターでのデータ プロファイリング**: 列のデータを一目で分析し、エラーと空の値を識別し、配布ヒストグラムなどを確認します。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-217">**Data Profiling in Query Editor:** Get at-a-glance analysis of the data in your columns, identify error and empty values, see distribution histograms and more.</span></span>
+
+### <a name="powerpoint"></a><span data-ttu-id="d3ab9-218">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="d3ab9-218">PowerPoint</span></span>
+
+- <span data-ttu-id="d3ab9-219">**準備ができたら、描画を開始:** Surface ペンを持てば、描画の準備完了です。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-219">**Ready, set, draw:** When you grab your Surface Pen, you're ready to draw.</span></span> [<span data-ttu-id="d3ab9-220">詳細情報</span><span class="sxs-lookup"><span data-stu-id="d3ab9-220">Learn more</span></span>](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+### <a name="word"></a><span data-ttu-id="d3ab9-221">Word</span><span class="sxs-lookup"><span data-stu-id="d3ab9-221">Word</span></span>
+
+- <span data-ttu-id="d3ab9-222">**準備ができたら、描画を開始:** Surface ペンを持てば、描画の準備完了です。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-222">**Ready, set, draw:** When you grab your Surface Pen, you're ready to draw.</span></span> [<span data-ttu-id="d3ab9-223">詳細情報</span><span class="sxs-lookup"><span data-stu-id="d3ab9-223">Learn more</span></span>](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -292,25 +262,79 @@ ms.locfileid: "41978705"
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="e1627-249">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="e1627-249">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="e1627-250">Outlook</span><span class="sxs-lookup"><span data-stu-id="e1627-250">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="d3ab9-226">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="d3ab9-226">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="d3ab9-227">Access</span><span class="sxs-lookup"><span data-stu-id="d3ab9-227">Access</span></span>
 
-- <div><span data-ttu-id="e1627-251">ユーザーがクラウド設定を取得する際に Outlook がフリーズする問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="e1627-251">Addresses an issue that caused users to experience hangs in Outlook when retrieving Cloud Settings.</span></span></div>
+- <div style="box-sizing:border-box;"><span data-ttu-id="d3ab9-228"><span style="box-sizing:border-box;"><span style="background-color:rgba(255, 255, 255, 1);box-sizing:border-box;display:inline;">この更新プログラムでは、Microsoft Access がリンクされた SQL Server テーブル内の ID 列を識別できない原因となり、行が削除されたと誤って報告される原因となる問題が修正されます。</span></span></span><span class="sxs-lookup"><span data-stu-id="d3ab9-228"><span style="box-sizing:border-box;"><span style="background-color:rgba(255, 255, 255, 1);box-sizing:border-box;display:inline;">This update fixes an issue that can cause Microsoft Access to fail to identify an Identity Column in a linked SQL Server table, which can cause rows to be reported as deleted incorrectly</span></span></span></span></div>
 
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-1912-december-19"></a><span data-ttu-id="e1627-253">バージョン 1912: 12 月 19 日</span><span class="sxs-lookup"><span data-stu-id="e1627-253">Version 1912: December 19</span></span>
-<span data-ttu-id="e1627-254">*バージョン 1912 (ビルド 12325.20214)*</span><span class="sxs-lookup"><span data-stu-id="e1627-254">*Version 1912 (Build 12325.20214)*</span></span>
+## <a name="version-2001-january-17"></a><span data-ttu-id="d3ab9-230">バージョン 2001: 1 月 17 日</span><span class="sxs-lookup"><span data-stu-id="d3ab9-230">Version 2001: January 17</span></span>
+<span data-ttu-id="d3ab9-231">*バージョン 2001 (ビルド 12430.20120)*</span><span class="sxs-lookup"><span data-stu-id="d3ab9-231">*Version 2001 (Build 12430.20120)*</span></span>
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a><span data-ttu-id="d3ab9-233">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="d3ab9-233">Feature updates</span></span>
+### <a name="word"></a><span data-ttu-id="d3ab9-234">Word</span><span class="sxs-lookup"><span data-stu-id="d3ab9-234">Word</span></span>
+
+- <span data-ttu-id="d3ab9-235">**周りに図形を描くだけで Word のインク描画を簡単に選択できます。:** [描画] タブのなげなわツールを使用することで、インクで描画されたオブジェクトを選択することができます。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-235">**Easily select ink in Word by drawing a shape around it.:** The Lasso tool on the Draw tab helps you select objects drawn with ink.</span></span> <span data-ttu-id="d3ab9-236">個別のストロークまたは文字全体を選択できます。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-236">Select individual strokes, or whole words.</span></span> <span data-ttu-id="d3ab9-237">インク描画が多数ある場合に、その中の一部を操作したい場合に便利です。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-237">It's handy when you have lots of ink and you only want to work with some of it.</span></span> [<span data-ttu-id="d3ab9-238">詳細情報</span><span class="sxs-lookup"><span data-stu-id="d3ab9-238">Learn more</span></span>](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+### <a name="resolved-issues"></a><span data-ttu-id="d3ab9-240">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="d3ab9-240">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="d3ab9-241">Excel</span><span class="sxs-lookup"><span data-stu-id="d3ab9-241">Excel</span></span>
+
+- <span data-ttu-id="d3ab9-242">Excel クライアントでは、ビルド 12430.20050 で 32 ビット バージョンの Excel を実行しているユーザーに対して、英語以外の言語バージョン 2001 でいくつかのシナリオ (印刷、マクロ実行、ズームなど) で問題が発生しています。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-242">Excel client is causing issues in several scenarios (such as print, macro execution, zoom,…) on a non-English language Version 2001 for users with build 12430.20050 and running the 32-bit version of Excel.</span></span> 
+
+## <a name="version-2001-january-14"></a><span data-ttu-id="d3ab9-243">バージョン 2001: 1 月 14 日</span><span class="sxs-lookup"><span data-stu-id="d3ab9-243">Version 2001: January 14</span></span>
+<span data-ttu-id="d3ab9-244">*バージョン 2001 (ビルド 12430.20050)*</span><span class="sxs-lookup"><span data-stu-id="d3ab9-244">*Version 2001 (Build 12430.20050)*</span></span>
+
+<span data-ttu-id="d3ab9-245">セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)</span><span class="sxs-lookup"><span data-stu-id="d3ab9-245">Security updates listed [here](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)</span></span>
+
+## <a name="version-1912-january-08"></a><span data-ttu-id="d3ab9-246">バージョン 1912: 1 月 8 日</span><span class="sxs-lookup"><span data-stu-id="d3ab9-246">Version 1912: January 08</span></span>
+<span data-ttu-id="d3ab9-247">*バージョン 1912 (ビルド 12325.20288)*</span><span class="sxs-lookup"><span data-stu-id="d3ab9-247">*Version 1912 (Build 12325.20288)*</span></span>
+
+## <a name="version-1912-january-07"></a><span data-ttu-id="d3ab9-248">バージョン 1912: 1 月 7 日</span><span class="sxs-lookup"><span data-stu-id="d3ab9-248">Version 1912: January 07</span></span>
+<span data-ttu-id="d3ab9-249">*バージョン 1912 (ビルド 12325.20280)*</span><span class="sxs-lookup"><span data-stu-id="d3ab9-249">*Version 1912 (Build 12325.20280)*</span></span>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a><span data-ttu-id="d3ab9-251">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="d3ab9-251">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="d3ab9-252">Outlook</span><span class="sxs-lookup"><span data-stu-id="d3ab9-252">Outlook</span></span>
+
+- <span data-ttu-id="d3ab9-253">状況によっては、表示された SMTP アドレスと一致しないアドレスに送信されたメールがユーザーに表示される問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-253">Addressed an issue that caused users to see emails sent to an address that did not match the displayed SMTP address in some circumstances.</span></span></div>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-1912-january-06"></a><span data-ttu-id="d3ab9-255">バージョン 1912: 1 月 6 日</span><span class="sxs-lookup"><span data-stu-id="d3ab9-255">Version 1912: January 06</span></span>
+<span data-ttu-id="d3ab9-256">*バージョン 1912 (ビルド 12325.20264)*</span><span class="sxs-lookup"><span data-stu-id="d3ab9-256">*Version 1912 (Build 12325.20264)*</span></span>
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a><span data-ttu-id="d3ab9-258">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="d3ab9-258">Feature updates</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="d3ab9-259">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="d3ab9-259">PowerPoint</span></span>
+
+- <span data-ttu-id="d3ab9-260">**簡単な GIF:** 1 つのスライド、1 つのフレーム。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-260">**GIFs in a jiffy:** One slide, one frame.</span></span> <span data-ttu-id="d3ab9-261">PowerPoint でループ GIF を簡単に作成できます。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-261">Easily create looping GIFs in PowerPoint.</span></span> [<span data-ttu-id="d3ab9-262">詳細情報</span><span class="sxs-lookup"><span data-stu-id="d3ab9-262">Learn more</span></span>](https://support.office.com/article/a598753e-92de-4f1b-8393-714db4d334b4)
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-1912-december-30"></a><span data-ttu-id="d3ab9-264">バージョン 1912: 12 月 30 日</span><span class="sxs-lookup"><span data-stu-id="d3ab9-264">Version 1912: December 30</span></span>
+<span data-ttu-id="d3ab9-265">*バージョン 1912 (ビルド 12325.20240)*</span><span class="sxs-lookup"><span data-stu-id="d3ab9-265">*Version 1912 (Build 12325.20240)*</span></span>
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="feature-updates"></a><span data-ttu-id="e1627-256">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="e1627-256">Feature updates</span></span>
-### <a name="word"></a><span data-ttu-id="e1627-257">Word</span><span class="sxs-lookup"><span data-stu-id="e1627-257">Word</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="d3ab9-267">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="d3ab9-267">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="d3ab9-268">Excel</span><span class="sxs-lookup"><span data-stu-id="d3ab9-268">Excel</span></span>
 
-- <span data-ttu-id="e1627-258">**より安全なビデオ エクスペリエンス:** セキュリティの強化は、より安全なオンライン ビデオ エクスペリエンスを意味します。</span><span class="sxs-lookup"><span data-stu-id="e1627-258">**A more secure video experience:** Security enhancements mean a safer online video experience for you.</span></span> [<span data-ttu-id="e1627-259">詳細情報</span><span class="sxs-lookup"><span data-stu-id="e1627-259">Learn more</span></span>](https://support.office.com/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
+- <span data-ttu-id="d3ab9-269">**SVG オブジェクトにコンテキストを取り入れる:** 地図やグラフ、その他の SVG ベクターを Office で変換する場合、それらのオブジェクトの中にテキストを保持できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-269">**Bring the context along with your SVG objects!:** Now you can retain the text in maps, chart and other SVG vectors when converting these objects in Office.</span></span>
+
+### <a name="powerpoint"></a><span data-ttu-id="d3ab9-270">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="d3ab9-270">PowerPoint</span></span>
+
+- <span data-ttu-id="d3ab9-271">**SVG オブジェクトにコンテキストを取り入れる:** 地図やグラフ、その他の SVG ベクターを Office で変換する場合、それらのオブジェクトの中にテキストを保持できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-271">**Bring the context along with your SVG objects!:** Now you can retain the text in maps, chart and other SVG vectors when converting these objects in Office.</span></span>
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -319,227 +343,26 @@ ms.locfileid: "41978705"
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="e1627-262">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="e1627-262">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="e1627-263">Outlook</span><span class="sxs-lookup"><span data-stu-id="e1627-263">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="d3ab9-274">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="d3ab9-274">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="d3ab9-275">Outlook</span><span class="sxs-lookup"><span data-stu-id="d3ab9-275">Outlook</span></span>
 
-- <span data-ttu-id="e1627-264">キーボード ショートカットを使用してメールボックス フォルダーを操作すると、ユーザーに顕著な遅延が発生する問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="e1627-264">Addressed an issue that caused users to see a noticeable delay when interacting with their mailbox folders through keyboard shortcuts.</span></span>
-
-[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
-
-## <a name="version-1912-december-12"></a><span data-ttu-id="e1627-266">バージョン 1912: 12 月 12 日</span><span class="sxs-lookup"><span data-stu-id="e1627-266">Version 1912: December 12</span></span>
-<span data-ttu-id="e1627-267">*バージョン 1912 (ビルド 12325.20172)*</span><span class="sxs-lookup"><span data-stu-id="e1627-267">*Version 1912 (Build 12325.20172)*</span></span>
-
-
-[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
-
-### <a name="resolved-issues"></a><span data-ttu-id="e1627-269">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="e1627-269">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="e1627-270">Excel</span><span class="sxs-lookup"><span data-stu-id="e1627-270">Excel</span></span>
-
-- <span data-ttu-id="e1627-271">英語以外の文字セットを使用している場合に、ユーザーが変更を保存する際にエラーが発生する場合があります。</span><span class="sxs-lookup"><span data-stu-id="e1627-271">Users may encounter an error when saving changes while using some non-English character sets.</span></span>
-
-- <span data-ttu-id="e1627-272">セル内の動的配列数式を編集すると、その結果、セルの境界の外にテキストが並んでしまう可能性がある</span><span class="sxs-lookup"><span data-stu-id="e1627-272">Editing dynamic array formulas within a cell may result in text being aligned outside of the boundary of the cell.</span></span>
-
-- <span data-ttu-id="e1627-273">一部のローカライズにおいて、[Text to Column] 機能が失敗することがある</span><span class="sxs-lookup"><span data-stu-id="e1627-273">Text to Column functionality may fail for some localizations.</span></span>
-
-- <span data-ttu-id="e1627-274">埋め込まれたブックを開くときにリボンのカスタマイズが読み込まれない問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="e1627-274">Resolved an issue with ribbon customization not loading when opening embedded workbook.</span></span>
-
-- <span data-ttu-id="e1627-275">非表示の名前付き範囲にアクセスすると、ユーザーにエラーが発生する場合があります。</span><span class="sxs-lookup"><span data-stu-id="e1627-275">Users may encounter an error when accessing a hidden named range.</span></span>
-
-- <span data-ttu-id="e1627-276">余白のドロップダウン メニューが正しくレンダリングされない場合があります。</span><span class="sxs-lookup"><span data-stu-id="e1627-276">Margin dropdown menu may not render correctly.</span></span>
-
-- <span data-ttu-id="e1627-277">4K 解像度のハードウェアのグラフィック アクセラレータを無効にすると、スクロールしたときにセルのレンダリングが遅れる場合があります。</span><span class="sxs-lookup"><span data-stu-id="e1627-277">Disabling hardware graphics acceleration with 4K resolution may result in delayed rendering of cells when scrolling around.</span></span>
-
-- <span data-ttu-id="e1627-278">この変更は、ソフトウェア レンダリングを活用することにより、特定の Intel グラフィック ドライバーの問題を回避します。</span><span class="sxs-lookup"><span data-stu-id="e1627-278">This change circumvents a problem with certain Intel graphics drivers by leveraging software rendering.</span></span>
-
-### <a name="onenote"></a><span data-ttu-id="e1627-279">OneNote</span><span class="sxs-lookup"><span data-stu-id="e1627-279">OneNote</span></span>
-
-- <span data-ttu-id="e1627-280">OneNote は、「会議ノート」の Outlook アドインを介して開かない場合があります。</span><span class="sxs-lookup"><span data-stu-id="e1627-280">OneNote may not open via the 'Meeting Notes' Outlook add-in.</span></span>
-
-### <a name="outlook"></a><span data-ttu-id="e1627-281">Outlook</span><span class="sxs-lookup"><span data-stu-id="e1627-281">Outlook</span></span>
-
-- <span data-ttu-id="e1627-282">クロス フォルダー コンテンツを含む断続的なクラッシュ。</span><span class="sxs-lookup"><span data-stu-id="e1627-282">Intermittent crash involving cross folder content.</span></span>
-
-- <span data-ttu-id="e1627-283">Outlook のメール メッセージにインラインで挿入された画像のサイズが変更される場合があります。</span><span class="sxs-lookup"><span data-stu-id="e1627-283">Images inserted inline to Outlook e-mail messages can sometimes get resized.</span></span>
-
-- <span data-ttu-id="e1627-284">グループ ポリシーを使用して S/MIME の既定の署名構成を適用する機能が追加された。</span><span class="sxs-lookup"><span data-stu-id="e1627-284">Added the ability to enforce S/MIME default signing configuration via group policy.</span></span>
-
-- <span data-ttu-id="e1627-285">予想よりも埋め込み画像が小さく表示されることがあります。</span><span class="sxs-lookup"><span data-stu-id="e1627-285">Embedded images may appear smaller than expected.</span></span>
-
-- <span data-ttu-id="e1627-286">保持ポリシーのラベルには、保持期間がかっこ内に表示される場合があります。</span><span class="sxs-lookup"><span data-stu-id="e1627-286">Retention policy labels may display the retention time period in parenthesis.</span></span>
-
-- <span data-ttu-id="e1627-287">代替送信者の使用中にポリシーのヒントが表示されない問題に対処します。</span><span class="sxs-lookup"><span data-stu-id="e1627-287">Addresses an issue that caused Policy tips to fail to display when using an alternate sender.</span></span>
-
-- <span data-ttu-id="e1627-288">日本語パックの連絡先カードに空白が表示される場合があります。</span><span class="sxs-lookup"><span data-stu-id="e1627-288">Blank spaces may appear in Contact cards with Japanese language pack.</span></span>
-
-- <span data-ttu-id="e1627-289">会議をクリアした後、会議の場所が予期せずに会議に追加される問題に対処します。</span><span class="sxs-lookup"><span data-stu-id="e1627-289">Addresses an issue that caused the location of a meeting to get added back to the meeting unexpectedly after clearing it.</span></span>
-
-### <a name="powerpoint"></a><span data-ttu-id="e1627-290">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="e1627-290">PowerPoint</span></span>
-
-- <span data-ttu-id="e1627-291">テキストからフォーカスを移動した後、カーソルが表示されないことがあります。</span><span class="sxs-lookup"><span data-stu-id="e1627-291">Cursor may disappear after moving focus from text.</span></span>
-
-- <span data-ttu-id="e1627-292">ある Office アプリケーションから別の Office アプリケーションへの安全なリンクは、リンクされたアプリケーションを起動しない場合があります。</span><span class="sxs-lookup"><span data-stu-id="e1627-292">Safelinks from one Office application to another may not launch the linked application.</span></span>
-
-- <span data-ttu-id="e1627-293">場合によっては、タッチ デバイスでのスクロールが機能しないことがあります。</span><span class="sxs-lookup"><span data-stu-id="e1627-293">In some cases, scrolling with touch devices will not work.</span></span>
-
-- <span data-ttu-id="e1627-294">クラウド ファイル内のスライドに 2 つ以上の異なるビデオがある場合、ビデオの画像は正しく表示されますが、ユーザーがそれぞれのビデオを再生するためにクリックすると、同一の内容のビデオが再生されます。</span><span class="sxs-lookup"><span data-stu-id="e1627-294">If a user has two (or more) different videos on a slide in a cloud file, the video images are rendered correctly, but when the user clicks on each one to play, the video content is the same.</span></span>
-
-- <span data-ttu-id="e1627-295">余白のドロップダウン メニューが正しくレンダリングされない場合があります。</span><span class="sxs-lookup"><span data-stu-id="e1627-295">Margin dropdown menu may not render correctly.</span></span>
-
-### <a name="project"></a><span data-ttu-id="e1627-296">Project</span><span class="sxs-lookup"><span data-stu-id="e1627-296">Project</span></span>
-
-- <span data-ttu-id="e1627-297">ダーク モードの場合、リソースが過剰に割り当てられているタスクのタスク検査パネルに移動すると、表を読み取ることができません。</span><span class="sxs-lookup"><span data-stu-id="e1627-297">If you are in Dark mode, when you go to the task inspector panel on a task with an overallocated resource, you are unable to read the table.</span></span>
-
-- <span data-ttu-id="e1627-298">ユーザーにライセンスに関するエラーが表示されることがあります。</span><span class="sxs-lookup"><span data-stu-id="e1627-298">Users may experience an error regarding licensing.</span></span>
-
-- <span data-ttu-id="e1627-299">日付の選択の [今日] ボタンで正しくない日付が設定されることがあります。</span><span class="sxs-lookup"><span data-stu-id="e1627-299">The Today button in the date picker may sometimes set the incorrect date.</span></span>
-
-- <span data-ttu-id="e1627-300">[プロジェクトの比較] 機能を使用すると、Project がクラッシュする場合があります。</span><span class="sxs-lookup"><span data-stu-id="e1627-300">Project may crash when you use the Compare Projects feature.</span></span>
-
-- <span data-ttu-id="e1627-301">割り当てのないタスクに作業を設定すると、1 日間に丸められます。</span><span class="sxs-lookup"><span data-stu-id="e1627-301">Setting effort on tasks that have no assignments are rounded to 1 day.</span></span>
-
-### <a name="word"></a><span data-ttu-id="e1627-302">Word</span><span class="sxs-lookup"><span data-stu-id="e1627-302">Word</span></span>
-
-- <span data-ttu-id="e1627-303">ウィンドウ スイッチャーが非表示のときに、コメントのヒントを選択すると最新のコメント ウィンドウが表示されるようになります。</span><span class="sxs-lookup"><span data-stu-id="e1627-303">Selecting a comment hint should now show the modern comments pane when hidden in pane switcher.</span></span>
-
-- <span data-ttu-id="e1627-304">右クリックすると、完全に一致する単語が選択されないことがあります。</span><span class="sxs-lookup"><span data-stu-id="e1627-304">Right-clicking can sometimes not result in selecting the whole word.</span></span>
-
-- <span data-ttu-id="e1627-305">ある Office アプリケーションから別の Office アプリケーションへの安全なリンクは、リンクされたアプリケーションを起動しない場合があります。</span><span class="sxs-lookup"><span data-stu-id="e1627-305">Safelinks from one Office application to another may not launch the linked application.</span></span>
-
-- <span data-ttu-id="e1627-306">文書パーツ オーガナイザーに無効なアラートが表示される場合があります。&quot;スタイル、文書パーツを変更しました。&quot;</span><span class="sxs-lookup"><span data-stu-id="e1627-306">Building blocks organizer may display an invalid alert: &quot;You have modified styles, building blocks&quot;.</span></span>
-
-- <span data-ttu-id="e1627-307">一部のテーマでは、どのコメントが選択されているかの判断が困難になることがあります。</span><span class="sxs-lookup"><span data-stu-id="e1627-307">Some themes may make it difficult to determine which comment is selected.</span></span>
-
-- <span data-ttu-id="e1627-308">提案されたファイル形式に変換した後、カーソルがオブジェクト内でアクティブのままになっている可能性があります。</span><span class="sxs-lookup"><span data-stu-id="e1627-308">The cursor may remain active within an object after converting to a suggested format.</span></span>
-
-- <span data-ttu-id="e1627-309">一部のシナリオでは、メッセージ内の画像が正しく拡大されないことがあります。</span><span class="sxs-lookup"><span data-stu-id="e1627-309">Images in messages may be incorrectly scaled in some scenarios.</span></span>
-
-- <span data-ttu-id="e1627-310">コピーと貼り付けを使用すると、コメント ウィンドウが再読み込みされることがあります。</span><span class="sxs-lookup"><span data-stu-id="e1627-310">Comment pane sometimes gets reloaded when using copy/paste.</span></span>
-
-- <span data-ttu-id="e1627-311">コメントが正しい順序で貼り付けられない場合があります。</span><span class="sxs-lookup"><span data-stu-id="e1627-311">Comments are sometimes not pasted in the correct order.</span></span>
-
-- <span data-ttu-id="e1627-312">コメント カードでユーザーをメンションすると、JSON が表示される場合があります。</span><span class="sxs-lookup"><span data-stu-id="e1627-312">At-mentioning a user in a comment card may show JSON.</span></span>
-
-- <span data-ttu-id="e1627-313">余白のドロップダウン メニューが正しくレンダリングされない場合があります。</span><span class="sxs-lookup"><span data-stu-id="e1627-313">Margin dropdown menu may not render correctly.</span></span>
-
-- <span data-ttu-id="e1627-314">分割画面の境界のサイズを変更すると、さらに分割画面が表示される場合があります。</span><span class="sxs-lookup"><span data-stu-id="e1627-314">Resizing a split screen border may introduce an additional split screen.</span></span>
-
-- <span data-ttu-id="e1627-315">カスタム スタイルのマルチレベル リストで構成されるテンプレートを既存のドキュメントに適用すると、特定の条件下でスタイルが保持されない場合があります。</span><span class="sxs-lookup"><span data-stu-id="e1627-315">Applying a template consisting of a multi-level list with custom styles to existing documents may not preserve the style under certain conditions.</span></span>
-
-- <span data-ttu-id="e1627-316">差し込み印刷の実行後に、特定の条件下でファイルを保存できない場合があります。</span><span class="sxs-lookup"><span data-stu-id="e1627-316">Saving a file after doing a mail merge may not work under certain conditions.</span></span>
-
-### <a name="office-suite"></a><span data-ttu-id="e1627-317">Office スイート</span><span class="sxs-lookup"><span data-stu-id="e1627-317">Office Suite</span></span>
-
-- <span data-ttu-id="e1627-318">Excel から PowerPoint にグラフを貼り付けると、グラフのサイズが小さくなる場合があります。</span><span class="sxs-lookup"><span data-stu-id="e1627-318">Pasting a chart from Excel to PowerPoint can reduce the size of the chart.</span></span>
-
-- <span data-ttu-id="e1627-319">コメントに返信すると、テキストボックスがウィンドウの端を超えて縦方向に展開されることがあります。</span><span class="sxs-lookup"><span data-stu-id="e1627-319">Replying to a comment may cause the textbox to expand vertically beyond the edge of the pane.</span></span>
-
-- <span data-ttu-id="e1627-320">日本語ベースの製品の場合、アカウント ユーザーの姓と名が誤った順序で表示される場合があります。</span><span class="sxs-lookup"><span data-stu-id="e1627-320">For Japanese based products, account user first name, last name may appear in incorrect order.</span></span>
-
-- <span data-ttu-id="e1627-321">ODT と GPO の更新期限設定で、相対期限の設定後、初回のみしか機能しないバスが修正されました。修正により、2 回目以降の更新プログラムで相対期限を使用きるようになりました。</span><span class="sxs-lookup"><span data-stu-id="e1627-321">Fix to bug in ODT and GPO Update Deadline setting where relative deadline only works the first time it is set, the fix enables the relative deadline for subsequent updates.</span></span>
-
-- <span data-ttu-id="e1627-322">コメントにマウス ポインターを合わせた際に、コメントの周りにテキストボックスのアウトラインが表示される場合があります。</span><span class="sxs-lookup"><span data-stu-id="e1627-322">Hovering a mouse pointer over comments may display a textbox outline around the comment.</span></span>
-
-- <span data-ttu-id="e1627-323">Office の更新プログラムが、意図したソース (ローカル共有、ネットワーク共有、構成マネージャー
-で提供される場所など) からではなく、予期せずに Office CDN からファイルをダウンロードする場合がある問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="e1627-323">Resolved an issue where Office updates may have unexpectedly downloaded files from the Office CDN instead of the intended source, such as a local or network share, or Configuration Manager-provided location.</span></span>
+- <div><span data-ttu-id="d3ab9-276">ユーザーがクラウド設定を取得する際に Outlook がフリーズする問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-276">Addresses an issue that caused users to experience hangs in Outlook when retrieving Cloud Settings.</span></span></div>
 
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-1911-december-10"></a><span data-ttu-id="e1627-325">バージョン 1911: 12 月 10 日</span><span class="sxs-lookup"><span data-stu-id="e1627-325">Version 1911: December 10</span></span>
-<span data-ttu-id="e1627-326">*バージョン 1911 (ビルド 12228.20364)*</span><span class="sxs-lookup"><span data-stu-id="e1627-326">*Version 1911 (Build 12228.20364)*</span></span>
-
-<span data-ttu-id="e1627-327">セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)</span><span class="sxs-lookup"><span data-stu-id="e1627-327">Security updates listed [here](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)</span></span>
-
-[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
-
-### <a name="feature-updates"></a><span data-ttu-id="e1627-329">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="e1627-329">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="e1627-330">Excel</span><span class="sxs-lookup"><span data-stu-id="e1627-330">Excel</span></span>
-
-- <span data-ttu-id="e1627-331">**ファイルを変換してアクセシビリティを向上させる**: ファイルを最新の形式にアップグレードすると、すべてのユーザがアクセスできるようになります。</span><span class="sxs-lookup"><span data-stu-id="e1627-331">**Convert files to improve accessibility:** Upgrade your files to the modern format to make them more accessible for everyone.</span></span>
-
-- <span data-ttu-id="e1627-332">**よりアクセシビリティの高い PDF ファイルを作成する:** PDF を作成すると、アクセシビリティ チェックが、保存する前に修正するアクセシビリティの問題を指摘します。</span><span class="sxs-lookup"><span data-stu-id="e1627-332">**Create more accessible PDFs:** Create a PDF and the accessibility checker will point out accessibility issues to fix before you save.</span></span> [<span data-ttu-id="e1627-333">詳細情報</span><span class="sxs-lookup"><span data-stu-id="e1627-333">Learn more</span></span>](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
-
-### <a name="outlook"></a><span data-ttu-id="e1627-334">Outlook</span><span class="sxs-lookup"><span data-stu-id="e1627-334">Outlook</span></span>
-
-- <span data-ttu-id="e1627-335">**グループの名前付けポリシー**: グループの名前付けポリシーを使用すると、IT 管理者は組織内のユーザーが作成するグループの名前の標準化と管理を行えます。</span><span class="sxs-lookup"><span data-stu-id="e1627-335">**Groups Naming policy:** A group naming policy enables the IT admin to standardize and manage the names of groups created by users in the organization.</span></span> <span data-ttu-id="e1627-336">管理者は、グループが作成される際に特定のプレフィックスとサフィックスをグループ名に追加することを要求できます。また、特定の単語の使用を禁止できます。</span><span class="sxs-lookup"><span data-stu-id="e1627-336">The admin can require a specific prefix and suffix be added to the name for a group when it's created, and can block specific words from being used.</span></span> <span data-ttu-id="e1627-337">これにより、グループ名での不適切な単語の使用を最小限に抑えられる他、ディレクトリ内のグループ名の記載を IT 管理者が管理できます。</span><span class="sxs-lookup"><span data-stu-id="e1627-337">This helps minimize the use of inappropriate words in group names as well as IT manage the representation of groups in their directory.</span></span> <span data-ttu-id="e1627-338">また、名前付けポリシーを使用することで、チーム サイトを展開する組織は、チーム サイトを部署ごとに分類できるようにもなります。</span><span class="sxs-lookup"><span data-stu-id="e1627-338">Naming Policy also helps organizations that deploy team sites to categorize them based on department.</span></span>
-
-### <a name="powerpoint"></a><span data-ttu-id="e1627-339">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="e1627-339">PowerPoint</span></span>
-
-- <span data-ttu-id="e1627-340">**インクを瞬時に再生:** スライドで手描き入力する場合は、スライド ショー中にアニメーションの再生を適用して、インクの実際の描画が再生されるようにします。</span><span class="sxs-lookup"><span data-stu-id="e1627-340">**Ink-stant replay:** When inking on your slides, apply a replay animation to replay the actual drawing of your ink during your slide show.</span></span> [<span data-ttu-id="e1627-341">詳細情報</span><span class="sxs-lookup"><span data-stu-id="e1627-341">Learn more</span></span>](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496)
-
-- <span data-ttu-id="e1627-342">**ファイルを変換してアクセシビリティを向上させる**: ファイルを最新の形式にアップグレードすると、すべてのユーザがアクセスできるようになります。</span><span class="sxs-lookup"><span data-stu-id="e1627-342">**Convert files to improve accessibility:** Upgrade your files to the modern format to make them more accessible for everyone.</span></span>
-
-- <span data-ttu-id="e1627-343">**よりアクセシビリティの高い PDF ファイルを作成する:** PDF を作成すると、アクセシビリティ チェックが、保存する前に修正するアクセシビリティの問題を指摘します。</span><span class="sxs-lookup"><span data-stu-id="e1627-343">**Create more accessible PDFs:** Create a PDF and the accessibility checker will point out accessibility issues to fix before you save.</span></span>
-
-### <a name="word"></a><span data-ttu-id="e1627-344">Word</span><span class="sxs-lookup"><span data-stu-id="e1627-344">Word</span></span>
-
-- <span data-ttu-id="e1627-345">**他のユーザーがすばやく変更を確認:** 共同編集の改善とは、これまでになく迅速に、共同作業者がユーザーによる変更を確認できることを意味します。</span><span class="sxs-lookup"><span data-stu-id="e1627-345">**Others see your changes quickly:** Co-authoring improvements mean your collaborators can see your changes faster than ever before.</span></span>
-
-- <span data-ttu-id="e1627-346">**ファイルを変換してアクセシビリティを向上させる**: ファイルを最新の形式にアップグレードすると、すべてのユーザがアクセスできるようになります。</span><span class="sxs-lookup"><span data-stu-id="e1627-346">**Convert files to improve accessibility:** Upgrade your files to the modern format to make them more accessible for everyone.</span></span>
-
-- <span data-ttu-id="e1627-347">**よりアクセシビリティの高い PDF ファイルを作成する:** PDF を作成すると、アクセシビリティ チェックが、保存する前に修正するアクセシビリティの問題を指摘します。</span><span class="sxs-lookup"><span data-stu-id="e1627-347">**Create more accessible PDFs:** Create a PDF and the accessibility checker will point out accessibility issues to fix before you save.</span></span> [<span data-ttu-id="e1627-348">詳細情報</span><span class="sxs-lookup"><span data-stu-id="e1627-348">Learn more</span></span>](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
-
-## <a name="resolved-issues"></a><span data-ttu-id="e1627-349">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="e1627-349">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="e1627-350">Excel</span><span class="sxs-lookup"><span data-stu-id="e1627-350">Excel</span></span>
-
-- <span data-ttu-id="e1627-351">この変更は、ソフトウェア レンダリングを活用することにより、特定の Intel グラフィック ドライバーの問題を回避します。</span><span class="sxs-lookup"><span data-stu-id="e1627-351">This change circumvents a problem with certain Intel graphics drivers by leveraging software rendering.</span></span>
-
-- <span data-ttu-id="e1627-352">ピボット グラフの右クリック メニューを修正して、[詳細の表示] オプションを有効にしました。</span><span class="sxs-lookup"><span data-stu-id="e1627-352">We fixed the right click menu for Pivot Charts to enable the option to Show Details.</span></span>
-
-### <a name="outlook"></a><span data-ttu-id="e1627-353">Outlook</span><span class="sxs-lookup"><span data-stu-id="e1627-353">Outlook</span></span>
-
-- <span data-ttu-id="e1627-354">Web アドインがデジタル著作権管理 (DRM) メッセージにアクセスする原因となった問題に対処します。</span><span class="sxs-lookup"><span data-stu-id="e1627-354">Addresses an issue that caused web add ins to access Digital Rights Managed messages.</span></span>
-
-[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
-
-## <a name="version-1911-november-20"></a><span data-ttu-id="e1627-356">バージョン 1911: 11 月 20 日</span><span class="sxs-lookup"><span data-stu-id="e1627-356">Version 1911: November 20</span></span>
-<span data-ttu-id="e1627-357">*バージョン 1911 (ビルド 12228.20250)*</span><span class="sxs-lookup"><span data-stu-id="e1627-357">*Version 1911 (Build 12228.20250)*</span></span>
+## <a name="version-1912-december-19"></a><span data-ttu-id="d3ab9-278">バージョン 1912: 12 月 19 日</span><span class="sxs-lookup"><span data-stu-id="d3ab9-278">Version 1912: December 19</span></span>
+<span data-ttu-id="d3ab9-279">*バージョン 1912 (ビルド 12325.20214)*</span><span class="sxs-lookup"><span data-stu-id="d3ab9-279">*Version 1912 (Build 12325.20214)*</span></span>
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="feature-updates"></a><span data-ttu-id="e1627-359">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="e1627-359">Feature updates</span></span>
-### <a name="outlook"></a><span data-ttu-id="e1627-360">Outlook</span><span class="sxs-lookup"><span data-stu-id="e1627-360">Outlook</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="d3ab9-281">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="d3ab9-281">Feature updates</span></span>
+### <a name="word"></a><span data-ttu-id="d3ab9-282">Word</span><span class="sxs-lookup"><span data-stu-id="d3ab9-282">Word</span></span>
 
-- <span data-ttu-id="e1627-361">**高度なグループ メールの設定:** この機能は、グループ ユーザーが受信トレイで受信/フォローするメールまたはイベントを、カスタマイズするのに役立ちます。</span><span class="sxs-lookup"><span data-stu-id="e1627-361">**Advanced group email settings:** This feature helps groups users to customize which emails or events to receive/follow in their inbox.</span></span>
+- <span data-ttu-id="d3ab9-283">**より安全なビデオ エクスペリエンス:** セキュリティの強化は、より安全なオンライン ビデオ エクスペリエンスを意味します。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-283">**A more secure video experience:** Security enhancements mean a safer online video experience for you.</span></span> [<span data-ttu-id="d3ab9-284">詳細情報</span><span class="sxs-lookup"><span data-stu-id="d3ab9-284">Learn more</span></span>](https://support.office.com/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
 
-[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
-
-## <a name="version-1911-november-15"></a><span data-ttu-id="e1627-363">バージョン 1911: 11 月 15 日</span><span class="sxs-lookup"><span data-stu-id="e1627-363">Version 1911: November 15</span></span>
-<span data-ttu-id="e1627-364">*バージョン 1911 (ビルド 12228.20206)*</span><span class="sxs-lookup"><span data-stu-id="e1627-364">*Version 1911 (Build 12228.20206)*</span></span>
-
-## <a name="version-1911-november-12"></a><span data-ttu-id="e1627-365">バージョン 1911: 11 月 12 日</span><span class="sxs-lookup"><span data-stu-id="e1627-365">Version 1911: November 12</span></span>
-<span data-ttu-id="e1627-366">*バージョン 1911 (ビルド 12228.20120)*</span><span class="sxs-lookup"><span data-stu-id="e1627-366">*Version 1911 (Build 12228.20120)*</span></span>
-
-<span data-ttu-id="e1627-367">セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)</span><span class="sxs-lookup"><span data-stu-id="e1627-367">Security updates listed [here](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)</span></span>
-
-[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
-
-### <a name="feature-updates"></a><span data-ttu-id="e1627-369">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="e1627-369">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="e1627-370">Excel</span><span class="sxs-lookup"><span data-stu-id="e1627-370">Excel</span></span>
-
-- <span data-ttu-id="e1627-371">**データ ビジュアライザー アドイン:** Excel から Visio フローチャートをすばやく作成します。</span><span class="sxs-lookup"><span data-stu-id="e1627-371">**Data visualizer add-in:** Quickly create Visio flowcharts from Excel.</span></span> [<span data-ttu-id="e1627-372">詳細情報</span><span class="sxs-lookup"><span data-stu-id="e1627-372">Learn more</span></span>](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
-
-### <a name="outlook"></a><span data-ttu-id="e1627-373">Outlook</span><span class="sxs-lookup"><span data-stu-id="e1627-373">Outlook</span></span>
-
-- <span data-ttu-id="e1627-374">**アクセシビリティ対応のメールを最も必要としている人に送信する:** Outlook では、メールのヒントが表示され、アクセシビリティ対応のコンテンツを必要とするユーザーに送信するときに、コンテンツがアクセシビリティ対応であることを確認できます。</span><span class="sxs-lookup"><span data-stu-id="e1627-374">**Send accessible mail to those who need it most:** Outlook will display a mail tip to help you ensure that your content is accessible when sending to a user who prefers accessible content.</span></span>
-
-### <a name="powerpoint"></a><span data-ttu-id="e1627-375">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="e1627-375">PowerPoint</span></span>
-
-- <span data-ttu-id="e1627-376">**プレゼンテーションの最適化:** アクセシビリティ チェックを使用すると、スクリーン リーダーを考慮に入れて、スライド上のオブジェクトを配置することができます。</span><span class="sxs-lookup"><span data-stu-id="e1627-376">**Optimize your presentation for all:** Accessibility Checker helps you arrange objects on your slides with screen readers in mind.</span></span>
-
-### <a name="visio"></a><span data-ttu-id="e1627-377">Visio</span><span class="sxs-lookup"><span data-stu-id="e1627-377">Visio</span></span>
-
-- <span data-ttu-id="e1627-378">**Excel で洗練された Visio 図を作成する:** すばやく簡単に、データを Excel 内の洗練された Visio 図に可視化します。</span><span class="sxs-lookup"><span data-stu-id="e1627-378">**Make polished Visio diagrams in Excel:** Quickly and easily visualize your data into polished Visio diagrams within Excel.</span></span> [<span data-ttu-id="e1627-379">詳細情報</span><span class="sxs-lookup"><span data-stu-id="e1627-379">Learn more</span></span>](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
-
-### <a name="word"></a><span data-ttu-id="e1627-380">Word</span><span class="sxs-lookup"><span data-stu-id="e1627-380">Word</span></span>
-
-- <span data-ttu-id="e1627-381">**共同編集の改善:** コンテンツの変更をリアルタイムでユーザーが受け取れるようにすることで、共同編集のエクスペリエンスを改善しました。</span><span class="sxs-lookup"><span data-stu-id="e1627-381">**Coauthoring improvements:** Improved the coauthoring experience by making it more likely that content changes will be received by others in real time.</span></span>
-
-### <a name="office-suite"></a><span data-ttu-id="e1627-382">Office スイート</span><span class="sxs-lookup"><span data-stu-id="e1627-382">Office Suite</span></span>
-
-- <span data-ttu-id="e1627-383">**アップロード センターは、Files Needing Attention experience に置き換えられます:** アップロード センターは、[ファイル] > [開く] の Office アプリケーション内に表示される Files Needing Attention experience に置き換えられます。</span><span class="sxs-lookup"><span data-stu-id="e1627-383">**The Upload Center is being replaced by the Files Needing Attention experience:** The Upload Center is being replaced by the Files Needing Attention experience that will show up inside the Office applications under File > Open.</span></span> <span data-ttu-id="e1627-384">この新しいエクスペリエンスは、アップロード センターに比べ、最新かつ総合的で、煩わしくありません。</span><span class="sxs-lookup"><span data-stu-id="e1627-384">This new experience is more modern, integrated, and less intrusive compared to the Upload Center.</span></span>
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
 
@@ -547,86 +370,314 @@ ms.locfileid: "41978705"
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="e1627-387">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="e1627-387">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="e1627-388">Access</span><span class="sxs-lookup"><span data-stu-id="e1627-388">Access</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="d3ab9-287">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="d3ab9-287">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="d3ab9-288">Outlook</span><span class="sxs-lookup"><span data-stu-id="d3ab9-288">Outlook</span></span>
 
-- <span data-ttu-id="e1627-389">レコードのカウントが正しくないことがあります。</span><span class="sxs-lookup"><span data-stu-id="e1627-389">The record count could be incorrect.</span></span>
+- <span data-ttu-id="d3ab9-289">キーボード ショートカットを使用してメールボックス フォルダーを操作すると、ユーザーに顕著な遅延が発生する問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-289">Addressed an issue that caused users to see a noticeable delay when interacting with their mailbox folders through keyboard shortcuts.</span></span>
 
-### <a name="excel"></a><span data-ttu-id="e1627-390">Excel</span><span class="sxs-lookup"><span data-stu-id="e1627-390">Excel</span></span>
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-- <span data-ttu-id="e1627-391">別のシートのデータを参照しているスパークラインを含むシートを削除すると、再びそのファイルを開いた時に破損したファイルとして識別されるという問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="e1627-391">Resolved an issue where deleting sheets containing sparklines referencing data on another sheet could cause the file to be identified as corrupted when re-opened.</span></span>
-- <span data-ttu-id="e1627-392">グラフのサイズの変更が保存できないことがあります。</span><span class="sxs-lookup"><span data-stu-id="e1627-392">Changes to a chart size could not be saved.</span></span>
-- <span data-ttu-id="e1627-393">チェックボックスで正しく表示できないことがあります。</span><span class="sxs-lookup"><span data-stu-id="e1627-393">Checkboxes could not render correctly.</span></span>
-- <span data-ttu-id="e1627-394">[データ ソースの選択] ダイアログで、一部のフィールドで大文字と小文字が区別されないことがあります。</span><span class="sxs-lookup"><span data-stu-id="e1627-394">Select Data Source dialogs were not case sensitive for some fields.</span></span>
-- <span data-ttu-id="e1627-395">VBA 関数の一部で、新しいグラフに関するエラーが返されないことがあります。</span><span class="sxs-lookup"><span data-stu-id="e1627-395">Some VBA functions would return an error on new chart.</span></span>
-- <span data-ttu-id="e1627-396">ユーザーが Office 365 の Excel ブック形式で保存できなくなることがあります。</span><span class="sxs-lookup"><span data-stu-id="e1627-396">Users could be prevented from saving in Office 365 Excel Workbook format.</span></span>
-- <span data-ttu-id="e1627-397">自動調整を使用して行の高さを調整するときにチェック ボックスのコントロールが縮小されることがある問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="e1627-397">Resolved an issue where check box controls could shrink when using autofit to adjust row height.</span></span>
-- <span data-ttu-id="e1627-398">SQL 表形式サーバーのクエリのピボットテーブルの残りの部分と一緒にレポート フィルターを変換すると、正しい結果が返されないことがある問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="e1627-398">Resolved an Issue where you may get incorrect results when converting report filters along with the rest of the PivotTable for queries to SQL tabular servers.</span></span>
-- <span data-ttu-id="e1627-399">信頼されていないネットワーク共有から保護されたファイルを編集すると、Excel にエラーが発生することがある問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="e1627-399">Resolved an issue where Excel may fail when editing a protected file from an untrusted network share.</span></span>
-- <span data-ttu-id="e1627-400">ナレーターと拡大鏡を同時に使用すると、エラーが発生することがあります。</span><span class="sxs-lookup"><span data-stu-id="e1627-400">Using Narrator and Magnifier at the same time may result in a failure.</span></span>
-- <span data-ttu-id="e1627-401">スクロール後にセルを選択すると間違ったセルが選択されることがある問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="e1627-401">Resolved an issue where selecting a cell after scrolling could result in the wrong cell being selected.</span></span>
-- <span data-ttu-id="e1627-402">結合されたセルで列を削除するパフォーマンスが大幅に改善されました。</span><span class="sxs-lookup"><span data-stu-id="e1627-402">We significantly improved the performance of deleting columns with merged cells.</span></span>
+## <a name="version-1912-december-12"></a><span data-ttu-id="d3ab9-291">バージョン 1912: 12 月 12 日</span><span class="sxs-lookup"><span data-stu-id="d3ab9-291">Version 1912: December 12</span></span>
+<span data-ttu-id="d3ab9-292">*バージョン 1912 (ビルド 12325.20172)*</span><span class="sxs-lookup"><span data-stu-id="d3ab9-292">*Version 1912 (Build 12325.20172)*</span></span>
 
-### <a name="onenote"></a><span data-ttu-id="e1627-403">OneNote</span><span class="sxs-lookup"><span data-stu-id="e1627-403">OneNote</span></span>
 
-- <span data-ttu-id="e1627-404">ローカル リソースからクラウド リソースへの同期に影響する可能性がある問題を特定しました。</span><span class="sxs-lookup"><span data-stu-id="e1627-404">Identified an issue which could affect syncing from a local resource to a cloud resource.</span></span>
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="outlook"></a><span data-ttu-id="e1627-405">Outlook</span><span class="sxs-lookup"><span data-stu-id="e1627-405">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="d3ab9-294">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="d3ab9-294">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="d3ab9-295">Excel</span><span class="sxs-lookup"><span data-stu-id="d3ab9-295">Excel</span></span>
 
-- <span data-ttu-id="e1627-406">会議室の検索ツールで、使用可能な会議室が&quot;なし&quot;と表示される場合があります。</span><span class="sxs-lookup"><span data-stu-id="e1627-406">Room Finder tool may be displaying &quot;None&quot; for available rooms.</span></span>
-- <span data-ttu-id="e1627-407">リボンを自動的に非表示にするよう設定されている場合に検索ボックスが消えるという問題を特定しました。</span><span class="sxs-lookup"><span data-stu-id="e1627-407">Identified an issue where the search box could disappear when the ribbon is set to hide automatically.</span></span>
-- <span data-ttu-id="e1627-408">メールにデジタル署名付きの添付ファイルがある場合にそのメールに署名するとデジタル署名が破損する可能性がある問題を特定しました。</span><span class="sxs-lookup"><span data-stu-id="e1627-408">Identified an issue which could cause digital signatures to become broken when signing an e-mail with a digitally signed attachment.</span></span>
-- <span data-ttu-id="e1627-409">メールを転送すると、埋め込み画像がなくなる場合があります。</span><span class="sxs-lookup"><span data-stu-id="e1627-409">A forwarded e-mail may be missing embedded images.</span></span>
-- <span data-ttu-id="e1627-410">厳しいテナント制限がある Outlook プロファイルをユーザーが作成できない場合があります。</span><span class="sxs-lookup"><span data-stu-id="e1627-410">Users may not be able to create Outlook profiles with strict tenant restriction.</span></span>
-- <span data-ttu-id="e1627-411">長いファイル名がメッセージ本文へのドラッグ アンド ドロップ後に切り捨てられる問題を特定しました。</span><span class="sxs-lookup"><span data-stu-id="e1627-411">Identified an issue where long filenames were truncated after draging and droping to the message body.</span></span>
+- <span data-ttu-id="d3ab9-296">英語以外の文字セットを使用している場合に、ユーザーが変更を保存する際にエラーが発生する場合があります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-296">Users may encounter an error when saving changes while using some non-English character sets.</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="e1627-412">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="e1627-412">PowerPoint</span></span>
+- <span data-ttu-id="d3ab9-297">セル内の動的配列数式を編集すると、その結果、セルの境界の外にテキストが並んでしまう可能性がある</span><span class="sxs-lookup"><span data-stu-id="d3ab9-297">Editing dynamic array formulas within a cell may result in text being aligned outside of the boundary of the cell.</span></span>
 
-- <span data-ttu-id="e1627-413">グラフのサイズの変更が保存できないことがあります。</span><span class="sxs-lookup"><span data-stu-id="e1627-413">Changes to a chart size could not be saved.</span></span>
-- <span data-ttu-id="e1627-414">ナレーターと拡大鏡を同時に使用すると、エラーが発生することがあります。</span><span class="sxs-lookup"><span data-stu-id="e1627-414">Using Narrator and Magnifier at the same time may result in a failure.</span></span>
-- <span data-ttu-id="e1627-415">スライド プレビューの縦横比が適切にロック/ロック解除されていない問題を特定しました。</span><span class="sxs-lookup"><span data-stu-id="e1627-415">Identified an issue where aspect ratio for the slide preview was not being properly locked/unlocked.</span></span>
+- <span data-ttu-id="d3ab9-298">一部のローカライズにおいて、[Text to Column] 機能が失敗することがある</span><span class="sxs-lookup"><span data-stu-id="d3ab9-298">Text to Column functionality may fail for some localizations.</span></span>
 
-### <a name="project"></a><span data-ttu-id="e1627-416">Project</span><span class="sxs-lookup"><span data-stu-id="e1627-416">Project</span></span>
+- <span data-ttu-id="d3ab9-299">埋め込まれたブックを開くときにリボンのカスタマイズが読み込まれない問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-299">Resolved an issue with ribbon customization not loading when opening embedded workbook.</span></span>
 
-- <span data-ttu-id="e1627-417">タスクの更新を実行中に入力したノートが保存されない可能性がある問題を特定しました。</span><span class="sxs-lookup"><span data-stu-id="e1627-417">Identified an issue where notes might not persist if entered while doing update tasks.</span></span>
-- <span data-ttu-id="e1627-418">ユーザーがタスクを完了としてマークすることができず、99% に設定されます。</span><span class="sxs-lookup"><span data-stu-id="e1627-418">User is unable to mark a task as complete, and it gets set to 99%.</span></span>
-- <span data-ttu-id="e1627-419">平準化によって割り当て超過が解決されないことがあります。</span><span class="sxs-lookup"><span data-stu-id="e1627-419">Overallocations are not resolved by leveling.</span></span>
-- <span data-ttu-id="e1627-420">読み取り専用のプロジェクトを開いたときに複数のメッセージを取得する可能性があるという問題を特定しました。</span><span class="sxs-lookup"><span data-stu-id="e1627-420">Identified an issue where users could get several messages when opening a read-only project.</span></span>
-- <span data-ttu-id="e1627-421">ファイルがユーザーによってロックされている場合に、ユーザー名がエラー メッセージに表示されない可能性がある問題を特定しました。</span><span class="sxs-lookup"><span data-stu-id="e1627-421">Identified an issue where a file could be locked by a user, but no username would be displayed in the error message.</span></span>
+- <span data-ttu-id="d3ab9-300">非表示の名前付き範囲にアクセスすると、ユーザーにエラーが発生する場合があります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-300">Users may encounter an error when accessing a hidden named range.</span></span>
 
-### <a name="publisher"></a><span data-ttu-id="e1627-422">Publisher</span><span class="sxs-lookup"><span data-stu-id="e1627-422">Publisher</span></span>
+- <span data-ttu-id="d3ab9-301">余白のドロップダウン メニューが正しくレンダリングされない場合があります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-301">Margin dropdown menu may not render correctly.</span></span>
 
-- <span data-ttu-id="e1627-423">図形がグラフィックの境界線の外側に表示されることがあります。</span><span class="sxs-lookup"><span data-stu-id="e1627-423">Shapes could appear outside of the graphics border.</span></span>
+- <span data-ttu-id="d3ab9-302">4K 解像度のハードウェアのグラフィック アクセラレータを無効にすると、スクロールしたときにセルのレンダリングが遅れる場合があります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-302">Disabling hardware graphics acceleration with 4K resolution may result in delayed rendering of cells when scrolling around.</span></span>
 
-### <a name="word"></a><span data-ttu-id="e1627-424">Word</span><span class="sxs-lookup"><span data-stu-id="e1627-424">Word</span></span>
+- <span data-ttu-id="d3ab9-303">この変更は、ソフトウェア レンダリングを活用することにより、特定の Intel グラフィック ドライバーの問題を回避します。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-303">This change circumvents a problem with certain Intel graphics drivers by leveraging software rendering.</span></span>
 
-- <span data-ttu-id="e1627-425">文章校正の候補がコンテキスト メニューに表示されないことがあります。</span><span class="sxs-lookup"><span data-stu-id="e1627-425">Proofing suggestions are not displaying in contextual menus.</span></span>
-- <span data-ttu-id="e1627-426">グラフのサイズの変更が保存できないことがあります。</span><span class="sxs-lookup"><span data-stu-id="e1627-426">Changes to a chart size could not be saved.</span></span>
-- <span data-ttu-id="e1627-427">図形がグラフィックの境界線の外側に表示されることがあります。</span><span class="sxs-lookup"><span data-stu-id="e1627-427">Shapes could appear outside of the graphics border.</span></span>
-- <span data-ttu-id="e1627-428">スクリーン リーダーを使用中にコメントを表示するときの問題を特定しました。</span><span class="sxs-lookup"><span data-stu-id="e1627-428">Identified an issue when viewing comments while using a screen reader.</span></span>
-- <span data-ttu-id="e1627-429">一部の批評がスペルまたは文法の批評と誤って識別される問題を特定しました。</span><span class="sxs-lookup"><span data-stu-id="e1627-429">Identified an issue where some critiques were misidentified as being spelling or grammar critiques.</span></span>
-- <span data-ttu-id="e1627-430">Outlook メッセージからの cid: 画像のリンクが、要求があったときに正常に分割できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="e1627-430">The links of cid: images from Outlook messages can now be successfully broken when requested.</span></span>
-- <span data-ttu-id="e1627-431">韓国語/英語のオートコレクトを使用しているときに、間違った文字が表示される場合があります。</span><span class="sxs-lookup"><span data-stu-id="e1627-431">Incorrect characters may appear when using Korean/English autocorrect.</span></span>
-- <span data-ttu-id="e1627-432">ナビゲーション ウィンドウから検索できない場合があります。</span><span class="sxs-lookup"><span data-stu-id="e1627-432">Searching from the Navigation pane may fail.</span></span>
-- <span data-ttu-id="e1627-433">ナレーターと拡大鏡を同時に使用すると、エラーが発生することがあります。</span><span class="sxs-lookup"><span data-stu-id="e1627-433">Using Narrator and Magnifier at the same time may result in a failure.</span></span>
-- <span data-ttu-id="e1627-434">コンテンツ ポリシーがコメントに正しく適用されません。</span><span class="sxs-lookup"><span data-stu-id="e1627-434">Content policies are being incorrectly applied to comments.</span></span>
-- <span data-ttu-id="e1627-435">上位のポリシー ラベルが優先して適用されるべき時に、低いポリシー ラベルが適用されることがあります。</span><span class="sxs-lookup"><span data-stu-id="e1627-435">Lower policy labels may be applied when a higher policy label should have taken priority.</span></span>
-- <span data-ttu-id="e1627-436">以前のドキュメントを開いたまま [情報] タブに移動すると、エラーが発生することがあります。</span><span class="sxs-lookup"><span data-stu-id="e1627-436">Opening legacy documents and then going to the Info tab can cause a failure.</span></span>
-- <span data-ttu-id="e1627-437">新しいコメント ダイアログがフォーカスを取得できないことがある問題を特定しました。</span><span class="sxs-lookup"><span data-stu-id="e1627-437">Identified an issue where a new comment dialog could sometimes not obtain focus.</span></span>
-- <span data-ttu-id="e1627-438">連絡先カードが、@ メンションに書式を設定した後に、開けなくなることがあります。</span><span class="sxs-lookup"><span data-stu-id="e1627-438">A contact card could be prevented from opening after apply formatting to an @ mention.</span></span>
-- <span data-ttu-id="e1627-439">テキストの強調表示は難しいことがあります。</span><span class="sxs-lookup"><span data-stu-id="e1627-439">Highlighting text could be challenging.</span></span>
-- <span data-ttu-id="e1627-440">ユーザーが Word、Excel、および PowerPoint のドキュメントを保存できなくなることがある問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="e1627-440">Resolved an issue where users may be unable to save Word, Excel, and PowerPoint documents.</span></span> <span data-ttu-id="e1627-441">この問題は、[保存] アイコンをクリックしたり Ctrl キーを押しながら S キーを押したりした後に、新しいファイルを作成して [名前を付けて保存] オプションを表示するユーザーに影響を与えます。</span><span class="sxs-lookup"><span data-stu-id="e1627-441">This issue affects users that create a new file and bring up the "Save as" option after clicking on the Save icon or pressing Ctrl + S.</span></span>
-- <span data-ttu-id="e1627-442">濃色のテキストで書かれた従来のコメントがダーク モードで表示されません。</span><span class="sxs-lookup"><span data-stu-id="e1627-442">Legacy comments written with dark text is not visible in Dark Mode.</span></span>
-- <span data-ttu-id="e1627-443">ユーザーがエディターの個々のアイテムに移動できなくなることがあります。</span><span class="sxs-lookup"><span data-stu-id="e1627-443">A user could be prevented from navigating to an individual item in the editor.</span></span>
-- <span data-ttu-id="e1627-444">文法またはスペルのエラーが強調表示されないことがあります。</span><span class="sxs-lookup"><span data-stu-id="e1627-444">Grammar or spelling errors might not be highlighted.</span></span>
+### <a name="onenote"></a><span data-ttu-id="d3ab9-304">OneNote</span><span class="sxs-lookup"><span data-stu-id="d3ab9-304">OneNote</span></span>
 
-### <a name="office-suite"></a><span data-ttu-id="e1627-445">Office スイート</span><span class="sxs-lookup"><span data-stu-id="e1627-445">Office Suite</span></span>
+- <span data-ttu-id="d3ab9-305">OneNote は、「会議ノート」の Outlook アドインを介して開かない場合があります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-305">OneNote may not open via the 'Meeting Notes' Outlook add-in.</span></span>
 
-- <span data-ttu-id="e1627-446">一部の描画がプレビューやスライド ショーに表示されない場合があります。</span><span class="sxs-lookup"><span data-stu-id="e1627-446">Some drawings may not display in preview or slide shows.</span></span>
-- <span data-ttu-id="e1627-447">[別のインストールが進行中です] という誤ったエラー メッセージによりアップグレードに失敗することがある問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="e1627-447">We fixed an issue where an upgrade could be prevented by a incorrect error message of "Another install in progress".</span></span>
-- <span data-ttu-id="e1627-448">縦書きのテキスト ボックス内で一部のカタカナが正しく表示されないことがあります。</span><span class="sxs-lookup"><span data-stu-id="e1627-448">Some katakana characters may display incorrectly in a vertical text box.</span></span>
-- <span data-ttu-id="e1627-449">接続されていないネットワーク共有にファイルを保存しようとすると、エラーが発生する場合があります。</span><span class="sxs-lookup"><span data-stu-id="e1627-449">Attempting to save a file to a disconnected network share may result in a filure.</span></span>
-- <span data-ttu-id="e1627-450">Windows 7 で図形を使用する場合のパフォーマンスの問題</span><span class="sxs-lookup"><span data-stu-id="e1627-450">Performance issue when using Shapes on Windows 7.</span></span>
+### <a name="outlook"></a><span data-ttu-id="d3ab9-306">Outlook</span><span class="sxs-lookup"><span data-stu-id="d3ab9-306">Outlook</span></span>
+
+- <span data-ttu-id="d3ab9-307">クロス フォルダー コンテンツを含む断続的なクラッシュ。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-307">Intermittent crash involving cross folder content.</span></span>
+
+- <span data-ttu-id="d3ab9-308">Outlook のメール メッセージにインラインで挿入された画像のサイズが変更される場合があります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-308">Images inserted inline to Outlook e-mail messages can sometimes get resized.</span></span>
+
+- <span data-ttu-id="d3ab9-309">グループ ポリシーを使用して S/MIME の既定の署名構成を適用する機能が追加された。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-309">Added the ability to enforce S/MIME default signing configuration via group policy.</span></span>
+
+- <span data-ttu-id="d3ab9-310">予想よりも埋め込み画像が小さく表示されることがあります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-310">Embedded images may appear smaller than expected.</span></span>
+
+- <span data-ttu-id="d3ab9-311">保持ポリシーのラベルには、保持期間がかっこ内に表示される場合があります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-311">Retention policy labels may display the retention time period in parenthesis.</span></span>
+
+- <span data-ttu-id="d3ab9-312">代替送信者の使用中にポリシーのヒントが表示されない問題に対処します。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-312">Addresses an issue that caused Policy tips to fail to display when using an alternate sender.</span></span>
+
+- <span data-ttu-id="d3ab9-313">日本語パックの連絡先カードに空白が表示される場合があります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-313">Blank spaces may appear in Contact cards with Japanese language pack.</span></span>
+
+- <span data-ttu-id="d3ab9-314">会議をクリアした後、会議の場所が予期せずに会議に追加される問題に対処します。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-314">Addresses an issue that caused the location of a meeting to get added back to the meeting unexpectedly after clearing it.</span></span>
+
+### <a name="powerpoint"></a><span data-ttu-id="d3ab9-315">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="d3ab9-315">PowerPoint</span></span>
+
+- <span data-ttu-id="d3ab9-316">テキストからフォーカスを移動した後、カーソルが表示されないことがあります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-316">Cursor may disappear after moving focus from text.</span></span>
+
+- <span data-ttu-id="d3ab9-317">ある Office アプリケーションから別の Office アプリケーションへの安全なリンクは、リンクされたアプリケーションを起動しない場合があります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-317">Safelinks from one Office application to another may not launch the linked application.</span></span>
+
+- <span data-ttu-id="d3ab9-318">場合によっては、タッチ デバイスでのスクロールが機能しないことがあります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-318">In some cases, scrolling with touch devices will not work.</span></span>
+
+- <span data-ttu-id="d3ab9-319">クラウド ファイル内のスライドに 2 つ以上の異なるビデオがある場合、ビデオの画像は正しく表示されますが、ユーザーがそれぞれのビデオを再生するためにクリックすると、同一の内容のビデオが再生されます。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-319">If a user has two (or more) different videos on a slide in a cloud file, the video images are rendered correctly, but when the user clicks on each one to play, the video content is the same.</span></span>
+
+- <span data-ttu-id="d3ab9-320">余白のドロップダウン メニューが正しくレンダリングされない場合があります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-320">Margin dropdown menu may not render correctly.</span></span>
+
+### <a name="project"></a><span data-ttu-id="d3ab9-321">Project</span><span class="sxs-lookup"><span data-stu-id="d3ab9-321">Project</span></span>
+
+- <span data-ttu-id="d3ab9-322">ダーク モードの場合、リソースが過剰に割り当てられているタスクのタスク検査パネルに移動すると、表を読み取ることができません。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-322">If you are in Dark mode, when you go to the task inspector panel on a task with an overallocated resource, you are unable to read the table.</span></span>
+
+- <span data-ttu-id="d3ab9-323">ユーザーにライセンスに関するエラーが表示されることがあります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-323">Users may experience an error regarding licensing.</span></span>
+
+- <span data-ttu-id="d3ab9-324">日付の選択の [今日] ボタンで正しくない日付が設定されることがあります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-324">The Today button in the date picker may sometimes set the incorrect date.</span></span>
+
+- <span data-ttu-id="d3ab9-325">[プロジェクトの比較] 機能を使用すると、Project がクラッシュする場合があります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-325">Project may crash when you use the Compare Projects feature.</span></span>
+
+- <span data-ttu-id="d3ab9-326">割り当てのないタスクに作業を設定すると、1 日間に丸められます。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-326">Setting effort on tasks that have no assignments are rounded to 1 day.</span></span>
+
+### <a name="word"></a><span data-ttu-id="d3ab9-327">Word</span><span class="sxs-lookup"><span data-stu-id="d3ab9-327">Word</span></span>
+
+- <span data-ttu-id="d3ab9-328">ウィンドウ スイッチャーが非表示のときに、コメントのヒントを選択すると最新のコメント ウィンドウが表示されるようになります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-328">Selecting a comment hint should now show the modern comments pane when hidden in pane switcher.</span></span>
+
+- <span data-ttu-id="d3ab9-329">右クリックすると、完全に一致する単語が選択されないことがあります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-329">Right-clicking can sometimes not result in selecting the whole word.</span></span>
+
+- <span data-ttu-id="d3ab9-330">ある Office アプリケーションから別の Office アプリケーションへの安全なリンクは、リンクされたアプリケーションを起動しない場合があります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-330">Safelinks from one Office application to another may not launch the linked application.</span></span>
+
+- <span data-ttu-id="d3ab9-331">文書パーツ オーガナイザーに無効なアラートが表示される場合があります。&quot;スタイル、文書パーツを変更しました。&quot;</span><span class="sxs-lookup"><span data-stu-id="d3ab9-331">Building blocks organizer may display an invalid alert: &quot;You have modified styles, building blocks&quot;.</span></span>
+
+- <span data-ttu-id="d3ab9-332">一部のテーマでは、どのコメントが選択されているかの判断が困難になることがあります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-332">Some themes may make it difficult to determine which comment is selected.</span></span>
+
+- <span data-ttu-id="d3ab9-333">提案されたファイル形式に変換した後、カーソルがオブジェクト内でアクティブのままになっている可能性があります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-333">The cursor may remain active within an object after converting to a suggested format.</span></span>
+
+- <span data-ttu-id="d3ab9-334">一部のシナリオでは、メッセージ内の画像が正しく拡大されないことがあります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-334">Images in messages may be incorrectly scaled in some scenarios.</span></span>
+
+- <span data-ttu-id="d3ab9-335">コピーと貼り付けを使用すると、コメント ウィンドウが再読み込みされることがあります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-335">Comment pane sometimes gets reloaded when using copy/paste.</span></span>
+
+- <span data-ttu-id="d3ab9-336">コメントが正しい順序で貼り付けられない場合があります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-336">Comments are sometimes not pasted in the correct order.</span></span>
+
+- <span data-ttu-id="d3ab9-337">コメント カードでユーザーをメンションすると、JSON が表示される場合があります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-337">At-mentioning a user in a comment card may show JSON.</span></span>
+
+- <span data-ttu-id="d3ab9-338">余白のドロップダウン メニューが正しくレンダリングされない場合があります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-338">Margin dropdown menu may not render correctly.</span></span>
+
+- <span data-ttu-id="d3ab9-339">分割画面の境界のサイズを変更すると、さらに分割画面が表示される場合があります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-339">Resizing a split screen border may introduce an additional split screen.</span></span>
+
+- <span data-ttu-id="d3ab9-340">カスタム スタイルのマルチレベル リストで構成されるテンプレートを既存のドキュメントに適用すると、特定の条件下でスタイルが保持されない場合があります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-340">Applying a template consisting of a multi-level list with custom styles to existing documents may not preserve the style under certain conditions.</span></span>
+
+- <span data-ttu-id="d3ab9-341">差し込み印刷の実行後に、特定の条件下でファイルを保存できない場合があります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-341">Saving a file after doing a mail merge may not work under certain conditions.</span></span>
+
+### <a name="office-suite"></a><span data-ttu-id="d3ab9-342">Office スイート</span><span class="sxs-lookup"><span data-stu-id="d3ab9-342">Office Suite</span></span>
+
+- <span data-ttu-id="d3ab9-343">Excel から PowerPoint にグラフを貼り付けると、グラフのサイズが小さくなる場合があります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-343">Pasting a chart from Excel to PowerPoint can reduce the size of the chart.</span></span>
+
+- <span data-ttu-id="d3ab9-344">コメントに返信すると、テキストボックスがウィンドウの端を超えて縦方向に展開されることがあります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-344">Replying to a comment may cause the textbox to expand vertically beyond the edge of the pane.</span></span>
+
+- <span data-ttu-id="d3ab9-345">日本語ベースの製品の場合、アカウント ユーザーの姓と名が誤った順序で表示される場合があります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-345">For Japanese based products, account user first name, last name may appear in incorrect order.</span></span>
+
+- <span data-ttu-id="d3ab9-346">ODT と GPO の更新期限設定で、相対期限の設定後、初回のみしか機能しないバスが修正されました。修正により、2 回目以降の更新プログラムで相対期限を使用きるようになりました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-346">Fix to bug in ODT and GPO Update Deadline setting where relative deadline only works the first time it is set, the fix enables the relative deadline for subsequent updates.</span></span>
+
+- <span data-ttu-id="d3ab9-347">コメントにマウス ポインターを合わせた際に、コメントの周りにテキストボックスのアウトラインが表示される場合があります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-347">Hovering a mouse pointer over comments may display a textbox outline around the comment.</span></span>
+
+- <span data-ttu-id="d3ab9-348">Office の更新プログラムが、意図したソース (ローカル共有、ネットワーク共有、構成マネージャー
+で提供される場所など) からではなく、予期せずに Office CDN からファイルをダウンロードする場合がある問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-348">Resolved an issue where Office updates may have unexpectedly downloaded files from the Office CDN instead of the intended source, such as a local or network share, or Configuration Manager-provided location.</span></span>
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-1911-december-10"></a><span data-ttu-id="d3ab9-350">バージョン 1911: 12 月 10 日</span><span class="sxs-lookup"><span data-stu-id="d3ab9-350">Version 1911: December 10</span></span>
+<span data-ttu-id="d3ab9-351">*バージョン 1911 (ビルド 12228.20364)*</span><span class="sxs-lookup"><span data-stu-id="d3ab9-351">*Version 1911 (Build 12228.20364)*</span></span>
+
+<span data-ttu-id="d3ab9-352">セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)</span><span class="sxs-lookup"><span data-stu-id="d3ab9-352">Security updates listed [here](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)</span></span>
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a><span data-ttu-id="d3ab9-354">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="d3ab9-354">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="d3ab9-355">Excel</span><span class="sxs-lookup"><span data-stu-id="d3ab9-355">Excel</span></span>
+
+- <span data-ttu-id="d3ab9-356">**ファイルを変換してアクセシビリティを向上させる**: ファイルを最新の形式にアップグレードすると、すべてのユーザがアクセスできるようになります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-356">**Convert files to improve accessibility:** Upgrade your files to the modern format to make them more accessible for everyone.</span></span>
+
+- <span data-ttu-id="d3ab9-357">**よりアクセシビリティの高い PDF ファイルを作成する:** PDF を作成すると、アクセシビリティ チェックが、保存する前に修正するアクセシビリティの問題を指摘します。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-357">**Create more accessible PDFs:** Create a PDF and the accessibility checker will point out accessibility issues to fix before you save.</span></span> [<span data-ttu-id="d3ab9-358">詳細情報</span><span class="sxs-lookup"><span data-stu-id="d3ab9-358">Learn more</span></span>](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+### <a name="outlook"></a><span data-ttu-id="d3ab9-359">Outlook</span><span class="sxs-lookup"><span data-stu-id="d3ab9-359">Outlook</span></span>
+
+- <span data-ttu-id="d3ab9-360">**グループの名前付けポリシー**: グループの名前付けポリシーを使用すると、IT 管理者は組織内のユーザーが作成するグループの名前の標準化と管理を行えます。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-360">**Groups Naming policy:** A group naming policy enables the IT admin to standardize and manage the names of groups created by users in the organization.</span></span> <span data-ttu-id="d3ab9-361">管理者は、グループが作成される際に特定のプレフィックスとサフィックスをグループ名に追加することを要求できます。また、特定の単語の使用を禁止できます。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-361">The admin can require a specific prefix and suffix be added to the name for a group when it's created, and can block specific words from being used.</span></span> <span data-ttu-id="d3ab9-362">これにより、グループ名での不適切な単語の使用を最小限に抑えられる他、ディレクトリ内のグループ名の記載を IT 管理者が管理できます。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-362">This helps minimize the use of inappropriate words in group names as well as IT manage the representation of groups in their directory.</span></span> <span data-ttu-id="d3ab9-363">また、名前付けポリシーを使用することで、チーム サイトを展開する組織は、チーム サイトを部署ごとに分類できるようにもなります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-363">Naming Policy also helps organizations that deploy team sites to categorize them based on department.</span></span>
+
+### <a name="powerpoint"></a><span data-ttu-id="d3ab9-364">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="d3ab9-364">PowerPoint</span></span>
+
+- <span data-ttu-id="d3ab9-365">**インクを瞬時に再生:** スライドで手描き入力する場合は、スライド ショー中にアニメーションの再生を適用して、インクの実際の描画が再生されるようにします。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-365">**Ink-stant replay:** When inking on your slides, apply a replay animation to replay the actual drawing of your ink during your slide show.</span></span> [<span data-ttu-id="d3ab9-366">詳細情報</span><span class="sxs-lookup"><span data-stu-id="d3ab9-366">Learn more</span></span>](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496)
+
+- <span data-ttu-id="d3ab9-367">**ファイルを変換してアクセシビリティを向上させる**: ファイルを最新の形式にアップグレードすると、すべてのユーザがアクセスできるようになります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-367">**Convert files to improve accessibility:** Upgrade your files to the modern format to make them more accessible for everyone.</span></span>
+
+- <span data-ttu-id="d3ab9-368">**よりアクセシビリティの高い PDF ファイルを作成する:** PDF を作成すると、アクセシビリティ チェックが、保存する前に修正するアクセシビリティの問題を指摘します。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-368">**Create more accessible PDFs:** Create a PDF and the accessibility checker will point out accessibility issues to fix before you save.</span></span>
+
+### <a name="word"></a><span data-ttu-id="d3ab9-369">Word</span><span class="sxs-lookup"><span data-stu-id="d3ab9-369">Word</span></span>
+
+- <span data-ttu-id="d3ab9-370">**他のユーザーがすばやく変更を確認:** 共同編集の改善とは、これまでになく迅速に、共同作業者がユーザーによる変更を確認できることを意味します。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-370">**Others see your changes quickly:** Co-authoring improvements mean your collaborators can see your changes faster than ever before.</span></span>
+
+- <span data-ttu-id="d3ab9-371">**ファイルを変換してアクセシビリティを向上させる**: ファイルを最新の形式にアップグレードすると、すべてのユーザがアクセスできるようになります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-371">**Convert files to improve accessibility:** Upgrade your files to the modern format to make them more accessible for everyone.</span></span>
+
+- <span data-ttu-id="d3ab9-372">**よりアクセシビリティの高い PDF ファイルを作成する:** PDF を作成すると、アクセシビリティ チェックが、保存する前に修正するアクセシビリティの問題を指摘します。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-372">**Create more accessible PDFs:** Create a PDF and the accessibility checker will point out accessibility issues to fix before you save.</span></span> [<span data-ttu-id="d3ab9-373">詳細情報</span><span class="sxs-lookup"><span data-stu-id="d3ab9-373">Learn more</span></span>](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+## <a name="resolved-issues"></a><span data-ttu-id="d3ab9-374">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="d3ab9-374">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="d3ab9-375">Excel</span><span class="sxs-lookup"><span data-stu-id="d3ab9-375">Excel</span></span>
+
+- <span data-ttu-id="d3ab9-376">この変更は、ソフトウェア レンダリングを活用することにより、特定の Intel グラフィック ドライバーの問題を回避します。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-376">This change circumvents a problem with certain Intel graphics drivers by leveraging software rendering.</span></span>
+
+- <span data-ttu-id="d3ab9-377">ピボット グラフの右クリック メニューを修正して、[詳細の表示] オプションを有効にしました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-377">We fixed the right click menu for Pivot Charts to enable the option to Show Details.</span></span>
+
+### <a name="outlook"></a><span data-ttu-id="d3ab9-378">Outlook</span><span class="sxs-lookup"><span data-stu-id="d3ab9-378">Outlook</span></span>
+
+- <span data-ttu-id="d3ab9-379">Web アドインがデジタル著作権管理 (DRM) メッセージにアクセスする原因となった問題に対処します。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-379">Addresses an issue that caused web add ins to access Digital Rights Managed messages.</span></span>
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-1911-november-20"></a><span data-ttu-id="d3ab9-381">バージョン 1911: 11 月 20 日</span><span class="sxs-lookup"><span data-stu-id="d3ab9-381">Version 1911: November 20</span></span>
+<span data-ttu-id="d3ab9-382">*バージョン 1911 (ビルド 12228.20250)*</span><span class="sxs-lookup"><span data-stu-id="d3ab9-382">*Version 1911 (Build 12228.20250)*</span></span>
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a><span data-ttu-id="d3ab9-384">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="d3ab9-384">Feature updates</span></span>
+### <a name="outlook"></a><span data-ttu-id="d3ab9-385">Outlook</span><span class="sxs-lookup"><span data-stu-id="d3ab9-385">Outlook</span></span>
+
+- <span data-ttu-id="d3ab9-386">**高度なグループ メールの設定:** この機能は、グループ ユーザーが受信トレイで受信/フォローするメールまたはイベントを、カスタマイズするのに役立ちます。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-386">**Advanced group email settings:** This feature helps groups users to customize which emails or events to receive/follow in their inbox.</span></span>
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-1911-november-15"></a><span data-ttu-id="d3ab9-388">バージョン 1911: 11 月 15 日</span><span class="sxs-lookup"><span data-stu-id="d3ab9-388">Version 1911: November 15</span></span>
+<span data-ttu-id="d3ab9-389">*バージョン 1911 (ビルド 12228.20206)*</span><span class="sxs-lookup"><span data-stu-id="d3ab9-389">*Version 1911 (Build 12228.20206)*</span></span>
+
+## <a name="version-1911-november-12"></a><span data-ttu-id="d3ab9-390">バージョン 1911: 11 月 12 日</span><span class="sxs-lookup"><span data-stu-id="d3ab9-390">Version 1911: November 12</span></span>
+<span data-ttu-id="d3ab9-391">*バージョン 1911 (ビルド 12228.20120)*</span><span class="sxs-lookup"><span data-stu-id="d3ab9-391">*Version 1911 (Build 12228.20120)*</span></span>
+
+<span data-ttu-id="d3ab9-392">セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)</span><span class="sxs-lookup"><span data-stu-id="d3ab9-392">Security updates listed [here](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)</span></span>
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a><span data-ttu-id="d3ab9-394">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="d3ab9-394">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="d3ab9-395">Excel</span><span class="sxs-lookup"><span data-stu-id="d3ab9-395">Excel</span></span>
+
+- <span data-ttu-id="d3ab9-396">**データ ビジュアライザー アドイン:** Excel から Visio フローチャートをすばやく作成します。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-396">**Data visualizer add-in:** Quickly create Visio flowcharts from Excel.</span></span> [<span data-ttu-id="d3ab9-397">詳細情報</span><span class="sxs-lookup"><span data-stu-id="d3ab9-397">Learn more</span></span>](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+### <a name="outlook"></a><span data-ttu-id="d3ab9-398">Outlook</span><span class="sxs-lookup"><span data-stu-id="d3ab9-398">Outlook</span></span>
+
+- <span data-ttu-id="d3ab9-399">**アクセシビリティ対応のメールを最も必要としている人に送信する:** Outlook では、メールのヒントが表示され、アクセシビリティ対応のコンテンツを必要とするユーザーに送信するときに、コンテンツがアクセシビリティ対応であることを確認できます。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-399">**Send accessible mail to those who need it most:** Outlook will display a mail tip to help you ensure that your content is accessible when sending to a user who prefers accessible content.</span></span>
+
+### <a name="powerpoint"></a><span data-ttu-id="d3ab9-400">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="d3ab9-400">PowerPoint</span></span>
+
+- <span data-ttu-id="d3ab9-401">**プレゼンテーションの最適化:** アクセシビリティ チェックを使用すると、スクリーン リーダーを考慮に入れて、スライド上のオブジェクトを配置することができます。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-401">**Optimize your presentation for all:** Accessibility Checker helps you arrange objects on your slides with screen readers in mind.</span></span>
+
+### <a name="visio"></a><span data-ttu-id="d3ab9-402">Visio</span><span class="sxs-lookup"><span data-stu-id="d3ab9-402">Visio</span></span>
+
+- <span data-ttu-id="d3ab9-403">**Excel で洗練された Visio 図を作成する:** すばやく簡単に、データを Excel 内の洗練された Visio 図に可視化します。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-403">**Make polished Visio diagrams in Excel:** Quickly and easily visualize your data into polished Visio diagrams within Excel.</span></span> [<span data-ttu-id="d3ab9-404">詳細情報</span><span class="sxs-lookup"><span data-stu-id="d3ab9-404">Learn more</span></span>](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+### <a name="word"></a><span data-ttu-id="d3ab9-405">Word</span><span class="sxs-lookup"><span data-stu-id="d3ab9-405">Word</span></span>
+
+- <span data-ttu-id="d3ab9-406">**共同編集の改善:** コンテンツの変更をリアルタイムでユーザーが受け取れるようにすることで、共同編集のエクスペリエンスを改善しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-406">**Coauthoring improvements:** Improved the coauthoring experience by making it more likely that content changes will be received by others in real time.</span></span>
+
+### <a name="office-suite"></a><span data-ttu-id="d3ab9-407">Office スイート</span><span class="sxs-lookup"><span data-stu-id="d3ab9-407">Office Suite</span></span>
+
+- <span data-ttu-id="d3ab9-408">**アップロード センターは、Files Needing Attention experience に置き換えられます:** アップロード センターは、[ファイル] > [開く] の Office アプリケーション内に表示される Files Needing Attention experience に置き換えられます。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-408">**The Upload Center is being replaced by the Files Needing Attention experience:** The Upload Center is being replaced by the Files Needing Attention experience that will show up inside the Office applications under File > Open.</span></span> <span data-ttu-id="d3ab9-409">この新しいエクスペリエンスは、アップロード センターに比べ、最新かつ総合的で、煩わしくありません。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-409">This new experience is more modern, integrated, and less intrusive compared to the Upload Center.</span></span>
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a><span data-ttu-id="d3ab9-412">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="d3ab9-412">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="d3ab9-413">Access</span><span class="sxs-lookup"><span data-stu-id="d3ab9-413">Access</span></span>
+
+- <span data-ttu-id="d3ab9-414">レコードのカウントが正しくないことがあります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-414">The record count could be incorrect.</span></span>
+
+### <a name="excel"></a><span data-ttu-id="d3ab9-415">Excel</span><span class="sxs-lookup"><span data-stu-id="d3ab9-415">Excel</span></span>
+
+- <span data-ttu-id="d3ab9-416">別のシートのデータを参照しているスパークラインを含むシートを削除すると、再びそのファイルを開いた時に破損したファイルとして識別されるという問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-416">Resolved an issue where deleting sheets containing sparklines referencing data on another sheet could cause the file to be identified as corrupted when re-opened.</span></span>
+- <span data-ttu-id="d3ab9-417">グラフのサイズの変更が保存できないことがあります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-417">Changes to a chart size could not be saved.</span></span>
+- <span data-ttu-id="d3ab9-418">チェックボックスで正しく表示できないことがあります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-418">Checkboxes could not render correctly.</span></span>
+- <span data-ttu-id="d3ab9-419">[データ ソースの選択] ダイアログで、一部のフィールドで大文字と小文字が区別されないことがあります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-419">Select Data Source dialogs were not case sensitive for some fields.</span></span>
+- <span data-ttu-id="d3ab9-420">VBA 関数の一部で、新しいグラフに関するエラーが返されないことがあります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-420">Some VBA functions would return an error on new chart.</span></span>
+- <span data-ttu-id="d3ab9-421">ユーザーが Office 365 の Excel ブック形式で保存できなくなることがあります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-421">Users could be prevented from saving in Office 365 Excel Workbook format.</span></span>
+- <span data-ttu-id="d3ab9-422">自動調整を使用して行の高さを調整するときにチェック ボックスのコントロールが縮小されることがある問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-422">Resolved an issue where check box controls could shrink when using autofit to adjust row height.</span></span>
+- <span data-ttu-id="d3ab9-423">SQL 表形式サーバーのクエリのピボットテーブルの残りの部分と一緒にレポート フィルターを変換すると、正しい結果が返されないことがある問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-423">Resolved an Issue where you may get incorrect results when converting report filters along with the rest of the PivotTable for queries to SQL tabular servers.</span></span>
+- <span data-ttu-id="d3ab9-424">信頼されていないネットワーク共有から保護されたファイルを編集すると、Excel にエラーが発生することがある問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-424">Resolved an issue where Excel may fail when editing a protected file from an untrusted network share.</span></span>
+- <span data-ttu-id="d3ab9-425">ナレーターと拡大鏡を同時に使用すると、エラーが発生することがあります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-425">Using Narrator and Magnifier at the same time may result in a failure.</span></span>
+- <span data-ttu-id="d3ab9-426">スクロール後にセルを選択すると間違ったセルが選択されることがある問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-426">Resolved an issue where selecting a cell after scrolling could result in the wrong cell being selected.</span></span>
+- <span data-ttu-id="d3ab9-427">結合されたセルで列を削除するパフォーマンスが大幅に改善されました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-427">We significantly improved the performance of deleting columns with merged cells.</span></span>
+
+### <a name="onenote"></a><span data-ttu-id="d3ab9-428">OneNote</span><span class="sxs-lookup"><span data-stu-id="d3ab9-428">OneNote</span></span>
+
+- <span data-ttu-id="d3ab9-429">ローカル リソースからクラウド リソースへの同期に影響する可能性がある問題を特定しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-429">Identified an issue which could affect syncing from a local resource to a cloud resource.</span></span>
+
+### <a name="outlook"></a><span data-ttu-id="d3ab9-430">Outlook</span><span class="sxs-lookup"><span data-stu-id="d3ab9-430">Outlook</span></span>
+
+- <span data-ttu-id="d3ab9-431">会議室の検索ツールで、使用可能な会議室が&quot;なし&quot;と表示される場合があります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-431">Room Finder tool may be displaying &quot;None&quot; for available rooms.</span></span>
+- <span data-ttu-id="d3ab9-432">リボンを自動的に非表示にするよう設定されている場合に検索ボックスが消えるという問題を特定しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-432">Identified an issue where the search box could disappear when the ribbon is set to hide automatically.</span></span>
+- <span data-ttu-id="d3ab9-433">メールにデジタル署名付きの添付ファイルがある場合にそのメールに署名するとデジタル署名が破損する可能性がある問題を特定しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-433">Identified an issue which could cause digital signatures to become broken when signing an e-mail with a digitally signed attachment.</span></span>
+- <span data-ttu-id="d3ab9-434">メールを転送すると、埋め込み画像がなくなる場合があります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-434">A forwarded e-mail may be missing embedded images.</span></span>
+- <span data-ttu-id="d3ab9-435">厳しいテナント制限がある Outlook プロファイルをユーザーが作成できない場合があります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-435">Users may not be able to create Outlook profiles with strict tenant restriction.</span></span>
+- <span data-ttu-id="d3ab9-436">長いファイル名がメッセージ本文へのドラッグ アンド ドロップ後に切り捨てられる問題を特定しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-436">Identified an issue where long filenames were truncated after draging and droping to the message body.</span></span>
+
+### <a name="powerpoint"></a><span data-ttu-id="d3ab9-437">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="d3ab9-437">PowerPoint</span></span>
+
+- <span data-ttu-id="d3ab9-438">グラフのサイズの変更が保存できないことがあります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-438">Changes to a chart size could not be saved.</span></span>
+- <span data-ttu-id="d3ab9-439">ナレーターと拡大鏡を同時に使用すると、エラーが発生することがあります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-439">Using Narrator and Magnifier at the same time may result in a failure.</span></span>
+- <span data-ttu-id="d3ab9-440">スライド プレビューの縦横比が適切にロック/ロック解除されていない問題を特定しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-440">Identified an issue where aspect ratio for the slide preview was not being properly locked/unlocked.</span></span>
+
+### <a name="project"></a><span data-ttu-id="d3ab9-441">Project</span><span class="sxs-lookup"><span data-stu-id="d3ab9-441">Project</span></span>
+
+- <span data-ttu-id="d3ab9-442">タスクの更新を実行中に入力したノートが保存されない可能性がある問題を特定しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-442">Identified an issue where notes might not persist if entered while doing update tasks.</span></span>
+- <span data-ttu-id="d3ab9-443">ユーザーがタスクを完了としてマークすることができず、99% に設定されます。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-443">User is unable to mark a task as complete, and it gets set to 99%.</span></span>
+- <span data-ttu-id="d3ab9-444">平準化によって割り当て超過が解決されないことがあります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-444">Overallocations are not resolved by leveling.</span></span>
+- <span data-ttu-id="d3ab9-445">読み取り専用のプロジェクトを開いたときに複数のメッセージを取得する可能性があるという問題を特定しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-445">Identified an issue where users could get several messages when opening a read-only project.</span></span>
+- <span data-ttu-id="d3ab9-446">ファイルがユーザーによってロックされている場合に、ユーザー名がエラー メッセージに表示されない可能性がある問題を特定しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-446">Identified an issue where a file could be locked by a user, but no username would be displayed in the error message.</span></span>
+
+### <a name="publisher"></a><span data-ttu-id="d3ab9-447">Publisher</span><span class="sxs-lookup"><span data-stu-id="d3ab9-447">Publisher</span></span>
+
+- <span data-ttu-id="d3ab9-448">図形がグラフィックの境界線の外側に表示されることがあります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-448">Shapes could appear outside of the graphics border.</span></span>
+
+### <a name="word"></a><span data-ttu-id="d3ab9-449">Word</span><span class="sxs-lookup"><span data-stu-id="d3ab9-449">Word</span></span>
+
+- <span data-ttu-id="d3ab9-450">文章校正の候補がコンテキスト メニューに表示されないことがあります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-450">Proofing suggestions are not displaying in contextual menus.</span></span>
+- <span data-ttu-id="d3ab9-451">グラフのサイズの変更が保存できないことがあります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-451">Changes to a chart size could not be saved.</span></span>
+- <span data-ttu-id="d3ab9-452">図形がグラフィックの境界線の外側に表示されることがあります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-452">Shapes could appear outside of the graphics border.</span></span>
+- <span data-ttu-id="d3ab9-453">スクリーン リーダーを使用中にコメントを表示するときの問題を特定しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-453">Identified an issue when viewing comments while using a screen reader.</span></span>
+- <span data-ttu-id="d3ab9-454">一部の批評がスペルまたは文法の批評と誤って識別される問題を特定しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-454">Identified an issue where some critiques were misidentified as being spelling or grammar critiques.</span></span>
+- <span data-ttu-id="d3ab9-455">Outlook メッセージからの cid: 画像のリンクが、要求があったときに正常に分割できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-455">The links of cid: images from Outlook messages can now be successfully broken when requested.</span></span>
+- <span data-ttu-id="d3ab9-456">韓国語/英語のオートコレクトを使用しているときに、間違った文字が表示される場合があります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-456">Incorrect characters may appear when using Korean/English autocorrect.</span></span>
+- <span data-ttu-id="d3ab9-457">ナビゲーション ウィンドウから検索できない場合があります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-457">Searching from the Navigation pane may fail.</span></span>
+- <span data-ttu-id="d3ab9-458">ナレーターと拡大鏡を同時に使用すると、エラーが発生することがあります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-458">Using Narrator and Magnifier at the same time may result in a failure.</span></span>
+- <span data-ttu-id="d3ab9-459">コンテンツ ポリシーがコメントに正しく適用されません。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-459">Content policies are being incorrectly applied to comments.</span></span>
+- <span data-ttu-id="d3ab9-460">上位のポリシー ラベルが優先して適用されるべき時に、低いポリシー ラベルが適用されることがあります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-460">Lower policy labels may be applied when a higher policy label should have taken priority.</span></span>
+- <span data-ttu-id="d3ab9-461">以前のドキュメントを開いたまま [情報] タブに移動すると、エラーが発生することがあります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-461">Opening legacy documents and then going to the Info tab can cause a failure.</span></span>
+- <span data-ttu-id="d3ab9-462">新しいコメント ダイアログがフォーカスを取得できないことがある問題を特定しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-462">Identified an issue where a new comment dialog could sometimes not obtain focus.</span></span>
+- <span data-ttu-id="d3ab9-463">連絡先カードが、@ メンションに書式を設定した後に、開けなくなることがあります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-463">A contact card could be prevented from opening after apply formatting to an @ mention.</span></span>
+- <span data-ttu-id="d3ab9-464">テキストの強調表示は難しいことがあります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-464">Highlighting text could be challenging.</span></span>
+- <span data-ttu-id="d3ab9-465">ユーザーが Word、Excel、および PowerPoint のドキュメントを保存できなくなることがある問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-465">Resolved an issue where users may be unable to save Word, Excel, and PowerPoint documents.</span></span> <span data-ttu-id="d3ab9-466">この問題は、[保存] アイコンをクリックしたり Ctrl キーを押しながら S キーを押したりした後に、新しいファイルを作成して [名前を付けて保存] オプションを表示するユーザーに影響を与えます。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-466">This issue affects users that create a new file and bring up the "Save as" option after clicking on the Save icon or pressing Ctrl + S.</span></span>
+- <span data-ttu-id="d3ab9-467">濃色のテキストで書かれた従来のコメントがダーク モードで表示されません。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-467">Legacy comments written with dark text is not visible in Dark Mode.</span></span>
+- <span data-ttu-id="d3ab9-468">ユーザーがエディターの個々のアイテムに移動できなくなることがあります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-468">A user could be prevented from navigating to an individual item in the editor.</span></span>
+- <span data-ttu-id="d3ab9-469">文法またはスペルのエラーが強調表示されないことがあります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-469">Grammar or spelling errors might not be highlighted.</span></span>
+
+### <a name="office-suite"></a><span data-ttu-id="d3ab9-470">Office スイート</span><span class="sxs-lookup"><span data-stu-id="d3ab9-470">Office Suite</span></span>
+
+- <span data-ttu-id="d3ab9-471">一部の描画がプレビューやスライド ショーに表示されない場合があります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-471">Some drawings may not display in preview or slide shows.</span></span>
+- <span data-ttu-id="d3ab9-472">[別のインストールが進行中です] という誤ったエラー メッセージによりアップグレードに失敗することがある問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-472">We fixed an issue where an upgrade could be prevented by a incorrect error message of "Another install in progress".</span></span>
+- <span data-ttu-id="d3ab9-473">縦書きのテキスト ボックス内で一部のカタカナが正しく表示されないことがあります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-473">Some katakana characters may display incorrectly in a vertical text box.</span></span>
+- <span data-ttu-id="d3ab9-474">接続されていないネットワーク共有にファイルを保存しようとすると、エラーが発生する場合があります。</span><span class="sxs-lookup"><span data-stu-id="d3ab9-474">Attempting to save a file to a disconnected network share may result in a filure.</span></span>
+- <span data-ttu-id="d3ab9-475">Windows 7 で図形を使用する場合のパフォーマンスの問題</span><span class="sxs-lookup"><span data-stu-id="d3ab9-475">Performance issue when using Shapes on Windows 7.</span></span>
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
