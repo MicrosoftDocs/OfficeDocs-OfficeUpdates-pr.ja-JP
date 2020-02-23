@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: f403048ef51f48be9f4939e46e10324f110b3c80
-ms.sourcegitcommit: 38f19728803d3e3a20b16932a92cbb400dcdfb29
+ms.openlocfilehash: 3bc1a3c2908fda240b041ae59a851f5f48ec9574
+ms.sourcegitcommit: 220736aa7c6bf7466beba7f3291f068546c3c77e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/19/2020
-ms.locfileid: "42155446"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "42228406"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office Insider のリリース ノート
 
@@ -26,6 +26,45 @@ ms.locfileid: "42155446"
 > - Microsoft Teams に関連する既存の Office 365 ProPlus のインストール - 6 月の下旬から、これらの更新プログラムのインストール時に、Microsoft Teams が既存の Office 365 ProPlus (Office 365 Business) のインストールの中に含められます。 Teams が追加される日にちは、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/deployoffice/teams-install)」を参照してください。
 
 [//]: # (削除しないでください)
+
+## <a name="version-2003-february-21"></a>バージョン 2003: 2 月 21 日
+*バージョン 2003 (ビルド 12615.20000)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="office-suite"></a>Office スイート
+
+- **最適な色を選択する:** 16 進数カラーコードを使用して、フォントやテキスト ハイライトなどに使用する色を正確に選びます。
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+
+### <a name="excel"></a>Excel
+- ピボット テーブルのメジャーの名前を変更するときにユーザーが経験する可能性のある問題を修正しました。
+- VBA マクロを使用して範囲の内容をクリアするときにユーザーが経験する可能性のあるパフォーマンスの問題を修正しました。
+- ユーザーがリボンを操作するマクロを実行したときに UI が点滅する問題を修正しました。
+- ファイルの最初の単語が TABLE である場合に CSV ファイルが誤ってロードされる問題を修正しました。
+- ズーム レベルが異なる 2 つのブックを切り替える際にユーザーがクラッシュを経験する可能性がある問題を修正しました。
+
+### <a name="outlook"></a>Outlook
+- Outlook を夜間に実行したままにしておくと、ユーザーがパブリック フォルダー メッセージを開けなくなる問題を解決しました。
+- Gmail アカウントを追加する認証ワークフロー中に、[アクセス許可] ページの [許可] および [拒否] ボタンが無効になる競合状態を修正しました。
+- 一部のシナリオで、ログがオフになっている場合でも Outlook が予期せずログ出力を生成する問題を解決しました。
+
+### <a name="word"></a>Word
+- マウス ポインターをコメント カードの上に置いたときに、コメント カードが常に強調表示されないという問題を修正しました。
+- アクティブなドキュメントの共同編集セッション中に、画像をコメント カードに直接追加すると、タグが追加されている場合があります。 この問題は修正されています。
+
+### <a name="office-suite"></a>Office スイート
+- Word/Excel/PowerPoint ドキュメントで Multichoice/Lookup/Managed-metadata プロパティを使用し、SharePoint ドキュメント ライブラリに保存する場合、これらのプロパティは以前は 255 文字に制限されていました。 これらのプロパティが 255 文字を超えると、そういったドキュメントは保存することができませんでした。 この変更により、この制限は 2048 文字に増加しました。
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2003-february-14"></a>バージョン 2003: 2 月 14 日
 *バージョン 2003 (ビルド 12607.20000)*
