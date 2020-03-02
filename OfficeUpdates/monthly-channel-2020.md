@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2020 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: e20199d7db1f236b86a99b1f748afcc9c5bd7426
-ms.sourcegitcommit: 192019a147f486bc97be39064a6f3c31060555c5
+ms.openlocfilehash: bc018a0f362bfbe62c8f8d637bd85d5ae59fd208
+ms.sourcegitcommit: b85764e80564afc70882eac3911a296dcee486dc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 02/26/2020
-ms.locfileid: "42278588"
+ms.locfileid: "42282831"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>2020 年の毎月のチャネル リリースのリリース ノート
 
@@ -31,9 +31,22 @@ ms.locfileid: "42278588"
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
 ### <a name="feature-updates"></a>機能の更新プログラム
-### <a name="outlook"></a>Outlook
+### <a name="excel"></a>Excel
 
-- **Outlook フォルダー ウィンドウの更新:** Aesthetic v1 に付属する新しいフォルダー リストの外観は更新され、グループはフォルダーおよびお気に入りと同じ階層に昇格します。
+ - **ユーザーは Word および Excel のオブジェクトを SVG として保存できるようになりました:** ユーザーはグラフ、図形、インク、アイコン、画像などのオブジェクトを SVG として保存できます [詳細情報](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+- **ブックの統計情報:** セル、数式、グラフ、テーブル...これらをお客様に代わってカウントします。
+
+- **クエリ エディターでのデータ プロファイリング**: 列のデータを一目で分析し、エラーと空の値を識別し、配布ヒストグラムなどを確認します。
+
+### <a name="outlook"></a>Outlook
+- **Outlook フォルダー ウィンドウの更新:**  Aesthetic v1 に付属する新しいフォルダー リストの外観は更新され、グループはフォルダーおよびお気に入りと同じ階層に昇格します。
+
+### <a name="word"></a>Word
+
+- **ユーザーは Word および Excel のオブジェクトを SVG として保存できるようになりました:** ユーザーはグラフ、図形、インク、アイコン、画像などのオブジェクトを SVG として保存できます [詳細情報](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
 
