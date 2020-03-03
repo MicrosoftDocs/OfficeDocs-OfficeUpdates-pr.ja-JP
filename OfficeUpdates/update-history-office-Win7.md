@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus for Windows 7 の更新履歴に関するリリース ノートを提供
-ms.openlocfilehash: 57dc775623bda52d3a265f75df3304d7b165c768
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: 787ecad94262a996d29e416a808742250140129a
+ms.sourcegitcommit: a1b7e6268b7409711c48461bf80c5f511c817444
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122372"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42345126"
 ---
 # <a name="update-history-for-office-365-proplus-on-windows-7"></a>Windows 7 上の Office 365 ProPlus の更新履歴 
 
@@ -35,6 +35,12 @@ ms.locfileid: "41122372"
 このバージョン 2002 の拡張可用性は、月次および半期 (対象指定) などの他の更新プログラム チャネルにも適用されますが、Windows 7 を実行しているデバイスにのみ適用されます。
 
 ##
+
+
+[//]: # (削除禁止)
+
+
+
 
 > [!NOTE]
 > Office の使用で問題がある場合は、[Microsoft の回答フォーラム](https://answers.microsoft.com/)に関するページまたは「[Microsoft Tech Community](https://techcommunity.microsoft.com/)」に質問を投稿するか、[サポート](https://support.microsoft.com/contactus)に問い合わせてサポートを受けることができます。

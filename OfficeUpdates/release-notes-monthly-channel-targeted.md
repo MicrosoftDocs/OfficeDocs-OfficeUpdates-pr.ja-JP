@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 0ffaf4f5b95f0a94e5efd4ba64da233f47076ec0
-ms.sourcegitcommit: 5b67d3d0509788c923442c71e48e17d397f94b09
+ms.openlocfilehash: ab61d74b3f6631e93ddf5352b65bf239e6063abc
+ms.sourcegitcommit: a1b7e6268b7409711c48461bf80c5f511c817444
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/24/2020
-ms.locfileid: "42260768"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42345136"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 月次チャネルのリリース ノート (対象指定)
 
@@ -29,6 +29,18 @@ ms.locfileid: "42260768"
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2002-march-01"></a>バージョン 2002: 3 月 1 日
+*バージョン 2002 (ビルド 12527.20242)*
+
+### <a name="resolved-issues"></a>解決した問題
+### <a name="outlook"></a>Outlook
+
+- <div>サードパーティ製アプリケーションがメールを送信できない原因となった問題に対処します。</div>
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2002-february-24"></a>バージョン 2002: 2 月 24 日
 *バージョン 2002 (ビルド 12527.20194)*
