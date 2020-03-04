@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2020 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: bc018a0f362bfbe62c8f8d637bd85d5ae59fd208
-ms.sourcegitcommit: b85764e80564afc70882eac3911a296dcee486dc
+ms.openlocfilehash: 70eabceb2467ad78cb64bf9e45c617317c640cc0
+ms.sourcegitcommit: a1b7e6268b7409711c48461bf80c5f511c817444
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42282831"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42345115"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>2020 年の毎月のチャネル リリースのリリース ノート
 
@@ -25,6 +25,20 @@ ms.locfileid: "42282831"
 >- Microsoft では多くの場合、一定期間にわたって毎月、機能 (および場合によっては修正プログラム) を展開します。  ここで説明した内容がすぐに表示されない場合は、間もなく利用できるようになります。 [詳細情報](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- Microsoft Teams の Office 365 ProPlus の既存のインストールについて: 7月の上旬から、Office 365 ProPlus (および Office 365 Business) の更新に Microsoft Teams が含まれます。  Teams が追加される日付は、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/deployoffice/teams-install)」を参照してください。
 
+## <a name="version-2002-march-01"></a>バージョン 2002: 3 月 1 日
+*バージョン 2002 (ビルド 12527.20242)*
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- <div>サードパーティ製アプリケーションがメールを送信できない原因となった問題に対処します。</div>
+
+
+
+[//]: # (バグの詳細コンテンツ エンドを削除しないでください)
+
 ## <a name="version-2002-february-25"></a>バージョン 2002: 2 月 25 日
 *バージョン 2002 (ビルド 12527.20194)*
 
@@ -33,18 +47,15 @@ ms.locfileid: "42282831"
 ### <a name="feature-updates"></a>機能の更新プログラム
 ### <a name="excel"></a>Excel
 
- - **ユーザーは Word および Excel のオブジェクトを SVG として保存できるようになりました:** ユーザーはグラフ、図形、インク、アイコン、画像などのオブジェクトを SVG として保存できます [詳細情報](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **ユーザーは Word および Excel のオブジェクトを SVG として保存できるようになりました:** ユーザーはグラフ、図形、インク、アイコン、画像などのオブジェクトを SVG として保存できます [詳細情報](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
 - **ブックの統計情報:** セル、数式、グラフ、テーブル...これらをお客様に代わってカウントします。
 
 - **クエリ エディターでのデータ プロファイリング**: 列のデータを一目で分析し、エラーと空の値を識別し、配布ヒストグラムなどを確認します。
 
-### <a name="outlook"></a>Outlook
-- **Outlook フォルダー ウィンドウの更新:**  Aesthetic v1 に付属する新しいフォルダー リストの外観は更新され、グループはフォルダーおよびお気に入りと同じ階層に昇格します。
-
 ### <a name="word"></a>Word
 
-- **ユーザーは Word および Excel のオブジェクトを SVG として保存できるようになりました:** ユーザーはグラフ、図形、インク、アイコン、画像などのオブジェクトを SVG として保存できます [詳細情報](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **ユーザーは Word および Excel のオブジェクトを SVG として保存できるようになりました:** ユーザーはグラフ、図形、インク、アイコン、画像などのオブジェクトを SVG として保存できます [詳細情報](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
 
 
@@ -86,7 +97,7 @@ ms.locfileid: "42282831"
 ## <a name="version-2001-february-11"></a>バージョン 2001: 2 月 11 日
 *バージョン 2001 (ビルド 12430.20264)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
