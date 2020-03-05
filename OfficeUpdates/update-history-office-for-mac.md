@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT プロフェッショナルに、office for Mac の最新更新プログラムに関する情報を提供します。それには、ダウンロード パッケージへのリンク、更新履歴が含まれます
-ms.openlocfilehash: be339453ba93b747fbcfba3160a4acdd9e6d2f08
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: 216645cddd13adfbf4985c03fb2e720b570a4208
+ms.sourcegitcommit: 6d822269cc24b803dce007a19c5600c1921d110a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978635"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "42403816"
 ---
 # <a name="update-history-for-office-for-mac"></a>Office for Mac の更新履歴
   
@@ -45,7 +45,7 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 
 |**Application**|**ダウンロード リンク**|**インストール パッケージの SHA-256 ハッシュ**|
 |:-----|:-----|:-----|
-|Office スイート (Teams あり)|[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=2009112)|34CDF2DBE1DB04D9ED38C9E118F02F04A5566590F0103BF13F5422E037C8598C|
+|Office スイート (Teams あり)|[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=2009112)|A2B21E5EF197E03BB0CB57763EE836509F0E20416CABE34B742AB64C92783346|
 |Office スイート (Teams なし)|[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=525133)|BD6D81E731F4393022F3C1EBD0F9B8BE0B6278781F707D367970F573E0002EB1|
 |Word|[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=525134)<br/>[更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.34.20020900_Updater.pkg)|35FEEC393E1995B6696CE99FDBAA64F3C5855D3A2A1DDE7FEC2113CBFBB34356|
 |Excel|[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=525135)<br/>[更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.34.20020900_Updater.pkg)|5BA5C8D0A036AD7A53D023521B4656CEEFBD0FE7A4A55BA25EFEB4E0AAE388FB|
