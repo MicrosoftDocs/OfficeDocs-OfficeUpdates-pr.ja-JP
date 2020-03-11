@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: IT プロフェッショナルに、Office 365 ProPlus の月次チャネルリリースのリリースノートを2017で提供します。
 ms.openlocfilehash: 7c3523a10f3fe5db8f38e792e0061b0eed2745bf
-ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
+ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/30/2020
-ms.locfileid: "41629254"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42549268"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>2017の月次チャネルリリースのリリースノート
 
@@ -72,7 +72,7 @@ ms.locfileid: "41629254"
 -   **サイトおよびグループへすばやくアクセス:** [ファイル] メニューを使用して、よく使用するサイトやグループに格納されているドキュメントを操作できます。
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
--   Office COM オブジェクトが有効になって\>いる\>場合、[今すぐ更新する] オプションは、Configuration Manager によって office 365 クライアントの更新プログラムが管理されるように、ファイルアカウントの更新オプションでは表示されません。
+-   Office 365 クライアントの更新が Configuration Manager によって管理されるように、Office COM オブジェクトが有効になっている場合は、[ファイル] \> [アカウント] \> [更新オプション] で [今すぐ更新] オプションが非表示になっています。
 
 
 ## <a name="version-1710-november-27"></a>バージョン 1710:11 月27日
@@ -283,7 +283,7 @@ ms.locfileid: "41629254"
 
 ### <a name="access-feature-updates"></a>Access: 機能の更新
 -   **動的コネクタ:** Microsoft Dynamics からデータをインポートしたり、Microsoft Dynamics に保存されているデータにリンクしたりします。[詳細情報](https://support.office.com/article/636079c1-9fc3-4fca-8410-6596d62223da)
--   **Salesforce コネクタ:** Salesforce からデータをインポートしたり、Salesforce に保存されているデータにリンクしたりします。 [詳細情報](https://support.office.com/article/7375ffb6-1d6a-46f1-bb0c-c6ac3c58f5a0)
+-   **Salesforce コネクタ:** Salesforce からデータをインポートしたり、Salesforce に保存されているデータにリンクしたりします。[詳細情報](https://support.office.com/article/7375ffb6-1d6a-46f1-bb0c-c6ac3c58f5a0)
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
 -   **3D モデル:** 3D を使用して、ブックを、より視覚的かつ独創的なものにすることができます。3D モデルの挿入も簡単で、360 度回転させることができます。 [詳細情報](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
@@ -304,7 +304,7 @@ ms.locfileid: "41629254"
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新
 -   **3D モデル:** 3D を使用して、プレゼンテーションを、より視覚的かつ独創的なものにすることができます。スライド間で映画のようなアニメーションを生み出す画面切り替え効果を生かして、3D モデルをプレゼンテーションで活用しましょう。 [詳細情報](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
--   **新しいインク効果:** メタリック ペンや、レインボー、銀河、溶岩、海、ゴールド、シルバーなどのインク効果を使用して、自分のアイデアを鮮やかに表現しましょう。
+-   **新しいインク効果:** メタリック ペンを使用し、ゴールド、シルバーあるいは虹、銀河、溶岩、海などを連想させる色などのインクの効果を活用して、アイデアの表現の幅を広めましょう。
 -   **ファイル共有 UI:** OneDrive for Business または SharePoint のファイルの場合、リボンの右上隅にある [共有] ボタンをクリック、または [ファイル] \> [共有] の順に移動することにより、簡略化され改良された [共有] ダイアログが起動されます。新規のファイル、またはローカルに保存されたファイルの場合、この UI によって、ユーザーはファイルを OneDrive に簡単にアップロードし、共同作業を開始できます。
 -   **危険な拡張子をブロック:** リスクが高いとみなされ、OLE パッケージ オブジェクトとして埋め込まれている拡張子は、既定ではアクティブ化されないようにブロックされています。たとえば、.exe、.vbs、.js などがこれに該当します。[詳細情報](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
@@ -338,7 +338,7 @@ ms.locfileid: "41629254"
 
 ### <a name="word-feature-updates"></a>Word: 機能の更新
 -   **3D モデル:** 3D を使用して、ドキュメントを、より視覚的かつ独創的なものにすることができます。3D モデルの挿入も簡単で、360 度回転させることができます。 [詳細情報](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
--   **新しいインク効果:** メタリック ペンや、レインボー、銀河、溶岩、海、ゴールド、シルバーなどのインク効果を使用して、自分のアイデアを鮮やかに表現しましょう。
+-   **新しいインク効果:** メタリック ペンを使用し、ゴールド、シルバーあるいは虹、銀河、溶岩、海などを連想させる色などのインクの効果を活用して、アイデアの表現の幅を広めましょう。
 -   **ファイル共有 UI:** OneDrive for Business または SharePoint のファイルの場合、リボンの右上隅にある [共有] ボタンをクリック、または [ファイル] \> [共有] の順に移動することにより、簡略化され改良された [共有] ダイアログが起動されます。新規のファイル、またはローカルに保存されたファイルの場合、この UI によって、ユーザーはファイルを OneDrive に簡単にアップロードし、共同作業を開始できます。
 -   **危険な拡張子をブロック:** リスクが高いとみなされ、OLE パッケージ オブジェクトとして埋め込まれている拡張子は、既定ではアクティブ化されないようにブロックされています。たとえば、.exe、.vbs、.js などがこれに該当します。[詳細情報](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
@@ -438,7 +438,7 @@ ms.locfileid: "41629254"
 *バージョン 1707 (ビルド 8326.2059)*
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
--   一部のプログラム ファイルの署名において、ウイルス対策プログラムでこれらのファイルにフラグが設定されたり、Windows Information Protection (WIP) でのデータの保護およびアクセスに関して問題が発生したりするという問題の修正。
+-   一部のプログラム ファイルの署名において、ウイルス対策プログラムでこれらのファイルにフラグが設定されたり、Windows Information Protection (WIP) でのデータの保護およびアクセスに関して問題が発生したりするという問題を修正します。
 
 
 

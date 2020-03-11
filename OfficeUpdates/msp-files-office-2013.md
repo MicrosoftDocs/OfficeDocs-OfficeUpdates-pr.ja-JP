@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Windows インストーラー (MSI) を使用する永続版の Office 2013 の最新の .msp ファイルのリストを IT 担当者に提供します
-ms.openlocfilehash: 53e0f474885d5f931efde243abc2ec50a6b47f85
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: 73b970b260fde38e1d2511f3974913e1c722a49d
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978665"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586454"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2013-products"></a>Office 2013 製品の最新の .msp ファイルの一覧
 
@@ -24,12 +24,12 @@ ms.locfileid: "41978665"
   
 ## <a name="most-recently-updated-msp-files"></a>最近更新された .msp ファイル
 
-次の表に、 **2020 年2月**に更新された .msp ファイルの一覧を示します。 
+次の表に、 **2020 年3月**に更新された .msp ファイルの一覧を示します。 
   
 |セキュリティ以外の更新プログラム * * * *|セキュリティ更新プログラム * * * *|
 |:-----|:-----|
-|<br>|excel-x-none<br/>|
-|<br>|outlook-x-none<br/>|
+|lync-x-none<br>|word-x-none<br/>|
+
 
 
 
@@ -57,7 +57,7 @@ ms.locfileid: "41978665"
 |duetserver-x-none<sup>1</sup> <br/> |Office 2013  <br/> |2015 年 4 月 14 日  <br/> |[2965214](https://support.microsoft.com/kb/2965214) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |
 |ediscovery-x-none<sup>2</sup> <br/> |Office 2013  <br/> |2017 年 9 月 5 日  <br/> |[3172484](https://support.microsoft.com/help/3172484) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |
 |eqnedt32-x-none  <br/> |Office 2013  <br/> |該当なし  <br/> |該当なし  <br/> |2018 年 1 月 9 日  <br/> |[4011580](https://support.microsoft.com/help/4011580) <br/> |[3162047](https://support.microsoft.com/help/3162047) <br/> |
-|excel-x-none  <br/> |Excel 2013  <br/> |2018年7月3日  <br/> |[4022244](https://support.microsoft.com/help/4022244) <br/> |2020年2月11日  <br/> |[4484265](https://support.microsoft.com/help/4484265) <br/> |[4484234](https://support.microsoft.com/help/4484234) <br/> |
+|excel-x-none  <br/> |Excel 2013  <br/> |2018年7月3日  <br/> |[4022244](https://support.microsoft.com/help/4022244) <br/> |2020 年 2 月 11 日  <br/> |[4484265](https://support.microsoft.com/help/4484265) <br/> |[4484234](https://support.microsoft.com/help/4484234) <br/> |
 |excelpp-x-none  <br/> |Office 2013  <br/> |2017 年 6 月 6 日  <br/> |[3191872](https://support.microsoft.com/help/3191872) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |
 |exppdf-x-none  <br/> |Office 2013  <br/> |2016 年 4 月 5 日  <br/> |[3085587](https://support.microsoft.com/kb/3085587) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |
 |filterpack-x-none  <br/> |Office 2013  <br/> |2016 年 4 月 5 日  <br/> |[3039756](https://support.microsoft.com/kb/3039756) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |
@@ -70,7 +70,7 @@ ms.locfileid: "41978665"
 |infopath-x-none  <br/> |InfoPath 2013  <br/> |2016 年 5 月 3 日  <br/> |[3114946](https://support.microsoft.com/kb/3114946) <br/> |2016 年 3 月 8 日  <br/> |[3114833](https://support.microsoft.com/kb/3114833) <br/> |[3054793](https://support.microsoft.com/kb/3054793) <br/> |
 |infopathpc-x-none  <br/> |Office 2013  <br/> |2016 年 11 月 1 日  <br/> |[3127916](https://support.microsoft.com/kb/3127916) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |
 |ipeditor-x-none  <br/> |InfoPath 2013  <br/> |2018 年 12 月 11 日  <br/> |[4022181](https://support.microsoft.com/kb/4022181) <br/> |2018 年 5 月 8 日  <br/> |[3162075](https://support.microsoft.com/help/3162075) <br/> |該当なし  <br/> |
-|lync-x-none  <br/> |Lync 2013 (Skype for Business)  <br/> |2019 年 8 月 6 日  <br/> |[4475564](https://support.microsoft.com/help/4475564) <br/> |2019 年 7 月 9 日  <br/> |[4475519](https://support.microsoft.com/help/4475519) <br/> |[4461487](https://support.microsoft.com/help/4461487) <br/> |
+|lync-x-none  <br/> |Lync 2013 (Skype for Business)  <br/> |2020 年 3 月 3 日  <br/> |[4484097](https://support.microsoft.com/help/4484097) <br/> |2019 年 7 月 9 日  <br/> |[4475519](https://support.microsoft.com/help/4475519) <br/> |[4461487](https://support.microsoft.com/help/4461487) <br/> |
 |lynchelp- *ll*  -  *cc* <sup>3</sup> <br/> |Lync 2013 (Skype for Business)  <br/> |2017 年 5 月 2 日  <br/> |[3191873](https://support.microsoft.com/help/3191873) <br/> |2017 年 9 月 12 日  <br/> |[3213568](https://support.microsoft.com/help/3213568) <br/> |[3191937](https://support.microsoft.com/help/3191937) <br/> |
 |mscomct2-x-none  <br/> |Office 2013  <br/> |×  <br/> |該当なし  <br/> |2014 年 5 月 13 日  <br/> |[2760272](https://support.microsoft.com/kb/2760272) <br/> |該当なし  <br/> |
 |mscomctlocx-x-none<sup>2</sup> <br/> |Office 2013  <br/> |×  <br/> |該当なし  <br/> |2016 年 1 月 12 日  <br/> |[3039794](https://support.microsoft.com/kb/3039794) <br/> |[2880502](https://support.microsoft.com/kb/2880502) <br/> |
@@ -96,7 +96,7 @@ ms.locfileid: "41978665"
 |otkruntimertl-x-none  <br/> |Office 2013  <br/> |×  <br/> |該当なし  <br/> |2016 年 3 月 8 日  <br/> |[3039746](https://support.microsoft.com/kb/3039746) <br/> |[2910941](https://support.microsoft.com/kb/2910941) <br/> |
 |outexum-x-none  <br/> |Office 2013  <br/> |2019年3月5日  <br/> |[4092455](https://support.microsoft.com/kb/4092455) <br/> |×  <br/> |×  <br/> |該当なし  <br/> |
 |outlfltr-x-none  <br/> |Office 2013  <br/> |2016 年 8 月 2 日  <br/> |[3115404](https://support.microsoft.com/kb/3115404) <br/> |×  <br/> |×  <br/> |該当なし  <br/> |
-|outlook-x-none  <br/> |Outlook 2013  <br/> |2019 年 10 月 1 日  <br/> |[4484096](https://support.microsoft.com/help/4484096) <br/> |2020年2月11日  <br/> |[4484156](https://support.microsoft.com/help/4484156) <br/> |[4475563](https://support.microsoft.com/help/4475563) <br/> |
+|outlook-x-none  <br/> |Outlook 2013  <br/> |2019 年 10 月 1 日  <br/> |[4484096](https://support.microsoft.com/help/4484096) <br/> |2020 年 2 月 11 日  <br/> |[4484156](https://support.microsoft.com/help/4484156) <br/> |[4475563](https://support.microsoft.com/help/4475563) <br/> |
 |peopledatahandler-x-none  <br/> |Office 2013  <br/> |2015 年 9 月 8 日  <br/> |[3039766](https://support.microsoft.com/kb/3039766) <br/> |該当しない  <br/> |×  <br/> |該当なし  <br/> |
 |powerpoint-x-none  <br/> |PowerPoint 2013  <br/> |2018年8月7日  <br/> |[4018374](https://support.microsoft.com/help/4018374) <br/> |2019 年 12 月 10 日  <br/> |[4461590](https://support.microsoft.com/help/4461590) <br/> |[4461481](https://support.microsoft.com/help/4461481) <br/> |
 |ppaddin-x-none  <br/> |Office 2013  <br/> |2017 年 9 月 5 日  <br/> |[3213536](https://support.microsoft.com/help/3213536) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |
@@ -115,7 +115,7 @@ ms.locfileid: "41978665"
 |visio-x-none  <br/> |Visio 2013  <br/> |2019年4月2日  <br/> |[4464505](https://support.microsoft.com/help/4464505) <br/> |2016 年 6 月 14 日  <br/> |[3115020](https://support.microsoft.com/kb/3115020) <br/> |[3114489](https://support.microsoft.com/kb/3114489) <br/> |
 |vviewer-x-none  <br/> |Visio Viewer 2013  <br/> |2014 年 4 月 8 日  <br/> |[2817301](https://support.microsoft.com/kb/2817301) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |
 |wec-x-none  <br/> |Office 2013  <br/> |2015 年 11 月 7 日  <br/> |[3172533](https://support.microsoft.com/help/3172533) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |
-|word-x-none  <br/> |Word 2013  <br/> |2019 年 7 月 2 日 <br/> |[4475525](https://support.microsoft.com/help/4475525) <br/> |2019 年 12 月 10 日  <br/> |[4484094](https://support.microsoft.com/help/4484094) <br/> |[4475547](https://support.microsoft.com/help/4475547) <br/> |
+|word-x-none  <br/> |Word 2013  <br/> |2019 年 7 月 2 日 <br/> |[4475525](https://support.microsoft.com/help/4475525) <br/> |2020 年 3 月 10 日  <br/> |[4484231](https://support.microsoft.com/help/4484231) <br/> |[4484094](https://support.microsoft.com/help/4484094) <br/> |
 |wordpia-x-none  <br/> |Word 2013  <br/> |2017 年 11 月 7 日  <br/> |[3162081](https://support.microsoft.com/help/3162081) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |
 |wxpcore-x-none  <br/> |Office 2013  <br/> |2016 年 3 月 8 日  <br/> |[3114499](https://support.microsoft.com/kb/3114499) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |
 |wxpnse-x-none  <br/> |Office 2013  <br/> |2015 年 10 月 13 日  <br/> |[3039701](https://support.microsoft.com/kb/3039701) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |

@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の半期チャネル (対象指定) リリースのリリースノートを IT 担当者に提供します (2017)
 ms.openlocfilehash: 911626feb56a68ab258b51de78142dfaf6926bbe
-ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
+ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/30/2020
-ms.locfileid: "41629274"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42549238"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2017"></a>2017での半期チャネル (対象指定) リリースのリリースノート
 
@@ -158,7 +158,7 @@ ms.locfileid: "41629274"
 -   **ラベル名のプロパティ:** ラベルにフォームのコントロールを関連付けることで、アクセシビリティが向上します。
 -   **新しいアイテムの編集がより簡単に:** クイック ショートカット (Ctrl + E) キーを使用して、コンボ ボックスまたはリスト ボックスから新しいアイテムを編集できます。
 -   **動的コネクタ:** Microsoft Dynamics からデータをインポートしたり、Microsoft Dynamics に保存されているデータにリンクしたりします。[詳細情報](https://support.office.com/article/636079c1-9fc3-4fca-8410-6596d62223da)
--   **Salesforce コネクタ:** Salesforce からデータをインポートしたり、Salesforce に保存されているデータにリンクしたりします。 [詳細情報](https://support.office.com/article/7375ffb6-1d6a-46f1-bb0c-c6ac3c58f5a0)
+-   **Salesforce コネクタ:** Salesforce からデータをインポートしたり、Salesforce に保存されているデータにリンクしたりします。[詳細情報](https://support.office.com/article/7375ffb6-1d6a-46f1-bb0c-c6ac3c58f5a0)
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
 -   **"サンプルからの列の追加" の機能強化:** より多くの日付/時刻、数学、インデックス列の変換をサポートします。
@@ -172,8 +172,8 @@ ms.locfileid: "41629274"
 -   **共有ファイル アクティビティ:** ファイルの右上隅にある [アクティビティ] ボタンを選択し、OneDrive for Business や SharePoint で共有されているファイルを共有、編集、名前を変更、復元したタイミングを確認します。
 -   **安全なリンク:** ユーザーがリンクをクリックすると、Office 365 Advanced Threat Protection (ATP) によって、そのリンクが悪意のあるリンクかどうかを検査します。悪意のあるリンクと判断された場合は、ユーザーは元のターゲット URL ではなく警告ページにリダイレクトされます。 [詳細情報](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
 -   **データ インポートの拡張機能:** さまざまなソースからデータを簡単にインポートし整形します。[クエリと接続] 作業ウィンドウでブックのクエリと接続を管理し、ODC ファイル経由でクエリを他のユーザーと共有します。 [詳細情報](https://support.office.com/article/ad78befd-eb1c-4ea7-a55d-79d1d67cf9b3)
--   **共有ファイルの変更**: 共有ブックに変更を加えたユーザーを表示し、以前のバージョンを復元します。 [詳細情報](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
--   **ペン ボタンでなげなわ選択:** リボンにアクセスすることがなく、サポートされているデジタル ペン ボタンを使ってインクのなげなわ選択を行います。
+-   **共有ファイルの変更**: 共有ブックに変更を加えたユーザーを表示し、以前のバージョンを復元します。[詳細情報](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
+-   **ペン ボタンでなげなわ選択:** リボンにアクセスすることなく、サポートされているデジタル ペン ボタンを使ってインクのなげなわ選択を行います。
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
 -   [CVE-2017-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8501): Microsoft Office のメモリ破損の脆弱性
@@ -209,13 +209,13 @@ ms.locfileid: "41629274"
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新
 -   **オンライン画像の挿入:** 画像と属性情報を選択するための新しいランディング ページは、画像と一緒に自動で挿入されます。
--   **ビデオのクローズド キャプション:** アクセシビリティを高めるため、ビデオにクローズド キャプションを追加します。 [詳細情報](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
+-   **ビデオのクローズド キャプション:** アクセシビリティを高めるため、ビデオにクローズド キャプションを追加します。[詳細情報](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
 -   **レコーディングのナレーション:** プレゼンテーションをレコーディングするときに、自分のナレーションのビデオを含めることができます。レコーディングには、アニメーション、インク、オーディオ、ビデオを含めることができます。
 -   **共有ファイル アクティビティ:** ファイルの右上隅にある [アクティビティ] ボタンを選択し、OneDrive for Business や SharePoint で共有されているファイルを共有、編集、名前を変更、復元したタイミングを確認します。
 -   **代替テキストの作成:** クラウドベースのサービスによって、プレゼンテーションの画像に対して代替テキストが自動で生成されます。
 -   **安全なリンク:** ユーザーがリンクをクリックすると、Office 365 Advanced Threat Protection (ATP) によって、そのリンクが悪意のあるリンクかどうかを検査します。悪意のあるリンクと判断された場合は、ユーザーは元のターゲット URL ではなく警告ページにリダイレクトされます。 [詳細情報](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
 -   **デザイナーの機能強化:** アクション指向リストの本格的なデザイン アイデアを提案します。
--   **共有ファイルの変更:** 共有プレゼンテーションに変更を加えたユーザーを表示し、以前のバージョンを復元します。 [詳細情報](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
+-   **共有ファイルの変更:** 共有プレゼンテーションに変更を加えたユーザーを表示し、以前のバージョンを復元します。[詳細情報](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: セキュリティ更新プログラム
 -   [CVE-2017-8742](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8742): PowerPoint のリモート コード実行の脆弱性
@@ -306,7 +306,7 @@ ms.locfileid: "41629274"
 -   一部のユーザーについて、[描画] タブをクリックするとアプリケーションがクラッシュする問題を修正します。
 -   ヒントがあるコモン コントロールの上にカーソルを置くとアプリケーションがクラッシュする問題を修正します。
 -   コモン コントロールを使用する場合にライセンスのエラー メッセージが表示される問題を修正します。
--   一部のプログラム ファイルの署名において、ウイルス対策プログラムでこれらのファイルにフラグが設定されたり、Windows 情報保護 (WIP) でのデータの保護およびアクセスに関して問題が発生したりするという問題を修正します。
+-   一部のプログラム ファイルの署名において、ウイルス対策プログラムでこれらのファイルにフラグが設定されたり、Windows Information Protection (WIP) でのデータの保護およびアクセスに関して問題が発生したりするという問題を修正します。
 -   support.to を追加すると、Office の 64 ビット バージョンを使用しているユーザーが mscomctl.ocx コントロールを含むマクロ ファイルを開けるようになります。
 -   mscomctl.ocx で使用されているコントロールのアクセシビリティを向上させます。
 -   コマンドが、リボンまたはクイック アクセス ツール バーのカスタマイズ ダイアログに表示されない問題を修正します。
@@ -320,7 +320,7 @@ ms.locfileid: "41629274"
 -   スクロールバーをドラッグしてメッセージの一覧内を移動するときの問題の修正。
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
--   一部のプログラム ファイルの署名において、ウイルス対策プログラムでこれらのファイルにフラグが設定されたり、Windows Information Protection (WIP) でのデータの保護およびアクセスに関して問題が発生したりするという問題の修正。
+-   一部のプログラム ファイルの署名において、ウイルス対策プログラムでこれらのファイルにフラグが設定されたり、Windows Information Protection (WIP) でのデータの保護およびアクセスに関して問題が発生したりするという問題を修正します。
 -   新機能ダイアログが表示されない問題の修正。
 
 
@@ -586,7 +586,7 @@ ms.locfileid: "41629274"
 
 ### <a name="word-non-security-updates"></a>Word: セキュリティ以外の更新プログラム
 -   ユーザーが PST ファイルを検索できないという問題を修正します。
--   [新しい Outlook データ ファイル] ダイアログ ボックスに "Microsoft Exchange" という新しいストアの種類が表示され、この新しいデータ型を選択するとユーザーのプロファイルを使用できなくなるという問題を修正します。
+-   "新しい Outlook データ ファイル" ダイアログ ボックスに "Microsoft Exchange" という新しいストアの種類が表示され、この新しいデータ型を選択するとユーザーのプロファイルを使用できなくなるという問題を修正します。
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
 -   [CVE-2017-0199](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0199): Microsoft Office/ワードパッドのリモート コード実行の脆弱性/Windows API
@@ -701,7 +701,7 @@ ms.locfileid: "41629274"
 -   **自分と共有:** [ファイル] \> [開く] \> [自分と共有] で、他のユーザーが自分と共有しているのドキュメントを参照します。 [詳細情報](https://support.office.com/article/e0476dc7-bf2f-4203-b9ad-c809578b03e7)
 -   **色の変更:** 操作アシストを使用して、フォント、強調表示、図形の塗りつぶしなどの色を設定します。 [詳細情報](https://support.office.com/article/5bab7082-b772-427c-a106-14ae46f8687f)
 
-### <a name="excel-security-updates"></a>Excel: セキュリティの更新
+### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
 -   マイクロソフト セキュリティ情報 [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Microsoft Office のセキュリティ更新プログラム (3204068)
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム

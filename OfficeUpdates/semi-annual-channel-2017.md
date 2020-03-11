@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: IT プロフェッショナルに、Office 365 ProPlus の半期チャネルリリースのリリースノートを2017で提供します。
 ms.openlocfilehash: 9d3a8a62656e52fd556920745d64ba2d1da47b1f
-ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
+ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/30/2020
-ms.locfileid: "41629264"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42549228"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2017"></a>2017での半期チャネルリリースのリリースノート
 
@@ -386,7 +386,7 @@ ms.locfileid: "41629264"
 -   [CVE-2017-8744](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8744): Microsoft Office のメモリ破損の脆弱性
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
--   一部のプログラム ファイルの署名において、ウイルス対策プログラムでこれらのファイルにフラグが設定されたり、Windows Information Protection (WIP) でのデータの保護およびアクセスに関して問題が発生したりするという問題の修正。
+-   一部のプログラム ファイルの署名において、ウイルス対策プログラムでこれらのファイルにフラグが設定されたり、Windows Information Protection (WIP) でのデータの保護およびアクセスに関して問題が発生したりするという問題を修正します。
 -   新機能ダイアログが表示されない問題を修正します。
 -   構成マネージャーを使用しているときに、Office 2013 の無人アップグレードが Office 2016 に失敗する原因となる問題を修正します。
 -   ストアから企業のカタログに展開された従来のアドインが読み込まれない問題の修正。
