@@ -9,16 +9,16 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 371be87b4ba3405aeaa103591ca05dadf7578e7e
-ms.sourcegitcommit: a1b7e6268b7409711c48461bf80c5f511c817444
+ms.openlocfilehash: 98f2ec2386cc214cbe5912d428b781610d953aca
+ms.sourcegitcommit: 4be8cb98eca74452720348595f0b8cfeaba4cef8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42345146"
+ms.lasthandoff: 03/09/2020
+ms.locfileid: "42568863"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office Insider のリリース ノート
 
-この記事には、Windows デスクトップ向け Word、Excel、PowerPoint、Outlook、Access、Project の Insider ビルドのリリース ノートが含まれています。 Microsoft では、毎週、皆様にお知らせしたい魅力的な新機能、重要な修正プログラム、重大な問題に関する情報を提供しています。 多くの場合、機能 (場合によっては修正プログラムも) は、特定の期間にわたって Insider にロールアウトされます。 これにより、Microsoft では、より広範な対象ユーザーに機能をリリースする前に、作業がスムーズに行われていることを確認できます。 したがって、下記のものが表示されない場合でも、心配する必要はなく、いずれは表示されます。  
+この記事には、Windows デスクトップ向け Word、Excel、PowerPoint、Outlook、Access、Project の Insider ビルドのリリース ノートが含まれています。 Microsoft では、毎週、皆様にお知らせしたい魅力的な新機能、重要な修正プログラム、重大な問題に関する情報を提供しています。 多くの場合、機能 (場合によっては修正プログラムも) は、特定の期間にわたって Insider にロールアウトされます。 これにより、Microsoft では、より広範な対象ユーザーに機能をリリースする前に、作業がスムーズに行われていることを確認できます。 以下に示すものが表示されない場合でも、最終的には入手できますのでご安心ください。  
 
 > [!NOTE]
 > - リリース ノートは毎週投稿され、場合により複数のビルドのコンパイルになります。
@@ -26,6 +26,36 @@ ms.locfileid: "42345146"
 > - Microsoft Teams に関連する既存の Office 365 ProPlus のインストール - 6 月の下旬から、これらの更新プログラムのインストール時に、Microsoft Teams が既存の Office 365 ProPlus (Office 365 Business) のインストールの中に含められます。 Teams が追加される日にちは、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/deployoffice/teams-install)」を参照してください。
 
 [//]: # (削除しないでください)
+
+## <a name="version-2003-march-06"></a>バージョン 2003: 3 月 6 日
+*バージョン 2003 (ビルド 12624.20086)*
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- Outlook Web Access を使用してルールを作成しても Exchange サーバーに保存されず競合が発生する問題を修正しました。
+- ダーク モードの Outlook の [差出人] フィールドにドロップダウン リストが表示されない問題を修正しました。
+- ファイルが別のアプリケーションで開かれているときに、ユーザーがエクスプローラーでファイルをメール メッセージに添付できない問題を修正しました。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- サムネイルの上にマウスポインターを置くと推奨されるサムネイルが点滅する問題を修正しました。 場合によっては、これにより PowerPoint がクラッシュしてしまう可能性があります。
+
+### <a name="word"></a>Word
+
+- 編集用に保護されたドキュメントの比較機能の問題を修正しました。
+
+### <a name="office-suite"></a>Office スイート
+
+- ユーザー プリンシパル名 (UPN) の大文字と小文字が区別されなくなり、SharePoint でファイルを操作するときにはエラーが少なくなるという Word/Excel/PowerPoint の問題を修正しました。
+
+- 機能に影響はないものの、[ファイル]、[オプション] の順で進んだ後のダイアログの [OK] ボタンが灰色で表示されていた外観上の問題を修正しました。
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
 ## <a name="version-2003-february-28"></a>バージョン 2003: 2 月 28 日
 *バージョン 2003 (ビルド 12619.20002)*
@@ -2271,9 +2301,9 @@ OneDrive 同期クライアントを有効にして、Outlook デスクトップ
 
 #### <a name="learning-tools-mode-has-additional-support-for-more-page-colors"></a>学習ツール モードでは、より多くのページの色が追加でサポートされます。
 
-Word の学習ツールは、より多くのページ テーマ色を追加し、ページの背景色を変更できるようになりました。  多くのユーザーがすべて白、またはすべて黒の背景だと閲覧が難しいという課題があったため、PC と Mac の Word で色の選択肢を拡大しました。
+Word の学習ツールは、より多くのページ テーマ色を追加し、ページの背景色を変更できるようになりました。  すべて白またはすべて黒の背景だと読みにくいと感じるユーザーが多かったため、PC と Mac の Word で色の選択肢を拡大しました。
 
-#### <a name="getting-started"></a>利用するには:
+#### <a name="getting-started"></a>作業の開始:
 
 この操作を行うには、[表示] タブに移動し、[学習ツール]、[ページの色] の順に選択します。
 
@@ -2451,7 +2481,7 @@ OneDrive for Business で docm ファイルを作成し、同僚と共有して�
 ## <a name="notable-fixes"></a>主な修正:
 
 ### <a name="word"></a>Word 
-- オプションの表示中に ‘Esc’ キーを押すと発生するクラッシュの問題を修正しました
+- オプションの表示中に 'Esc' キーを押すと発生するクラッシュの問題を修正しました
 - コメントに返信するときにクラッシュが発生するという問題を修正しました。
 - Word から PowerPoint Online へのコピーと貼り付けで発生する問題を修正しました
 
@@ -2496,7 +2526,7 @@ OneDrive for Business で docm ファイルを作成し、同僚と共有して�
 ## <a name="notable-fixes"></a>主な修正:
 
 ### <a name="word"></a>Word 
-- オプションの表示中に ‘Esc’ キーを押すと発生するクラッシュの問題を修正しました
+- オプションの表示中に 'Esc' キーを押すと発生するクラッシュの問題を修正しました
 - Word から PowerPoint Online へのコピーと貼り付けで発生する問題を修正しました
 
 ### <a name="excel"></a>Excel
@@ -2538,7 +2568,7 @@ OneDrive for Business で docm ファイルを作成し、同僚と共有して�
 
 - [変形] で 2 つのオブジェクトを同じオブジェクトとして扱うために、[選択] ウィンドウを使って図形の名前を変更することができます。
 - [変形] で名前を使って既定のマッチング動作を上書きするには、 名前の前に "!!" (2 つの感嘆符) を付ける必要があります (例: "!!Name")。
-- 名前の先頭に "!!" が付いていない図形の名前変更を続行できます。 [変形] の動作が変更されることを気にする必要はありません
+- ユーザーは、名前の先頭に "!!" が付いていない図形の名前変更を続行することができます。 [変形] の動作が変更されることを気にする必要はありません
 
 #### <a name="scenarios-to-try"></a>次の操作を試してみてください:
 
