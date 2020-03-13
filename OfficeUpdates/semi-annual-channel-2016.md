@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: IT プロフェッショナルに、Office 365 ProPlus の半期チャネルリリースのリリースノートを2016で提供します。
 ms.openlocfilehash: b70dda115d271a4ec0779c4b99927275dae7969d
-ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
+ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/06/2020
-ms.locfileid: "42549198"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42615033"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2016"></a>2016での半期チャネルリリースのリリースノート
 
@@ -29,7 +29,7 @@ ms.locfileid: "42549198"
 ## <a name="version-1605-december-13"></a>バージョン 1605:12 月13日
 *バージョン 1605 (ビルド 6965.2115)*
 
-### <a name="excel-security-updates"></a>Excel: セキュリティの更新
+### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
 -   マイクロソフト セキュリティ情報 [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Microsoft Office のセキュリティ更新プログラム (3204068)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: セキュリティ以外の更新プログラム
@@ -46,7 +46,7 @@ ms.locfileid: "42549198"
 
 *これは、2016年6月から使用可能になった遅延チャネルリリースです。引き続きサポートされ、2017年2月までセキュリティ更新プログラムを受信します。しかし、新しい遅延チャネルリリースが使用可能になりました—バージョン 1605 (ビルド 6965.2115) —新しい機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムが含まれます。*
 
-### <a name="excel-security-updates"></a>Excel: セキュリティの更新
+### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
 -   マイクロソフト セキュリティ情報 [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Microsoft Office のセキュリティ更新プログラム (3204068)
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
@@ -57,7 +57,7 @@ ms.locfileid: "42549198"
 ## <a name="version-1605-november-8"></a>バージョン 1605:11 月8日
 *バージョン 1605 (ビルド 6965.2105)*
 
-### <a name="excel-security-updates"></a>Excel: セキュリティの更新
+### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
 -   マイクロソフト セキュリティ情報[MS16 133](https://technet.microsoft.com/library/security/ms16-133): Microsoft Office (3199168) のセキュリティ更新プログラム
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: セキュリティ以外の更新プログラム
@@ -73,7 +73,7 @@ ms.locfileid: "42549198"
 
 *これは、2016年6月から使用可能になった遅延チャネルリリースです。引き続きサポートされ、2017年2月までセキュリティ更新プログラムを受信します。しかし、新しい遅延チャネルリリースが使用可能になりました—バージョン 1605 (ビルド 6965.2105) —新しい機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムが含まれます。*
 
-### <a name="excel-security-updates"></a>Excel: セキュリティの更新
+### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
 -   マイクロソフト セキュリティ情報 [MS16-133](https://technet.microsoft.com/library/security/ms16-133): Microsoft Office のセキュリティ更新プログラム (3199168)
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
@@ -255,7 +255,7 @@ ms.locfileid: "42549198"
 ## <a name="version-1602-september-13"></a>バージョン 1602: 9 月13日
 *バージョン 1602 (ビルド 6741.2071)*
 
-### <a name="excel-security-updates"></a>Excel: セキュリティの更新
+### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
 -   マイクロソフト セキュリティ情報 [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Microsoft Office のセキュリティ更新プログラム (3185852)
 
 ### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム
@@ -277,7 +277,7 @@ ms.locfileid: "42549198"
 
 *これは、2016年2月から使用可能になった遅延チャネルリリースです。引き続きサポートされ、2016年10月までセキュリティ更新プログラムを受信します。ただし、新しい遅延チャネルリリースが使用可能になりました—バージョン 1602 (ビルド 6741.2071) —新しい機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムが含まれます。*
 
-### <a name="excel-security-updates"></a>Excel: セキュリティの更新
+### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
 -   マイクロソフト セキュリティ情報 [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Microsoft Office のセキュリティ更新プログラム (3185852)
 
 ### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム
@@ -339,7 +339,7 @@ ms.locfileid: "42549198"
 ## <a name="version-1602-july-12"></a>バージョン 1602: 7 月12日
 *バージョン 1602 (ビルド 6741.2056)*
 
-### <a name="excel-security-updates"></a>Excel: セキュリティの更新
+### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
 -   マイクロソフト セキュリティ情報 [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Microsoft Office のセキュリティ更新プログラム (3170008)
 
 ### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム
@@ -355,7 +355,7 @@ ms.locfileid: "42549198"
 
 *これは、2016年2月から使用可能になった遅延チャネルリリースです。引き続きサポートされ、2016年10月までセキュリティ更新プログラムを受信します。ただし、新しい遅延チャネルリリースが使用可能になりました—バージョン 1602 (ビルド 6741.2056) —新しい機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムが含まれます。*
 
-### <a name="excel-security-updates"></a>Excel: セキュリティの更新
+### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
 -   マイクロソフト セキュリティ情報 [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Microsoft Office のセキュリティ更新プログラム (3170008)
 
 ### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム
@@ -674,7 +674,7 @@ ms.locfileid: "42549198"
 ## <a name="version-1509-april-12"></a>バージョン 1509: 4 月12日
 *バージョン 1509 (ビルド 6001.1073)*
 
-### <a name="excel-security-updates"></a>Excel: セキュリティの更新
+### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
 -   マイクロソフト セキュリティ情報 [MS16-042](https://technet.microsoft.com/library/security/ms16-042): Microsoft Office のセキュリティ更新プログラム (3148775)
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: セキュリティ更新プログラム

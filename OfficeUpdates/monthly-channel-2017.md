@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: IT プロフェッショナルに、Office 365 ProPlus の月次チャネルリリースのリリースノートを2017で提供します。
 ms.openlocfilehash: 7c3523a10f3fe5db8f38e792e0061b0eed2745bf
-ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
+ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/06/2020
-ms.locfileid: "42549268"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42615006"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>2017の月次チャネルリリースのリリースノート
 
@@ -304,7 +304,7 @@ ms.locfileid: "42549268"
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新
 -   **3D モデル:** 3D を使用して、プレゼンテーションを、より視覚的かつ独創的なものにすることができます。スライド間で映画のようなアニメーションを生み出す画面切り替え効果を生かして、3D モデルをプレゼンテーションで活用しましょう。 [詳細情報](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
--   **新しいインク効果:** メタリック ペンを使用し、ゴールド、シルバーあるいは虹、銀河、溶岩、海などを連想させる色などのインクの効果を活用して、アイデアの表現の幅を広めましょう。
+-   **新しいインク効果:** メタリック ペンや、レインボー、銀河、溶岩、海、ゴールド、シルバーなどのインク効果を使用して、自分のアイデアを鮮やかに表現しましょう。
 -   **ファイル共有 UI:** OneDrive for Business または SharePoint のファイルの場合、リボンの右上隅にある [共有] ボタンをクリック、または [ファイル] \> [共有] の順に移動することにより、簡略化され改良された [共有] ダイアログが起動されます。新規のファイル、またはローカルに保存されたファイルの場合、この UI によって、ユーザーはファイルを OneDrive に簡単にアップロードし、共同作業を開始できます。
 -   **危険な拡張子をブロック:** リスクが高いとみなされ、OLE パッケージ オブジェクトとして埋め込まれている拡張子は、既定ではアクティブ化されないようにブロックされています。たとえば、.exe、.vbs、.js などがこれに該当します。[詳細情報](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
@@ -338,7 +338,7 @@ ms.locfileid: "42549268"
 
 ### <a name="word-feature-updates"></a>Word: 機能の更新
 -   **3D モデル:** 3D を使用して、ドキュメントを、より視覚的かつ独創的なものにすることができます。3D モデルの挿入も簡単で、360 度回転させることができます。 [詳細情報](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
--   **新しいインク効果:** メタリック ペンを使用し、ゴールド、シルバーあるいは虹、銀河、溶岩、海などを連想させる色などのインクの効果を活用して、アイデアの表現の幅を広めましょう。
+-   **新しいインク効果:** メタリック ペンや、レインボー、銀河、溶岩、海、ゴールド、シルバーなどのインク効果を使用して、自分のアイデアを鮮やかに表現しましょう。
 -   **ファイル共有 UI:** OneDrive for Business または SharePoint のファイルの場合、リボンの右上隅にある [共有] ボタンをクリック、または [ファイル] \> [共有] の順に移動することにより、簡略化され改良された [共有] ダイアログが起動されます。新規のファイル、またはローカルに保存されたファイルの場合、この UI によって、ユーザーはファイルを OneDrive に簡単にアップロードし、共同作業を開始できます。
 -   **危険な拡張子をブロック:** リスクが高いとみなされ、OLE パッケージ オブジェクトとして埋め込まれている拡張子は、既定ではアクティブ化されないようにブロックされています。たとえば、.exe、.vbs、.js などがこれに該当します。[詳細情報](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
@@ -350,7 +350,7 @@ ms.locfileid: "42549268"
 ## <a name="version-1707-september-12"></a>バージョン 1707: 9 月12日
 *バージョン 1707 (ビルド 8326.2107)*
 
-### <a name="excel-security-updates"></a>Excel: セキュリティの更新
+### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
 -   [CVE-2017-8631](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8631): Microsoft Office のメモリ破損の脆弱性
 -   [CVE-2017-8632](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8632): Microsoft Office のメモリ破損の脆弱性
 
@@ -820,7 +820,7 @@ ms.locfileid: "42549268"
 ## <a name="version-1702-march-14"></a>バージョン 1702: 3 月14日
 *バージョン 1702 (ビルド 7870.2024)*
 
-### <a name="excel-security-updates"></a>Excel: セキュリティの更新
+### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
 -   マイクロソフト セキュリティ情報 [MS17-014](https://technet.microsoft.com/library/security/ms17-014): Microsoft Office のセキュリティ更新プログラム (3217868)
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: セキュリティ更新プログラム

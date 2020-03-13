@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の半期チャネル (対象指定) リリースのリリースノートを IT 担当者に提供します (2017)
 ms.openlocfilehash: 911626feb56a68ab258b51de78142dfaf6926bbe
-ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
+ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/06/2020
-ms.locfileid: "42549238"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42615001"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2017"></a>2017での半期チャネル (対象指定) リリースのリリースノート
 
@@ -29,7 +29,7 @@ ms.locfileid: "42549238"
 ## <a name="version-1708-december-12"></a>バージョン 1708:12 月12日
 *バージョン 1708 (ビルド 8431.2131)*
 
- ### <a name="excel-security-updates"></a>Excel: セキュリティの更新
+ ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
 -   [CVE-2017-11935](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11935): Microsoft Excel のリモート コード実行の脆弱性
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム

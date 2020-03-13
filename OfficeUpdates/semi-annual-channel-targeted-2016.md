@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の半期チャネル (対象指定) リリースのリリースノートを IT 担当者に提供します (2016)
 ms.openlocfilehash: 7560a299409682010d2bf4e435dc733432781dab
-ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
+ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/06/2020
-ms.locfileid: "42549218"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42615065"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2016"></a>2016での半期チャネル (対象指定) リリースのリリースノート
 
@@ -29,7 +29,7 @@ ms.locfileid: "42549218"
 ## <a name="version-1609-december-13"></a>バージョン 1609:12 月13日
 *バージョン 1609 (ビルド 7369.2095)*
 
-### <a name="excel-security-updates"></a>Excel: セキュリティの更新
+### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
 -   マイクロソフト セキュリティ情報 [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Microsoft Office のセキュリティ更新プログラム (3204068)
 
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
@@ -60,7 +60,7 @@ ms.locfileid: "42549218"
 ## <a name="version-1609-november-8"></a>バージョン 1609:11 月8日
 *バージョン 1609 (ビルド 7369.2055)*
 
-### <a name="excel-security-updates"></a>Excel: セキュリティの更新
+### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
 -   マイクロソフト セキュリティ情報 [MS16-133](https://technet.microsoft.com/library/security/ms16-133): Microsoft Office のセキュリティ更新プログラム (3199168)
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
@@ -298,7 +298,7 @@ ms.locfileid: "42549218"
 ## <a name="version-1605-september-13"></a>バージョン 1605: 9 月13日
 *バージョン 1605 (ビルド 6965.2084)*
 
-### <a name="excel-security-updates"></a>Excel: セキュリティの更新
+### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
 -   マイクロソフト セキュリティ情報 [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Microsoft Office のセキュリティ更新プログラム (3185852)
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
@@ -372,7 +372,7 @@ ms.locfileid: "42549218"
 ## <a name="version-1605-july-12"></a>バージョン 1605: 7 月12日
 *バージョン 1605 (ビルド 6965.2066)*
 
-### <a name="excel-security-updates"></a>Excel: セキュリティの更新
+### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
 -   マイクロソフト セキュリティ情報 [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Microsoft Office のセキュリティ更新プログラム (3170008)
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
@@ -613,7 +613,7 @@ ms.locfileid: "42549218"
 ## <a name="version-1602-april-12"></a>バージョン 1602: 4 月12日
 *バージョン 1602 (ビルド 6741.2026)*
 
-### <a name="excel-security-updates"></a>Excel: セキュリティの更新
+### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
 -   マイクロソフト セキュリティ情報 [MS16-042](https://technet.microsoft.com/library/security/ms16-042): Microsoft Office のセキュリティ更新プログラム (3148775)
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: セキュリティ更新プログラム
@@ -885,7 +885,7 @@ ms.locfileid: "42549218"
 ## <a name="version-1509-february-9"></a>バージョン 1509: 2 月9日
 *バージョン 1509 (ビルド 6001.1061)*
 
-### <a name="excel-security-updates"></a>Excel: セキュリティの更新
+### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
 -   マイクロソフト セキュリティ情報 MS [16-015](https://go.microsoft.com/fwlink/?LinkId=722214): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3134226)
 
 ### <a name="word-security-updates"></a>Word: セキュリティ更新プログラム
@@ -896,7 +896,7 @@ ms.locfileid: "42549218"
 ## <a name="version-1509-january-12"></a>バージョン 1509: 1 月12日
 *バージョン 1509 (ビルド 6001.1054)*
 
-### <a name="excel-security-updates"></a>Excel: セキュリティの更新
+### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
 -   マイクロソフト セキュリティ情報 [MS16-004](https://go.microsoft.com/fwlink/?LinkId=717998): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3124585)
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: セキュリティ更新プログラム
