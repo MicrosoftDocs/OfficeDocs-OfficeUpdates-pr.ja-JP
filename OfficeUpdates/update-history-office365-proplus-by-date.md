@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT プロフェッショナルに、日付ごとに整理した Office 365 ProPlus リリースすべての一覧を、リリース ノートへのリンクを含めて提供します
-ms.openlocfilehash: 075b651912f81195921e102d847c3ca61f484a7b
-ms.sourcegitcommit: a1b7e6268b7409711c48461bf80c5f511c817444
+ms.openlocfilehash: 07f6ab27d42a0f86a33e1f8b3ee9605e8a58257f
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42345086"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586686"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 ProPlus の更新履歴 (日付別の一覧)
 
@@ -31,11 +31,10 @@ Office 365 ProPlus は、新機能、セキュリティ更新プログラム、�
 
 |**チャネル**|**バージョン**|**ビルド**|**リリース日**|**バージョンのサポート期限**|
 |:-----|:-----|:-----|:-----|:-----|
-|毎月<br/>|2002<br/>|12527.20242<br/>|2020 年 3 月 1 日<br/>|2003 バージョンがリリースされました<br/>|
-|半期 (対象指定)<br/>|1908<br/>|11929.20606<br/>|2020 年 2 月 11 日<br/>|2020 年 3 月 10 日<br/>|
-|半期<br/>|1908<br/>|11929.20606<br/>|2020 年 2 月 11 日<br/>|2021 年 3 月 9 日<br/>|
-|半期<br/>|1902<br/>|11328.20526<br/>|2020 年 2 月 11 日<br/>|2020 年 9 月 8 日<br/>|
-|半期<br/>|1808<br/>|10730.20438<br/>|2020 年 2 月 11 日<br/>|2020 年 3 月 10 日<br/>|
+|毎月<br/>|2002<br/>|12527.20278<br/>|2020 年 3 月 10 日<br/>|2003 バージョンがリリースされました<br/>|
+|半期 (対象指定)<br/>|2002<br/>|12527.20278<br/>|2020 年 3 月 10 日<br/>|2020 年 9 月 8 日<br/>|
+|半期<br/>|1908<br/>|11929.20648<br/>|2020 年 3 月 10 日<br/>|2021 年 3 月 9 日<br/>|
+|半期<br/>|1902<br/>|11328.20554<br/>|2020 年 3 月 10 日<br/>|2020 年 9 月 8 日<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -47,6 +46,7 @@ Office 365 ProPlus は、新機能、セキュリティ更新プログラム、�
 
 |**Year**|**リリース日**|**月次チャネル**|**半期チャネル (対象指定)**|**半期チャネル**|
 |:-----|:-----|:-----|:-----|:-----|
+|2020|3 月 10 日|[バージョン 2002 (ビルド 12527.20278)](monthly-channel-2020.md#version-2002-march-10)|[バージョン 2002 (ビルド 12527.20278)](semi-annual-channel-targeted-2020.md#version-2002-march-10)|[バージョン 1908 (ビルド 11929.20648)](semi-annual-channel-2020.md#version-1908-march-10)<br/>[バージョン 1902 (ビルド 11328.20554)](semi-annual-channel-2020.md#version-1902-march-10)|
 |2020|3 月 1 日|[バージョン 2002 (ビルド 12527.20242)](monthly-channel-2020.md#version-2002-march-01)| | |
 |2020|2 月 25 日|[バージョン 2002 (ビルド 12527.20194)](monthly-channel-2020.md#version-2002-february-25)| | |
 |2020|2 月 19 日|[バージョン 2001 (ビルド 12430.20288)](monthly-channel-2020.md#version-2001-february-19)| | |

@@ -1,7 +1,7 @@
 ---
 title: Office 365 ProPlus セキュリティ更新プログラムのリリース ノート
 ms.author: andrewmo
-author: ''
+author: TimDavenport
 manager: andrewmo
 ms.audience: ITPro
 ms.topic: reference
@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus セキュリティ更新プログラムのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: eb10848ed20ff5fc30af6e5c87ff8c5ab6a3f242
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: 95dcbdcc49a9022fc0e07639b5311f3a4e481b48
+ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978625"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42615014"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Office 365 ProPlus セキュリティ更新プログラムのリリース ノート
 
@@ -25,6 +25,28 @@ ms.locfileid: "41978625"
 > - ここに記載されている情報は、Business Premium など一部の Office 365 プランに付属する Office のバージョンの、Office 365 Business にも該当します。  
 
 [//]: # (上の行は間隔を空けるために使用されているので、削除しないでください。)  
+
+## <a name="march-10-2020"></a>2020 年 3 月 10 日
+月次チャネル: バージョン 2002 (ビルド 12527.20278)  
+半期チャネル (対象指定): バージョン 2002 (ビルド 12527.20278)  
+半期チャネル: バージョン 1908 (ビルド 11929.20648)  
+半期チャネル: バージョン 1902 (ビルド 11328.20554)  
+Windows 7 上の Office 365 ProPlus: バージョン 2002 (ビルド 12527.20278)  
+
+[//]: # (セキュリティの詳細コンテンツを削除しないでください。開始)
+
+
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-0850](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0850)
+-   [CVE-2020-0892](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0892)
+-   [CVE-2020-0855](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0855)
+-   [CVE-2020-0851](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0851)
+
+[//]: # (セキュリティの詳細コンテンツを削除しないでください。終了)
+
+
 
 ## <a name="february-11-2020"></a>2020 年 2 月 11 日
 月次チャネル: バージョン 2001 (ビルド 12430.20264)  

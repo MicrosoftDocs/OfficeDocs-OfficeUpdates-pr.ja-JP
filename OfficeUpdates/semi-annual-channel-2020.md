@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2020 年の半期チャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 974a5db6f3bfba2bb20cd75f4e35a2777ea94ca8
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: 534e73bc6da5a7ee6d8100a925f6f1ce3dfec82d
+ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978585"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42615017"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>2020 年の半期チャネル リリースのリリース ノート
 
@@ -25,6 +25,49 @@ ms.locfileid: "41978585"
 >- 多くの場合、機能 (場合によっては修正プログラムも) は、特定の期間にわたって半期チャネルにロールアウトされます。 ここで説明される内容がすぐに確認できなくても、間もなく利用できるようになります。 [詳細情報](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- 半期チャネルのユーザーが Office ポータルから Office 365 をダウンロードして Windows 10 にインストールしたときに、既定では OneNote 2016 は含まれません。
 
+
+
+
+## <a name="version-1908-march-10"></a>バージョン 1908: 3 月 10 日
+*バージョン 1908 (ビルド 11929.20648)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- <div><span>ブックで外部リンクがある場合に複数のポップアップ ウィンドウで一部のユーザーに生じる問題が修正されました。&nbsp;</span></div>
+
+
+- <div><span style="display:inline !important;">一部のロケールにおいて、[Text to Column] 機能が失敗することがあります。</span><br></div>
+
+
+- <div style="box-sizing:border-box;"><span style="box-sizing:border-box;">非表示の名前付き範囲にアクセスすると、ユーザーにエラーが発生する場合があります。</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div>&nbsp;Shape.Paste メソッド&nbsp;<span style="font-size:13.3333px;display:inline !important;">を使用する際には発生する問題を解決しました。Shape.Paste メソッドを使用して図形をコピーして貼り付けるときに、貼り付けられた図形の選択内容が変更するという問題です。</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div>既存のファイルを保存すると [名前を付けて保存] ダイアログが必ず表示され、ファイルは実際には保存されない場合があるという問題を修正しました。<br></div>
+
+
+### <a name="office-suite"></a>Office スイート
+
+- <div><span>この変更により、マーカ付きの一部の散布図の表示が遅くなる問題に対処しました。</span></div>
+
+## <a name="version-1902-march-10"></a>バージョン 1902: 3 月 10 日
+*バージョン 1902 (ビルド 11328.20554)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-1908-february-11"></a>バージョン 1908: 2 月 11 日
 *バージョン 1908 (ビルド 11929.20606)*
@@ -78,7 +121,7 @@ ms.locfileid: "41978585"
 
 - PowerPoint の初回起動時に、信頼されていないアドインに対してセキュリティ警告メッセージ バーが表示されない問題を修正しました。
 
-### <a name="project"></a>プロジェクト
+### <a name="project"></a>Project
 
 - 基本カレンダーが変更されたときにリソース カレンダーが更新されないために、実際の作業がタイムシートとプロジェクト計画の間で異なる場合があるという問題を修正しました。
 

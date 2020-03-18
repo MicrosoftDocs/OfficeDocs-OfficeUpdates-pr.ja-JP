@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT プロフェッショナルに、Microsoft AutoUpdate (MAU) のリリース履歴を提供します
-ms.openlocfilehash: 25aec4548d1cc6aacd0993a5c88a363370774be5
-ms.sourcegitcommit: 6d822269cc24b803dce007a19c5600c1921d110a
+ms.openlocfilehash: b18b35e7e719669decac4b47b47a41595a5c127f
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42403796"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586494"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) のリリース履歴
  
@@ -29,6 +29,26 @@ ms.locfileid: "42403796"
 > - Microsoft AutoUpdate は、Microsoft のさまざまな Mac 製品への更新プログラムを提供します。そのため、Office for Mac を実行していない場合でも、Microsoft AutoUpdate を更新する通知が表示される場合があります。
 
 リリース ノートを確認するには、「[リリース ノート](release-notes-office-for-mac.md)」を参照してください。<br/><br/>
+
+## <a name="march-2020-release"></a>2020 年 3 月リリース
+
+**リリース日:** 2020 年 3 月 10 日
+
+*Microsoft Auto Update 4.21*
+
+ **機能の更新プログラム:**
+
+- Word、Excel、PowerPoint で状態の復元が有効になりました。Microsoft AutoUpdate の自動更新モードでウィンドウが開くことなく実行されるか、Docstage 状態が実行されます。 今後自動更新モードのエンド ユーザーではこれまで以上にサイレントで更新が実行されます。状態の復元による更新の使用対象となるアプリを終了する必要がないためです。
+
+
+**MAU 更新プログラムのリンク:**
+
+[Microsoft Auto Update 4.21 パッケージをダウンロードする](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 ハッシュ:**
+
+46887320AD18BAA9239629A6CFDE83339EBCAA5562822FDFCFEA74D65D0D4FB6
+<br/><br/>
 
 ## <a name="february-2020-release"></a>2020 年 2 月リリース
 
