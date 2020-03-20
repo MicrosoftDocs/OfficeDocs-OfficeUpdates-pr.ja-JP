@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 110cdc2014c68ff69a8f244f92450404f1ba81cb
-ms.sourcegitcommit: 4e509f91fd46e9df26ff0d2d775adc9bf58efa6e
+ms.openlocfilehash: 7c4ab50059d5c0a0700caab507d58035a4a2c9e7
+ms.sourcegitcommit: f4e194fab33de686fb38450c3fd73cbfa2b9d4f9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42622131"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42706957"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 月次チャネルのリリース ノート (対象指定)
 
@@ -29,6 +29,53 @@ ms.locfileid: "42622131"
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2003-march-16"></a>Version 2003: March 16
+*バージョン 2003 (ビルド 12624.20224)*
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="excel"></a>Excel
+
+- **最適な色を選択する:** 16 進数カラーコードを使用して、フォントやテキストのハイライトなどに使用する色を正確に選びます。
+
+### <a name="outlook"></a>Outlook
+
+- **最適な色を選択する:** 16 進数カラーコードを使用して、フォントやテキストのハイライトなどに使用する色を正確に選びます。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **最適な色を選択する:** 16 進数カラーコードを使用して、フォントやテキストのハイライトなどに使用する色を正確に選びます。
+
+### <a name="word"></a>Word
+
+- **最適な色を選択する:** 16 進数カラーコードを使用して、フォントやテキストのハイライトなどに使用する色を正確に選びます。
+
+### <a name="office-suite"></a>Office スイート
+
+- **タブ付きのウィンドウ**: アプリの右側にあるタブ UI を使用して、複数のウィンドウ間を切り替えることができるようになりました。 UI は、2 つ以上のウィンドウが開かれている場合にのみ表示されます。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- ソース ブックが閉じていると、外部リンクが塗りつぶし時に更新されない問題に対処しました。
+
+### <a name="outlook"></a>Outlook
+
+- 終了後にタスク マネージャーに Outlook プロセスが残っているという問題に対処しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2003-march-10"></a>バージョン 2003: 3 月 10 日
 *バージョン 2003 (ビルド 12624.20176)*
