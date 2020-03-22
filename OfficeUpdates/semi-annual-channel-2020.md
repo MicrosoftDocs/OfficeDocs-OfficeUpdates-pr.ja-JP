@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2020 年の半期チャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 534e73bc6da5a7ee6d8100a925f6f1ce3dfec82d
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: b4a6ef107e4bd4904192d4c6e6d100194b2948b9
+ms.sourcegitcommit: e2633701e5a00bd20a5f166e95fcb156461973ae
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42615017"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "42890124"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>2020 年の半期チャネル リリースのリリース ノート
 
@@ -72,7 +72,7 @@ ms.locfileid: "42615017"
 ## <a name="version-1908-february-11"></a>バージョン 1908: 2 月 11 日
 *バージョン 1908 (ビルド 11929.20606)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -105,7 +105,7 @@ ms.locfileid: "42615017"
 - ビューを変更すると、断続的なクラッシュが発生する問題を解決しました。
 
 
-- Citrix 環境で 30 件を超える予定表を表示したときにクラッシュする原因となった問題に対処しました。 [こちら](https://support.microsoft.com/ja-JP/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)は、以前のバージョンで文書化された個々の KB です。
+- Citrix 環境で 30 件を超える予定表を表示したときにクラッシュする原因となった問題に対処しました。 [こちら](https://support.microsoft.com/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)は、以前のバージョンで文書化された個々の KB です。
 
 - ユーザーが OST と同期している共有予定表フォルダーに問題があり、これらのフォルダーを操作しようとするとアクセス許可エラーが発生する問題に対処しました。
 
@@ -140,7 +140,7 @@ ms.locfileid: "42615017"
 ## <a name="version-1902-february-11"></a>バージョン 1902: 2 月 11 日
 *バージョン 1902 (ビルド 11328.20526)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -162,7 +162,7 @@ ms.locfileid: "42615017"
 ## <a name="version-1808-february-11"></a>バージョン 1808: 2 月 11 日
 *バージョン 1808 (ビルド 10730.20438)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/ja-JP/officeupdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
