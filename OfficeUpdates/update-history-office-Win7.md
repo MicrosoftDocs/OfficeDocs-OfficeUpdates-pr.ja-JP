@@ -1,5 +1,5 @@
 ---
-title: Office Windows 7 の更新履歴
+title: Office Windows 7 の更新の履歴
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus for Windows 7 の更新履歴に関するリリース ノートを提供
-ms.openlocfilehash: 7502414f60401159e5fab6493c5a8577abe2a721
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: 09bfdeddfdf7b2c09bbd5145c909b24b6da505e1
+ms.sourcegitcommit: e2633701e5a00bd20a5f166e95fcb156461973ae
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42612463"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "42890154"
 ---
 # <a name="update-history-for-office-365-proplus-on-windows-7"></a>Windows 7 上の Office 365 ProPlus の更新履歴 
 
