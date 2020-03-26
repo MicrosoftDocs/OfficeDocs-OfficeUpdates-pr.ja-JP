@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2020 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 37f124d8a99aeef470c6829e3e41a26eabc5a104
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: 1bd7a4503aff8e0d9e946f8878339189c2c9b644
+ms.sourcegitcommit: 1735c163ca50f3802e4fd6696285b49a0f28001c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42615025"
+ms.lasthandoff: 03/25/2020
+ms.locfileid: "42953027"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>2020 年の毎月のチャネル リリースのリリース ノート
 
@@ -24,6 +24,65 @@ ms.locfileid: "42615025"
 >
 >- Microsoft では多くの場合、一定期間にわたって毎月、機能 (および場合によっては修正プログラム) を展開します。  ここで説明した内容がすぐに表示されない場合は、間もなく利用できるようになります。 [詳細情報](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- Microsoft Teams の Office 365 ProPlus の既存のインストールについて: 7月の上旬から、Office 365 ProPlus (および Office 365 Business) の更新に Microsoft Teams が含まれます。  Teams が追加される日付は、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/deployoffice/teams-install)」を参照してください。
+
+## <a name="version-2003-march-25"></a>バージョン 2003: 3 月 25 日
+*バージョン 2003 (ビルド 12624.20320)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="outlook"></a>Outlook
+
+- **所有しているグループにメールをドラッグ:** メッセージや会話を受信トレイからドラッグして移動し、コピーします。 ドラッグしたメッセージは、すべてのグループ メンバーと共有されます。
+
+- **キャプティブ WiFi ネットワークの新しいエクスペリエンス**: サインインに Web ページを必要とする WiFi ネットワークに参加したことはありませんか ? Outlook はこれを検出し、接続を支援します。
+
+
+
+
+### <a name="word"></a>Word
+
+- **他のユーザーがすばやく変更を確認:** 共同編集の改善とは、これまでになく迅速に、共同作業者がユーザーによる変更を確認できることを意味します。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- Word または PowerPoint に埋め込まれたブックをもう一度開くと、場合によっては Excel がクラッシュする可能性があります。
+
+- ソース ブックが閉じていると、外部リンクが塗りつぶし時に更新されない問題に対処しました。
+
+- テンプレートからグラフを作成するときに発生するパフォーマンスの問題に対処しました。
+
+
+### <a name="outlook"></a>Outlook
+
+- 終了後にタスク マネージャーに Outlook プロセスが残っているという問題に対処しました。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- コピーと貼り付けのシナリオを改善しました。PowerPoint スライドでの図形のコピーと、ループ内の他のスライドへの貼り付けが例外で失敗する場合があります。
+
+
+### <a name="project"></a>Project
+
+- [無効化] ボタンを介してタスクが非アクティブ化/アクティブ化された場合に、ProjectBeforeTaskChange イベントが検出しない問題を修正しました。
+
+- 以前のバージョンの Project で作成したプロジェクトを保存すると、Project がクラッシュする場合があるという問題を修正しました。
+
+- タスクを完了とマークした後に、タスクの達成率が 100% 完了より小さい値に誤って変更される問題を修正しました。
+
+- サマリー タスクの日付の計算に常に誤りが発生する問題を修正しました。
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2002-march-10"></a>バージョン 2002: 3 月 10 日
 *バージョン 2002 (ビルド 12527.20278)*
@@ -204,12 +263,6 @@ ms.locfileid: "42615025"
 ### <a name="outlook"></a>Outlook
 
 - <div>署名の名前を変更したときにクラッシュする原因となった問題に対処します。</div>
-
-
-### <a name="outlookexe"></a>outlook.exe
-
-- <div>署名の名前を変更したときにクラッシュする原因となった問題に対処します。</div>
-
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
