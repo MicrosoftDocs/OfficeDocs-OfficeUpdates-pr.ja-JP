@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Windows デスクトップ用の月次チャンネル 対象指定リリースの更新履歴を Insider の皆様に提供します。
-ms.openlocfilehash: 14179ba53a19e044fab770037de21e4e44d980b2
-ms.sourcegitcommit: 58b2a1975214261397dc07adaf47ff6217b6733c
+ms.openlocfilehash: 502b7258af21d5c95e6bb0b5fbbb30cc068e168f
+ms.sourcegitcommit: e3e5b778e6f50c47cab7212bb53247e948592fba
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/14/2020
-ms.locfileid: "42640050"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42926318"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Windows 向け Office の月次チャンネル (対象指定) チャンネルの更新履歴
 
@@ -30,6 +30,12 @@ ms.locfileid: "42640050"
 > - Microsoft Teams に関連する既存の Office 365 ProPlus のインストール - 6 月の下旬から、これらの更新プログラムのインストール時に、Microsoft Teams が既存の Office 365 ProPlus (Office 365 Business) のインストールの中に含められます。 Teams が追加される日にちは、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/deployoffice/teams-install)」を参照してください。
 
 [//]: # (削除しないでください)
+
+**2020 年 3 月 23 日**<br/>
+バージョン 2003 (ビルド 12624.20296)<br/>
+
+**2020 年 3 月 21 日**<br/>
+バージョン 2003 (ビルド 12624.20276)<br/>
 
 **2020 年 3 月 13 日**<br/>
 バージョン 2003 (ビルド 12624.20224)<br/>
