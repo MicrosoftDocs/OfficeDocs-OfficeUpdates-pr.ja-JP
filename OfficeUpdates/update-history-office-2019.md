@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: クイック実行 (C2R) を使用する永続的なバージョンの Office 2016 および 2019 の更新履歴を IT 技術者に提供します
-ms.openlocfilehash: 8bd48123203d1cf061d595f8e8ff851cef309c45
-ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
+ms.openlocfilehash: 2b816a44d0ca102510aa595c1705a9de2395efcf
+ms.sourcegitcommit: 9e7fd0ee5eb91854508f3d09682dadd530e3a440
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42586394"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42959375"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R および Office 2019 の更新履歴
 
@@ -59,7 +59,8 @@ Microsoft は、Office 2016 のクイック実行 (C2R) バージョンおよび
 
 |**リリース日**|**バージョン番号**|**詳細情報**|
 |:-----|:-----|:-----|
-|2020 年 3 月 10 日   |バージョン 2002 (ビルド 12527.20278)  |[CVE-2020-0850](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0850) <br/> [CVE-2020-0851](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0851) <br/> [CVE-2020-0855](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0855) <br/> [CVE-2020-0892](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0892) <br/>  |
+|2020 年 3 月 25 日|バージョン 2003 (ビルド 12624.20320)  |さまざまなバグとパフォーマンスの修正。 <br/>  |
+|2020 年 3 月 10 日|バージョン 2002 (ビルド 12527.20278)  |[CVE-2020-0850](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0850) <br/> [CVE-2020-0851](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0851) <br/> [CVE-2020-0855](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0855) <br/> [CVE-2020-0892](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0892) <br/>  |
 |2020 年 3 月 1 日   |バージョン 2002 (ビルド 12527.20242)  |サードパーティ製アプリケーションが Outlook からメールを送信できない原因となった問題に対処します。 <br/>  |
 |2020 年 2 月 25 日   |バージョン 2002 (ビルド 12527.20194)  |さまざまなバグとパフォーマンスの修正。 <br/>  |
 |2020 年 2 月 11 日   |バージョン 2001 (ビルド 12430.20264)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0697](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0697) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0759) <br/>  |
