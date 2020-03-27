@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2020 年の半期チャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: a38ca822b48a15c2f2765bda0545b23d0ea05309
-ms.sourcegitcommit: e3e5b778e6f50c47cab7212bb53247e948592fba
+ms.openlocfilehash: 972d3b9e94c15c60b44ab5fed06bc4eb20caf313
+ms.sourcegitcommit: 75fe62b67f652ff4a527e8bf674546ff5d14fc26
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42926301"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "42983897"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>2020 年の半期チャネル リリースのリリース ノート
 
@@ -213,8 +213,6 @@ ms.locfileid: "42926301"
 - **お気に入りのアクションを選びましょう：** フラグや、削除機能を使いますか？ アーカイブまたは既読に​​しますか? クイック操作メニューをカスタマイズしてよく使うコマンドを追加できます。
 
 - **ミームが表示される:** テキストまたは静的イメージだけでは十分ではない場合、アニメーション GIF を使用して要点を示すことができます。[詳細情報](https://support.office.com/article/114bb251-861f-41cd-b20f-7e7289630c5b)
-
-- **ゆったりとしたレイアウト、まとめたレイアウト？自由に決めましょう：** 狭い間隔で、アイテム間の間隔をより広くしたり、レイアウトを狭くして表示量をより多くできます。
 
 - **より簡単なアカウントの追加方法:** アカウントのセットアップの改善により、2 要素認証を使用する Outlook.com と Gmail のアカウントを Outlook に追加することが以前よりも簡単になりました。 [詳細情報](https://support.office.com/article/70191667-9c52-4581-990e-e30318c2c081)
 
