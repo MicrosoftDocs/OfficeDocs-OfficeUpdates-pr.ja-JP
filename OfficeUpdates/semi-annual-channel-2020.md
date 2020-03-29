@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2020 年の半期チャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 972d3b9e94c15c60b44ab5fed06bc4eb20caf313
-ms.sourcegitcommit: 75fe62b67f652ff4a527e8bf674546ff5d14fc26
+ms.openlocfilehash: bfee11b418a3f35fb7ba2d293bbab60b4c42e240
+ms.sourcegitcommit: 251e261d62e807532414ad33904ddb58813867eb
 ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 03/27/2020
-ms.locfileid: "42983897"
+ms.locfileid: "43024529"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>2020 年の半期チャネル リリースのリリース ノート
 
@@ -39,28 +39,28 @@ ms.locfileid: "42983897"
 ### <a name="resolved-issues"></a>解決済みの問題
 ### <a name="excel"></a>Excel
 
-- <div><span>ブックで外部リンクがある場合に複数のポップアップ ウィンドウで一部のユーザーに生じる問題が修正されました。&nbsp;</span></div>
+- ブックで外部リンクがある場合にポップアップ ウィンドウが複数表示されることがある問題を修正しました。
 
 
-- <div><span style="display:inline !important;">一部のロケールにおいて、[Text to Column] 機能が失敗することがあります。</span><br></div>
+- 一部のロケールにおいて、[Text to Column] 機能が失敗することがあります。
 
 
-- <div style="box-sizing:border-box;"><span style="box-sizing:border-box;">非表示の名前付き範囲にアクセスすると、ユーザーにエラーが発生する場合があります。</span></div>
+- 非表示の名前付き範囲にアクセスすると、ユーザーにエラーが発生する場合があります。
 
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- <div>&nbsp;Shape.Paste メソッド&nbsp;<span style="font-size:13.3333px;display:inline !important;">を使用する際には発生する問題を解決しました。Shape.Paste メソッドを使用して図形をコピーして貼り付けるときに、貼り付けられた図形の選択内容が変更するという問題です。</span></div>
+- Shape.Paste メソッドを使用する際に発生する問題を解決しました。Shape.Paste メソッドを使用して図形をコピーして貼り付けるときに、貼り付けられた図形の選択内容が変更するという問題です。
 
 
 ### <a name="word"></a>Word
 
-- <div>既存のファイルを保存すると [名前を付けて保存] ダイアログが必ず表示され、ファイルは実際には保存されない場合があるという問題を修正しました。<br></div>
+- 既存のファイルを保存すると [名前を付けて保存] ダイアログが必ず表示され、ファイルは実際には保存されない場合があるという問題を修正しました。
 
 
 ### <a name="office-suite"></a>Office スイート
 
-- <div><span>この変更により、マーカ付きの一部の散布図の表示が遅くなる問題に対処しました。</span></div>
+- この変更により、マーカー付きの一部の散布図の表示が遅くなる問題に対処しました。
 
 ## <a name="version-1902-march-10"></a>バージョン 1902: 3 月 10 日
 *バージョン 1902 (ビルド 11328.20554)*
