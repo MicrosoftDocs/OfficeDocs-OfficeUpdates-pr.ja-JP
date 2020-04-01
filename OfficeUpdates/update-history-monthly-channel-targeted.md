@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Windows デスクトップ用の月次チャンネル 対象指定リリースの更新履歴を Insider の皆様に提供します。
-ms.openlocfilehash: 1e7adea823c50641eaeedab8169f54be70c730f6
-ms.sourcegitcommit: ee61dcf8fd0ae2e15db586fec9d15897aa712254
+ms.openlocfilehash: 8cf6f5299ffbe0afa3eada8a2e3f0929730dbba9
+ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42951717"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43046142"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Windows 向け Office の月次チャンネル (対象指定) チャンネルの更新履歴
 
@@ -23,6 +23,14 @@ ms.locfileid: "42951717"
 ## <a name="office-insider-versions-and-builds"></a>Office Insider のバージョンとビルド
 
 以前はInsider Slowと呼ばれていた月次チャンネル (対象指定) レベルに登録している場合は、月に約1回Officeの新機能の更新に加えて、重要な修正やセキュリティの更新が含まれています。 次のリストは最近の月次チャンネル (対象指定) バージョンとビルドを示しており、 **最も最近リリースされたビルドが最初にリストされています**。新しいビルドには、以前のビルドに含まれていたすべての更新が含まれています。 リリースノートを見つけるには、 [Office Insidersの新機能](https://support.office.com/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24)を参照してください。
+
+
+> [!IMPORTANT]
+> Office 365 ProPlus は **Microsoft 365 Apps for enterprises ** に名前が変更されています。 この名前の変更の詳細については、[このブログ投稿をご覧ください](https://go.microsoft.com/fwlink/p/?linkid=2120533)。 
+>
+> この変更が有効になるタイミングと、管理者が実行する必要がある操作の詳細については、[この記事をご覧ください](https://go.microsoft.com/fwlink/p/?linkid=2123420)。
+
+
 
 > [!NOTE]
 > - こちらの更新履歴はリリースされたすべてのビルドを一覧表示します

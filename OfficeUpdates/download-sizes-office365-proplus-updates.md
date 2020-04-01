@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 各チャネルの Office 365 ProPlus の更新プログラムのダウンロード サイズの概算に関する情報を IT 技術者に提供します
-ms.openlocfilehash: 14bf6f3d1223d728a4c666cad103e017746fab8e
-ms.sourcegitcommit: 1735c163ca50f3802e4fd6696285b49a0f28001c
+ms.openlocfilehash: c1a9d8828d928a800fe3f1778fcfa429adc7dee0
+ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42953017"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43046102"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 ProPlus の更新プログラムのダウンロード サイズ
 
@@ -23,6 +23,14 @@ ms.locfileid: "42953017"
 次の表には、Office 365 ProPlus の以前のリリースから最新のリリースに更新するときのダウンロード サイズの概算が示されています。 実際のダウンロード サイズは異なる場合もありますが、誤差は 50 メガバイト程度です。 以前のリリースから現在のリリースに更新する場合には、ダウンロード サイズがさらに大きくなります。
 
 半期チャネル (対象指定) から半期チャネルなどに、チャネルを切り替える場合には、更新プログラムのサイズは表に記載されているサイズよりもかなり大きくなります。 全体をダウンロードすることになるので、少なくとも 1 GB になります。
+
+
+> [!IMPORTANT]
+> Office 365 ProPlus は **Microsoft 365 Apps for enterprises ** に名前が変更されています。 この名前の変更の詳細については、[このブログ投稿をご覧ください](https://go.microsoft.com/fwlink/p/?linkid=2120533)。 
+>
+> この変更が有効になるタイミングと、管理者が実行する必要がある操作の詳細については、[この記事をご覧ください](https://go.microsoft.com/fwlink/p/?linkid=2123420)。
+
+
 
 > [!NOTE]
 > - 表に記載されているダウンロード サイズの概算は、Office 365 ProPlus の英語版 x64 バージョンにのみ適用されます。
