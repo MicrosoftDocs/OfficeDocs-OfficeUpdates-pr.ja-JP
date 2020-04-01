@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: クイック実行 (C2R) を使用する永続的なバージョンの Office 2016 および 2019 の更新履歴を IT 技術者に提供します
-ms.openlocfilehash: 2b816a44d0ca102510aa595c1705a9de2395efcf
-ms.sourcegitcommit: 9e7fd0ee5eb91854508f3d09682dadd530e3a440
+ms.openlocfilehash: 9c206097e0e0a82b3caacbc464be0a1d761ce177
+ms.sourcegitcommit: 6f8ebfd45430efe3eb3bf43823202cbdd974f5ed
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42959375"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43081769"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R および Office 2019 の更新履歴
 
@@ -59,6 +59,7 @@ Microsoft は、Office 2016 のクイック実行 (C2R) バージョンおよび
 
 |**リリース日**|**バージョン番号**|**詳細情報**|
 |:-----|:-----|:-----|
+|2020 年 3 月 31 日|バージョン 2003 (ビルド 12624.20382)  |さまざまなバグとパフォーマンスの修正。 <br/>  |
 |2020 年 3 月 25 日|バージョン 2003 (ビルド 12624.20320)  |さまざまなバグとパフォーマンスの修正。 <br/>  |
 |2020 年 3 月 10 日|バージョン 2002 (ビルド 12527.20278)  |[CVE-2020-0850](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0850) <br/> [CVE-2020-0851](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0851) <br/> [CVE-2020-0855](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0855) <br/> [CVE-2020-0892](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0892) <br/>  |
 |2020 年 3 月 1 日   |バージョン 2002 (ビルド 12527.20242)  |サードパーティ製アプリケーションが Outlook からメールを送信できない原因となった問題に対処します。 <br/>  |
