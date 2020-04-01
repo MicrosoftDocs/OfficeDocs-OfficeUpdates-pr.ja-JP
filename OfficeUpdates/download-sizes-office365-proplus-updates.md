@@ -9,165 +9,173 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 各チャネルの Office 365 ProPlus の更新プログラムのダウンロード サイズの概算に関する情報を IT 技術者に提供します
-ms.openlocfilehash: 14bf6f3d1223d728a4c666cad103e017746fab8e
-ms.sourcegitcommit: 1735c163ca50f3802e4fd6696285b49a0f28001c
+ms.openlocfilehash: c1a9d8828d928a800fe3f1778fcfa429adc7dee0
+ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42953017"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43046102"
 ---
-# <a name="download-sizes-for-updates-to-office-365-proplus"></a><span data-ttu-id="e9c47-103">Office 365 ProPlus の更新プログラムのダウンロード サイズ</span><span class="sxs-lookup"><span data-stu-id="e9c47-103">Download sizes for updates to Office 365 ProPlus</span></span>
+# <a name="download-sizes-for-updates-to-office-365-proplus"></a><span data-ttu-id="9087b-103">Office 365 ProPlus の更新プログラムのダウンロード サイズ</span><span class="sxs-lookup"><span data-stu-id="9087b-103">Download sizes for updates to Office 365 ProPlus</span></span>
 
-<span data-ttu-id="e9c47-104">私たちの目的は、できる限り事前に企業のお客様のネットワーク帯域幅使用率の計画を支援できるように、更新プログラムのサイズ情報を提供することです。</span><span class="sxs-lookup"><span data-stu-id="e9c47-104">Our goal is to provide update size information, if possible, in advance to help enterprise customers plan network bandwidth utilization.</span></span>
+<span data-ttu-id="9087b-104">私たちの目的は、できる限り事前に企業のお客様のネットワーク帯域幅使用率の計画を支援できるように、更新プログラムのサイズ情報を提供することです。</span><span class="sxs-lookup"><span data-stu-id="9087b-104">Our goal is to provide update size information, if possible, in advance to help enterprise customers plan network bandwidth utilization.</span></span>
 
-<span data-ttu-id="e9c47-105">次の表には、Office 365 ProPlus の以前のリリースから最新のリリースに更新するときのダウンロード サイズの概算が示されています。</span><span class="sxs-lookup"><span data-stu-id="e9c47-105">The following tables show the approximate download size when updating from the previous release of Office 365 ProPlus to the most current release.</span></span> <span data-ttu-id="e9c47-106">実際のダウンロード サイズは異なる場合もありますが、誤差は 50 メガバイト程度です。</span><span class="sxs-lookup"><span data-stu-id="e9c47-106">Actual download sizes might vary, by as much as 50 mb.</span></span> <span data-ttu-id="e9c47-107">以前のリリースから現在のリリースに更新する場合には、ダウンロード サイズがさらに大きくなります。</span><span class="sxs-lookup"><span data-stu-id="e9c47-107">If you are updating from an older release to the current release, your download size could be larger.</span></span>
+<span data-ttu-id="9087b-105">次の表には、Office 365 ProPlus の以前のリリースから最新のリリースに更新するときのダウンロード サイズの概算が示されています。</span><span class="sxs-lookup"><span data-stu-id="9087b-105">The following tables show the approximate download size when updating from the previous release of Office 365 ProPlus to the most current release.</span></span> <span data-ttu-id="9087b-106">実際のダウンロード サイズは異なる場合もありますが、誤差は 50 メガバイト程度です。</span><span class="sxs-lookup"><span data-stu-id="9087b-106">Actual download sizes might vary, by as much as 50 mb.</span></span> <span data-ttu-id="9087b-107">以前のリリースから現在のリリースに更新する場合には、ダウンロード サイズがさらに大きくなります。</span><span class="sxs-lookup"><span data-stu-id="9087b-107">If you are updating from an older release to the current release, your download size could be larger.</span></span>
 
-<span data-ttu-id="e9c47-108">半期チャネル (対象指定) から半期チャネルなどに、チャネルを切り替える場合には、更新プログラムのサイズは表に記載されているサイズよりもかなり大きくなります。</span><span class="sxs-lookup"><span data-stu-id="e9c47-108">If you are switching to a different channel, for example from Semi-Annual Channel (Targeted) to Semi-Annual Channel, your update size could be considerably larger than what's listed in the table.</span></span> <span data-ttu-id="e9c47-109">全体をダウンロードすることになるので、少なくとも 1 GB になります。</span><span class="sxs-lookup"><span data-stu-id="e9c47-109">It could entail a full download, which could be at least 1 GB.</span></span>
+<span data-ttu-id="9087b-108">半期チャネル (対象指定) から半期チャネルなどに、チャネルを切り替える場合には、更新プログラムのサイズは表に記載されているサイズよりもかなり大きくなります。</span><span class="sxs-lookup"><span data-stu-id="9087b-108">If you are switching to a different channel, for example from Semi-Annual Channel (Targeted) to Semi-Annual Channel, your update size could be considerably larger than what's listed in the table.</span></span> <span data-ttu-id="9087b-109">全体をダウンロードすることになるので、少なくとも 1 GB になります。</span><span class="sxs-lookup"><span data-stu-id="9087b-109">It could entail a full download, which could be at least 1 GB.</span></span>
+
+
+> [!IMPORTANT]
+> <span data-ttu-id="9087b-110">Office 365 ProPlus は \*\*Microsoft 365 Apps for enterprises \*\* に名前が変更されています。</span><span class="sxs-lookup"><span data-stu-id="9087b-110">Office 365 ProPlus is being renamed to **Microsoft 365 Apps for enterprise**.</span></span> <span data-ttu-id="9087b-111">この名前の変更の詳細については、[このブログ投稿をご覧ください](https://go.microsoft.com/fwlink/p/?linkid=2120533)。</span><span class="sxs-lookup"><span data-stu-id="9087b-111">To learn more about this name change, [read this blog post](https://go.microsoft.com/fwlink/p/?linkid=2120533).</span></span> 
+>
+> <span data-ttu-id="9087b-112">この変更が有効になるタイミングと、管理者が実行する必要がある操作の詳細については、[この記事をご覧ください](https://go.microsoft.com/fwlink/p/?linkid=2123420)。</span><span class="sxs-lookup"><span data-stu-id="9087b-112">For details of when this change takes effect, and what actions admins might need to take, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2123420).</span></span>
+
+
 
 > [!NOTE]
-> - <span data-ttu-id="e9c47-110">表に記載されているダウンロード サイズの概算は、Office 365 ProPlus の英語版 x64 バージョンにのみ適用されます。</span><span class="sxs-lookup"><span data-stu-id="e9c47-110">The approximate download size listed in the tables only applies to the en-us x64 version of Office 365 ProPlus.</span></span>
-> - <span data-ttu-id="e9c47-111">過去 4 か月のリリースが記載されています。</span><span class="sxs-lookup"><span data-stu-id="e9c47-111">Releases from the last four months are listed.</span></span>
+> - <span data-ttu-id="9087b-113">表に記載されているダウンロード サイズの概算は、Office 365 ProPlus の英語版 x64 バージョンにのみ適用されます。</span><span class="sxs-lookup"><span data-stu-id="9087b-113">The approximate download size listed in the tables only applies to the en-us x64 version of Office 365 ProPlus.</span></span>
+> - <span data-ttu-id="9087b-114">過去 4 か月のリリースが記載されています。</span><span class="sxs-lookup"><span data-stu-id="9087b-114">Releases from the last four months are listed.</span></span>
 
 [//]: # (削除しないでください)
 
-## <a name="march-25-2020"></a><span data-ttu-id="e9c47-113">2020 年 3 月 25 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-113">March 25, 2020</span></span>
+## <a name="march-25-2020"></a><span data-ttu-id="9087b-116">2020 年 3 月 25 日</span><span class="sxs-lookup"><span data-stu-id="9087b-116">March 25, 2020</span></span>
 
 [//]: # (コンテンツを削除しないでください。開始 2020 年 3 月 25 日)
 
-### <a name="monthly-channel"></a><span data-ttu-id="e9c47-115">月次チャネル</span><span class="sxs-lookup"><span data-stu-id="e9c47-115">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="9087b-118">月次チャネル</span><span class="sxs-lookup"><span data-stu-id="9087b-118">Monthly Channel</span></span>
 
-<span data-ttu-id="e9c47-116">最新のリリースはバージョン 2003 (ビルド 12624.20320) です。</span><span class="sxs-lookup"><span data-stu-id="e9c47-116">The most current release is Version 2003 (Build 12624.20320).</span></span>
+<span data-ttu-id="9087b-119">最新のリリースはバージョン 2003 (ビルド 12624.20320) です。</span><span class="sxs-lookup"><span data-stu-id="9087b-119">The most current release is Version 2003 (Build 12624.20320).</span></span>
 
-|<span data-ttu-id="e9c47-117">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="e9c47-117">**Release upgrading from**</span></span>|<span data-ttu-id="e9c47-118">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="e9c47-118">**Release date**</span></span>|<span data-ttu-id="e9c47-119">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="e9c47-119">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="9087b-120">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="9087b-120">**Release upgrading from**</span></span>|<span data-ttu-id="9087b-121">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="9087b-121">**Release date**</span></span>|<span data-ttu-id="9087b-122">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="9087b-122">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="e9c47-120">バージョン 2002 (ビルド 12527.20278)</span><span class="sxs-lookup"><span data-stu-id="e9c47-120">Version 2002 (Build 12527.20278)</span></span> <br/> |<span data-ttu-id="e9c47-121">2020 年 3 月 10 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-121">March 10, 2020</span></span> <br/> |<span data-ttu-id="e9c47-122">171</span><span class="sxs-lookup"><span data-stu-id="e9c47-122">171</span></span><br/> |
-|<span data-ttu-id="e9c47-123">バージョン 2002 (ビルド 12527.20242)</span><span class="sxs-lookup"><span data-stu-id="e9c47-123">Version 2002 (Build 12527.20242)</span></span> <br/> |<span data-ttu-id="e9c47-124">2020 年 3 月 1 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-124">March 1, 2020</span></span> <br/> |<span data-ttu-id="e9c47-125">172</span><span class="sxs-lookup"><span data-stu-id="e9c47-125">172</span></span><br/> |
+|<span data-ttu-id="9087b-123">バージョン 2002 (ビルド 12527.20278)</span><span class="sxs-lookup"><span data-stu-id="9087b-123">Version 2002 (Build 12527.20278)</span></span> <br/> |<span data-ttu-id="9087b-124">2020 年 3 月 10 日</span><span class="sxs-lookup"><span data-stu-id="9087b-124">March 10, 2020</span></span> <br/> |<span data-ttu-id="9087b-125">171</span><span class="sxs-lookup"><span data-stu-id="9087b-125">171</span></span><br/> |
+|<span data-ttu-id="9087b-126">バージョン 2002 (ビルド 12527.20242)</span><span class="sxs-lookup"><span data-stu-id="9087b-126">Version 2002 (Build 12527.20242)</span></span> <br/> |<span data-ttu-id="9087b-127">2020 年 3 月 1 日</span><span class="sxs-lookup"><span data-stu-id="9087b-127">March 1, 2020</span></span> <br/> |<span data-ttu-id="9087b-128">172</span><span class="sxs-lookup"><span data-stu-id="9087b-128">172</span></span><br/> |
 
 
 [//]: # (コンテンツを削除しないでください。終了 2020 年 3 月 25 日)
 
-## <a name="march-10-2020"></a><span data-ttu-id="e9c47-127">2020 年 3 月 10 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-127">March 10, 2020</span></span>
+## <a name="march-10-2020"></a><span data-ttu-id="9087b-130">2020 年 3 月 10 日</span><span class="sxs-lookup"><span data-stu-id="9087b-130">March 10, 2020</span></span>
 
-### <a name="monthly-channel"></a><span data-ttu-id="e9c47-128">月次チャネル</span><span class="sxs-lookup"><span data-stu-id="e9c47-128">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="9087b-131">月次チャネル</span><span class="sxs-lookup"><span data-stu-id="9087b-131">Monthly Channel</span></span>
 
-<span data-ttu-id="e9c47-129">最新のリリースはバージョン 2002 (ビルド 12527.20278) です。</span><span class="sxs-lookup"><span data-stu-id="e9c47-129">The most current release is Version 2002 (Build 12527.20278).</span></span>
+<span data-ttu-id="9087b-132">最新のリリースはバージョン 2002 (ビルド 12527.20278) です。</span><span class="sxs-lookup"><span data-stu-id="9087b-132">The most current release is Version 2002 (Build 12527.20278).</span></span>
 
-|<span data-ttu-id="e9c47-130">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="e9c47-130">**Release upgrading from**</span></span>|<span data-ttu-id="e9c47-131">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="e9c47-131">**Release date**</span></span>|<span data-ttu-id="e9c47-132">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="e9c47-132">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="9087b-133">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="9087b-133">**Release upgrading from**</span></span>|<span data-ttu-id="9087b-134">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="9087b-134">**Release date**</span></span>|<span data-ttu-id="9087b-135">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="9087b-135">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="e9c47-133">バージョン 2002 (ビルド 12527.20242)</span><span class="sxs-lookup"><span data-stu-id="e9c47-133">Version 2002 (Build 12527.20242)</span></span> <br/> |<span data-ttu-id="e9c47-134">2020 年 3 月 1 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-134">March 1, 2020</span></span> <br/> |<span data-ttu-id="e9c47-135">40</span><span class="sxs-lookup"><span data-stu-id="e9c47-135">40</span></span><br/> |
-|<span data-ttu-id="e9c47-136">バージョン 2002 (ビルド 12527.20194)</span><span class="sxs-lookup"><span data-stu-id="e9c47-136">Version 2002 (Build 12527.20194)</span></span> <br/> |<span data-ttu-id="e9c47-137">2020 年 2 月 25 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-137">February 25, 2020</span></span> <br/> |<span data-ttu-id="e9c47-138">266</span><span class="sxs-lookup"><span data-stu-id="e9c47-138">266</span></span><br/> |
+|<span data-ttu-id="9087b-136">バージョン 2002 (ビルド 12527.20242)</span><span class="sxs-lookup"><span data-stu-id="9087b-136">Version 2002 (Build 12527.20242)</span></span> <br/> |<span data-ttu-id="9087b-137">2020 年 3 月 1 日</span><span class="sxs-lookup"><span data-stu-id="9087b-137">March 1, 2020</span></span> <br/> |<span data-ttu-id="9087b-138">40</span><span class="sxs-lookup"><span data-stu-id="9087b-138">40</span></span><br/> |
+|<span data-ttu-id="9087b-139">バージョン 2002 (ビルド 12527.20194)</span><span class="sxs-lookup"><span data-stu-id="9087b-139">Version 2002 (Build 12527.20194)</span></span> <br/> |<span data-ttu-id="9087b-140">2020 年 2 月 25 日</span><span class="sxs-lookup"><span data-stu-id="9087b-140">February 25, 2020</span></span> <br/> |<span data-ttu-id="9087b-141">266</span><span class="sxs-lookup"><span data-stu-id="9087b-141">266</span></span><br/> |
 
 
 [//]: # (コンテンツを削除しないでください。開始 2020 年 3 月 10 日)
 
-### <a name="semi-annual-channel"></a><span data-ttu-id="e9c47-140">半期チャネル</span><span class="sxs-lookup"><span data-stu-id="e9c47-140">Semi-Annual Channel</span></span>
+### <a name="semi-annual-channel"></a><span data-ttu-id="9087b-143">半期チャネル</span><span class="sxs-lookup"><span data-stu-id="9087b-143">Semi-Annual Channel</span></span>
 
-<span data-ttu-id="e9c47-141">最新のリリースはバージョン 1908 (ビルド 11929.20648) です。</span><span class="sxs-lookup"><span data-stu-id="e9c47-141">The most current release is Version 1908 (Build 11929.20648).</span></span>
+<span data-ttu-id="9087b-144">最新のリリースはバージョン 1908 (ビルド 11929.20648) です。</span><span class="sxs-lookup"><span data-stu-id="9087b-144">The most current release is Version 1908 (Build 11929.20648).</span></span>
 
-|<span data-ttu-id="e9c47-142">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="e9c47-142">**Release upgrading from**</span></span>|<span data-ttu-id="e9c47-143">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="e9c47-143">**Release date**</span></span>|<span data-ttu-id="e9c47-144">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="e9c47-144">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="9087b-145">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="9087b-145">**Release upgrading from**</span></span>|<span data-ttu-id="9087b-146">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="9087b-146">**Release date**</span></span>|<span data-ttu-id="9087b-147">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="9087b-147">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="e9c47-145">バージョン 1908 (ビルド 11929.20606)</span><span class="sxs-lookup"><span data-stu-id="e9c47-145">Version 1908 (Build 11929.20606)</span></span> <br/> |<span data-ttu-id="e9c47-146">2020 年 2 月 11 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-146">February 11, 2020</span></span> <br/> |<span data-ttu-id="e9c47-147">64</span><span class="sxs-lookup"><span data-stu-id="e9c47-147">64</span></span><br/> |
-|<span data-ttu-id="e9c47-148">バージョン 1908 (ビルド 11929.20562)</span><span class="sxs-lookup"><span data-stu-id="e9c47-148">Version 1908 (Build 11929.20562)</span></span> <br/> |<span data-ttu-id="e9c47-149">2020 年 1 月 14 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-149">January 14, 2020</span></span> <br/> |<span data-ttu-id="e9c47-150">73</span><span class="sxs-lookup"><span data-stu-id="e9c47-150">73</span></span><br/> |
+|<span data-ttu-id="9087b-148">バージョン 1908 (ビルド 11929.20606)</span><span class="sxs-lookup"><span data-stu-id="9087b-148">Version 1908 (Build 11929.20606)</span></span> <br/> |<span data-ttu-id="9087b-149">2020 年 2 月 11 日</span><span class="sxs-lookup"><span data-stu-id="9087b-149">February 11, 2020</span></span> <br/> |<span data-ttu-id="9087b-150">64</span><span class="sxs-lookup"><span data-stu-id="9087b-150">64</span></span><br/> |
+|<span data-ttu-id="9087b-151">バージョン 1908 (ビルド 11929.20562)</span><span class="sxs-lookup"><span data-stu-id="9087b-151">Version 1908 (Build 11929.20562)</span></span> <br/> |<span data-ttu-id="9087b-152">2020 年 1 月 14 日</span><span class="sxs-lookup"><span data-stu-id="9087b-152">January 14, 2020</span></span> <br/> |<span data-ttu-id="9087b-153">73</span><span class="sxs-lookup"><span data-stu-id="9087b-153">73</span></span><br/> |
 
 
-### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="e9c47-151">半期 (対象指定) チャネル</span><span class="sxs-lookup"><span data-stu-id="e9c47-151">Semi-Annual (Targeted) Channel</span></span>
+### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="9087b-154">半期 (対象指定) チャネル</span><span class="sxs-lookup"><span data-stu-id="9087b-154">Semi-Annual (Targeted) Channel</span></span>
 
-<span data-ttu-id="e9c47-152">最新のリリースはバージョン 2002 (ビルド 12527.20278) です。</span><span class="sxs-lookup"><span data-stu-id="e9c47-152">The most current release is Version 2002 (Build 12527.20278).</span></span>
+<span data-ttu-id="9087b-155">最新のリリースはバージョン 2002 (ビルド 12527.20278) です。</span><span class="sxs-lookup"><span data-stu-id="9087b-155">The most current release is Version 2002 (Build 12527.20278).</span></span>
 
-|<span data-ttu-id="e9c47-153">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="e9c47-153">**Release upgrading from**</span></span>|<span data-ttu-id="e9c47-154">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="e9c47-154">**Release date**</span></span>|<span data-ttu-id="e9c47-155">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="e9c47-155">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="9087b-156">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="9087b-156">**Release upgrading from**</span></span>|<span data-ttu-id="9087b-157">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="9087b-157">**Release date**</span></span>|<span data-ttu-id="9087b-158">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="9087b-158">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="e9c47-156">バージョン 1908 (ビルド 11929.20606)</span><span class="sxs-lookup"><span data-stu-id="e9c47-156">Version 1908 (Build 11929.20606)</span></span> <br/> |<span data-ttu-id="e9c47-157">2020 年 2 月 11 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-157">February 11, 2020</span></span> <br/> |<span data-ttu-id="e9c47-158">291</span><span class="sxs-lookup"><span data-stu-id="e9c47-158">291</span></span><br/> |
-|<span data-ttu-id="e9c47-159">バージョン 1908 (ビルド 11929.20562)</span><span class="sxs-lookup"><span data-stu-id="e9c47-159">Version 1908 (Build 11929.20562)</span></span> <br/> |<span data-ttu-id="e9c47-160">2020 年 1 月 14 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-160">January 14, 2020</span></span> <br/> |<span data-ttu-id="e9c47-161">292</span><span class="sxs-lookup"><span data-stu-id="e9c47-161">292</span></span><br/> |
+|<span data-ttu-id="9087b-159">バージョン 1908 (ビルド 11929.20606)</span><span class="sxs-lookup"><span data-stu-id="9087b-159">Version 1908 (Build 11929.20606)</span></span> <br/> |<span data-ttu-id="9087b-160">2020 年 2 月 11 日</span><span class="sxs-lookup"><span data-stu-id="9087b-160">February 11, 2020</span></span> <br/> |<span data-ttu-id="9087b-161">291</span><span class="sxs-lookup"><span data-stu-id="9087b-161">291</span></span><br/> |
+|<span data-ttu-id="9087b-162">バージョン 1908 (ビルド 11929.20562)</span><span class="sxs-lookup"><span data-stu-id="9087b-162">Version 1908 (Build 11929.20562)</span></span> <br/> |<span data-ttu-id="9087b-163">2020 年 1 月 14 日</span><span class="sxs-lookup"><span data-stu-id="9087b-163">January 14, 2020</span></span> <br/> |<span data-ttu-id="9087b-164">292</span><span class="sxs-lookup"><span data-stu-id="9087b-164">292</span></span><br/> |
 
 
 [//]: # (コンテンツを削除しないでください。終了 2020 年 3 月 10 日)
 
-## <a name="march-6-2020"></a><span data-ttu-id="e9c47-163">2020 年 3 月 6 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-163">March 6, 2020</span></span>
+## <a name="march-6-2020"></a><span data-ttu-id="9087b-166">2020 年 3 月 6 日</span><span class="sxs-lookup"><span data-stu-id="9087b-166">March 6, 2020</span></span>
 
 
 
 
-## <a name="march-1-2020"></a><span data-ttu-id="e9c47-164">2020 年 3 月 1 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-164">March 1, 2020</span></span>
+## <a name="march-1-2020"></a><span data-ttu-id="9087b-167">2020 年 3 月 1 日</span><span class="sxs-lookup"><span data-stu-id="9087b-167">March 1, 2020</span></span>
 
 [//]: # (コンテンツを削除しないでください。開始 2020 年 3 月 1 日)
 
-### <a name="monthly-channel"></a><span data-ttu-id="e9c47-166">月次チャネル</span><span class="sxs-lookup"><span data-stu-id="e9c47-166">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="9087b-169">月次チャネル</span><span class="sxs-lookup"><span data-stu-id="9087b-169">Monthly Channel</span></span>
 
-<span data-ttu-id="e9c47-167">最新のリリースはバージョン 2002 (ビルド 12527.20242) です。</span><span class="sxs-lookup"><span data-stu-id="e9c47-167">The most current release is Version 2002 (Build 12527.20242).</span></span>
+<span data-ttu-id="9087b-170">最新のリリースはバージョン 2002 (ビルド 12527.20242) です。</span><span class="sxs-lookup"><span data-stu-id="9087b-170">The most current release is Version 2002 (Build 12527.20242).</span></span>
 
-|<span data-ttu-id="e9c47-168">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="e9c47-168">**Release upgrading from**</span></span>|<span data-ttu-id="e9c47-169">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="e9c47-169">**Release date**</span></span>|<span data-ttu-id="e9c47-170">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="e9c47-170">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="9087b-171">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="9087b-171">**Release upgrading from**</span></span>|<span data-ttu-id="9087b-172">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="9087b-172">**Release date**</span></span>|<span data-ttu-id="9087b-173">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="9087b-173">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="e9c47-171">バージョン 2002 (ビルド 12527.20194)</span><span class="sxs-lookup"><span data-stu-id="e9c47-171">Version 2002 (Build 12527.20194)</span></span> <br/> |<span data-ttu-id="e9c47-172">2020 年 2 月 25 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-172">February 25, 2020</span></span> <br/> |<span data-ttu-id="e9c47-173">57</span><span class="sxs-lookup"><span data-stu-id="e9c47-173">57</span></span><br/> |
-|<span data-ttu-id="e9c47-174">バージョン 2001 (ビルド 12430.20288)</span><span class="sxs-lookup"><span data-stu-id="e9c47-174">Version 2001 (Build 12430.20288)</span></span> <br/> |<span data-ttu-id="e9c47-175">2020 年 2 月 19 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-175">February 19, 2020</span></span> <br/> |<span data-ttu-id="e9c47-176">152</span><span class="sxs-lookup"><span data-stu-id="e9c47-176">152</span></span><br/> |
+|<span data-ttu-id="9087b-174">バージョン 2002 (ビルド 12527.20194)</span><span class="sxs-lookup"><span data-stu-id="9087b-174">Version 2002 (Build 12527.20194)</span></span> <br/> |<span data-ttu-id="9087b-175">2020 年 2 月 25 日</span><span class="sxs-lookup"><span data-stu-id="9087b-175">February 25, 2020</span></span> <br/> |<span data-ttu-id="9087b-176">57</span><span class="sxs-lookup"><span data-stu-id="9087b-176">57</span></span><br/> |
+|<span data-ttu-id="9087b-177">バージョン 2001 (ビルド 12430.20288)</span><span class="sxs-lookup"><span data-stu-id="9087b-177">Version 2001 (Build 12430.20288)</span></span> <br/> |<span data-ttu-id="9087b-178">2020 年 2 月 19 日</span><span class="sxs-lookup"><span data-stu-id="9087b-178">February 19, 2020</span></span> <br/> |<span data-ttu-id="9087b-179">152</span><span class="sxs-lookup"><span data-stu-id="9087b-179">152</span></span><br/> |
 
 
 [//]: # (コンテンツを削除しないでください。終了 2020 年 3 月 1 日)
 
-## <a name="february-25-2020"></a><span data-ttu-id="e9c47-178">2020 年 2 月 25 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-178">February 25, 2020</span></span>
+## <a name="february-25-2020"></a><span data-ttu-id="9087b-181">2020 年 2 月 25 日</span><span class="sxs-lookup"><span data-stu-id="9087b-181">February 25, 2020</span></span>
 
 [//]: # (コンテンツを削除しないでください。開始 2020 年 2 月 25 日)
 
-### <a name="monthly-channel"></a><span data-ttu-id="e9c47-180">月次チャネル</span><span class="sxs-lookup"><span data-stu-id="e9c47-180">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="9087b-183">月次チャネル</span><span class="sxs-lookup"><span data-stu-id="9087b-183">Monthly Channel</span></span>
 
-<span data-ttu-id="e9c47-181">最新のリリースはバージョン 2002 (ビルド12527.20194) です。</span><span class="sxs-lookup"><span data-stu-id="e9c47-181">The most current release is Version 2002 (Build 12527.20194).</span></span>
+<span data-ttu-id="9087b-184">最新のリリースはバージョン 2002 (ビルド12527.20194) です。</span><span class="sxs-lookup"><span data-stu-id="9087b-184">The most current release is Version 2002 (Build 12527.20194).</span></span>
 
-|<span data-ttu-id="e9c47-182">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="e9c47-182">**Release upgrading from**</span></span>|<span data-ttu-id="e9c47-183">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="e9c47-183">**Release date**</span></span>|<span data-ttu-id="e9c47-184">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="e9c47-184">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="9087b-185">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="9087b-185">**Release upgrading from**</span></span>|<span data-ttu-id="9087b-186">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="9087b-186">**Release date**</span></span>|<span data-ttu-id="9087b-187">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="9087b-187">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="e9c47-185">バージョン 2001 (ビルド 12430.20288)</span><span class="sxs-lookup"><span data-stu-id="e9c47-185">Version 2001 (Build 12430.20288)</span></span> <br/> |<span data-ttu-id="e9c47-186">2020 年 2 月 19 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-186">February 19, 2020</span></span> <br/> |<span data-ttu-id="e9c47-187">145</span><span class="sxs-lookup"><span data-stu-id="e9c47-187">145</span></span><br/> |
-|<span data-ttu-id="e9c47-188">バージョン 2001 (ビルド 12430.20264)</span><span class="sxs-lookup"><span data-stu-id="e9c47-188">Version 2001 (Build 12430.20264)</span></span> <br/> |<span data-ttu-id="e9c47-189">2020 年 2 月 11 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-189">February 11, 2020</span></span> <br/> |<span data-ttu-id="e9c47-190">143</span><span class="sxs-lookup"><span data-stu-id="e9c47-190">143</span></span><br/> |
+|<span data-ttu-id="9087b-188">バージョン 2001 (ビルド 12430.20288)</span><span class="sxs-lookup"><span data-stu-id="9087b-188">Version 2001 (Build 12430.20288)</span></span> <br/> |<span data-ttu-id="9087b-189">2020 年 2 月 19 日</span><span class="sxs-lookup"><span data-stu-id="9087b-189">February 19, 2020</span></span> <br/> |<span data-ttu-id="9087b-190">145</span><span class="sxs-lookup"><span data-stu-id="9087b-190">145</span></span><br/> |
+|<span data-ttu-id="9087b-191">バージョン 2001 (ビルド 12430.20264)</span><span class="sxs-lookup"><span data-stu-id="9087b-191">Version 2001 (Build 12430.20264)</span></span> <br/> |<span data-ttu-id="9087b-192">2020 年 2 月 11 日</span><span class="sxs-lookup"><span data-stu-id="9087b-192">February 11, 2020</span></span> <br/> |<span data-ttu-id="9087b-193">143</span><span class="sxs-lookup"><span data-stu-id="9087b-193">143</span></span><br/> |
 
 
 [//]: # (コンテンツを削除しないでください。終了 2020 年 2 月 25 日)
 
-## <a name="february-19-2020"></a><span data-ttu-id="e9c47-192">2020 年 2 月 19 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-192">February 19, 2020</span></span>
+## <a name="february-19-2020"></a><span data-ttu-id="9087b-195">2020 年 2 月 19 日</span><span class="sxs-lookup"><span data-stu-id="9087b-195">February 19, 2020</span></span>
 
 [//]: # (コンテンツを削除しないでください。開始 2020 年 2 月 19 日)
 
-### <a name="monthly-channel"></a><span data-ttu-id="e9c47-194">月次チャネル</span><span class="sxs-lookup"><span data-stu-id="e9c47-194">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="9087b-197">月次チャネル</span><span class="sxs-lookup"><span data-stu-id="9087b-197">Monthly Channel</span></span>
 
-<span data-ttu-id="e9c47-195">最新のリリースはバージョン 2001 (ビルド 12430.20288) です。</span><span class="sxs-lookup"><span data-stu-id="e9c47-195">The most current release is Version 2001 (Build 12430.20288).</span></span>
+<span data-ttu-id="9087b-198">最新のリリースはバージョン 2001 (ビルド 12430.20288) です。</span><span class="sxs-lookup"><span data-stu-id="9087b-198">The most current release is Version 2001 (Build 12430.20288).</span></span>
 
-|<span data-ttu-id="e9c47-196">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="e9c47-196">**Release upgrading from**</span></span>|<span data-ttu-id="e9c47-197">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="e9c47-197">**Release date**</span></span>|<span data-ttu-id="e9c47-198">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="e9c47-198">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="9087b-199">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="9087b-199">**Release upgrading from**</span></span>|<span data-ttu-id="9087b-200">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="9087b-200">**Release date**</span></span>|<span data-ttu-id="9087b-201">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="9087b-201">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="e9c47-199">バージョン 2001 (ビルド 12430.20264)</span><span class="sxs-lookup"><span data-stu-id="e9c47-199">Version 2001 (Build 12430.20264)</span></span> <br/> |<span data-ttu-id="e9c47-200">2020 年 2 月 11 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-200">February 11, 2020</span></span> <br/> |<span data-ttu-id="e9c47-201">46</span><span class="sxs-lookup"><span data-stu-id="e9c47-201">46</span></span><br/> |
-|<span data-ttu-id="e9c47-202">バージョン 2001 (ビルド 12430.20184)</span><span class="sxs-lookup"><span data-stu-id="e9c47-202">Version 2001 (Build 12430.20184)</span></span> <br/> |<span data-ttu-id="e9c47-203">2020 年 1 月 30 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-203">January 30, 2020</span></span> <br/> |<span data-ttu-id="e9c47-204">55</span><span class="sxs-lookup"><span data-stu-id="e9c47-204">55</span></span><br/> |
+|<span data-ttu-id="9087b-202">バージョン 2001 (ビルド 12430.20264)</span><span class="sxs-lookup"><span data-stu-id="9087b-202">Version 2001 (Build 12430.20264)</span></span> <br/> |<span data-ttu-id="9087b-203">2020 年 2 月 11 日</span><span class="sxs-lookup"><span data-stu-id="9087b-203">February 11, 2020</span></span> <br/> |<span data-ttu-id="9087b-204">46</span><span class="sxs-lookup"><span data-stu-id="9087b-204">46</span></span><br/> |
+|<span data-ttu-id="9087b-205">バージョン 2001 (ビルド 12430.20184)</span><span class="sxs-lookup"><span data-stu-id="9087b-205">Version 2001 (Build 12430.20184)</span></span> <br/> |<span data-ttu-id="9087b-206">2020 年 1 月 30 日</span><span class="sxs-lookup"><span data-stu-id="9087b-206">January 30, 2020</span></span> <br/> |<span data-ttu-id="9087b-207">55</span><span class="sxs-lookup"><span data-stu-id="9087b-207">55</span></span><br/> |
 
 
 [//]: # (コンテンツを削除しないでください。終了 2020 年 2 月 19 日)
 
-## <a name="february-11-2020"></a><span data-ttu-id="e9c47-206">2020 年 2 月 11 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-206">February 11, 2020</span></span>
+## <a name="february-11-2020"></a><span data-ttu-id="9087b-209">2020 年 2 月 11 日</span><span class="sxs-lookup"><span data-stu-id="9087b-209">February 11, 2020</span></span>
 
 [//]: # (コンテンツを削除しないでください。開始 2020 年 2 月 11 日)
 
-### <a name="monthly-channel"></a><span data-ttu-id="e9c47-208">月次チャネル</span><span class="sxs-lookup"><span data-stu-id="e9c47-208">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="9087b-211">月次チャネル</span><span class="sxs-lookup"><span data-stu-id="9087b-211">Monthly Channel</span></span>
 
-<span data-ttu-id="e9c47-209">最新のリリースはバージョン 2001 (ビルド 12430.20264) です。</span><span class="sxs-lookup"><span data-stu-id="e9c47-209">The most current release is Version 2001 (Build 12430.20264).</span></span>
+<span data-ttu-id="9087b-212">最新のリリースはバージョン 2001 (ビルド 12430.20264) です。</span><span class="sxs-lookup"><span data-stu-id="9087b-212">The most current release is Version 2001 (Build 12430.20264).</span></span>
 
-|<span data-ttu-id="e9c47-210">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="e9c47-210">**Release upgrading from**</span></span>|<span data-ttu-id="e9c47-211">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="e9c47-211">**Release date**</span></span>|<span data-ttu-id="e9c47-212">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="e9c47-212">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="9087b-213">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="9087b-213">**Release upgrading from**</span></span>|<span data-ttu-id="9087b-214">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="9087b-214">**Release date**</span></span>|<span data-ttu-id="9087b-215">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="9087b-215">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="e9c47-213">バージョン 2001 (ビルド 12430.20184)</span><span class="sxs-lookup"><span data-stu-id="e9c47-213">Version 2001 (Build 12430.20184)</span></span> <br/> |<span data-ttu-id="e9c47-214">2020 年 1 月 30 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-214">January 30, 2020</span></span> <br/> |<span data-ttu-id="e9c47-215">54</span><span class="sxs-lookup"><span data-stu-id="e9c47-215">54</span></span><br/> |
-|<span data-ttu-id="e9c47-216">バージョン 1912 (ビルド 12325.20344)</span><span class="sxs-lookup"><span data-stu-id="e9c47-216">Version 1912 (Build 12325.20344)</span></span> <br/> |<span data-ttu-id="e9c47-217">2020 年 1 月 22 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-217">January 22, 2020</span></span> <br/> |<span data-ttu-id="e9c47-218">137</span><span class="sxs-lookup"><span data-stu-id="e9c47-218">137</span></span><br/> |
+|<span data-ttu-id="9087b-216">バージョン 2001 (ビルド 12430.20184)</span><span class="sxs-lookup"><span data-stu-id="9087b-216">Version 2001 (Build 12430.20184)</span></span> <br/> |<span data-ttu-id="9087b-217">2020 年 1 月 30 日</span><span class="sxs-lookup"><span data-stu-id="9087b-217">January 30, 2020</span></span> <br/> |<span data-ttu-id="9087b-218">54</span><span class="sxs-lookup"><span data-stu-id="9087b-218">54</span></span><br/> |
+|<span data-ttu-id="9087b-219">バージョン 1912 (ビルド 12325.20344)</span><span class="sxs-lookup"><span data-stu-id="9087b-219">Version 1912 (Build 12325.20344)</span></span> <br/> |<span data-ttu-id="9087b-220">2020 年 1 月 22 日</span><span class="sxs-lookup"><span data-stu-id="9087b-220">January 22, 2020</span></span> <br/> |<span data-ttu-id="9087b-221">137</span><span class="sxs-lookup"><span data-stu-id="9087b-221">137</span></span><br/> |
 
 
 
-### <a name="semi-annual-channel"></a><span data-ttu-id="e9c47-219">半期チャネル</span><span class="sxs-lookup"><span data-stu-id="e9c47-219">Semi-Annual Channel</span></span>
+### <a name="semi-annual-channel"></a><span data-ttu-id="9087b-222">半期チャネル</span><span class="sxs-lookup"><span data-stu-id="9087b-222">Semi-Annual Channel</span></span>
 
-<span data-ttu-id="e9c47-220">最新のリリースはバージョン 1908 (ビルド 11929.20606) です。</span><span class="sxs-lookup"><span data-stu-id="e9c47-220">The most current release is Version 1908 (Build 11929.20606).</span></span>
+<span data-ttu-id="9087b-223">最新のリリースはバージョン 1908 (ビルド 11929.20606) です。</span><span class="sxs-lookup"><span data-stu-id="9087b-223">The most current release is Version 1908 (Build 11929.20606).</span></span>
 
-|<span data-ttu-id="e9c47-221">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="e9c47-221">**Release upgrading from**</span></span>|<span data-ttu-id="e9c47-222">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="e9c47-222">**Release date**</span></span>|<span data-ttu-id="e9c47-223">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="e9c47-223">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="9087b-224">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="9087b-224">**Release upgrading from**</span></span>|<span data-ttu-id="9087b-225">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="9087b-225">**Release date**</span></span>|<span data-ttu-id="9087b-226">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="9087b-226">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="e9c47-224">バージョン 1908 (ビルド 11929.20562)</span><span class="sxs-lookup"><span data-stu-id="e9c47-224">Version 1908 (Build 11929.20562)</span></span> <br/> |<span data-ttu-id="e9c47-225">2020 年 1 月 14 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-225">January 14, 2020</span></span> <br/> |<span data-ttu-id="e9c47-226">65</span><span class="sxs-lookup"><span data-stu-id="e9c47-226">65</span></span><br/> |
-|<span data-ttu-id="e9c47-227">バージョン 1902 (ビルド 11328.20492)</span><span class="sxs-lookup"><span data-stu-id="e9c47-227">Version 1902 (Build 11328.20492)</span></span> <br/> |<span data-ttu-id="e9c47-228">2019 年 12 月 10 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-228">December 10, 2019</span></span> <br/> |<span data-ttu-id="e9c47-229">339</span><span class="sxs-lookup"><span data-stu-id="e9c47-229">339</span></span><br/> |
+|<span data-ttu-id="9087b-227">バージョン 1908 (ビルド 11929.20562)</span><span class="sxs-lookup"><span data-stu-id="9087b-227">Version 1908 (Build 11929.20562)</span></span> <br/> |<span data-ttu-id="9087b-228">2020 年 1 月 14 日</span><span class="sxs-lookup"><span data-stu-id="9087b-228">January 14, 2020</span></span> <br/> |<span data-ttu-id="9087b-229">65</span><span class="sxs-lookup"><span data-stu-id="9087b-229">65</span></span><br/> |
+|<span data-ttu-id="9087b-230">バージョン 1902 (ビルド 11328.20492)</span><span class="sxs-lookup"><span data-stu-id="9087b-230">Version 1902 (Build 11328.20492)</span></span> <br/> |<span data-ttu-id="9087b-231">2019 年 12 月 10 日</span><span class="sxs-lookup"><span data-stu-id="9087b-231">December 10, 2019</span></span> <br/> |<span data-ttu-id="9087b-232">339</span><span class="sxs-lookup"><span data-stu-id="9087b-232">339</span></span><br/> |
 
 
-### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="e9c47-230">半期 (対象指定) チャネル</span><span class="sxs-lookup"><span data-stu-id="e9c47-230">Semi-Annual (Targeted) Channel</span></span>
+### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="9087b-233">半期 (対象指定) チャネル</span><span class="sxs-lookup"><span data-stu-id="9087b-233">Semi-Annual (Targeted) Channel</span></span>
 
-<span data-ttu-id="e9c47-231">最新のリリースはバージョン 1908 (ビルド 11929.20606) です。</span><span class="sxs-lookup"><span data-stu-id="e9c47-231">The most current release is Version 1908 (Build 11929.20606).</span></span>
+<span data-ttu-id="9087b-234">最新のリリースはバージョン 1908 (ビルド 11929.20606) です。</span><span class="sxs-lookup"><span data-stu-id="9087b-234">The most current release is Version 1908 (Build 11929.20606).</span></span>
 
-|<span data-ttu-id="e9c47-232">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="e9c47-232">**Release upgrading from**</span></span>|<span data-ttu-id="e9c47-233">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="e9c47-233">**Release date**</span></span>|<span data-ttu-id="e9c47-234">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="e9c47-234">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="9087b-235">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="9087b-235">**Release upgrading from**</span></span>|<span data-ttu-id="9087b-236">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="9087b-236">**Release date**</span></span>|<span data-ttu-id="9087b-237">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="9087b-237">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="e9c47-235">バージョン 1908 (ビルド 11929.20562)</span><span class="sxs-lookup"><span data-stu-id="e9c47-235">Version 1908 (Build 11929.20562)</span></span> <br/> |<span data-ttu-id="e9c47-236">2020 年 1 月 14 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-236">January 14, 2020</span></span> <br/> |<span data-ttu-id="e9c47-237">65</span><span class="sxs-lookup"><span data-stu-id="e9c47-237">65</span></span><br/> |
-|<span data-ttu-id="e9c47-238">バージョン 1908 (ビルド 11929.20516)</span><span class="sxs-lookup"><span data-stu-id="e9c47-238">Version 1908 (Build 11929.20516)</span></span> <br/> |<span data-ttu-id="e9c47-239">2019 年 12 月 10 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-239">December 10, 2019</span></span> <br/> |<span data-ttu-id="e9c47-240">68</span><span class="sxs-lookup"><span data-stu-id="e9c47-240">68</span></span><br/> |
+|<span data-ttu-id="9087b-238">バージョン 1908 (ビルド 11929.20562)</span><span class="sxs-lookup"><span data-stu-id="9087b-238">Version 1908 (Build 11929.20562)</span></span> <br/> |<span data-ttu-id="9087b-239">2020 年 1 月 14 日</span><span class="sxs-lookup"><span data-stu-id="9087b-239">January 14, 2020</span></span> <br/> |<span data-ttu-id="9087b-240">65</span><span class="sxs-lookup"><span data-stu-id="9087b-240">65</span></span><br/> |
+|<span data-ttu-id="9087b-241">バージョン 1908 (ビルド 11929.20516)</span><span class="sxs-lookup"><span data-stu-id="9087b-241">Version 1908 (Build 11929.20516)</span></span> <br/> |<span data-ttu-id="9087b-242">2019 年 12 月 10 日</span><span class="sxs-lookup"><span data-stu-id="9087b-242">December 10, 2019</span></span> <br/> |<span data-ttu-id="9087b-243">68</span><span class="sxs-lookup"><span data-stu-id="9087b-243">68</span></span><br/> |
 
 
 [//]: # (コンテンツを削除しないでください。終了 2020 年 2 月 11 日)
@@ -175,342 +183,342 @@ ms.locfileid: "42953017"
 
 
 
-## <a name="january-30-2020"></a><span data-ttu-id="e9c47-242">2020 年 1 月 30 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-242">January 30, 2020</span></span>
+## <a name="january-30-2020"></a><span data-ttu-id="9087b-245">2020 年 1 月 30 日</span><span class="sxs-lookup"><span data-stu-id="9087b-245">January 30, 2020</span></span>
 
 [//]: # (コンテンツを削除しないでください。開始 2020 年 1月 30 日)
 
-### <a name="monthly-channel"></a><span data-ttu-id="e9c47-244">月次チャネル</span><span class="sxs-lookup"><span data-stu-id="e9c47-244">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="9087b-247">月次チャネル</span><span class="sxs-lookup"><span data-stu-id="9087b-247">Monthly Channel</span></span>
 
-<span data-ttu-id="e9c47-245">最新のリリースはバージョン 2001 (ビルド 12430.20184) です。</span><span class="sxs-lookup"><span data-stu-id="e9c47-245">The most current release is Version 2001 (Build 12430.20184).</span></span>
+<span data-ttu-id="9087b-248">最新のリリースはバージョン 2001 (ビルド 12430.20184) です。</span><span class="sxs-lookup"><span data-stu-id="9087b-248">The most current release is Version 2001 (Build 12430.20184).</span></span>
 
-|<span data-ttu-id="e9c47-246">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="e9c47-246">**Release upgrading from**</span></span>|<span data-ttu-id="e9c47-247">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="e9c47-247">**Release date**</span></span>|<span data-ttu-id="e9c47-248">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="e9c47-248">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="9087b-249">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="9087b-249">**Release upgrading from**</span></span>|<span data-ttu-id="9087b-250">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="9087b-250">**Release date**</span></span>|<span data-ttu-id="9087b-251">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="9087b-251">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="e9c47-249">バージョン 1912 (ビルド 12325.20344)</span><span class="sxs-lookup"><span data-stu-id="e9c47-249">Version 1912 (Build 12325.20344)</span></span> <br/> |<span data-ttu-id="e9c47-250">2020 年 1 月 22 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-250">January 22, 2020</span></span> <br/> |<span data-ttu-id="e9c47-251">134</span><span class="sxs-lookup"><span data-stu-id="e9c47-251">134</span></span><br/> |
-|<span data-ttu-id="e9c47-252">バージョン 1912 (ビルド 12325.20298)</span><span class="sxs-lookup"><span data-stu-id="e9c47-252">Version 1912 (Build 12325.20298)</span></span> <br/> |<span data-ttu-id="e9c47-253">2020 年 1 月 14 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-253">January 14, 2020</span></span> <br/> |<span data-ttu-id="e9c47-254">138</span><span class="sxs-lookup"><span data-stu-id="e9c47-254">138</span></span><br/> |
+|<span data-ttu-id="9087b-252">バージョン 1912 (ビルド 12325.20344)</span><span class="sxs-lookup"><span data-stu-id="9087b-252">Version 1912 (Build 12325.20344)</span></span> <br/> |<span data-ttu-id="9087b-253">2020 年 1 月 22 日</span><span class="sxs-lookup"><span data-stu-id="9087b-253">January 22, 2020</span></span> <br/> |<span data-ttu-id="9087b-254">134</span><span class="sxs-lookup"><span data-stu-id="9087b-254">134</span></span><br/> |
+|<span data-ttu-id="9087b-255">バージョン 1912 (ビルド 12325.20298)</span><span class="sxs-lookup"><span data-stu-id="9087b-255">Version 1912 (Build 12325.20298)</span></span> <br/> |<span data-ttu-id="9087b-256">2020 年 1 月 14 日</span><span class="sxs-lookup"><span data-stu-id="9087b-256">January 14, 2020</span></span> <br/> |<span data-ttu-id="9087b-257">138</span><span class="sxs-lookup"><span data-stu-id="9087b-257">138</span></span><br/> |
 
 
 [//]: # (コンテンツを削除しないでください。終了 2020 年 1 月 30 日)
 
-## <a name="january-22-2020"></a><span data-ttu-id="e9c47-256">2020 年 1 月 22 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-256">January 22, 2020</span></span>
+## <a name="january-22-2020"></a><span data-ttu-id="9087b-259">2020 年 1 月 22 日</span><span class="sxs-lookup"><span data-stu-id="9087b-259">January 22, 2020</span></span>
 
 [//]: # (コンテンツを削除しないでください。開始 2020 年 1月 22 日)
 
-### <a name="monthly-channel"></a><span data-ttu-id="e9c47-258">月次チャネル</span><span class="sxs-lookup"><span data-stu-id="e9c47-258">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="9087b-261">月次チャネル</span><span class="sxs-lookup"><span data-stu-id="9087b-261">Monthly Channel</span></span>
 
-<span data-ttu-id="e9c47-259">最新のリリースはバージョン 1912 (ビルド 12325.20344) です。</span><span class="sxs-lookup"><span data-stu-id="e9c47-259">The most current release is Version 1912 (Build 12325.20344).</span></span>
+<span data-ttu-id="9087b-262">最新のリリースはバージョン 1912 (ビルド 12325.20344) です。</span><span class="sxs-lookup"><span data-stu-id="9087b-262">The most current release is Version 1912 (Build 12325.20344).</span></span>
 
-|<span data-ttu-id="e9c47-260">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="e9c47-260">**Release upgrading from**</span></span>|<span data-ttu-id="e9c47-261">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="e9c47-261">**Release date**</span></span>|<span data-ttu-id="e9c47-262">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="e9c47-262">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="9087b-263">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="9087b-263">**Release upgrading from**</span></span>|<span data-ttu-id="9087b-264">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="9087b-264">**Release date**</span></span>|<span data-ttu-id="9087b-265">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="9087b-265">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="e9c47-263">バージョン 1912 (ビルド 12325.20298)</span><span class="sxs-lookup"><span data-stu-id="e9c47-263">Version 1912 (Build 12325.20298)</span></span> <br/> |<span data-ttu-id="e9c47-264">2020 年 1 月 14 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-264">January 14, 2020</span></span> <br/> |<span data-ttu-id="e9c47-265">53</span><span class="sxs-lookup"><span data-stu-id="e9c47-265">53</span></span><br/> |
-|<span data-ttu-id="e9c47-266">バージョン 1912 (ビルド 12325.20288)</span><span class="sxs-lookup"><span data-stu-id="e9c47-266">Version 1912 (Build 12325.20288)</span></span> <br/> |<span data-ttu-id="e9c47-267">2020 年 1 月 8 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-267">January 8, 2020</span></span> <br/> |<span data-ttu-id="e9c47-268">59</span><span class="sxs-lookup"><span data-stu-id="e9c47-268">59</span></span><br/> |
+|<span data-ttu-id="9087b-266">バージョン 1912 (ビルド 12325.20298)</span><span class="sxs-lookup"><span data-stu-id="9087b-266">Version 1912 (Build 12325.20298)</span></span> <br/> |<span data-ttu-id="9087b-267">2020 年 1 月 14 日</span><span class="sxs-lookup"><span data-stu-id="9087b-267">January 14, 2020</span></span> <br/> |<span data-ttu-id="9087b-268">53</span><span class="sxs-lookup"><span data-stu-id="9087b-268">53</span></span><br/> |
+|<span data-ttu-id="9087b-269">バージョン 1912 (ビルド 12325.20288)</span><span class="sxs-lookup"><span data-stu-id="9087b-269">Version 1912 (Build 12325.20288)</span></span> <br/> |<span data-ttu-id="9087b-270">2020 年 1 月 8 日</span><span class="sxs-lookup"><span data-stu-id="9087b-270">January 8, 2020</span></span> <br/> |<span data-ttu-id="9087b-271">59</span><span class="sxs-lookup"><span data-stu-id="9087b-271">59</span></span><br/> |
 
 
 [//]: # (コンテンツを削除しないでください。終了 2020 年 1 月 22 日)
 
-## <a name="january-14-2020"></a><span data-ttu-id="e9c47-270">2020 年 1 月 14 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-270">January 14, 2020</span></span>
+## <a name="january-14-2020"></a><span data-ttu-id="9087b-273">2020 年 1 月 14 日</span><span class="sxs-lookup"><span data-stu-id="9087b-273">January 14, 2020</span></span>
 
 [//]: # (コンテンツを削除しないでください。開始 2020 年 1月 14 日)
 
-### <a name="monthly-channel"></a><span data-ttu-id="e9c47-272">月次チャネル</span><span class="sxs-lookup"><span data-stu-id="e9c47-272">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="9087b-275">月次チャネル</span><span class="sxs-lookup"><span data-stu-id="9087b-275">Monthly Channel</span></span>
 
-<span data-ttu-id="e9c47-273">最新のリリースはバージョン 1912 (ビルド 12325.20298) です。</span><span class="sxs-lookup"><span data-stu-id="e9c47-273">The most current release is Version 1912 (Build 12325.20298).</span></span>
+<span data-ttu-id="9087b-276">最新のリリースはバージョン 1912 (ビルド 12325.20298) です。</span><span class="sxs-lookup"><span data-stu-id="9087b-276">The most current release is Version 1912 (Build 12325.20298).</span></span>
 
-|<span data-ttu-id="e9c47-274">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="e9c47-274">**Release upgrading from**</span></span>|<span data-ttu-id="e9c47-275">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="e9c47-275">**Release date**</span></span>|<span data-ttu-id="e9c47-276">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="e9c47-276">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="9087b-277">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="9087b-277">**Release upgrading from**</span></span>|<span data-ttu-id="9087b-278">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="9087b-278">**Release date**</span></span>|<span data-ttu-id="9087b-279">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="9087b-279">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="e9c47-277">バージョン 1912 (ビルド 12325.20288)</span><span class="sxs-lookup"><span data-stu-id="e9c47-277">Version 1912 (Build 12325.20288)</span></span> <br/> |<span data-ttu-id="e9c47-278">2020 年 1 月 8 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-278">January 8, 2020</span></span> <br/> |<span data-ttu-id="e9c47-279">46</span><span class="sxs-lookup"><span data-stu-id="e9c47-279">46</span></span><br/> |
-|<span data-ttu-id="e9c47-280">バージョン 1911 (ビルド 12228.20364)</span><span class="sxs-lookup"><span data-stu-id="e9c47-280">Version 1911 (Build 12228.20364)</span></span> <br/> |<span data-ttu-id="e9c47-281">2019 年 12 月 10 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-281">December 10, 2019</span></span> <br/> |<span data-ttu-id="e9c47-282">151</span><span class="sxs-lookup"><span data-stu-id="e9c47-282">151</span></span><br/> |
+|<span data-ttu-id="9087b-280">バージョン 1912 (ビルド 12325.20288)</span><span class="sxs-lookup"><span data-stu-id="9087b-280">Version 1912 (Build 12325.20288)</span></span> <br/> |<span data-ttu-id="9087b-281">2020 年 1 月 8 日</span><span class="sxs-lookup"><span data-stu-id="9087b-281">January 8, 2020</span></span> <br/> |<span data-ttu-id="9087b-282">46</span><span class="sxs-lookup"><span data-stu-id="9087b-282">46</span></span><br/> |
+|<span data-ttu-id="9087b-283">バージョン 1911 (ビルド 12228.20364)</span><span class="sxs-lookup"><span data-stu-id="9087b-283">Version 1911 (Build 12228.20364)</span></span> <br/> |<span data-ttu-id="9087b-284">2019 年 12 月 10 日</span><span class="sxs-lookup"><span data-stu-id="9087b-284">December 10, 2019</span></span> <br/> |<span data-ttu-id="9087b-285">151</span><span class="sxs-lookup"><span data-stu-id="9087b-285">151</span></span><br/> |
 
 
 
-### <a name="semi-annual-channel"></a><span data-ttu-id="e9c47-283">半期チャネル</span><span class="sxs-lookup"><span data-stu-id="e9c47-283">Semi-Annual Channel</span></span>
+### <a name="semi-annual-channel"></a><span data-ttu-id="9087b-286">半期チャネル</span><span class="sxs-lookup"><span data-stu-id="9087b-286">Semi-Annual Channel</span></span>
 
-<span data-ttu-id="e9c47-284">最新のリリースはバージョン 1908 (ビルド 11929.20562) です。</span><span class="sxs-lookup"><span data-stu-id="e9c47-284">The most current release is Version 1908 (Build 11929.20562).</span></span>
+<span data-ttu-id="9087b-287">最新のリリースはバージョン 1908 (ビルド 11929.20562) です。</span><span class="sxs-lookup"><span data-stu-id="9087b-287">The most current release is Version 1908 (Build 11929.20562).</span></span>
 
-|<span data-ttu-id="e9c47-285">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="e9c47-285">**Release upgrading from**</span></span>|<span data-ttu-id="e9c47-286">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="e9c47-286">**Release date**</span></span>|<span data-ttu-id="e9c47-287">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="e9c47-287">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="9087b-288">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="9087b-288">**Release upgrading from**</span></span>|<span data-ttu-id="9087b-289">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="9087b-289">**Release date**</span></span>|<span data-ttu-id="9087b-290">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="9087b-290">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="e9c47-288">バージョン 1902 (ビルド 11328.20492)</span><span class="sxs-lookup"><span data-stu-id="e9c47-288">Version 1902 (Build 11328.20492)</span></span> <br/> |<span data-ttu-id="e9c47-289">2019 年 12 月 10 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-289">December 10, 2019</span></span> <br/> |<span data-ttu-id="e9c47-290">338</span><span class="sxs-lookup"><span data-stu-id="e9c47-290">338</span></span><br/> |
-|<span data-ttu-id="e9c47-291">バージョン 1902 (ビルド 11328.20480)</span><span class="sxs-lookup"><span data-stu-id="e9c47-291">Version 1902 (Build 11328.20480)</span></span> <br/> |<span data-ttu-id="e9c47-292">2019 年 11 月 22 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-292">November 22, 2019</span></span> <br/> |<span data-ttu-id="e9c47-293">337</span><span class="sxs-lookup"><span data-stu-id="e9c47-293">337</span></span><br/> |
+|<span data-ttu-id="9087b-291">バージョン 1902 (ビルド 11328.20492)</span><span class="sxs-lookup"><span data-stu-id="9087b-291">Version 1902 (Build 11328.20492)</span></span> <br/> |<span data-ttu-id="9087b-292">2019 年 12 月 10 日</span><span class="sxs-lookup"><span data-stu-id="9087b-292">December 10, 2019</span></span> <br/> |<span data-ttu-id="9087b-293">338</span><span class="sxs-lookup"><span data-stu-id="9087b-293">338</span></span><br/> |
+|<span data-ttu-id="9087b-294">バージョン 1902 (ビルド 11328.20480)</span><span class="sxs-lookup"><span data-stu-id="9087b-294">Version 1902 (Build 11328.20480)</span></span> <br/> |<span data-ttu-id="9087b-295">2019 年 11 月 22 日</span><span class="sxs-lookup"><span data-stu-id="9087b-295">November 22, 2019</span></span> <br/> |<span data-ttu-id="9087b-296">337</span><span class="sxs-lookup"><span data-stu-id="9087b-296">337</span></span><br/> |
 
 
-### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="e9c47-294">半期チャネル (対象指定)</span><span class="sxs-lookup"><span data-stu-id="e9c47-294">Semi-Annual (Targeted) Channel</span></span>
+### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="9087b-297">半期チャネル (対象指定)</span><span class="sxs-lookup"><span data-stu-id="9087b-297">Semi-Annual (Targeted) Channel</span></span>
 
-<span data-ttu-id="e9c47-295">最新のリリースはバージョン 1908 (ビルド 11929.20562) です。</span><span class="sxs-lookup"><span data-stu-id="e9c47-295">The most current release is Version 1908 (Build 11929.20562).</span></span>
+<span data-ttu-id="9087b-298">最新のリリースはバージョン 1908 (ビルド 11929.20562) です。</span><span class="sxs-lookup"><span data-stu-id="9087b-298">The most current release is Version 1908 (Build 11929.20562).</span></span>
 
-|<span data-ttu-id="e9c47-296">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="e9c47-296">**Release upgrading from**</span></span>|<span data-ttu-id="e9c47-297">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="e9c47-297">**Release date**</span></span>|<span data-ttu-id="e9c47-298">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="e9c47-298">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="9087b-299">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="9087b-299">**Release upgrading from**</span></span>|<span data-ttu-id="9087b-300">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="9087b-300">**Release date**</span></span>|<span data-ttu-id="9087b-301">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="9087b-301">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="e9c47-299">バージョン 1908 (ビルド 11929.20516)</span><span class="sxs-lookup"><span data-stu-id="e9c47-299">Version 1908 (Build 11929.20516)</span></span> <br/> |<span data-ttu-id="e9c47-300">2019 年 12 月 10 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-300">December 10, 2019</span></span> <br/> |<span data-ttu-id="e9c47-301">59</span><span class="sxs-lookup"><span data-stu-id="e9c47-301">59</span></span><br/> |
-|<span data-ttu-id="e9c47-302">バージョン 1908 (ビルド 11929.20494)</span><span class="sxs-lookup"><span data-stu-id="e9c47-302">Version 1908 (Build 11929.20494)</span></span> <br/> |<span data-ttu-id="e9c47-303">2019 年 11 月 22 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-303">November 22, 2019</span></span> <br/> |<span data-ttu-id="e9c47-304">64</span><span class="sxs-lookup"><span data-stu-id="e9c47-304">64</span></span><br/> |
+|<span data-ttu-id="9087b-302">バージョン 1908 (ビルド 11929.20516)</span><span class="sxs-lookup"><span data-stu-id="9087b-302">Version 1908 (Build 11929.20516)</span></span> <br/> |<span data-ttu-id="9087b-303">2019 年 12 月 10 日</span><span class="sxs-lookup"><span data-stu-id="9087b-303">December 10, 2019</span></span> <br/> |<span data-ttu-id="9087b-304">59</span><span class="sxs-lookup"><span data-stu-id="9087b-304">59</span></span><br/> |
+|<span data-ttu-id="9087b-305">バージョン 1908 (ビルド 11929.20494)</span><span class="sxs-lookup"><span data-stu-id="9087b-305">Version 1908 (Build 11929.20494)</span></span> <br/> |<span data-ttu-id="9087b-306">2019 年 11 月 22 日</span><span class="sxs-lookup"><span data-stu-id="9087b-306">November 22, 2019</span></span> <br/> |<span data-ttu-id="9087b-307">64</span><span class="sxs-lookup"><span data-stu-id="9087b-307">64</span></span><br/> |
 
 
 [//]: # (コンテンツを削除しないでください。終了 2020 年 1 月 14 日)
 
 
-## <a name="january-8-2020"></a><span data-ttu-id="e9c47-306">2020 年 1 月 8 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-306">January 8, 2020</span></span>
+## <a name="january-8-2020"></a><span data-ttu-id="9087b-309">2020 年 1 月 8 日</span><span class="sxs-lookup"><span data-stu-id="9087b-309">January 8, 2020</span></span>
 
 [//]: # (コンテンツを削除しないでください。開始 2020 年 1月 8 日)
 
-### <a name="monthly-channel"></a><span data-ttu-id="e9c47-308">月次チャネル</span><span class="sxs-lookup"><span data-stu-id="e9c47-308">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="9087b-311">月次チャネル</span><span class="sxs-lookup"><span data-stu-id="9087b-311">Monthly Channel</span></span>
 
-<span data-ttu-id="e9c47-309">最新のリリースはバージョン 1912 (ビルド 12325.20288) です。</span><span class="sxs-lookup"><span data-stu-id="e9c47-309">The most current release is Version 1912 (Build 12325.20288).</span></span>
+<span data-ttu-id="9087b-312">最新のリリースはバージョン 1912 (ビルド 12325.20288) です。</span><span class="sxs-lookup"><span data-stu-id="9087b-312">The most current release is Version 1912 (Build 12325.20288).</span></span>
 
-|<span data-ttu-id="e9c47-310">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="e9c47-310">**Release upgrading from**</span></span>|<span data-ttu-id="e9c47-311">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="e9c47-311">**Release date**</span></span>|<span data-ttu-id="e9c47-312">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="e9c47-312">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="9087b-313">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="9087b-313">**Release upgrading from**</span></span>|<span data-ttu-id="9087b-314">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="9087b-314">**Release date**</span></span>|<span data-ttu-id="9087b-315">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="9087b-315">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="e9c47-313">バージョン 1911 (ビルド 12228.20364)</span><span class="sxs-lookup"><span data-stu-id="e9c47-313">Version 1911 (Build 12228.20364)</span></span> <br/> |<span data-ttu-id="e9c47-314">2019 年 12 月 10 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-314">December 10, 2019</span></span> <br/> |<span data-ttu-id="e9c47-315">142</span><span class="sxs-lookup"><span data-stu-id="e9c47-315">142</span></span><br/> |
-|<span data-ttu-id="e9c47-316">バージョン 1911 (ビルド 12228.20332)</span><span class="sxs-lookup"><span data-stu-id="e9c47-316">Version 1911 (Build 12228.20332)</span></span> <br/> |<span data-ttu-id="e9c47-317">2019 年 12 月 3 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-317">December 3, 2019</span></span> <br/> |<span data-ttu-id="e9c47-318">145</span><span class="sxs-lookup"><span data-stu-id="e9c47-318">145</span></span><br/> |
+|<span data-ttu-id="9087b-316">バージョン 1911 (ビルド 12228.20364)</span><span class="sxs-lookup"><span data-stu-id="9087b-316">Version 1911 (Build 12228.20364)</span></span> <br/> |<span data-ttu-id="9087b-317">2019 年 12 月 10 日</span><span class="sxs-lookup"><span data-stu-id="9087b-317">December 10, 2019</span></span> <br/> |<span data-ttu-id="9087b-318">142</span><span class="sxs-lookup"><span data-stu-id="9087b-318">142</span></span><br/> |
+|<span data-ttu-id="9087b-319">バージョン 1911 (ビルド 12228.20332)</span><span class="sxs-lookup"><span data-stu-id="9087b-319">Version 1911 (Build 12228.20332)</span></span> <br/> |<span data-ttu-id="9087b-320">2019 年 12 月 3 日</span><span class="sxs-lookup"><span data-stu-id="9087b-320">December 3, 2019</span></span> <br/> |<span data-ttu-id="9087b-321">145</span><span class="sxs-lookup"><span data-stu-id="9087b-321">145</span></span><br/> |
 
 
 [//]: # (コンテンツを削除しないでください。終了 2020 年 1 月 8 日)
 
-## <a name="december-10-2019"></a><span data-ttu-id="e9c47-320">2019 年 12 月 10 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-320">December 10, 2019</span></span>
+## <a name="december-10-2019"></a><span data-ttu-id="9087b-323">2019 年 12 月 10 日</span><span class="sxs-lookup"><span data-stu-id="9087b-323">December 10, 2019</span></span>
 
 [//]: # (コンテンツを削除しないでください。開始 2019 年 12 月 10 日)
 
-### <a name="monthly-channel"></a><span data-ttu-id="e9c47-322">月次チャネル</span><span class="sxs-lookup"><span data-stu-id="e9c47-322">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="9087b-325">月次チャネル</span><span class="sxs-lookup"><span data-stu-id="9087b-325">Monthly Channel</span></span>
 
-<span data-ttu-id="e9c47-323">最新のリリースはバージョン 1911 (ビルド 12228.20364)です。</span><span class="sxs-lookup"><span data-stu-id="e9c47-323">The most current release is Version 1911 (Build 12228.20364).</span></span>
+<span data-ttu-id="9087b-326">最新のリリースはバージョン 1911 (ビルド 12228.20364)です。</span><span class="sxs-lookup"><span data-stu-id="9087b-326">The most current release is Version 1911 (Build 12228.20364).</span></span>
 
-|<span data-ttu-id="e9c47-324">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="e9c47-324">**Release upgrading from**</span></span>|<span data-ttu-id="e9c47-325">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="e9c47-325">**Release date**</span></span>|<span data-ttu-id="e9c47-326">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="e9c47-326">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="9087b-327">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="9087b-327">**Release upgrading from**</span></span>|<span data-ttu-id="9087b-328">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="9087b-328">**Release date**</span></span>|<span data-ttu-id="9087b-329">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="9087b-329">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="e9c47-327">バージョン 1911 (ビルド 12228.20332)</span><span class="sxs-lookup"><span data-stu-id="e9c47-327">Version 1911 (Build 12228.20332)</span></span> <br/> |<span data-ttu-id="e9c47-328">2019 年 12 月 3 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-328">December 3, 2019</span></span> <br/> |<span data-ttu-id="e9c47-329">54</span><span class="sxs-lookup"><span data-stu-id="e9c47-329">54</span></span><br/> |
-|<span data-ttu-id="e9c47-330">バージョン 1910 (ビルド 12130.20410)</span><span class="sxs-lookup"><span data-stu-id="e9c47-330">Version 1910 (Build 12130.20410)</span></span> <br/> |<span data-ttu-id="e9c47-331">2019 年 11 月 22 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-331">November 22, 2019</span></span> <br/> |<span data-ttu-id="e9c47-332">386</span><span class="sxs-lookup"><span data-stu-id="e9c47-332">386</span></span><br/> |
+|<span data-ttu-id="9087b-330">バージョン 1911 (ビルド 12228.20332)</span><span class="sxs-lookup"><span data-stu-id="9087b-330">Version 1911 (Build 12228.20332)</span></span> <br/> |<span data-ttu-id="9087b-331">2019 年 12 月 3 日</span><span class="sxs-lookup"><span data-stu-id="9087b-331">December 3, 2019</span></span> <br/> |<span data-ttu-id="9087b-332">54</span><span class="sxs-lookup"><span data-stu-id="9087b-332">54</span></span><br/> |
+|<span data-ttu-id="9087b-333">バージョン 1910 (ビルド 12130.20410)</span><span class="sxs-lookup"><span data-stu-id="9087b-333">Version 1910 (Build 12130.20410)</span></span> <br/> |<span data-ttu-id="9087b-334">2019 年 11 月 22 日</span><span class="sxs-lookup"><span data-stu-id="9087b-334">November 22, 2019</span></span> <br/> |<span data-ttu-id="9087b-335">386</span><span class="sxs-lookup"><span data-stu-id="9087b-335">386</span></span><br/> |
 
-### <a name="semi-annual-channel"></a><span data-ttu-id="e9c47-333">半期チャネル</span><span class="sxs-lookup"><span data-stu-id="e9c47-333">Semi-Annual Channel</span></span>
+### <a name="semi-annual-channel"></a><span data-ttu-id="9087b-336">半期チャネル</span><span class="sxs-lookup"><span data-stu-id="9087b-336">Semi-Annual Channel</span></span>
 
-<span data-ttu-id="e9c47-334">最新のリリースは、バージョン 1902 (ビルド 11328.20492) です。</span><span class="sxs-lookup"><span data-stu-id="e9c47-334">The most current release is Version 1902 (Build 11328.20492).</span></span>
+<span data-ttu-id="9087b-337">最新のリリースは、バージョン 1902 (ビルド 11328.20492) です。</span><span class="sxs-lookup"><span data-stu-id="9087b-337">The most current release is Version 1902 (Build 11328.20492).</span></span>
 
-|<span data-ttu-id="e9c47-335">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="e9c47-335">**Release upgrading from**</span></span>|<span data-ttu-id="e9c47-336">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="e9c47-336">**Release date**</span></span>|<span data-ttu-id="e9c47-337">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="e9c47-337">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="9087b-338">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="9087b-338">**Release upgrading from**</span></span>|<span data-ttu-id="9087b-339">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="9087b-339">**Release date**</span></span>|<span data-ttu-id="9087b-340">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="9087b-340">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="e9c47-338">バージョン 1902 (ビルド 11328.20480)</span><span class="sxs-lookup"><span data-stu-id="e9c47-338">Version 1902 (Build 11328.20480)</span></span> <br/> |<span data-ttu-id="e9c47-339">2019 年 11 月 22 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-339">November 22, 2019</span></span> <br/> |<span data-ttu-id="e9c47-340">61</span><span class="sxs-lookup"><span data-stu-id="e9c47-340">61</span></span><br/> |
-|<span data-ttu-id="e9c47-341">バージョン 1902 (ビルド 11328.20468)</span><span class="sxs-lookup"><span data-stu-id="e9c47-341">Version 1902 (Build 11328.20468)</span></span> <br/> |<span data-ttu-id="e9c47-342">2019 年 11 月 12 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-342">November 12, 2019</span></span> <br/> |<span data-ttu-id="e9c47-343">63</span><span class="sxs-lookup"><span data-stu-id="e9c47-343">63</span></span><br/> |
+|<span data-ttu-id="9087b-341">バージョン 1902 (ビルド 11328.20480)</span><span class="sxs-lookup"><span data-stu-id="9087b-341">Version 1902 (Build 11328.20480)</span></span> <br/> |<span data-ttu-id="9087b-342">2019 年 11 月 22 日</span><span class="sxs-lookup"><span data-stu-id="9087b-342">November 22, 2019</span></span> <br/> |<span data-ttu-id="9087b-343">61</span><span class="sxs-lookup"><span data-stu-id="9087b-343">61</span></span><br/> |
+|<span data-ttu-id="9087b-344">バージョン 1902 (ビルド 11328.20468)</span><span class="sxs-lookup"><span data-stu-id="9087b-344">Version 1902 (Build 11328.20468)</span></span> <br/> |<span data-ttu-id="9087b-345">2019 年 11 月 12 日</span><span class="sxs-lookup"><span data-stu-id="9087b-345">November 12, 2019</span></span> <br/> |<span data-ttu-id="9087b-346">63</span><span class="sxs-lookup"><span data-stu-id="9087b-346">63</span></span><br/> |
 
-### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="e9c47-344">半期チャネル (対象指定)</span><span class="sxs-lookup"><span data-stu-id="e9c47-344">Semi-Annual (Targeted) Channel</span></span>
+### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="9087b-347">半期チャネル (対象指定)</span><span class="sxs-lookup"><span data-stu-id="9087b-347">Semi-Annual (Targeted) Channel</span></span>
 
-<span data-ttu-id="e9c47-345">最新のリリースはバージョン 1908 (ビルド 11929.20516) です。</span><span class="sxs-lookup"><span data-stu-id="e9c47-345">The most current release is Version 1908 (Build 11929.20516).</span></span>
+<span data-ttu-id="9087b-348">最新のリリースはバージョン 1908 (ビルド 11929.20516) です。</span><span class="sxs-lookup"><span data-stu-id="9087b-348">The most current release is Version 1908 (Build 11929.20516).</span></span>
 
-|<span data-ttu-id="e9c47-346">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="e9c47-346">**Release upgrading from**</span></span>|<span data-ttu-id="e9c47-347">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="e9c47-347">**Release date**</span></span>|<span data-ttu-id="e9c47-348">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="e9c47-348">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="9087b-349">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="9087b-349">**Release upgrading from**</span></span>|<span data-ttu-id="9087b-350">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="9087b-350">**Release date**</span></span>|<span data-ttu-id="9087b-351">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="9087b-351">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="e9c47-349">バージョン 1908 (ビルド 11929.20494)</span><span class="sxs-lookup"><span data-stu-id="e9c47-349">Version 1908 (Build 11929.20494)</span></span> <br/> |<span data-ttu-id="e9c47-350">2019 年 11 月 22 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-350">November 22, 2019</span></span> <br/> |<span data-ttu-id="e9c47-351">61</span><span class="sxs-lookup"><span data-stu-id="e9c47-351">61</span></span><br/> |
-|<span data-ttu-id="e9c47-352">バージョン 1908 (ビルド 11929.20436)</span><span class="sxs-lookup"><span data-stu-id="e9c47-352">Version 1908 (Build 11929.20436)</span></span> <br/> |<span data-ttu-id="e9c47-353">2019 年 11 月 12 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-353">November 12, 2019</span></span> <br/> |<span data-ttu-id="e9c47-354">63</span><span class="sxs-lookup"><span data-stu-id="e9c47-354">63</span></span><br/> |
+|<span data-ttu-id="9087b-352">バージョン 1908 (ビルド 11929.20494)</span><span class="sxs-lookup"><span data-stu-id="9087b-352">Version 1908 (Build 11929.20494)</span></span> <br/> |<span data-ttu-id="9087b-353">2019 年 11 月 22 日</span><span class="sxs-lookup"><span data-stu-id="9087b-353">November 22, 2019</span></span> <br/> |<span data-ttu-id="9087b-354">61</span><span class="sxs-lookup"><span data-stu-id="9087b-354">61</span></span><br/> |
+|<span data-ttu-id="9087b-355">バージョン 1908 (ビルド 11929.20436)</span><span class="sxs-lookup"><span data-stu-id="9087b-355">Version 1908 (Build 11929.20436)</span></span> <br/> |<span data-ttu-id="9087b-356">2019 年 11 月 12 日</span><span class="sxs-lookup"><span data-stu-id="9087b-356">November 12, 2019</span></span> <br/> |<span data-ttu-id="9087b-357">63</span><span class="sxs-lookup"><span data-stu-id="9087b-357">63</span></span><br/> |
 
 [//]: # (コンテンツを削除しないでください。終了 2019 年 12 月 10 日)
 
-## <a name="december-3-2019"></a><span data-ttu-id="e9c47-356">2019 年 12 月 3 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-356">December 3, 2019</span></span>
+## <a name="december-3-2019"></a><span data-ttu-id="9087b-359">2019 年 12 月 3 日</span><span class="sxs-lookup"><span data-stu-id="9087b-359">December 3, 2019</span></span>
 
 [//]: # (コンテンツを削除しないでください。開始 2019 年 12 月 3 日)
 
-### <a name="monthly-channel"></a><span data-ttu-id="e9c47-358">月次チャネル</span><span class="sxs-lookup"><span data-stu-id="e9c47-358">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="9087b-361">月次チャネル</span><span class="sxs-lookup"><span data-stu-id="9087b-361">Monthly Channel</span></span>
 
-<span data-ttu-id="e9c47-359">最新のリリースはバージョン 1911 (ビルド 12228.20332)です。</span><span class="sxs-lookup"><span data-stu-id="e9c47-359">The most current release is Version 1911 (Build 12228.20332).</span></span>
+<span data-ttu-id="9087b-362">最新のリリースはバージョン 1911 (ビルド 12228.20332)です。</span><span class="sxs-lookup"><span data-stu-id="9087b-362">The most current release is Version 1911 (Build 12228.20332).</span></span>
 
-|<span data-ttu-id="e9c47-360">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="e9c47-360">**Release upgrading from**</span></span>|<span data-ttu-id="e9c47-361">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="e9c47-361">**Release date**</span></span>|<span data-ttu-id="e9c47-362">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="e9c47-362">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="9087b-363">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="9087b-363">**Release upgrading from**</span></span>|<span data-ttu-id="9087b-364">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="9087b-364">**Release date**</span></span>|<span data-ttu-id="9087b-365">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="9087b-365">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="e9c47-363">バージョン 1910 (ビルド 12130.20410)</span><span class="sxs-lookup"><span data-stu-id="e9c47-363">Version 1910 (Build 12130.20410)</span></span> <br/> |<span data-ttu-id="e9c47-364">2019 年 11 月 22 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-364">November 22, 2019</span></span> <br/> |<span data-ttu-id="e9c47-365">240</span><span class="sxs-lookup"><span data-stu-id="e9c47-365">240</span></span><br/> |
-|<span data-ttu-id="e9c47-366">バージョン 1910 (ビルド 12130.20390)</span><span class="sxs-lookup"><span data-stu-id="e9c47-366">Version 1910 (Build 12130.20390)</span></span> <br/> |<span data-ttu-id="e9c47-367">2019 年 11 月 18 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-367">November 18, 2019</span></span> <br/> |<span data-ttu-id="e9c47-368">239</span><span class="sxs-lookup"><span data-stu-id="e9c47-368">239</span></span><br/> |
+|<span data-ttu-id="9087b-366">バージョン 1910 (ビルド 12130.20410)</span><span class="sxs-lookup"><span data-stu-id="9087b-366">Version 1910 (Build 12130.20410)</span></span> <br/> |<span data-ttu-id="9087b-367">2019 年 11 月 22 日</span><span class="sxs-lookup"><span data-stu-id="9087b-367">November 22, 2019</span></span> <br/> |<span data-ttu-id="9087b-368">240</span><span class="sxs-lookup"><span data-stu-id="9087b-368">240</span></span><br/> |
+|<span data-ttu-id="9087b-369">バージョン 1910 (ビルド 12130.20390)</span><span class="sxs-lookup"><span data-stu-id="9087b-369">Version 1910 (Build 12130.20390)</span></span> <br/> |<span data-ttu-id="9087b-370">2019 年 11 月 18 日</span><span class="sxs-lookup"><span data-stu-id="9087b-370">November 18, 2019</span></span> <br/> |<span data-ttu-id="9087b-371">239</span><span class="sxs-lookup"><span data-stu-id="9087b-371">239</span></span><br/> |
 
 
 [//]: # (コンテンツを削除しないでください。終了 2019 年 12 月 3 日)
 
-## <a name="november-22-2019"></a><span data-ttu-id="e9c47-370">2019 年 11 月 22 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-370">November 22, 2019</span></span>
+## <a name="november-22-2019"></a><span data-ttu-id="9087b-373">2019 年 11 月 22 日</span><span class="sxs-lookup"><span data-stu-id="9087b-373">November 22, 2019</span></span>
 
-### <a name="monthly-channel"></a><span data-ttu-id="e9c47-371">月次チャネル</span><span class="sxs-lookup"><span data-stu-id="e9c47-371">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="9087b-374">月次チャネル</span><span class="sxs-lookup"><span data-stu-id="9087b-374">Monthly Channel</span></span>
 
-<span data-ttu-id="e9c47-372">最新のリリースはバージョン 1910 (ビルド 12130.20410) です。</span><span class="sxs-lookup"><span data-stu-id="e9c47-372">The most current release is Version 1910 (Build 12130.20410).</span></span>
+<span data-ttu-id="9087b-375">最新のリリースはバージョン 1910 (ビルド 12130.20410) です。</span><span class="sxs-lookup"><span data-stu-id="9087b-375">The most current release is Version 1910 (Build 12130.20410).</span></span>
 
-|<span data-ttu-id="e9c47-373">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="e9c47-373">**Release upgrading from**</span></span>|<span data-ttu-id="e9c47-374">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="e9c47-374">**Release date**</span></span>|<span data-ttu-id="e9c47-375">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="e9c47-375">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="9087b-376">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="9087b-376">**Release upgrading from**</span></span>|<span data-ttu-id="9087b-377">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="9087b-377">**Release date**</span></span>|<span data-ttu-id="9087b-378">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="9087b-378">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="e9c47-376">バージョン 1910 (ビルド 12130.20390)</span><span class="sxs-lookup"><span data-stu-id="e9c47-376">Version 1910 (Build 12130.20390)</span></span> <br/> |<span data-ttu-id="e9c47-377">2019 年 11 月 18 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-377">November 18, 2019</span></span> <br/> |<span data-ttu-id="e9c47-378">50</span><span class="sxs-lookup"><span data-stu-id="e9c47-378">50</span></span><br/> |
-|<span data-ttu-id="e9c47-379">バージョン 1910 (ビルド 12130.20344)</span><span class="sxs-lookup"><span data-stu-id="e9c47-379">Version 1910 (Build 12130.20344)</span></span> <br/> |<span data-ttu-id="e9c47-380">2019 年 11 月 12 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-380">November 12, 2019</span></span> <br/> |<span data-ttu-id="e9c47-381">58</span><span class="sxs-lookup"><span data-stu-id="e9c47-381">58</span></span><br/> |
+|<span data-ttu-id="9087b-379">バージョン 1910 (ビルド 12130.20390)</span><span class="sxs-lookup"><span data-stu-id="9087b-379">Version 1910 (Build 12130.20390)</span></span> <br/> |<span data-ttu-id="9087b-380">2019 年 11 月 18 日</span><span class="sxs-lookup"><span data-stu-id="9087b-380">November 18, 2019</span></span> <br/> |<span data-ttu-id="9087b-381">50</span><span class="sxs-lookup"><span data-stu-id="9087b-381">50</span></span><br/> |
+|<span data-ttu-id="9087b-382">バージョン 1910 (ビルド 12130.20344)</span><span class="sxs-lookup"><span data-stu-id="9087b-382">Version 1910 (Build 12130.20344)</span></span> <br/> |<span data-ttu-id="9087b-383">2019 年 11 月 12 日</span><span class="sxs-lookup"><span data-stu-id="9087b-383">November 12, 2019</span></span> <br/> |<span data-ttu-id="9087b-384">58</span><span class="sxs-lookup"><span data-stu-id="9087b-384">58</span></span><br/> |
 
 
 [//]: # (コンテンツを削除しないでください。開始 2019 年 11 月 22 日)
 
-### <a name="semi-annual-channel"></a><span data-ttu-id="e9c47-383">半期チャネル</span><span class="sxs-lookup"><span data-stu-id="e9c47-383">Semi-Annual Channel</span></span>
+### <a name="semi-annual-channel"></a><span data-ttu-id="9087b-386">半期チャネル</span><span class="sxs-lookup"><span data-stu-id="9087b-386">Semi-Annual Channel</span></span>
 
-<span data-ttu-id="e9c47-384">最新のリリースは、バージョン 1902 (ビルド 11328.20480) です。</span><span class="sxs-lookup"><span data-stu-id="e9c47-384">The most current release is Version 1902 (Build 11328.20480).</span></span>
+<span data-ttu-id="9087b-387">最新のリリースは、バージョン 1902 (ビルド 11328.20480) です。</span><span class="sxs-lookup"><span data-stu-id="9087b-387">The most current release is Version 1902 (Build 11328.20480).</span></span>
 
-|<span data-ttu-id="e9c47-385">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="e9c47-385">**Release upgrading from**</span></span>|<span data-ttu-id="e9c47-386">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="e9c47-386">**Release date**</span></span>|<span data-ttu-id="e9c47-387">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="e9c47-387">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="9087b-388">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="9087b-388">**Release upgrading from**</span></span>|<span data-ttu-id="9087b-389">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="9087b-389">**Release date**</span></span>|<span data-ttu-id="9087b-390">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="9087b-390">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="e9c47-388">バージョン 1902 (ビルド 11328.20468)</span><span class="sxs-lookup"><span data-stu-id="e9c47-388">Version 1902 (Build 11328.20468)</span></span> <br/> |<span data-ttu-id="e9c47-389">2019 年 11 月 12 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-389">November 12, 2019</span></span> <br/> |<span data-ttu-id="e9c47-390">61</span><span class="sxs-lookup"><span data-stu-id="e9c47-390">61</span></span><br/> |
-|<span data-ttu-id="e9c47-391">バージョン 1902 (ビルド 11328.20438)</span><span class="sxs-lookup"><span data-stu-id="e9c47-391">Version 1902 (Build 11328.20438)</span></span> <br/> |<span data-ttu-id="e9c47-392">2019 年 10 月 8 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-392">October 8, 2019</span></span> <br/> |<span data-ttu-id="e9c47-393">69</span><span class="sxs-lookup"><span data-stu-id="e9c47-393">69</span></span><br/> |
+|<span data-ttu-id="9087b-391">バージョン 1902 (ビルド 11328.20468)</span><span class="sxs-lookup"><span data-stu-id="9087b-391">Version 1902 (Build 11328.20468)</span></span> <br/> |<span data-ttu-id="9087b-392">2019 年 11 月 12 日</span><span class="sxs-lookup"><span data-stu-id="9087b-392">November 12, 2019</span></span> <br/> |<span data-ttu-id="9087b-393">61</span><span class="sxs-lookup"><span data-stu-id="9087b-393">61</span></span><br/> |
+|<span data-ttu-id="9087b-394">バージョン 1902 (ビルド 11328.20438)</span><span class="sxs-lookup"><span data-stu-id="9087b-394">Version 1902 (Build 11328.20438)</span></span> <br/> |<span data-ttu-id="9087b-395">2019 年 10 月 8 日</span><span class="sxs-lookup"><span data-stu-id="9087b-395">October 8, 2019</span></span> <br/> |<span data-ttu-id="9087b-396">69</span><span class="sxs-lookup"><span data-stu-id="9087b-396">69</span></span><br/> |
 
 
-### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="e9c47-394">半期チャネル (対象指定)</span><span class="sxs-lookup"><span data-stu-id="e9c47-394">Semi-Annual (Targeted) Channel</span></span>
+### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="9087b-397">半期チャネル (対象指定)</span><span class="sxs-lookup"><span data-stu-id="9087b-397">Semi-Annual (Targeted) Channel</span></span>
 
-<span data-ttu-id="e9c47-395">最新のリリースはバージョン 1908 (ビルド 11929.20494) です。</span><span class="sxs-lookup"><span data-stu-id="e9c47-395">The most current release is Version 1908 (Build 11929.20494).</span></span>
+<span data-ttu-id="9087b-398">最新のリリースはバージョン 1908 (ビルド 11929.20494) です。</span><span class="sxs-lookup"><span data-stu-id="9087b-398">The most current release is Version 1908 (Build 11929.20494).</span></span>
 
-|<span data-ttu-id="e9c47-396">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="e9c47-396">**Release upgrading from**</span></span>|<span data-ttu-id="e9c47-397">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="e9c47-397">**Release date**</span></span>|<span data-ttu-id="e9c47-398">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="e9c47-398">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="9087b-399">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="9087b-399">**Release upgrading from**</span></span>|<span data-ttu-id="9087b-400">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="9087b-400">**Release date**</span></span>|<span data-ttu-id="9087b-401">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="9087b-401">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="e9c47-399">バージョン 1908 (ビルド 11929.20436)</span><span class="sxs-lookup"><span data-stu-id="e9c47-399">Version 1908 (Build 11929.20436)</span></span> <br/> |<span data-ttu-id="e9c47-400">2019 年 11 月 12 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-400">November 12, 2019</span></span> <br/> |<span data-ttu-id="e9c47-401">57</span><span class="sxs-lookup"><span data-stu-id="e9c47-401">57</span></span><br/> |
-|<span data-ttu-id="e9c47-402">バージョン 1908 (ビルド 11929.20396)</span><span class="sxs-lookup"><span data-stu-id="e9c47-402">Version 1908 (Build 11929.20396)</span></span> <br/> |<span data-ttu-id="e9c47-403">2019 年 10 月 14 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-403">October 14, 2019</span></span> <br/> |<span data-ttu-id="e9c47-404">65</span><span class="sxs-lookup"><span data-stu-id="e9c47-404">65</span></span><br/> |
+|<span data-ttu-id="9087b-402">バージョン 1908 (ビルド 11929.20436)</span><span class="sxs-lookup"><span data-stu-id="9087b-402">Version 1908 (Build 11929.20436)</span></span> <br/> |<span data-ttu-id="9087b-403">2019 年 11 月 12 日</span><span class="sxs-lookup"><span data-stu-id="9087b-403">November 12, 2019</span></span> <br/> |<span data-ttu-id="9087b-404">57</span><span class="sxs-lookup"><span data-stu-id="9087b-404">57</span></span><br/> |
+|<span data-ttu-id="9087b-405">バージョン 1908 (ビルド 11929.20396)</span><span class="sxs-lookup"><span data-stu-id="9087b-405">Version 1908 (Build 11929.20396)</span></span> <br/> |<span data-ttu-id="9087b-406">2019 年 10 月 14 日</span><span class="sxs-lookup"><span data-stu-id="9087b-406">October 14, 2019</span></span> <br/> |<span data-ttu-id="9087b-407">65</span><span class="sxs-lookup"><span data-stu-id="9087b-407">65</span></span><br/> |
 
 
 [//]: # (コンテンツを削除しないでください。終了 2019 年 11 月 22 日)
 
-## <a name="november-18-2019"></a><span data-ttu-id="e9c47-406">2019 年 11 月 18 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-406">November 18, 2019</span></span>
+## <a name="november-18-2019"></a><span data-ttu-id="9087b-409">2019 年 11 月 18 日</span><span class="sxs-lookup"><span data-stu-id="9087b-409">November 18, 2019</span></span>
 
 [//]: # (コンテンツを削除しないでください。開始 2019 年 11 月 18 日)
 
-### <a name="monthly-channel"></a><span data-ttu-id="e9c47-408">月次チャネル</span><span class="sxs-lookup"><span data-stu-id="e9c47-408">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="9087b-411">月次チャネル</span><span class="sxs-lookup"><span data-stu-id="9087b-411">Monthly Channel</span></span>
 
-<span data-ttu-id="e9c47-409">最新のリリースはバージョン 1910 (ビルド 12130.20390) です。</span><span class="sxs-lookup"><span data-stu-id="e9c47-409">The most current release is Version 1910 (Build 12130.20390).</span></span>
+<span data-ttu-id="9087b-412">最新のリリースはバージョン 1910 (ビルド 12130.20390) です。</span><span class="sxs-lookup"><span data-stu-id="9087b-412">The most current release is Version 1910 (Build 12130.20390).</span></span>
 
-|<span data-ttu-id="e9c47-410">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="e9c47-410">**Release upgrading from**</span></span>|<span data-ttu-id="e9c47-411">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="e9c47-411">**Release date**</span></span>|<span data-ttu-id="e9c47-412">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="e9c47-412">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="9087b-413">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="9087b-413">**Release upgrading from**</span></span>|<span data-ttu-id="9087b-414">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="9087b-414">**Release date**</span></span>|<span data-ttu-id="9087b-415">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="9087b-415">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="e9c47-413">バージョン 1910 (ビルド 12130.20344)</span><span class="sxs-lookup"><span data-stu-id="e9c47-413">Version 1910 (Build 12130.20344)</span></span> <br/> |<span data-ttu-id="e9c47-414">2019 年 11 月 12 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-414">November 12, 2019</span></span> <br/> |<span data-ttu-id="e9c47-415">58</span><span class="sxs-lookup"><span data-stu-id="e9c47-415">58</span></span><br/> |
-|<span data-ttu-id="e9c47-416">バージョン 1910 (ビルド 12130.20272)</span><span class="sxs-lookup"><span data-stu-id="e9c47-416">Version 1910 (Build 12130.20272)</span></span> <br/> |<span data-ttu-id="e9c47-417">2019 年 10 月 30 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-417">October 30, 2019</span></span> <br/> |<span data-ttu-id="e9c47-418">65</span><span class="sxs-lookup"><span data-stu-id="e9c47-418">65</span></span><br/> |
+|<span data-ttu-id="9087b-416">バージョン 1910 (ビルド 12130.20344)</span><span class="sxs-lookup"><span data-stu-id="9087b-416">Version 1910 (Build 12130.20344)</span></span> <br/> |<span data-ttu-id="9087b-417">2019 年 11 月 12 日</span><span class="sxs-lookup"><span data-stu-id="9087b-417">November 12, 2019</span></span> <br/> |<span data-ttu-id="9087b-418">58</span><span class="sxs-lookup"><span data-stu-id="9087b-418">58</span></span><br/> |
+|<span data-ttu-id="9087b-419">バージョン 1910 (ビルド 12130.20272)</span><span class="sxs-lookup"><span data-stu-id="9087b-419">Version 1910 (Build 12130.20272)</span></span> <br/> |<span data-ttu-id="9087b-420">2019 年 10 月 30 日</span><span class="sxs-lookup"><span data-stu-id="9087b-420">October 30, 2019</span></span> <br/> |<span data-ttu-id="9087b-421">65</span><span class="sxs-lookup"><span data-stu-id="9087b-421">65</span></span><br/> |
 
 
 [//]: # (コンテンツを削除しないでください。終了 2019 年 11 月 18 日)
 
-## <a name="november-12-2019"></a><span data-ttu-id="e9c47-420">2019 年 11 月 12 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-420">November 12, 2019</span></span>
+## <a name="november-12-2019"></a><span data-ttu-id="9087b-423">2019 年 11 月 12 日</span><span class="sxs-lookup"><span data-stu-id="9087b-423">November 12, 2019</span></span>
 
-### <a name="monthly-channel"></a><span data-ttu-id="e9c47-421">月次チャネル</span><span class="sxs-lookup"><span data-stu-id="e9c47-421">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="9087b-424">月次チャネル</span><span class="sxs-lookup"><span data-stu-id="9087b-424">Monthly Channel</span></span>
 
-<span data-ttu-id="e9c47-422">最新のリリースはバージョン 1910 (ビルド 12130.20344) です。</span><span class="sxs-lookup"><span data-stu-id="e9c47-422">The most current release is Version 1910 (Build 12130.20344).</span></span>
+<span data-ttu-id="9087b-425">最新のリリースはバージョン 1910 (ビルド 12130.20344) です。</span><span class="sxs-lookup"><span data-stu-id="9087b-425">The most current release is Version 1910 (Build 12130.20344).</span></span>
 
-|<span data-ttu-id="e9c47-423">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="e9c47-423">**Release upgrading from**</span></span>|<span data-ttu-id="e9c47-424">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="e9c47-424">**Release date**</span></span>|<span data-ttu-id="e9c47-425">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="e9c47-425">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="9087b-426">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="9087b-426">**Release upgrading from**</span></span>|<span data-ttu-id="9087b-427">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="9087b-427">**Release date**</span></span>|<span data-ttu-id="9087b-428">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="9087b-428">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="e9c47-426">バージョン 1910 (ビルド 12130.20272)</span><span class="sxs-lookup"><span data-stu-id="e9c47-426">Version 1910 (Build 12130.20272)</span></span> <br/> |<span data-ttu-id="e9c47-427">2019 年 10 月 30 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-427">October 30, 2019</span></span> <br/> |<span data-ttu-id="e9c47-428">61</span><span class="sxs-lookup"><span data-stu-id="e9c47-428">61</span></span><br/> |
-|<span data-ttu-id="e9c47-429">バージョン 1909 (ビルド 12026.20344)</span><span class="sxs-lookup"><span data-stu-id="e9c47-429">Version 1909 (Build 12026.20344)</span></span> <br/> |<span data-ttu-id="e9c47-430">2019 年 10 月 22 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-430">October 22, 2019</span></span> <br/> |<span data-ttu-id="e9c47-431">156</span><span class="sxs-lookup"><span data-stu-id="e9c47-431">156</span></span><br/> |
+|<span data-ttu-id="9087b-429">バージョン 1910 (ビルド 12130.20272)</span><span class="sxs-lookup"><span data-stu-id="9087b-429">Version 1910 (Build 12130.20272)</span></span> <br/> |<span data-ttu-id="9087b-430">2019 年 10 月 30 日</span><span class="sxs-lookup"><span data-stu-id="9087b-430">October 30, 2019</span></span> <br/> |<span data-ttu-id="9087b-431">61</span><span class="sxs-lookup"><span data-stu-id="9087b-431">61</span></span><br/> |
+|<span data-ttu-id="9087b-432">バージョン 1909 (ビルド 12026.20344)</span><span class="sxs-lookup"><span data-stu-id="9087b-432">Version 1909 (Build 12026.20344)</span></span> <br/> |<span data-ttu-id="9087b-433">2019 年 10 月 22 日</span><span class="sxs-lookup"><span data-stu-id="9087b-433">October 22, 2019</span></span> <br/> |<span data-ttu-id="9087b-434">156</span><span class="sxs-lookup"><span data-stu-id="9087b-434">156</span></span><br/> |
 
 
-### <a name="semi-annual-channel"></a><span data-ttu-id="e9c47-432">半期チャネル</span><span class="sxs-lookup"><span data-stu-id="e9c47-432">Semi-Annual Channel</span></span>
+### <a name="semi-annual-channel"></a><span data-ttu-id="9087b-435">半期チャネル</span><span class="sxs-lookup"><span data-stu-id="9087b-435">Semi-Annual Channel</span></span>
 
-<span data-ttu-id="e9c47-433">最新のリリースは、バージョン 1902 (ビルド 11328.20468) です。</span><span class="sxs-lookup"><span data-stu-id="e9c47-433">The most current release is Version 1902 (Build 11328.20468).</span></span>
+<span data-ttu-id="9087b-436">最新のリリースは、バージョン 1902 (ビルド 11328.20468) です。</span><span class="sxs-lookup"><span data-stu-id="9087b-436">The most current release is Version 1902 (Build 11328.20468).</span></span>
 
-|<span data-ttu-id="e9c47-434">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="e9c47-434">**Release upgrading from**</span></span>|<span data-ttu-id="e9c47-435">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="e9c47-435">**Release date**</span></span>|<span data-ttu-id="e9c47-436">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="e9c47-436">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="9087b-437">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="9087b-437">**Release upgrading from**</span></span>|<span data-ttu-id="9087b-438">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="9087b-438">**Release date**</span></span>|<span data-ttu-id="9087b-439">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="9087b-439">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="e9c47-437">バージョン 1902 (ビルド 11328.20438)</span><span class="sxs-lookup"><span data-stu-id="e9c47-437">Version 1902 (Build 11328.20438)</span></span> <br/> |<span data-ttu-id="e9c47-438">2019 年 10 月 8 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-438">October 8, 2019</span></span> <br/> |<span data-ttu-id="e9c47-439">69</span><span class="sxs-lookup"><span data-stu-id="e9c47-439">69</span></span><br/> |
-|<span data-ttu-id="e9c47-440">バージョン 1902 (ビルド 11328.20420)</span><span class="sxs-lookup"><span data-stu-id="e9c47-440">Version 1902 (Build 11328.20420)</span></span> <br/> |<span data-ttu-id="e9c47-441">2019 年 9 月 10 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-441">September 10, 2019</span></span> <br/> |<span data-ttu-id="e9c47-442">70</span><span class="sxs-lookup"><span data-stu-id="e9c47-442">70</span></span><br/> |
+|<span data-ttu-id="9087b-440">バージョン 1902 (ビルド 11328.20438)</span><span class="sxs-lookup"><span data-stu-id="9087b-440">Version 1902 (Build 11328.20438)</span></span> <br/> |<span data-ttu-id="9087b-441">2019 年 10 月 8 日</span><span class="sxs-lookup"><span data-stu-id="9087b-441">October 8, 2019</span></span> <br/> |<span data-ttu-id="9087b-442">69</span><span class="sxs-lookup"><span data-stu-id="9087b-442">69</span></span><br/> |
+|<span data-ttu-id="9087b-443">バージョン 1902 (ビルド 11328.20420)</span><span class="sxs-lookup"><span data-stu-id="9087b-443">Version 1902 (Build 11328.20420)</span></span> <br/> |<span data-ttu-id="9087b-444">2019 年 9 月 10 日</span><span class="sxs-lookup"><span data-stu-id="9087b-444">September 10, 2019</span></span> <br/> |<span data-ttu-id="9087b-445">70</span><span class="sxs-lookup"><span data-stu-id="9087b-445">70</span></span><br/> |
 
 
 [//]: # (コンテンツを削除しないでください。開始 2019 年 11 月 12 日)
 
-### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="e9c47-444">半期チャネル (対象指定)</span><span class="sxs-lookup"><span data-stu-id="e9c47-444">Semi-Annual (Targeted) Channel</span></span>
+### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="9087b-447">半期チャネル (対象指定)</span><span class="sxs-lookup"><span data-stu-id="9087b-447">Semi-Annual (Targeted) Channel</span></span>
 
-<span data-ttu-id="e9c47-445">最新のリリースはバージョン 1908 (ビルド 11929.20436) です。</span><span class="sxs-lookup"><span data-stu-id="e9c47-445">The most current release is Version 1908 (Build 11929.20436).</span></span>
+<span data-ttu-id="9087b-448">最新のリリースはバージョン 1908 (ビルド 11929.20436) です。</span><span class="sxs-lookup"><span data-stu-id="9087b-448">The most current release is Version 1908 (Build 11929.20436).</span></span>
 
-|<span data-ttu-id="e9c47-446">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="e9c47-446">**Release upgrading from**</span></span>|<span data-ttu-id="e9c47-447">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="e9c47-447">**Release date**</span></span>|<span data-ttu-id="e9c47-448">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="e9c47-448">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="9087b-449">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="9087b-449">**Release upgrading from**</span></span>|<span data-ttu-id="9087b-450">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="9087b-450">**Release date**</span></span>|<span data-ttu-id="9087b-451">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="9087b-451">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="e9c47-449">バージョン 1908 (ビルド 11929.20396)</span><span class="sxs-lookup"><span data-stu-id="e9c47-449">Version 1908 (Build 11929.20396)</span></span> <br/> |<span data-ttu-id="e9c47-450">2019 年 10 月 14 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-450">October 14, 2019</span></span> <br/> |<span data-ttu-id="e9c47-451">64</span><span class="sxs-lookup"><span data-stu-id="e9c47-451">64</span></span><br/> |
-|<span data-ttu-id="e9c47-452">バージョン 1908 (ビルド 11929.20388)</span><span class="sxs-lookup"><span data-stu-id="e9c47-452">Version 1908 (Build 11929.20388)</span></span> <br/> |<span data-ttu-id="e9c47-453">2019 年 10 月 8 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-453">October 8, 2019</span></span> <br/> |<span data-ttu-id="e9c47-454">66</span><span class="sxs-lookup"><span data-stu-id="e9c47-454">66</span></span><br/> |
+|<span data-ttu-id="9087b-452">バージョン 1908 (ビルド 11929.20396)</span><span class="sxs-lookup"><span data-stu-id="9087b-452">Version 1908 (Build 11929.20396)</span></span> <br/> |<span data-ttu-id="9087b-453">2019 年 10 月 14 日</span><span class="sxs-lookup"><span data-stu-id="9087b-453">October 14, 2019</span></span> <br/> |<span data-ttu-id="9087b-454">64</span><span class="sxs-lookup"><span data-stu-id="9087b-454">64</span></span><br/> |
+|<span data-ttu-id="9087b-455">バージョン 1908 (ビルド 11929.20388)</span><span class="sxs-lookup"><span data-stu-id="9087b-455">Version 1908 (Build 11929.20388)</span></span> <br/> |<span data-ttu-id="9087b-456">2019 年 10 月 8 日</span><span class="sxs-lookup"><span data-stu-id="9087b-456">October 8, 2019</span></span> <br/> |<span data-ttu-id="9087b-457">66</span><span class="sxs-lookup"><span data-stu-id="9087b-457">66</span></span><br/> |
 
 
 [//]: # (コンテンツを削除しないでください。終了 2019 年 11 月 12 日)
 
-## <a name="october-30-2019"></a><span data-ttu-id="e9c47-456">2019 年 10 月 30 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-456">October 30, 2019</span></span>
+## <a name="october-30-2019"></a><span data-ttu-id="9087b-459">2019 年 10 月 30 日</span><span class="sxs-lookup"><span data-stu-id="9087b-459">October 30, 2019</span></span>
 
 [//]: # (コンテンツを削除しないでください。開始 2019 年 10月 30 日)
 
-### <a name="monthly-channel"></a><span data-ttu-id="e9c47-458">毎月のチャネル</span><span class="sxs-lookup"><span data-stu-id="e9c47-458">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="9087b-461">毎月のチャネル</span><span class="sxs-lookup"><span data-stu-id="9087b-461">Monthly Channel</span></span>
 
-<span data-ttu-id="e9c47-459">最新のリリースはバージョン 1910 (ビルド 12130.20272) です。</span><span class="sxs-lookup"><span data-stu-id="e9c47-459">The most current release is Version 1910 (Build 12130.20272).</span></span>
+<span data-ttu-id="9087b-462">最新のリリースはバージョン 1910 (ビルド 12130.20272) です。</span><span class="sxs-lookup"><span data-stu-id="9087b-462">The most current release is Version 1910 (Build 12130.20272).</span></span>
 
-|<span data-ttu-id="e9c47-460">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="e9c47-460">**Release upgrading from**</span></span>|<span data-ttu-id="e9c47-461">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="e9c47-461">**Release date**</span></span>|<span data-ttu-id="e9c47-462">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="e9c47-462">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="9087b-463">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="9087b-463">**Release upgrading from**</span></span>|<span data-ttu-id="9087b-464">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="9087b-464">**Release date**</span></span>|<span data-ttu-id="9087b-465">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="9087b-465">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="e9c47-463">バージョン 1909 (ビルド 12026.20344)</span><span class="sxs-lookup"><span data-stu-id="e9c47-463">Version 1909 (Build 12026.20344)</span></span> <br/> |<span data-ttu-id="e9c47-464">2019 年 10 月 22 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-464">October 22, 2019</span></span> <br/> |<span data-ttu-id="e9c47-465">152</span><span class="sxs-lookup"><span data-stu-id="e9c47-465">152</span></span><br/> |
-|<span data-ttu-id="e9c47-466">バージョン 1909 (ビルド 12026.20334)</span><span class="sxs-lookup"><span data-stu-id="e9c47-466">Version 1909 (Build 12026.20334)</span></span> <br/> |<span data-ttu-id="e9c47-467">2019 年 10 月 14 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-467">October 14, 2019</span></span> <br/> |<span data-ttu-id="e9c47-468">152</span><span class="sxs-lookup"><span data-stu-id="e9c47-468">152</span></span><br/> |
+|<span data-ttu-id="9087b-466">バージョン 1909 (ビルド 12026.20344)</span><span class="sxs-lookup"><span data-stu-id="9087b-466">Version 1909 (Build 12026.20344)</span></span> <br/> |<span data-ttu-id="9087b-467">2019 年 10 月 22 日</span><span class="sxs-lookup"><span data-stu-id="9087b-467">October 22, 2019</span></span> <br/> |<span data-ttu-id="9087b-468">152</span><span class="sxs-lookup"><span data-stu-id="9087b-468">152</span></span><br/> |
+|<span data-ttu-id="9087b-469">バージョン 1909 (ビルド 12026.20334)</span><span class="sxs-lookup"><span data-stu-id="9087b-469">Version 1909 (Build 12026.20334)</span></span> <br/> |<span data-ttu-id="9087b-470">2019 年 10 月 14 日</span><span class="sxs-lookup"><span data-stu-id="9087b-470">October 14, 2019</span></span> <br/> |<span data-ttu-id="9087b-471">152</span><span class="sxs-lookup"><span data-stu-id="9087b-471">152</span></span><br/> |
 
 
 [//]: # (コンテンツを削除しないでください。終了 2019 年 10 月 30 日)
 
-## <a name="october-23-2019"></a><span data-ttu-id="e9c47-470">2019 年 10 月 23 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-470">October 23, 2019</span></span>
+## <a name="october-23-2019"></a><span data-ttu-id="9087b-473">2019 年 10 月 23 日</span><span class="sxs-lookup"><span data-stu-id="9087b-473">October 23, 2019</span></span>
 
 [//]: # (コンテンツを削除しないでください。開始 2019 年 10月 23 日)
 
-### <a name="monthly-channel"></a><span data-ttu-id="e9c47-472">毎月のチャネル</span><span class="sxs-lookup"><span data-stu-id="e9c47-472">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="9087b-475">毎月のチャネル</span><span class="sxs-lookup"><span data-stu-id="9087b-475">Monthly Channel</span></span>
 
-<span data-ttu-id="e9c47-473">最新のリリースはバージョン 1909 (ビルド 12026.20344) です。</span><span class="sxs-lookup"><span data-stu-id="e9c47-473">The most current release is Version 1909 (Build 12026.20344).</span></span>
+<span data-ttu-id="9087b-476">最新のリリースはバージョン 1909 (ビルド 12026.20344) です。</span><span class="sxs-lookup"><span data-stu-id="9087b-476">The most current release is Version 1909 (Build 12026.20344).</span></span>
 
-|<span data-ttu-id="e9c47-474">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="e9c47-474">**Release upgrading from**</span></span>|<span data-ttu-id="e9c47-475">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="e9c47-475">**Release date**</span></span>|<span data-ttu-id="e9c47-476">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="e9c47-476">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="9087b-477">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="9087b-477">**Release upgrading from**</span></span>|<span data-ttu-id="9087b-478">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="9087b-478">**Release date**</span></span>|<span data-ttu-id="9087b-479">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="9087b-479">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="e9c47-477">バージョン 1909 (ビルド 12026.20334)</span><span class="sxs-lookup"><span data-stu-id="e9c47-477">Version 1909 (Build 12026.20334)</span></span> <br/> |<span data-ttu-id="e9c47-478">2019 年 10 月 14 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-478">October 14, 2019</span></span> <br/> |<span data-ttu-id="e9c47-479">58</span><span class="sxs-lookup"><span data-stu-id="e9c47-479">58</span></span><br/> |
-|<span data-ttu-id="e9c47-480">バージョン 1909 (ビルド 12026.20320)</span><span class="sxs-lookup"><span data-stu-id="e9c47-480">Version 1909 (Build 12026.20320)</span></span> <br/> |<span data-ttu-id="e9c47-481">2019 年 10 月 8 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-481">October 8, 2019</span></span> <br/> |<span data-ttu-id="e9c47-482">58</span><span class="sxs-lookup"><span data-stu-id="e9c47-482">58</span></span><br/> |
+|<span data-ttu-id="9087b-480">バージョン 1909 (ビルド 12026.20334)</span><span class="sxs-lookup"><span data-stu-id="9087b-480">Version 1909 (Build 12026.20334)</span></span> <br/> |<span data-ttu-id="9087b-481">2019 年 10 月 14 日</span><span class="sxs-lookup"><span data-stu-id="9087b-481">October 14, 2019</span></span> <br/> |<span data-ttu-id="9087b-482">58</span><span class="sxs-lookup"><span data-stu-id="9087b-482">58</span></span><br/> |
+|<span data-ttu-id="9087b-483">バージョン 1909 (ビルド 12026.20320)</span><span class="sxs-lookup"><span data-stu-id="9087b-483">Version 1909 (Build 12026.20320)</span></span> <br/> |<span data-ttu-id="9087b-484">2019 年 10 月 8 日</span><span class="sxs-lookup"><span data-stu-id="9087b-484">October 8, 2019</span></span> <br/> |<span data-ttu-id="9087b-485">58</span><span class="sxs-lookup"><span data-stu-id="9087b-485">58</span></span><br/> |
 
 
 [//]: # (コンテンツを削除しないでください。終了 2019 年 10 月 23 日)
 
-## <a name="october-22-2019"></a><span data-ttu-id="e9c47-484">2019 年 10 月 22 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-484">October 22, 2019</span></span>
+## <a name="october-22-2019"></a><span data-ttu-id="9087b-487">2019 年 10 月 22 日</span><span class="sxs-lookup"><span data-stu-id="9087b-487">October 22, 2019</span></span>
 
 [//]: # (コンテンツを削除しないでください。開始 2019 年 10月 22 日)
 
-### <a name="monthly-channel"></a><span data-ttu-id="e9c47-486">毎月のチャネル</span><span class="sxs-lookup"><span data-stu-id="e9c47-486">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="9087b-489">毎月のチャネル</span><span class="sxs-lookup"><span data-stu-id="9087b-489">Monthly Channel</span></span>
 
-<span data-ttu-id="e9c47-487">最新のリリースはバージョン 1909 (ビルド 12026.20344) です。</span><span class="sxs-lookup"><span data-stu-id="e9c47-487">The most current release is Version 1909 (Build 12026.20344).</span></span>
+<span data-ttu-id="9087b-490">最新のリリースはバージョン 1909 (ビルド 12026.20344) です。</span><span class="sxs-lookup"><span data-stu-id="9087b-490">The most current release is Version 1909 (Build 12026.20344).</span></span>
 
-|<span data-ttu-id="e9c47-488">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="e9c47-488">**Release upgrading from**</span></span>|<span data-ttu-id="e9c47-489">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="e9c47-489">**Release date**</span></span>|<span data-ttu-id="e9c47-490">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="e9c47-490">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="9087b-491">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="9087b-491">**Release upgrading from**</span></span>|<span data-ttu-id="9087b-492">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="9087b-492">**Release date**</span></span>|<span data-ttu-id="9087b-493">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="9087b-493">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="e9c47-491">バージョン 1909 (ビルド 12026.20334)</span><span class="sxs-lookup"><span data-stu-id="e9c47-491">Version 1909 (Build 12026.20334)</span></span> <br/> |<span data-ttu-id="e9c47-492">2019 年 10 月 14 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-492">October 14, 2019</span></span> <br/> |<span data-ttu-id="e9c47-493">58</span><span class="sxs-lookup"><span data-stu-id="e9c47-493">58</span></span><br/> |
-|<span data-ttu-id="e9c47-494">バージョン 1909 (ビルド 12026.20320)</span><span class="sxs-lookup"><span data-stu-id="e9c47-494">Version 1909 (Build 12026.20320)</span></span> <br/> |<span data-ttu-id="e9c47-495">2019 年 10 月 8 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-495">October 8, 2019</span></span> <br/> |<span data-ttu-id="e9c47-496">58</span><span class="sxs-lookup"><span data-stu-id="e9c47-496">58</span></span><br/> |
+|<span data-ttu-id="9087b-494">バージョン 1909 (ビルド 12026.20334)</span><span class="sxs-lookup"><span data-stu-id="9087b-494">Version 1909 (Build 12026.20334)</span></span> <br/> |<span data-ttu-id="9087b-495">2019 年 10 月 14 日</span><span class="sxs-lookup"><span data-stu-id="9087b-495">October 14, 2019</span></span> <br/> |<span data-ttu-id="9087b-496">58</span><span class="sxs-lookup"><span data-stu-id="9087b-496">58</span></span><br/> |
+|<span data-ttu-id="9087b-497">バージョン 1909 (ビルド 12026.20320)</span><span class="sxs-lookup"><span data-stu-id="9087b-497">Version 1909 (Build 12026.20320)</span></span> <br/> |<span data-ttu-id="9087b-498">2019 年 10 月 8 日</span><span class="sxs-lookup"><span data-stu-id="9087b-498">October 8, 2019</span></span> <br/> |<span data-ttu-id="9087b-499">58</span><span class="sxs-lookup"><span data-stu-id="9087b-499">58</span></span><br/> |
 
 [//]: # (コンテンツを削除しないでください。終了 2019 年 10 月 22 日)
 
-## <a name="october-14-2019"></a><span data-ttu-id="e9c47-498">2019 年 10 月 14 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-498">October 14, 2019</span></span>
+## <a name="october-14-2019"></a><span data-ttu-id="9087b-501">2019 年 10 月 14 日</span><span class="sxs-lookup"><span data-stu-id="9087b-501">October 14, 2019</span></span>
 
 [//]: # (コンテンツを削除しないでください。開始 2019 年 10月 14 日)
 
-### <a name="monthly-channel"></a><span data-ttu-id="e9c47-500">毎月のチャネル</span><span class="sxs-lookup"><span data-stu-id="e9c47-500">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="9087b-503">毎月のチャネル</span><span class="sxs-lookup"><span data-stu-id="9087b-503">Monthly Channel</span></span>
 
-<span data-ttu-id="e9c47-501">最新のリリースはバージョン 1909 (ビルド 12026.20334) です。</span><span class="sxs-lookup"><span data-stu-id="e9c47-501">The most current release is Version 1909 (Build 12026.20334).</span></span>
+<span data-ttu-id="9087b-504">最新のリリースはバージョン 1909 (ビルド 12026.20334) です。</span><span class="sxs-lookup"><span data-stu-id="9087b-504">The most current release is Version 1909 (Build 12026.20334).</span></span>
 
-|<span data-ttu-id="e9c47-502">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="e9c47-502">**Release upgrading from**</span></span>|<span data-ttu-id="e9c47-503">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="e9c47-503">**Release date**</span></span>|<span data-ttu-id="e9c47-504">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="e9c47-504">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="9087b-505">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="9087b-505">**Release upgrading from**</span></span>|<span data-ttu-id="9087b-506">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="9087b-506">**Release date**</span></span>|<span data-ttu-id="9087b-507">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="9087b-507">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="e9c47-505">バージョン 1909 (ビルド 12026.20320)</span><span class="sxs-lookup"><span data-stu-id="e9c47-505">Version 1909 (Build 12026.20320)</span></span> <br/> |<span data-ttu-id="e9c47-506">2019 年 10 月 8 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-506">October 8, 2019</span></span> <br/> |<span data-ttu-id="e9c47-507">57</span><span class="sxs-lookup"><span data-stu-id="e9c47-507">57</span></span><br/> |
-|<span data-ttu-id="e9c47-508">バージョン 1909 (ビルド 12026.20264)</span><span class="sxs-lookup"><span data-stu-id="e9c47-508">Version 1909 (Build 12026.20264)</span></span> <br/> |<span data-ttu-id="e9c47-509">2019 年 9 月 30 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-509">September 30, 2019</span></span> <br/> |<span data-ttu-id="e9c47-510">67</span><span class="sxs-lookup"><span data-stu-id="e9c47-510">67</span></span><br/> |
+|<span data-ttu-id="9087b-508">バージョン 1909 (ビルド 12026.20320)</span><span class="sxs-lookup"><span data-stu-id="9087b-508">Version 1909 (Build 12026.20320)</span></span> <br/> |<span data-ttu-id="9087b-509">2019 年 10 月 8 日</span><span class="sxs-lookup"><span data-stu-id="9087b-509">October 8, 2019</span></span> <br/> |<span data-ttu-id="9087b-510">57</span><span class="sxs-lookup"><span data-stu-id="9087b-510">57</span></span><br/> |
+|<span data-ttu-id="9087b-511">バージョン 1909 (ビルド 12026.20264)</span><span class="sxs-lookup"><span data-stu-id="9087b-511">Version 1909 (Build 12026.20264)</span></span> <br/> |<span data-ttu-id="9087b-512">2019 年 9 月 30 日</span><span class="sxs-lookup"><span data-stu-id="9087b-512">September 30, 2019</span></span> <br/> |<span data-ttu-id="9087b-513">67</span><span class="sxs-lookup"><span data-stu-id="9087b-513">67</span></span><br/> |
 
 
-### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="e9c47-511">半期チャネル (対象指定)</span><span class="sxs-lookup"><span data-stu-id="e9c47-511">Semi-Annual (Targeted) Channel</span></span>
+### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="9087b-514">半期チャネル (対象指定)</span><span class="sxs-lookup"><span data-stu-id="9087b-514">Semi-Annual (Targeted) Channel</span></span>
 
-<span data-ttu-id="e9c47-512">最新のリリースはバージョン 1908 (ビルド 11929.20396) です。</span><span class="sxs-lookup"><span data-stu-id="e9c47-512">The most current release is Version 1908 (Build 11929.20396).</span></span>
+<span data-ttu-id="9087b-515">最新のリリースはバージョン 1908 (ビルド 11929.20396) です。</span><span class="sxs-lookup"><span data-stu-id="9087b-515">The most current release is Version 1908 (Build 11929.20396).</span></span>
 
-|<span data-ttu-id="e9c47-513">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="e9c47-513">**Release upgrading from**</span></span>|<span data-ttu-id="e9c47-514">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="e9c47-514">**Release date**</span></span>|<span data-ttu-id="e9c47-515">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="e9c47-515">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="9087b-516">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="9087b-516">**Release upgrading from**</span></span>|<span data-ttu-id="9087b-517">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="9087b-517">**Release date**</span></span>|<span data-ttu-id="9087b-518">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="9087b-518">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="e9c47-516">バージョン 1908 (ビルド 11929.20388)</span><span class="sxs-lookup"><span data-stu-id="e9c47-516">Version 1908 (Build 11929.20388)</span></span> <br/> |<span data-ttu-id="e9c47-517">2019 年 10 月 8 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-517">October 8, 2019</span></span> <br/> |<span data-ttu-id="e9c47-518">59</span><span class="sxs-lookup"><span data-stu-id="e9c47-518">59</span></span><br/> |
-|<span data-ttu-id="e9c47-519">バージョン 1908 (ビルド 11929.20300)</span><span class="sxs-lookup"><span data-stu-id="e9c47-519">Version 1908 (Build 11929.20300)</span></span> <br/> |<span data-ttu-id="e9c47-520">2019 年 9 月 10 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-520">September 10, 2019</span></span> <br/> |<span data-ttu-id="e9c47-521">71</span><span class="sxs-lookup"><span data-stu-id="e9c47-521">71</span></span><br/> |
+|<span data-ttu-id="9087b-519">バージョン 1908 (ビルド 11929.20388)</span><span class="sxs-lookup"><span data-stu-id="9087b-519">Version 1908 (Build 11929.20388)</span></span> <br/> |<span data-ttu-id="9087b-520">2019 年 10 月 8 日</span><span class="sxs-lookup"><span data-stu-id="9087b-520">October 8, 2019</span></span> <br/> |<span data-ttu-id="9087b-521">59</span><span class="sxs-lookup"><span data-stu-id="9087b-521">59</span></span><br/> |
+|<span data-ttu-id="9087b-522">バージョン 1908 (ビルド 11929.20300)</span><span class="sxs-lookup"><span data-stu-id="9087b-522">Version 1908 (Build 11929.20300)</span></span> <br/> |<span data-ttu-id="9087b-523">2019 年 9 月 10 日</span><span class="sxs-lookup"><span data-stu-id="9087b-523">September 10, 2019</span></span> <br/> |<span data-ttu-id="9087b-524">71</span><span class="sxs-lookup"><span data-stu-id="9087b-524">71</span></span><br/> |
 
 
 [//]: # (コンテンツを削除しないでください。終了 2019 年 10 月 14 日)
 
-## <a name="october-8-2019"></a><span data-ttu-id="e9c47-523">2019 年 10 月 8 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-523">October 8, 2019</span></span>
+## <a name="october-8-2019"></a><span data-ttu-id="9087b-526">2019 年 10 月 8 日</span><span class="sxs-lookup"><span data-stu-id="9087b-526">October 8, 2019</span></span>
 
-### <a name="monthly-channel"></a><span data-ttu-id="e9c47-524">月次チャネル</span><span class="sxs-lookup"><span data-stu-id="e9c47-524">Monthly Channel</span></span>
+### <a name="monthly-channel"></a><span data-ttu-id="9087b-527">月次チャネル</span><span class="sxs-lookup"><span data-stu-id="9087b-527">Monthly Channel</span></span>
 
-<span data-ttu-id="e9c47-525">最新のリリースはバージョン 1909 (ビルド 12026.20320) です。</span><span class="sxs-lookup"><span data-stu-id="e9c47-525">The most current release is Version 1909 (Build 12026.20320).</span></span>
+<span data-ttu-id="9087b-528">最新のリリースはバージョン 1909 (ビルド 12026.20320) です。</span><span class="sxs-lookup"><span data-stu-id="9087b-528">The most current release is Version 1909 (Build 12026.20320).</span></span>
 
-|<span data-ttu-id="e9c47-526">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="e9c47-526">**Release upgrading from**</span></span>|<span data-ttu-id="e9c47-527">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="e9c47-527">**Release date**</span></span>|<span data-ttu-id="e9c47-528">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="e9c47-528">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="9087b-529">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="9087b-529">**Release upgrading from**</span></span>|<span data-ttu-id="9087b-530">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="9087b-530">**Release date**</span></span>|<span data-ttu-id="9087b-531">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="9087b-531">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="e9c47-529">バージョン 1909 (ビルド 12026.20264)</span><span class="sxs-lookup"><span data-stu-id="e9c47-529">Version 1909 (Build 12026.20264)</span></span> <br/> |<span data-ttu-id="e9c47-530">2019 年 9 月 30 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-530">September 30, 2019</span></span> <br/> |<span data-ttu-id="e9c47-531">66</span><span class="sxs-lookup"><span data-stu-id="e9c47-531">66</span></span><br/> |
-|<span data-ttu-id="e9c47-532">バージョン 1908 (ビルド 11929.20300)</span><span class="sxs-lookup"><span data-stu-id="e9c47-532">Version 1908 (Build 11929.20300)</span></span> <br/> |<span data-ttu-id="e9c47-533">2019 年 9 月 10 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-533">September 10, 2019</span></span> <br/> |<span data-ttu-id="e9c47-534">148</span><span class="sxs-lookup"><span data-stu-id="e9c47-534">148</span></span><br/> |
+|<span data-ttu-id="9087b-532">バージョン 1909 (ビルド 12026.20264)</span><span class="sxs-lookup"><span data-stu-id="9087b-532">Version 1909 (Build 12026.20264)</span></span> <br/> |<span data-ttu-id="9087b-533">2019 年 9 月 30 日</span><span class="sxs-lookup"><span data-stu-id="9087b-533">September 30, 2019</span></span> <br/> |<span data-ttu-id="9087b-534">66</span><span class="sxs-lookup"><span data-stu-id="9087b-534">66</span></span><br/> |
+|<span data-ttu-id="9087b-535">バージョン 1908 (ビルド 11929.20300)</span><span class="sxs-lookup"><span data-stu-id="9087b-535">Version 1908 (Build 11929.20300)</span></span> <br/> |<span data-ttu-id="9087b-536">2019 年 9 月 10 日</span><span class="sxs-lookup"><span data-stu-id="9087b-536">September 10, 2019</span></span> <br/> |<span data-ttu-id="9087b-537">148</span><span class="sxs-lookup"><span data-stu-id="9087b-537">148</span></span><br/> |
 
-### <a name="semi-annual-channel"></a><span data-ttu-id="e9c47-535">半期チャネル</span><span class="sxs-lookup"><span data-stu-id="e9c47-535">Semi-Annual Channel</span></span>
+### <a name="semi-annual-channel"></a><span data-ttu-id="9087b-538">半期チャネル</span><span class="sxs-lookup"><span data-stu-id="9087b-538">Semi-Annual Channel</span></span>
 
-<span data-ttu-id="e9c47-536">最新のリリースはバージョン 1902 (ビルド 11328.20438) です。</span><span class="sxs-lookup"><span data-stu-id="e9c47-536">The most current release is Version 1902 (Build 11328.20438).</span></span>
+<span data-ttu-id="9087b-539">最新のリリースはバージョン 1902 (ビルド 11328.20438) です。</span><span class="sxs-lookup"><span data-stu-id="9087b-539">The most current release is Version 1902 (Build 11328.20438).</span></span>
 
-|<span data-ttu-id="e9c47-537">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="e9c47-537">**Release upgrading from**</span></span>|<span data-ttu-id="e9c47-538">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="e9c47-538">**Release date**</span></span>|<span data-ttu-id="e9c47-539">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="e9c47-539">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="9087b-540">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="9087b-540">**Release upgrading from**</span></span>|<span data-ttu-id="9087b-541">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="9087b-541">**Release date**</span></span>|<span data-ttu-id="9087b-542">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="9087b-542">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="e9c47-540">バージョン 1902 (ビルド 11328.20420)</span><span class="sxs-lookup"><span data-stu-id="e9c47-540">Version 1902 (Build 11328.20420)</span></span> <br/> |<span data-ttu-id="e9c47-541">2019 年 9 月 10 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-541">September 10, 2019</span></span> <br/> |<span data-ttu-id="e9c47-542">65</span><span class="sxs-lookup"><span data-stu-id="e9c47-542">65</span></span><br/> |
-|<span data-ttu-id="e9c47-543">バージョン 1902 (ビルド 11328.20392)</span><span class="sxs-lookup"><span data-stu-id="e9c47-543">Version 1902 (Build 11328.20392)</span></span> <br/> |<span data-ttu-id="e9c47-544">2019 年 8 月 13 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-544">August 13, 2019</span></span> <br/> |<span data-ttu-id="e9c47-545">66</span><span class="sxs-lookup"><span data-stu-id="e9c47-545">66</span></span><br/> |
+|<span data-ttu-id="9087b-543">バージョン 1902 (ビルド 11328.20420)</span><span class="sxs-lookup"><span data-stu-id="9087b-543">Version 1902 (Build 11328.20420)</span></span> <br/> |<span data-ttu-id="9087b-544">2019 年 9 月 10 日</span><span class="sxs-lookup"><span data-stu-id="9087b-544">September 10, 2019</span></span> <br/> |<span data-ttu-id="9087b-545">65</span><span class="sxs-lookup"><span data-stu-id="9087b-545">65</span></span><br/> |
+|<span data-ttu-id="9087b-546">バージョン 1902 (ビルド 11328.20392)</span><span class="sxs-lookup"><span data-stu-id="9087b-546">Version 1902 (Build 11328.20392)</span></span> <br/> |<span data-ttu-id="9087b-547">2019 年 8 月 13 日</span><span class="sxs-lookup"><span data-stu-id="9087b-547">August 13, 2019</span></span> <br/> |<span data-ttu-id="9087b-548">66</span><span class="sxs-lookup"><span data-stu-id="9087b-548">66</span></span><br/> |
 
 [//]: # (コンテンツを削除しないでください。開始 2019 年 10月 8 日)
 
-### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="e9c47-547">半期 (対象指定) チャネル</span><span class="sxs-lookup"><span data-stu-id="e9c47-547">Semi-Annual (Targeted) Channel</span></span>
+### <a name="semi-annual-targeted-channel"></a><span data-ttu-id="9087b-550">半期 (対象指定) チャネル</span><span class="sxs-lookup"><span data-stu-id="9087b-550">Semi-Annual (Targeted) Channel</span></span>
 
-<span data-ttu-id="e9c47-548">最新のリリースはバージョン 1908 (ビルド 11929.20388) です。</span><span class="sxs-lookup"><span data-stu-id="e9c47-548">The most current release is Version 1908 (Build 11929.20388).</span></span>
+<span data-ttu-id="9087b-551">最新のリリースはバージョン 1908 (ビルド 11929.20388) です。</span><span class="sxs-lookup"><span data-stu-id="9087b-551">The most current release is Version 1908 (Build 11929.20388).</span></span>
 
-|<span data-ttu-id="e9c47-549">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="e9c47-549">**Release upgrading from**</span></span>|<span data-ttu-id="e9c47-550">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="e9c47-550">**Release date**</span></span>|<span data-ttu-id="e9c47-551">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="e9c47-551">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="9087b-552">\*\*アップグレード前のリリース \*\*</span><span class="sxs-lookup"><span data-stu-id="9087b-552">**Release upgrading from**</span></span>|<span data-ttu-id="9087b-553">**リリース日**</span><span class="sxs-lookup"><span data-stu-id="9087b-553">**Release date**</span></span>|<span data-ttu-id="9087b-554">**ダウンロード サイズの概算 (MB)**</span><span class="sxs-lookup"><span data-stu-id="9087b-554">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="e9c47-552">バージョン 1908 (ビルド 11929.20300)</span><span class="sxs-lookup"><span data-stu-id="e9c47-552">Version 1908 (Build 11929.20300)</span></span> <br/> |<span data-ttu-id="e9c47-553">2019 年 9 月 10 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-553">September 10, 2019</span></span> <br/> |<span data-ttu-id="e9c47-554">69</span><span class="sxs-lookup"><span data-stu-id="e9c47-554">69</span></span><br/> |
-|<span data-ttu-id="e9c47-555">バージョン 1902 (ビルド 11328.20392)</span><span class="sxs-lookup"><span data-stu-id="e9c47-555">Version 1902 (Build 11328.20392)</span></span> <br/> |<span data-ttu-id="e9c47-556">2019 年 8 月 13 日</span><span class="sxs-lookup"><span data-stu-id="e9c47-556">August 13, 2019</span></span> <br/> |<span data-ttu-id="e9c47-557">340</span><span class="sxs-lookup"><span data-stu-id="e9c47-557">340</span></span><br/> |
+|<span data-ttu-id="9087b-555">バージョン 1908 (ビルド 11929.20300)</span><span class="sxs-lookup"><span data-stu-id="9087b-555">Version 1908 (Build 11929.20300)</span></span> <br/> |<span data-ttu-id="9087b-556">2019 年 9 月 10 日</span><span class="sxs-lookup"><span data-stu-id="9087b-556">September 10, 2019</span></span> <br/> |<span data-ttu-id="9087b-557">69</span><span class="sxs-lookup"><span data-stu-id="9087b-557">69</span></span><br/> |
+|<span data-ttu-id="9087b-558">バージョン 1902 (ビルド 11328.20392)</span><span class="sxs-lookup"><span data-stu-id="9087b-558">Version 1902 (Build 11328.20392)</span></span> <br/> |<span data-ttu-id="9087b-559">2019 年 8 月 13 日</span><span class="sxs-lookup"><span data-stu-id="9087b-559">August 13, 2019</span></span> <br/> |<span data-ttu-id="9087b-560">340</span><span class="sxs-lookup"><span data-stu-id="9087b-560">340</span></span><br/> |
 
 
 [//]: # (コンテンツを削除しないでください。終了 2019 年 10 月 8 日)
 
 
-## <a name="related-topics"></a><span data-ttu-id="e9c47-559">関連項目</span><span class="sxs-lookup"><span data-stu-id="e9c47-559">Related topics</span></span>
+## <a name="related-topics"></a><span data-ttu-id="9087b-562">関連項目</span><span class="sxs-lookup"><span data-stu-id="9087b-562">Related topics</span></span>
 
-- [<span data-ttu-id="e9c47-560">Office 365 ProPlus 更新プログラムのチャネルの概要</span><span class="sxs-lookup"><span data-stu-id="e9c47-560">Overview of update channels for Office 365 ProPlus</span></span>](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [<span data-ttu-id="9087b-563">Office 365 ProPlus 更新プログラムのチャネルの概要</span><span class="sxs-lookup"><span data-stu-id="9087b-563">Overview of update channels for Office 365 ProPlus</span></span>](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 
-- [<span data-ttu-id="e9c47-561">Office 365 ProPlus の更新履歴 (日付別の一覧)</span><span class="sxs-lookup"><span data-stu-id="e9c47-561">Update history for Office 365 ProPlus (listed by date)</span></span>](update-history-office365-proplus-by-date.md)
+- [<span data-ttu-id="9087b-564">Office 365 ProPlus の更新履歴 (日付別の一覧)</span><span class="sxs-lookup"><span data-stu-id="9087b-564">Update history for Office 365 ProPlus (listed by date)</span></span>](update-history-office365-proplus-by-date.md)
 
 > [!NOTE]
-> <span data-ttu-id="e9c47-562">Office の使用で問題がある場合は、[Microsoft の回答フォーラム](https://answers.microsoft.com/)に関するページまたは「[Microsoft Tech Community](https://techcommunity.microsoft.com/)」に質問を投稿するか、[サポート](https://support.microsoft.com/contactus)に問い合わせてサポートを受けることができます。</span><span class="sxs-lookup"><span data-stu-id="e9c47-562">If you need help with an issue with using Office, we recommend that you post your question on [Microsoft's Answers forum](https://answers.microsoft.com/) or [Tech Community](https://techcommunity.microsoft.com/), or you can contact [support](https://support.microsoft.com/contactus).</span></span>
+> <span data-ttu-id="9087b-565">Office の使用で問題がある場合は、[Microsoft の回答フォーラム](https://answers.microsoft.com/)に関するページまたは「[Microsoft Tech Community](https://techcommunity.microsoft.com/)」に質問を投稿するか、[サポート](https://support.microsoft.com/contactus)に問い合わせてサポートを受けることができます。</span><span class="sxs-lookup"><span data-stu-id="9087b-565">If you need help with an issue with using Office, we recommend that you post your question on [Microsoft's Answers forum](https://answers.microsoft.com/) or [Tech Community](https://techcommunity.microsoft.com/), or you can contact [support](https://support.microsoft.com/contactus).</span></span>
