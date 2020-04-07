@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2020 年の半期チャネル (対象指定) リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: ee3fac9129ce3c5819340c2a51a6fe33e4965166
-ms.sourcegitcommit: 6f8ebfd45430efe3eb3bf43823202cbdd974f5ed
+ms.openlocfilehash: 85a1bba4afd5478275a1330cd4ad59f67ee6f99b
+ms.sourcegitcommit: cebd1b7ebdaa9ee8c7fcd4b23c84b6fe931f08d2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43081799"
+ms.lasthandoff: 04/07/2020
+ms.locfileid: "43159839"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2020"></a>2020 年の半期チャネル (対象指定) リリースのリリース ノート
 
@@ -43,7 +43,6 @@ ms.locfileid: "43081799"
 
 - **探しているものを見つける:** コマンド、ユーザー、ファイル、写真、Web の記事などを検索できます。 [詳細情報](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
 
-- **自分の気分を表現するアイコンの追加:** 300 個以上の新しいアイコンが追加されました。 [挿入]、[アイコン] の順に検索してください。 [詳細情報](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
 - **あらましを描く:** ブック内の Office の図形をカジュアルな手描き風にします。 [詳細情報](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
 
@@ -79,8 +78,6 @@ ms.locfileid: "43081799"
 
 - **スペルチェックの問題や入力ミスで検索する:** スペルが一致しない場合でも何を検索しているか Outlook が探します。
 
-- **自分の気分を表現するアイコンの追加:** 300 個以上の新しいアイコンが追加されました。 [挿入]、[アイコン] の順に検索してください。 [詳細情報](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
-
 - **フィッシング メールの見分けが簡単に:** スパムとフィッシングのメッセージの外観が他とは異なるので、簡単に見分け、受信トレイから削除できます。
 
 - **攻撃に対する高度な保護:** Office 365 Advanced Threat Protection を用いると、メールの件名、添付メッセージ、署名されたメッセージ、ネットワーク パスなどの範囲内のハイパーリンクを利用した攻撃から保護されます。
@@ -103,7 +100,6 @@ ms.locfileid: "43081799"
 
 - **新しい文書校正ツール:** 記述する内容についてストレスを感じる必要はありません。 PowerPoint で、文法や書き方の推奨事項が提示されるようになりました。 [詳細情報](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
 
-- **印刷された配布資料のスライド番号を参照してください:** スライド番号を配布資料の印刷コピーに追加します。
 
 - **ライブ キャプションと字幕:** 発表者の言葉が、キャプションまたは選択した言語での字幕として自動的に画面に表示されます。 [詳細情報](https://support.office.com/article/68d20e49-aec3-456a-939d-34a79e8ddd5f)
 
@@ -111,7 +107,6 @@ ms.locfileid: "43081799"
 
 - **探しているものを見つける:**[検索] ボックスを使用して、テキスト、コマンド、ヘルプなどを探します。 [詳細情報](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
 
-- **自分の気分を表現するアイコンの追加:** 300 個以上の新しいアイコンが追加されました。 [挿入]、[アイコン] の順に検索してください。 [詳細情報](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
 - **欠落しているスライド タイトルを見つけて修正する:** スライド タイトルは、ピッチにパンチを加え、すべてのユーザーがスライドにアクセスできるようにします。 アクセシビリティ ​​チェックは、タイトルがない場所を表示します。これにより、タイトルを簡単に追加できます。 [詳細情報](https://support.office.com/article/c5286802-495a-4b47-a8ae-212fb8a7dc74)
 
@@ -148,8 +143,6 @@ ms.locfileid: "43081799"
 - **Excel で洗練された Visio 図を作成する:** ワークシートにデータを入力して、フロー チャートまたは組織図を作成します。 [詳細情報](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 ### <a name="word"></a>Word
-
-- **Microsoft 数式エディター コンバーター:** コンバーターにより、ユーザーは Microsoft 数式エディターを使用して作成された数式を、Office Math ML 形式に変換して、編集できるようにすることができます。
 
 - **Editor for Resume が LinkedIn 履歴書アシスタントに参加する:** Editor for Resume では履歴書に特化した文法とスタイルのチェックを選択できます。この機能は、より正確かつ専門的に作成するの役立ちます。
 
