@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2020 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: c976d6efb890e2a9245eb2d1730a8df520e733c5
-ms.sourcegitcommit: a406af1a6bfdd36158fe427159cf27c2c1dad902
+ms.openlocfilehash: 1ad39564413906ae45b977b57c7336f19b15e1f9
+ms.sourcegitcommit: 6f8ebfd45430efe3eb3bf43823202cbdd974f5ed
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43030924"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43081785"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>2020 年の毎月のチャネル リリースのリリース ノート
 
@@ -24,6 +24,28 @@ ms.locfileid: "43030924"
 >
 >- Microsoft では多くの場合、一定期間にわたって毎月、機能 (および場合によっては修正プログラム) を展開します。  ここで説明した内容がすぐに表示されない場合は、間もなく利用できるようになります。 [詳細情報](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- Microsoft Teams の Office 365 ProPlus の既存のインストールについて: 7月の上旬から、Office 365 ProPlus (および Office 365 Business) の更新に Microsoft Teams が含まれます。  Teams が追加される日付は、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/deployoffice/teams-install)」を参照してください。
+
+## <a name="version-2003-march-31"></a>バージョン 2003: 3 月 31 日
+*バージョン 2003 (ビルド 12624.20382)*
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="onenote"></a>OneNote
+
+- ごみ箱へのページの移動を一時的に無効にすることにより、同期とサーバーの安定性が改善されました。 代わりに、ページを削除するユーザーにはページを完全に削除するかどうかを確認するダイアログが表示されます。
+
+- 全世界でサービス使用量が高まった際に、同期とサービスの可用性を改善できる、Microsoft OneNote の一時的な調整に関して、情報バーを介してユーザーに通知します。
+
+- ページのバージョン履歴を作成する頻度を一時的に変更することで、同期およびサービスの安定性が改善されます。
+
+### <a name="project"></a>Project
+
+- 実績作業時間の保護設定を有効にしているときに、ユーザーがタイムフェーズの基準作業時間を入力できない問題が修正されました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2003-march-25"></a>バージョン 2003: 3 月 25 日
 *バージョン 2003 (ビルド 12624.20320)*
@@ -61,11 +83,17 @@ ms.locfileid: "43030924"
 
 - テンプレートからグラフを作成するときに発生するパフォーマンスの問題に対処しました。
 
+### <a name="onenote"></a>OneNote
+
+- 新しい埋め込み添付ファイルの最大許容サイズを一時的に 50 MB に削減することにより、同期とサービスの安定性が改善されました。 この制限を超えるファイルの場合、ユーザーは OneDrive にファイルをアップロードして、OneNote にリンクを挿入することができます。
+
+- OneNote 2016 でアプリ内動画のレコーディングを一時的に無効にすることで、同期およびサービスの安定性が改善されました。 ローカルのノートブックはこの影響を受けません。
+
+- OneNote 2016 で同期頻度を一時的に調整することで、同期およびサービスの安定性が改善されました。
 
 ### <a name="outlook"></a>Outlook
 
 - 終了後にタスク マネージャーに Outlook プロセスが残っているという問題に対処しました。
-
 
 ### <a name="powerpoint"></a>PowerPoint
 

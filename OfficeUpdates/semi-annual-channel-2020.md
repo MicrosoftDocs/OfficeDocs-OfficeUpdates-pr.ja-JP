@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2020 年の半期チャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: bfee11b418a3f35fb7ba2d293bbab60b4c42e240
-ms.sourcegitcommit: 251e261d62e807532414ad33904ddb58813867eb
+ms.openlocfilehash: ebcf5fde37793b290e5c8fff1e33462a207c3a55
+ms.sourcegitcommit: 937711535d3b08b7d04ef8a8a6cffe038968ce5f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43024529"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43076276"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>2020 年の半期チャネル リリースのリリース ノート
 
@@ -200,6 +200,8 @@ ms.locfileid: "43024529"
 
 - **Power Query の機能強化を使用して素早くコーディングする:** オートコンプリートと構文の色分けを使用して、素早くコーディングを完了できます。 関数、列、パラメーターも簡単に見つけることができます。
 
+- **検索して楽しむ:** 目的のアイコンが簡単に見つかるように、アイコンを挿入するための検索が追加されました。 選択しているときに、[挿入] ボタンではユーザーによって選択された数をお知らせします。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
 ### <a name="outlook"></a>Outlook
 
 - ** Outlook のユーザー エクスペリエンスを更新しました：** これまで Coming Soon でプレビューできていた、最も重要なことに集中できるようにするためのシンプルな操作性です。 [詳細情報](https://support.office.com/article/db503157-1b45-45d5-af52-e9c978cd8bed)
@@ -218,6 +220,8 @@ ms.locfileid: "43024529"
 
 - **同期制限にさよならしましょう:** Outlook の改善によりフォルダーの制限が解消され、そのまま共有メールボックスが同期されます。
 
+- **検索して楽しむ:** 目的のアイコンが簡単に見つかるように、アイコンを挿入するための検索が追加されました。 選択しているときに、[挿入] ボタンではユーザーによって選択された数をお知らせします。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
 ### <a name="powerpoint"></a>PowerPoint
 
 - **よりよい変形操作:** 図形に名前を付けると、変形するときにより細かく制御できます。 [詳細情報](https://support.office.com/article/bc7f48ff-f152-4ee8-9081-d3121788024f)
@@ -235,6 +239,8 @@ ms.locfileid: "43024529"
 - **ユーザーへのテストやアンケート:** テストやアンケートをスライドに配置します。Office で応答が自動的に収集され、保存されます。[詳細情報](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
 
 - **これまで以上に簡単にオンライン ビデオを挿入できるようになりました:** Vimeo または YouTube からビデオをスライドに挿入する場合は、 ビデオ ページへのリンクがあれば簡単に行えます。 [詳細情報](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+
+- **検索して楽しむ:** 目的のアイコンが簡単に見つかるように、アイコンを挿入するための検索が追加されました。 選択しているときに、[挿入] ボタンではユーザーによって選択された数をお知らせします。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="project"></a>Project
 
@@ -275,6 +281,8 @@ ms.locfileid: "43024529"
 - **変更時に変更内容を保存する:** すべての更新が自動的に保存されるように、ファイルを OneDrive にアップロードしましょう。
 
 - **\@メンションを使用してユーザーの注意を引く:** コメントで @メンションを使うと、仕事仲間による入力が必要な場合にそのユーザーに知らせることができます。 [詳細情報](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+
+- **検索して楽しむ:** 目的のアイコンが簡単に見つかるように、アイコンを挿入するための検索が追加されました。 選択しているときに、[挿入] ボタンではユーザーによって選択された数をお知らせします。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="office-suite"></a>Office スイート
 
