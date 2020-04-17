@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: IT プロフェッショナルに、Office 展開ツール (ODT) のリリース履歴を提供します
-ms.openlocfilehash: fb59993362c4c186518f8472cb0330fa1b1e8d58
-ms.sourcegitcommit: f042b25b15960fc4911a7e7d8500dcfd992ee95c
+ms.openlocfilehash: b9cb0e347e785f14c1dd23ae9cfbcaa327ce4873
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41230065"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521215"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Office 展開ツールのリリース履歴
 
@@ -29,6 +29,13 @@ ODT により、Office インストール環境をより詳細に制御できる
 
 [Office 展開ツールのダウンロード](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
 
+
+## <a name="april-15-2020"></a>2020 年 4 月 15 日
+
+バージョン 16.0.12624.20320 (バージョン 16.0.12624.20290)
+- Windows 7 固有のサポート終了 Office バージョンを追加する
+- カスタマイズ設定が期待どおりに適用されない場合がある問題を修正します
+- 不要な .cat ファイルが予期せずダウンロードされることがある問題を修正します
 
 ## <a name="january-16-2020"></a>2020年 1 月 16 日
 

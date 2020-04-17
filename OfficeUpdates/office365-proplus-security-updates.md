@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus セキュリティ更新プログラムのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 6233ae7f80c5a139b2f8de169f1293b1c05a19ad
-ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
+ms.openlocfilehash: 8eab85b14ca0d034d83db85db7a30e4072eed845
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43046092"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521283"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Office 365 ProPlus セキュリティ更新プログラムのリリース ノート
 
@@ -33,6 +33,35 @@ ms.locfileid: "43046092"
 > - ここに記載されている情報は、Business Premium など一部の Office 365 プランに付属する Office のバージョンの、Office 365 Business にも該当します。  
 
 [//]: # (上の行は間隔を空けるために使用されているので、削除しないでください。)  
+
+## <a name="april-14-2020"></a>2020 年 4 月 14 日
+月次チャネル: バージョン 2003 (ビルド 12624.20442)  
+半期チャネル (対象指定): バージョン 2002 (ビルド 12527.20442)  
+半期チャネル: バージョン 1908 (ビルド 11929.20708)  
+半期チャネル: バージョン 1902 (ビルド 11328.20564)  
+Windows 7 上の Office 365 ProPlus: バージョン 2002 (ビルド 12527.20442)  
+
+[//]: # (セキュリティの詳細コンテンツを削除しないでください。開始)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-0906](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0906)
+-   [CVE-2020-0979](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0979)
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-0980](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0980)
+
+### <a name="office-suite"></a>Office スイート
+
+-   [CVE-2020-0760](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0760)
+-   [CVE-2020-0991](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0991)
+-   [CVE-2020-0961](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0961)
+
+[//]: # (セキュリティの詳細コンテンツを削除しないでください。終了)
+
+
 
 ## <a name="march-10-2020"></a>2020 年 3 月 10 日
 月次チャネル: バージョン 2002 (ビルド 12527.20278)  
