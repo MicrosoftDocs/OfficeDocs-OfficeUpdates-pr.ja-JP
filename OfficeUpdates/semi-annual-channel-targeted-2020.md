@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2020 年の半期チャネル (対象指定) リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 85a1bba4afd5478275a1330cd4ad59f67ee6f99b
-ms.sourcegitcommit: cebd1b7ebdaa9ee8c7fcd4b23c84b6fe931f08d2
+ms.openlocfilehash: b6ead1e881f7cc860e65285efbc2a0326839bba0
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43159839"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521375"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2020"></a>2020 年の半期チャネル (対象指定) リリースのリリース ノート
 
@@ -24,6 +24,75 @@ ms.locfileid: "43159839"
 >
 > - 多くの場合、機能 (場合によっては修正プログラムも) は、特定の期間にわたって半期チャネル (対象指定) にロールアウトされます。 ここで説明される内容がすぐに確認できなくても、間もなく利用できるようになります。 [詳細情報](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - Microsoft Teams は、バージョン 1902 以降の半期チャネル (対象指定) の新規インストールに含まれています。 Teams は、バージョン 1908以降に更新されると、半期チャネル (対象指定) の既存のインストールに追加されます。 詳細については、「[Office 365 ProPlus で Microsoft Teams を展開する](https://docs.microsoft.com/deployoffice/teams-install)」をご覧ください。
+
+## <a name="version-2002-april-14"></a>バージョン 2002: 4 月 14 日
+*バージョン 2002 (ビルド 12527.20442)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="excel"></a>Excel
+
+- 複数の値を返す式を入力する: 複数の値を返す式を素早く入力できるようになりました。隣接するセルに自動的に入力されます。 [詳細情報](https://support.microsoft.com/en-us/office/new-array-functions-003df6c7-1dcb-4388-8e2e-0fe77a0887bc?ui=en-us&rs=en-us&ad=us)
+- 6 つの強力な機能: スプレッドシートを強化する 6 つの新しい関数が追加されました。FILTER、SORT、SORTBY、UNIQUE、SEQUENCE、RANDARRAY です。  [詳細情報](https://support.microsoft.com/en-us/office/easier-array-formulas-5c2c9cbb-def8-409a-b380-2fbf91b20aa3?ui=en-us&rs=en-us&ad=us)
+- 左を見て、右を見て… XLOOKUP をご利用いただけます!: XLOOKUP を使えば、表や範囲内で必要なものは何でも見つけられます。  [詳細情報](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- Word または PowerPoint に埋め込まれたブックをもう一度開くと、場合によっては Excel がクラッシュする可能性があります。
+
+- CSV ファイルとして保存する場合、Excel はすべての列を 1 つの列にマージする場合があります。
+
+- 保護されたシートの範囲で Range.ClearContents を使用すると、予想よりも時間がかかる場合があります。
+
+- [印刷プレビュー] に表示されるときのフォーム コントロール内のテキストの拡大縮小に関する問題を修正しました。
+
+- リボンを操作する VBA マクロは、ScreenUpdating が True に設定されていると予期せず実行される場合があります。
+
+- ソース ブックが閉じていると、外部リンクが塗りつぶし(下方向に塗りつぶし、全体に塗りつぶしなど) 時に更新されない問題に対処しました。
+
+- VBA の Application.Evaluate が、ユーザー定義関数では動作しない場合がありました。
+
+- テンプレートからグラフを作成するときに発生するパフォーマンスの問題に対処しました。
+
+
+### <a name="outlook"></a>Outlook
+
+- 一部のシナリオで、グループ ヘッダーが予期せず拡張される問題に対処しました。
+
+- 特定の検索結果を選択すると、ユーザーがクラッシュする問題に対処しました。
+
+- マウスで X ボタンを使用しているときにクラッシュが生じる原因となっていた問題に対処しました。
+
+- [添付ファイル ​​ツール] に [クラウドに保存] ボタンが表示されない問題に対処しました。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- コピーと貼り付けのシナリオを改善しました。PowerPoint スライドでの図形のコピーと、ループ内の他のスライドへの貼り付けが例外で失敗する場合があります。
+
+
+### <a name="project"></a>Project
+
+- 以前のバージョンの Project で作成したプロジェクトを保存すると、Project がクラッシュする場合があるという問題を修正しました。
+
+- [無効化] ボタンを介してタスクが非アクティブ化/アクティブ化された場合に、ProjectBeforeTaskChange イベントが検出しない問題を修正しました。
+
+### <a name="word"></a>Word
+
+- マウスで X ボタンを使用しているときにクラッシュが生じる原因となっていた問題に対処しました。
+
+- 表内のテキストに合わせる問題を修正しました。
+
+- 水平線の挿入が短くなく、中央に配置されないという問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2002-march-10"></a>バージョン 2002: 3 月 10 日
 *バージョン 2002 (ビルド 12527.20278)*
@@ -177,8 +246,6 @@ ms.locfileid: "43159839"
 - **ファイルを変換してアクセシビリティを向上させる**: ファイルを最新の形式にアップグレードすると、すべてのユーザがアクセスできるようになります。
 
 - **より安全なビデオ エクスペリエンス:** セキュリティの強化は、より安全なオンライン ビデオ エクスペリエンスを意味します。 [詳細情報](https://support.office.com/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
-
-- **同時に作業しているユーザーを確認する:** 同時に作業している他のユーザー、およびそれらのユーザーが作業している [文書/スプレッドシート/プレゼンテーション] の場所を簡単に確認できます。
 
 - **図形を画像として保存する:** 簡単なクリック操作で図形、アイコン、その他のオブジェクトを画像ファイルとして保存し、別の場所で再利用することができます。 [詳細情報](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
