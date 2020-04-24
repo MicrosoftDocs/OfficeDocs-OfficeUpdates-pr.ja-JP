@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル (対象指定) リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: d535c5748afb3dba80096509e48f1f32128c1790
-ms.sourcegitcommit: 937711535d3b08b7d04ef8a8a6cffe038968ce5f
+ms.openlocfilehash: 750a20da1fc38b216957f13260bd504530b897fe
+ms.sourcegitcommit: 4df4bbfe9328d36fdf801081598aadde77af8a9c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43076293"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43796123"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年の半期チャネル (対象指定) リリースのリリース ノート
 
@@ -360,7 +360,6 @@ ms.locfileid: "43076293"
 
 - **シームレスに切り替える:** 新しいアカウント マネージャーでは、Office 365 の職場用と個人用のアカウントがすべて 1 か所に表示されます。 アカウント間の切り替えがより簡単になりました。 [詳細情報](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
-- **作業の邪魔をするものにさよならしましょう:** Mac のお気に入りの機能が Windows に登場します。 気を散らさずに作業に集中するには、[表示]メニューの[フォーカス]に切り替えます。 [詳細情報](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
 
 - **検索して楽しむ:** 目的のアイコンが簡単に見つかるように、アイコンを挿入するための検索が追加されました。 選択しているときに、[挿入] ボタンではユーザーによって選択された数をお知らせします。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
