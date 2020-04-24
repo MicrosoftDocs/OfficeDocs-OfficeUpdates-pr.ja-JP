@@ -1,5 +1,5 @@
 ---
-title: Office 365 ProPlus の更新履歴 (日付別の一覧)
+title: Microsoft 365 Apps の更新履歴 (日付別の一覧)
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
@@ -8,29 +8,24 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: IT プロフェッショナルに、日付ごとに整理した Office 365 ProPlus リリースすべての一覧を、リリース ノートへのリンクを含めて提供します
-ms.openlocfilehash: ffd28edabb121ba87836ccab21e87f83700186e6
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+description: IT 担当者に、日付ごとに整理した Microsoft 365 Apps のリリースすべての一覧を、リリース ノートへのリンクを含めて提供します
+ms.openlocfilehash: f70db1039fa7931b5f8cf80834389e03e4a095bd
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521095"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715425"
 ---
-# <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 ProPlus の更新履歴 (日付別の一覧)
+# <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 Apps の更新履歴 (日付別の一覧)
 
-Office 365 ProPlus は、新機能、セキュリティ更新プログラム、セキュリティ外の更新プログラムによって定期的に更新されます。これらの更新プログラムは[更新プログラム チャネル](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)を使用してリリースされます。各更新プログラム チャネルのリリースごとに、バージョンとビルド番号が割り当てられています。
-
+この記事に記載されているバージョンとビルド番号は、Microsoft 365 Apps for enterprise、Microsoft 365 Apps for business、および Project と Visio のデスクトップ アプリのサブスクリプション版に適用されます。
 
 > [!IMPORTANT]
-> Office 365 ProPlus は **Microsoft 365 Apps for enterprises ** に名前が変更されています。 この名前の変更の詳細については、[このブログ投稿をご覧ください](https://go.microsoft.com/fwlink/p/?linkid=2120533)。 
->
-> この変更が有効になるタイミングと、管理者が実行する必要がある操作の詳細については、[この記事をご覧ください](https://go.microsoft.com/fwlink/p/?linkid=2123420)。
-
+>バージョン 2004 以降の Office 365 ProPlus は  Microsoft 365 Apps for enterprise に名前が変更されています。詳細については、 [こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2123420)を参照してください。Microsoft のドキュメントでは通常、Microsoft 365 Apps として扱います。
 
 > [!NOTE]
-> - このバージョン番号とビルド番号は、Office 365 Business、Visio Pro for Office 365、Project Online デスクトップ クライアントにも適用されます。Office 365 Business は、Business Premium などの一部の Office 365 プランに付属する、Office のバージョンです。
 > - この表ではリリース日付順に表示され、最新リリース日が最初に示されています。
-> - 更新プログラム チャネルの詳細については、「[Office 365 ProPlus 更新プログラム チャネルの概要](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)」を参照してください。
+> - 更新プログラム チャネルの詳細については、「[Microsoft 365 Apps 用更新プログラム チャネルの概要](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)」を参照してください。
 
 次の表では、サポートされているバージョンと最新のビルド番号を更新プログラム チャネルごとに記載しています。
 
@@ -45,9 +40,9 @@ Office 365 ProPlus は、新機能、セキュリティ更新プログラム、�
 
 [//]: # (EOSTABLEEND)
 
-以前のリリースの Office 365 ProPlus から最新の現在のリリースへ更新する場合のおおよそのダウンロード サイズについて詳しくは、「[Office 365 ProPlus に対する更新プログラムのダウンロード サイズ](download-sizes-office365-proplus-updates.md)」をご覧ください。
+以前のリリースの Microsoft 365 Apps から最新の現在のリリースへ更新する場合のおおよそのダウンロード サイズについて詳しくは、「[Microsoft 365 Apps の更新プログラムのダウンロード サイズ](download-sizes-office365-proplus-updates.md)」をご覧ください。
 
-次の表に、月次、半期 (対象指定)、半期という更新プログラム チャネルでリリースされた Office 365 ProPlus の更新プログラムのバージョン番号とビルド番号の一覧を示します。この表の各項目は、対象リリースのリリース ノートに直接リンクしています。これらのリリース ノートには、Office 365 ProPlus の対象更新プログラムに含まれる機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムに関する情報が含まれます。  
+次の表は、リリースされた Microsoft 365 Apps の更新プログラムのバージョンとビルド番号を、月次チャネル、半期チャネル (対象指定)、半期チャネルの更新プログラム チャネル別に分けて示したものです。 それぞれの表の記載項目をクリックすると、該当するリリースのリリース ノートを直接参照することができます。 これらのリリース ノートには、Microsoft 365 Apps の更新プログラムに含まれている機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムに関する情報が記載されています。  
 
 [//]: # (HISTORYTABLESTART)
 
@@ -227,9 +222,9 @@ Office 365 ProPlus は、新機能、セキュリティ更新プログラム、�
 
 ## <a name="related-topics"></a>関連項目
 
-- [Office 365 ProPlus 更新プログラムのチャネルの概要](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
-- [Office 365 ProPlus の更新プログラムに関するリリース情報](release-notes-office365-proplus.md)
-- [Office 365 ProPlus の更新プログラムのダウンロード サイズ](download-sizes-office365-proplus-updates.md)
+- [Microsoft 365 Apps 用更新プログラム チャネルの概要](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Microsoft 365 Apps の更新プログラムに関するリリース情報](release-notes-office365-proplus.md)
+- [Microsoft 365 Apps の更新プログラムのダウンロード サイズ](download-sizes-office365-proplus-updates.md)
 
 > [!NOTE]
 > Office の使用で問題がある場合は、[Microsoft の回答フォーラム](https://answers.microsoft.com/)に関するページまたは「[Microsoft Tech Community](https://techcommunity.microsoft.com/)」に質問を投稿するか、[サポート](https://support.microsoft.com/contactus)に問い合わせてサポートを受けることができます。

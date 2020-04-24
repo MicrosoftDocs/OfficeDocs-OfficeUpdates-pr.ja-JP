@@ -1,5 +1,5 @@
 ---
-title: Office 365 ProPlus の更新プログラムに関するリリース情報
+title: Microsoft 365 Apps の更新プログラムに関するリリース情報
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -9,43 +9,39 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: IT プロフェッショナルに対して、最新リリースの Office 365 ProPlus の一覧をそれぞれの更新プログラム チャネルごとに、リリース ノートへのリンクと更新履歴を含めて提供します
-ms.openlocfilehash: 033ddc631a8d76f92306752fe743763cf6b18af7
-ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
+description: IT 担当者に対して、最新リリースの Microsoft 365 Apps の一覧をそれぞれの更新プログラム チャネルごとに、リリース ノートへのリンクと更新履歴を含めて提供します
+ms.openlocfilehash: d6994deeab0a144b4642577519d670fe8a3f5643
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43046122"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714537"
 ---
-# <a name="release-information-for-updates-to-office-365-proplus"></a>Office 365 ProPlus の更新プログラムに関するリリース情報
+# <a name="release-information-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps の更新プログラムに関するリリース情報
 
 
 > [!IMPORTANT]
-> Office 365 ProPlus は **Microsoft 365 Apps for enterprises ** に名前が変更されています。 この名前の変更の詳細については、[このブログ投稿をご覧ください](https://go.microsoft.com/fwlink/p/?linkid=2120533)。 
->
-> この変更が有効になるタイミングと、管理者が実行する必要がある操作の詳細については、[この記事をご覧ください](https://go.microsoft.com/fwlink/p/?linkid=2123420)。
+>バージョン 2004 以降の Office 365 ProPlus は  Microsoft 365 Apps for enterprise に名前が変更されています。詳細については、 [こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2123420)を参照してください。Microsoft のドキュメントでは通常、Microsoft 365 Apps として扱います。
 
 
-
-
-## <a name="security-updates-for-office-365-proplus-releases"></a>Office 365 ProPlus リリースのセキュリティ更新プログラム
+## <a name="security-updates-for-microsoft-365-apps-releases"></a>Microsoft 365 Apps リリースのセキュリティ更新プログラム
 
 セキュリティ更新プログラムすべての一覧については、次の記事をご覧ください:
  - [Office 365 ProPlus のセキュリティ更新プログラム](office365-proplus-security-updates.md)
 
 
-## <a name="update-history-for-office-365-proplus-releases"></a>Office 365 ProPlus リリースの更新履歴
+## <a name="update-history-for-microsoft-365-apps-releases"></a>Microsoft 365 Apps リリースの更新履歴
 
 各チャネルのリリースとサポートされるバージョンのすべての一覧については、次の記事をご覧ください:
  - [Office 365 ProPlus の更新履歴 (日付別の一覧)](update-history-office365-proplus-by-date.md)
 
 
- ## <a name="update-sizes-for-office-365-proplus-releases"></a>Office 365 ProPlus リリースの更新サイズ
+ ## <a name="update-sizes-for-microsoft-365-apps-releases"></a>Microsoft 365 Apps リリースの更新プロゴラムのサイズ
 
 更新サイズすべての一覧については、次の記事をご覧ください。
  - [Office 365 ProPlus の更新プログラムのダウンロード サイズ](download-sizes-office365-proplus-updates.md)
 
-## <a name="release-notes-for-office-365-proplus-releases"></a>Office 365 ProPlus リリースのリリース ノート
+## <a name="release-notes-for-microsoft-365-apps-releases"></a>Microsoft 365 Apps リリースのリリース ノート
 
 更新プログラム チャネルと年ごとのリリース ノートすべての一覧については、次の記事をご覧ください。
  - 月次: [2020](monthly-channel-2020.md)、[2019](monthly-channel-2019.md)、[2018](monthly-channel-2018.md)、[2017](monthly-channel-2017.md)、[2016](monthly-channel-2016.md)
@@ -58,7 +54,7 @@ ms.locfileid: "43046122"
 
 ## <a name="office-for-mac-release-information"></a>Office for Mac のリリース情報
 
-Office for Mac の更新プログラム (Office 365 ProPlus が含まれる Office 365 サブスクリプション プランに付属) に関する情報については、次の記事をご覧ください。
+Office for Mac の更新プログラム (Microsoft 365 Apps が含まれる Microsoft 365 サブスクリプション プランに付属) に関する情報については、次の記事をご覧ください。
  - [Office for Mac の更新履歴](update-history-office-for-mac.md)
  - [Office for Mac のリリース ノート](release-notes-office-for-mac.md)
  - [MAU のリリース ノート](release-history-microsoft-autoupdate.md)
@@ -66,11 +62,11 @@ Office for Mac の更新プログラム (Office 365 ProPlus が含まれる Offi
 
 ## <a name="related-topics"></a>関連項目
 
-- [Office 365 ProPlus 更新プログラムのチャネルの概要](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)
+- [Microsoft 365 Apps 用更新プログラム チャネルの概要](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)
 - [Office の展開](https://docs.microsoft.com/deployoffice/)
-- [Office 365 の新機能](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
-- [Office 365 のロードマップ](https://products.office.com/business/office-365-roadmap)
-- [Office 365 のメッセージ センター](https://support.office.com/article/38fb3333-bfcc-4340-a37b-deda509c2093)
+- [Microsoft 365 Apps の新機能](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
+- [Microsoft 365 Apps のロードマップ](https://products.office.com/business/office-365-roadmap)
+- [Microsoft 365 Apps のメッセージ センターの概要](https://support.office.com/article/38fb3333-bfcc-4340-a37b-deda509c2093)
 - [Windows 10 のリリース情報](https://www.microsoft.com/itpro/windows-10/release-information)
 - [Microsoft セキュリティ更新ガイド](https://portal.msrc.microsoft.com/)
 

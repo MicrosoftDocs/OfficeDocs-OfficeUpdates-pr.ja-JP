@@ -8,25 +8,65 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: Office 365 ProPlus 用の 2020 年の半期チャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: ebcf5fde37793b290e5c8fff1e33462a207c3a55
-ms.sourcegitcommit: 937711535d3b08b7d04ef8a8a6cffe038968ce5f
+description: Microsoft 365 Apps 用の 2020 年の半期チャネル リリースのリリース ノートを IT 担当者に提供します
+ms.openlocfilehash: 1917bc762563b025f08f8d6e930072c1dc5b7b36
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43076276"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714697"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>2020 年の半期チャネル リリースのリリース ノート
 
-これらのリリースノートには、Visio Pro for Office 365、Project Online Desktop Client、および Office 365 Business を含む、2020 年の Office 365 ProPlus の半期チャネルの更新プログラムに含まれる新機能およびセキュリティ以外の更新に関する情報が記載されています。
+このリリース ノートには、2020 年の半期チャネルの更新プログラムに含まれる新機能と、セキュリティ以外の更新プログラムに関する情報が記載されています。対象となるのは、Microsoft 365 Apps for enterprise、Microsoft 365 Apps for business、および Project と Visio のデスクトップ アプリのサブスクリプション版です。
 
 > [!NOTE]
 >
 >- 多くの場合、機能 (場合によっては修正プログラムも) は、特定の期間にわたって半期チャネルにロールアウトされます。 ここで説明される内容がすぐに確認できなくても、間もなく利用できるようになります。 [詳細情報](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
->- 半期チャネルのユーザーが Office ポータルから Office 365 をダウンロードして Windows 10 にインストールすると、既定で OneNote 2016 が含まれるようになります。
+>- 半期チャネルのユーザーが Office ポータルから Microsoft 365 Apps をダウンロードして Windows 10 にインストールすると、既定で OneNote 2016 が含まれるようになります。
 
 
 
+## <a name="version-1908-april-14"></a>バージョン 1908: 4 月 14 日
+*バージョン 1908 (ビルド 11929.20708)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- 結合されたセルを含む列を削除するときにパフォーマンスが低下する問題を修正しました。
+
+- [印刷プレビュー] に表示されるときのフォーム コントロール内のテキストの拡大縮小に関する問題を修正しました。
+
+### <a name="skype"></a>Skype
+
+- 複数の会話が発生している場合の、タブ表示の会話のタイトル名を修正しました。
+
+### <a name="outlook"></a>Outlook
+
+- Outlook のシャットダウン時にクラッシュが発生する問題に対処しました。
+
+- 一部のシナリオで顧客に空室リストが表示される原因となっていた問題に対処しました。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 蛍光ペンの問題を修正しました。暗い蛍光ペン色の白いテキストはグレースケールで黒として印刷されます。
+
+### <a name="word"></a>Word
+
+- 表での、文字の均等割り付けの問題が修正されました。
+
+
+## <a name="version-1902-april-14"></a>バージョン 1902: 4 月 14 日
+*バージョン 1902 (ビルド 11328.20564)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-1908-march-10"></a>バージョン 1908: 3 月 10 日
 *バージョン 1908 (ビルド 11929.20648)*

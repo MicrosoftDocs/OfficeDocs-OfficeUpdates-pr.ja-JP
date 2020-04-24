@@ -8,25 +8,25 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
-description: Office 356 サブスクライバー向け Office for Mac リリース用リリース ノートを IT プロフェッショナルに提供
-ms.openlocfilehash: eb80ead5175112c099c78cb641e281db7a278a00
-ms.sourcegitcommit: 4e509f91fd46e9df26ff0d2d775adc9bf58efa6e
+description: Microsoft 365 Apps サブスクライバー向け Office for Mac のリリース ノートを IT 担当者に提供します
+ms.openlocfilehash: 6eae8ac8a39d5225d781a0e93c5d8f0830559ddd
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42622141"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715143"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac のリリース ノート
 
  
-Office 365 サブスクリプションに付属する Office for Mac は、新機能、セキュリティ更新プログラム、およびセキュリティ以外の更新プログラムを提供するために定期的に更新されます。
+Microsoft 365 Apps サブスクリプションに付属する Office for Mac は、新機能、セキュリティ更新プログラム、およびセキュリティ以外の更新プログラムを提供するために定期的に更新されます。
   
 更新プログラムは、Microsoft AutoUpdate (MAU) で入手できます。Microsoft AutoUpdate を使用するには、Word などの Office アプリケーションを起動し、**[ヘルプ]** > **[更新プログラム]** を選択します。管理者で組織内のコンピューターを既存のソフトウェア展開ツールで更新する場合は、各アプリケーションの更新パッケージをダウンロードしてすることが展開できます。
 
   
 > [!NOTE]
 > - Office Insider の場合は、[Insider Fast ビルドのリリース ノート](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a)を参照してください。
-> - 2018 年 9 月の 16.17 リリース以降、これらのリリース ノートは、Office 2019 for Mac にも該当します。これは、小売店またはボリューム ライセンス契約によって 1 回限りの購入で使用できる Office for Mac のバージョンです。ただし、リリース ノートに記載されている一部の機能は、Office 365 サブスクリプションがある場合にのみ使用できます。
+> - 2018 年 9 月の 16.17 リリース以降、これらのリリース ノートは、Office 2019 for Mac にも該当します。これは、小売店またはボリューム ライセンス契約によって 1 回限りの購入で使用できる Office for Mac のバージョンです。ただし、リリース ノートに記載されている一部の機能は、Microsoft 365 Apps サブスクリプションがある場合にのみ使用できます。
 > - Microsoft では多くの場合、一定期間にわたって毎月のチャネル、機能 (および場合によっては修正プログラム) を展開します。これにより、幅広いユーザーに機能を公開する前にスムーズに動作するかどうかを確認することができます。したがって、下記のものが表示されない場合でも、心配する必要はなく、いずれは表示されます。[詳細情報](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - 一般的な品質とパフォーマンスの改善を含む更新プログラムをリリースすることがありますが、新機能はありません。 アプリが以下に具体的にリストされていない場合、そのアプリの更新プログラムには品質とパフォーマンスの改善のみが含まれます。
 
@@ -34,10 +34,25 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 
 
 [//]: # (削除しないでください)
+## <a name="april-14-2020"></a>2020 年 4 月 14 日
+*バージョン 16.36 (ビルド 20041300)*
 
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="excel"></a>Excel
 
+- **新しいデータ型を自動的に使用する**: 可能性のある株式や地理的な場所に似たデータ値を入力すると、Excel は、関連付けられた該当する株価や地理といったデータ型に変換することを提案します。
+- **異なる向きのワークシートを印刷する**: ブック全体を一度に印刷する場合、Excel for Mac では、[ページレイアウト] オプションに応じて、各シートを横向きまたは縦向きで印刷できます。
+- **ブックの統計を取得する:** ブックの統計情報にはブックの内容の概要が示されるので、コンテンツをより簡単に見つけ出せます。
 
+### <a name="outlook"></a>Outlook
 
+- **オフラインの Outlook for Mac でカレンダーを検索する**: オフラインのときに、Mac で Outlook カレンダー内のイベントや予定を検索できるようになりました。
+
+### <a name="security-updates"></a>セキュリティ更新プログラム
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-0980](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0980)
 
 
 ## <a name="march-10-2020"></a>2020 年 3 月 10 日
@@ -550,8 +565,8 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 |**アプリケーション**|**機能の更新プログラム**|**セキュリティの更新プログラムを入手できます。**|**更新プログラム パッケージのダウンロード リンク**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>| **ダーク モードで目に優しい:** 低照度の環境では、濃い色の背景の方が目に優しくなります。macOS Mojave が必要です。<br/><br/>  **テキストの外観を維持する:** フォントを埋め込むことにより、すべてのコンピューターでドキュメントのテキストの外観を同一にします。これは嬉しい機能です。[詳細情報](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/><br/>**文書に埋め込まれたフォントを表示する:** ファイルに埋め込まれているフォントを Mac Word で表示できるようにします。<br/><br/>**フォーカス モードの呼び出し可能なステータス バー:** フォーカスモードで呼び出し可能なステータス バーを使用して、Word での文字カウントやズーム コントロールへのアクセスを簡単に行えます。<br/><br/>**より高機能になったフォーカスモード:** ご要望にお応えいたします。 フォーカス モードが設定した表示倍率で表示され、スクロール中もページ番号が表示されるようになりました。| |[Word の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.20.18120801_Updater.pkg) <br/>|
-|Excel  <br/>|  **目に優しい濃色モード:** 光の少ない環境において目に優しい、暗い背景色を利用できます。 macOS Mojave が必要です。 <br/><br/> | [CVE-2018-8597](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8597): Microsoft Excel のリモート コード実行の脆弱性 <br/><br/> [CVE-2018-8627](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8627): Microsoft Excel の情報漏えいの脆弱性 |[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.20.18120801_Updater.pkg) <br/>|
-|PowerPoint  <br/>| **目に優しい濃色モード:** 光の少ない環境において目に優しい、暗い背景色を利用できます。 macOS Mojave が必要です。 <br/><br/>  **iPhone から直接 PowerPoint へ:** Apple Continuity Camera を使用して、写真を iPhone からスライドへ挿入します。macOS Mojave が必要です。[詳細情報](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8628): Microsoft PowerPoint のリモート コード実行の脆弱性 <br/>|[PowerPoint の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg) <br/>|
+|Excel  <br/>|  **ダーク モードで目に優しい:** 低照度の環境では、濃い色の背景の方が目に優しくなります。macOS Mojave が必要です。<br/><br/> | [CVE-2018-8597](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8597): Microsoft Excel のリモート コード実行の脆弱性 <br/><br/> [CVE-2018-8627](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8627): Microsoft Excel の情報漏えいの脆弱性 |[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.20.18120801_Updater.pkg) <br/>|
+|PowerPoint  <br/>| **ダーク モードで目に優しい:** 低照度の環境では、濃い色の背景の方が目に優しくなります。macOS Mojave が必要です。<br/><br/>  **iPhone から直接 PowerPoint へ:** Apple Continuity Camera を使用して、写真を iPhone からスライドへ挿入します。macOS Mojave が必要です。[詳細情報](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8628): Microsoft PowerPoint のリモート コード実行の脆弱性 <br/>|[PowerPoint の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg) <br/>|
 |Outlook  <br/>|  **ダーク モードで目に優しい:** 低照度の環境では、濃い色の背景の方が目に優しくなります。macOS Mojave が必要です。<br/><br/>  **予定表を共有する:** 家族、友人、同僚と予定表を共有します。Mac、PC、またはクラウド バージョンの Outlook で共有している予定表を開きます。[詳細情報](https://support.office.com/article/365-b576ecc3-0945-4d75-85f1-5efafb8a37b4) <br/><br/> **会議の転送を無効にする:** 出席者が会議を他のユーザーに転送できないようにします。[詳細情報](https://support.office.com/article/8cd354e5-b319-403e-8dd2-88b8ee89b4dd) <br/><br/> **チームを使用して会議に接続する:** リモートのチームと協力する場合。Outlook でチームを使用して、オンライン会議のスケジュールを設定したり、会議に参加します。[詳細情報](https://support.office.com/article/883cc15c-580f-441a-92ea-0992c00a9b0f) <br/><br/>**会議の出席者を確認する:** 予定表に記載された任意の会議やイベントをクリックすると、参加予定者を確認できます。<br/><br/> **3 タイムゾーンを表示する:** タイム ゾーン間で会議をスケジュールする必要がある場合。複数のタイム ゾーンを予定表に追加すると、全員の予定の確認や、全員が参加できる時間の選択が容易になります。[詳細情報](https://support.office.com/article/938d9db9-14ae-4203-ab91-b2d183429382)<br/><br/>  ||[Outlook の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.20.18120801_Updater.pkg) <br/>|
 |Microsoft Auto Update 4.6 <br/>| SHA-1 ではなく SHA-256 ハッシュを含む最新のセキュリティ カタログ <br/>|<br/> | [Microsoft AutoUpdate 更新パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.6.18120801_Updater.pkg)|
 |Office スイート  <br/>|**新しい見た目のリボン アイコン:** 機能に変更はないので、ご安心ください。 また、すべてのアイコンがあらゆるサイズの画面で適切に表示されるようになりました。 [詳細情報](https://support.office.com/article/a6cdf19a-b2bd-4be1-9515-d74a37aa59bf)<br/><br/>**[代替テキスト] ウィンドウの更新:** 役に立つキャプションを追加したり、要素を装飾用としてマークしたりして、コンテンツのアクセシビリティを高めます。 |<br/>||
@@ -928,8 +943,8 @@ Office 365 サブスクリプションに付属する Office for Mac は、新�
 |**アプリケーション**|**機能の更新プログラム**|**セキュリティ更新プログラム**|
 |:-----|:-----|:-----|
 |Word  <br/> |**フォーカス モードのモダンな背景:** **ビュー** タブでフォーカス モードのときに、夕暮れや夜景の背景から選択します。[詳細を見る](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292.aspx)  <br/><br/> **Dubai フォント:** 西ヨーロッパ言語とアラビア文字を使用する主要言語の両方に対応しているフォント ファミリ。[詳細を見る](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
-|Excel  <br/> |**Dubai フォント:** 西ヨーロッパ言語とアラビア文字を使用する主要言語の両方に対応しているフォント ファミリ。 [詳細情報](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
-|PowerPoint  <br/> |**Dubai フォント:** 西ヨーロッパ言語とアラビア文字を使用する主要言語の両方に対応しているフォント ファミリ。 [詳細情報](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
+|Excel  <br/> |**Dubai フォント:** 西ヨーロッパ言語とアラビア文字を使用する主要言語の両方に対応しているフォント ファミリ。[詳細を見る](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
+|PowerPoint  <br/> |**Dubai フォント:** 西ヨーロッパ言語とアラビア文字を使用する主要言語の両方に対応しているフォント ファミリ。[詳細を見る](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Outlook  <br/> |**グループ:** 上位 10 グループを表示し、[グループ] フォルダーから直接グループの会話を読んだり返信したりできます。  <br/> <br/> **Dubai フォント:** 西ヨーロッパ言語とアラビア文字を使用する主要言語の両方に対応しているフォント ファミリ。[詳細を見る](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Office スイート  <br/> ||[CVE-2017-0254](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2017-0254): Microsoft Office のメモリ破損の脆弱性   |
 

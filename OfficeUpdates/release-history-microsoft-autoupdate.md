@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT プロフェッショナルに、Microsoft AutoUpdate (MAU) のリリース履歴を提供します
-ms.openlocfilehash: 0fc6e93f19abf0a8969879979b1e5aa5e7dc15ab
-ms.sourcegitcommit: e2633701e5a00bd20a5f166e95fcb156461973ae
+ms.openlocfilehash: dbff1347c742bb0e0fc7a2e13df822f35da00496
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "42890114"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714677"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) のリリース履歴
  
@@ -29,6 +29,47 @@ ms.locfileid: "42890114"
 > - Microsoft AutoUpdate は、Microsoft のさまざまな Mac 製品への更新プログラムを提供します。そのため、Office for Mac を実行していない場合でも、Microsoft AutoUpdate を更新する通知が表示される場合があります。
 
 リリース ノートを確認するには、「[リリース ノート](release-notes-office-for-mac.md)」を参照してください。<br/><br/>
+
+## <a name="april-2020-release"></a>2020 年 4 月リリース
+
+**リリース日:** 2020 年 4 月 21 日
+
+*Microsoft Auto Update 4.22*
+
+**バグの修正と強化された機能:**
+- 新しい更新プログラムがない場合、「自動」モードの Microsoft AutoUpdate で Office アプリを更新しているデバイス、および非自動モードで更新を実行しているデバイスに Microsoft AutoUpdate UI は表示されません。
+
+**MAU のリンクの更新:**
+
+[Microsoft Auto Update 4.22 パッケージをダウンロードする](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 ハッシュ:**
+
+2D672B377C6A1115FDC509E45E6AFF663D8F15412D4EB77E033085700DC1B72B
+
+<br/><br/>
+
+**リリース日:** 2020 年 4 月 14 日
+
+*Microsoft Auto Update 4.22*
+
+ **機能の更新プログラム:**
+
+- セキュリティ修正: Microsoft AutoUpdate は、古いバージョンからの安全でない接続を防止します。
+- 自動更新がオフのユーザーには、Microsoft AutoUpdate UI が週に 1 回だけ表示されます。
+- SSD 搭載の MacOS マシンの場合、更新はより高速で行われ、更新プログラムの入手に伴うアプリのダウンタイムはごくわずかです。
+
+
+[CVE-2020-0984](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0984) をご覧ください。
+
+**MAU 更新プログラムのリンク:**
+
+[Microsoft Auto Update 4.22 パッケージをダウンロードする](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 ハッシュ:**
+
+2E202B0B65AC093BDBFDA47F2A62758E44E0FBC09383B121EAA76206CF2B3EAB
+<br/><br/>
 
 ## <a name="march-2020-release"></a>2020 年 3 月リリース
 

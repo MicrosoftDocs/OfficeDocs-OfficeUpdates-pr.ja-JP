@@ -8,22 +8,54 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: Office 365 ProPlus 用の 2020 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 1ad39564413906ae45b977b57c7336f19b15e1f9
-ms.sourcegitcommit: 6f8ebfd45430efe3eb3bf43823202cbdd974f5ed
+description: Microsoft 365 Apps 用の 2020 年の月次チャネル リリースのリリース ノートを IT 担当者に提供します
+ms.openlocfilehash: e7208b25c8b6f6b14fbd2511e570d02b32c8d396
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43081785"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714517"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>2020 年の毎月のチャネル リリースのリリース ノート
 
-これらのリリースノートには、2020 年の Office 365 ProPlus、Visio Pro for Office 365、Project Online デスクトップ クライアント、および Office 365 Business の毎月の更新プログラム チャンネルに含まれる新機能およびセキュリティ以外の更新に関する情報が記載されています。
+このリリース ノートには、2020 年の月次チャネルの更新プログラムに含まれる新機能と、セキュリティ以外の更新プログラムに関する情報が記載されています。対象となるのは、Microsoft 365 Apps for enterprise、Microsoft 365 Apps for business、および Project と Visio のデスクトップ アプリのサブスクリプション版です。
 
  > [!NOTE]
 >
 >- Microsoft では多くの場合、一定期間にわたって毎月、機能 (および場合によっては修正プログラム) を展開します。  ここで説明した内容がすぐに表示されない場合は、間もなく利用できるようになります。 [詳細情報](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
->- Microsoft Teams の Office 365 ProPlus の既存のインストールについて: 7月の上旬から、Office 365 ProPlus (および Office 365 Business) の更新に Microsoft Teams が含まれます。  Teams が追加される日付は、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/deployoffice/teams-install)」を参照してください。
+
+
+## <a name="version-2003-april-15"></a>バージョン 2003: 4 月 15 日
+*バージョン 2003 (ビルド 12624.20466)*
+* さまざまなバグとパフォーマンスの修正。
+
+## <a name="version-2003-april-14"></a>バージョン 2003: 4 月 14 日
+*バージョン 2003 (ビルド 12624.20442)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- Application.Evaluate (VBA) が、ユーザー定義関数では動作しない場合がありました。
+
+### <a name="outlook"></a>Outlook
+
+- マウスで X ボタンを使用しているときにクラッシュが生じる原因となっていた問題に対処しました。
+
+### <a name="project"></a>Project
+
+- フォーム ビュー内で先行処理/後続処理データが編集されると、余分の ProjectBeforeTaskChange イベントが発生します。
+
+### <a name="word"></a>Word
+
+- マウスで X ボタンを使用しているときにクラッシュが生じる原因となっていた問題に対処しました。
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2003-march-31"></a>バージョン 2003: 3 月 31 日
 *バージョン 2003 (ビルド 12624.20382)*

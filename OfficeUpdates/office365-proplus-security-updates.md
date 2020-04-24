@@ -1,5 +1,5 @@
 ---
-title: Office 365 ProPlus セキュリティ更新プログラムのリリース ノート
+title: Microsoft 365 Apps セキュリティ更新プログラムのリリース ノート
 ms.author: andrewmo
 author: TimDavenport
 manager: andrewmo
@@ -8,29 +8,25 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: Office 365 ProPlus セキュリティ更新プログラムのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 8eab85b14ca0d034d83db85db7a30e4072eed845
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+description: Microsoft 365 Apps セキュリティ更新プログラムのリリース ノートを IT 担当者に提供します
+ms.openlocfilehash: b2a54edbf0d9f1960f4a52ef112741e6220e8821
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521283"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715015"
 ---
-# <a name="release-notes-for-office-365-proplus-security-updates"></a>Office 365 ProPlus セキュリティ更新プログラムのリリース ノート
+# <a name="release-notes-for-microsoft-365-apps-security-updates"></a>Microsoft 365 Apps セキュリティ更新プログラムのリリース ノート
 
-これらのリリース ノートでは、Office 365 ProPlus の更新プログラムに含まれているセキュリティ修正プログラムに関する情報が提供されます。
+このリリース ノートには、Microsoft 365 Apps の更新プログラムに含まれているセキュリティ修正プログラムに関する情報が記載されています。
+
+この情報は、Microsoft 365 Apps for enterprise、Microsoft 365 Apps for business、および Project と Visio のデスクトップ アプリのサブスクリプション版に適用されます。
 
 
 > [!IMPORTANT]
-> Office 365 ProPlus は **Microsoft 365 Apps for enterprises ** に名前が変更されています。 この名前の変更の詳細については、[このブログ投稿をご覧ください](https://go.microsoft.com/fwlink/p/?linkid=2120533)。 
->
-> この変更が有効になるタイミングと、管理者が実行する必要がある操作の詳細については、[この記事をご覧ください](https://go.microsoft.com/fwlink/p/?linkid=2123420)。
-
+> バージョン 2004 以降の Office 365 ProPlus は Microsoft 365 Apps for enterprise に名前が変更されています。 詳細については、 [こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2123420)を参照してください。 Microsoft のドキュメントでは通常、Microsoft 365 Apps として扱います。
 
  
-> [!NOTE]
-> - また、以下に示す資料でも Visio Pro for Office 365 および Project Online デスクトップ クライアントのセキュリティ更新プログラムに関する情報が提供されています。
-> - ここに記載されている情報は、Business Premium など一部の Office 365 プランに付属する Office のバージョンの、Office 365 Business にも該当します。  
 
 [//]: # (上の行は間隔を空けるために使用されているので、削除しないでください。)  
 
@@ -39,7 +35,7 @@ ms.locfileid: "43521283"
 半期チャネル (対象指定): バージョン 2002 (ビルド 12527.20442)  
 半期チャネル: バージョン 1908 (ビルド 11929.20708)  
 半期チャネル: バージョン 1902 (ビルド 11328.20564)  
-Windows 7 上の Office 365 ProPlus: バージョン 2002 (ビルド 12527.20442)  
+Windows 7 上の Microsoft 365 Apps: バージョン 2002 (ビルド 12527.20442)  
 
 [//]: # (セキュリティの詳細コンテンツを削除しないでください。開始)
 
@@ -68,7 +64,7 @@ Windows 7 上の Office 365 ProPlus: バージョン 2002 (ビルド 12527.20442
 半期チャネル (対象指定): バージョン 2002 (ビルド 12527.20278)  
 半期チャネル: バージョン 1908 (ビルド 11929.20648)  
 半期チャネル: バージョン 1902 (ビルド 11328.20554)  
-Windows 7 上の Office 365 ProPlus: バージョン 2002 (ビルド 12527.20278)  
+Windows 7 上の Microsoft 365 Apps: バージョン 2002 (ビルド 12527.20278)  
 
 [//]: # (セキュリティの詳細コンテンツを削除しないでください。開始)
 
