@@ -8,22 +8,22 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: Office 365 ProPlus 用の 2020 年の半期チャネル (対象指定) リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: b6ead1e881f7cc860e65285efbc2a0326839bba0
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+description: Microsoft 365 Apps 用の 2020 年の半期チャネル リリース (対象指定) のリリース ノートを IT 担当者に提供します
+ms.openlocfilehash: 5c9535a000544238e1c68eee98817eb52d12449c
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521375"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714692"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2020"></a>2020 年の半期チャネル (対象指定) リリースのリリース ノート
 
-これらのリリースノートには、Visio Pro for Office 365、Project Online Desktop Client、および Office 365 Business を含む、2020 年の Office 365 ProPlus の半期チャネル (対象指定) の更新プログラムに含まれる新機能およびセキュリティ以外の更新に関する情報が記載されています。
+このリリース ノートには、2020 年の半期チャネル (対象指定) の更新プログラムに含まれる新機能と、セキュリティ以外の更新プログラムに関する情報が記載されています。対象となるのは、Microsoft 365 Apps for enterprise、Microsoft 365 Apps for business、および Project と Visio のデスクトップ アプリのサブスクリプション版です。
 
 > [!NOTE]
 >
 > - 多くの場合、機能 (場合によっては修正プログラムも) は、特定の期間にわたって半期チャネル (対象指定) にロールアウトされます。 ここで説明される内容がすぐに確認できなくても、間もなく利用できるようになります。 [詳細情報](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
-> - Microsoft Teams は、バージョン 1902 以降の半期チャネル (対象指定) の新規インストールに含まれています。 Teams は、バージョン 1908以降に更新されると、半期チャネル (対象指定) の既存のインストールに追加されます。 詳細については、「[Office 365 ProPlus で Microsoft Teams を展開する](https://docs.microsoft.com/deployoffice/teams-install)」をご覧ください。
+
 
 ## <a name="version-2002-april-14"></a>バージョン 2002: 4 月 14 日
 *バージョン 2002 (ビルド 12527.20442)*
@@ -34,9 +34,9 @@ ms.locfileid: "43521375"
 ### <a name="feature-updates"></a>機能の更新プログラム
 ### <a name="excel"></a>Excel
 
-- 複数の値を返す式を入力する: 複数の値を返す式を素早く入力できるようになりました。隣接するセルに自動的に入力されます。 [詳細情報](https://support.microsoft.com/en-us/office/new-array-functions-003df6c7-1dcb-4388-8e2e-0fe77a0887bc?ui=en-us&rs=en-us&ad=us)
-- 6 つの強力な機能: スプレッドシートを強化する 6 つの新しい関数が追加されました。FILTER、SORT、SORTBY、UNIQUE、SEQUENCE、RANDARRAY です。  [詳細情報](https://support.microsoft.com/en-us/office/easier-array-formulas-5c2c9cbb-def8-409a-b380-2fbf91b20aa3?ui=en-us&rs=en-us&ad=us)
-- 左を見て、右を見て… XLOOKUP をご利用いただけます!: XLOOKUP を使えば、表や範囲内で必要なものは何でも見つけられます。  [詳細情報](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)
+- **複数の値を返す式を入力する:** 複数の値を返す式をすばやく入力できるようになりました。隣接するセルに自動的に入力されます。 [詳細情報](https://support.microsoft.com/en-us/office/new-array-functions-003df6c7-1dcb-4388-8e2e-0fe77a0887bc?ui=en-us&rs=en-us&ad=us)
+- **6 つの強力な機能:** スプレッドシートを強化する 6 つの新しい関数が追加されました。FILTER、SORT、SORTBY、UNIQUE、SEQUENCE、RANDARRAY です。  [詳細情報](https://support.microsoft.com/en-us/office/easier-array-formulas-5c2c9cbb-def8-409a-b380-2fbf91b20aa3?ui=en-us&rs=en-us&ad=us)
+- **左を見て、右を見て... XLOOKUP をご利用いただけます!:** XLOOKUP を使えば、表や範囲内で必要なものは何でも見つけられます。  [詳細情報](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
