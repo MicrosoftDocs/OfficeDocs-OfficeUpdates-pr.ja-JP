@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT 担当者に、日付ごとに整理した Microsoft 365 Apps のリリースすべての一覧を、リリース ノートへのリンクを含めて提供します
-ms.openlocfilehash: f70db1039fa7931b5f8cf80834389e03e4a095bd
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: 9a2b66ad416ac01f335b70e1875c18bf6464b3d9
+ms.sourcegitcommit: bb2e1868f43693fe085ba9080401e6f8137c8a9e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715425"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43907931"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 Apps の更新履歴 (日付別の一覧)
 
@@ -48,6 +48,7 @@ ms.locfileid: "43715425"
 
 |**Year**|**リリース日**|**月次チャネル**|**半期チャネル (対象指定)**|**半期チャネル**|
 |:-----|:-----|:-----|:-----|:-----|
+|
 |2020|4 月 15 日|[バージョン 2003 (ビルド 12624.20466)](monthly-channel-2020.md#version-2003-april-15)| | |
 |2020|4 月 14 日|[バージョン 2003 (ビルド 12624.20442)](monthly-channel-2020.md#version-2003-april-14)|[バージョン 2002 (ビルド 12527.20442)](semi-annual-channel-targeted-2020.md#version-2002-april-14)|[バージョン 1908 (ビルド 11929.20708)](semi-annual-channel-2020.md#version-1908-april-14)<br/>[バージョン 1902 (ビルド 11328.20564)](semi-annual-channel-2020.md#version-1902-april-14)|
 |2020|3 月 31 日|[バージョン 2003 (ビルド 12624.20382)](monthly-channel-2020.md#version-2003-march-31)| | |
