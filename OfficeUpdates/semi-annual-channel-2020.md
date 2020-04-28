@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の半期チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 0138665b66ebca7249dce1bca9b2eeaa4b0e2041
-ms.sourcegitcommit: 4df4bbfe9328d36fdf801081598aadde77af8a9c
+ms.openlocfilehash: 7370f93cc18bff888e264d3b7b06a2ccd94408ee
+ms.sourcegitcommit: bb2e1868f43693fe085ba9080401e6f8137c8a9e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43796113"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43907901"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>2020 年の半期チャネル リリースのリリース ノート
 
@@ -26,6 +26,11 @@ ms.locfileid: "43796113"
 >- 半期チャネルのユーザーが Office ポータルから Microsoft 365 Apps をダウンロードして Windows 10 にインストールすると、既定で OneNote 2016 が含まれるようになります。
 
 
+
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-1908-april-14"></a>バージョン 1908: 4 月 14 日
 *バージョン 1908 (ビルド 11929.20708)*
