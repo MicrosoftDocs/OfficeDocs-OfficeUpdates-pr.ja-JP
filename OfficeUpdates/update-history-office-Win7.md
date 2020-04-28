@@ -8,22 +8,22 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: Office 365 ProPlus for Windows 7 の更新履歴に関するリリース ノートを提供
-ms.openlocfilehash: 933e17220a7d3825369f68e43054a9abfd0eca65
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+description: Windows 7 用の Microsoft 365 アプリの更新履歴に関するリリース ノートを提供
+ms.openlocfilehash: a724d0bedbb2770e55ad106870d4874bfaca6969
+ms.sourcegitcommit: 58d55cf532d1d02cca85772920a6dd71089b071d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521035"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43781600"
 ---
-# <a name="update-history-for-office-365-proplus-on-windows-7"></a>Windows 7 上の Office 365 ProPlus の更新履歴 
+# <a name="update-history-for-microsoft-365-apps-on-windows-7"></a>Windows 7 用の Microsoft 365 アプリの更新履歴 
 
  > [!NOTE]
 >
 >- Windows 7 のサポートは 2020 年 1 月 14 日に終了します。 [詳細情報](https://www.microsoft.com/microsoft-365/windows/end-of-windows-7-support?rtc=1)
->- Office 365 ProPlus は Windows 7 でサポートされなくなりましたが、2023 年 1 月まで引き続きセキュリティ更新プログラムは入手できます。 [詳細情報](https://docs.microsoft.com/DeployOffice/windows-7-support)
+>- Microsoft 365 アプリは Windows 7 でサポートされなくなりましたが、2023 年 1 月まで引き続きセキュリティ更新プログラムは入手できます。 [詳細情報](https://docs.microsoft.com/DeployOffice/windows-7-support)
 >- Windows 7 で Office を実行しているホーム ユーザーである場合は、「[Windows 7 のサポート終了および Office](https://support.office.com/en-us/article/windows-7-end-of-support-and-office-78f20fab-b57b-44d7-8368-06a8493f3cb9?ui=en-US&rs=en-US&ad=US)」を参照してください。
-バージョン 2002 は、Office 365 ProPlus の最終バージョンであり、Windows 7 が 2020 年 1 月にサポート対象外になった後、Windows 7 を実行しているデバイスで利用可能です。  
+Microsoft 365 アプリの最終バージョンであるバージョン 2002 は、Windows 7 が 2020 年 1 月にサポート対象外になった後も、Windows 7 を実行しているデバイスで利用可能です。  
 
 バージョン 2002 は次のチャネルで利用可能になります。
 - 2020 年 2 月以降の月次チャネル
