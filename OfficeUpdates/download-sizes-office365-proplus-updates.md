@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 各チャネルの Microsoft 365 アプリ用更新プログラムのダウンロード サイズの概算に関する情報を IT 技術者に提供します
-ms.openlocfilehash: c424e6b96022b145f2483b455bf4a49488b54eed
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: 009406a5de679ac785a59637825b95826cf271a3
+ms.sourcegitcommit: bb2e1868f43693fe085ba9080401e6f8137c8a9e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714667"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43907911"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 アプリ用更新プログラムのダウンロード サイズ
 
@@ -33,6 +33,10 @@ ms.locfileid: "43714667"
 > - 過去 4 か月のリリースが記載されています。
 
 [//]: # (削除しないでください)
+
+
+
+[//]: # (コンテンツを削除しないでください。終了 2020 年 4 月 26 日)
 
 ## <a name="april-15-2020"></a>2020 年 4 月 15 日
 
