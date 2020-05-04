@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT 担当者に、日付ごとに整理した Microsoft 365 Apps のリリースすべての一覧を、リリース ノートへのリンクを含めて提供します
-ms.openlocfilehash: 9a2b66ad416ac01f335b70e1875c18bf6464b3d9
-ms.sourcegitcommit: bb2e1868f43693fe085ba9080401e6f8137c8a9e
+ms.openlocfilehash: 6361bc4ad78d7774956ffdac4d1e52cec4492fe0
+ms.sourcegitcommit: 47434ba402ec7a630ef06a91664a659bb7069dad
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43907931"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "43947385"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 Apps の更新履歴 (日付別の一覧)
 
@@ -33,7 +33,7 @@ ms.locfileid: "43907931"
 
 |**チャネル**|**バージョン**|**ビルド**|**リリース日**|**バージョンのサポート期限**|
 |:-----|:-----|:-----|:-----|:-----|
-|毎月<br/>|2003<br/>|12624.20466<br/>|2020 年 4 月 15 日<br/>|2004 バージョンがリリースされました<br/>|
+|月次<br/>|2004<br/>|12730.20236<br/>|2020 年 4 月 29 日<br/>|バージョン 2005 がリリースされました<br/>|
 |半期 (対象指定)<br/>|2002<br/>|12527.20442<br/>|2020 年 4 月 14 日<br/>|2020 年 9 月 8 日<br/>|
 |半期<br/>|1908<br/>|11929.20708<br/>|2020 年 4 月 14 日<br/>|2021 年 3 月 9 日<br/>|
 |半期<br/>|1902<br/>|11328.20564<br/>|2020 年 4 月 14 日<br/>|2020 年 9 月 8 日<br/>|
@@ -48,7 +48,7 @@ ms.locfileid: "43907931"
 
 |**Year**|**リリース日**|**月次チャネル**|**半期チャネル (対象指定)**|**半期チャネル**|
 |:-----|:-----|:-----|:-----|:-----|
-|
+|2020|4 月 29 日|[バージョン 2004 (ビルド 12730.20236)](monthly-channel-2020.md#version-2004-april-29)| | |
 |2020|4 月 15 日|[バージョン 2003 (ビルド 12624.20466)](monthly-channel-2020.md#version-2003-april-15)| | |
 |2020|4 月 14 日|[バージョン 2003 (ビルド 12624.20442)](monthly-channel-2020.md#version-2003-april-14)|[バージョン 2002 (ビルド 12527.20442)](semi-annual-channel-targeted-2020.md#version-2002-april-14)|[バージョン 1908 (ビルド 11929.20708)](semi-annual-channel-2020.md#version-1908-april-14)<br/>[バージョン 1902 (ビルド 11328.20564)](semi-annual-channel-2020.md#version-1902-april-14)|
 |2020|3 月 31 日|[バージョン 2003 (ビルド 12624.20382)](monthly-channel-2020.md#version-2003-march-31)| | |
