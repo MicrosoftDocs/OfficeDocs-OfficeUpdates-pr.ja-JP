@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: クイック実行 (C2R) を使用する永続的なバージョンの Office 2016 および 2019 の更新履歴を IT 技術者に提供します
-ms.openlocfilehash: 80b3a12f538adba30b2cb73871205325da41018a
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+ms.openlocfilehash: 3716b555f187be6941741960bb11f3cc738f7d43
+ms.sourcegitcommit: e950bd86b21283e1d6f1f76faa26cd323ab7213d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521365"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "43954900"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R および Office 2019 の更新履歴
 
@@ -60,6 +60,7 @@ Microsoft は、Office 2016 のクイック実行 (C2R) バージョンおよび
 
 |**リリース日**|**バージョン番号**|**詳細情報**|
 |:-----|:-----|:-----|
+|2020 年 4 月 29 日|バージョン 2004 (ビルド 12730.20236)  |さまざまなバグとパフォーマンスの修正。 <br/>  |
 |2020 年 4 月 15 日|バージョン 2003 (ビルド 12624.20466)  |さまざまなバグとパフォーマンスの修正。 <br/>  |
 |2020 年 4 月 14 日|バージョン 2003 (ビルド 12624.20442)  |[CVE-2020-0760](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0760) <br/> [CVE-2020-0906](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0906) <br/> [CVE-2020-0961](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0961) <br/> [CVE-2020-0979](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0979) <br/> [CVE-2020-0980](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0980) <br/>[CVE-2020-0991](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0991) <br/> |
 |2020 年 3 月 31 日|バージョン 2003 (ビルド 12624.20382)  |さまざまなバグとパフォーマンスの修正。 <br/>  |
