@@ -1,8 +1,8 @@
-# [リリース情報](release-notes-office365-proplus.md)
+# [リリース情報](release-notes-microsoft365-apps.md)
 # Microsoft 365 アプリ
-## [セキュリティ更新プログラム](office365-proplus-security-updates.md)
-## [更新の履歴 (日付順)](update-history-office365-proplus-by-date.md)
-## [更新プログラムのサイズ](download-sizes-office365-proplus-updates.md)
+## [セキュリティ更新プログラム](microsoft365-apps-security-updates.md)
+## [更新の履歴 (日付順)](update-history-microsoft365-apps-by-date.md)
+## [更新プログラムのサイズ](download-sizes-microsoft365-apps-updates.md)
 
 ## 月次チャネル
 ### [2020](monthly-channel-2020.md)
