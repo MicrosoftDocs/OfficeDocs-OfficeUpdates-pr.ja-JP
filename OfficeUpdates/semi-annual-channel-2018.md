@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2018 年の半期チャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 6ffd421e4ecdacb50d44677333c814d41b48d123
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: ab7cdeb05800c0f98f97bf895f1c88c167075ff9
+ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42615009"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "44163549"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>2018 年の半期チャネル リリースのリリース ノート
 
@@ -27,7 +27,7 @@ ms.locfileid: "42615009"
 > - 2018 年 1 月以前は、半期チャネルは Deferred Channel という名称でした。
 
 > [!NOTE]
-> - Office 365 ProPlus の各更新チャネルに対するセキュリティ更新プログラムの情報については、個別の一覧が「[セキュリティ更新プログラム](office365-proplus-security-updates.md)」に記載されます。
+> - Office 365 ProPlus の各更新チャネルに対するセキュリティ更新プログラムの情報については、個別の一覧が「[セキュリティ更新プログラム](microsoft365-apps-security-updates.md)」に記載されます。
 
 ## <a name="version-1803-december-11"></a>バージョン 1803: 12 月 11 日
 *バージョン 1803 (ビルド 9126.2336)*

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 10c4d76d44d2ba8a66f22bfff49bb8c115d30d17
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: df05a1a57bf165e62717f18b7704bb0e44b459dd
+ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42615030"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "44163539"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年の毎月のチャネル リリースのリリース ノート
 
@@ -27,7 +27,7 @@ ms.locfileid: "42615030"
 ## <a name="version-1911-december-10"></a>バージョン 1911: 12 月 10 日
 *バージョン 1911 (ビルド 12228.20364)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
@@ -120,7 +120,7 @@ ms.locfileid: "42615030"
 ## <a name="version-1910-november-12"></a>バージョン 1910: 11 月 12 日
 *バージョン 1910 (ビルド 12130.20344)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -223,7 +223,7 @@ ms.locfileid: "42615030"
 ## <a name="version-1909-october-08"></a>バージョン 1909: 10 月 8 日
 *バージョン 1909 (ビルド 12026.20320)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
@@ -335,7 +335,7 @@ ms.locfileid: "42615030"
 ## <a name="version-1908-september-10"></a>バージョン 1908: 9 月 10 日
 *バージョン 1908 (ビルド 11929.20300)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
@@ -401,7 +401,7 @@ ms.locfileid: "42615030"
 ## <a name="version-1907-august-13"></a>バージョン 1907: 8 月 13 日
 *バージョン 1907 (ビルド 11901.20218)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
 
@@ -455,7 +455,7 @@ ms.locfileid: "42615030"
 ## <a name="version-1906-july-09"></a>バージョン 1906: 7 月 9 日
 *バージョン 1906 (ビルド 11727.20244)*
 
-セキュリティ更新プログラムの一覧は「[こちら](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)」
+セキュリティ更新プログラムの一覧は「[こちら](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)」
 
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
 
@@ -521,7 +521,7 @@ ms.locfileid: "42615030"
 
 ## <a name="version-1905-june-11"></a>バージョン 1905: 6 月 11 日
 *バージョン 1905 (ビルド 11629.20246)*
-<br/>[こちら](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)にセキュリティ更新プログラムが記載されています
+<br/>[こちら](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)にセキュリティ更新プログラムが記載されています
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
 
@@ -611,7 +611,7 @@ ms.locfileid: "42615030"
 ## <a name="version-1904-may-14"></a>バージョン 1904: 5 月 14 日 
 *バージョン 1904 (ビルド 11601.20204)*
 
-- セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
+- セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
 
 ## <a name="version-1904-may-8"></a>バージョン 1904: 5 月 8 日
 *バージョン 1904 (ビルド 11601.20178)*
@@ -676,7 +676,7 @@ ms.locfileid: "42615030"
 ## <a name="version-1903-april-9"></a>バージョン 1903: 4 月 9 日
 *バージョン 1903 (ビルド 11425.20204)* 
 
-- セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
+- セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: セキュリティ以外の更新プログラム
 - Lync (Skype for Business) で、参加者が 7 人以上のオンライン ミーティングのミーティング ウィンドウが表示されないという問題が修正されました。
@@ -766,7 +766,7 @@ ms.locfileid: "42615030"
 ## <a name="version-1901-february-12"></a>バージョン 1901: 2 月 12 日
 *バージョン 1901 (ビルド 11231.20174)* 
 
-セキュリティ更新プログラムの一覧は[こちら](office365-proplus-security-updates.md)
+セキュリティ更新プログラムの一覧は[こちら](microsoft365-apps-security-updates.md)
 
 ## <a name="version-1901-january-31"></a>バージョン 1901: 1 月 31 日
 *バージョン 1901 (ビルド 11231.20130)* 

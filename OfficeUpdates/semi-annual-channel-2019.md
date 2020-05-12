@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: b03cf0f98c4444a19167759a1805f750866bcb78
-ms.sourcegitcommit: 2a7fa66d0cc399e8ae5d824dab7b84a460cc2c9f
+ms.openlocfilehash: df445c1318293e94d77fc62e4472124bb85c3a25
+ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42982526"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "44163529"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019 年の半期チャネル リリースのリリース ノート
 
@@ -35,7 +35,7 @@ ms.locfileid: "42982526"
 ## <a name="version-1902-december-10"></a>バージョン 1902: 12 月 10 日
 *バージョン 1902 (ビルド 11328.20492)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -99,7 +99,7 @@ ms.locfileid: "42982526"
 ## <a name="version-1902-november-12"></a>バージョン 1902: 11 月 12 日
 *バージョン 1902 (ビルド 11328.20468)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
@@ -134,7 +134,7 @@ ms.locfileid: "42982526"
 ## <a name="version-1808-november-12"></a>バージョン 1808: 11 月 12 日
 *バージョン 1808 (ビルド 10730.20416)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -154,7 +154,7 @@ ms.locfileid: "42982526"
 ## <a name="version-1902-october-08"></a>バージョン 1902: 10 月 8 日
 *バージョン 1902 (ビルド 11328.20438)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
@@ -183,12 +183,12 @@ ms.locfileid: "42982526"
 
 *バージョン 1808 (ビルド 10730.20386)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-1902-september-10"></a>バージョン 1902: 9 月 10 日
 *バージョン 1902 (ビルド 11328.20420)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
@@ -212,7 +212,7 @@ ms.locfileid: "42982526"
 ## <a name="version-1808-september-10"></a>バージョン 1808: 9 月 10 日
 *バージョン 1808 (ビルド 10730.20380)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -225,7 +225,7 @@ ms.locfileid: "42982526"
 ## <a name="version-1902-august-13"></a>バージョン 1902: 8 月 13 日
 *バージョン 1902 (ビルド 11328.20392)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
 - テーブルのフィルター処理ありのスライサーとフィルター処理なしのスライサーの両方に、[フィルターのクリア] アイコンが表示される問題を修正しました。
@@ -247,7 +247,7 @@ ms.locfileid: "42982526"
 ## <a name="version-1808-august-13"></a>バージョン 1808: 8 月 13 日
 *バージョン 1808 (ビルド 10730.20370)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 - 特定のシナリオで Office JavaScript ライブラリ の Setting API が機能しなくなる問題が修正されました ([詳細](https://support.microsoft.com/help/4475551/august-6-2019-update-for-office-2016-kb4475551))
@@ -256,7 +256,7 @@ ms.locfileid: "42982526"
 ## <a name="version-1803-august-13"></a>バージョン 1803: 8 月 13 日
 *バージョン 1803 (ビルド 9126.2432)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 - 特定のシナリオで Office JavaScript ライブラリ の Setting API が機能しなくなる問題を修正しました ([詳細情報](https://support.microsoft.com/help/4475551/august-6-2019-update-for-office-2016-kb4475551))
@@ -264,7 +264,7 @@ ms.locfileid: "42982526"
 
 ## <a name="version-1902-july-09"></a>バージョン 1902: 7 月 9 日
 *バージョン 1902 (ビルド 11328.20368)*
-<br/>セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+<br/>セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 ### <a name="access-feature-updates"></a>Access: 機能の更新
@@ -432,7 +432,7 @@ ms.locfileid: "42982526"
 
 ## <a name="version-1808-july-09"></a>バージョン 1808: 7 月 9 日
 *バージョン 1808 (ビルド 10730.20360)*
-<br/>セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+<br/>セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 ### <a name="word-non-security-updates"></a>Word: セキュリティ以外の更新プログラム
@@ -447,12 +447,12 @@ ms.locfileid: "42982526"
 
 ## <a name="version-1803-july-09"></a>バージョン 1803: 7 月 9 日
 *バージョン 1803 (ビルド 9126.2428)*
-<br/>セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+<br/>セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 ## <a name="version-1808-june-11"></a>バージョン 1808: 6 月 11 日
 *バージョン 1808 (ビルド 10730.20348)*
-<br/>セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+<br/>セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="word-non-security-updates"></a>Word: セキュリティ以外の更新プログラム
  - ファイルをチェックアウトするときの署名の削除に関する問題が修正されました。
@@ -462,7 +462,7 @@ ms.locfileid: "42982526"
 
 ## <a name="version-1803-june-11"></a>バージョン 1803: 6 月 11 日
 *バージョン 1803 (ビルド 9126.2388)*
-<br/>セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates) 
+<br/>セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 
 
 ## <a name="version-1808-may-14"></a>バージョン 1808: 5 月 14 日
 *バージョン 1808 (ビルド 10730.20344)*   
@@ -501,7 +501,7 @@ ms.locfileid: "42982526"
 - 日本の新しい元号のために Word の日本のはがきウィザード アドインのサポートを追加しました。 
 
 ## <a name="version-1803-april-9"></a>バージョン 1803: 4 月 9 日
-- セキュリティ更新プログラムの一覧は[こちら](office365-proplus-security-updates.md)
+- セキュリティ更新プログラムの一覧は[こちら](microsoft365-apps-security-updates.md)
 
 ## <a name="version-1808-march-12"></a>バージョン 1808: 3 月 12 日
 *バージョン 1808 (ビルド 10730.20304)*
@@ -520,7 +520,7 @@ ms.locfileid: "42982526"
 - Office 更新プログラムをダウンロードしようとするとスタックすることがある問題を修正しました。
 
 ## <a name="version-1803-march-12"></a>バージョン 1803: 3 月 12 日 
-- セキュリティ更新プログラムの一覧は[こちら](office365-proplus-security-updates.md)
+- セキュリティ更新プログラムの一覧は[こちら](microsoft365-apps-security-updates.md)
 
 ## <a name="version-1808-february-12"></a>バージョン 1808: 2 月 12 日
 *バージョン 1808 (ビルド 10730.20280)*
