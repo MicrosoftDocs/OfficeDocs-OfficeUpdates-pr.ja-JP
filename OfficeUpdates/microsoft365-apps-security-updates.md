@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps セキュリティ更新プログラムのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: b2a54edbf0d9f1960f4a52ef112741e6220e8821
-ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
+ms.openlocfilehash: 91538ad859fe5dc3d45a73d0798ff21708f6178b
+ms.sourcegitcommit: 18f8f5d6dcd9743005ae2ba87c8e9e2d9edfe8c4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "44138546"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44211707"
 ---
 # <a name="release-notes-for-microsoft-365-apps-security-updates"></a>Microsoft 365 Apps セキュリティ更新プログラムのリリース ノート
 
@@ -24,11 +24,32 @@ ms.locfileid: "44138546"
 
 
 > [!IMPORTANT]
-> バージョン 2004 以降の Office 365 ProPlus は Microsoft 365 Apps for enterprise に名前が変更されています。 詳細については、 [こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2123420)を参照してください。 Microsoft のドキュメントでは通常、Microsoft 365 Apps として扱います。
+> - 現在、Microsoft 365 Apps の更新プログラム チャネルに、新しい更新プログラム チャネル (月次エンタープライズチャネル) の追加や既存の更新プログラム チャネル名の変更など、いくつかの変更を進めています。 詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2127441)を参照してください。
+> - バージョン 2004 以降の Office 365 ProPlus は Microsoft 365 Apps for enterprise に名前が変更されています。詳細については、 [こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2123420)を参照してください。Microsoft のドキュメントでは通常、Microsoft 365 Apps として扱います。
+
 
  
 
 [//]: # (上の行は間隔を空けるために使用されているので、削除しないでください。)  
+
+## <a name="may-12-2020"></a>2020 年 5 月 12 日
+月次チャネル: バージョン 2004 (ビルド 12730.20270)  
+月次エンタープライズ チャネル: バージョン 2003 (ビルド 12624.20588)  
+半期チャネル (対象指定): バージョン 2002 (ビルド 12527.20612)  
+半期チャネル: バージョン 1908 (ビルド 11929.20776)  
+半期チャネル: バージョン 1902 (ビルド 11328.20586)  
+Windows 7 上の Microsoft 365 Apps: バージョン 2002 (ビルド 12527.20612)  
+
+[//]: # (セキュリティの詳細コンテンツを削除しないでください。開始)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-0901](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0901)
+
+[//]: # (セキュリティの詳細コンテンツを削除しないでください。終了)
+
+
 
 ## <a name="april-14-2020"></a>2020 年 4 月 14 日
 月次チャネル: バージョン 2003 (ビルド 12624.20442)  
