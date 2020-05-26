@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT プロフェッショナルに、Microsoft AutoUpdate (MAU) のリリース履歴を提供します
-ms.openlocfilehash: dbff1347c742bb0e0fc7a2e13df822f35da00496
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: dca350f83b16f776048c64b2fc023f53980be5ef
+ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714677"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44211112"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) のリリース履歴
  
@@ -29,6 +29,26 @@ ms.locfileid: "43714677"
 > - Microsoft AutoUpdate は、Microsoft のさまざまな Mac 製品への更新プログラムを提供します。そのため、Office for Mac を実行していない場合でも、Microsoft AutoUpdate を更新する通知が表示される場合があります。
 
 リリース ノートを確認するには、「[リリース ノート](release-notes-office-for-mac.md)」を参照してください。<br/><br/>
+
+## <a name="may-2020-release"></a>2020 年 5 月リリース
+
+**リリース日:** 2020 年 5 月 12 日
+
+*Microsoft AutoUpdate 4.23*
+
+**バグの修正と強化された機能:**
+- MacOS 10.13 以上と Office 2016 バージョンを使用しているデバイスでは、ユーザーに Office 2016 のサポートが終了する旨の通知が表示されます。 
+- Word、Excel、Powerpoint のアプリでウィンドウを開いておらず、デバイスが Microsoft AutoUpdate の自動更新モードになっている場合、更新を適用するためにユーザーがこれらのアプリを終了する必要はありません。 3. Microsoft AutoUpdate は、ユーザーが更新したり、新しい AutoUpdate セッションを起動したりしなくても、CDN 上の最新リリースを使用して更新ダッシュボードを自動的に更新するようになりました。
+
+**MAU 更新プログラムのリンク:**
+
+[Microsoft Auto Update 4.23 パッケージをダウンロードする](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 ハッシュ:**
+
+7DAB76D11427BACF30D3DBD87374CE755C618262E68FC3CA85B3FB8F3F3750AD
+
+<br/><br/>
 
 ## <a name="april-2020-release"></a>2020 年 4 月リリース
 

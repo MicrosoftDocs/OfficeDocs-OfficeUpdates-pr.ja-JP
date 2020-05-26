@@ -13,18 +13,18 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: SharePoint Server 2016、SharePoint 2013、および SharePoint 2010 の更新プログラムを 1 か所で検索および管理できます。このページのリンクを使用して、更新プログラムに関する詳細な情報を取得し、更新プログラムをダウンロードしてください。
-ms.openlocfilehash: c689c5d04224e8e46dc60500fc68b2f630ed78e3
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+ms.openlocfilehash: 61cd44c484738565187d16c86e15233325384b0c
+ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521205"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44210812"
 ---
 # <a name="sharepoint-updates"></a>SharePoint 更新プログラム
 
 [SharePoint Server 2019](#sharepoint-2019-update-history)、[SharePoint Server 2016](#sharepoint-2016-update-history)、[SharePoint 2013](#sharepoint-2013-update-history)、および [SharePoint 2010](#sharepoint-2010-update-history) の更新プログラムを 1 か所で検索および管理できます。このページのリンクを使用して、更新プログラムに関する詳細な情報を取得し、更新プログラムをダウンロードしてください。
 
-SharePoint Online と Office 365 の最新更新プログラムについては、「[Office 365 のロードマップ](https://go.microsoft.com/fwlink/p/?linkid=529454)」を参照してください。
+SharePoint Online と Microsoft 365 の最新更新プログラムについては、「[Microsoft 365 のロードマップ](https://go.microsoft.com/fwlink/p/?linkid=529454)」を参照してください。
 
 <a name="BKMK_2016"> </a>
   
@@ -32,6 +32,7 @@ SharePoint Online と Office 365 の最新更新プログラムについては�
 
 |**パッケージ名**|**サポート技術情報番号**|**バージョン**|**リリース日**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Server 2019  <br/> SharePoint Server 2019 MUI/言語パッチ  <br/> |[KB 4484332](https://support.microsoft.com/help/4484332) <br/> [KB 4484331](https://support.microsoft.com/help/4484331) <br/> |16.0.10359.20000|2020 年 5 月  <br/> |
 |SharePoint Server 2019  <br/> SharePoint Server 2019 MUI/言語パッチ  <br/> |[KB 4484292](https://support.microsoft.com/help/4484292) <br/> [KB 4484291](https://support.microsoft.com/help/4484291) <br/> |16.0.10358.20000|2020 年 4 月  <br/> |
 |SharePoint Server 2019  <br/> SharePoint Server 2019 MUI/言語パッチ  <br/> |[KB 4484271](https://support.microsoft.com/help/4484271) <br/> [KB 4484277](https://support.microsoft.com/help/4484277) <br/> |16.0.10357.20002|2020 年 3 月  <br/> |
 |SharePoint Server 2019  <br/> SharePoint Server 2019 MUI/言語パッチ  <br/> |[KB 4484259](https://support.microsoft.com/help/4484259) <br/> [KB 4484225](https://support.microsoft.com/help/4484225) <br/> |16.0.10355.20000|2020 年 2 月  <br/> |
@@ -54,6 +55,7 @@ SharePoint Online と Office 365 の最新更新プログラムについては�
 
 |**パッケージ名**|**サポート技術情報番号**|**バージョン**|**リリース日**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Server 2016  <br/> |[KB 4484336](https://support.microsoft.com/help/4484336) <br/> |16.0.5005.1000  |2020 年 5 月  <br/> |
 |SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/言語パッチ  <br/> |[KB 4484299](https://support.microsoft.com/help/4484299) <br/> [KB 4484301](https://support.microsoft.com/help/4484301) <br/> |16.0.4993.1000  |2020 年 4 月  <br/> |
 |SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/言語パッチ  <br/> |[KB 4484272](https://support.microsoft.com/help/4484272) <br/> [KB 4484275](https://support.microsoft.com/help/4484275) <br/> |16.0.4978.1000  |2020 年 3 月  <br/> |
 |SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/言語パッチ  <br/> |[KB 4484255](https://support.microsoft.com/help/4484255) <br/> [KB 4484257](https://support.microsoft.com/help/4484257) <br/> |16.0.4966.1000  |2020 年 2 月  <br/> |
@@ -118,6 +120,7 @@ SharePoint Online と Office 365 の最新更新プログラムについては�
     
 |**パッケージ名**|**サポート技術情報番号**|**バージョン**|**リリース日**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4484358](https://support.microsoft.com/help/4484358) <br/> [KB 4484362](https://support.microsoft.com/help/4484362) <br/> |15.0.5241.1000  |2020 年 5 月  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4484309](https://support.microsoft.com/help/4484309) <br/> [KB 4484320](https://support.microsoft.com/help/4484320) <br/> |15.0.5233.1000  |2020 年 4 月  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4484278](https://support.microsoft.com/help/4484278) <br/> [KB 4484280](https://support.microsoft.com/help/4484280) <br/> |15.0.5223.1000  |2020 年 3 月  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4484261](https://support.microsoft.com/help/4484261) <br/> [KB 4484263](https://support.microsoft.com/help/4484263) <br/> |15.0.5215.1000  |2020 年 2 月  <br/> |
@@ -197,6 +200,7 @@ SharePoint Online と Office 365 の最新更新プログラムについては�
 
 |**パッケージ名**|**サポート技術情報番号**|**バージョン**|**リリース日**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 4484386](https://support.microsoft.com/help/4484386) <br/> [KB 4484389](https://support.microsoft.com/help/4484389) <br/> |14.0.7250.5000  |2020 年 5 月  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 4484298](https://support.microsoft.com/help/4484298) <br/> [KB 4484324](https://support.microsoft.com/help/4484324) <br/> |14.0.7248.5000  |2020 年 4 月  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 4484197](https://support.microsoft.com/help/4484197) <br/> [KB 4484241](https://support.microsoft.com/help/4484241) <br/> |14.0.7246.5000  |2020 年 3 月  <br/> |
 |SharePoint Server 2010  <br/> |[KB 4484195](https://support.microsoft.com/help/4484195) <br/> |14.0.7243.5000|2019 年 12 月  <br/> |

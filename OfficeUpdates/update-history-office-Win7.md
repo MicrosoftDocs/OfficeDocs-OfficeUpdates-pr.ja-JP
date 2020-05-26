@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Windows 7 用の Microsoft 365 アプリの更新履歴に関するリリース ノートを提供
-ms.openlocfilehash: a724d0bedbb2770e55ad106870d4874bfaca6969
-ms.sourcegitcommit: 58d55cf532d1d02cca85772920a6dd71089b071d
+ms.openlocfilehash: d20299e5d54f8269519618d42b335d3008cef486
+ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43781600"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44211192"
 ---
 # <a name="update-history-for-microsoft-365-apps-on-windows-7"></a>Windows 7 用の Microsoft 365 アプリの更新履歴 
 
@@ -41,6 +41,9 @@ Windows 7 を実行しているデバイスでは、バージョン 2002 より�
 ##
 
 [//]: # (削除しないでください)
+
+**2020 年 5 月 12 日**<br/>
+バージョン 2002 (ビルド 12527.20612)<br/>
 
 **2020 年 4 月 14 日**<br/>
 バージョン 2002 (ビルド 12527.20442)<br/>
