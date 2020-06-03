@@ -1,6 +1,6 @@
 ---
 title: Office の月次チャンネル (対象指定) の更新履歴
-ms.author: andrewmo
+ms.author: anankani
 author: anankani
 manager: andrewmo
 ms.audience: ITPro
@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Windows デスクトップ用の月次チャンネル 対象指定リリースの更新履歴を Insider の皆様に提供します。
-ms.openlocfilehash: b2562ad361b27f61127cd9b331ff349e721dc8e6
-ms.sourcegitcommit: 6e3ff925f85e32db7dc701fc7a14aa8339365eee
-ms.translationtype: HT
+ms.openlocfilehash: 3d763d2c6d7c5028c0082dd2ef8f845eda487f6b
+ms.sourcegitcommit: cbdd826a7d45f0a645cc7c664647f22bf2b9752a
+ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43937400"
+ms.lasthandoff: 05/30/2020
+ms.locfileid: "44429012"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Windows 向け Office の月次チャンネル (対象指定) チャンネルの更新履歴
 
@@ -26,8 +26,8 @@ ms.locfileid: "43937400"
 
 
 > [!IMPORTANT]
-
-> バージョン 2004 以降の Office 365 ProPlus は Microsoft 365 Apps for enterprise に名前が変更されています。詳細については、 [こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2123420)を参照してください。Microsoft のドキュメントでは通常、Microsoft 365 Apps として扱います。
+> - Microsoft 365 アプリの更新チャネルの更新プログラムチャネルに、新しい更新チャネル (月間エンタープライズ チャネル) の追加や、既存の更新プログラムチャネルの名前の変更など、いくつかの変更を行っています。 詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2127441)を参照してください。
+> - バージョン 2004 以降の Office 365 ProPlus は Microsoft 365 Apps for enterprise に名前が変更されています。詳細については、 [こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2123420)を参照してください。Microsoft のドキュメントでは通常、Microsoft 365 Apps として扱います。
 
 > [!NOTE]
 > - こちらの更新履歴はリリースされたすべてのビルドを一覧表示します
@@ -35,6 +35,21 @@ ms.locfileid: "43937400"
 
 
 [//]: # (削除しないでください)
+
+**2020年5月29日**<br/>
+バージョン 2005 (ビルド 12827.20268)<br/>
+
+**2020年5月21日**<br/>
+バージョン 2005 (ビルド 12827.20210)<br/>
+
+**2020年5月14日**<br/>
+バージョン 2005 (ビルド 12827.20160)<br/>
+
+**2020年5月11日**<br/>
+バージョン 2004 (ビルド 12730.20270)<br/>
+
+**2020年5月4日**<br/>
+バージョン 2004 (ビルド 12730.20250)<br/>
 
 **2020 年 4 月 29 日**<br/>
 バージョン 2004 (ビルド 12730.20236)<br/>
