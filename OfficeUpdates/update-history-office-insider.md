@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Windows デスクトップ用の月次チャンネル Insider ファースト リリースの更新履歴を Insider の皆様に提供します。
-ms.openlocfilehash: 8ab8e91cabecc86a53fc3bb8f9532f0f6af001fb
-ms.sourcegitcommit: f677a82dcce2425d747af0f17351b5e84719ac61
+ms.openlocfilehash: 1e07772558f6ed228ee383080c7df46caa6feed9
+ms.sourcegitcommit: 7f426d261eeeea9037184013eb700added727076
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44478187"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "44537947"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Office Insider チャンネル の更新履歴
 
@@ -36,6 +36,9 @@ Insider レベルに登録している場合は、新機能や強化された機
 リリース ノートを確認するには、「[Windows デスクトップ版 Office のリリース ノート](https://docs.microsoft.com/OfficeUpdates/release-notes-office-insider)」を参照してください。
 
 [//]: # (削除しないでください)
+
+**2020年6月3日**<br/>
+バージョン 2006 (ビルド 13001.20002)<br/>
 
 **2020年6月01日**<br/>
 バージョン 2006 (ビルド 12930.20014)<br/>
