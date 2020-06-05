@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の半期チャネル (対象指定) リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 750a20da1fc38b216957f13260bd504530b897fe
-ms.sourcegitcommit: 4df4bbfe9328d36fdf801081598aadde77af8a9c
+ms.openlocfilehash: b0a39d61122691cd6a007866ec80444848e7389b
+ms.sourcegitcommit: 2474d341cb1c1c2e0b43b5c324345d853e192c59
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43796123"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44565053"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年の半期チャネル (対象指定) リリースのリリース ノート
 
@@ -27,7 +27,7 @@ ms.locfileid: "43796123"
 ## <a name="version-1908-december-10"></a>バージョン 1908: 12 月 10 日
 *バージョン 1908 (ビルド 11929.20516)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
@@ -130,7 +130,7 @@ ms.locfileid: "43796123"
 ## <a name="version-1908-november-12"></a>バージョン 1908: 11 月 12 日
 *バージョン 1908 (ビルド 11929.20436)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
@@ -158,7 +158,7 @@ ms.locfileid: "43796123"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- Outlook メッセージからの cid: 画像のリンクが、要求があったときに正常に分割できるようになりました。</div>
+- Outlook メッセージからの cid: 画像のリンクが、要求があったときに正常に分割できるようになりました。
 - 信頼性の修正: サード パーティのアドインが PowerPoint を失敗させることがある問題を修正しました。
 
 ### <a name="project"></a>Project
@@ -207,7 +207,7 @@ ms.locfileid: "43796123"
 ## <a name="version-1908-october-08"></a>バージョン 1908: 10 月 8 日
 *バージョン 1908 (ビルド 11929.20388)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
@@ -247,7 +247,7 @@ ms.locfileid: "43796123"
 ## <a name="version-1908-september-10"></a>バージョン 1908: 9 月 10 日
 *バージョン 1908 (ビルド 11929.20300)*
 
-セキュリティ更新プログラムのリストは[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+セキュリティ更新プログラムのリストは[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
@@ -458,7 +458,7 @@ ms.locfileid: "43796123"
 ## <a name="version-1902-august-13"></a>バージョン 1902: 8 月 13 日
 *バージョン 1902 (ビルド 11328.20392)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
 - テーブルのフィルター処理ありのスライサーとフィルター処理なしのスライサーの両方に、[フィルターのクリア] アイコンが表示される問題を修正しました。
@@ -480,7 +480,7 @@ ms.locfileid: "43796123"
 ## <a name="version-1902-july-09"></a>バージョン 1902: 7 月 9 日
 *バージョン 1902 (ビルド 11328.20368)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
@@ -522,7 +522,7 @@ ms.locfileid: "43796123"
 
 ## <a name="version-1902-june-11"></a>バージョン 1902: 6 月 11 日
 *バージョン 1902 (ビルド 11328.20318)*
-<br/>[こちら](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)にセキュリティ更新プログラムが記載されています
+<br/>[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)にセキュリティ更新プログラムが記載されています
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
  - PDF にマッピングする XML を含むファイルを保存するときにクラッシュの原因となっていた問題が解決されました。
