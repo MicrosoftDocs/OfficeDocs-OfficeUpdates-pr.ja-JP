@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 60e81fd50e7a1ef35a4449fd4383982dee3338ec
-ms.sourcegitcommit: cbdd826a7d45f0a645cc7c664647f22bf2b9752a
+ms.openlocfilehash: 41dba1efa79735aafd74b318fd49c7c3211736e3
+ms.sourcegitcommit: e9b127c7dfd80f3beb3c9aa9dadfb9e7f442c58c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/30/2020
-ms.locfileid: "44429002"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44563677"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 月次チャネルのリリース ノート (対象指定)
 
@@ -32,6 +32,45 @@ ms.locfileid: "44429002"
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2005-june-04"></a>バージョン 2005: 2004 年6月
+*バージョン 2005 (ビルド 12827.20320)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="access"></a>Access
+
+- **いつでも使用できるようになります。日付/時刻の拡張データ型には、より高い精度があります。:** 新しいデータ型と改良されたデータ型を導入しています。  SQL との構文の互換性を向上させ、日付と時刻を含むレコードの精度と詳細レベルを向上させるために、DateTime2 データ型を Access に実装しています。 この追加の日付 & time データ型には、より長い日付範囲 (0001-01-01 ~ 9999-12-31) が含まれており、指定された時間精度 (秒ではなくナノ秒) を使用して計算を提供したり実行したりすることができます。 有効にするには、[新しいフィールド > 日付 & 時間を延長します] を選択します。 [詳細情報](https://support.office.com/article/708c32da-a052-4cc2-9850-9851042e0024)
+
+### <a name="excel"></a>Excel
+
+- **Excel 内の POWER BI のデータセットからピボットテーブルを作成します。** Excel では、いくつかのクリックで Power BI に格納されたデータセットに接続されたピボットテーブルを作成できます。これにより、ピボットテーブルと Power BI の両方を最大限に活用できます。 セキュリティで保護された Power BI データセットからのピボットテーブルを使用して、データの計算、要約、および分析を行います。
+
+### <a name="outlook"></a>Outlook
+
+- **以前の Outlook セッションからアイテムをすばやく再び開くオプション:** 以前の Outlook セッションからアイテムをすばやく開くオプションを追加しました。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="powerpoint"></a>PowerPoint
+
+- これにより、ユーザーがモダンおよび従来のコメントをファイルに保持しているときに、コメントのアップグレードをトリガーするクラッシュが修正されます。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- 既定で Bing アドオンインストールの検証を true に設定し、MSI リターンがインストールが成功したことを考慮して、ValidateInstall fail rate 問題を解決しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2005-may-29"></a>バージョン 2005: 5 月29日
 *バージョン 2005 (ビルド 12827.20268)*
@@ -1063,5 +1102,5 @@ ms.locfileid: "44429002"
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+[//]: # (バグの詳細コンテンツ エンドを削除しないでください)
 
