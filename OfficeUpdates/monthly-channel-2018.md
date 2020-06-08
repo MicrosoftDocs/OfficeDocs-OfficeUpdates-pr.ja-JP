@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2018 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 0e9cd5d74e0f981704f533e30d90789608eab522
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: cd29e10e43af303ad4a9e8f336bbdceed76b8ee2
+ms.sourcegitcommit: b1fcfac6d568a74e296ca2f874a8d33a8a81cc5e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42615022"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44163459"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018 年の毎月のチャネル リリースのリリース ノート
 
@@ -25,7 +25,7 @@ ms.locfileid: "42615022"
 > - また、Visio Pro for Office 365 および Project Online デスクトップ クライアントの新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムについても説明しています。
 > - ここに記載されている情報は、Business Premium など一部の Office 365 プランに付属する Office のバージョンの、Office 365 Business にも該当します。
 > - Microsoft では多くの場合、一定期間にわたって毎月、機能 (および場合によっては修正プログラム) を展開します。これにより、幅広いユーザーに機能を公開する前にスムーズに動作するかどうかを確認することができます。したがって、下記のものが表示されない場合でも、心配する必要はなく、いずれは表示されます。[詳細情報](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
-> - Office 365 ProPlus の各更新チャネルに対するセキュリティ更新プログラムの情報については、個別の一覧が「[セキュリティ更新プログラム](office365-proplus-security-updates.md)」に記載されます。 
+> - Office 365 ProPlus の各更新チャネルに対するセキュリティ更新プログラムの情報については、個別の一覧が「[セキュリティ更新プログラム](microsoft365-apps-security-updates.md)」に記載されます。 
 
 ## <a name="version-1811-december-11"></a>バージョン 1811: 12 月 11 日
 *バージョン 1811 (ビルド 11029.20108)* 

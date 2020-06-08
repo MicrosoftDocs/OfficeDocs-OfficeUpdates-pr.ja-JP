@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2018 年の半期チャネル (対象指定) リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 827436fccc1ba336e216d3d2b18d48a4b7168a12
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: 59a294ac6eeb5a462d5a080f57e74b4afeffe739
+ms.sourcegitcommit: b1fcfac6d568a74e296ca2f874a8d33a8a81cc5e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42615078"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44163599"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>2018 年の半期チャネル (対象指定) リリースのリリース ノート
 
@@ -27,7 +27,7 @@ ms.locfileid: "42615078"
 
  
 > [!NOTE]
-> - Office 365 ProPlus の各更新チャネルに対するセキュリティ更新プログラムの情報については、個別の一覧が「[セキュリティ更新プログラム](office365-proplus-security-updates.md)」に記載されます。
+> - Office 365 ProPlus の各更新チャネルに対するセキュリティ更新プログラムの情報については、個別の一覧が「[セキュリティ更新プログラム](microsoft365-apps-security-updates.md)」に記載されます。
 
 ## <a name="version-1808-december-11"></a>バージョン 1808: 12 月 11 日
 *バージョン 1808 (ビルド 10730.20262)*
