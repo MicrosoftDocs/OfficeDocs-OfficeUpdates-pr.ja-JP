@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT 担当者に、日付ごとに整理した Microsoft 365 Apps のリリースすべての一覧を、リリース ノートへのリンクを含めて提供します
-ms.openlocfilehash: 2a48dfaf1f2401a9dcaff8c32873547cc923fe72
-ms.sourcegitcommit: 9393c868c1a8b7b6d4bba8abbe02a6c984b9547b
+ms.openlocfilehash: 32e6b751e222270cc14d3dfaddaf68e744b8c401
+ms.sourcegitcommit: 1f8cb906d8d0af5eb26eaedf008180375d2fd55d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44520211"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44668022"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 Apps の更新履歴 (日付別の一覧)
 
@@ -36,11 +36,12 @@ ms.locfileid: "44520211"
 
 |**チャネル**|**バージョン**|**ビルド**|**リリース日**|**バージョンのサポート期限**|
 |:-----|:-----|:-----|:-----|:-----|
-|月次<br/>|2005<br/>|12827.20268<br/>|2020年6月2日<br/>|バージョン2006がリリースされました<br/>|
-|月次 Enterprise<br/>|2003<br/>|12624.20588<br/>|2020 年 5 月 12 日<br/>|2020年7月14日<br/>|
-|半期 (対象指定)<br/>|2002<br/>|12527.20612<br/>|2020 年 5 月 12 日<br/>|2020 年 9 月 8 日<br/>|
-|半期<br/>|1908<br/>|11929.20776<br/>|2020 年 5 月 12 日<br/>|2021 年 3 月 9 日<br/>|
-|半期<br/>|1902<br/>|11328.20586<br/>|2020 年 5 月 12 日<br/>|2020 年 9 月 8 日<br/>|
+|Current<br/>|2005<br/>|12827.20336<br/>|2020年6月9日<br/>|バージョン2006がリリースされました<br/>|
+|月次 Enterprise<br/>|2004<br/>|12730.20430<br/>|2020年6月9日<br/>|2020年8月11日<br/>|
+|月次 Enterprise<br/>|2003<br/>|12624.20708<br/>|2020年6月9日<br/>|2020年7月14日<br/>|
+|半期エンタープライズ (プレビュー)<br/>|2002<br/>|12527.20720<br/>|2020年6月9日<br/>|2020 年 9 月 8 日<br/>|
+|半期エンタープライズ<br/>|1908<br/>|11929.20838<br/>|2020年6月9日<br/>|2021 年 3 月 9 日<br/>|
+|半期エンタープライズ<br/>|1902<br/>|11328.20602<br/>|2020年6月9日<br/>|2020 年 9 月 8 日<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -50,26 +51,27 @@ ms.locfileid: "44520211"
 
 [//]: # (HISTORYTABLESTART)
 
-|**Year**|**リリース日**|**月次チャネル**|**月々のエンタープライズ チャネル**|**半期チャネル (対象指定)**|**半期チャネル**|
+|**Year**|**リリース日**|**Current Channel**|**月々のエンタープライズ チャネル**|**半期エンタープライズチャネル (プレビュー)**|**半期エンタープライズチャネル**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|2020|02年6月|[バージョン 2005 (ビルド 12827.20268)](monthly-channel-2020.md#version-2005-june-02)| | | |
-|2020|5月21日|[バージョン 2004 (ビルド 12730.20352)](monthly-channel-2020.md#version-2004-may-21)| | | |
-|2020|5 月 12 日|[バージョン 2004 (ビルド 12730.20270)](monthly-channel-2020.md#version-2004-may-12)|[バージョン 2003 (ビルド 12624.20588)](monthly-enterprise-channel-2020.md#version-2003-may-12)<br/>|[バージョン 2002 (ビルド 12527.20612)](semi-annual-channel-targeted-2020.md#version-2002-may-12)|[バージョン 1908 (ビルド 11929.20776)](semi-annual-channel-2020.md#version-1908-may-12)<br/>[バージョン 1902 (ビルド 11328.20586)](semi-annual-channel-2020.md#version-1902-may-12)|
-|2020|2004年5月|[バージョン 2004 (ビルド 12730.20250)](monthly-channel-2020.md#version-2004-may-04)| | |[バージョン 1908 (ビルド 11929.20752)](semi-annual-channel-2020.md#version-1908-may-04)<br/>[バージョン 1902 (ビルド 11328.20572)](semi-annual-channel-2020.md#version-1902-may-04)|
-|2020|4 月 29 日|[バージョン 2004 (ビルド 12730.20236)](monthly-channel-2020.md#version-2004-april-29)| | | |
-|2020|4 月 15 日|[バージョン 2003 (ビルド 12624.20466)](monthly-channel-2020.md#version-2003-april-15)| | | |
-|2020|4 月 14 日|[バージョン 2003 (ビルド 12624.20442)](monthly-channel-2020.md#version-2003-april-14)| |[バージョン 2002 (ビルド 12527.20442)](semi-annual-channel-targeted-2020.md#version-2002-april-14)|[バージョン 1908 (ビルド 11929.20708)](semi-annual-channel-2020.md#version-1908-april-14)<br/>[バージョン 1902 (ビルド 11328.20564)](semi-annual-channel-2020.md#version-1902-april-14)|
-|2020|3 月 31 日|[バージョン 2003 (ビルド 12624.20382)](monthly-channel-2020.md#version-2003-march-31)| | | |
-|2020|3 月 25 日|[バージョン 2003 (ビルド 12624.20320)](monthly-channel-2020.md#version-2003-march-25)| | | |
-|2020|3 月 10 日|[バージョン 2002 (ビルド 12527.20278)](monthly-channel-2020.md#version-2002-march-10)| |[バージョン 2002 (ビルド 12527.20278)](semi-annual-channel-targeted-2020.md#version-2002-march-10)|[バージョン 1908 (ビルド 11929.20648)](semi-annual-channel-2020.md#version-1908-march-10)<br/>[バージョン 1902 (ビルド 11328.20554)](semi-annual-channel-2020.md#version-1902-march-10)|
-|2020|3 月 1 日|[バージョン 2002 (ビルド 12527.20242)](monthly-channel-2020.md#version-2002-march-01)| | | |
-|2020|2 月 25 日|[バージョン 2002 (ビルド 12527.20194)](monthly-channel-2020.md#version-2002-february-25)| | | |
-|2020|2 月 19 日|[バージョン 2001 (ビルド 12430.20288)](monthly-channel-2020.md#version-2001-february-19)| | | |
-|2020|2 月 11 日|[バージョン 2001 (ビルド 12430.20264)](monthly-channel-2020.md#version-2001-february-11)| |[バージョン 1908 (ビルド 11929.20606)](semi-annual-channel-targeted-2020.md#version-1908-february-11)|[バージョン 1908 (ビルド 11929.20606)](semi-annual-channel-2020.md#version-1908-february-11)<br/>[バージョン 1902 (ビルド 11328.20526)](semi-annual-channel-2020.md#version-1902-february-11)<br/>[バージョン 1808 (ビルド 10730.20438)](semi-annual-channel-2020.md#version-1808-february-11)|
-|2020|1 月 30 日|[バージョン 2001 (ビルド 12430.20184)](monthly-channel-2020.md#version-2001-january-30)| | | |
-|2020|1 月 22 日|[バージョン 1912 (ビルド 12325.20344)](monthly-channel-2020.md#version-1912-january-22)| | | |
-|2020|1 月 14 日|[バージョン 1912 (ビルド 12325.20298)](monthly-channel-2020#version-1912-january-14)| |[バージョン 1908 (ビルド 11929.20562)](semi-annual-channel-targeted-2020.md#version-1908-january-14)|[バージョン 1908 (ビルド 11929.20562)](semi-annual-channel-2020.md#version-1908-january-14)<br/>[バージョン 1902 (ビルド 11328.20512)](semi-annual-channel-2020.md#version-1902-january-14)<br/>[バージョン 1808 (ビルド 10730.20432)](semi-annual-channel-2020.md#version-1808-january-14)|
-|2020|1 月 8 日|[バージョン 1912 (ビルド 12325.20288)](monthly-channel-2020#version-1912-january-08)| | | |
+|2020|09月9日|[バージョン 2005 (ビルド 12827.20336)](current-channel.md#version-2005-june-09)|[バージョン 2004 (ビルド 12730.20430)](monthly-enterprise-channel-2020.md#version-2004-june-09)<br/>[バージョン 2003 (ビルド 12624.20708)](monthly-enterprise-channel-2020.md#version-2003-june-09)|[バージョン 2002 (ビルド 12527.20720)](semi-annual-enterprise-channel-preview.md#version-2002-june-09)|[バージョン 1908 (ビルド 11929.20838)](semi-annual-enterprise-channel.md#version-1908-june-09)<br/>[バージョン 1902 (ビルド 11328.20602)](semi-annual-enterprise-channel.md#version-1902-june-09)|
+|2020|02年6月|[バージョン 2005 (ビルド 12827.20268)](current-channel.md#version-2005-june-02)| | | |
+|2020|5月21日|[バージョン 2004 (ビルド 12730.20352)](current-channel.md#version-2004-may-21)| | | |
+|2020|5 月 12 日|[バージョン 2004 (ビルド 12730.20270)](current-channel.md#version-2004-may-12)|[バージョン 2003 (ビルド 12624.20588)](monthly-enterprise-channel-2020.md#version-2003-may-12)<br/>|[バージョン 2002 (ビルド 12527.20612)](semi-annual-enterprise-channel-preview.md#version-2002-may-12)|[バージョン 1908 (ビルド 11929.20776)](semi-annual-enterprise-channel.md#version-1908-may-12)<br/>[バージョン 1902 (ビルド 11328.20586)](semi-annual-enterprise-channel.md#version-1902-may-12)|
+|2020|2004年5月|[バージョン 2004 (ビルド 12730.20250)](current-channel.md#version-2004-may-04)| | |[バージョン 1908 (ビルド 11929.20752)](semi-annual-enterprise-channel.md#version-1908-may-04)<br/>[バージョン 1902 (ビルド 11328.20572)](semi-annual-enterprise-channel.md#version-1902-may-04)|
+|2020|4 月 29 日|[バージョン 2004 (ビルド 12730.20236)](current-channel.md#version-2004-april-29)| | | |
+|2020|4 月 15 日|[バージョン 2003 (ビルド 12624.20466)](current-channel.md#version-2003-april-15)| | | |
+|2020|4 月 14 日|[バージョン 2003 (ビルド 12624.20442)](current-channel.md#version-2003-april-14)| |[バージョン 2002 (ビルド 12527.20442)](semi-annual-enterprise-channel-preview.md#version-2002-april-14)|[バージョン 1908 (ビルド 11929.20708)](semi-annual-enterprise-channel.md#version-1908-april-14)<br/>[バージョン 1902 (ビルド 11328.20564)](semi-annual-enterprise-channel.md#version-1902-april-14)|
+|2020|3 月 31 日|[バージョン 2003 (ビルド 12624.20382)](current-channel.md#version-2003-march-31)| | | |
+|2020|3 月 25 日|[バージョン 2003 (ビルド 12624.20320)](current-channel.md#version-2003-march-25)| | | |
+|2020|3 月 10 日|[バージョン 2002 (ビルド 12527.20278)](current-channel.md#version-2002-march-10)| |[バージョン 2002 (ビルド 12527.20278)](semi-annual-enterprise-channel-preview.md#version-2002-march-10)|[バージョン 1908 (ビルド 11929.20648)](semi-annual-enterprise-channel.md#version-1908-march-10)<br/>[バージョン 1902 (ビルド 11328.20554)](semi-annual-enterprise-channel.md#version-1902-march-10)|
+|2020|3 月 1 日|[バージョン 2002 (ビルド 12527.20242)](current-channel.md#version-2002-march-01)| | | |
+|2020|2 月 25 日|[バージョン 2002 (ビルド 12527.20194)](current-channel.md#version-2002-february-25)| | | |
+|2020|2 月 19 日|[バージョン 2001 (ビルド 12430.20288)](current-channel.md#version-2001-february-19)| | | |
+|2020|2 月 11 日|[バージョン 2001 (ビルド 12430.20264)](current-channel.md#version-2001-february-11)| |[バージョン 1908 (ビルド 11929.20606)](semi-annual-enterprise-channel-preview.md#version-1908-february-11)|[バージョン 1908 (ビルド 11929.20606)](semi-annual-enterprise-channel.md#version-1908-february-11)<br/>[バージョン 1902 (ビルド 11328.20526)](semi-annual-enterprise-channel.md#version-1902-february-11)<br/>[バージョン 1808 (ビルド 10730.20438)](semi-annual-enterprise-channel.md#version-1808-february-11)|
+|2020|1 月 30 日|[バージョン 2001 (ビルド 12430.20184)](current-channel.md#version-2001-january-30)| | | |
+|2020|1 月 22 日|[バージョン 1912 (ビルド 12325.20344)](current-channel.md#version-1912-january-22)| | | |
+|2020|1 月 14 日|[バージョン 1912 (ビルド 12325.20298)](current-channel#version-1912-january-14)| |[バージョン 1908 (ビルド 11929.20562)](semi-annual-enterprise-channel-preview.md#version-1908-january-14)|[バージョン 1908 (ビルド 11929.20562)](semi-annual-enterprise-channel.md#version-1908-january-14)<br/>[バージョン 1902 (ビルド 11328.20512)](semi-annual-enterprise-channel.md#version-1902-january-14)<br/>[バージョン 1808 (ビルド 10730.20432)](semi-annual-enterprise-channel.md#version-1808-january-14)|
+|2020|1 月 8 日|[バージョン 1912 (ビルド 12325.20288)](current-channel#version-1912-january-08)| | | |
 |2019|12 月 10 日|[バージョン 1911 (ビルド 12228.20364)](monthly-channel-2019#version-1911-december-10)| |[バージョン 1908 (ビルド 11929.20516)](semi-annual-channel-2019#version-1902-december-10)  |[バージョン 1902 (ビルド 11328.20492)](semi-annual-channel-2019#version-1902-december-10)<br/>[バージョン 1808 (ビルド 10730.20426)](semi-annual-channel-2019.md#version-1808-december-10)|
 |2019|12 月 3 日|[バージョン 1911 (ビルド 12228.20332)](monthly-channel-2019.md#version-1911-december-3)| | | |
 |2019|11 月 22 日|[バージョン 1910 (ビルド 12130.20410)](monthly-channel-2019.md#version-1910-november-22)| |[バージョン 1908 (ビルド 11929.20494)](semi-annual-channel-targeted-2019.md#version-1908-november-22)|[バージョン 1902 (ビルド 11328.20480)](semi-annual-channel-2019.md#version-1902-november-22)<br/>[バージョン 1808 (ビルド 10730.20422)](semi-annual-channel-2019.md#version-1808-november-22)|
