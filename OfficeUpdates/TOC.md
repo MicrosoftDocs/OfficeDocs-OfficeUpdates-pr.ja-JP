@@ -4,32 +4,32 @@
 ## [更新の履歴 (日付順)](update-history-microsoft365-apps-by-date.md)
 ## [更新プログラムのサイズ](download-sizes-microsoft365-apps-updates.md)
 
-## 月次チャネル
-### [2020](monthly-channel-2020.md)
+## 現在のチャネル
+### [2020](current-channel.md)
 ### [2019](monthly-channel-2019.md)
 ### [2018](monthly-channel-2018.md)
 ### [2017](monthly-channel-2017.md)
 
 ## 月々のエンタープライズ チャネル
-### [2020](monthly-enterprise-channel-2020.md)
+### [2020](monthly-enterprise-channel.md)
 
-## 半期チャネル
-### [2020](semi-annual-channel-2020.md)
+## 半期エンタープライズ チャネル
+### [2020](semi-annual-enterprise-channel.md)
 ### [2019](semi-annual-channel-2019.md)
 ### [2018](semi-annual-channel-2018.md)
 ### [2017](semi-annual-channel-2017.md)
 
-## 半期チャネル (対象指定)
-### [2020](semi-annual-channel-targeted-2020.md)
+## 半期エンタープライズ チャネル (プレビュー)
+### [2020](semi-annual-enterprise-channel-preview.md)
 ### [2019](semi-annual-channel-targeted-2019.md)
 ### [2018](semi-annual-channel-targeted-2018.md)
 ### [2017](semi-annual-channel-targeted-2017.md)
 
 ## Office Insider プログラム  
-### [Insider チャネルの更新の履歴](update-history-office-insider.md)
-### [月次チャネルの更新の履歴 (対象指定)](update-history-monthly-channel-targeted.md)
-### [リリース ノートの Insider チャネル](release-notes-office-insider.md)
-### [リリース ノートの月次チャネル (対象指定)](release-notes-monthly-channel-targeted.md)
+### [更新履歴のベータ チャネル](Update-history-beta-channel.md)
+### [更新履歴の現在のチャネル (プレビュー)](update-history-current-channel-preview.md)
+### [リリース ノートのベータ チャネル](beta-channel.md)
+### [リリース ノートの現在のチャネル (プレビュー)](current-channel-preview.md)
 
 ## [Windows 7 の更新履歴](update-history-office-Win7.md)
 
