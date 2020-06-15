@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT 担当者に対して、最新リリースの Microsoft 365 Apps の一覧をそれぞれの更新プログラム チャネルごとに、リリース ノートへのリンクと更新履歴を含めて提供します
-ms.openlocfilehash: b6300a7742b43f0c820882c0362079e05530c55d
-ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
+ms.openlocfilehash: e82c61c32af89e0be6406a0680e83f6afef6864d
+ms.sourcegitcommit: d8a7a35f1f685d01fbdd1780890737897364935a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "44211102"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "44695560"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps の更新プログラムに関するリリース情報
 
@@ -45,10 +45,10 @@ ms.locfileid: "44211102"
 ## <a name="release-notes-for-microsoft-365-apps-releases"></a>Microsoft 365 Apps リリースのリリース ノート
 
 更新プログラム チャネルと年ごとのリリース ノートすべての一覧については、次の記事をご覧ください。
- - 月次: [2020](monthly-channel-2020.md)、[2019](monthly-channel-2019.md)、[2018](monthly-channel-2018.md)、[2017](monthly-channel-2017.md)、[2016](monthly-channel-2016.md)
- - 月々のエンタープライズ チャネル: [2020](monthly-enterprise-channel-2020.md)
- - 半期 (対象指定): [2020](semi-annual-channel-targeted-2020.md)、[2019](semi-annual-channel-targeted-2019.md)、[2018](semi-annual-channel-targeted-2018.md)、[2017](semi-annual-channel-targeted-2017.md)、[2016](semi-annual-channel-targeted-2016.md)
- - 半期: [2020](semi-annual-channel-2020.md)、[2019](semi-annual-channel-2019.md)、[2018](semi-annual-channel-2018.md)、[2017](semi-annual-channel-2017.md)、[2016](semi-annual-channel-2016.md)
+ - 現在: [2020](current-channel.md)、[2019](monthly-channel-2019.md)、[2018](monthly-channel-2018.md)、[2017](monthly-channel-2017.md)、[2016](monthly-channel-2016.md)
+ - 月々のエンタープライズ チャネル: [2020](monthly-enterprise-channel.md)
+ - 半期エンタープライズ (プレビュー): [2020](semi-annual-enterprise-channel-preview.md)、[2019](semi-annual-channel-targeted-2019.md)、[2018](semi-annual-channel-targeted-2018.md)、[2017](semi-annual-channel-targeted-2017.md)、[2016](semi-annual-channel-targeted-2016.md)
+ - 半期エンタープライズ: [2020](semi-annual-enterprise-channel.md)、[2019](semi-annual-channel-2019.md)、[2018](semi-annual-channel-2018.md)、[2017](semi-annual-channel-2017.md)、[2016](semi-annual-channel-2016.md)
 
  ## <a name="release-history-for-office-deployment-tool"></a>Office 展開ツールのリリース履歴
  Office 展開ツールのリリースの完全リストは、次の記事を参照してください。
