@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の月次エンタープライズ チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: b346aba65488adcd2d0c223e17fe71cc22c0b6b3
-ms.sourcegitcommit: d8a7a35f1f685d01fbdd1780890737897364935a
+ms.openlocfilehash: 48af42f973d499fb9ea43bc596d7389cb8fcff01
+ms.sourcegitcommit: 496e2442f722e5152e19cb5be5cfd91050288081
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "44695582"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "44735457"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>2020 年の月次エンタープライズ チャネル リリースのリリース ノート
 
@@ -42,10 +42,6 @@ ms.locfileid: "44695582"
 
 ### <a name="excel"></a>Excel
 
-- **画像の背後を見えるようにする:** ワークシートに画像を挿入し、既定の設定から選択して、透明度の変化を確認するだけです。[詳細情報](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
-
-- **よりアクセシビリティの高い PDF ファイルを作成する:** PDF を作成すると、アクセシビリティ チェックが、保存する前に修正するアクセシビリティの問題を指摘します。 [詳細情報](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)<br />[ブログの投稿](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/)の詳細情報をご覧ください
-
 - **最適な色を選択する:** 16 進数カラーコードを使用して、フォントやテキストのハイライトなどに使用する色を正確に選びます。<br />[ブログの投稿](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)の詳細情報をご覧ください
 
 - **Facebook コネクタのサポート終了:** 2020 年 4 月以降、Excel では Facebook コネクタを使用する外部データ接続がサポートされなくなります。
@@ -53,8 +49,6 @@ ms.locfileid: "44695582"
 - **ブックの見映えを良くする新しい画像:** 何千ものロイヤリティフリーの画像、アイコン、ステッカーが用意されており、これらをブックで使用できます。 開始するには、[挿入] > [画像] > [ストック画像] の順に選択します。 [詳細情報](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />[ブログの投稿](https://blog-insider.office.com/2020/04/06/premium-creative-content/)の詳細情報をご覧ください
 
 ### <a name="outlook"></a>Outlook
-
-- **洗練された [宛先] 行:** メッセージの宛先を指定するために [宛先] 行をクリックすると、選択されそうな受信者の候補が表示されます。 さらに、適切な人物に送信していることがわかるように、画像を表示することもできます。 [詳細情報](https://support.office.com/article/147208af-ca8e-4cdf-b71f-77ba81a54069)
 
 - **最適な色を選択する:** 16 進数カラーコードを使用して、フォントやテキストのハイライトなどに使用する色を正確に選びます。<br />[ブログの投稿](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)の詳細情報をご覧ください
 
@@ -66,10 +60,6 @@ ms.locfileid: "44695582"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **画像の背後を見えるようにする:** スライドに画像を挿入し、既定の設定から選択して、透明度の変化を確認するだけです。[詳細情報](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
-
-- **よりアクセシビリティの高い PDF ファイルを作成する:** PDF を作成すると、アクセシビリティ チェックが、保存する前に修正するアクセシビリティの問題を指摘します。<br />[ブログの投稿](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/)の詳細情報をご覧ください
-
 - **最適な色を選択する:** 16 進数カラーコードを使用して、フォントやテキストのハイライトなどに使用する色を正確に選びます。<br />[ブログの投稿](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)の詳細情報をご覧ください
 
 - **プレゼンテーション中に変更を同期する:** プレゼンテーションがスライド ショー モードであっても、いつでも変更を同期できます。 [詳細情報](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />[ブログの投稿](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)の詳細情報をご覧ください
@@ -78,12 +68,6 @@ ms.locfileid: "44695582"
 
 ### <a name="word"></a>Word
 
-- **関連する校正問題を見つけて修正します。** エディターウィンドウには、ドキュメント内で検出された問題の概要が表示されるので、最も関連のあるものを修正することに重点を置いています。
-
-- **画像の背後を見えるようにする:** スライドに画像を挿入し、既定の設定から選択して、透明度の変化を確認するだけです。[詳細情報](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
-
-- **よりアクセシビリティの高い PDF ファイルを作成する:** PDF を作成すると、アクセシビリティ チェックが、保存する前に修正するアクセシビリティの問題を指摘します。 [詳細情報](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)<br />[ブログの投稿](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/)の詳細情報をご覧ください
-
 - **インクのなげなわ:** [描画] タブのなげなわツールを使用すると、インクで描かれたオブジェクトを選択できます。 個別のストロークまたは文字全体を選択できます。 [詳細情報](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 - **最適な色を選択する:** 16 進数カラーコードを使用して、フォントやテキストのハイライトなどに使用する色を正確に選びます。<br />[ブログの投稿](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)の詳細情報をご覧ください
@@ -91,8 +75,6 @@ ms.locfileid: "44695582"
 - **ドキュメントの見映えを良くする新しい画像:** 何千ものロイヤリティフリーの画像、アイコン、ステッカーが用意されており、これらをドキュメントで使用できます。 開始するには、[挿入] > [画像] > [ストック画像] の順に選択します。 [詳細情報](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />[ブログの投稿](https://blog-insider.office.com/2020/04/06/premium-creative-content/)の詳細情報をご覧ください
 
 ### <a name="office-suite"></a>Office スイート
-
-- **新しい外観を備えた Office のアイコン:** シンプルかつ高性能で、インテリジェントな Office のエクスペリエンスを反映するように、Office のアイコンがリニューアルされました。
 
 - **秘密度ラベル:** カスタム アクセス許可を求められるように組織で構成された秘密度ラベルを適用できるようになりました。
 

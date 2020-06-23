@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT 担当者に、日付ごとに整理した Microsoft 365 Apps のリリースすべての一覧を、リリース ノートへのリンクを含めて提供します
-ms.openlocfilehash: 2bfbf1d8df2923c97e12380e8c054ddcf18f6c1e
-ms.sourcegitcommit: d8a7a35f1f685d01fbdd1780890737897364935a
+ms.openlocfilehash: cc14aacc0a08dd5c45e22410df7b50a0de51de94
+ms.sourcegitcommit: 6bd9e41014037650170125aaed9847880d438645
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "44695569"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "44814296"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 Apps の更新履歴 (日付別の一覧)
 
@@ -47,11 +47,11 @@ ms.locfileid: "44695569"
 
 以前のリリースの Microsoft 365 Apps から最新の現在のリリースへ更新する場合のおおよそのダウンロード サイズについて詳しくは、「[Microsoft 365 Apps の更新プログラムのダウンロード サイズ](download-sizes-office365-proplus-updates.md)」をご覧ください。
 
-次の表は、リリースされた Microsoft 365 Apps の更新プログラムのバージョンとビルド番号を、月次チャネル、半期チャネル (対象指定)、半期チャネルの更新プログラム チャネル別に分けて示したものです。 それぞれの表の記載項目をクリックすると、該当するリリースのリリース ノートを直接参照することができます。 これらのリリース ノートには、Microsoft 365 Apps の更新プログラムに含まれている機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムに関する情報が記載されています。  
+次の表に、次の更新プログラムチャネルでリリースされた Microsoft 365 アプリに対する各更新プログラムのバージョン番号とビルド番号の一覧を示します。これは、現在、月単位企業、半期エンタープライズ (プレビュー)、および半期エンタープライズです。 それぞれの表の記載項目をクリックすると、該当するリリースのリリース ノートを直接参照することができます。 これらのリリース ノートには、Microsoft 365 Apps の更新プログラムに含まれている機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムに関する情報が記載されています。  
 
 [//]: # (HISTORYTABLESTART)
 
-|**Year**|**リリース日**|**Current Channel**|**月々のエンタープライズ チャネル**|**半期エンタープライズチャネル (プレビュー)**|**半期エンタープライズチャネル**|
+|**Year**|**リリース日**|**Current Channel**|**月次エンタープライズ チャネル**|**半期エンタープライズ チャネル (プレビュー)**|**半期エンタープライズ チャネル**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |2020|09月9日|[バージョン 2005 (ビルド 12827.20336)](current-channel.md#version-2005-june-09)|[バージョン 2004 (ビルド 12730.20430)](monthly-enterprise-channel.md#version-2004-june-09)<br/>[バージョン 2003 (ビルド 12624.20708)](monthly-enterprise-channel.md#version-2003-june-09)|[バージョン 2002 (ビルド 12527.20720)](semi-annual-enterprise-channel-preview.md#version-2002-june-09)|[バージョン 1908 (ビルド 11929.20838)](semi-annual-enterprise-channel.md#version-1908-june-09)<br/>[バージョン 1902 (ビルド 11328.20602)](semi-annual-enterprise-channel.md#version-1902-june-09)|
 |2020|02年6月|[バージョン 2005 (ビルド 12827.20268)](current-channel.md#version-2005-june-02)| | | |

@@ -1,0 +1,93 @@
+### YamlMime:Landing
+title: Office 更新プログラム
+summary: Microsoft 365 アプリ、Office for Mac、Office Server 製品、および Office の永続バージョンを含む、Office 製品の機能、更新プログラムに関する情報を入手できます。
+metadata:
+  title: Office 更新プログラム
+  description: Microsoft 365 アプリ、Office for Mac、Office Server 製品、および Office の永続バージョンを含む、Office 製品の機能、更新プログラムに関する情報を入手できます。
+  ms.service: o365-proplus-itpro
+  manager: andrewmo
+  ms.audience: ITPro
+  localization_priority: Normal
+  ms.collection: RelNotes_Landing
+  author: TimDavenport
+  ms.author: andrewmo
+  ms.date: 06/18/2020
+  ms.openlocfilehash: c8b117874eca2923172290475e6ce7cad5894b1c
+  ms.sourcegitcommit: 75dd224cc25daf9e0dae2056ea7d53e7e7e790e3
+  ms.translationtype: MT
+  ms.contentlocale: ja-JP
+  ms.lasthandoff: 06/23/2020
+  ms.locfileid: "44854579"
+landingContent:
+- title: Microsoft 365 アプリ
+  linkLists:
+  - linkListType: overview
+    links:
+    - text: リリース ノート
+      url: release-notes-microsoft365-apps.md
+    - text: 更新の履歴 (日付順)
+      url: update-history-microsoft365-apps-by-date.md
+    - text: 更新プログラムのサイズ
+      url: download-sizes-microsoft365-apps-updates.md
+    - text: セキュリティ更新プログラム
+      url: microsoft365-apps-security-updates.md
+- title: Office for Mac
+  linkLists:
+  - linkListType: overview
+    links:
+    - text: リリース ノート (Microsoft 365、2019)
+      url: release-notes-office-for-mac.md
+    - text: 更新の履歴 (Microsoft 365、2019)
+      url: update-history-office-for-mac.md
+    - text: リリース ノート (2016)
+      url: release-notes-office-2016-mac.md
+    - text: MAU リリース
+      url: release-history-microsoft-autoupdate.md
+- title: Office Server 製品
+  linkLists:
+  - linkListType: overview
+    links:
+    - text: Exchange Server 更新プログラム
+      url: https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates
+    - text: Project Server 更新プログラム
+      url: project-server-updates.md
+    - text: SharePoint Server の更新プログラム
+      url: sharepoint-updates.md
+    - text: Skype for Business Server 更新プログラム
+      url: https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates
+- title: Office (永続ライセンス)
+  linkLists:
+  - linkListType: overview
+    links:
+    - text: Office 2016 および 2019 (C2R)
+      url: update-history-office-2019.md
+    - text: Office 2010、2013、2016 の更新プログラム (MSI)
+      url: office-updates-msi.md
+    - text: Office 2016 .msp ファイル
+      url: msp-files-office-2016.md
+    - text: Office 2013 .msp ファイル
+      url: msp-files-office-2013.md
+- title: その他の Office リソース
+  linkLists:
+  - linkListType: whats-new
+    links:
+    - text: Microsoft 365 の新機能
+      url: https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426
+    - text: Microsoft 365 ロードマップ
+      url: https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=O365
+    - text: Microsoft 365 の変更に関する最新情報
+      url: https://support.office.com/article/719f4904-cbdd-4889-a0cf-fbd7837dfecd
+    - text: Office ブログ
+      url: https://www.microsoft.com/microsoft-365/blog/office/
+- title: Microsoft リソース
+  linkLists:
+  - linkListType: overview
+    links:
+    - text: Windows 10 のリリース情報
+      url: https://www.microsoft.com/itpro/windows-10/release-information
+    - text: Microsoft ライフサイクルポリシー
+      url: https://support.microsoft.com/lifecycle
+    - text: Microsoft セキュリティ更新ガイド
+      url: https://portal.msrc.microsoft.com/
+    - text: Microsoft Tech Community
+      url: https://techcommunity.microsoft.com/

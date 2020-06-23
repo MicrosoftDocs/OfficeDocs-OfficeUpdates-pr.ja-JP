@@ -9,16 +9,17 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Windows デスクトップ用の月次チャンネル Insider ファースト リリースの更新履歴を Insider の皆様に提供します。
-ms.openlocfilehash: 13263186e115180da3b989267f23721b13790f93
-ms.sourcegitcommit: 1f8cb906d8d0af5eb26eaedf008180375d2fd55d
+ms.openlocfilehash: 3a015030f5f82cfab54f50c45492a0069a85aac0
+ms.sourcegitcommit: 75dd224cc25daf9e0dae2056ea7d53e7e7e790e3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44668108"
+ms.lasthandoff: 06/23/2020
+ms.locfileid: "44853955"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Office ベータチャネルの更新履歴
 
-Insider の皆様。最新の更新プログラムがインストールされているかどうかを確認したり、最近の Insider ビルドの一覧を探したりしている場合は、この記事をご活用いただけます。Insider プログラムの詳細については、[こちら](https://insider.office.com/)をクリックしてください。
+Hello, Insiders! If you're wondering whether you have the latest update installed or are looking for a list of recent Insider build, you're in the right place.
+Click [here](https://insider.office.com/) for more information on the Insiders Program.
 
 > [!IMPORTANT]
 > - Microsoft 365 アプリの更新チャネルの更新プログラムチャネルに、新しい更新チャネル (月間エンタープライズ チャネル) の追加や、既存の更新プログラムチャネルの名前の変更など、いくつかの変更を行っています。 詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2127441)を参照してください。
@@ -29,13 +30,20 @@ Insider の皆様。最新の更新プログラムがインストールされて
 > - こちらの更新履歴はリリースされたすべてのビルドを一覧表示します
 > - リリース ノートは、更新される頻度は低く、複数のビルドの更新を発行済みリリース ノートのビルド番号までまとめたものである場合があります。
 
-## <a name="office-beta-versions-and-builds"></a>Office ベータ版とビルド
+## <a name="office-beta-channel-versions-and-builds"></a>Office ベータチャネルのバージョンとビルド
 
-Insider レベルで登録している場合は、新しい機能と改善により頻繁に更新されます。 次の一覧は、最近リリースされたビルドが最初に**一覧表示さ**れた、最近のベータ版とビルドの履歴を示しています。 新しいビルドには、以前のビルドに含まれるすべての更新が含まれています。
+Insider レベルで登録している場合は、新しい機能と改善により頻繁に更新されます。 次のリストは、最近**リリースさ**れたベータ版のバージョンとビルドの履歴を示しています。 新しいビルドには、以前のビルドに含まれるすべての更新が含まれています。
 
-リリース ノートを確認するには、「[Windows デスクトップ版 Office のリリース ノート](https://docs.microsoft.com/OfficeUpdates/release-notes-office-insider)」を参照してください。
+リリース ノートを確認するには、「[Windows デスクトップ版 Office のリリース ノート](https://docs.microsoft.com/OfficeUpdates/beta-channel)」を参照してください。
+
 
 [//]: # (削除しないでください)
+
+**2020年6月23日**<br/>
+バージョン 2007 (ビルド 13020.20004)<br/>
+
+**2020年6月15日**<br/>
+バージョン 2007 (ビルド 13012.20000)<br/>
 
 **2020年6月9日**<br/>
 バージョン 2007 (ビルド 13006.20002)<br/>
