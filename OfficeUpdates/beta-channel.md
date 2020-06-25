@@ -9,14 +9,14 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: ab1953f105cbab856ac183335fb54edb538b5d43
-ms.sourcegitcommit: 6bd9e41014037650170125aaed9847880d438645
+ms.openlocfilehash: 9585d43c73676e2a12f38b34cbd6c57172bbe917
+ms.sourcegitcommit: a0285b69d4d48b5ef4ac3c54678fb67ce399b73e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "44814306"
+ms.lasthandoff: 06/25/2020
+ms.locfileid: "44874793"
 ---
-# <a name="release-notes-for-office-insiders"></a>Office Insider のリリース ノート
+# <a name="release-notes-for-beta-channel"></a>ベータチャネルのリリースノート
 
 この記事には、Windows デスクトップ用の Word、Excel、PowerPoint、Outlook、Access、および Project のベータ版チャネルビルドのリリースノートが記載されています。 Microsoft では、毎週、皆様にお知らせしたい魅力的な新機能、重要な修正プログラム、重大な問題に関する情報を提供しています。 多くの場合、機能 (および場合によっては修正) をベータチャネルに長期間にわたってロールアウトすることに注意してください。 これにより、Microsoft では、より広範な対象ユーザーに機能をリリースする前に、作業がスムーズに行われていることを確認できます。 以下に示すものが表示されない場合でも、最終的には入手できますのでご安心ください。  
 

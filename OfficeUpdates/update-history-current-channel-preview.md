@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Windows デスクトップ用の月次チャンネル 対象指定リリースの更新履歴を Insider の皆様に提供します。
-ms.openlocfilehash: e2a72a34490e4403f36f3288fe01c18135f9a7a1
-ms.sourcegitcommit: ad8d5cd9c165adcefcb0bbfc6b26d54212bc4c6c
+ms.openlocfilehash: b162030edbc15fd4d9dd5c7ce78b75853dc417da
+ms.sourcegitcommit: a0285b69d4d48b5ef4ac3c54678fb67ce399b73e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "44796698"
+ms.lasthandoff: 06/25/2020
+ms.locfileid: "44874833"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Windows 用 Office の現在のチャネル (プレビュー) の更新履歴
 
@@ -24,7 +24,7 @@ Insider プログラムの詳細については、[こちら](https://insider.of
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Office の現在のチャネル (プレビュー) のバージョンとビルド
 
 以前は Insider 低速と呼ばれていた現在のチャネル (プレビュー) レベルに登録されている場合は、新しい Office 機能更新プログラムが1か月に1回、さらに、重要な修正またはセキュリティ更新プログラムを含む後続のビルドが取得されます。 次のリストは、最近**リリースさ**れたバージョンとビルドを示しています。 新しいビルドには、以前のビルドに含まれるすべての更新が含まれています。
-リリースノートについては、「 [Office insider の新機能](https://support.office.com/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24)」を参照してください。
+リリースノートについては、 [「」を参照してください](https://docs.microsoft.com/en-us/OfficeUpdates/current-channel-preview)。 また、 [Office insider の新機能](https://support.office.com/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24)を確認することもできます。
 
 
 > [!IMPORTANT]
