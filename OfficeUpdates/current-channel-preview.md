@@ -9,19 +9,19 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 6287f468ba3d600551da43047227454b26a05e06
-ms.sourcegitcommit: ad8d5cd9c165adcefcb0bbfc6b26d54212bc4c6c
+ms.openlocfilehash: 5d3f5834c1199f9d68fd527d231114611b2255fc
+ms.sourcegitcommit: 6cec37b303b316500774846b6fcdd83814b2b364
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "44796688"
+ms.lasthandoff: 06/25/2020
+ms.locfileid: "44889063"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office の現在のチャネルのリリースノート (プレビュー)
 
 この記事には、Windows デスクトップ用の Word、Excel、PowerPoint、Outlook、Access、および Project の現在のチャネル (プレビュー) ビルドのリリースノートが記載されています。 Microsoft では、毎週、皆様にお知らせしたい魅力的な新機能、重要な修正プログラム、重大な問題に関する情報を提供しています。 (場合によっては) 現在のチャネル (プレビュー) への機能 (および場合によっては修正) を長期間にわたってロールアウトすることに注意してください。 これにより、Microsoft では、より広範な対象ユーザーに機能をリリースする前に、作業がスムーズに行われていることを確認できます。 したがって、下記のものが表示されない場合でも、心配する必要はなく、いずれは表示されます。  
 
 > [!IMPORTANT]
-> Microsoft 365 アプリの更新チャネルの更新プログラムチャネルに、新しい更新チャネル (月間エンタープライズ チャネル) の追加や、既存の更新プログラムチャネルの名前の変更など、いくつかの変更を行っています。 詳細については、[こちらの記事を参照](https://go.microsoft.com/fwlink/p/?linkid=2127441)をご覧ください。
+> 現在、Microsoft 365 Apps の更新プログラム チャネルに、新しい更新プログラム チャネル (月次エンタープライズ チャネル) の追加や既存の更新プログラム チャネル名の変更など、いくつかの変更を進めています。 詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2127441)を参照してください。
 
 > [!NOTE]
 > - リリースノートの発行日は実際のビルドのリリース日と一致しない場合があります。
@@ -32,6 +32,46 @@ ms.locfileid: "44796688"
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2006-june-25"></a>バージョン 2006: 6 月25日
+*バージョン 2006 (ビルド 13001.20266)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="visio"></a>Visio
+
+- **Excel で洗練される Visio の図を作成する:** ワークシートのデータに基づいて、フローチャートまたは組織図を作成します。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="access"></a>Access
+
+- <div>この問題は解決されました。 このプロセスで問題が発生しているかどうかをチームに知らせてください。</div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span style="display:inline !important;">ユーザーに表示される可能性のある <span>&nbsp;</span> 問題に対処します</span>。<span style="box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;display:inline !important;"> &nbsp; ドラッグアンドドロップによってファイルシステムにコピーされた添付ファイルの作成日を &nbsp; 4501 年1月1日に設定します。</span><br></div>
+
+
+- <div><span style="font-family:&quot;Segoe UI&quot;, system-ui, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, sans-serif;display:inline !important;">共有された予定表のユーザーが予定表のエラーを表示する原因となった問題に対処します。</span><br></div>
+
+
+- <div><span style="display:inline !important;">受信トレイ修復ツールを実行するために、ユーザーに Outlook が連続して表示される原因となった問題に対処します。</span><br></div>
+
+
+- <div><span style="display:inline !important;">機能を検索する際に、結果が返されず、ユーザーに新しい機能を提出するオプションがないことを示す機能があるという問題に対処します。</span><br></div>
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2006-june-18"></a>バージョン 2006: 6 月18日
 *バージョン 2006 (ビルド 13001.20198)*
@@ -175,7 +215,7 @@ ms.locfileid: "44796688"
 
 ### <a name="project"></a>Project
 
-- プロジェクトのサマリータスクに変更があるときに、プロジェクトの開始/タスクフィールドのいずれかに変更が行われても、ProjectBeforeTaskChange イベントが発生しない問題を修正しました。
+- プロジェクトのサマリータスクで、[プロジェクトの開始日] フィールドまたは [タスク] フィールドのいずれかに変更があった場合、ProjectBeforeTaskChange イベントが発生しない問題が修正されました。
 
 - 100% 完了としてマークされているタスクの達成率が100% 未満になるという問題を修正しました。
 
@@ -223,7 +263,7 @@ ms.locfileid: "44796688"
 
 - Microsoft Office の Visual Basic for Applications では、ライブラリ名またはライブラリパスで DBCS 文字を含むコードライブラリへの参照が含まれている特定の VBA プロジェクトでは、読み込み時に Office アプリケーションが破損していると考えられるという問題を修正しました。
 
-- この更新プログラムを実行すると、PATH 環境変数で指定されている場所を検索することによって検出された参照を含む Visual Basic for Applications プロジェクトが、実行時に適切に検出されず、VBA ランタイムエラーが発生するという問題が修正されます。
+- この更新プログラムでは、Microsoft Office で PATH 環境変数で指定した場所を検索することによって参照される可能性がある Visual Basic for Applications プロジェクトが実行時に正しく検出されず、VBA ランタイムエラーが発生するという問題が修正されます。
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
@@ -269,12 +309,12 @@ ms.locfileid: "44796688"
 ### <a name="resolved-issues"></a>解決済みの問題
 ### <a name="powerpoint"></a>PowerPoint
 
-- これにより、ユーザーがモダンおよび従来のコメントをファイルに保持しているときに、コメントのアップグレードをトリガーするクラッシュが修正されます。
+- これにより、ユーザーがファイルに対してモダンおよびレガシのコメントを持っていて、コメントの更新をトリガーすると、クラッシュが修正されます。
 
 
 ### <a name="office-suite"></a>Office スイート
 
-- 既定で Bing アドオンインストールの検証を true に設定し、MSI リターンがインストールが成功したことを考慮して、ValidateInstall fail rate 問題を解決しました。
+- Bing アドオンのインストール検証を既定で true に設定し、MSI のリターン成功をインストール成功とみなすことで、ValidateInstall のエラー率の問題を解決しました。
 
 
 
@@ -308,14 +348,14 @@ ms.locfileid: "44796688"
 
 ### <a name="outlook"></a>Outlook
 
-- Windows 10 server バージョンのユーザーがウイルス対策の状態を確認することを引き起こした問題に対処しました。無効です。 このバージョンの Windows はウイルス検出をサポートしていますが、ウイルス対策が正しくインストールされているにもかかわらず、ウイルス対策は検出されませんでした。
+- Windows 10 server バージョンのユーザーがウイルス対策の状態を確認することを引き起こした問題に対処しました。無効です。 このバージョンの Windows はウイルス検出をサポートしていますが、ウイルス対策が正常にインストールされてもウイルス対策ソフトウェアが見つかりませんでした。
 
 ### <a name="office-suite"></a>Office スイート
 
-- レジストリキー HKEY_CURRENT_USER \Software\Microsoft\Internet Explorer\Main\TabProcGrowth が0に設定されている間にアドインがアクティブ化されると、office ホストが windows でクラッシュしました。 この変更により、この問題が修正されます。
+- HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth のレジストリ キーが0に設定されている場合、アドインがアクティブになり、Windows で Office ホストがクラッシュしました。 この変更により、この問題は修正されます。
 
 
-[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+[//]: # (バグの詳細コンテンツ エンドを削除しないでください)
 
 ## <a name="version-2005-may-21"></a>バージョン 2005: 5 月21日
 *バージョン 2005 (ビルド 12827.20210)*
@@ -337,18 +377,18 @@ ms.locfileid: "44796688"
 ### <a name="resolved-issues"></a>解決済みの問題
 ### <a name="excel"></a>Excel
 
-- Ctrl + Shift + 方向キーを使用して、Excel ウィンドウが Teams によって共有されている場合に、Excel が応答しなくなる問題を修正しました。
+- Excel ウィンドウが Teams と共有されているときに、Ctrl キーと Shift キーを押しながら方向キーを押した後、Excel が応答しなくなる可能性がある問題が修正されました。
 
 
-- 場合によっては、同じブック内の場所へのハイパーリンクをクリックすると、ブックが非表示になります。
+- 同じブック内の場所へのハイパーリンクをクリックすると、ブックが非表示になることがあります。
 
 
 ### <a name="outlook"></a>Outlook
 
-- 返信/転送ラベルの clp 監査イベントに関する問題に対処した。
+- CLP の監査イベントで、返信/転送ラベルの問題に対応しました。
 
 
-- ユーザーが管理者の通知からフィードバックを送信する際にクラッシュする原因となった問題に対処しました。
+- ユーザーが管理者通知からフィードバックを送信する場合にクラッシュが発生する問題に対処しました。
 
 
 
@@ -366,7 +406,7 @@ ms.locfileid: "44796688"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **クリッカーを使用する必要はありません。 earbuds について説明します。** Surface Earbuds を使用して PowerPoint プレゼンテーションを制御します。 重要: プレゼンテーションを制御するためにジェスチャを使用するには、Surface Audio app in Windows 10 で Surface Earbuds をペアにする必要があります。 Windows 10 で Surface Audio アプリの使用を開始する手順はこちらから入手できます。 [詳細情報](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
+- **クリッカーは不要: イヤホンでカバー: ** Surface Earbuds を使用して、PowerPoint プレゼンテーションを制御します。 重要: ジェスチャーを使用してプレゼンテーションを制御するには、Windows 10 の Surface Audio アプリで Surface Earbuds をペアリングする必要があります。 Windows 10 で Surface Audio アプリを使い始める方法については、こちらをご覧ください。 [詳細情報](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
 
 - **自動適用または推奨される機密ラベル:** Office では、検出された機密コンテンツに基づいて機密ラベルを推奨または自動適用できます。
 
@@ -397,7 +437,7 @@ ms.locfileid: "44796688"
 
 - 印刷時にフォーム コントロールのチェックボックスが拡大縮小されるという問題を修正しました。
 
-- ファイルパスが長すぎる場合にファイルを再度開いた後、外部リンクが機能しなくなる問題を修正します。
+- ファイル パスが長すぎる場合にファイルをもう一度開くと、外部リンクが機能しなくなった問題が修正されました。
 
 - Excel 2016 でデジタル署名を使用して保存したブックを現在のバージョンの Excel で開くと、署名が無効になる可能性があります。
 
@@ -488,9 +528,9 @@ ms.locfileid: "44796688"
 
 ### <a name="office-suite"></a>Office スイート
 
-- ユーザーに対して、それらを Teams のみに移動するポリシーが付与されている場合でも、Skype for Business Outlook アドインを使用して会議をスケジュールすることができます。  この更新プログラムを実行すると、ユーザーが Teams のみであることを示すポリシーをクライアントが読み取った後、Skype for Business 会議をスケジュールすることができなくなります。また、[ミーティングの参加のみ] モードに入ります。  さらに、skype for business Outlook アドインは、Skype for business クライアントが会議参加のみのモードであることが確認された場合に起動してもアクティブ化されません。
+- ユーザーが Teams Only に移動するポリシーを与えられた場合は、Skype for Business Outlook アドインを使用して会議をスケジュールできます。  この更新プログラムを適用すると、クライアントは Teams Only を対象としていることを示すポリシーをユーザーが読んでから会議参加のみのモードに入った後に、Skype for Business 会議のスケジュールを設定できなくなります。  また、skype for business Outlook アドインは、Skype for business クライアントが 「会議の参加のみ」 モードであることを確認した場合に起動した場合、自動的にアクティブ化されることはありません。
 
-- この更新プログラムを実行すると、PATH 環境変数で指定されている場所を検索することによって検出された参照を含む Visual Basic for Applications プロジェクトが、実行時に適切に検出されず、VBA ランタイムエラーが発生するという問題が修正されます。
+- この更新プログラムでは、Microsoft Office で PATH 環境変数で指定した場所を検索することによって参照される可能性がある Visual Basic for Applications プロジェクトが実行時に正しく検出されず、VBA ランタイムエラーが発生するという問題が修正されます。
 
 - この更新プログラムを適用すると、Microsoft Office の Visual Basic for Applications で、ライブラリ名またはライブラリ パスに DBCS 文字を含むコード ライブラリへの参照が含まれている特定の VBA プロジェクトが、読み込み時に破損していると Office アプリケーションで表示される問題が修正されます。
 
@@ -545,7 +585,7 @@ ms.locfileid: "44796688"
 ### <a name="feature-updates"></a>機能の更新プログラム
 ### <a name="outlook"></a>Outlook
 
-- **より良い結果-jiffy では次のようになります。** 検索機能を更新して、これまでよりも賢明で迅速に、かつ信頼できるものにしました。 [詳細情報](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
+- **より迅速かつ適切な結果:** 検索機能が更新され、よりスマート、迅速、かつ信頼性が高くなりました。 [詳細情報](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
 
 - **IT 管理者向けのインシデント通知:** Microsoft 365 テナントのグローバル管理者および Office Apps 管理者は、Outlook for Windows の新しい右側のパネル通知により、ユーザーに影響する Outlook および O365 Exchange インシデントについて通知されます。 [詳細情報](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
 
@@ -1104,7 +1144,7 @@ ms.locfileid: "44796688"
 
 ### <a name="resolved-issues"></a>解決済みの問題
 
-### <a name="project"></a>プロジェクト
+### <a name="project"></a>Project
 - <div>サマリー タスクの日付の計算に常に誤りが発生する問題を修正しました。</div>
 
 
@@ -1203,7 +1243,7 @@ ms.locfileid: "44796688"
 
 ### <a name="word"></a>Word
 
-- **他のユーザーがすばやく変更を確認:** 共同編集の改善とは、これまでになく迅速に、共同作業者がユーザーによる変更を確認できることを意味します。
+- **他のユーザーがすばやく変更を確認する:** 共同編集の改善とは、これまでになく迅速に、共同作業者がユーザーによる変更を確認できることを意味します。
 
 ### <a name="office-suite"></a>Office スイート
 
@@ -1310,5 +1350,5 @@ ms.locfileid: "44796688"
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-[//]: # (バグの詳細コンテンツ エンドを削除しないでください)
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
