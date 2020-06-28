@@ -9,19 +9,19 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 9585d43c73676e2a12f38b34cbd6c57172bbe917
-ms.sourcegitcommit: a0285b69d4d48b5ef4ac3c54678fb67ce399b73e
+ms.openlocfilehash: 55d62bf10375c72a09f93369c20f7f5b6d1b963f
+ms.sourcegitcommit: f9bf47d0d27e084205311ab6e844d044da83f252
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "44874793"
+ms.lasthandoff: 06/26/2020
+ms.locfileid: "44906912"
 ---
 # <a name="release-notes-for-beta-channel"></a>ベータチャネルのリリースノート
 
 この記事には、Windows デスクトップ用の Word、Excel、PowerPoint、Outlook、Access、および Project のベータ版チャネルビルドのリリースノートが記載されています。 Microsoft では、毎週、皆様にお知らせしたい魅力的な新機能、重要な修正プログラム、重大な問題に関する情報を提供しています。 多くの場合、機能 (および場合によっては修正) をベータチャネルに長期間にわたってロールアウトすることに注意してください。 これにより、Microsoft では、より広範な対象ユーザーに機能をリリースする前に、作業がスムーズに行われていることを確認できます。 以下に示すものが表示されない場合でも、最終的には入手できますのでご安心ください。  
 
 > [!IMPORTANT]
-> Microsoft 365 アプリの更新チャネルの更新プログラムチャネルに、新しい更新チャネル (月間エンタープライズ チャネル) の追加や、既存の更新プログラムチャネルの名前の変更など、いくつかの変更を行っています。 詳細については、[こちらの記事を参照](https://go.microsoft.com/fwlink/p/?linkid=2127441)をご覧ください。
+> 現在、Microsoft 365 Apps の更新プログラム チャネルに、新しい更新プログラム チャネル (月次エンタープライズ チャネル) の追加や既存の更新プログラム チャネル名の変更など、いくつかの変更を進めています。 詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2127441)を参照してください。
 
 > [!NOTE]
 > - リリース ノートは毎週投稿され、場合により複数のビルドのコンパイルになります。
@@ -30,6 +30,34 @@ ms.locfileid: "44874793"
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2007-june-26"></a>バージョン 2007: 6 月26日
+*バージョン 2007 (ビルド 13020.20004)*
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="access"></a>Access
+
+- リンクされた SQL テーブルが更新された場合、リンクテーブルマネージャーが主キーの入力を求められるという問題を修正しました。
+- クエリエディター内のクエリが表示されないようにスクロールされるという問題を修正しました。
+- クエリの実行が予想よりも完了するまでに約2回かかったという問題を修正しました。
+
+### <a name="outlook"></a>Outlook
+
+- ユーザーが配布リストの [送信者] または [代理人として送信する] を送信できないという問題が修正されました。
+- メッセージに画像をインラインで挿入し、下書きとしてメッセージを保存すると、画像のサイズが変更されるという問題が修正されました。
+- 件名を編集した後、NDR メッセージの本文が Unicode から ASCII に変更される原因となった問題を修正しました。
+
+### <a name="project"></a>Project
+
+- Government Community Cloud 環境のプロジェクトプランナーリンクが無効になっているという問題が修正されました。
+
+### <a name="office-suite"></a>Office スイート
+
+- スケーラブルベクターグラフィックス (SVG) に挿入されたテキストが、Word、Excel、または PowerPoint ファイルに挿入された後、ファイルを保存して閉じた後、ファイルを再び開くと、問題が修正されました。
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2007-june-19"></a>バージョン 2007: 6 月19日
 *バージョン 2007 (ビルド 13012.20000)*
@@ -278,7 +306,7 @@ ms.locfileid: "44874793"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **クリッカーを使用する必要はありません。 earbuds について説明します。** Surface Earbuds を使用して PowerPoint プレゼンテーションを制御します。 重要: プレゼンテーションを制御するためにジェスチャを使用するには、Surface Audio app in Windows 10 で Surface Earbuds をペアにする必要があります。 Windows 10 で Surface Audio アプリの使用を開始する手順はこちらから入手できます。 [詳細情報](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
+- **クリッカーは不要: イヤホンでカバー: ** Surface Earbuds を使用して、PowerPoint プレゼンテーションを制御します。 重要: ジェスチャーを使用してプレゼンテーションを制御するには、Windows 10 の Surface Audio アプリで Surface Earbuds をペアリングする必要があります。 Windows 10 で Surface Audio アプリを使い始める方法については、こちらをご覧ください。 [詳細情報](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
 
 ### <a name="word"></a>Word
 
@@ -326,7 +354,7 @@ ms.locfileid: "44874793"
 
 ### <a name="outlook"></a>Outlook
 
-- **より良い結果-jiffy では次のようになります。** 検索機能を更新して、これまでよりも賢明で迅速に、かつ信頼できるものにしました。 [詳細情報](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
+- **より迅速かつ適切な結果:** 検索機能が更新され、よりスマート、迅速、かつ信頼性が高くなりました。 [詳細情報](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
 
 - **ストーリーにアニメーション gif を通知します。** Office editor では、アニメーション Gif がサポートされるようになりました。ドキュメントは snazzier しただけです。
 
