@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 5d3f5834c1199f9d68fd527d231114611b2255fc
-ms.sourcegitcommit: 6cec37b303b316500774846b6fcdd83814b2b364
+ms.openlocfilehash: fbc1e657c6afa8d50b5756ef5c8584ad74c3be34
+ms.sourcegitcommit: fba8a23022418305d52bcbd57be1a3fc77647e01
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "44889063"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45001181"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office の現在のチャネルのリリースノート (プレビュー)
 
@@ -362,10 +362,7 @@ ms.locfileid: "44889063"
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="feature-updates"></a>機能の更新プログラム
-### <a name="excel"></a>Excel
 
-- **Excel のデータ型を使用して、POWER BI から組織のデータを取得します。** Excel のデータ型を使用して、組織からデータを挿入できます。 ブック内のセルを変換し、追加情報を取得して、必要に応じていつでもデータを更新します。
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)

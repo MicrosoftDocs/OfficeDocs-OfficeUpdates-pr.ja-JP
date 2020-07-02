@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Windows デスクトップ用の月次チャンネル Insider ファースト リリースの更新履歴を Insider の皆様に提供します。
-ms.openlocfilehash: 3a015030f5f82cfab54f50c45492a0069a85aac0
-ms.sourcegitcommit: 75dd224cc25daf9e0dae2056ea7d53e7e7e790e3
+ms.openlocfilehash: 38755dab9e7e7d6b2497245da2b65a23a241f0db
+ms.sourcegitcommit: f92dbf2ec2e2f11a344e97327e9cef08e9569670
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44853955"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45015639"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Office ベータチャネルの更新履歴
 
@@ -22,7 +22,7 @@ Hello, Insiders! If you're wondering whether you have the latest update installe
 Click [here](https://insider.office.com/) for more information on the Insiders Program.
 
 > [!IMPORTANT]
-> - Microsoft 365 アプリの更新チャネルの更新プログラムチャネルに、新しい更新チャネル (月間エンタープライズ チャネル) の追加や、既存の更新プログラムチャネルの名前の変更など、いくつかの変更を行っています。 詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2127441)を参照してください。
+> - 現在、Microsoft 365 Apps の更新プログラム チャネルに、新しい更新プログラム チャネル (月次エンタープライズ チャネル) の追加や既存の更新プログラム チャネル名の変更など、いくつかの変更を進めています。 詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2127441)を参照してください。
 > - バージョン 2004 以降の Office 365 ProPlus は Microsoft 365 Apps for enterprise に名前が変更されています。詳細については、 [こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2123420)を参照してください。Microsoft のドキュメントでは通常、Microsoft 365 Apps として扱います。
 
 > [!NOTE]
@@ -38,6 +38,12 @@ Insider レベルで登録している場合は、新しい機能と改善によ
 
 
 [//]: # (削除しないでください)
+
+**2020年7月01日**<br/>
+バージョン 2007 (ビルド 13029.20006)<br/>
+
+**2020年6月29日**<br/>
+バージョン 2007 (ビルド 13025.20000)<br/>
 
 **2020年6月23日**<br/>
 バージョン 2007 (ビルド 13020.20004)<br/>
