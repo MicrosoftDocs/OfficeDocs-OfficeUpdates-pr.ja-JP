@@ -12,7 +12,6 @@ ms.collection: RelNotes_ProPlus
 description: IT 担当者に対して、最新リリースの Microsoft 365 Apps の一覧をそれぞれの更新プログラム チャネルごとに、リリース ノートへのリンクと更新履歴を含めて提供します
 ms.openlocfilehash: e82c61c32af89e0be6406a0680e83f6afef6864d
 ms.sourcegitcommit: d8a7a35f1f685d01fbdd1780890737897364935a
-ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/10/2020
 ms.locfileid: "44695560"
@@ -45,7 +44,7 @@ ms.locfileid: "44695560"
 ## <a name="release-notes-for-microsoft-365-apps-releases"></a>Microsoft 365 Apps リリースのリリース ノート
 
 更新プログラム チャネルと年ごとのリリース ノートすべての一覧については、次の記事をご覧ください。
- - 現在: [2020](current-channel.md)、[2019](monthly-channel-2019.md)、[2018](monthly-channel-2018.md)、[2017](monthly-channel-2017.md)、[2016](monthly-channel-2016.md)
+ - 最新: [2020](current-channel.md)、[2019](monthly-channel-2019.md)、[2018](monthly-channel-2018.md)、[2017](monthly-channel-2017.md)、[2016](monthly-channel-2016.md)
  - 月々のエンタープライズ チャネル: [2020](monthly-enterprise-channel.md)
  - 半期エンタープライズ (プレビュー): [2020](semi-annual-enterprise-channel-preview.md)、[2019](semi-annual-channel-targeted-2019.md)、[2018](semi-annual-channel-targeted-2018.md)、[2017](semi-annual-channel-targeted-2017.md)、[2016](semi-annual-channel-targeted-2016.md)
  - 半期エンタープライズ: [2020](semi-annual-enterprise-channel.md)、[2019](semi-annual-channel-2019.md)、[2018](semi-annual-channel-2018.md)、[2017](semi-annual-channel-2017.md)、[2016](semi-annual-channel-2016.md)
