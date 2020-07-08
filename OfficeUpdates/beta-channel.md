@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 2daa8404f34380ab751e17a527885dba8f084380
-ms.sourcegitcommit: 3e203ec35b9830a70836fe7b50bcf4fea5615b57
+ms.openlocfilehash: b7337f4dcc20631c9f0b941a7ff8060816d89e73
+ms.sourcegitcommit: 6e27566f8c2e6718da5c5597a62f91a882c8b20f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "45037081"
+ms.lasthandoff: 07/07/2020
+ms.locfileid: "45052630"
 ---
 # <a name="release-notes-for-beta-channel"></a>ベータチャネルのリリースノート
 
@@ -997,3 +997,7 @@ ms.locfileid: "45037081"
 - Norway Nynorsk (nn-no) 校正ツール パッケージが正しくインストールされなかった場合がある問題を解決します。
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+
+[//]: # (管理センターのメタデータのコンテンツの開始を変更しない)
+[//]: # (管理センターのメタデータのコンテンツエンドを変更しない)
