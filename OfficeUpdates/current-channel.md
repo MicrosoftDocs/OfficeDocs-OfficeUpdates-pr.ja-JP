@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の月次チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 913f473e8dd645c58aa17efb1221eb25cc280971
-ms.sourcegitcommit: 69887e53fc949b0890c3a00a8504ac732ee2cad8
+ms.openlocfilehash: e5be723b830639d3ef70ee249fa123fec97e604f
+ms.sourcegitcommit: ac8d77e50d9588c67e18cc5e1e294179fbadfea3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "44810869"
+ms.lasthandoff: 07/07/2020
+ms.locfileid: "45049487"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020 年の最新のチャネル リリースのリリース ノート
 
@@ -31,6 +31,157 @@ ms.locfileid: "44810869"
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2006-june-30"></a>バージョン 2006: 6 月 30 日
+*バージョン 2006 (ビルド 13001.20266)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="excel"></a>Excel
+
+- **長いファイル名**: Windows デスクトップ版の Excel は、名前とパスが最大400文字の OneDrive/SharePoint ファイルをサポートするようになりました。
+
+### <a name="outlook"></a>Outlook
+
+- **Outlook でのメール作成時の @ メンションの候補表示を無効にするオプションが追加されました。**@ メンション ピッカーが便利どころか迷惑だと感じていますか? 今後は、必要に応じてオフにすることができます。<br />[ブログの投稿](https://blog-insider.office.com/2020/03/26/feedback-in-action-disable-mentions/)の詳細情報をご覧ください
+
+- **IT 管理者向けのインシデント通知:** Microsoft 365 テナントのグローバル管理者および Office Apps 管理者は、Outlook for Windows の新しい右側のパネル通知により、ユーザーに影響する Outlook および O365 Exchange インシデントについて通知されます。 [詳細情報](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
+
+- **Outlook トースト通知に追加されたその他のボタン:** Outlook for Windows 10で Outlook を実行しているときに Outlook トースト通知にクイック アクション ボタンが表示されるようになりました。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **PowerPoint でのストリーム ビデオのパフォーマンス向上:**、ビデオの読み込み時間を最小限に抑え、快適な表示を実現するために Microsoft Stream ビデオの再生パフォーマンスを改善しました。 お客様の社内ビデオを使用して、Microsoft Stream でより適切なプレゼンテーションを作成します。
+
+### <a name="teams"></a>Teams
+
+- **PSTN の参加者の電話番号は、外部ユーザーからマスクされます**。Teams 会議でオーディオ会議を有効にしているお客様は、組織の外部から参加しているユーザーに PSTN 参加者の電話番号をマスクします。
+
+- **チャネル通知の設定を管理する簡単な方法:** チームやチャネルのリストを通して、またはチャネル ヘッダーから、ワンクリックで、またはユーザー設定によって、ユーザーはすべてのアクティビティのオンとオフを切り替えることで、お好きな順序を設定できます。
+
+- **Walkie Talkie :** プッシュツートークを使用した、インスタント音声コミュニケーション。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="access"></a>Access
+
+- クエリの実行に予想よりも約2倍の時間がかかっていた問題を修正しました。
+
+
+### <a name="excel"></a>Excel
+
+- SharePoint/OneDrive に保存すると、ユーザー設定のリボンタブの CustomUI XML が削除されるという問題が修正されました。
+
+
+### <a name="outlook"></a>Outlook
+
+- ドラッグ アンド ドロップによってファイル システムにコピーされた添付ファイルの作成日が、4501年1月1日に設定された問題に対処しました。
+
+- 共有された予定表の改良版のユーザーに予定表のエラーが表示される問題を解決しました。
+
+
+- Outlook で、受信トレイ修復ツールを実行するように促す表示が継続的に発生していた問題に対処しました。
+
+
+- クラウド設定が有効になっているときに、Ctrl キーを押しながらクリックすると動作が停止する問題に対処しました。
+
+
+- Suggest a Feature で機能を検索しても結果が返されず、ユーザーが新しい機能のアイデアを提出するオプションがないという問題に対処しました。
+
+
+### <a name="project"></a>Project
+
+- URL が .com で終了している場合に、Project Web App からプロジェクト デスクトップ クライアントでプロジェクトを開くことができない問題が修正されました。
+
+
+- プロジェクトのサマリータスクで、[プロジェクトの開始日] フィールドまたは [タスク] フィールドのいずれかに変更があった場合、ProjectBeforeTaskChange イベントが発生しない問題が修正されました。
+
+
+- 100% 完了とマークされているタスクが、100% 未満のタスクに間違って変更されてしまう問題を修正しました。
+
+
+### <a name="word"></a>Word
+
+- URL にクエリ コンポーネントが含まれている場合にカスタム ドキュメント配信 (aspx) から Word ドキュメントを開く問題を解決しました。
+
+
+
+[//]: # (バグの詳細コンテンツ エンドを削除しないでください)
+
+## <a name="version-2005-june-24"></a>バージョン 2005: 6 月 24 日
+*バージョン 2005 (ビルド 12827.20470)*
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="access"></a>Access
+
+- このバグは修正されました。アプリケーションのクラッシュを発生させずに、コードに日付/時刻の拡張データ型を呼び出すことができます。 問題が発生した場合は、チームにお知らせください。
+
+
+- この問題は修正されました。これで、最新の Access バージョンに戻すことができるようになりました。さらに、DAO/VBA を使用して10進数データ型を管理および編集することができます。 データ型を使用して問題が発生した場合は、Access チームにお知らせください。
+
+
+### <a name="excel"></a>Excel
+
+- SharePoint/OneDrive に保存すると、ユーザー設定のリボンタブの CustomUI XML が削除されるという問題が修正されました。
+
+
+
+
+
+### <a name="outlook"></a>Outlook
+
+- M365 Business Plus プランのサービスを利用していたユーザーがデータ損失防止の保護ポリシー ヒントを有効にできない問題に対処しました。
+
+
+- ドラッグ アンド ドロップによってファイル システムにコピーされた添付ファイルの作成日が、4501年1月1日に設定された問題に対処しました。
+
+
+- ユーザーがOutlook ルールを更新すると、「&quot;このコンピューターのルールは、Microsoft Exchange のルールと異なります&quot;」 と表示される問題に対処しました。
+
+
+- 共有された予定表の改良版のユーザーに予定表のエラーが表示される問題を解決しました。
+
+
+- 一部のシナリオで、断続的なハングやクラッシュを発生させる原因となっていた問題に対処しました。
+
+
+- Outlook で、受信トレイ修復ツールを実行するように促す表示が継続的に発生していた問題に対処しました。
+
+
+- Suggest a Feature で機能を検索しても結果が返されず、ユーザーが新しい機能のアイデアを提出するオプションがないという問題に対処しました。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 提案ウィンドウでクラッシュする問題を修正しました。
+
+
+### <a name="project"></a>Project
+
+- 100% 完了とマークされているタスクが、100% 未満のタスクに間違って変更されてしまう問題を修正しました。
+
+### <a name="word"></a>Word
+
+- 一部のアプリケーションからコンテンツをドラッグしたときにクラッシュする問題の原因となっていた可能性がある問題が解決されました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- この変更により、Gif や3D モデルなどのアニメーション コンテンツを読み込んだり、再生したりするときに、ハングする可能性があります。
+
 
 
 
@@ -674,3 +825,7 @@ ms.locfileid: "44810869"
 
 > [!NOTE]
 > Office の使用で問題がある場合は、[Microsoft の回答フォーラム](https://answers.microsoft.com/)に関するページまたは「[Microsoft Tech Community](https://techcommunity.microsoft.com/)」に質問を投稿するか、[サポート](https://support.microsoft.com/contactus)に問い合わせてサポートを受けることができます。
+
+[//]: # (管理センターのメタデータ コンテンツのスタートを変更しない)
+[//]: # (|Win32|CC|Production| |16.0.13001.20266|バージョン-2006-6-30|)
+[//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)
