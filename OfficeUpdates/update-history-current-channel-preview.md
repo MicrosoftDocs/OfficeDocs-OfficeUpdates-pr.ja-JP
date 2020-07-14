@@ -1,5 +1,5 @@
 ---
-title: Office の現在のチャネルの更新履歴 (プレビュー)
+title: Office の現在のチャネル (プレビュー) の更新履歴
 ms.author: anankani
 author: anankani
 manager: andrewmo
@@ -9,22 +9,22 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Windows デスクトップ用の月次チャンネル 対象指定リリースの更新履歴を Insider の皆様に提供します。
-ms.openlocfilehash: f64aecd4727f710575d87312f00e4a65eb92ce72
-ms.sourcegitcommit: 6cec37b303b316500774846b6fcdd83814b2b364
-ms.translationtype: MT
+ms.openlocfilehash: cf1196ce142f481b62565cac610396c087e7c291
+ms.sourcegitcommit: f7bb0455136794c38a7f934e391b17a9c98c9d52
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "44889053"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "45094657"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Windows 用 Office の現在のチャネル (プレビュー) の更新履歴
 
-Hello、内部者。 最新の更新プログラムがインストールされているかどうかを確認し、最新の現在のチャネル (プレビュー) ビルドの一覧を探している場合は、適切な場所に配置されています。
+Insider の皆様へ。 最新の更新プログラムがインストールされているかどうかが不明な場合や、最新の現在のチャネル (プレビュー) のビルドの一覧を確認したい場合は、このページをご覧ください。
 Insider プログラムの詳細については、[こちら](https://insider.office.com/)をクリックしてください。
 
-## <a name="office-current-channel-preview-versions-and-builds"></a>Office の現在のチャネル (プレビュー) のバージョンとビルド
+## <a name="office-current-channel-preview-versions-and-builds"></a>Office の最新のチャネル (プレビュー) バージョンとビルド
 
-以前は Insider 低速と呼ばれていた現在のチャネル (プレビュー) レベルに登録されている場合は、新しい Office 機能更新プログラムが1か月に1回、さらに、重要な修正またはセキュリティ更新プログラムを含む後続のビルドが取得されます。 次のリストは、最近**リリースさ**れたバージョンとビルドを示しています。 新しいビルドには、以前のビルドに含まれるすべての更新が含まれています。
-リリースノートについては、 [「」を参照してください](https://docs.microsoft.com/en-us/OfficeUpdates/current-channel-preview)。 また、 [Office insider の新機能](https://support.office.com/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24)を確認することもできます。
+以前は Insider スローと呼ばれていた現在のチャネル (プレビュー) レベルに登録している場合、月に 1 回ほど Office の新機能の更新プログラムを入手できます。さらに、重要な修正プログラムまたはセキュリティ更新プログラムが含まれる後続のビルドも入手できます。 次のリストは、最近の現在のチャネル (プレビュー) のバージョンとビルドを示しています。**最も新しくリリースされたビルドが最初に表示されています**。 新しいビルドには、以前のビルドに含まれているすべての更新が含まれています。
+リリース ノートを見つけるには、[参照](https://docs.microsoft.com/ja-JP/OfficeUpdates/current-channel-preview)してください。 また、「[Office Insider で利用できる新機能](https://support.office.com/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24)」も参照できます。
 
 
 > [!IMPORTANT]
@@ -38,34 +38,37 @@ Insider プログラムの詳細については、[こちら](https://insider.of
 
 [//]: # (削除しないでください)
 
-**2020年6月25日**<br/>
+**2020 年 7 月 9 日**<br/>
+バージョン 2006 (ビルド 13001.20384)<br/>
+
+**2020 年 6 月 25 日**<br/>
 バージョン 2006 (ビルド 13001.20266)<br/>
 
-**2020年6月18日**<br/>
+**2020 年 6 月 18 日**<br/>
 バージョン 2006 (ビルド 13001.20198)<br/>
 
-**2020年6月11日**<br/>
+**2020 年 6 月 11 日**<br/>
 バージョン 2006 (ビルド 13001.20144)<br/>
 
-**2020年6月8日**<br/>
+**2020 年 6 月 8 日**<br/>
 バージョン 2005 (ビルド 12827.20336)<br/>
 
-**2020年6月4日**<br/>
+**2020 年 6 月 4 日**<br/>
 バージョン 2005 (ビルド 12827.20320)<br/>
 
-**2020年5月29日**<br/>
+**2020 年 5 月 29 日**<br/>
 バージョン 2005 (ビルド 12827.20268)<br/>
 
-**2020年5月21日**<br/>
+**2020 年 5 月 21 日**<br/>
 バージョン 2005 (ビルド 12827.20210)<br/>
 
-**2020年5月14日**<br/>
+**2020 年 5 月 14 日**<br/>
 バージョン 2005 (ビルド 12827.20160)<br/>
 
-**2020年5月11日**<br/>
+**2020 年 5 月 11 日**<br/>
 バージョン 2004 (ビルド 12730.20270)<br/>
 
-**2020年5月4日**<br/>
+**2020 年 5 月 4 日**<br/>
 バージョン 2004 (ビルド 12730.20250)<br/>
 
 **2020 年 4 月 29 日**<br/>

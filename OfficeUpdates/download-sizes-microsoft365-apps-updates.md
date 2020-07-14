@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 各チャネルの Microsoft 365 アプリ用更新プログラムのダウンロード サイズの概算に関する情報を IT 技術者に提供します
-ms.openlocfilehash: 8fd7abbc8ed7c24162c9daeef0d0a2fad8d05bab
-ms.sourcegitcommit: e94688d66388221a9ebd9d29f49487544da5cc49
+ms.openlocfilehash: ff7377974bb0cb152b1200b1d890c6dc7e3ae620
+ms.sourcegitcommit: 7759ec0cf20d53865fa24f5eb483392c9e9fa53b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45083363"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "45091053"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 アプリ用更新プログラムのダウンロード サイズ
 
@@ -38,9 +38,42 @@ ms.locfileid: "45083363"
 
 [//]: # (予測コンテンツを削除しないでください。開始)
 
+## <a name="july-9-2020"></a>2020 年 7 月 9 日
+
+
+### <a name="monthly-enterprise-channel"></a>月次エンタープライズ チャネル
+
+<i>予定されているリリースは、バージョン 2005 (ビルド 12827.20550) です。</i>
+
+|**アップグレード前のリリース **|**リリース日**|**ダウンロード サイズの概算 (MB)**|
+|:-----|:-----|:-----|
+|バージョン 2004 (ビルド 12730.20430) <br/> |2020 年 6 月 9 日 <br/> |174<br/> |
+
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>半期エンタープライズ チャネル (プレビュー)
+
+<i>予定されているリリースは、バージョン 2002 (ビルド 12527.20880) です。</i>
+
+|**アップグレード前のリリース **|**リリース日**|**ダウンロード サイズの概算 (MB)**|
+|:-----|:-----|:-----|
+|バージョン 2002 (ビルド 12527.20720) <br/> |2020 年 6 月 9 日 <br/> |50<br/> |
+|バージョン 2002 (ビルド 12527.20612) <br/> |2020 年 5 月 12 日 <br/> |59<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>半期エンタープライズ チャネル
+
+<i>予定されているリリースは、バージョン 2002 (ビルド 12527.20880) です。</i>
+
+|**アップグレード前のリリース **|**リリース日**|**ダウンロード サイズの概算 (MB)**|
+|:-----|:-----|:-----|
+|バージョン 1908 (ビルド 11929.20838) <br/> |2020 年 6 月 9 日 <br/> |291<br/> |
+|バージョン 1908 (ビルド 11929.20776) <br/> |2020 年 5 月 12 日 <br/> |291<br/> |
 
 
 [//]: # (予測コンテンツを削除しないでください。終了)
+
+
 
 
 ## <a name="june-30-2020"></a>2020 年 6 月 30 日
