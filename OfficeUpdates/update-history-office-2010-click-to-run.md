@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: クイック実行を使用する永続的なバージョンの Office 2010 の更新履歴を IT 技術者に提供します。
-ms.openlocfilehash: dec15fba44ac8c936ec10d9aaac81854bd2bbdda
-ms.sourcegitcommit: 6a6295bb1d4cdef49379bf11db5ea0cc8e927e8b
+ms.openlocfilehash: 97d44abc2663f643fd7f38333280eedb90c1f4c5
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44666594"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138793"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Office 2010 のクイック実行製品の更新履歴
 
@@ -33,7 +33,7 @@ Office 2010 のサポートは、2020 年 10 月 13 日に終了します。 Off
 これらの製品のいずれかを使用しており、最新の状態になっていることを確認するには、Office のバージョン番号を確認し、必要に応じて手動で Office を更新します。
   
 > [!NOTE]
-> Office 2010 の最新バージョンは**14.0.7252.5000**で、2020年6月9日にリリースされました。
+> Office 2010 の最新バージョンは**14.0.7254.5000**です。2020年7月14日にリリースされました。
   
 Office のバージョンを確認するには、以下のことを行います。
   
@@ -43,21 +43,22 @@ Office のバージョンを確認するには、以下のことを行います�
     
 3. **[クイック実行の製品更新プログラム]** で、一覧表示されているバージョン番号を確認します。
     
-    バージョン番号が最新バージョンと一致していれば最新の状態です。一致しない場合は、最新バージョンの Office 2010 に手動で更新できます。Office を更新するには、[こちらの手順に従います](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5#ID0EAABAAA=Office_2010)。
+    If the version number matches the most current version, you're up to date. If not, you can manually update to get the latest version of Office 2010. To update Office, [follow these steps](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5#ID0EAABAAA=Office_2010).
     
 ### <a name="list-of-release-dates-version-numbers-and-fix-information-for-office-2010-updates"></a>Office 2010 更新プログラムのリリース日、バージョン番号、修正情報のリスト
 
-次の表は、最新のリリース日順に Office 2010 の更新プログラムの一覧を提供します。この表には、リリースのバージョン番号と、更新プログラムに含まれている修正プログラムに関する情報を含む Microsoft サポート技術情報 (KB) の記事またはマイクロソフト セキュリティ情報へのリンク (存在する場合) が記載されています。
+The following table provides a list of updates for Office 2010, with the most recent release date listed first. The table includes the version number for the release and links, if available, to Microsoft Knowledge Base (KB) articles or Microsoft Security Bulletins that contains information about the fixes that are included in the update.
   
 新しいバージョンには、以前のバージョンに含まれているすべての更新プログラムが含まれています。
 
 > [!NOTE]
-> 以下に一覧表示されているサポート技術情報の記事は、参照のみを目的としています。クイック実行の更新プログラムには、サポート技術情報の記事に記載されているすべての修正プログラムが含まれます。サポート技術情報の記事に記載されている個別の更新プログラムをダウンロードする必要はありません。
+> The KB articles listed below are for reference purposes only. Click-to-Run updates include all the fixes listed in the KB articles. You don't need to download the separate updates listed in the KB articles.
 
   
 |**リリース年**|**リリース日**|**バージョン番号**|**詳細情報**|
 |:-----|:-----|:-----|:-----|
-|2020|6 月 9 日  <br/> |14.0.7252.5000  <br/> |[KB 4559448](https://support.microsoft.com/help/4559448 ) <br/> |
+|2020|7 月 14 日 <br/> |14.0.7254.5000 <br/> |[KB 4559453](https://support.microsoft.com/help/4559453) <br/>|
+||6 月 9 日  <br/> |14.0.7252.5000  <br/> |[KB 4559448](https://support.microsoft.com/help/4559448 ) <br/> |
 ||5 月 12 日  <br/> |14.0.7249.5000  <br/> |[KB 4549680 ](https://support.microsoft.com/help/4549680 ) <br/> |
 ||4 月 14 日  <br/> |14.0.7248.5000  <br/> |[KB 4549670 ](https://support.microsoft.com/help/4549670 ) <br/> |
 ||3 月 11 日  <br/> |14.0.7247.5000  <br/> |[KB 4538705 ](https://support.microsoft.com/help/4538705 ) <br/> |
