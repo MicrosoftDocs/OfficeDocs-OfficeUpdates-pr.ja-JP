@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の月次エンタープライズ チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 48af42f973d499fb9ea43bc596d7389cb8fcff01
-ms.sourcegitcommit: 496e2442f722e5152e19cb5be5cfd91050288081
-ms.translationtype: MT
+ms.openlocfilehash: 0cc298e264f0c1381aae004d161f87112e6005d2
+ms.sourcegitcommit: afe8763e09c99ef05ff0dcd35eccf3c0fd326742
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "44735457"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45121747"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>2020 年の月次エンタープライズ チャネル リリースのリリース ノート
 
@@ -27,7 +27,7 @@ ms.locfileid: "44735457"
 
 
 
-## <a name="version-2004-june-09"></a>バージョン 2004:09 月9日
+## <a name="version-2004-june-09"></a>バージョン 2004: 6月 9 日
 *バージョン 2004 (ビルド 12730.20430)*
 
 セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
@@ -36,43 +36,43 @@ ms.locfileid: "44735457"
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
 ### <a name="feature-updates"></a>機能の更新プログラム
-### <a name="access"></a>Access
+### <a name="access"></a>アクセス
 
 - **数回クリックするだけで表を追加する:** [テーブルの追加] 作業ウィンドウを使用すると、作業中も開いたまま、リレーションシップやクエリにテーブルを追加できます。 [詳細情報](https://support.office.com/article/56eb7df2-8a52-4e90-a7e0-8f891a5c56bd)
 
 ### <a name="excel"></a>Excel
 
-- **最適な色を選択する:** 16 進数カラーコードを使用して、フォントやテキストのハイライトなどに使用する色を正確に選びます。<br />[ブログの投稿](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)の詳細情報をご覧ください
+- **最適な色を選択する:** 16 進数カラーコードを使用して、フォントやテキストのハイライトなどに使用する色を正確に選びます。<br />[ブログの投稿](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/) の詳細情報をご覧ください
 
 - **Facebook コネクタのサポート終了:** 2020 年 4 月以降、Excel では Facebook コネクタを使用する外部データ接続がサポートされなくなります。
 
-- **ブックの見映えを良くする新しい画像:** 何千ものロイヤリティフリーの画像、アイコン、ステッカーが用意されており、これらをブックで使用できます。 開始するには、[挿入] > [画像] > [ストック画像] の順に選択します。 [詳細情報](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />[ブログの投稿](https://blog-insider.office.com/2020/04/06/premium-creative-content/)の詳細情報をご覧ください
+- **ブックの見映えを良くする新しい画像:** 何千ものロイヤリティフリーの画像、アイコン、ステッカーが用意されており、これらをブックで使用できます。 開始するには、[挿入] > [画像] > [ストック画像] の順に選択します。 [詳細情報](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />[ブログの投稿](https://blog-insider.office.com/2020/04/06/premium-creative-content/) の詳細情報をご覧ください
 
 ### <a name="outlook"></a>Outlook
 
-- **最適な色を選択する:** 16 進数カラーコードを使用して、フォントやテキストのハイライトなどに使用する色を正確に選びます。<br />[ブログの投稿](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)の詳細情報をご覧ください
+- **最適な色を選択する:** 16 進数カラーコードを使用して、フォントやテキストのハイライトなどに使用する色を正確に選びます。<br />[ブログの投稿](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/) の詳細情報をご覧ください
 
-- **所有しているグループにメールをドラッグ:** メッセージや会話を受信トレイからドラッグして移動し、コピーします。 ドラッグしたメッセージは、すべてのグループ メンバーと共有されます。<br />[ブログの投稿](https://blog-insider.office.com/2020/03/02/drag-messages-from-your-personal-inbox-to-the-group-mailbox/)の詳細情報をご覧ください
+- **所有しているグループにメールをドラッグ:** メッセージや会話を受信トレイからドラッグして移動し、コピーします。 ドラッグしたメッセージは、すべてのグループ メンバーと共有されます。<br />[ブログの投稿](https://blog-insider.office.com/2020/03/02/drag-messages-from-your-personal-inbox-to-the-group-mailbox/) の詳細情報をご覧ください
 
-- **予定表は makeover を取得します。** 予定表のスキャンを簡単にするためのビジュアル更新を参照してください。 [詳細情報](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />[ブログの投稿](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)の詳細情報をご覧ください
+- **予定表が一新されます:** 予定表を簡単に読みやすくなるビジュアル アップデートをご覧ください。 [詳細情報](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />[ブログの投稿](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/) の詳細情報をご覧ください
 
 - **メッセージの見映えを良くする新しい画像:** 何千ものロイヤリティフリーの画像、アイコン、ステッカーが用意されており、これらをメール メッセージで使用できます。 開始するには、[挿入] > [画像] > [ストック画像] の順に選択します。 [詳細情報](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />[ブログの投稿](https://blog-insider.office.com/2020/04/06/premium-creative-content/)の詳細情報をご覧ください
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **最適な色を選択する:** 16 進数カラーコードを使用して、フォントやテキストのハイライトなどに使用する色を正確に選びます。<br />[ブログの投稿](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)の詳細情報をご覧ください
+- **最適な色を選択する:** 16 進数カラーコードを使用して、フォントやテキストのハイライトなどに使用する色を正確に選びます。<br />[ブログの投稿](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/) の詳細情報をご覧ください
 
-- **プレゼンテーション中に変更を同期する:** プレゼンテーションがスライド ショー モードであっても、いつでも変更を同期できます。 [詳細情報](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />[ブログの投稿](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)の詳細情報をご覧ください
+- **プレゼンテーション中に変更を同期する:** プレゼンテーションがスライド ショー モードであっても、いつでも変更を同期できます。 [詳細情報](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />[ブログの投稿](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/) の詳細情報をご覧ください
 
-- **スライドの見映えを良くする新しい画像:** 何千ものロイヤリティフリーの画像、アイコン、ステッカーが用意されており、これらをプレゼンテーションで使用できます。 開始するには、[挿入] > [画像] > [ストック画像] の順に選択します。 [詳細情報](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />[ブログの投稿](https://blog-insider.office.com/2020/04/06/premium-creative-content/)の詳細情報をご覧ください
+- **スライドの見映えを良くする新しい画像:** 何千ものロイヤリティフリーの画像、アイコン、ステッカーが用意されており、これらをプレゼンテーションで使用できます。 開始するには、[挿入] > [画像] > [ストック画像] の順に選択します。 [詳細情報](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />[ブログの投稿](https://blog-insider.office.com/2020/04/06/premium-creative-content/) の詳細情報をご覧ください
 
 ### <a name="word"></a>Word
 
 - **インクのなげなわ:** [描画] タブのなげなわツールを使用すると、インクで描かれたオブジェクトを選択できます。 個別のストロークまたは文字全体を選択できます。 [詳細情報](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
-- **最適な色を選択する:** 16 進数カラーコードを使用して、フォントやテキストのハイライトなどに使用する色を正確に選びます。<br />[ブログの投稿](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)の詳細情報をご覧ください
+- **最適な色を選択する:** 16 進数カラーコードを使用して、フォントやテキストのハイライトなどに使用する色を正確に選びます。<br />[ブログの投稿](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/) の詳細情報をご覧ください
 
-- **ドキュメントの見映えを良くする新しい画像:** 何千ものロイヤリティフリーの画像、アイコン、ステッカーが用意されており、これらをドキュメントで使用できます。 開始するには、[挿入] > [画像] > [ストック画像] の順に選択します。 [詳細情報](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />[ブログの投稿](https://blog-insider.office.com/2020/04/06/premium-creative-content/)の詳細情報をご覧ください
+- **ドキュメントの見映えを良くする新しい画像:** 何千ものロイヤリティフリーの画像、アイコン、ステッカーが用意されており、これらをドキュメントで使用できます。 開始するには、[挿入] > [画像] > [ストック画像] の順に選択します。 [詳細情報](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />[ブログの投稿](https://blog-insider.office.com/2020/04/06/premium-creative-content/) の詳細情報をご覧ください
 
 ### <a name="office-suite"></a>Office スイート
 
@@ -88,7 +88,7 @@ ms.locfileid: "44735457"
 ### <a name="resolved-issues"></a>解決済みの問題
 ### <a name="excel"></a>Excel
 
-- ファイルパスが長すぎる場合にファイルを再度開いた後、外部リンクが機能しなくなる問題を修正します。
+- ファイル パスが長すぎる場合にファイルをもう一度開くと、外部リンクが機能しなくなった問題が修正されました。
 
 - Application.Evaluate (VBA) が、ユーザー定義関数では動作しない場合がありました。
 
@@ -98,11 +98,11 @@ ms.locfileid: "44735457"
 
 ### <a name="outlook"></a>Outlook
 
-- ユーザーが管理者の通知からフィードバックを送信する際にクラッシュする原因となった問題に対処しました。
+- ユーザーが管理者通知からフィードバックを送信する場合にクラッシュが発生する問題に対処しました。
 
-- Outlook の終了中に応答が停止するする問題に対処しました。
+- Outlook の終了中に応答が停止する問題に対処しました。
 
-- トースト通知を表示しているときにユーザーがクラッシュする原因となった問題に対処しました。
+- ユーザーがトースト通知を表示するときにクラッシュする問題に対処しました。
 
 - Windows の更新後に、ローカルに保存された .msg または .oft ファイルを開くと Outlook がクラッシュする問題に対処しました。
 
@@ -118,24 +118,24 @@ ms.locfileid: "44735457"
 
 ### <a name="office-suite"></a>Office スイート
 
-- クイック実行に関する問題が修正されました。シンボリックリンクをハードリンクしようとしたときに更新エラーが発生しました。
+- シンボリック リンクのハード リンクを試みる際に、更新の失敗を引き起こしていたクイック実行の問題を修正しました。
 
-- レジストリキー HKEY_CURRENT_USER \Software\Microsoft\Internet Explorer\Main\TabProcGrowth が0に設定されている間にアドインがアクティブ化されると、office ホストが windows でクラッシュしました。 この変更により、この問題が修正されます。
+- HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth のレジストリ キーが0に設定されている場合、アドインがアクティブになり、Windows で Office ホストがクラッシュしました。 この変更により、この問題は修正されます。
 
 - この修正プログラムで、アクセスの制限と、パスワードによるファイルの保護が同時に行えないというエラーが解決されました。
 
 - この更新プログラムを適用すると、Microsoft Office の Visual Basic for Applications で、ライブラリ名またはライブラリ パスに DBCS 文字を含むコード ライブラリへの参照が含まれている特定の VBA プロジェクトが、読み込み時に破損していると Office アプリケーションで表示される問題が修正されます。
 
-- この更新プログラムを実行すると、PATH 環境変数で指定されている場所を検索することによって検出された参照を含む Visual Basic for Applications プロジェクトが、実行時に適切に検出されず、VBA ランタイムエラーが発生するという問題が修正されます。
+- この更新プログラムでは、Microsoft Office で PATH 環境変数で指定した場所を検索することによって参照される可能性がある Visual Basic for Applications プロジェクトが実行時に正しく検出されず、VBA ランタイムエラーが発生するという問題が修正されます。
 
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2003-june-09"></a>バージョン 2003:09 月9日
+## <a name="version-2003-june-09"></a>バージョン 2003: 6月 9 日
 *バージョン 2003 (ビルド 12624.20708)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムのリストは[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -143,7 +143,7 @@ ms.locfileid: "44735457"
 ### <a name="resolved-issues"></a>解決済みの問題
 ### <a name="office-suite"></a>Office スイート
 
-- この更新プログラムを実行すると、PATH 環境変数で指定されている場所を検索することによって検出された参照を含む Visual Basic for Applications プロジェクトが、実行時に適切に検出されず、VBA ランタイムエラーが発生するという問題が修正されます。
+- この更新プログラムでは、Microsoft Office で PATH 環境変数で指定した場所を検索することによって参照される可能性がある Visual Basic for Applications プロジェクトが実行時に正しく検出されず、VBA ランタイムエラーが発生するという問題が修正されます。
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
@@ -308,3 +308,7 @@ ms.locfileid: "44735457"
 
 > [!NOTE]
 > Office の使用で問題がある場合は、[Microsoft の回答フォーラム](https://answers.microsoft.com/)に関するページまたは「[Microsoft Tech Community](https://techcommunity.microsoft.com/)」に質問を投稿するか、[サポート](https://support.microsoft.com/contactus)に問い合わせてサポートを受けることができます。
+
+
+[//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)
