@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 1a4652ad9d7b3ec8150bc8e0b07cf65cdbfca864
-ms.sourcegitcommit: 2474d341cb1c1c2e0b43b5c324345d853e192c59
+ms.openlocfilehash: df05a1a57bf165e62717f18b7704bb0e44b459dd
+ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44565060"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "44163539"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年の毎月のチャネル リリースのリリース ノート
 
@@ -195,7 +195,7 @@ ms.locfileid: "44565060"
 
 ### <a name="office-suite"></a>Office スイート
 
-- Office ユーザーのセキュリティを保護するために、Microsoft Office の更新プログラムは SHA-2 アルゴリズムのみを使用して署名されるようになりました。<br>
+- Office ユーザーのセキュリティを保護するために、Microsoft Office の更新プログラムは SHA-2 アルゴリズムのみを使用して署名されるようになりました。<br></div>
 
 
 

@@ -12,6 +12,7 @@ ms.collection: RelNotes_ProPlus
 description: IT 担当者に対して、最新リリースの Microsoft 365 Apps の一覧をそれぞれの更新プログラム チャネルごとに、リリース ノートへのリンクと更新履歴を含めて提供します
 ms.openlocfilehash: e82c61c32af89e0be6406a0680e83f6afef6864d
 ms.sourcegitcommit: d8a7a35f1f685d01fbdd1780890737897364935a
+ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/10/2020
 ms.locfileid: "44695560"
