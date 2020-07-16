@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps セキュリティ更新プログラムのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 91538ad859fe5dc3d45a73d0798ff21708f6178b
-ms.sourcegitcommit: 18f8f5d6dcd9743005ae2ba87c8e9e2d9edfe8c4
+ms.openlocfilehash: 58228af0a7958547331b95c28c6497b5bfa3f460
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44211707"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138523"
 ---
 # <a name="release-notes-for-microsoft-365-apps-security-updates"></a>Microsoft 365 Apps セキュリティ更新プログラムのリリース ノート
 
@@ -31,6 +31,80 @@ ms.locfileid: "44211707"
  
 
 [//]: # (上の行は間隔を空けるために使用されているので、削除しないでください。)  
+
+## <a name="july-14-2020"></a>2020 年 7 月 14 日
+現在のチャネル: バージョン 2006 (ビルド 13001.20384)  
+月次エンタープライズ チャネル: バージョン 2005 (ビルド 12827.20538)  
+月次エンタープライズ チャネル: バージョン 2004 (ビルド 12730.20602)  
+半期エンタープライズ チャネル (プレビュー)： バージョン 2002 (ビルド 12527.20880)  
+半期エンタープライズ チャネル： バージョン 2002 (ビルド 12527.20880)  
+半期エンタープライズ チャネル： バージョン 1908 (ビルド 11929.20904)  
+半期エンタープライズ チャネル： バージョン 1902 (ビルド 11328.20624)  
+Windows 7 上の Microsoft 365 Apps: バージョン 2002 (ビルド 12527.20880)  
+
+[//]: # (セキュリティの詳細コンテンツを削除しないでください。開始)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-1240](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1240)
+
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2020-1349](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1349)
+
+### <a name="project"></a>Project
+
+-   [CVE-2020-1449](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1449)
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-1445](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1445)
+-   [CVE-2020-1342](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1342)
+-   [CVE-2020-1447](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1447)
+-   [CVE-2020-1446](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1446)
+
+### <a name="office-suite"></a>Office スイート
+
+-   [CVE-2020-1458](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1458)
+
+[//]: # (セキュリティの詳細コンテンツを削除しないでください。終了)
+
+
+
+## <a name="june-09-2020"></a>2020 年 6 月 09 日
+現在のチャネル: バージョン 2005 (ビルド 12827.20336)  
+月次エンタープライズ チャネル: バージョン 2004 (ビルド 12730.20430)  
+月次エンタープライズ チャネル: バージョン 2003 (ビルド 12624.20708)  
+半期エンタープライズ チャネル (プレビュー)： バージョン 2002 (ビルド 12527.20720)  
+半期エンタープライズ チャネル： バージョン 1908 (ビルド 11929.20838)  
+半期エンタープライズ チャネル： バージョン 1902 (ビルド 11328.20602)  
+Windows 7 上の Microsoft 365 Apps: バージョン 2002 (ビルド 12527.20720)  
+
+[//]: # (セキュリティの詳細コンテンツを削除しないでください。開始)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-1226](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1226)
+-   [CVE-2020-1225](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1225)
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2020-1229](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1229)
+
+### <a name="project"></a>Project
+
+-   [CVE-2020-1322](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1322)
+
+### <a name="office-suite"></a>Office スイート
+
+-   [CVE-2020-1321](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1321)
+
+[//]: # (セキュリティの詳細コンテンツを削除しないでください。終了)
+
+
 
 ## <a name="may-12-2020"></a>2020 年 5 月 12 日
 月次チャネル: バージョン 2004 (ビルド 12730.20270)  
