@@ -1,5 +1,5 @@
 ---
-title: 2020での半期エンタープライズチャネルリリースのリリースノート
+title: 2020 年の半期エンタープライズ チャネル リリースのリリース ノート
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -9,28 +9,28 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の半期チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 4e6a61acab775f8619851c4d65327616ef204a63
-ms.sourcegitcommit: 1f8cb906d8d0af5eb26eaedf008180375d2fd55d
-ms.translationtype: MT
+ms.openlocfilehash: 3fe55eb66d368490258f6d200c8553a08b556323
+ms.sourcegitcommit: afe8763e09c99ef05ff0dcd35eccf3c0fd326742
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44668155"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45121757"
 ---
-# <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>2020での半期エンタープライズチャネルリリースのリリースノート
+# <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>2020 年の半期エンタープライズ チャネル リリースのリリース ノート
 
-これらのリリースノートでは、2020での半期エンタープライズチャネルの更新プログラムに含まれる新機能およびセキュリティ以外の更新プログラムに関する情報が提供されています。これらは、Microsoft 365 Apps for Enterprise、Microsoft 365 Apps for business、および Project および Visio 用のデスクトップアプリのサブスクリプションバージョンです。
+このリリース ノートには、2020 年の半期エンタープライズ チャネルの更新プログラムに含まれる新機能と、セキュリティ以外の更新プログラムに関する情報が記載されています。対象となるのは、Microsoft 365 Apps for enterprise、Microsoft 365 Apps for business、および Project と Visio のデスクトップ アプリのサブスクリプション版です。
 
 > [!IMPORTANT]
-> Microsoft 365 アプリの更新チャネルの更新プログラムチャネルに、新しい更新チャネル (月間エンタープライズ チャネル) の追加や、既存の更新プログラムチャネルの名前の変更など、いくつかの変更を行っています。 詳細については、[こちらの記事を参照](https://go.microsoft.com/fwlink/p/?linkid=2127441)をご覧ください。
+> 現在、Microsoft 365 Apps の更新プログラム チャネルに、新しい更新プログラム チャネル (月次エンタープライズ チャネル) の追加や既存の更新プログラム チャネル名の変更など、いくつかの変更を進めています。 詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2127441)を参照してください。
 
 > [!NOTE]
 >
->- ユーザーが半期エンタープライズチャネルをダウンロードして、Office ポータルから Windows 10 に Microsoft 365 アプリをインストールすると、既定で OneNote 2016 が含まれるようになります。
+>- 半期エンタープライズ チャネルのユーザーが Office ポータルから Microsoft 365 Apps をダウンロードして Windows 10 にインストールすると、既定で OneNote 2016 が含まれるようになります。
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-1908-june-09"></a>バージョン 1908:09 月9日
+## <a name="version-1908-june-09"></a>バージョン 1908: 6月 9 日
 *バージョン 1908 (ビルド 11929.20838)*
 
 セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
@@ -41,24 +41,24 @@ ms.locfileid: "44668155"
 ### <a name="resolved-issues"></a>解決済みの問題
 ### <a name="excel"></a>Excel
 
-- Ctrl + Shift + 方向キーを使用して、Excel ウィンドウが Teams によって共有されている場合に、Excel が応答しなくなる問題を修正しました。
+- Excel ウィンドウが Teams と共有されているときに、Ctrl キーと Shift キーを押しながら方向キーを押した後、Excel が応答しなくなる可能性がある問題が修正されました。
 
 - 印刷時にフォーム コントロールのチェックボックスが拡大縮小されるという問題を修正しました。
 
-- 従来の "共有ブック" モードを使用して、ブックの新しいシートに変更を表示しようとすると、クラッシュが発生する可能性があります。
+- 従来の "共有ブック" モードを使用して、ブックの新しいシートに変更を一覧表示しようとすると、クラッシュが発生する場合がありました。
 
 ### <a name="outlook"></a>Outlook
 
-- 大きな HTML メッセージを転送するときに、ユーザーがメッセージ本文の切り捨てを表示する原因となった問題に対処しました。
+- 大きな HTML メッセージを転送するとき、ユーザーにメッセージ本文の全体が表示されないという問題に対処しました。
 
 ### <a name="office-suite"></a>Office スイート
 
-- 2019年1月と7月のフォークのチャネル名を新しいチャネル名に更新しました。
+- 1月と7月の2019フォークのチャネル名が新しいチャネル名に更新されました。
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-1902-june-09"></a>バージョン 1902:09 月9日
+## <a name="version-1902-june-09"></a>バージョン 1902: 6月 9 日
 *バージョン 1902 (ビルド 11328.20602)*
 
 セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
@@ -69,15 +69,15 @@ ms.locfileid: "44668155"
 ### <a name="resolved-issues"></a>解決済みの問題
 ### <a name="office-suite"></a>Office スイート
 
-- 2019年1月と7月のフォークのチャネル名を新しいチャネル名に更新しました。
+- 1月と7月の2019フォークのチャネル名が新しいチャネル名に更新されました。
 
-- C2R ビルドを中断していたベースラインファイルから、廃止された参照を削除しました。
+- C2R ビルドを中断していたベースライン ファイルから、古い形式の参照を削除しました。
 
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-1908-may-12"></a>バージョン 1908: 5 月12時
+## <a name="version-1908-may-12"></a>バージョン 1908: 5 月 12 日
 *バージョン 1908 (ビルド 11929.20776)*
 
 セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
@@ -88,11 +88,11 @@ ms.locfileid: "44668155"
 ### <a name="resolved-issues"></a>解決済みの問題
 ### <a name="excel"></a>Excel
 
-- 色を使用してフィルター処理したデータを別の幅の列にコピーしても、値は貼り付けられません。
+- 色でフィルタリングされたデータを異なる幅の列にコピーすると、値が貼り付けられません。
 
 ### <a name="outlook"></a>Outlook
 
-- 最新の Windows 更新プログラムを適用した後に、ユーザーが msg および .oft ファイルを開くときにクラッシュする原因となった問題に対処しました。
+- 最新の Windows 更新プログラム適用後に、ユーザーが msg および .oft ファイルを開こうとするとクラッシュが起きる問題に対処しました。
 
 ### <a name="word"></a>Word
 
@@ -102,7 +102,7 @@ ms.locfileid: "44668155"
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-1902-may-12"></a>バージョン 1902: 5 月12時
+## <a name="version-1902-may-12"></a>バージョン 1902: 5 月 12 日
 *バージョン 1902 (ビルド 11328.20586)*
 
 セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
@@ -113,59 +113,59 @@ ms.locfileid: "44668155"
 ### <a name="resolved-issues"></a>解決済みの問題
 ### <a name="outlook"></a>Outlook
 
-- 最近の Windows 更新プログラムを適用した後に、ユーザーが .msg および .oft ファイルを開くとクラッシュする原因となった問題に対処しました。
+- 最新の Windows 更新プログラム適用後に、ユーザーが msg および .oft ファイルを開こうとするとクラッシュが起きる問題に対処しました。
 
-- 既定では、アイテム保持ポリシーのラベルには、保持期間がかっこで表示されます。 これにより、管理者がポリシー名のみを表示するように指定できるようにするためのレジストリキーが提供されます。 HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Preferences\HideRetentionPolicyDuration. 0 = 既定値。  1 = アイテム保持ポリシーのテキストのみが表示されます PolicyName。
+- 既定では、アイテム保持ポリシーのラベルには、保持期間がかっこ内に表示されます。 これにより、管理者はポリシー名のみを表示するように指定するレジストリ キーを取得することができます。 HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Preferences\HideRetentionPolicyDuration. 0 = 既定値。  1 = アイテム保持ポリシー テキスト のPolicyName のみが表示されます。
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-1908-may-04"></a>バージョン 1908: 2004 年5月
+## <a name="version-1908-may-04"></a>バージョン 1908: 5 月 4 日
 *バージョン 1908 (ビルド 11929.20752)*
 
 セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
-### <a name="resolved-issues"></a>解決した問題
+### <a name="resolved-issues"></a>解決済みの問題
 ### <a name="outlook"></a>Outlook
 
-- 特定の検索結果を選択すると、ユーザーがクラッシュする問題に対処しました。
+- ユーザーが特定の検索結果を選択すると、クラッシュする問題に対処しました。
 
-- [添付ファイル ​​ツール] に [クラウドに保存] ボタンが表示されない問題に対処しました。
+- [添付ファイル] ​​ツールに [クラウドに保存] ボタンが表示されない問題に対処しました。
 
-- 既定では、アイテム保持ポリシーのラベルには、保持期間がかっこで表示されます。これにより、管理者がポリシー名のみを表示するように指定できるようにするためのレジストリキーが提供されます。HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Preferences\HideRetentionPolicyDuration.0 = 既定値 1 = アイテム保持ポリシーのテキストのみを表示する PolicyName です。
+- 既定では、アイテム保持ポリシーのラベルには、保持期間がかっこ内に表示されます。これにより、管理者はポリシー名のみを表示するように指定するレジストリ キーを取得することができます。 HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Preferences\HideRetentionPolicyDuration. 0 = 既定値 1 = アイテム保持ポリシー テキスト のPolicyName のみが表示されます。
 
 ### <a name="office-suite"></a>Office スイート
 
-- Microsoft Office の Visual Basic for Applications で、ライブラリ名またはライブラリパスに DBCS 文字を含むコードライブラリへの参照が含まれている特定の VBA プロジェクトを読み込むと、読み込み時に Office アプリケーションによって表示されなくなることがあるという問題を修正しています。
+- Microsoft Office の Visual Basic for Applications で、ライブラリ名またはライブラリ パスに DBCS 文字を含むコード ライブラリへの参照が含まれている特定の VBA プロジェクトが、読み込み時に破損していると Office アプリケーションで表示される問題を修正しました。
 
-## <a name="version-1902-may-04"></a>バージョン 1902: 2004 年5月
+## <a name="version-1902-may-04"></a>バージョン 1902: 5 月 4 日
 *バージョン 1902 (ビルド 11328.20572)*
 
 ### <a name="resolved-issues"></a>解決済みの問題
 ### <a name="office-suite"></a>Office スイート
 
-- Microsoft Office の Visual Basic for Applications で、ライブラリ名またはライブラリパスに DBCS 文字を含むコードライブラリへの参照が含まれている特定の VBA プロジェクトを読み込むと、読み込み時に Office アプリケーションによって表示されなくなることがあるという問題を修正しています。
+- Microsoft Office の Visual Basic for Applications で、ライブラリ名またはライブラリ パスに DBCS 文字を含むコード ライブラリへの参照が含まれている特定の VBA プロジェクトが、読み込み時に破損していると Office アプリケーションで表示される問題を修正しました。
 
-## <a name="version1908april-26"></a>バージョン 1908: 4 月26日
+## <a name="version1908april-26"></a>バージョン 1908: 4 月 26 日
 *バージョン 1908 (ビルド 11929.20736)*
 
- [ここ](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)にリストされているセキュリティ更新プログラム
+セキュリティ更新プログラムのリストは  [こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="resolved-issues"></a>解決済みの問題
 ### <a name="excel"></a>Excel
 
 - VBA マクロを使用して範囲の内容をクリアするときにユーザーが経験する可能性のあるパフォーマンスの問題を修正しました。
 
-- 範囲に値を書き込む時間が予想より遅くなるという問題を VBA で修正した。
+- 値の範囲への入力に予想より時間がかかる VBA の問題を修正しました。
 
-- グラフ軸の "Value と交差する" プロパティが、ファイルを保存して再度開くときに予期せず変更されるという問題に対処しています。
+- グラフの軸の "Value Crosses At" プロパティが、ファイルを保存してもう一度開くときに予期せず変更されるという問題に対処しました。
 
 - Excel 2016 でデジタル署名を使用して保存したブックを現在のバージョンの Excel で開くと、署名が無効になる可能性があります。
 
 
 ### <a name="onenote"></a>OneNote
 
-- 通知をローカライズします。これにより、OneNote のユーザーに対して実行される一時的な手段の詳細を確認し、同期とサービスの安定性を向上させることができます。
+- 同期およびサービスの安定性を改善するために、OneNote ユーザー エクスペリエンスで実行されている一時的な手段についての詳細情報をユーザーが学べるようにする通知をローカライズします。
 
 
 ## <a name="version-1908-april-14"></a>バージョン 1908: 4 月 14 日
@@ -349,7 +349,7 @@ ms.locfileid: "44668155"
 ## <a name="version-1908-january-14"></a>バージョン 1908: 1 月 14 日
 *バージョン 1908 (ビルド 11929.20562)*
 
-セキュリティ更新プログラムのリストは[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
@@ -410,7 +410,7 @@ ms.locfileid: "44668155"
 
 - **コンテンツのリーチを拡大する:** プレゼンテーションのアクセシビリティを高める必要がありますか? アクセシビリティ チェックを使用すると、アクセシビリティの問題を自動的に監視できます。 [校閲]>[アクセシビリティ チェック] をクリックすると、何か問題が見つかった場合に、ステータス バーに通知が表示されます。
 
-- **シームレスな切り替え:** 新しいアカウント マネージャーでは、Office 365 の職場用と個人用アカウントがすべて 1 か所に表示されます。 アカウント間の切り替えがより簡単になりました。 [詳細情報](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+- **シームレスに切り替える:** 新しいアカウント マネージャーでは、Office 365 の職場用と個人用のアカウントがすべて 1 か所に表示されます。 アカウント間の切り替えがより簡単になりました。 [詳細情報](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
 - **オンライン ビデオの新しい保存場所:** Microsoft Stream にビデオを保存すれば、組織内のすべてのユーザーが視聴できます。 ビデオのリンクを挿入すれば、小さなファイル サイズでマルチメディア プレゼンテーションをご利用いただけます。 [詳細情報](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
 
@@ -746,3 +746,7 @@ ms.locfileid: "44668155"
 
 > [!NOTE]
 > Office の使用で問題がある場合は、[Microsoft の回答フォーラム](https://answers.microsoft.com/)に関するページまたは「[Microsoft Tech Community](https://techcommunity.microsoft.com/)」に質問を投稿するか、[サポート](https://support.microsoft.com/contactus)に問い合わせてサポートを受けることができます。
+
+
+[//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)
