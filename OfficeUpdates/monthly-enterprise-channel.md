@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の月次エンタープライズ チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 0cc298e264f0c1381aae004d161f87112e6005d2
-ms.sourcegitcommit: afe8763e09c99ef05ff0dcd35eccf3c0fd326742
+ms.openlocfilehash: f76ceaf76f505d9a4301f2bba66c9efcb6278ca4
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45121747"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138683"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>2020 年の月次エンタープライズ チャネル リリースのリリース ノート
 
@@ -27,7 +27,112 @@ ms.locfileid: "45121747"
 
 
 
-## <a name="version-2004-june-09"></a>バージョン 2004: 6月 9 日
+## <a name="version-2005-july-14"></a>バージョン 2005: 7 月 14 日
+*バージョン 2005 (ビルド 12827.20538)*
+
+セキュリティ更新プログラムのリストは[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="outlook"></a>Outlook
+
+- **より迅速かつ適切な結果:** 検索機能が更新され、よりスマート、迅速、かつ信頼性が高くなりました。 [詳細情報](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
+
+### <a name="word"></a>Word
+
+- **別の言葉で伝える:** 別の言葉で伝えたいときに、[書き換え] でお助けします。 [書き換え] では、フレーズを洗練させるための別の言葉遣いを提供します。<br />[ブログの投稿](https://blog-insider.office.com/2019/08/12/rewrite-in-word-say-it-another-way/) の詳細情報をご覧ください
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="access"></a>Access
+
+- アプリケーションのクラッシュを発生させずに、Date/Time Extended データ型をコードに呼び出すことができるように問題が修正されました。
+
+- この問題は修正されて、最新の Access バージョンに戻し、 DAO/VBA を使用して 10 進数データ型を管理および編集することができます。
+
+### <a name="excel"></a>Excel
+
+- Excel ウィンドウが Teams と共有されているときに、Ctrl キーと Shift キーを押しながら方向キーを押した後、Excel が応答しなくなる可能性がある問題が修正されました。
+
+- 同じブック内の場所へのハイパーリンクをクリックすると、ブックが非表示になることがあります。
+
+- SharePoint/OneDrive に保存すると、ユーザー設定のリボンタブの CustomUI XML が削除されるという問題が修正されました。
+
+- ピボット テーブル をチャート シートに挿入しようとしたときに Excel がクラッシュする場合がある問題に対処します。
+
+### <a name="outlook"></a>Outlook
+
+- ユーザーが管理者通知からフィードバックを送信する場合にクラッシュが発生する問題に対処しました。
+
+- Suggest a Feature で機能を検索しても結果が返されず、ユーザーが新しい機能のアイデアを提出するオプションがないという問題に対処しました。
+
+- Outlook で、受信トレイ修復ツールを実行するように促す表示が継続的に発生していた問題に対処しました。
+
+- Windows 10 サーバー バージョンのユーザーに「アンチウイルスの状態が無効ですという警告が表示される問題に対処しました。 このバージョンの Windows はウイルス検出をサポートしていますが、ウイルス対策が正常にインストールされてもウイルス対策ソフトウェアが見つかりませんでした」。
+
+- 一部のシナリオで、断続的なハングやクラッシュを発生させる原因となっていた問題に対処しました。
+
+- 共有された Calendar - Outlook カレンダー の改良版のユーザーに予定表のエラーが表示される問題を解決しました。
+
+- ユーザーがOutlook ルールを更新すると、「&quot;このコンピューターのルールは、Microsoft Exchange のルールと異なります&quot;」 と表示される問題に対処しました。
+
+- ドラッグ アンド ドロップによってファイル システムにコピーされた&nbsp;添付ファイルの作成日が、4501年1月1日に設定された問題に対処しました。
+
+- M365 Business Plus プランのサービスを利用していたユーザーがデータ損失防止の保護ポリシー ヒントを有効にできない問題に対処しました。
+
+- CLP の監査イベントで、返信/転送ラベルの問題に対応しました。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- これにより、ユーザーがファイルに対してモダンおよびレガシのコメントを持っていて、コメントの更新をトリガーすると、クラッシュが修正されます。
+
+- 提案ウィンドウでクラッシュする問題を修正しました。
+
+
+### <a name="project"></a>Project
+
+- プロジェクトのサマリータスクで、[プロジェクトの開始日] フィールドまたは [タスク] フィールドのいずれかに変更があった場合、ProjectBeforeTaskChange イベントが発生しない問題が修正されました。
+
+- 100% 完了とマークされているタスクが、100% 未満のタスクに間違って変更されてしまう問題を修正しました。
+
+### <a name="skype"></a>Skype
+
+- ユーザーが Teams Only に移動するポリシーを与えられた場合は、Skype for Business Outlook アドインを使用して会議をスケジュールできます。 この更新プログラムを適用すると、クライアントは Teams Only を対象としていることを示すポリシーをユーザーが読んでから会議参加のみのモードに入った後に、Skype for Business 会議のスケジュールを設定できなくなります。 また、skype for business Outlook アドインは、Skype for business クライアントが 「会議の参加のみ」 モードであることを確認した場合に起動した場合、自動的にアクティブ化されることはありません。
+
+### <a name="word"></a>Word
+
+- 一部のアプリケーションからコンテンツをドラッグしたときにクラッシュする問題の原因となっていた可能性がある問題が解決されました。
+
+### <a name="office-suite"></a>Office スイート
+
+- この変更により、Gif や3D モデルなどのアニメーション コンテンツを読み込んだり、再生したりするときに、ハングする可能性があります。
+
+- Bing アドオンのインストール検証を既定で true に設定し、MSI のリターン成功をインストール成功とみなすことで、ValidateInstall のエラー率の問題を解決しました。
+
+- この更新プログラムでは、Microsoft Office で PATH 環境変数で指定した場所を検索することによって参照される可能性がある Visual Basic for Applications プロジェクトが実行時に正しく検出されず、VBA ランタイムエラーが発生するという問題が修正されます。
+
+- この更新プログラムを適用すると、Microsoft Office の Visual Basic for Applications で、ライブラリ名またはライブラリ パスに DBCS 文字を含むコード ライブラリへの参照が含まれている特定の VBA プロジェクトが、読み込み時に破損していると Office アプリケーションで表示される問題が修正されます。
+
+- HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth のレジストリ キーが0に設定されている場合、アドインがアクティブになり、Windows で Office ホストがクラッシュしました。 この変更により、この問題は修正されます。
+
+
+[//]: # (バグの詳細コンテンツを削除しないでください。終了)
+
+## <a name="version-2004-july-14"></a>バージョン 2004: 7 月 14 日
+*バージョン 2004 (ビルド 12730.20602)*
+
+セキュリティ更新プログラムのリストは[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+## <a name="version-2004-june-09"></a>バージョン 2004: 6月 09 日
 *バージョン 2004 (ビルド 12730.20430)*
 
 セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
@@ -311,4 +416,5 @@ ms.locfileid: "45121747"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|MEC|生産|機能|16.0.12827.20538|バージョン-2005-7 月-14|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)

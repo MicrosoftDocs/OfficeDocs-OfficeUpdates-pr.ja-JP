@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の月次チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: e5be723b830639d3ef70ee249fa123fec97e604f
-ms.sourcegitcommit: ac8d77e50d9588c67e18cc5e1e294179fbadfea3
+ms.openlocfilehash: 1a0d7c630b57c37e32f693ade33b5cc6072249f0
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/07/2020
-ms.locfileid: "45049487"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138673"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020 年の最新のチャネル リリースのリリース ノート
 
@@ -31,6 +31,43 @@ ms.locfileid: "45049487"
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2006-july-14"></a>バージョン 2006: 7 月 14 日
+*バージョン 2006 (ビルド 13001.20384)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="access"></a>アクセス
+
+- ID (オートナンバーなど) フィールドが含まれるリンク付きの SQL 表を挿入する場合についての問題を解決しました。
+
+### <a name="excel"></a>Excel
+
+- 読み取り専用モードのブックに対して、ドキュメント分類を自動的に行った可能性があります。
+
+- アカウントからサインアウトした場合にデータ接続を作成しようとすると発生する可能性があるクラッシュを修正しました。
+
+### <a name="onenote"></a>OneNote
+
+- リソースの使用率を低下させて、共同編集状態の検出機能を改善します。
+
+### <a name="outlook"></a>Outlook
+
+- セキュリティ ダイアログ ボックスで [保存] オプションを選択したときに、ユーザーがテナント外の OneDrive の添付ファイルをローカルコンピューターに保存できない原因となっていた問題に対処しました。
+
+### <a name="office-suite"></a>Office スイート
+
+- 以前の AppV51 の回帰を修正するために、新しい AppV51 drop をバックポートします。
+
+- レジストリ TabProcGrowth の値がREG_SZ型でアドインがアクティブ化されている場合に、Windows の Office ホストがクラッシュする問題に対処しました。
 
 
 
@@ -826,6 +863,7 @@ ms.locfileid: "45049487"
 > [!NOTE]
 > Office の使用で問題がある場合は、[Microsoft の回答フォーラム](https://answers.microsoft.com/)に関するページまたは「[Microsoft Tech Community](https://techcommunity.microsoft.com/)」に質問を投稿するか、[サポート](https://support.microsoft.com/contactus)に問い合わせてサポートを受けることができます。
 
-[//]: # (管理センターのメタデータ コンテンツのスタートを変更しない)
+[//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|CC|Production| |16.0.13001.20384|バージョン-2006-7-14|)
 [//]: # (|Win32|CC|Production| |16.0.13001.20266|バージョン-2006-6-30|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT プロフェッショナルに、Microsoft AutoUpdate (MAU) のリリース履歴を提供します
-ms.openlocfilehash: dca350f83b16f776048c64b2fc023f53980be5ef
-ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
+ms.openlocfilehash: ad34c6a3f64da52611f8bb5b3502f448d823c096
+ms.sourcegitcommit: 460a51d38fc5364ad8fbf7b32a46786ee8b62dea
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "44211112"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45145114"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) のリリース履歴
  
@@ -29,6 +29,49 @@ ms.locfileid: "44211112"
 > - Microsoft AutoUpdate は、Microsoft のさまざまな Mac 製品への更新プログラムを提供します。そのため、Office for Mac を実行していない場合でも、Microsoft AutoUpdate を更新する通知が表示される場合があります。
 
 リリース ノートを確認するには、「[リリース ノート](release-notes-office-for-mac.md)」を参照してください。<br/><br/>
+
+## <a name="july-2020-release"></a>2020 年 7 月リリース
+
+**リリース日:** 2020 年 7 月 14 日
+
+*Microsoft AutoUpdate 4.25*
+
+**バグの修正と強化された機能:**
+- アプリの終了を検出し、"アプリを開く" に関して表示されたダイアログを自動的に削除します。
+- ４ 月のリリースで導入された、自動更新をオフにしているユーザーに Microsoft AutoUpdate UI が週に1回だけ表示される機能を元に戻しました。
+- 更新プログラムをダウンロードした後、インストールを開始する前に Update Assitant が終了する問題が修正されました。
+- ユーザー通知が保留になっているときに、長期間経過しても Update Assistant が終了しないという問題が修正されました。
+- インストール後に MAU UI が再度開いた (または再び開かない) 問題が修正されました。 MAU UI 自体から更新プログラムを開始した場合、またはユーザーが (Finder、Terminal など経由で) 明示的に更新プログラムを開始した場合、インストール後に UI が開く必要があります。
+
+**MAU 更新プログラムのリンク:**
+
+[Microsoft Auto Update 4.25 パッケージをダウンロードする](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 ハッシュ:**
+
+B8E3D4391E48732F42217589784D8B3417F6F14489D9DE04395198A01BFDFA46
+
+<br/><br/>
+
+## <a name="june-2020-release"></a>2020 年 6 月リリース
+
+**リリース日:** 2020 年 6 月 18 日
+
+*Microsoft AutoUpdate 4.24*
+
+**バグの修正と強化された機能:**
+- カスタマー メッセージング キャンペーン: Office for Mac 2016 は、2020年10月にサポートが終了します。 
+- MAU の Helper Tool XPC 接続のセキュリティ修正。
+
+**MAU 更新プログラムのリンク:**
+
+[Microsoft Auto Update 4.24 パッケージをダウンロードする](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 ハッシュ:**
+
+EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
+
+<br/><br/>
 
 ## <a name="may-2020-release"></a>2020 年 5 月リリース
 
