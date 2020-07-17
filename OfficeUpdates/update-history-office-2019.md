@@ -18,18 +18,18 @@ ms.locfileid: "45001127"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R および Office 2019 の更新履歴
 
-Microsoft releases security and quality updates for the Click-To-Run (C2R) version of Office 2016 and for Office 2019, which is exclusively C2R. These updates are released approximately once a month, usually on the second Tuesday of the month.
+Microsoft は、Office 2016 のクイック実行 (C2R) バージョンおよび Office 2019 (C2R バージョンのみ) のセキュリティ更新プログラムおよび品質更新プログラムをリリースします。これらの更新プログラムは、月に約 1 回、通常は毎月第 2 火曜日にリリースされます。
 
-If you'd like to verify that you're up to date, check your Office version number and manually update Office if necessary. To check your version of Office, do the following:
+最新の状態になっていることを確認するには、ご利用の Office のバージョン番号を確認し、必要に応じて手動で Office を更新します。Office のバージョンを確認するには、次の手順を行います。
 
   1.    Word や Excel など、任意の Office アプリケーションを開きます。
   2.    **[ファイル]、[アカウント]** の順に選択します。
   3.    **[製品情報]** で、**[バージョン情報]** セクションの下にあるバージョン番号をメモします。
 
-If the version number matches the most current version, you're up to date. If not, you can manually update to get the latest version of Office. To update Office, [follow these steps](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
+バージョン番号が最新バージョンと一致していれば、最新の状態です。一致しない場合は、最新バージョンの Office に手動で更新できます。Office を更新するには、[こちらの手順に従います](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)。
 
 
-The following tables provide the update history for the volume licensed version of Office 2019, as well as the retail versions of Office 2016 C2R and Office 2019, with the most recent release date listed first. The tables include the version and build number for the release and list the security updates that are included, along with a link to more information about the security update.
+次の表に、Office 2019 のボリューム ライセンス版、製品版の Office 2016 C2R と Office 2019 の更新履歴を示します (最新のリリース日付のものから表示しています)。表には、セキュリティ更新プログラムに関する詳細情報へのリンクと共に、リリースのバージョンとビルド番号が記載されており、含まれているセキュリティ更新プログラムが一覧表示されています。
 
 新しいバージョンには、以前のバージョンに含まれているすべての更新プログラムが含まれています。
 

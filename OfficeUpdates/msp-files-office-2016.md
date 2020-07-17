@@ -18,7 +18,7 @@ ms.locfileid: "45138693"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2016-products"></a>Office 2016 製品の最新の .msp ファイルの一覧
 
-The following information provides a list of the most current .msp files that IT professionals need to include when they create an installation image for an Office 2016 product, including Visio 2016 and Project 2016. By including these .msp files, when their users install the Office 2016 product, the most current security and non-security updates are automatically applied to the Office installation.
+次の情報には、IT 担当者が Visio 2016 や Project 2016 などの Office 2016 製品のインストール イメージを作成するときに含める必要がある最新の .msp ファイルの一覧が含まれます。これらの .msp ファイルを含めることにより、ユーザーが Office 2016 製品をインストールするときに、最新のセキュリティとセキュリティ以外の更新プログラムが自動的に Office のインストールに適用されます。
   
 この情報は、Windows インストーラー (MSI) のインストール テクノロジを使用する Office 2016 製品にのみ適用されます。
   

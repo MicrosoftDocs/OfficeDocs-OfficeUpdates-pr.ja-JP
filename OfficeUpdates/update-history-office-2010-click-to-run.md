@@ -43,16 +43,16 @@ Office のバージョンを確認するには、以下のことを行います�
     
 3. **[クイック実行の製品更新プログラム]** で、一覧表示されているバージョン番号を確認します。
     
-    If the version number matches the most current version, you're up to date. If not, you can manually update to get the latest version of Office 2010. To update Office, [follow these steps](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5#ID0EAABAAA=Office_2010).
+    バージョン番号が最新バージョンと一致していれば最新の状態です。一致しない場合は、最新バージョンの Office 2010 に手動で更新できます。Office を更新するには、[こちらの手順に従います](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5#ID0EAABAAA=Office_2010)。
     
 ### <a name="list-of-release-dates-version-numbers-and-fix-information-for-office-2010-updates"></a>Office 2010 更新プログラムのリリース日、バージョン番号、修正情報のリスト
 
-The following table provides a list of updates for Office 2010, with the most recent release date listed first. The table includes the version number for the release and links, if available, to Microsoft Knowledge Base (KB) articles or Microsoft Security Bulletins that contains information about the fixes that are included in the update.
+次の表は、最新のリリース日順に Office 2010 の更新プログラムの一覧を提供します。この表には、リリースのバージョン番号と、更新プログラムに含まれている修正プログラムに関する情報を含む Microsoft サポート技術情報 (KB) の記事またはマイクロソフト セキュリティ情報へのリンク (存在する場合) が記載されています。
   
 新しいバージョンには、以前のバージョンに含まれているすべての更新プログラムが含まれています。
 
 > [!NOTE]
-> The KB articles listed below are for reference purposes only. Click-to-Run updates include all the fixes listed in the KB articles. You don't need to download the separate updates listed in the KB articles.
+> 以下に一覧表示されているサポート技術情報の記事は、参照のみを目的としています。クイック実行の更新プログラムには、サポート技術情報の記事に記載されているすべての修正プログラムが含まれます。サポート技術情報の記事に記載されている個別の更新プログラムをダウンロードする必要はありません。
 
   
 |**リリース年**|**リリース日**|**バージョン番号**|**詳細情報**|
