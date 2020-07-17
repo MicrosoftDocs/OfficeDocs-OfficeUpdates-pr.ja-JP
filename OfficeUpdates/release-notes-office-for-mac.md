@@ -9,24 +9,24 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Microsoft 365 Apps サブスクライバー向け Office for Mac のリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 6eae8ac8a39d5225d781a0e93c5d8f0830559ddd
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: 4c1b7d69a40afae6c6172d3d3135c2e22a7daa71
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715143"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138543"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac のリリース ノート
 
  
-Microsoft 365 Apps サブスクリプションに付属する Office for Mac は、新機能、セキュリティ更新プログラム、およびセキュリティ以外の更新プログラムを提供するために定期的に更新されます。
+Microsoft 365 サブスクリプションに付属する Office for Mac は、新機能、セキュリティ更新プログラム、およびセキュリティ以外の更新プログラムを提供するために定期的に更新されます。
   
 更新プログラムは、Microsoft AutoUpdate (MAU) で入手できます。Microsoft AutoUpdate を使用するには、Word などの Office アプリケーションを起動し、**[ヘルプ]** > **[更新プログラム]** を選択します。管理者で組織内のコンピューターを既存のソフトウェア展開ツールで更新する場合は、各アプリケーションの更新パッケージをダウンロードしてすることが展開できます。
 
   
 > [!NOTE]
 > - Office Insider の場合は、[Insider Fast ビルドのリリース ノート](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a)を参照してください。
-> - 2018 年 9 月の 16.17 リリース以降、これらのリリース ノートは、Office 2019 for Mac にも該当します。これは、小売店またはボリューム ライセンス契約によって 1 回限りの購入で使用できる Office for Mac のバージョンです。ただし、リリース ノートに記載されている一部の機能は、Microsoft 365 Apps サブスクリプションがある場合にのみ使用できます。
+> - 2018 年 9 月の 16.17 リリース以降、これらのリリース ノートは、Office 2019 for Mac にも該当します。これは、小売店またはボリューム ライセンス契約によって 1 回限りの購入で使用できる Office for Mac のバージョンです。ただし、リリース ノートに記載されている一部の機能は、Microsoft 365 サブスクリプションがある場合にのみ使用できます。
 > - Microsoft では多くの場合、一定期間にわたって毎月のチャネル、機能 (および場合によっては修正プログラム) を展開します。これにより、幅広いユーザーに機能を公開する前にスムーズに動作するかどうかを確認することができます。したがって、下記のものが表示されない場合でも、心配する必要はなく、いずれは表示されます。[詳細情報](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - 一般的な品質とパフォーマンスの改善を含む更新プログラムをリリースすることがありますが、新機能はありません。 アプリが以下に具体的にリストされていない場合、そのアプリの更新プログラムには品質とパフォーマンスの改善のみが含まれます。
 
@@ -34,6 +34,148 @@ Microsoft 365 Apps サブスクリプションに付属する Office for Mac は
 
 
 [//]: # (削除しないでください)
+
+
+
+
+
+
+## <a name="july-14-2020"></a>2020 年 7 月 14 日
+*バージョン 16.39 (ビルド 20071300)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="excel"></a>Excel
+
+- **セルの値からグラフのラベルを追加する:** グラフのデータ付けるラベルとして、セルの値を使用します。 [詳細情報](https://support.office.com/article/884bf2f1-2e29-454e-8b42-f467c9f4eb2d)
+
+- **アニメーション Gif を使用してストーリーを伝える :** Office エディターでアニメーション Gif がサポートされるようになりました。これにより、さらに目を引くドキュメントを作成できるようになりました。
+
+### <a name="outlook"></a>Outlook
+
+- **いつでもクイックアクション:** アクションが可能なメッセージを使用すると、電子メール内で直接、アンケートの承認、回答の入力などといったクイックアクションを利用できます。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **アニメーション Gif を使用してストーリーを伝える :** Office エディターでアニメーション Gif がサポートされるようになりました。これにより、さらに目を引くドキュメントを作成できるようになりました。
+
+### <a name="word"></a>Word
+
+- **アニメーション Gif を使用してストーリーを伝える :** Office エディターでアニメーション Gif がサポートされるようになりました。これにより、さらに目を引くドキュメントを作成できるようになりました。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+
+[//]: # (セキュリティの詳細コンテンツを削除しないでください。開始)
+
+
+### <a name="security-updates"></a>セキュリティ更新プログラム
+
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-1342](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1342)
+-   [CVE-2020-1445](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1445)
+-   [CVE-2020-1446](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1446)
+-   [CVE-2020-1447](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1447)
+
+### <a name="office-suite"></a>Office スイート
+
+-   [CVE-2020-1409](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1409)
+
+[//]: # (セキュリティの詳細コンテンツを削除しないでください。終了)
+
+## <a name="june-16-2020"></a>2020年6月16日
+*バージョン 16.38 (ビルド 20061401)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="excel"></a>Excel
+
+- **写真からデータを取得する: ** 写真から、[挿入] タブから、または iPhone から直接表データを追加します。 [詳細情報](https://support.office.com/article/3c1bb58d-2c59-4bc0-b04a-a671a6868fd7)<br />[ブログの投稿](https://blog-insider.office.com/2020/04/13/data-from-picture-in-excel/) の詳細情報をご覧ください
+
+### <a name="outlook"></a>Outlook
+
+- **Outlook ハンズフリー:** マイクをお持ちですか? [ディクテーション] をクリックして、発話すると Outlook によって入力されるのを確認してください。 [詳細情報](https://support.office.com/article/4010d238-bb25-45e9-89f6-8f9b54fcc0fc)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **プレゼンテーション中に変更を同期する:** プレゼンテーションがスライド ショー モードであっても、いつでも変更を同期できます。<br />[ブログの投稿](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/) の詳細情報をご覧ください
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+
+[//]: # (セキュリティの詳細コンテンツを削除しないでください。開始)
+
+
+### <a name="security-updates"></a>セキュリティ更新プログラム
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-1225](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1225)
+-   [CVE-2020-1226](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1226)
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2020-1229](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1229)
+
+
+### <a name="office-suite"></a>Office スイート
+
+-   [CVE-2020-1321](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1321)
+
+[//]: # (セキュリティの詳細コンテンツを削除しないでください。終了)
+
+## <a name="may-12-2020"></a>2020 年 5 月 12 日
+*バージョン 16.37 (ビルド 20051002)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="excel"></a>Excel
+
+- **そのまま伝えます:** データに関して質問がありますか? Excel だと、質問を入力すると、答えが表示されます。 [詳細情報](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+
+- **探しているものを見つける:**[検索] ボックスを使用して、テキスト、コマンド、ヘルプなどを探します。 [詳細情報](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />[ブログの投稿](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/) の詳細情報をご覧ください
+
+- **セルを素早く追加できる方法**: **有効をクリックして、モードを追加**してから、= を入力して一部のセルを選択すると、セルの値を加算する数式をすばやく作成できます。 **メニュー**オプションを検索 > **環境設定** > **編集**。  [詳細情報](https://support.office.com/ja-JP/article/what-s-new-in-microsoft-365-95c8d81d-08ba-42c1-914f-bca4603e1426#Platform=Mac) <br />[ブログの投稿](https://blog-insider.office.com/2020/04/21/click-to-add-mode-feedback-in-action/)の詳細情報をご覧ください
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **サイズの大きなコンテンツがバックグラウンドでダウンロードされるため、大きなサイズのクラウドファイルの閲覧をすばやく行うことができます:** 大規模な画像やビデオを見ることができるようになる前にクラウドプレゼンテーションにダウンロードするのではなく、PowerPoint でその内容のダウンロードを遅らせることにより、ドキュメントをすぐに読み始められるようにしています。
+
+- **スライドにリンクする:** 同僚へスライドセットに投稿してもらうように依頼して、ヘルプが必要なスライド上で直接開始します。 [詳細情報](https://support.office.com/article/4f5f3d5e-1674-4742-8cf1-9623050c19ef)
+
+- **探しているものを見つける:**[検索] ボックスを使用して、テキスト、コマンド、ヘルプなどを探します。 [詳細情報](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />[ブログの投稿](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/) の詳細情報をご覧ください
+
+### <a name="word"></a>Word
+
+- **ハンズフリーで入力:** マイクは用意しましたか? [ディクテーション] をクリックして、発話すると Word によって入力されるのを確認してください。 [詳細情報](https://support.office.com/article/3876e05f-3fcc-418f-b8ab-db7ce0d11d3c)<br />[ブログの投稿](https://blog-insider.office.com/2020/01/24/dictate-your-documents-in-word-on-mac/) の詳細情報をご覧ください
+
+
+- **探しているものを見つける:**[検索] ボックスを使用して、テキスト、コマンド、ヘルプなどを探します。 [詳細情報](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />[ブログの投稿](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/) の詳細情報をご覧ください
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+
+[//]: # (セキュリティの詳細コンテンツを削除しないでください。開始)
+
+
+### <a name="security-updates"></a>セキュリティ更新プログラム
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-0901](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0901)
+
+[//]: # (セキュリティの詳細コンテンツを削除しないでください。終了)
+
 ## <a name="april-14-2020"></a>2020 年 4 月 14 日
 *バージョン 16.36 (ビルド 20041300)*
 
@@ -565,8 +707,8 @@ Microsoft 365 Apps サブスクリプションに付属する Office for Mac は
 |**アプリケーション**|**機能の更新プログラム**|**セキュリティの更新プログラムを入手できます。**|**更新プログラム パッケージのダウンロード リンク**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>| **ダーク モードで目に優しい:** 低照度の環境では、濃い色の背景の方が目に優しくなります。macOS Mojave が必要です。<br/><br/>  **テキストの外観を維持する:** フォントを埋め込むことにより、すべてのコンピューターでドキュメントのテキストの外観を同一にします。これは嬉しい機能です。[詳細情報](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/><br/>**文書に埋め込まれたフォントを表示する:** ファイルに埋め込まれているフォントを Mac Word で表示できるようにします。<br/><br/>**フォーカス モードの呼び出し可能なステータス バー:** フォーカスモードで呼び出し可能なステータス バーを使用して、Word での文字カウントやズーム コントロールへのアクセスを簡単に行えます。<br/><br/>**より高機能になったフォーカスモード:** ご要望にお応えいたします。 フォーカス モードが設定した表示倍率で表示され、スクロール中もページ番号が表示されるようになりました。| |[Word の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.20.18120801_Updater.pkg) <br/>|
-|Excel  <br/>|  **ダーク モードで目に優しい:** 低照度の環境では、濃い色の背景の方が目に優しくなります。macOS Mojave が必要です。<br/><br/> | [CVE-2018-8597](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8597): Microsoft Excel のリモート コード実行の脆弱性 <br/><br/> [CVE-2018-8627](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8627): Microsoft Excel の情報漏えいの脆弱性 |[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.20.18120801_Updater.pkg) <br/>|
-|PowerPoint  <br/>| **ダーク モードで目に優しい:** 低照度の環境では、濃い色の背景の方が目に優しくなります。macOS Mojave が必要です。<br/><br/>  **iPhone から直接 PowerPoint へ:** Apple Continuity Camera を使用して、写真を iPhone からスライドへ挿入します。macOS Mojave が必要です。[詳細情報](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8628): Microsoft PowerPoint のリモート コード実行の脆弱性 <br/>|[PowerPoint の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg) <br/>|
+|Excel  <br/>|  **目に優しい濃色モード:** 光の少ない環境において目に優しい、暗い背景色を利用できます。 macOS Mojave が必要です。 <br/><br/> | [CVE-2018-8597](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8597): Microsoft Excel のリモート コード実行の脆弱性 <br/><br/> [CVE-2018-8627](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8627): Microsoft Excel の情報漏えいの脆弱性 |[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.20.18120801_Updater.pkg) <br/>|
+|PowerPoint  <br/>| **目に優しい濃色モード:** 光の少ない環境において目に優しい、暗い背景色を利用できます。 macOS Mojave が必要です。 <br/><br/>  **iPhone から直接 PowerPoint へ:** Apple Continuity Camera を使用して、写真を iPhone からスライドへ挿入します。macOS Mojave が必要です。[詳細情報](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8628): Microsoft PowerPoint のリモート コード実行の脆弱性 <br/>|[PowerPoint の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg) <br/>|
 |Outlook  <br/>|  **ダーク モードで目に優しい:** 低照度の環境では、濃い色の背景の方が目に優しくなります。macOS Mojave が必要です。<br/><br/>  **予定表を共有する:** 家族、友人、同僚と予定表を共有します。Mac、PC、またはクラウド バージョンの Outlook で共有している予定表を開きます。[詳細情報](https://support.office.com/article/365-b576ecc3-0945-4d75-85f1-5efafb8a37b4) <br/><br/> **会議の転送を無効にする:** 出席者が会議を他のユーザーに転送できないようにします。[詳細情報](https://support.office.com/article/8cd354e5-b319-403e-8dd2-88b8ee89b4dd) <br/><br/> **チームを使用して会議に接続する:** リモートのチームと協力する場合。Outlook でチームを使用して、オンライン会議のスケジュールを設定したり、会議に参加します。[詳細情報](https://support.office.com/article/883cc15c-580f-441a-92ea-0992c00a9b0f) <br/><br/>**会議の出席者を確認する:** 予定表に記載された任意の会議やイベントをクリックすると、参加予定者を確認できます。<br/><br/> **3 タイムゾーンを表示する:** タイム ゾーン間で会議をスケジュールする必要がある場合。複数のタイム ゾーンを予定表に追加すると、全員の予定の確認や、全員が参加できる時間の選択が容易になります。[詳細情報](https://support.office.com/article/938d9db9-14ae-4203-ab91-b2d183429382)<br/><br/>  ||[Outlook の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.20.18120801_Updater.pkg) <br/>|
 |Microsoft Auto Update 4.6 <br/>| SHA-1 ではなく SHA-256 ハッシュを含む最新のセキュリティ カタログ <br/>|<br/> | [Microsoft AutoUpdate 更新パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.6.18120801_Updater.pkg)|
 |Office スイート  <br/>|**新しい見た目のリボン アイコン:** 機能に変更はないので、ご安心ください。 また、すべてのアイコンがあらゆるサイズの画面で適切に表示されるようになりました。 [詳細情報](https://support.office.com/article/a6cdf19a-b2bd-4be1-9515-d74a37aa59bf)<br/><br/>**[代替テキスト] ウィンドウの更新:** 役に立つキャプションを追加したり、要素を装飾用としてマークしたりして、コンテンツのアクセシビリティを高めます。 |<br/>||
@@ -943,8 +1085,8 @@ Microsoft 365 Apps サブスクリプションに付属する Office for Mac は
 |**アプリケーション**|**機能の更新プログラム**|**セキュリティ更新プログラム**|
 |:-----|:-----|:-----|
 |Word  <br/> |**フォーカス モードのモダンな背景:** **ビュー** タブでフォーカス モードのときに、夕暮れや夜景の背景から選択します。[詳細を見る](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292.aspx)  <br/><br/> **Dubai フォント:** 西ヨーロッパ言語とアラビア文字を使用する主要言語の両方に対応しているフォント ファミリ。[詳細を見る](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
-|Excel  <br/> |**Dubai フォント:** 西ヨーロッパ言語とアラビア文字を使用する主要言語の両方に対応しているフォント ファミリ。[詳細を見る](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
-|PowerPoint  <br/> |**Dubai フォント:** 西ヨーロッパ言語とアラビア文字を使用する主要言語の両方に対応しているフォント ファミリ。[詳細を見る](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
+|Excel  <br/> |**Dubai フォント:** 西ヨーロッパ言語とアラビア文字を使用する主要言語の両方に対応しているフォント ファミリ。 [詳細情報](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
+|PowerPoint  <br/> |**Dubai フォント:** 西ヨーロッパ言語とアラビア文字を使用する主要言語の両方に対応しているフォント ファミリ。 [詳細情報](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Outlook  <br/> |**グループ:** 上位 10 グループを表示し、[グループ] フォルダーから直接グループの会話を読んだり返信したりできます。  <br/> <br/> **Dubai フォント:** 西ヨーロッパ言語とアラビア文字を使用する主要言語の両方に対応しているフォント ファミリ。[詳細を見る](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Office スイート  <br/> ||[CVE-2017-0254](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2017-0254): Microsoft Office のメモリ破損の脆弱性   |
 
