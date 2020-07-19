@@ -1,5 +1,5 @@
 ---
-title: Office ベータチャネルの更新履歴
+title: Office ベータ チャネルの更新履歴
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
@@ -8,15 +8,15 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: Windows デスクトップ用の月次チャンネル Insider ファースト リリースの更新履歴を Insider の皆様に提供します。
-ms.openlocfilehash: 75dba530be25321c904196bcb9b25ee611652175
-ms.sourcegitcommit: b3740a6df29ec013b7b8b7d74fbe05f5147cc74e
+description: Windows デスクトップ用の月次チャンネル Insider ファースト リリースの更新履歴を Insider に提供します
+ms.openlocfilehash: e4d242d5b7b9d9564cca3b3cbe7324101265f769
+ms.sourcegitcommit: 275efa6dec144dc7a6756d45086a0b3d3672f4b9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45080162"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45153635"
 ---
-# <a name="update-history-for-office-beta-channel"></a>Office ベータチャネルの更新履歴
+# <a name="update-history-for-office-beta-channel"></a>Office ベータ チャネルの更新履歴
 
 Insider の皆様。最新の更新プログラムがインストールされているかどうかを確認したり、最近の Insider ビルドの一覧を探したりしている場合は、この記事をご活用いただけます。Insider プログラムの詳細については、[こちら](https://insider.office.com/)をクリックしてください。
 
@@ -29,49 +29,52 @@ Insider の皆様。最新の更新プログラムがインストールされて
 > - こちらの更新履歴はリリースされたすべてのビルドを一覧表示します
 > - リリース ノートは、更新される頻度は低く、複数のビルドの更新を発行済みリリース ノートのビルド番号までまとめたものである場合があります。
 
-## <a name="office-beta-channel-versions-and-builds"></a>Office ベータチャネルのバージョンとビルド
+## <a name="office-beta-channel-versions-and-builds"></a>Office ベータ チャネルのバージョンとビルド
 
-Insider レベルで登録している場合は、新しい機能と改善により頻繁に更新されます。 次のリストは、最近**リリースさ**れたベータ版のバージョンとビルドの履歴を示しています。 新しいビルドには、以前のビルドに含まれるすべての更新が含まれています。
+Insider レベルに登録している場合は、新機能と改善された機能を含む更新プログラムを頻繁に入手できます。 次のリストは、最近のベータ チャネルのバージョンとビルドの履歴を示しています。**最も新しくリリースされたビルドが最初に表示されています**。 新しいビルドには、以前のビルドに含まれているすべての更新が含まれています。
 
 リリース ノートを確認するには、「[Windows デスクトップ版 Office のリリース ノート](https://docs.microsoft.com/OfficeUpdates/beta-channel)」を参照してください。
 
 
 [//]: # (削除しないでください)
 
-**2020年7月7日**<br/>
+**2020 年 7 月 16 日**<br/>
+バージョン 2008 (ビルド 13115.20000)<br/>
+
+**2020 年 7 月 7 日**<br/>
 バージョン 2008 (ビルド 13102.20002)<br/>
 
-**2020年7月01日**<br/>
+**2020 年 7 月 1 日**<br/>
 バージョン 2007 (ビルド 13029.20006)<br/>
 
-**2020年6月29日**<br/>
+**2020 年 6 月 29 日**<br/>
 バージョン 2007 (ビルド 13025.20000)<br/>
 
-**2020年6月23日**<br/>
+**2020 年 6 月 23 日**<br/>
 バージョン 2007 (ビルド 13020.20004)<br/>
 
-**2020年6月15日**<br/>
+**2020 年 6 月 15 日**<br/>
 バージョン 2007 (ビルド 13012.20000)<br/>
 
-**2020年6月9日**<br/>
+**2020 年 6 月 9 日**<br/>
 バージョン 2007 (ビルド 13006.20002)<br/>
 
-**2020年6月3日**<br/>
+**2020 年 6 月 3 日**<br/>
 バージョン 2006 (ビルド 13001.20002)<br/>
 
-**2020年6月01日**<br/>
+**2020 年 6 月 1 日**<br/>
 バージョン 2006 (ビルド 12930.20014)<br/>
 
-**2020年5月25日**<br/>
+**2020 年 5 月 25 日**<br/>
 バージョン 2006 (ビルド 12920.20000)<br/>
 
-**2020年5月18日**<br/>
+**2020 年 5 月 18 日**<br/>
 バージョン 2006 (ビルド 12914.20000)<br/>
 
-**2020年5月11日**<br/>
+**2020 年 5 月 11 日**<br/>
 バージョン 2006 (ビルド 12905.20000)<br/>
 
-**2020年5月4日**<br/>
+**2020 年 5 月 4 日**<br/>
 バージョン 2006 (ビルド 12829.20000)<br/>
 
 **2020 年 4 月 29 日**<br/>
