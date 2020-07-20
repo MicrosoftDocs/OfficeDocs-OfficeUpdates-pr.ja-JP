@@ -12,12 +12,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: Project Server 2013 と Project Server 2010 の更新プログラムを 1 か所で検索および管理できます。このページのリンクを使用して、更新プログラムに関する詳細な情報を取得し、更新プログラムをダウンロードしてください。
-ms.openlocfilehash: cb72af910fde540407a40ff466ce803762e35907
-ms.sourcegitcommit: 6a6295bb1d4cdef49379bf11db5ea0cc8e927e8b
+ms.openlocfilehash: 301fa900d37739dfd3b9d1b6555b9a0780a23c5a
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44666659"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138703"
 ---
 # <a name="project-server-updates"></a>Project Server の更新プログラム
 
@@ -29,6 +29,7 @@ ms.locfileid: "44666659"
   
 |**リリース日**|**サポート技術情報番号**|
 |:-----|:-----|:-----|
+|2020 年 7 月  <br/> |[KB4484445](https://support.microsoft.com/kb/4484445) <br/>|
 |2020 年 6 月  <br/> |[KB4484407](https://support.microsoft.com/kb/4484407) <br/>|
 |2020 年 5 月  <br/> |[KB4484360](https://support.microsoft.com/kb/4484360) <br/>|
 |2020 年 4 月  <br/> |[KB4484318](https://support.microsoft.com/kb/4484318) <br/>|
@@ -100,6 +101,7 @@ ms.locfileid: "44666659"
 
 |**リリース日**|**サポート技術情報番号**|
 |:-----|:-----|:-----|
+|2020 年 7 月  <br/>  |[KB4484457](https://support.microsoft.com/kb/4484457) <br/>|
 |2020 年 6 月  <br/>  |[KB4484412](https://support.microsoft.com/kb/4484412) <br/>|
 |2020 年 5 月  <br/>  |[KB4484388](https://support.microsoft.com/kb/4484388) <br/>|
 |2020 年 4 月  <br/>  |[KB4484323](https://support.microsoft.com/kb/4484323) <br/>|
