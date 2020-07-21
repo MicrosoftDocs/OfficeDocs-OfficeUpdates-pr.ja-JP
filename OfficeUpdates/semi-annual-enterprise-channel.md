@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の半期チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: f32bdae61df487a920d3a5a7186db9113b37310a
-ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
+ms.openlocfilehash: 72b515d37a8529b17afec4e868df0b2171f83b09
+ms.sourcegitcommit: 6f79e3c3948db4d7ae1c6dfc855970551d3b1678
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138813"
+ms.lasthandoff: 07/20/2020
+ms.locfileid: "45187607"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>2020 年の半期エンタープライズ チャネル リリースのリリース ノート
 
@@ -154,8 +154,6 @@ ms.locfileid: "45138813"
 - **よりアクセシビリティの高い PDF ファイルを作成する:** PDF を作成すると、アクセシビリティ チェックが、保存する前に修正するアクセシビリティの問題を指摘します。 [詳細情報](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)<br />[ブログの投稿](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/) の詳細情報をご覧ください
 
 - **ファイル共有の高速化:** ファイルを開かなくても、最近使用したファイルのリストからドキュメントを直接共有できます。
-
-- **図形を画像として保存する:** 簡単なクリック操作で図形、アイコン、その他のオブジェクトを画像ファイルとして保存し、別の場所で再利用することができます。 [詳細情報](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
 - **自分の気分を表現するアイコンの追加:** 300 個以上の新しいアイコンが追加されました。 [挿入]、[アイコン] の順に検索してください。 [詳細情報](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)<br />[ブログの投稿](https://blog-insider.office.com/2019/04/24/your-feedback-in-action-new-insertable-icons/) の詳細情報をご覧ください
 
