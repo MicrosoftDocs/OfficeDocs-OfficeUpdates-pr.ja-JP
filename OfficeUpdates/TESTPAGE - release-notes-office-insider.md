@@ -11,7 +11,7 @@ ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
 ms.openlocfilehash: 7be7c87cdc366fb4367e85a3a4174ce9718b5204
 ms.sourcegitcommit: f92e2e3c32b657fcb7abba694b310e152b376858
-ms.translationtype: MT
+ms.translationtype: Auto
 ms.contentlocale: ja-JP
 ms.lasthandoff: 06/03/2020
 ms.locfileid: "44546279"
