@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 12cfa4a285201c2d3839abfd93c5085fa5ea1d13
-ms.sourcegitcommit: a58e0b1ff6d1170fabfd95ba7f25e2eb1e4fad0a
+ms.openlocfilehash: 55376627b5c8bc71bf346861a774ecce3cda9240
+ms.sourcegitcommit: 766e2f8782023972acd7a53c458f39219a8493b3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "45166715"
+ms.lasthandoff: 07/24/2020
+ms.locfileid: "45410704"
 ---
 # <a name="release-notes-for-beta-channel"></a>ベータ チャネルのリリース ノート
 
@@ -30,6 +30,35 @@ ms.locfileid: "45166715"
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2008-july-24"></a>バージョン 2008: 7 月 24 日
+*バージョン 2008 (ビルド 13117.20000)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="excel"></a>Excel
+
+- **Excel で洗練された Visio 図を作成する:** ワークシートにデータを入力して、フロー チャートまたは組織図を作成します。 [詳細情報](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="onenote"></a>OneNote
+
+- アプリケーションウィンドウを小さいサイズに変更すると、検索編集ボックスのプレースホルダーテキストがオーバーフローする問題を修正しました。　
+
+### <a name="word"></a>Word
+
+- アプリケーションウィンドウを小さいサイズに変更すると、検索編集ボックスのプレースホルダーテキストがオーバーフローする問題を修正しました。　
+- 変更履歴の記録の[特定のユーザー]オプションが無効になっている問題を修正しました。
+- HTML ファイルを開くときに、時々切断される問題を修正しました。
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2008-july-17"></a>バージョン 2008: 7 月 17 日
 *バージョン 2008 (ビルド 13115.20000)*
@@ -1063,6 +1092,7 @@ ms.locfileid: "45166715"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13117.20000|version-2008-july-24|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13115.20000|version-2008-july-17|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13102.20002|version-2008-july-10|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)
