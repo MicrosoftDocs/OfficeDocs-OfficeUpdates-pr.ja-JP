@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の月次チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 001bc31abe7d885133eac48c58c2c03ae67e6ac8
-ms.sourcegitcommit: 6f79e3c3948db4d7ae1c6dfc855970551d3b1678
+ms.openlocfilehash: dbc49b56f2769318b9ec38253979262123844866
+ms.sourcegitcommit: 525e9abf1319f42ed01a4f2ba2852b1a74181e81
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/20/2020
-ms.locfileid: "45187597"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "46506614"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020 年の最新のチャネル リリースのリリース ノート
 
@@ -31,6 +31,35 @@ ms.locfileid: "45187597"
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2006-july-28"></a>バージョン 2006: 7 月 28 日
+*バージョン 2006 (ビルド 13001.20498)*
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- 改ページ プレビューで複数のシートを含むブックを読み込むときにエラーやハングが発生することがある問題を修正しました。
+
+
+### <a name="outlook"></a>Outlook
+
+- SVG 画像のコピーと貼り付けの問題を修正しました。
+
+
+### <a name="word"></a>Word
+
+- SVG 画像のコピーと貼り付けの問題を修正しました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- タイミングの問題で、Office ファイルを閉じるときにクラッシュすることがあります。
 
 
 
@@ -864,6 +893,7 @@ ms.locfileid: "45187597"
 > Office の使用で問題がある場合は、[Microsoft の回答フォーラム](https://answers.microsoft.com/)に関するページまたは「[Microsoft Tech Community](https://techcommunity.microsoft.com/)」に質問を投稿するか、[サポート](https://support.microsoft.com/contactus)に問い合わせてサポートを受けることができます。
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|CC|Production| |16.0.13001.20498|バージョン-2006-7-28|)
 [//]: # (|Win32|CC|Production| |16.0.13001.20384|バージョン-2006-7-14|)
 [//]: # (|Win32|CC|Production| |16.0.13001.20266|バージョン-2006-6-30|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)
