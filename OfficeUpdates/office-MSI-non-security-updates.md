@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 永続的なバージョンの Office 2016、Office 2013、Office 2010 の最新のセキュリティ以外の更新プログラム情報へのリンクを IT 技術者に提供します
-ms.openlocfilehash: f1924b4ad7dac69ad94228998da3042e156e12c6
-ms.sourcegitcommit: 6e27566f8c2e6718da5c5597a62f91a882c8b20f
+ms.openlocfilehash: 24c7c09611d2af4c88edf989ba7fae08e61675ac
+ms.sourcegitcommit: 1a9ceb0e62ff42213babaf1dbb854b4d911f0e7a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/07/2020
-ms.locfileid: "45052620"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "46560102"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Windows インストーラー (MSI) を使用しているバージョンの Office の最新のセキュリティ以外の更新プログラム
 
@@ -25,6 +25,14 @@ ms.locfileid: "45052620"
 > - この記事の情報は、Microsoft 365 のアプリには適用されません。
 > - Office の更新プログラムをインストールする手順については、「[Office の更新プログラムをインストールする](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)」を参照してください。
 <br/><br/>
+## <a name="august-4-2020"></a>2020 年 8 月 4日
+
+**Office 2016**<br/>
+Microsoft Office 2016 の更新プログラム ([KB4484418](https://support.microsoft.com/help/4484418))<br/> Microsoft Project 2016 の更新プログラム ([KB4484477](https://support.microsoft.com/help/4484477))<br/>
+Skype for Business 2016 の更新プログラム ([KB4484464](https://support.microsoft.com/help/4484464))<br/> 
+
+**Office 2010**<br/>
+Microsoft Office 2010 の更新プログラム ([KB4484454](https://support.microsoft.com/help/4484454))<br/> Microsoft PowerPoint 2010 の更新プログラム ([KB4092435](https://support.microsoft.com/help/4092435))<br/> 
 
 ## <a name="july-7-2020"></a>2020 年 7 月 7 日
 
@@ -76,13 +84,4 @@ Skype for Business 2016 の更新プログラム ([KB4484245](https://support.mi
 
 **Office 2013**<br/>
 Skype for Business 2015 の更新プログラム ([KB4484097](https://support.microsoft.com/help/4484097))<br/>
-
-
-## <a name="february-4-2020"></a>2020 年 2 月 4 日
-
-**Office 2016**<br/>
-Microsoft Project 2016 の更新プログラム ([KB4484253](https://support.microsoft.com/help/4484253)) <br/>
-Microsoft Word 2016 の更新プログラム ([KB4484249](https://support.microsoft.com/help/4484249)) <br/>
-
-
 
