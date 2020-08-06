@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: a8bf6662fb1c0fcd652f32068f3cf42e87fdae56
-ms.sourcegitcommit: 8e0c8f95645d60a8651f7a2085a79c6e0bc02bdd
+ms.openlocfilehash: 236270115273755c69cbd334e7341ccec839e353
+ms.sourcegitcommit: 9033eb8901f337897a27b10b9fdb3cbd4acf4c38
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "46525058"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "46576799"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 向けリリース ノートの現行チャネル (プレビュー)
 
@@ -27,6 +27,36 @@ ms.locfileid: "46525058"
 > - リリースノートの発行日は実際のビルドのリリース日と一致しない場合があります。
 
 [//]: # (削除しないでください)
+
+## <a name="version-2007-august-05"></a>バージョン 2007: 8 月 5 日
+*バージョン 2007 (ビルド 13029.20344)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- Outlook で検索候補を取得できない問題を解決しました。
+
+
+- ユーザーがペルソナ情報を取得しようとしたときにクラッシュする場合がある問題を解決しました。
+
+
+### <a name="project"></a>Project
+
+- 正常ではない状態になったプロジェクトを開くことができない問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2007-july-29"></a>バージョン 2007: 7 月 29 日
 *バージョン 2007 (ビルド 13029.20308)*
