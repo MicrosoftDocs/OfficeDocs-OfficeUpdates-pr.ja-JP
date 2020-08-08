@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: c9d5dfb323a27aacb792d93293cf3aba09d43432
-ms.sourcegitcommit: 3e6b6412adb50393fb5cabcb52671bbb00d9e697
+ms.openlocfilehash: e6eed857b8283a1fc54df709d9c467e86ef27abc
+ms.sourcegitcommit: a08ea72a9245e2d6136f3d9430a784777f2ff1e4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "46532602"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "46590304"
 ---
 # <a name="release-notes-for-beta-channel"></a>ベータ チャネルのリリース ノート
 
@@ -30,6 +30,22 @@ ms.locfileid: "46532602"
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2009-august-07"></a>バージョン 2009: 8 月 7 日
+*バージョン 2009 (ビルド 13130.20000)*
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- Active Directory の"otherTelephone" および "otherHomePhone" のユーザー アカウント属性が、対応する Outlook LDAP 属性にマッピングされていないという問題を修正しました。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 特定の条件下でリボンまたはタイトル バーが表示されない問題を修正しました。
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2008-july-31"></a>バージョン 2008: 7 月 31 日
 *バージョン 2008 (ビルド 13127.20002)*
@@ -1153,6 +1169,7 @@ ms.locfileid: "46532602"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13130.20000|version-2009-august-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13127.20002|version-2008-july-31|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13117.20000|version-2008-july-24|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13115.20000|version-2008-july-17|)
