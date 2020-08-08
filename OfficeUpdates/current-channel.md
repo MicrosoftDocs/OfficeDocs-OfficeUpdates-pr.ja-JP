@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の月次チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: f45483874015c51255690647cc36952b6f4e257b
-ms.sourcegitcommit: 3e6b6412adb50393fb5cabcb52671bbb00d9e697
+ms.openlocfilehash: ce80a830a0c18416cadc9c49c46ae12eea07998b
+ms.sourcegitcommit: 0c33b30b826a4bded208c4d4523d89b63d1c5c67
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "46532592"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "46580850"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020 年の最新のチャネル リリースのリリース ノート
 
@@ -686,6 +686,10 @@ ms.locfileid: "46532592"
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
 ### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="excel"></a>Excel
+
+- **お気に入りの Excel 関数が速くなりました：** SUMIFS、AVERAGEIFS、COUNTIFS、MAXIFS、および MINIFS 関数がこれまでよりもはるかに高速になりました。 もっと素早く一番下に移動します。 今すぐお試しください。
+
 ### <a name="outlook"></a>Outlook
 
 - **所有しているグループにメールをドラッグ:** メッセージや会話を受信トレイからドラッグして移動し、コピーします。 ドラッグしたメッセージは、すべてのグループ メンバーと共有されます。
