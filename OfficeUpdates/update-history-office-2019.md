@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: クイック実行 (C2R) を使用する永続的なバージョンの Office 2016 および 2019 の更新履歴を IT 技術者に提供します
-ms.openlocfilehash: f51a17e603f506a099b750b1b673fc13a5452e4b
-ms.sourcegitcommit: 094f41a7cd3ac7044923aab24da75e9236772836
+ms.openlocfilehash: 01d2cc4d699e233e7bb60946b7400f25cc2c2e3f
+ms.sourcegitcommit: 20be7ca53ff4bb9bb64d9c347420af575497ea9b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "46530346"
+ms.lasthandoff: 08/10/2020
+ms.locfileid: "46612339"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R および Office 2019 の更新履歴
 
@@ -36,6 +36,9 @@ Microsoft は、Office 2016 のクイック実行 (C2R) バージョンおよび
 ## <a name="volume-licensed-versions-of-office-2019"></a>ボリューム ライセンス版の Office 2019
 次の情報は、ボリューム ライセンス契約を通じて購入された Office Professional Plus 2019 など、ボリューム ライセンス版の Office 2019 に適用されます。
 
+[//]: # (VL テーブルを削除しない 開始)
+
+
 |**リリース日**|**バージョン番号**|**詳細情報**|
 |:-----|:-----|:-----|
 |2020 年 7 月 14 日   |バージョン 1808 (ビルド 10363.20015)  |[CVE-2020-1342](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1342) <br/>[CVE-2020-1349](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1349) <br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1445) <br/>[CVE-2020-1446](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1446) <br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1447) <br/>[CVE-2020-1448](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1448) <br/>[CVE-2020-1449](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1449) <br/>|
@@ -46,15 +49,30 @@ Microsoft は、Office 2016 のクイック実行 (C2R) バージョンおよび
 |2020 年 2 月 11 日   |バージョン 1808 (ビルド 10356.20006)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0759) <br/>  |
 
 
+[//]: # (VL テーブルを削除しない 終了)
+
+<details>
+<summary>以前のバージョン</summary>
+ 
+[//]: # (古い VL テーブルを削除しない 開始)
 
 
+|**リリース日**|**バージョン番号**|**詳細情報**|
+|:-----|:-----|:-----|
 
+
+[//]: # (古い VL テーブルを削除しない 終了)
+
+</details>
 
 
 <br/>
 
 ## <a name="retail-versions-of-office-2016-c2r-and-office-2019"></a>製品版の Office 2016 C2R および Office 2019
 次の情報は、製品版の Office 2016 C2R と Office 2019 に適用されます。どちらも同じリリース日とバージョン番号を共有しています。
+
+[//]: # (リテール テーブルを削除しない 開始)
+
 
 |**リリース日**|**バージョン番号**|**詳細情報**|
 |:-----|:-----|:-----|
@@ -64,6 +82,18 @@ Microsoft は、Office 2016 のクイック実行 (C2R) バージョンおよび
 |2020 年 6 月 30 日|バージョン 2006 (ビルド 13001.20266)  |さまざまなバグとパフォーマンスの修正。  <br/>  |
 |2020 年 6 月 24 日|バージョン 2005 (ビルド 12827.20470)  |さまざまなバグとパフォーマンスの修正。  <br/>  |
 |2020 年 6 月 9 日|バージョン 2005 (ビルド 12827.20336)  |[CVE-2020-1225](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1225)  <br/> [CVE-2020-1226](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1226)  <br/> [CVE-2020-1229](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1229)  <br/> [CVE-2020-1321](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1321)  <br/> [CVE-2020-1322](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1322)  <br/>|
+
+
+[//]: # (リテール テーブルを削除しない 終了)
+
+<details>
+<summary>以前のバージョン</summary>
+ 
+[//]: # (古いリテール テーブルを削除しない 開始)
+
+
+|**リリース日**|**バージョン番号**|**詳細情報**|
+|:-----|:-----|:-----|
 |2020 年 6 月 2 日|バージョン 2005 (ビルド 12827.20268)  |さまざまなバグとパフォーマンスの修正。  <br/>  |
 |2020 年 5 月21日|バージョン 2004 (ビルド12730.20352)  |さまざまなバグとパフォーマンスの修正。  <br/>  |
 |2020 年 5 月 12 日|バージョン 2004 (ビルド 12730.20270)  |[CVE-2020-0901](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0901)  <br/>  |
@@ -79,7 +109,9 @@ Microsoft は、Office 2016 のクイック実行 (C2R) バージョンおよび
 |2020 年 2 月 11 日   |バージョン 2001 (ビルド 12430.20264)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0697](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0697) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0759) <br/>  |
 
 
+[//]: # (古いリテール テーブルを削除しない 終了)
 
+</details>
 
 
 
