@@ -1,6 +1,6 @@
 # [リリース情報](release-notes-microsoft365-apps.md)
+# [セキュリティ更新プログラム](microsoft365-apps-security-updates.md)
 # Microsoft 365 アプリ
-## [セキュリティ更新プログラム](microsoft365-apps-security-updates.md)
 ## [更新の履歴 (日付順)](update-history-microsoft365-apps-by-date.md)
 ## [更新プログラムのサイズ](download-sizes-microsoft365-apps-updates.md)
 
