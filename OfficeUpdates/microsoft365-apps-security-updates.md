@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 Apps セキュリティ更新プログラムのリリース ノート
+title: Microsoft Office セキュリティ更新プログラムのリリース ノート
 ms.author: andrewmo
 author: TimDavenport
 manager: andrewmo
@@ -8,29 +8,77 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: Microsoft 365 Apps セキュリティ更新プログラムのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 58228af0a7958547331b95c28c6497b5bfa3f460
-ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
+description: Microsoft Officeセキュリティ更新プログラムのリリース ノートを IT 担当者に提供します
+ms.openlocfilehash: d9485549b015ae78f3bfe524f8fbcda55bf3c522
+ms.sourcegitcommit: c018dbeeecba6e838bd5fc6178ba1cc78680415f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138523"
+ms.lasthandoff: 08/12/2020
+ms.locfileid: "46641803"
 ---
-# <a name="release-notes-for-microsoft-365-apps-security-updates"></a>Microsoft 365 Apps セキュリティ更新プログラムのリリース ノート
+# <a name="release-notes-for-microsoft-office-security-updates"></a>Microsoft Office セキュリティ更新プログラムのリリース ノート
 
-このリリース ノートには、Microsoft 365 Apps の更新プログラムに含まれているセキュリティ修正プログラムに関する情報が記載されています。
+このリリース ノートには、Microsoft Officeの更新プログラムに含まれているセキュリティ修正プログラムに関する情報が記載されています。
 
-この情報は、Microsoft 365 Apps for enterprise、Microsoft 365 Apps for business、および Project と Visio のデスクトップ アプリのサブスクリプション版に適用されます。
+この情報は、エンタープライズ用Microsoft 365 アプリ、ビジネス用Microsoft 365アプリ、Office 2016 リテール (C2R)およびOffice 2019に適用されます。
 
 
 > [!IMPORTANT]
-> - 現在、Microsoft 365 Apps の更新プログラム チャネルに、新しい更新プログラム チャネル (月次エンタープライズチャネル) の追加や既存の更新プログラム チャネル名の変更など、いくつかの変更を進めています。 詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2127441)を参照してください。
+> - 現在、Microsoft 365 Apps の更新プログラム チャネルに、新しい更新プログラム チャネル (月次エンタープライズ チャネル) の追加や既存の更新プログラム チャネル名の変更など、いくつかの変更を進めています。 詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2127441)を参照してください。
 > - バージョン 2004 以降の Office 365 ProPlus は Microsoft 365 Apps for enterprise に名前が変更されています。詳細については、 [こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2123420)を参照してください。Microsoft のドキュメントでは通常、Microsoft 365 Apps として扱います。
 
 
  
 
 [//]: # (上の行は間隔を空けるために使用されているので、削除しないでください。)  
+
+## <a name="august-11-2020"></a>2020 年 8 月 11 日
+現在のチャネル: バージョン2007 (ビルド 13029.20344)  
+月次エンタープライズ チャネル: バージョン2006 (ビルド 13001.20520)  
+月次エンタープライズ チャネル: バージョン2005 (ビルド 12827.20656)  
+半期エンタープライズ チャネル (プレビュー)： バージョン2002 (ビルド 12527.20988)  
+半期エンタープライズ チャネル： バージョン 2002 (ビルド 12527.20988)  
+半期エンタープライズ チャネル： バージョン 1908 (ビルド 11929.20934)  
+半期エンタープライズ チャネル： バージョン 1902 (ビルド 11328.20644)  
+Windows 7 上の Microsoft 365 Apps: バージョン 2002 (ビルド 12527.20988)  
+Office 2019 製品版: バージョン 2007 (ビルド 13029.20344)  
+Office 2016 製品版: バージョン 2007 (ビルド 13029.20344)  
+Office 2019 ボリュームライセンス: バージョン 1808 (ビルド 10364.20059)  
+
+[//]: # (セキュリティの詳細コンテンツの開始を削除しないでください)
+
+
+### <a name="access"></a>Access
+
+-   [CVE-2020-1582](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1582)
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-1495](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1495)
+-   [CVE-2020-1498](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1498)
+-   [CVE-2020-1496](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1496)
+-   [CVE-2020-1497](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1497)
+-   [CVE-2020-1494](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1494)
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2020-1493](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1493)
+-   [CVE-2020-1483](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1483)
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-1583](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1583)
+-   [CVE-2020-1502](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1502)
+-   [CVE-2020-1503](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1503)
+
+### <a name="office-suite"></a>Office スイート
+
+-   [CVE-2020-1581](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1581)
+-   [CVE-2020-1563](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1563)
+
+[//]: # (セキュリティの詳細コンテンツの終了を削除しないでください)
+
+
 
 ## <a name="july-14-2020"></a>2020 年 7 月 14 日
 現在のチャネル: バージョン 2006 (ビルド 13001.20384)  
