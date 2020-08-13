@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT プロフェッショナルに、Microsoft AutoUpdate (MAU) のリリース履歴を提供します
-ms.openlocfilehash: ad34c6a3f64da52611f8bb5b3502f448d823c096
-ms.sourcegitcommit: 460a51d38fc5364ad8fbf7b32a46786ee8b62dea
+ms.openlocfilehash: aa066d6d5cc89060d3c56be2106559e47e93e9b9
+ms.sourcegitcommit: 79f26d59de01abb85869e9d91f3af30129709f62
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45145114"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46637645"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) のリリース履歴
  
@@ -29,6 +29,30 @@ ms.locfileid: "45145114"
 > - Microsoft AutoUpdate は、Microsoft のさまざまな Mac 製品への更新プログラムを提供します。そのため、Office for Mac を実行していない場合でも、Microsoft AutoUpdate を更新する通知が表示される場合があります。
 
 リリース ノートを確認するには、「[リリース ノート](release-notes-office-for-mac.md)」を参照してください。<br/><br/>
+
+## <a name="august-2020-release"></a>2020 年 8 月リリース
+
+**リリース日:** 2020 年 8 月 11 日
+
+*Microsoft Auto Update 4.26*
+
+**バグの修正と強化された機能:**
+-   ドックの MAU アイコンに、利用可能な更新プログラムの数が表示されます。 
+-   MAU は、更新プログラムが検出されると最小化された状態で起動します。
+-   インストール後に MAU UI が起動しないようにするために使用できる新しい「IgnoreUIOpenAfterInstall」設定を追加しました。
+-   「不正なインストール」メッセージが表示される原因となっていた権限の問題を解決しました 
+-   MAU の「更新期限」通知メッセージの持続時間を 60 秒から 1 時間に延長しました。
+
+
+**MAU 更新プログラムのリンク:**
+
+[Microsoft Auto Update 4.26 パッケージをダウンロードする](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 ハッシュ:**
+
+E81CEADF900A0C7E7D593720D08146DBC1C55868D5B21C7E7A175AA36DFE0178
+
+<br/><br/>
 
 ## <a name="july-2020-release"></a>2020 年 7 月リリース
 

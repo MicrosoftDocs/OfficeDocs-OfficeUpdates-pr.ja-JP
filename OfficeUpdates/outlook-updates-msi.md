@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 永続的なバージョンの Outlook 2016、Outlook 2013、Outlook 2010 の最新の更新プログラムに関する情報へのリンクを IT 技術者に提供します
-ms.openlocfilehash: 360447f59f9cf8f09bbdb90ab92d24872a786d19
-ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
+ms.openlocfilehash: 7c5208b6abab7ccf29aa1d8ec4f43f254c20018c
+ms.sourcegitcommit: 79f26d59de01abb85869e9d91f3af30129709f62
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138633"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46637625"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Windows インストーラー (MSI) を使用しているバージョンの Outlook の最新の更新プログラム
 
@@ -43,20 +43,20 @@ Microsoft 365 と使用しているオンプレミス環境との Outlook の互
 
 |**最新の Service Pack (SP)**|**最低限必要な更新プログラム**|**最新のパブリック更新プログラム (PU)**|
 |:-----|:-----|:-----|
-|該当なし  <br/> |2016 年 3 月 PU <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |2020 年 7 月 PU <br/>[KB4484433](https://support.microsoft.com/help/4484433) 
+|該当なし  <br/> |2016 年 3 月 PU <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |2020 年 8 月 PU <br/>[KB4484475](https://support.microsoft.com/help/4484475) 
 
 ## <a name="outlook-2013-updates"></a>Outlook 2013 更新プログラム
 
 |**最新の Service Pack (SP)**|**最低限必要な更新プログラム**|**最新のパブリック更新プログラム (PU)**|
 |:-----|:-----|:-----|
-|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |2015 年 12 月 PU <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |2020 年 7 月 PU <br/>[KB4484363](https://support.microsoft.com/help/4484363)  |
+|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |2015 年 12 月 PU <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |2020 年 8 月 PU <br/>[KB4484486](https://support.microsoft.com/help/4484486)  |
    
 ## <a name="outlook-2010-updates"></a>Outlook 2010 更新プログラム
 > [!IMPORTANT]
-Office 2010 のサポートは、2020 年 10 月 13 日に終了します。 Office 2010 環境のアップグレードをまだ開始していない場合は、今すぐ開始することをお勧めします。 詳細については、[Office 2010 のサポート終了ロードマップ](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap)を参照してください。
+> Office 2010 のサポートは、2020 年 10 月 13 日に終了します。 Office 2010 環境のアップグレードをまだ開始していない場合は、今すぐ開始することをお勧めします。 詳細については、[Office 2010 のサポート終了ロードマップ](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap)を参照してください。
 
 |**最新の Service Pack (SP)**|**最低限必要な更新プログラム**|**最新のパブリック更新プログラム (PU)**|
 |:-----|:-----|:-----|
-|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |2015 年 10 月 PU <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  MAPI/HTTP 用の Office 2010 の 2015 年 4 月 PU <br/> [KB2956191](https://support.microsoft.com/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |2020 年 7 月 PU <br/>[KB4484382](https://support.microsoft.com/help/4484382) <br><br><br><br/>|
+|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |2015 年 10 月 PU <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  MAPI/HTTP 用の Office 2010 の 2015 年 4 月 PU <br/> [KB2956191](https://support.microsoft.com/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |2020 年 8 月 PU <br/>[KB4484497](https://support.microsoft.com/help/4484497) <br><br><br><br/>|
    
 

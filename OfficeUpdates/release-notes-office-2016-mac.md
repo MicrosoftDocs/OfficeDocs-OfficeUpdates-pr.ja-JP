@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 2018 年 9 月以降にリリースされた Office 2016 for Mac のリリース ノートを IT プロフェッショナルに提供
-ms.openlocfilehash: 0eeccbe96348faedd12a803bc0f11d5a4008cac8
-ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
+ms.openlocfilehash: 45f15d5c09322ebfda14e8103f1f23010af35528
+ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138553"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634593"
 ---
 # <a name="update-history-for-office-2016-for-mac"></a>Office 2016 for Mac の更新履歴
 
@@ -36,6 +36,36 @@ Office 2016 for Mac の更新プログラムは、Microsoft AutoUpdate (MAU) で
 
 以下の表に、最新パッケージの Office 2016 for Mac と個々のアプリケーション (Word および Excel など) を示します。すべてのパッケージは 64 ビットのみです。ビルド番号の後に、YYMMDD 形式でビルド日付をかっこ内に記します。アプリケーション パッケージがまだインストールされていない場合にはインストール パッケージが使用され、既存のインストールを更新する場合には更新プログラム パッケージが使用されます。
 
+## <a name="august-2020-release"></a>2020 年 8 月リリース
+
+ **リリース日:** 2020 年 8 月 11 日
+  
+ *バージョン 16.16.25 (20081000)* 
+  
+このリリースでは、次の更新プログラムを提供します。
+  
+|**アプリケーション**|**セキュリティ更新プログラム**|**更新プログラム パッケージのダウンロード リンク**|
+|:-----|:-----|:-----|
+|Word  <br/> |[CVE-2020-1503](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1503)<br/>[CVE-2020-1583](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1583) <br/>  |[Word の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.20081000_Updater.pkg) <br/>|
+|Excel  <br/> |[CVE-2020-1495](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1495)<br/>[CVE-2020-1498](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1498)<br/>|[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.20081000_Updater.pkg) <br/>|
+|PowerPoint  <br/> ||[PowerPoint の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.20081000_Updater.pkg) <br/>|
+|Outlook  <br/> | |[Outlook の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.20081000_Updater.pkg) <br/>|
+|OneNote <br/> ||[OneNote の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.20081000_Updater.pkg)|
+|Office スイート  <br/> || <br/>||
+
+
+### <a name="august-11-2020"></a>2020 年 8 月 11 日
+バージョン 16.16.25 (20081000)
+
+|**アプリケーション**|**ダウンロード リンク**|**インストール パッケージの SHA256 ハッシュ**|
+|:-----|:-----|:-----|:-----|
+|Office スイート (すべてのアプリケーション)<br/>|[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=871743)<br/>|DAF0986F48C53336882E2634724DD8DC357FAF19058F2403DD90892270589432 <br/>|
+|Word<br/>|[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=871748)<br/><br/>[更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.20081000_Updater.pkg) <br/> |D1EF8F3AC95124240F4D97DC5FCDA038EA9244A9FBBEBF392EE833870AC80A27<br/>|
+|Excel<br/>|[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=871750)<br/><br/>[更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.20081000_Updater.pkg)<br/>|7911CAF983D3AD8CFC016384AA19D9D26EBE06884169C290876552E176628A3F<br/> |
+|PowerPoint<br/>|[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=871751)<br/><br/> [更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.20081000_Updater.pkg) <br/>| 57D415731C89EB87BA34E2CEDE8728AD263430AD19DEDBC2CC18EED4688BBCE5<br/>|
+|Outlook<br/>|[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=871753)<br/><br/>[更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.20081000_Updater.pkg)<br/> | 5643F17374F273E82B9BBD281F2F6EC3106B0132A6A62F8C81D58658D44365CF
+|OneNote<br/>|[更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.20081000_Updater.pkg) <br/> | 該当なし<br/>|
+
 ## <a name="july-2020-release"></a>2020 年 7 月リリース
 
  **リリース日:** 2020 年 7 月 14 日
@@ -46,26 +76,12 @@ Office 2016 for Mac の更新プログラムは、Microsoft AutoUpdate (MAU) で
   
 |**アプリケーション**|**セキュリティ更新プログラム**|**更新プログラム パッケージのダウンロード リンク**|
 |:-----|:-----|:-----|
-|Word  <br/> |[CVE-2020-1342](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1342)<br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1445) <br/> [CVE-2020-1446](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1446)<br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1447)<br/>|[Word の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.20071300_Updater.pkg) <br/>|
-|Excel  <br/> ||[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.20071300_Updater.pkg) <br/>|
+|Word  <br/> |[CVE-2020-1342](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1342) <br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1445) <br/>[CVE-2020-1446](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1446) <br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1447) <br/>|[Word の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.20071300_Updater.pkg) <br/>|
+|Excel  <br/> |  |[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.20071300_Updater.pkg) <br/>|
 |PowerPoint  <br/> ||[PowerPoint の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.20071300_Updater.pkg) <br/>|
 |Outlook  <br/> | |[Outlook の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.20071300_Updater.pkg) <br/>|
 |OneNote <br/> ||[OneNote の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.20071300_Updater.pkg)|
 |Office スイート  <br/> |[CVE-2020-1409](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1409)<br/>| <br/>||
-
-
-### <a name="july-14-2020"></a>2020 年 7 月 14 日
-バージョン 16.16.24 (20071300)
-
-|**アプリケーション**|**ダウンロード リンク**|**インストール パッケージの SHA256 ハッシュ**|
-|:-----|:-----|:-----|:-----|
-|Office スイート (すべてのアプリケーション)<br/>|[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=871743)<br/>|76DB656A1CF3194936070CEA0F89FC5C0ECD59A50D93A6A5FABB773CD8126387 <br/>|
-|Word<br/>|[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=871748)<br/><br/>[更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.20071300_Updater.pkg) <br/> |3EEC2D769C9EB601934EB6A6D30B7379DE23C5231BD8E85DEBE13587CDADFDBC<br/>|
-|Excel<br/>|[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=871750)<br/><br/>[更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.20071300_Updater.pkg)<br/>|B920125BD38A113ECC8F3ADA3DCE47E16639A075A39EEEE7B10E6EABFC095740<br/> |
-|PowerPoint<br/>|[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=871751)<br/><br/> [更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.20071300_Updater.pkg) <br/>| 399ABFDCCB7479CA106D817F6945786B6AA3F9E4ADBC84600695846E51531FF0<br/>|
-|Outlook<br/>|[インストール パッケージ](https://go.microsoft.com/fwlink/p/?linkid=871753)<br/><br/>[更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.20071300_Updater.pkg)<br/> | 98703C805EF4259B907F3D2CA77198DC80A756181F17F59D7C2F8DC89F0F0827
-|OneNote<br/>|[更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.20071300_Updater.pkg) <br/> | 該当なし<br/>|
-
 
 ## <a name="june-2020-release"></a>2020 年 6 月リリース
 

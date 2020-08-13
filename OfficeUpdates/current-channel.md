@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の月次チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: ce80a830a0c18416cadc9c49c46ae12eea07998b
-ms.sourcegitcommit: 0c33b30b826a4bded208c4d4523d89b63d1c5c67
+ms.openlocfilehash: a33941600839c16e69449e27a240a52711cee246
+ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "46580850"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634833"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020 年の最新のチャネル リリースのリリース ノート
 
@@ -31,6 +31,31 @@ ms.locfileid: "46580850"
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2007-august-11"></a>バージョン 2007: 8 月 11 日
+*バージョン 2007 (ビルド 13029.20344)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- Outlook で検索候補を取得できない問題を解決しました。
+
+
+- ユーザーがペルソナ情報を取得しようとしたときにクラッシュする場合がある問題を解決しました。
+
+
+### <a name="project"></a>Project
+
+- 正常ではない状態になったプロジェクトを開くことができない問題を修正しました。
 
 
 
@@ -63,8 +88,6 @@ ms.locfileid: "46580850"
 ### <a name="powerpoint"></a>PowerPoint
 
 - **秘密度ラベルの自動適用または推奨:** Office は、検出された機密コンテンツに基づいて機密ラベルを推奨または自動的に適用できます。
-
-- **PowerPoint でのストリーム ビデオのパフォーマンス向上:**、ビデオの読み込み時間を最小限に抑え、快適な表示を実現するために Microsoft Stream ビデオの再生パフォーマンスを改善しました。 お客様の社内ビデオを使用して、Microsoft Stream でより適切なプレゼンテーションを作成します。
 
 ### <a name="teams"></a>Teams
 
@@ -996,6 +1019,7 @@ ms.locfileid: "46580850"
 > Office の使用で問題がある場合は、[Microsoft の回答フォーラム](https://answers.microsoft.com/)に関するページまたは「[Microsoft Tech Community](https://techcommunity.microsoft.com/)」に質問を投稿するか、[サポート](https://support.microsoft.com/contactus)に問い合わせてサポートを受けることができます。
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|CC|Production| |16.0.13029.20344|バージョン-2007-8-11|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20308|バージョン-2007-7-30|)
 [//]: # (|Win32|CC|Production| |16.0.13001.20498|バージョン-2006-7-28|)
 [//]: # (|Win32|CC|Production| |16.0.13001.20384|バージョン-2006-7-14|)
