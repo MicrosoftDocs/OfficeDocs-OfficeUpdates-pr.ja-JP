@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の半期チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 72b515d37a8529b17afec4e868df0b2171f83b09
-ms.sourcegitcommit: 6f79e3c3948db4d7ae1c6dfc855970551d3b1678
+ms.openlocfilehash: fca07168058b5b96ece88ec163ce4775cd5413a2
+ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/20/2020
-ms.locfileid: "45187607"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634603"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>2020 年の半期エンタープライズ チャネル リリースのリリース ノート
 
@@ -26,6 +26,57 @@ ms.locfileid: "45187607"
 > [!NOTE]
 >
 >- 半期エンタープライズ チャネルのユーザーが Office ポータルから Microsoft 365 Apps をダウンロードして Windows 10 にインストールすると、既定で OneNote 2016 が含まれるようになります。
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2002-august-11"></a>バージョン 2002: 8 月 11 日
+*バージョン 2002 (ビルド 12527.20988)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- 「読み取り専用推奨」として開かれたファイルの編集に切り替えられない問題が修正されました。
+
+### <a name="onenote"></a>OneNote
+
+- リソースの使用率を低下させるための冗長な ID 呼び出しが削除されました
+
+- リソースの使用率を低下させて、共同編集状態の検出機能を改善します。
+
+- エラーを検出する機能が改善され、同期環境の品質が向上しました。
+
+### <a name="outlook"></a>Outlook
+
+- 一部のテナントで Outlook を起動したときに重大なパフォーマンスの問題が発生する問題に対処しました。
+
+### <a name="skype"></a>Skype
+
+- 数日間稼働した後に、32 ビット版の Skype for Business クライアントで画面共有を開始できない問題が修正されました。
+
+### <a name="office-suite"></a>Office スイート
+
+- グループ ポリシーを介して自動保存が無効にされた場合に、ユーザーが [利用可能な更新] をクリックするまで一部のドキュメントで最新のサーバー コンテンツが表示されない問題が修正されました。
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-1908-august-11"></a>バージョン 1908: 8 月 11 日
+*バージョン 1908 (ビルド 11929.20934)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+## <a name="version-1902-august-11"></a>バージョン 1902: 8 月 11 日
+*バージョン 1902 (ビルド 11328.20644)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
@@ -1612,5 +1663,6 @@ ms.locfileid: "45187607"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|DC|Production| |16.0.12527.20988|version-2002-august-11|)
 [//]: # (|Win32|DC|Production| |16.0.12527.20880|バージョン-2002-7 月-14|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)
