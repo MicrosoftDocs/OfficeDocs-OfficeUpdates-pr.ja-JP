@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: e6eed857b8283a1fc54df709d9c467e86ef27abc
-ms.sourcegitcommit: a08ea72a9245e2d6136f3d9430a784777f2ff1e4
+ms.openlocfilehash: 5dd3ce25eb04453e84bfd6aa69bf54d50be666e3
+ms.sourcegitcommit: b710cf05db7ca14c8ee959b8cbe284e794d7c980
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "46590304"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "46695301"
 ---
 # <a name="release-notes-for-beta-channel"></a>ベータ チャネルのリリース ノート
 
@@ -30,6 +30,27 @@ ms.locfileid: "46590304"
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2009-august-14"></a>バージョン 2009: 8 月 14 日
+*バージョン 2009 (ビルド 13205.20000)*
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- ユーザーがかっこを含む数式名を入力し、F1 を介してヘルプを呼び出した場合、その数式に固有のヘルプ トピックが表示されない問題を修正しました。
+- 古いバージョンのファイルを復元した後、ボタンに割り当てられたマクロが壊れる問題を修正しました。
+
+### <a name="outlook"></a>Outlook
+
+- この変更により、ユーザーがタブを会議ページからスケジュール アシスタント ページに切り替えた後も会議ページが引き続き表示される問題が修正されます。
+
+### <a name="word"></a>Word
+
+- 箇条書きのアイコンが正しく表示されない問題を修正しました。
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2009-august-07"></a>バージョン 2009: 8 月 7 日
 *バージョン 2009 (ビルド 13130.20000)*
@@ -1169,6 +1190,7 @@ ms.locfileid: "46590304"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13205.20000|version-2009-august-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13130.20000|version-2009-august-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13127.20002|version-2008-july-31|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13117.20000|version-2008-july-24|)
