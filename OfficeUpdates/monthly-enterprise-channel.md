@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の月次エンタープライズ チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 9e734fb545548386b10a62366c1b2fa93dc134f0
-ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
+ms.openlocfilehash: 64e8dff5a369300676ae6342ab76e4d8c6d2fae3
+ms.sourcegitcommit: 0f37f62725ac99324a39cffeca7f4ce750d98e28
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46634803"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "46798373"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>2020 年の月次エンタープライズ チャネル リリースのリリース ノート
 
@@ -60,6 +60,8 @@ ms.locfileid: "46634803"
 ### <a name="word"></a>Word
 
 - **アニメーション Gif を使用してストーリーを伝える:** Office エディターでアニメーション Gif がサポートされるようになりました。これにより、さらに目を引くドキュメントを作成できるようになりました。
+
+- **別の言葉で伝える:** 別の言葉で伝えたいときに、[書き換え] でお助けします。 [書き換え] では、フレーズを洗練させるための別の言葉遣いを提供します。<br />[ブログの投稿](https://blog-insider.office.com/2019/08/12/rewrite-in-word-say-it-another-way/) の詳細情報をご覧ください
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
 
@@ -146,9 +148,7 @@ ms.locfileid: "46634803"
 
 - **より迅速かつ適切な結果:** 検索機能が更新され、よりスマート、迅速、かつ信頼性が高くなりました。 [詳細情報](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
 
-### <a name="word"></a>Word
 
-- **別の言葉で伝える:** 別の言葉で伝えたいときに、[書き換え] でお助けします。 [書き換え] では、フレーズを洗練させるための別の言葉遣いを提供します。<br />[ブログの投稿](https://blog-insider.office.com/2019/08/12/rewrite-in-word-say-it-another-way/) の詳細情報をご覧ください
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -257,7 +257,7 @@ ms.locfileid: "46634803"
 
 - **Facebook コネクタのサポート終了:** 2020 年 4 月以降、Excel では Facebook コネクタを使用する外部データ接続がサポートされなくなります。
 
-- **ブックの見映えを良くする新しい画像:** 何千ものロイヤリティフリーの画像、アイコン、ステッカーが用意されており、これらをブックで使用できます。 開始するには、[挿入] > [画像] > [ストック画像] の順に選択します。 [詳細情報](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />[ブログの投稿](https://blog-insider.office.com/2020/04/06/premium-creative-content/) の詳細情報をご覧ください
+- **ブックの見映えを良くする新しい画像:** 何千ものロイヤリティフリーの画像、アイコン、ステッカーが用意されており、これらをブックで使用できます。 開始するには、[挿入] > [画像] > [ストック画像] の順に選択します。 [詳細情報](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />[ブログの投稿](https://blog-insider.office.com/2020/04/06/premium-creative-content/)の詳細情報をご覧ください
 
 ### <a name="outlook"></a>Outlook
 
@@ -275,7 +275,7 @@ ms.locfileid: "46634803"
 
 - **プレゼンテーション中に変更を同期する:** プレゼンテーションがスライド ショー モードであっても、いつでも変更を同期できます。 [詳細情報](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />[ブログの投稿](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/) の詳細情報をご覧ください
 
-- **スライドの見映えを良くする新しい画像:** 何千ものロイヤリティフリーの画像、アイコン、ステッカーが用意されており、これらをプレゼンテーションで使用できます。 開始するには、[挿入] > [画像] > [ストック画像] の順に選択します。 [詳細情報](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />[ブログの投稿](https://blog-insider.office.com/2020/04/06/premium-creative-content/) の詳細情報をご覧ください
+- **スライドの見映えを良くする新しい画像:** 何千ものロイヤリティフリーの画像、アイコン、ステッカーが用意されており、これらをプレゼンテーションで使用できます。 開始するには、[挿入] > [画像] > [ストック画像] の順に選択します。 [詳細情報](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />[ブログの投稿](https://blog-insider.office.com/2020/04/06/premium-creative-content/)の詳細情報をご覧ください
 
 ### <a name="word"></a>Word
 
@@ -411,7 +411,7 @@ ms.locfileid: "46634803"
 
 - **ブラウザーへのバウンスは不要:** ブラウザーまたはアプリで Office ドキュメントへのリンクを開く方法を決定することができます。
 
-- **他のユーザーがすばやく変更を確認:** 共同編集の改善とは、これまでになく迅速に、共同作業者がユーザーによる変更を確認できることを意味します。
+- **他のユーザーがすばやく変更を確認する:** 共同編集の改善とは、これまでになく迅速に、共同作業者がユーザーによる変更を確認できることを意味します。
 
 ### <a name="office-suite"></a>Office スイート
 
