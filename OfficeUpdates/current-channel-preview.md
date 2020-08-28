@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 44e8d793dc8a4a7757bb83320b1ccaf47066886a
-ms.sourcegitcommit: 343e545db0b69c4ad91ce36f5977f43e1583b4b0
+ms.openlocfilehash: 580dfcb7a5360c3a9dabb2f1c3667b24b8b5f60a
+ms.sourcegitcommit: 52894617de8b2f9e74dd58163bee481377cbce45
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46788957"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "46895700"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 向けリリース ノートの現行チャネル (プレビュー)
 
@@ -27,6 +27,42 @@ ms.locfileid: "46788957"
 > - リリースノートの発行日は実際のビルドのリリース日と一致しない場合があります。
 
 [//]: # (削除しないでください)
+
+## <a name="version-2008-august-25"></a>バージョン 2008: 8 月 25 日
+*バージョン 2008 (ビルド 13127.20268)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="outlook"></a>Outlook
+
+- **ユーザーで検索するときにメールの候補を受信する:** Outlook に検索キーワードを入力すると、候補に表示される最も関連性の高いメールが届きます。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- ユーザーが新しいメールに返信または作成するときに次のエラーを受け取る原因となった問題に対処します。「この Web ページのファイルの一部が予期された場所にありません。 この Web ページをダウンロードする必要がありますか?  Web ページが信頼できるソースからのものであることを確認したら、[はい] をクリックします。」
+
+
+### <a name="project"></a>Project
+
+- リソースに複数のコスト単価表が定義されている場合、残りのコストが常に正しく計算されない問題を修正しました。
+
+
+### <a name="word"></a>Word
+
+- 新しいメールに返信または作成するときにユーザーにクラッシュが発生する問題に対処しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2008-august-17"></a>バージョン 2008: 8 月 17 日
 *バージョン 2008 (ビルド 13127.20208)*

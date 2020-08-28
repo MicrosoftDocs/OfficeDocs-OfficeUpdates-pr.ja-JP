@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Windows デスクトップ用の月次チャンネル 対象指定リリースの更新履歴を Insider の皆様に提供します。
-ms.openlocfilehash: 582ec8c33a442ae0e66cc7d4f353f77a147f9a5d
-ms.sourcegitcommit: 20a982ebe52a35e43739162151bb490971203cf7
+ms.openlocfilehash: 95bc3020972a2acd7eb86d96bdba4ee9536d871b
+ms.sourcegitcommit: 52894617de8b2f9e74dd58163bee481377cbce45
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46826860"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "46895741"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Windows 用 Office の現在のチャネル (プレビュー) の更新履歴
 
@@ -24,7 +24,7 @@ Insider プログラムの詳細については、[こちら](https://insider.of
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Office の最新のチャネル (プレビュー) バージョンとビルド
 
 以前は Insider スローと呼ばれていた現在のチャネル (プレビュー) レベルに登録している場合、月に 1 回ほど Office の新機能の更新プログラムを入手できます。さらに、重要な修正プログラムまたはセキュリティ更新プログラムが含まれる後続のビルドも入手できます。 次のリストは、最近の現在のチャネル (プレビュー) のバージョンとビルドを示しています。**最も新しくリリースされたビルドが最初に表示されています**。 新しいビルドには、以前のビルドに含まれているすべての更新が含まれています。
-リリース ノートを見つけるには、[参照](https://docs.microsoft.com/en-us/OfficeUpdates/current-channel-preview)してください。 また、「[Office Insider で利用できる新機能](https://insider.office.com/en-us/releasenotes/windows/slow)」も参照できます。
+リリース ノートを見つけるには、[参照](https://docs.microsoft.com/ja-JP/OfficeUpdates/current-channel-preview)してください。 また、「[Office Insider で利用できる新機能](https://insider.office.com/ja-JP/releasenotes/windows/slow)」も参照できます。
 
 
 > [!IMPORTANT]
@@ -36,7 +36,9 @@ Insider プログラムの詳細については、[こちら](https://insider.of
 > - リリース ノートは、更新される頻度は低く、複数のビルドの更新を発行済みリリース ノートのビルド番号までまとめたものである場合があります。
 
 
-[//]: # (削除しないでください)
+
+**2020 年 8 月 25 日**<br/>
+バージョン 2008 (ビルド 13127.20268)<br/>
 
 **2020 年 8 月 17 日**<br/>
 バージョン 2008 (ビルド 13127.20208)<br/>

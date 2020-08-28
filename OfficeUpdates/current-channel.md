@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の月次チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 7dc470707e716895df22427c56f9a4006a07c810
-ms.sourcegitcommit: e2d9d976f1463ab1c704e73318a9b07d460d74c0
+ms.openlocfilehash: 8e6bae8a355d7d42e43c90db51355c42d9226198
+ms.sourcegitcommit: 52894617de8b2f9e74dd58163bee481377cbce45
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46818356"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "46895691"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020 年の最新のチャネル リリースのリリース ノート
 
@@ -31,6 +31,46 @@ ms.locfileid: "46818356"
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2007-august-25"></a>バージョン 2007: 8 月 25 日
+*バージョン 2007 (ビルド 13029.20460)*
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- LET () 関数を使用して、数式を含むファイルを保存しようとすると、エラーが発生することがあります。
+
+
+### <a name="outlook"></a>Outlook
+
+- SharePoint ファイルに Smart Link を追加すると、一部の文字セットのユーザーにファイル名が正しく表示されないという問題を解決しました。
+
+
+- Outlook ユーザーにコンパクト ビューでのナビゲーションの問題が表示される問題に対処しました。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- PowerPoint アプリでクラッシュする問題を修正しました。
+
+
+### <a name="word"></a>Word
+
+- 新しいメールに返信または作成するときにユーザーにクラッシュが発生する問題に対処しました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- 以前の Web サービス ベースの [共有] ウィンドウで、[共有] ウィンドウが開いているときに文書を閉じるとクラッシュする場合があります。 この問題は修正されました。
+
+
+- 特定の状況下で UI 要素またはコンテンツが表示されない問題を修正しました。特に、発表者ツールのオン/オフ、または複数のモニターの使用に関して発生しました。
 
 
 
@@ -1023,6 +1063,7 @@ ms.locfileid: "46818356"
 > Office の使用で問題がある場合は、[Microsoft の回答フォーラム](https://answers.microsoft.com/)に関するページまたは「[Microsoft Tech Community](https://techcommunity.microsoft.com/)」に質問を投稿するか、[サポート](https://support.microsoft.com/contactus)に問い合わせてサポートを受けることができます。
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|CC|Production| |16.0.13029.20460|バージョン-2007-8-25|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20344|バージョン-2007-8-11|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20308|バージョン-2007-7-30|)
 [//]: # (|Win32|CC|Production| |16.0.13001.20498|バージョン-2006-7-28|)
