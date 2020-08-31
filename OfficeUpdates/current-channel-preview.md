@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 580dfcb7a5360c3a9dabb2f1c3667b24b8b5f60a
-ms.sourcegitcommit: 52894617de8b2f9e74dd58163bee481377cbce45
+ms.openlocfilehash: b14aec3680a609752ae84dbd3d9c12732e01345f
+ms.sourcegitcommit: d7a1fa2d08122b27a4fb4a6f7c89f8c88f15a8a8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "46895700"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "47294379"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 向けリリース ノートの現行チャネル (プレビュー)
 
@@ -27,6 +27,46 @@ ms.locfileid: "46895700"
 > - リリースノートの発行日は実際のビルドのリリース日と一致しない場合があります。
 
 [//]: # (削除しないでください)
+
+## <a name="version-2008-august-27"></a>バージョン 2008: 8 月 27 日
+*バージョン 2008 (ビルド 13127.20296)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="outlook"></a>Outlook
+
+- **検索するときに添付ファイルの候補を受信する:** Outlook に検索キーワードを入力すると、候補に表示される最も関連性の高いファイルが届きます。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- プロファイルに追加されたサブ アカウントから会議出席依頼を作成しようとした場合に、ユーザーのメール アドレスの代わりに空欄の From: フィールドが表示されないという問題を修正しました。
+
+- 共有メールボックスを追加した後に、ユーザーがパブリック フォルダーに接続できない原因となっていた問題を修正しました。
+
+- クラウドの添付ファイルを操作しているときに不定期にクラッシュする場合があった問題を修正しました。
+
+- これにより、受信者を編集しているときに不定期にクラッシュする問題が修正されました。
+
+- コンパクト ビューを使用するときに異常が表示される原因となっていた問題を修正しました。
+
+### <a name="word"></a>Word
+
+- この変更により、以前の共同編集セッションの後に Office アプリケーションがサイレントな保存の失敗状態に陥ることがある問題が修正されました。
+
+- マクロ AutoOpen が AutoExec の前に実行されてしまうという問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2008-august-25"></a>バージョン 2008: 8 月 25 日
 *バージョン 2008 (ビルド 13127.20268)*
