@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 578be61a5df623c1d7e3d4584abd30df21933785
-ms.sourcegitcommit: a5f124e1687f2ac4b7c96c11da9d1317503558ad
+ms.openlocfilehash: ac7805c2d64654f7c2bb2589f0df964f696fd65e
+ms.sourcegitcommit: 01644a92de14661e9f84a777deb504226b9a2bcc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "46852523"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "47300311"
 ---
 # <a name="release-notes-for-beta-channel"></a>ベータ チャネルのリリース ノート
 
@@ -30,6 +30,33 @@ ms.locfileid: "46852523"
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2009-august-28"></a>バージョン 2009: 8 月 28 日
+*バージョン 2009 (ビルド 13219.20004)*
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- 1 つ以上のメッセージを選択した場合に、OneNote に "転送不可" ポリシーが適用されているメール コンテンツを送信することができるようになっていた問題に対処しました。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- ビデオを挿入する機能が無効になってしまう問題を修正しました。
+
+### <a name="word"></a>Word
+
+- コメントの選択時に、ヘッダー/フッターを閉じることができないという問題を修正しました。
+- サイドトラックのスクロールが機能しないため、サイドトラックの境界を超えたコメントのスレッドが表示されないという問題を修正しました。
+- サイドトラック ウィンドウで解決済みのコメントを検索できない問題を修正しました。
+
+### <a name="office-suite"></a>Office スイート
+
+- Office 2007 の "Microsoft アプリケーション エラー報告" 製品が存在する状態で RemoveMSI 機能を使用すると、Office 展開ツールで構成に失敗してしまうという問題を修正しました。
+- [図の圧縮] ダイアログで、ユーザーが選択した一部の DPI 設定が保持されないという問題を修正しました。
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2009-august-21"></a>バージョン 2009: 8 月 21 日
 *バージョン 2009 (ビルド 13212.20000)*
@@ -1231,6 +1258,7 @@ ms.locfileid: "46852523"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13219.20004|version-2009-august-28|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13212.20000|version-2009-august-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13205.20000|version-2009-august-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13130.20000|version-2009-august-07|)
