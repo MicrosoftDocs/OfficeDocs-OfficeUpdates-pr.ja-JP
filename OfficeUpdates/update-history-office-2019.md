@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: クイック実行 (C2R) を使用する永続的なバージョンの Office 2016 および 2019 の更新履歴を IT 技術者に提供します
-ms.openlocfilehash: 128359540241fd27fa2b6947421cd7c9aa0f5c58
-ms.sourcegitcommit: 52894617de8b2f9e74dd58163bee481377cbce45
+ms.openlocfilehash: 52d3ee327fe67488f87677ae7445beed16ebdf7f
+ms.sourcegitcommit: 28b617b37fdd0d1ac629b12b20970d8f300d5122
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "46895731"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "47319013"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R および Office 2019 の更新履歴
 
@@ -81,12 +81,12 @@ Microsoft は、Office 2016 のクイック実行 (C2R) バージョンおよび
 
 |**リリース日**|**バージョン番号**|**詳細情報**|
 |:-----|:-----|:-----|
+|2020 年 8 月 31 日|バージョン 2008 (ビルド 13127.20296)| |
 |2020 年 8 月 25 日|バージョン 2007 (ビルド 13029.20460)| |
 |2020 年 8 月 11 日|バージョン 2007 (ビルド 13029.20344)|[セキュリティの更新ページ](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)をご参照ください。 |
 |2020 年 7 月 30 日|バージョン 2007 (ビルド 13029.20308)  |さまざまなバグとパフォーマンスの修正。  <br/>  |
 |2020 年 7 月 28 日|バージョン 2006 (ビルド 13001.20498)  |さまざまなバグとパフォーマンスの修正。  <br/>  |
 |2020 年 7 月 14 日|バージョン 2006 (ビルド 13001.20384)  |[CVE-2020-1342](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1342) <br/>[CVE-2020-1349](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1349) <br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1445) <br/>[CVE-2020-1446](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1446) <br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1447) <br/>[CVE-2020-1449](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1449) <br/>[CVE-2020-1458](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1458) <br/>|
-|2020 年 6 月 30 日|バージョン 2006 (ビルド 13001.20266)  |さまざまなバグとパフォーマンスの修正。  <br/>  |
 
 
 [//]: # (リテール テーブルを削除しない 終了)
@@ -100,6 +100,7 @@ Microsoft は、Office 2016 のクイック実行 (C2R) バージョンおよび
 
 |**リリース日**|**バージョン番号**|**詳細情報**|
 |:-----|:-----|:-----|
+|2020 年 6 月 30 日|バージョン 2006 (ビルド 13001.20266)  |さまざまなバグとパフォーマンスの修正。  <br/>  |
 |2020 年 6 月 24 日|バージョン 2005 (ビルド 12827.20470)  |さまざまなバグとパフォーマンスの修正。  <br/>  |
 |2020 年 6 月 9 日|バージョン 2005 (ビルド 12827.20336)  |[CVE-2020-1225](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1225)  <br/> [CVE-2020-1226](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1226)  <br/> [CVE-2020-1229](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1229)  <br/> [CVE-2020-1321](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1321)  <br/> [CVE-2020-1322](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1322)  <br/>|
 |2020 年 6 月 2 日|バージョン 2005 (ビルド 12827.20268)  |さまざまなバグとパフォーマンスの修正。  <br/>  |
