@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の月次チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: a0ddedfa36170790d7d21ba7ac27fdd677fab501
-ms.sourcegitcommit: 28b617b37fdd0d1ac629b12b20970d8f300d5122
+ms.openlocfilehash: d63e475069ceab71e83b9b3b063a32c92d124771
+ms.sourcegitcommit: 606fd85803eea49b4d3895a7f204f66b4f4aa118
 ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/01/2020
-ms.locfileid: "47319006"
+ms.locfileid: "47320785"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020 年の最新のチャネル リリースのリリース ノート
 
@@ -51,7 +51,7 @@ ms.locfileid: "47319006"
 
 - **メール内のリンクの改善:** ファイルへのリンクを含めると、ファイル名が URL に置き換わります。 アクセス許可を変更して、すべての受信者がアクセスできるようにすることができます。 [詳細情報](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />[ブログの投稿](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)の詳細情報をご覧ください
 
-- **検索での自然言語のサポート: **検索での自然言語のサポートの実装により、ユーザーは特定の検索構文を覚えることなく、検索結果を簡単にフィルタリングできます。
+
 
 ### <a name="powerpoint"></a>PowerPoint
 
