@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 8953376164e06da93d331a31a86d43b8d3bbf3ab
-ms.sourcegitcommit: 24a6f5290f2c3a86c9109d64ff0ed39b2de9337c
+ms.openlocfilehash: 3ad72b7012b7220dfce130c8976158a496624882
+ms.sourcegitcommit: 770b87eb73d3fd4142157eef2bcc5bc9bc8f95a6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "47341033"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "47399664"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 向けリリース ノートの現行チャネル (プレビュー)
 
@@ -27,6 +27,20 @@ ms.locfileid: "47341033"
 > - リリースノートの発行日は実際のビルドのリリース日と一致しない場合があります。
 
 [//]: # (削除しないでください)
+
+## <a name="version-2008-september-04"></a>バージョン 2008: 9 月 04 日
+*バージョン 2008 (ビルド 13127.20378)*
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="office-suite"></a>Office スイート
+
+- この変更では、[図の圧縮] ダイアログで一部のユーザー設定が保持されない問題に対処しました。
+
+
+
+[//]: # (バグの詳細コンテンツ エンドを削除しないでください)
 
 ## <a name="version-2008-september-02"></a>バージョン 2008: 9 月 02 日
 *バージョン 2008 (ビルド 13127.20360)*

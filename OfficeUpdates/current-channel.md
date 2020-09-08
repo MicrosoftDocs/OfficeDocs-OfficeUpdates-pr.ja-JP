@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の月次チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 239ab8450f6aaf71f7dd6b4730d1832170ac9b56
-ms.sourcegitcommit: d93d7fb502ee4afac66dbccfe6a4397baa9eebc6
+ms.openlocfilehash: b3e74d8867a1970350b2aed1cbc792edb7cfb38e
+ms.sourcegitcommit: 770b87eb73d3fd4142157eef2bcc5bc9bc8f95a6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "47364178"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "47399654"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020 年の最新のチャネル リリースのリリース ノート
 
@@ -531,6 +531,25 @@ ms.locfileid: "47364178"
 
 セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="excel"></a>Excel
+
+- **[描画] の [ツール] ボックスのなげなわと消しゴム:** 描画ツールを使用しているときに、[描画] の [ツール] ボックスでなげなわと消しゴムを使用できるようになりました。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **[描画] の [ツール] ボックスのなげなわと消しゴム:** 描画ツールを使用しているときに、[描画] の [ツール] ボックスでなげなわと消しゴムを使用できるようになりました。
+
+### <a name="word"></a>Word
+
+- **[描画] の [ツール] ボックスのなげなわと消しゴム:** 描画ツールを使用しているときに、[描画] の [ツール] ボックスでなげなわと消しゴムを使用できるようになりました。
+
+
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
