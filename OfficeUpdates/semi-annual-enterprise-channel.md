@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の半期チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: fca07168058b5b96ece88ec163ce4775cd5413a2
-ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
+ms.openlocfilehash: 469b87ca79a0f4f091e69cf1239715cee7b9dace
+ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46634603"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "47413075"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>2020 年の半期エンタープライズ チャネル リリースのリリース ノート
 
@@ -28,7 +28,42 @@ ms.locfileid: "46634603"
 >- 半期エンタープライズ チャネルのユーザーが Office ポータルから Microsoft 365 Apps をダウンロードして Windows 10 にインストールすると、既定で OneNote 2016 が含まれるようになります。
 
 
-[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+[//]: # (バグの詳細コンテンツ エンドを削除しないでください)
+
+## <a name="version-2002-september-08"></a>バージョン 2002: 9 月 08 日
+*バージョン2002 (ビルド12527.21104)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- これは、以前のバージョンの Office で SQL データプロバイダーによって作成された接続が内部テーブルのプロパティを Office 365 とは別に設定する問題を解決します。 これにより、Office 365 を使用して開かれた以前のバージョンの Office で作成された接続を持つファイルに対して、[テーブルのプレビュー / クエリエディター] のドロップダウンが無効になりました。
+
+
+- 手描き入力で Excel が応答しなくなる可能性がある問題を修正しました。
+
+
+### <a name="outlook"></a>Outlook
+
+- 共有メールボックスを追加した後に、ユーザーがパブリック フォルダーに接続できない原因となっていた問題を修正しました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- この変更では、[図の圧縮] ダイアログで一部のユーザー設定が保持されない問題に対処しました。
+
+
+
+[//]: # (バグの詳細コンテンツ エンドを削除しないでください)
+
+## <a name="version-1908-september-08"></a>バージョン 1908: 9 月 08 日
+*バージョン 1908 (ビルド11929.20946)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-2002-august-11"></a>バージョン 2002: 8 月 11 日
 *バージョン 2002 (ビルド 12527.20988)*
@@ -1663,6 +1698,7 @@ ms.locfileid: "46634603"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|DC|Production| |16.0.12527.21104|version-2002-september-08|)
 [//]: # (|Win32|DC|Production| |16.0.12527.20988|version-2002-august-11|)
 [//]: # (|Win32|DC|Production| |16.0.12527.20880|バージョン-2002-7 月-14|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)

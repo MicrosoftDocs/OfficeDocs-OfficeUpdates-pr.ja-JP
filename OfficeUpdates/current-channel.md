@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の月次チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: b3e74d8867a1970350b2aed1cbc792edb7cfb38e
-ms.sourcegitcommit: 770b87eb73d3fd4142157eef2bcc5bc9bc8f95a6
+ms.openlocfilehash: 4032a576a996076dd4c352112e7be533dce4c3bc
+ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "47399654"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "47413055"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020 年の最新のチャネル リリースのリリース ノート
 
@@ -380,6 +380,8 @@ ms.locfileid: "47399654"
 ### <a name="excel"></a>Excel
 
 - **長いファイル名**: Windows デスクトップ版の Excel は、名前とパスが最大400文字の OneDrive/SharePoint ファイルをサポートするようになりました。
+
+- **Realtimedata (RTD) の改善: **Office 365 バージョン 2002 の月間チャネル以降、ExcelのRealTimeData (RTD) 関数は、Excel 2010 のスプレッドシートのデータ計算よりもはるかに高速になります。 基盤となるメモリとデータ構造のボトルネックを取り除き、マルチスレッド再計算  (MTR) の使用可能なすべてのスレッドで計算できるようにスレッドセーフにしました。
 
 ### <a name="outlook"></a>Outlook
 
@@ -888,6 +890,10 @@ ms.locfileid: "47399654"
 - **所有しているグループにメールをドラッグ:** メッセージや会話を受信トレイからドラッグして移動し、コピーします。 ドラッグしたメッセージは、すべてのグループ メンバーと共有されます。
 
 - **キャプティブ WiFi ネットワークの新しいエクスペリエンス**: サインインに Web ページを必要とする WiFi ネットワークに参加したことはありませんか ? Outlook はこれを検出し、接続を支援します。
+
+###<a name="powerpoint"></a>PowerPoint
+
+- **コメント: **PowerPoint の新しいコメント機能により、ドキュメントにコメントをすばやく簡単に見つけて追加できます。 コメントの固定、解決、タスク、改善された通知などの新機能を使用して、コラボレーションワークフローを最新のものにします。
 
 ### <a name="word"></a>Word
 
