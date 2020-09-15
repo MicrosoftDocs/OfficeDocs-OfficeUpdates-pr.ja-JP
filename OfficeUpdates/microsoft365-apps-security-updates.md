@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft Officeセキュリティ更新プログラムのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: ae1402e77905e221cbcd0a6736ad3fb4ba4d507b
-ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
+ms.openlocfilehash: f8fc5a41e72074071de05ced6857e2ba1f5e7e21
+ms.sourcegitcommit: 931b78282277a0d12779c6b4cae33181b4568c34
 ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/09/2020
-ms.locfileid: "47413085"
+ms.locfileid: "47420696"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Microsoft Office セキュリティ更新プログラムのリリース ノート
 
@@ -33,11 +33,15 @@ ms.locfileid: "47413085"
 [//]: # (上の行は間隔を空けるために使用されているので、削除しないでください。)  
 
 ## <a name="september-08-2020"></a>2020 年 9 月 08 日
+現在のチャネル: バージョン 2008 (ビルド 13127.20408)  
 月次エンタープライズ チャネル: バージョン 2007 (ビルド 13029.20534)  
 月次エンタープライズ チャネル: バージョン 2006 (ビルド 13001.20648)  
 半期エンタープライズ チャネル (プレビュー): バージョン 2008 (ビルド 13127.20408)  
 半期エンタープライズ チャネル: バージョン 2002 (ビルド 12527.21104)  
 半期エンタープライズ チャネル: バージョン 1908 (ビルド 11929.20946)  
+Windows 7 上の Microsoft 365 Apps: バージョン 2002 (ビルド 12527.21104)  
+Office 2019 製品版: バージョン 2008 (ビルド 13127.20408)  
+Office 2016 製品版: バージョン 2008 (ビルド 13127.20408)  
 Office 2019 ボリュームライセンス: バージョン 1808 (ビルド 10366.20016)  
 
 [//]: # (セキュリティの詳細コンテンツを削除しないでください。開始)
@@ -54,11 +58,10 @@ Office 2019 ボリュームライセンス: バージョン 1808 (ビルド 1036
 
 -   [CVE-2020-1338](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1338)
 -   [CVE-2020-1218](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1218)
--   [CVE-2020-1445](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1445)
+
 
 ### <a name="office-suite"></a>Office スイート
 
--   [CVE-2020-1458](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1458)
 -   [CVE-2020-1193](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1193)
 
 [//]: # (セキュリティの詳細コンテンツの終了を削除しないでください)

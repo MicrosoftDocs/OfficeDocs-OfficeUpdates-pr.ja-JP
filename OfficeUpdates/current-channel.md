@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の月次チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 4032a576a996076dd4c352112e7be533dce4c3bc
-ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
+ms.openlocfilehash: d3309f60d502cdcc50564028e8de5954a43af71f
+ms.sourcegitcommit: 931b78282277a0d12779c6b4cae33181b4568c34
 ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 09/09/2020
-ms.locfileid: "47413055"
+ms.locfileid: "47420751"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020 年の最新のチャネル リリースのリリース ノート
 
@@ -35,7 +35,39 @@ ms.locfileid: "47413055"
 
 
 
-[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+[//]: # (バグの詳細コンテンツ エンドを削除しないでください)
+
+## <a name="version-2008-september-09"></a>バージョン 2008: 9 月 9 日
+*バージョン 2008(ビルド13127.20408)*
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="access"></a>Access
+
+- Access では、現在の問題が修正されていますが、この問題が完全に解決されていることを確認するために、他のインターフェイスを調査しています。 今後の更新情報でさらにご案内いたします。ご不便をおかけして申し訳ございません。
+
+
+### <a name="excel"></a>Excel
+
+- Format Painter を使用すると、特定の状況で Excel がクラッシュする可能性がある問題を修正しました。
+
+
+### <a name="word"></a>Word
+
+- 図形のサイズを変更すると、ユーザーのコンテンツが失われる場合がある問題を修正しました。
+
+
+- 基本スタイルが標準スタイルで更新されない問題を修正しました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- この変更では、[図の圧縮] ダイアログで一部のユーザー設定が保持されない問題に対処しました。
+
+
+
+[//]: # (バグの詳細コンテンツ エンドを削除しないでください)
 
 ## <a name="version-2008-august-31"></a>バージョン 2008: 8 月 31 日
 *バージョン 2008 (ビルド 13127.20296)*
@@ -1206,6 +1238,7 @@ ms.locfileid: "47413055"
 > Office の使用で問題がある場合は、[Microsoft の回答フォーラム](https://answers.microsoft.com/)に関するページまたは「[Microsoft Tech Community](https://techcommunity.microsoft.com/)」に質問を投稿するか、[サポート](https://support.microsoft.com/contactus)に問い合わせてサポートを受けることができます。
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|CC|Production| |16.0.13127.20408|version-2008-september-09|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20296|バージョン-2008-8-31|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20460|バージョン-2007-8-25|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20344|バージョン-2007-8-11|)
