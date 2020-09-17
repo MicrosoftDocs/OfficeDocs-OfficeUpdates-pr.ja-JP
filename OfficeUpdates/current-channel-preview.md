@@ -2,19 +2,19 @@
 title: リリース ノートの現在のチャネル (プレビュー)
 ms.author: anankani
 author: v-lislo
-manager: andrewmo
+manager: anankani
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: Insider Slow の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 064769dde88f0198237af611b788ed02317235ba
-ms.sourcegitcommit: ba25ac98f7eb014f8730caee66fc34699c341121
+description: Insider Slow の対象ユーザーに主な新機能、修正プログラム、または既知の問題の最新リストを提供します
+ms.openlocfilehash: 67f78eb141917beb3111180fbdfe42f210c3ab4e
+ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47816558"
+ms.lasthandoff: 09/16/2020
+ms.locfileid: "47942854"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 向けリリース ノートの現行チャネル (プレビュー)
 
