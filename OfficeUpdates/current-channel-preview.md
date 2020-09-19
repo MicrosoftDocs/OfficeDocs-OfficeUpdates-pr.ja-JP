@@ -1,5 +1,5 @@
 ---
-title: リリース ノートの現在のチャネル (プレビュー)
+title: リリース ノートの最新チャネル (プレビュー)
 ms.author: anankani
 author: v-lislo
 manager: anankani
@@ -16,9 +16,9 @@ ms.contentlocale: ja-JP
 ms.lasthandoff: 09/16/2020
 ms.locfileid: "47942854"
 ---
-# <a name="release-notes-for-office-current-channel-preview"></a>Office 向けリリース ノートの現行チャネル (プレビュー)
+# <a name="release-notes-for-office-current-channel-preview"></a>Office 向けリリース ノートの最新チャネル (プレビュー)
 
-この記事には、Windows デスクトップ向け Word、Excel、PowerPoint、Outlook、Access、Project の現行チャネル (対象指定) ビルドのリリース ノートが含まれています。 Microsoft では、毎週、皆様にお知らせしたい魅力的な新機能、重要な修正プログラム、重大な問題に関する情報を提供しています。 多くの場合、機能 (場合によっては修正プログラムも) は、特定の期間にわたって現行チャネル (プレビュー) に展開されることに注意してください。 これにより、Microsoft では、より広範な対象ユーザーに機能をリリースする前に、作業がスムーズに行われていることを確認できます。 したがって、下記のものが表示されない場合でも、心配する必要はなく、いずれは表示されます。  
+この記事には、Windows デスクトップ向け Word、Excel、PowerPoint、Outlook、Access、Project の最新チャネル (対象指定) ビルドのリリース ノートが含まれています。 Microsoft では、毎週、皆様にお知らせしたい魅力的な新機能、重要な修正プログラム、重大な問題に関する情報を提供しています。 多くの場合、機能 (場合によっては修正プログラムも) は、特定の期間にわたって最新チャネル (プレビュー) に展開されることに注意してください。 これにより、Microsoft では、より広範な対象ユーザーに機能をリリースする前に、作業がスムーズに行われていることを確認できます。 したがって、下記のものが表示されない場合でも、心配する必要はなく、いずれは表示されます。  
 
 > [!IMPORTANT]
 > 現在、Microsoft 365 Apps の更新プログラム チャネルに、新しい更新プログラム チャネル (月次エンタープライズ チャネル) の追加や既存の更新プログラム チャネル名の変更など、いくつかの変更を進めています。 詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2127441)を参照してください。

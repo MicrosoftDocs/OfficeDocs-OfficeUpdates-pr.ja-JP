@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT プロフェッショナルに、Microsoft AutoUpdate (MAU) のリリース履歴を提供します
-ms.openlocfilehash: aa066d6d5cc89060d3c56be2106559e47e93e9b9
-ms.sourcegitcommit: 79f26d59de01abb85869e9d91f3af30129709f62
+ms.openlocfilehash: 621874246e5c7e31c4929f10540b622299a342dd
+ms.sourcegitcommit: 0b73dd4daece14e061c1d29dbb6486367c0b5621
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46637645"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "47947163"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) のリリース履歴
  
@@ -29,6 +29,25 @@ ms.locfileid: "46637645"
 > - Microsoft AutoUpdate は、Microsoft のさまざまな Mac 製品への更新プログラムを提供します。そのため、Office for Mac を実行していない場合でも、Microsoft AutoUpdate を更新する通知が表示される場合があります。
 
 リリース ノートを確認するには、「[リリース ノート](release-notes-office-for-mac.md)」を参照してください。<br/><br/>
+
+## <a name="september-2020-release"></a>2020 年 9 月リリース
+
+**リリース日:** 2020 年 9 月 16 日
+
+*Microsoft Auto Update 4.27*
+
+**バグの修正と強化された機能:**
+-   MAU 更新アシスタントは、通常のチェック サイクルにまだ達していない場合でも、ロック画面の背後で更新プログラムを開始します。
+
+**MAU の更新プログラムのリンク:**
+
+[Microsoft Auto Update 4.27 パッケージをダウンロードする](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 ハッシュ:**
+
+7AF6ACDC5E1278CF4D227F305A127A6FE5A275094D945C1504DC108C2090F2CB
+
+<br/><br/>
 
 ## <a name="august-2020-release"></a>2020 年 8 月リリース
 

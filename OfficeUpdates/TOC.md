@@ -4,7 +4,7 @@
 ## [更新の履歴 (日付順)](update-history-microsoft365-apps-by-date.md)
 ## [更新プログラムのサイズ](download-sizes-microsoft365-apps-updates.md)
 
-## 現在のチャネル
+## 最新チャネル
 ### [2020](current-channel.md)
 ### [2019](monthly-channel-2019.md)
 ### [2018](monthly-channel-2018.md)
@@ -27,9 +27,9 @@
 
 ## Office Insider プログラム  
 ### [更新履歴のベータ チャネル](Update-history-beta-channel.md)
-### [更新履歴の現在のチャネル (プレビュー)](update-history-current-channel-preview.md)
+### [更新履歴の最新チャネル (プレビュー)](update-history-current-channel-preview.md)
 ### [リリース ノートのベータ チャネル](beta-channel.md)
-### [リリース ノートの現在のチャネル (プレビュー)](current-channel-preview.md)
+### [リリース ノートの最新チャネル (プレビュー)](current-channel-preview.md)
 
 ## [Windows 7 の更新履歴](update-history-office-Win7.md)
 
