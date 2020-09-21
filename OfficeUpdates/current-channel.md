@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の月次チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: b19d5a9a0dab889d2c06b894a4143f856a959176
-ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
+ms.openlocfilehash: f9aa18090ec3cad58f37cd9699e1e85a74736992
+ms.sourcegitcommit: 751e19cd300a15d25b3757f8978ec491fc720740
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "47942834"
+ms.lasthandoff: 09/18/2020
+ms.locfileid: "48100199"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020 年の最新のチャネル リリースのリリース ノート
 
@@ -45,7 +45,7 @@ ms.locfileid: "47942834"
 ### <a name="resolved-issues"></a>解決済みの問題
 ### <a name="access"></a>Access
 
-- Access では、現在の問題が修正されていますが、この問題が完全に解決されていることを確認するために、他のインターフェイスを調査しています。 今後の更新情報でさらにご案内いたします。ご不便をおかけして申し訳ございません。
+- テキストを編集するため [ズーム] ボックスを起動する (Shift + F2) ときに、Access がクラッシュする可能性がある問題が修正されました。
 
 
 ### <a name="excel"></a>Excel
@@ -1200,7 +1200,7 @@ ms.locfileid: "47942834"
 
 - **プレゼンテーションの最適化:** アクセシビリティ チェックを使用すると、スクリーン リーダーを考慮に入れて、スライド上のオブジェクトを配置することができます。
 
-- **簡単な GIF:** 1 つのスライド、1 つのフレーム。 PowerPoint でループ GIF を簡単に作成できます。 [詳細情報](https://support.office.com/en-us/article/a598753e-92de-4f1b-8393-714db4d334b4)
+- **簡単な GIF:** 1 つのスライド、1 つのフレーム。 PowerPoint でループ GIF を簡単に作成できます。 [詳細情報](https://support.office.com/ja-JP/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
 
