@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに主な新機能、修正プログラム、または既知の問題の最新リストを提供します
-ms.openlocfilehash: 67f78eb141917beb3111180fbdfe42f210c3ab4e
-ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
+ms.openlocfilehash: a0750c2e3c087a0504f0b7d00b864cd2b203d522
+ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "47942854"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48174586"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 向けリリース ノートの最新チャネル (プレビュー)
 
@@ -27,6 +27,74 @@ ms.locfileid: "47942854"
 > - リリースノートの発行日は実際のビルドのリリース日と一致しない場合があります。
 
 [//]: # (削除しないでください)
+
+## <a name="version-2009-september-21"></a>バージョン 2009: 9 月 21 日
+*バージョン 2009 (ビルド 13231.20200)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="access"></a>Access
+
+- **Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。 [ファイル] > [オプション] に移動し、[Office テーマ] の横の [システム設定を使用する] を選択します。 [詳細情報](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="excel"></a>Excel
+
+- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
+
+- **Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。 [ファイル] > [オプション] に移動し、[Office テーマ] の横の [システム設定を使用する] を選択します。 [詳細情報](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="onenote"></a>OneNote
+
+- **Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。 [ファイル] > [オプション] に移動し、[Office テーマ] の横の [システム設定を使用する] を選択します。 [詳細情報](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="outlook"></a>Outlook
+
+- **メッセージの所有者として会話を削除する:** この機能を使用すると、メッセージの所有者による会話を削除できます。
+
+- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
+
+- **Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。 [ファイル] > [オプション] に移動し、[Office テーマ] の横の [システム設定を使用する] を選択します。 [詳細情報](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
+
+- **Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。 [ファイル] > [オプション] に移動し、[Office テーマ] の横の [システム設定を使用する] を選択します。 [詳細情報](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="project"></a>Project
+
+- **Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。 [ファイル] > [オプション] に移動し、[Office テーマ] の横の [システム設定を使用する] を選択します。 [詳細情報](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="publisher"></a>発行者
+
+- **Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。 [ファイル] > [オプション] に移動し、[Office テーマ] の横の [システム設定を使用する] を選択します。 [詳細情報](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="visio"></a>Visio
+
+- **Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。 [ファイル] > [オプション] に移動し、[Office テーマ] の横の [システム設定を使用する] を選択します。 [詳細情報](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="word"></a>Word
+
+- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
+
+- **Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。 [ファイル] > [オプション] に移動し、[Office テーマ] の横の [システム設定を使用する] を選択します。 [詳細情報](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="powerpoint"></a>PowerPoint
+
+- 特定のデータ オブジェクト タイプ (E2o) を大量に含むファイルの共同編集が遅くなる問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2009-september-14"></a>バージョン 2009: 9 月 14 日
 *バージョン 2009 (ビルド 13231.20152)*

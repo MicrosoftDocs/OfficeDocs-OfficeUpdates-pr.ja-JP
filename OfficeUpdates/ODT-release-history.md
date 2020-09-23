@@ -1,20 +1,20 @@
 ---
 title: Office 展開ツール (ODT) のリリース履歴
-ms.author: andrewmo
-author: andymosten
-manager: andrewmo
+ms.author: timda
+author: TimDavenport
+manager: TimDavenport
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: IT プロフェッショナルに、Office 展開ツール (ODT) のリリース履歴を提供します
-ms.openlocfilehash: 70e000f7cbdc597bde156257fc7e4b2a1e6e69eb
-ms.sourcegitcommit: 58d55cf532d1d02cca85772920a6dd71089b071d
+ms.openlocfilehash: c01fbe403dacb0b474c37b7439eba5b616f8a08f
+ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43781570"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48174646"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Office 展開ツールのリリース履歴
 
@@ -23,12 +23,22 @@ Office 展開ツール (ODT) はコマンドライン ツールです。これ�
 
 ODT により、Office インストール環境をより詳細に制御できるようになります。 具体的には、インストールする製品や言語の種類、それらの製品の更新方法、インストール操作をユーザーに表示するかどうかを制御できます。 ODT の使用方法については、[Office 展開ツールの概要](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool)を参照してください。
 
- **サポートされるオペレーティング システム**: Windows 10、Windows 7、Windows 8、Windows 8.1、Windows Server 2008 R2、Windows Server 2012、Windows Server 2012 R2 
+ **サポートされているオペレーティング システム**: Windows 10、Windows 8.1、Windows Server 2019、Windows Server 2016 
  
  **インストール方法**: 自己解凍実行ファイルをダウンロードして実行します。このファイルには、Office 展開ツールの実行可能ファイル (setup.exe) およびサンプル構成ファイル (configuration.xml) が含まれています。 
 
 [Office 展開ツールのダウンロード](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
 
+
+## <a name="june-9-2020"></a>2020 年 6 月 9 日
+
+バージョン 16.0.12827.20268 (setup.exe バージョン 16.0.12827.20258)
+- チャネルが指定されていない場合は、現在のチャネルが既定のチャネルになります
+- 月次エンタープライズ チャネルのサポートを追加しました
+- 新しいチャネル名のサポートを追加しました
+- 使用できない言語リソースがある場合でも、可能な場合はインストールを続行するための追加の復元機能
+- MSIRemove 機能の拡張と Office 2007 製品の削除
+- MSIRemove 機能の拡張と Access データベース エンジンの削除 
 
 ## <a name="april-15-2020"></a>2020 年 4 月 15 日
 
