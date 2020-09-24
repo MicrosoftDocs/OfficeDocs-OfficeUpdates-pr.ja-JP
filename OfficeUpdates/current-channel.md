@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の月次チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: f9aa18090ec3cad58f37cd9699e1e85a74736992
-ms.sourcegitcommit: 751e19cd300a15d25b3757f8978ec491fc720740
+ms.openlocfilehash: 06a009030ac93c32e4085019e0daf70353c9f1b0
+ms.sourcegitcommit: 75494441a6d325f8cb947f1905fe623dce2f05f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/18/2020
-ms.locfileid: "48100199"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48222483"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020 年の最新のチャネル リリースのリリース ノート
 
@@ -35,7 +35,52 @@ ms.locfileid: "48100199"
 
 
 
-[//]: # (バグの詳細コンテンツ エンドを削除しないでください)
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2008-september-22"></a>バージョン 2008: 9 月 22 日
+*バージョン 2008 (ビルド 13127.20508)*
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- シートの一番上の行を固定した後にクイック分析を使用すると Excel がクラッシュする問題を修正しました。
+
+
+- IFNA () を使用する数式が含まれている場合、破損したワークブックに関する警告を発する可能性がある問題を修正しました。
+
+
+### <a name="outlook"></a>Outlook
+
+- 隅にある [X] をクリックして共有の予定表を閉じることができない問題に対処します。
+
+
+- 添付ファイルのアップロードのパフォーマンスの問題に対処します。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- PowerPoint アプリのクラッシュの原因となった問題を修正しました。
+
+
+### <a name="visio"></a>Visio
+
+- テキストを配置するとリアルタイムのプレビューがクラッシュする問題がお客様から報告されました。 7 月のフォークで最も多く報告されているクラッシュ。
+
+
+### <a name="word"></a>Word
+
+- スタイル ギャラリー ダイアログの問題を修正しました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- GIF/アニメーション model3D を使用したアイドル時の高い CPU 使用率を修正
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2008-september-09"></a>バージョン 2008: 9 月 9 日
 *バージョン 2008(ビルド13127.20408)*
@@ -1238,6 +1283,7 @@ ms.locfileid: "48100199"
 > Office の使用で問題がある場合は、[Microsoft の回答フォーラム](https://answers.microsoft.com/)に関するページまたは「[Microsoft Tech Community](https://techcommunity.microsoft.com/)」に質問を投稿するか、[サポート](https://support.microsoft.com/contactus)に問い合わせてサポートを受けることができます。
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|CC|Production| |16.0.13127.20508|version-2008-september-22|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20408|version-2008-september-09|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20296|バージョン-2008-8-31|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20460|バージョン-2007-8-25|)
