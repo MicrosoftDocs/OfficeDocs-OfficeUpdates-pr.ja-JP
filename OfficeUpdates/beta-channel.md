@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: c814f4877fe57ce57136626277f281fcbadc6b73
-ms.sourcegitcommit: 751e19cd300a15d25b3757f8978ec491fc720740
+ms.openlocfilehash: b28f6a4ec822d90c0b00ae1743d0f3a3dc84e7f4
+ms.sourcegitcommit: 7970c58850bdb43dbfd159b661467afad6ebca7e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/18/2020
-ms.locfileid: "48100209"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276441"
 ---
 # <a name="release-notes-for-beta-channel"></a>ベータ チャネルのリリース ノート
 
@@ -30,6 +30,75 @@ ms.locfileid: "48100209"
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2010-september-25"></a>バージョン 2010: 9 月 25 日
+*バージョン 2010 (ビルド 13318.20000)*
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="excel"></a>Excel
+
+- **Power Query を使用してデータ型を作成する: Power Query を使用してあらゆるデータ ソースから豊富なデータ型を作成します**
+
+### <a name="outlook"></a>Outlook
+
+- **タスクのユーザー エクスペリエンスの更新:** タスク アイテムの視覚的な更新
+
+- **メッセージの作成にかかる時間を節約:** Outlook は、メッセージをすばやく作成するのに役立つ提案を作成することを示します。 提案を受け入れるには、Tab キーを使用するだけです。
+
+### <a name="word"></a>Word
+
+- **Microsoft エディター ウィンドウにデスクトップ用の Word の更新が表示される:** デスクトップ クライアント用の Word エディター ウィンドウの現在のエクスペリエンスをアップグレードしました。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="access"></a>Access
+
+- スクロール中に保存されたクエリ/リレーションシップ ウィンドウを読み込むときに、スクロールバーの位置が正しく設定されない問題を修正しました。
+
+
+- [テーブルを追加する] 作業ウィンドウに「&」を含む名前が正しく表示されない問題を修正しました。
+
+
+### <a name="excel"></a>Excel
+
+- マルチレベル カテゴリの手動間隔がグラフで機能しない問題を修正しました。
+
+
+- OLAP ピボットテーブルを更新するときにハングする場合がある問題を修正しました。
+
+
+- データ検証に使用されるテーブルに追加しても、ブック内のすべてのシートのオプションが更新されない問題を修正しました。
+
+
+### <a name="onenote"></a>OneNote
+
+- OneNote がカスタム テーマのキャンバスのハイ コントラスト カラーを尊重しない問題を修正しました。
+
+
+- ノートブックのカラー セレクターで緑色にカーソルを合わせると、ポップアップに「赤チョーク」と表示される問題を修正しました。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- ユーザーがソース パスをローカルの OneDrive フォルダーに変更すると、リンクされた Excel グラフが誤って Excel シートに変更される問題を修正しました。
+
+
+### <a name="word"></a>Word
+
+- ワークフロー対応ファイルへのリンクが期待どおりに開かない問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2010-september-18"></a>バージョン 2010: 9 月 18 日
 *バージョン 2010 (ビルド 13312.20006)*
@@ -1445,6 +1514,7 @@ ms.locfileid: "48100209"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13318.20000|version-2010-september-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13312.20006|version-2010-september-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13304.20000|version-2010-september-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13301.20004|version-2010-september-04|)
@@ -1454,5 +1524,4 @@ ms.locfileid: "48100209"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13130.20000|version-2009-august-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13127.20002|version-2008-july-31|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13117.20000|version-2008-july-24|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13115.20000|version-2008-july-17|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)
