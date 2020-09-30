@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT 担当者に、日付ごとに整理した Microsoft 365 Apps のリリースすべての一覧を、リリース ノートへのリンクを含めて提供します
-ms.openlocfilehash: 1c55b9a3b85ca625f1d2157496d76bf98c724d85
-ms.sourcegitcommit: 75494441a6d325f8cb947f1905fe623dce2f05f0
+ms.openlocfilehash: c468adc345448b12502aff2a21214dc90af3180e
+ms.sourcegitcommit: 98c502abe92df8183e816225934bd70f6940e935
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48222473"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48297150"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 Apps の更新履歴 (日付別の一覧)
 
@@ -36,7 +36,7 @@ ms.locfileid: "48222473"
 
 |**チャネル**|**バージョン**|**ビルド**|**リリース日**|**バージョンのサポート期限**|
 |:-----|:-----|:-----|:-----|:-----|
-|最新チャネル<br/>|2008<br/>|13127.20508<br/>|2020 年 9 月 22 日<br/>|バージョン 2009 がリリースされました<br/>|
+|最新チャネル<br/>|2009<br/>|13231.20262<br/>|2020 年 9 月 28日<br/>|バージョン 2010 がリリースされました<br/>|
 |月次エンタープライズ チャネル<br/>|2007<br/>|13029.20534<br/>|2020 年 9 月 8 日<br/>|2020年11 月 10 日<br/>|
 |月次エンタープライズ チャネル<br/>|2006<br/>|13001.20648<br/>|2020 年 9 月 8 日<br/>|2020 年 10 月 13 日<br/>|
 |半期エンタープライズ チャネル (プレビュー)<br/>|2008<br/>|13127.20408<br/>|2020 年 9 月 8 日<br/>|2021 年 3 月 9 日<br/>|
@@ -53,6 +53,7 @@ ms.locfileid: "48222473"
 
 |**Year**|**リリース日**|**最新チャネル**|**月次エンタープライズ チャネル**|**半期エンタープライズ チャネル (プレビュー)**|**半期エンタープライズ チャネル**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2020|9 月 28 日|[バージョン 2009 (ビルド13231.20262)](current-channel.md#version-2009-september-28)| | | |
 |2020|9 月 22 日|[バージョン 2008 (ビルド 13127.20508)](current-channel.md#version-2008-september-22)| | | |
 |2020|9 月09日|[バージョン 2008(ビルド13127.20408)](current-channel.md#version-2008-september-09)| | | |
 |2020|9 月08日| |[バージョン2007(ビルド13029.20534)](monthly-enterprise-channel.md#version-2007-september-08)<br/>[バージョン 2006 (ビルド13001.20648)](monthly-enterprise-channel.md#version-2006-september-08)|[バージョン 2008(ビルド13127.20408)](semi-annual-enterprise-channel-preview.md#version-2008-september-08)|[バージョン2002 (ビルド12527.21104)](semi-annual-enterprise-channel.md#version-2002-september-08)<br/>[バージョン 1908 (ビルド11929.20946)](semi-annual-enterprise-channel.md#version-1908-september-08)|
