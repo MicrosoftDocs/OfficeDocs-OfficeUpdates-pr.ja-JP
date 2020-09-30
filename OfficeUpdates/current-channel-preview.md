@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに主な新機能、修正プログラム、または既知の問題の最新リストを提供します
-ms.openlocfilehash: a0750c2e3c087a0504f0b7d00b864cd2b203d522
-ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
+ms.openlocfilehash: 6c935826b7492cd10ce1ced58f18b202a32730ae
+ms.sourcegitcommit: 99ac054b629a031233c9bad7b18896b84d2448ea
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48174586"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293199"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 向けリリース ノートの最新チャネル (プレビュー)
 
@@ -27,6 +27,25 @@ ms.locfileid: "48174586"
 > - リリースノートの発行日は実際のビルドのリリース日と一致しない場合があります。
 
 [//]: # (削除しないでください)
+
+## <a name="version-2009-september-26"></a>バージョン 2009: 9 月 26　日
+*バージョン 2009 (ビルド13231.20262)*
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- 件名が空白の場合、一部の自動的に生成されたメールの本文が空で送信される原因となった問題に対処します。
+
+
+### <a name="project"></a>Project
+
+- イベント コードの実行中に、[タスク フォーム] ビューから変更を加えようとするときに、[OK] ボタンをクリックしても変更が反映されないという問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2009-september-21"></a>バージョン 2009: 9 月 21 日
 *バージョン 2009 (ビルド 13231.20200)*
@@ -1925,7 +1944,7 @@ ms.locfileid: "48174586"
 
 - Word/Excel/PowerPoint ドキュメントで Multichoice/Lookup/Managed-metadata プロパティを使用し、SharePoint ドキュメント ライブラリに保存する場合、これらのプロパティは以前は 255 文字に制限されていました。 これらのプロパティが 255 文字を超えると、そういったドキュメントは保存することができませんでした。 この変更により、この制限は 2048 文字に増加しました。
 
-- ユーザー プリンシパル名 (UPN) の大文字と小文字が区別されなくなり、SharePoint でファイルを操作するときにはエラーが少なくなるという Word、Excel、PowerPoint の問題を修正しました。
+- ユーザー プリンシパル名 (UPN) の大文字と小文字が区別されなくなり、SharePoint でファイルを操作するときにはエラーが少なくなるという Word/Excel/PowerPoint の問題を修正しました。
 
 - 同じ SharePoint ライブラリから Word、Excel、PowerPoint で複数のドキュメントが開かれている場合、最初に開いたドキュメントのみがポリシー コンプライアンスでスキャンされる問題を修正しました。
 

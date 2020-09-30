@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の月次チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 06a009030ac93c32e4085019e0daf70353c9f1b0
-ms.sourcegitcommit: 75494441a6d325f8cb947f1905fe623dce2f05f0
+ms.openlocfilehash: dffa5844311575083938e0e521280c0dcae6c7dd
+ms.sourcegitcommit: 98c502abe92df8183e816225934bd70f6940e935
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48222483"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48297170"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020 年の最新のチャネル リリースのリリース ノート
 
@@ -32,6 +32,69 @@ ms.locfileid: "48222483"
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2009-september-28"></a>バージョン 2009: 9 月 28 日
+*バージョン 2009 (ビルド13231.20262)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="excel"></a>Excel
+
+- **図形を画像として保存する:** 簡単なクリック操作で図形、アイコン、その他のオブジェクトを画像ファイルとして保存し、別の場所で再利用することができます。 [詳細情報](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+- **Power BI からデータ型を使用して組織データを取得する:** Power BI からの Excel データ型が Office 365 E5/A5 または Microsoft 365 E5/A5 を使用する組織の Insider にロールアウトされるようになりました。 必要な情報を入手し、簡単に更新することは、多くの日常のワークフローに欠かせません。 Excel のデータ型として、Power BI から会社または組織の情報へのアクセスを提供し、スプレッドシートにリンクされた情報を取り込む機能を拡張します。 [詳細情報](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />[ブログの投稿](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)の詳細情報をご覧ください
+
+- **数式で使用する変数を作成する:** LET 関数を使用してパフォーマンス、読みやすさ、および構成性を向上させます。 この関数では、新規または既存の数式に名前付き変数を作成することができます。 [詳細情報](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br />[ブログの投稿](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/) の詳細情報をご覧ください
+
+### <a name="outlook"></a>Outlook
+
+- **自動拡張オンライン アーカイブ検索:** 自動拡張オンライン アーカイブ検索を有効にします
+
+- **Outlook の新しいプロファイル カード:** Outlook の新しいプロファイル カードは、組織ビューの詳細を含み、Outlook Web のカード スタイルに一致します。
+
+### <a name="teams"></a>Teams
+
+- **Microsoft Teams でファイルを共有:** [詳細情報](https://docs.microsoft.com/ja-JP/MicrosoftTeams/sharing-files-in-teams)
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- 件名が空白の場合、一部の自動的に生成されたメールの本文が空で送信される原因となった問題に対処します。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 特定のデータ オブジェクト タイプ (E2o) を大量に含むファイルの共同編集が遅くなる問題を修正しました。
+
+
+### <a name="project"></a>Project
+
+- イベント コードの実行中に、[タスク フォーム] ビューから変更を加えようとするときに、[OK] ボタンをクリックしても変更が反映されないという問題を修正しました。
+
+
+### <a name="word"></a>Word
+
+- スタイル ギャラリー ダイアログの問題を修正しました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- この変更により、[エクスポート] ボタンをクリックしてもエクスポートされないという [アニメーション GIF にエクスポート] 機能の問題に対処します。
+
+
+- この変更では、[図の圧縮] ダイアログで一部のユーザー設定が保持されない問題に対処しました。
 
 
 
@@ -1283,6 +1346,7 @@ ms.locfileid: "48222483"
 > Office の使用で問題がある場合は、[Microsoft の回答フォーラム](https://answers.microsoft.com/)に関するページまたは「[Microsoft Tech Community](https://techcommunity.microsoft.com/)」に質問を投稿するか、[サポート](https://support.microsoft.com/contactus)に問い合わせてサポートを受けることができます。
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|CC|Production| |16.0.13231.20262|バージョン-2009-september-28|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20508|version-2008-september-22|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20408|version-2008-september-09|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20296|バージョン-2008-8-31|)
