@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに主な新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: b28f6a4ec822d90c0b00ae1743d0f3a3dc84e7f4
-ms.sourcegitcommit: 7970c58850bdb43dbfd159b661467afad6ebca7e
+ms.openlocfilehash: fd80f9a2f901e69f8bc45d55add2c48aedb98860
+ms.sourcegitcommit: bd82ba6a5c6eaa151068e633cde0f7cdfc5877ea
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276441"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "48340732"
 ---
 # <a name="release-notes-for-beta-channel"></a>ベータ チャネルのリリース ノート
 
@@ -30,6 +30,78 @@ ms.locfileid: "48276441"
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2010-october-02"></a>バージョン 2010: 10 月 2 日
+*バージョン 2010 (ビルド 13328.20000)*
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="excel"></a>Excel
+
+- **[詳細] ダイアログ ボックスを使用してデータ型を作成する:** [詳細] ダイアログ ボックスでは、作成するデータ型を組み合わせる列を手動で選択できます。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="onenote"></a>OneNote
+
+- ユーザーが OutSpace で [ファイル]、[情報] に移動してテキスト ボックスからノートブックの URL を選択してコピーできない問題を修正しました。
+
+
+### <a name="outlook"></a>Outlook
+
+- 件名が空白の場合、自動的に生成されたメールの本文が空で送信される原因となった問題に対処します。
+
+
+- 間違ったフォルダー GUID がフォルダーにキャッシュされる問題を修正しました。
+
+
+- ユーザーが、表示名を持つ受信者フィールドにメールアドレスをコピーアンドペーストしたとき、メールアドレスが正常に解析されず、無効なメールアドレスに関する警告が表示される場合がありました。  この問題は修正され、名前とメールアドレスは正しく解析され、警告は表示されなくなりました。
+
+
+- オンライン共有フォルダーが親フォルダー名を返さない問題を修正しました。 失敗する代わりに、プライマリ アカウントに誤って送信された空のパスを返しました。
+
+
+- 読み取り専のプレビュー ウィンドウから下書きを再開した後、トラックの変更がオンになる問題を修正しました。
+
+
+- [名前を付けて保存] オプションが従来の添付ファイルで使用できない問題を修正しました。
+
+
+- ポリシーを上書きするときに正当化テキストをカスタマイズする方法をユーザーに提供する問題を修正しました。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- PDF へのエクスポート中に PowerPoint が長方形の箇条書きをエクスポートしなかった問題を修正しました。
+
+
+- 最後のスライドを表示していて、[セッションの終了] を押した後、概要が表示される前に次のスライドにスワイプすると、[セッションの終了] ダイアログ ボックスが概要ページにも表示される問題を修正しました。
+
+
+### <a name="project"></a>Project
+
+- リソース配分状況ビューまたはシート ビューにグループ化を適用してから列を挿入すると、Project がクラッシュする場合がある問題を修正しました。
+
+
+- 数式を使用してカスタム フィールドを作成し、取得した値を使用している場合、表示の切り替えやプロジェクト/タスクの詳細を開く際にパフォーマンスの遅延が発生する問題を修正しました。
+
+
+- 同じプロジェクトを複数回追加しようとして AttachToSources が false に設定されている場合、ConsolidateProjects VBA メソッドがファイルすることがある問題を修正しました。
+
+
+- イベント コードの実行中に、[タスク フォーム] ビューから変更を加えようとするときに、[OK] ボタンをクリックしても変更が反映されないという問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2010-september-25"></a>バージョン 2010: 9 月 25 日
 *バージョン 2010 (ビルド 13318.20000)*
@@ -1514,6 +1586,7 @@ ms.locfileid: "48276441"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13328.20000|version-2010-october-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13318.20000|version-2010-september-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13312.20006|version-2010-september-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13304.20000|version-2010-september-11|)
@@ -1523,5 +1596,4 @@ ms.locfileid: "48276441"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13205.20000|version-2009-august-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13130.20000|version-2009-august-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13127.20002|version-2008-july-31|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13117.20000|version-2008-july-24|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)
