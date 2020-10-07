@@ -1,8 +1,8 @@
 ---
 title: 2017の月次チャネルリリースのリリースノート
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 7/11/2018
 ms.audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: IT プロフェッショナルに、Office 365 ProPlus の月次チャネルリリースのリリースノートを2017で提供します。
-ms.openlocfilehash: 7c3523a10f3fe5db8f38e792e0061b0eed2745bf
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: e08e53d617cf74329210e0f758b2c440995ca2f5
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42615006"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48369905"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>2017の月次チャネルリリースのリリースノート
 
@@ -139,7 +139,7 @@ ms.locfileid: "42615006"
 -   **LinkedIn 機能の設定:** [ファイル] \> [オプション] \> [全般] と移動して、Office アプリケーションで LinkedIn 機能が表示されるかどうかを制御します。 [詳細情報](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新
--   **デジタル鉛筆:** 新しい鉛筆のテクスチャで、アイデアを書き込んだり、スケッチしたりします。 サポートされているデジタル ペンを傾けるだけで網かけができます。
+-   **デジタル鉛筆:** 新しい鉛筆のテクスチャで、アイデアを書き込んだり、スケッチしたりします。サポートされているデジタル ペンを傾けるだけで網かけができます。
 -   **Microsoft Stream への公開** Microsoft Stream を使用して、組織内でプレゼンテーションを動画として共有し、安全性を高めます。[詳細情報](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83?#bkmk_microsoftstream)
 -   **LinkedIn 機能の設定:** [ファイル] \> [オプション] \> [全般] と移動して、Office アプリケーションで LinkedIn 機能が表示されるかどうかを制御します。 [詳細情報](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
 
@@ -350,7 +350,7 @@ ms.locfileid: "42615006"
 ## <a name="version-1707-september-12"></a>バージョン 1707: 9 月12日
 *バージョン 1707 (ビルド 8326.2107)*
 
-### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
+### <a name="excel-security-updates"></a>Excel: セキュリティの更新
 -   [CVE-2017-8631](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8631): Microsoft Office のメモリ破損の脆弱性
 -   [CVE-2017-8632](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8632): Microsoft Office のメモリ破損の脆弱性
 
@@ -560,7 +560,7 @@ ms.locfileid: "42615006"
 -   会議に正常に参加するまで、空の会話ウィンドウが表示されないという問題を修正します。
 -   タイトル フィールドが空の場合、連絡先カードの部署フィールドの情報が検索結果で空になるという問題を修正します。
 -   ファイアウォール ルールにより、オンプレミスからオンラインに移行したユーザーについてサインインが失敗する問題を修正します。
--   ユーザーが LyncAutoD を実行して外部ネットワーク上のクライアントにサインインすると、クライアントが OAuthUsed レジストリ キーを false にリセットするという問題を修正するための新しい DWORD レジストリ キーを追加します。問題を修正するには、HKEY\_CURRENT\_USER\\Software\\Microsoft\\Office\\16.0\\Lync\\\<SipID\> の下の EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket の値を 1 に設定します。
+-   ユーザーが LyncAutoD を実行して外部ネットワーク上のクライアントにサインインすると、クライアントが OAuthUsed レジストリ キーを false にリセットするという問題を修正するための新しい DWORD レジストリ キーを追加します。 この問題を解決するには、EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket の [HKEY \_ CURRENT \_ USER \\ Software \\ Microsoft \\ Office \\ 16.0 \\ Lync \\ \<SipID\> ] の下の値を1に設定します。
 
 ### <a name="word-feature-updates"></a>Word: 機能の更新
 - **ペンのカスタマイズ:** 手描き入力についてペンと蛍光ペンの個人用設定を選択します。カスタマイズした設定は、お使いのすべての Windows PC でご利用いただけます。
@@ -601,7 +601,7 @@ ms.locfileid: "42615006"
 -   **クエリの共有**: すべてのクエリの定義を Office データベース接続 (ODC) ファイルにエクスポートし、複数のブックで、または他のユーザーと共有します。
 -   **データの読み込み** クエリのデータをピボットテーブルまたはピボットグラフに直接読み込みます。データ モデルにデータを保存する必要はありません。
 -   **取得と変換の機能強化:** クエリ エディターで、サンプルの値を入力して、新しい列を作成します。入力すると、Excel で必要な変換が検出され、新しい列のプレビューが表示されます。
--   **Windows Information Protection (WIP) のサポート:**    Excel は現在、なりアプリであり、企業データと個人データを区別し、構成されたポリシーに基づいて保護する対象を適切に決定できます。  [詳細情報](https://aka.ms/wiptechnet)
+-   **Windows 情報保護 (WIP) のサポート:**   Excel はなりアプリで、企業データと個人データを区別し、構成されたポリシーに基づいて保護する対象を正確に判断することができます。  [詳細情報](https://aka.ms/wiptechnet)
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
 -   グループ化したワークシートで、結合と中央揃えが機能しない問題を修正します。
@@ -616,7 +616,7 @@ ms.locfileid: "42615006"
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新
 -   **ビデオのクローズド キャプション:** アクセシビリティを高めるため、ビデオにクローズド キャプションを追加します。 [詳細情報](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
 -   **デザイナーの機能強化:** デザイナーが、スライドに追加されたグラフのデザイン アイデアを提案するようになりました。
--   **Windows Information Protection (WIP) のサポート:**   これで、PowerPoint はなりアプリになり、企業データと個人データを区別し、構成されたポリシーに基づいて保護する対象を正確に判断することができます。  [詳細情報](https://aka.ms/wiptechnet)
+-   **Windows 情報保護 (WIP) のサポート:**   PowerPoint はなりアプリで、企業データと個人データを区別し、構成されたポリシーに基づいて保護する対象を正確に判断することができます。  [詳細情報](https://aka.ms/wiptechnet)
 
 ### <a name="project-non-security-updates"></a>Project: セキュリティ以外の更新プログラム
 -   Project Online で各エンタープライズ プロジェクト テンプレート (EPT) がプロジェクト サイトの独自の URL を持つようになり、[プロジェクト サイトの作成] ダイアログがサイトの正しい場所を示すように修正されます。
@@ -646,7 +646,7 @@ ms.locfileid: "42615006"
 ### <a name="word-feature-updates"></a>Word: 機能の更新
 -   **強化された [エディター] ウィンドウでの文書作成支援:** [エディター] ウィンドウは、高度なスペル チェック、文章校正、文章のスタイルの推奨に使用します。支援技術の高度なサポートにより、アクセスできるように作成されています。
 -   **代替テキストの作成:** クラウドベースのサービスによって、ドキュメントの画像に対して代替テキストが自動で生成されます。
--   **Windows Information Protection (WIP) のサポート:**    Word はなりアプリであり、企業データと個人データを区別し、構成されたポリシーに基づいて保護する対象を正確に判断することができます。  [詳細情報](https://aka.ms/wiptechnet)
+-   **Windows 情報保護 (WIP) のサポート:**   Word はなりアプリで、企業データと個人データを区別し、構成されたポリシーに基づいて保護する対象を正確に判断することができます。  [詳細情報](https://aka.ms/wiptechnet)
 
 ## <a name="version-1704-june-1"></a>バージョン 1704: 6 月1日
 *バージョン 1704 (ビルド 8067.2157)*
@@ -667,7 +667,7 @@ ms.locfileid: "42615006"
 -   **既定のピボットテーブルのレイアウトをカスタマイズする:** ピボットテーブルを好きなように設定し、新しいピボットテーブルを作成するときはいつもそのレイアウトで始めるようにします。 [詳細情報](https://support.office.com/article/efd8569c-f07a-43c1-9db2-4f2912a0f94e)
 -   **データ インポートの拡張機能:** さまざまなソースからデータを簡単にインポートし整形します。[クエリと接続] 作業ウィンドウでブックのクエリと接続を管理し、ODC ファイル経由でクエリを他のユーザーと共有します。 [詳細情報](https://support.office.com/article/ad78befd-eb1c-4ea7-a55d-79d1d67cf9b3)
 -   **機能強化の取得と変換:** ユーザーは、例に従って新しい列を作成したり、テーブル列を行に分割したりすることができます。SAP HANA へのパラメーターの指定とデータのグループ化がより簡単にできるようになりました。
--   **アドインの一元展開**: 管理者は、Office 365 の管理センターからユーザーまたはグループに対してアドインを展開し更新することができます。 [詳細情報](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
+-   **アドインの一元展開**: 管理者は、Office 365 の管理センターからユーザーまたはグループに対してアドインを展開し更新することができます。[詳細情報](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
 -   **クイック アクセス ツール バーのカスタマイズ** 下付き文字アイコンと上付き文字アイコンは、クイック アクセス ツールバーに追加できます。
 
 ### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
@@ -820,7 +820,7 @@ ms.locfileid: "42615006"
 ## <a name="version-1702-march-14"></a>バージョン 1702: 3 月14日
 *バージョン 1702 (ビルド 7870.2024)*
 
-### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
+### <a name="excel-security-updates"></a>Excel: セキュリティの更新
 -   マイクロソフト セキュリティ情報 [MS17-014](https://technet.microsoft.com/library/security/ms17-014): Microsoft Office のセキュリティ更新プログラム (3217868)
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: セキュリティ更新プログラム
@@ -866,7 +866,7 @@ ms.locfileid: "42615006"
 -   アドインをアップグレードした後、またはアドインを削除して Office ストアからもう一度ダウンロードした後、アドインのコマンド ボタンが機能しない問題を修正します。
 
 ### <a name="project-feature-updates"></a>Project: 機能の更新
--   **タスクサマリー名:**  タスクのサマリータスクの名前を表示する読み取り専用のタスクフィールドです。  
+-   **タスクサマリー名:**  タスクのサマリータスクの名前を示す読み取り専用のタスクフィールドです。  
 
 ### <a name="project-non-security-updates"></a>Project: セキュリティ以外の更新プログラム
 -   プロジェクトを保存すると基準計画の情報が失われる問題を修正します。
@@ -1043,7 +1043,7 @@ ms.locfileid: "42615006"
 -   Polycom CX100 デバイスを使用している場合に、発信でマイクが検出されないという問題を修正します。
 -   IM メッセージで \\\\サーバー名またはファイル:// などのリンクを選択すると、対象の場所が開くのではなくエラー メッセージが表示されるという問題を修正します。
 -   場所に基づいたルーティングを使用する仮想デスクトップ インフラストラクチャ (VDI) 環境で、サーバーがユーザーの場所では PSTN 通話を行えないと判断し、PSTN 通話の発信/受信を行えないという問題を修正します。
--   ユーザーの状態が「取り込み中」または「発表中」に設定されている場合に不在着信メッセージで送信される電子メールの件名行が、「不在着信した \<名前\> との会話」から「\<名前\> さんが Skype for Business でメッセージを送信しました」に変更されます。
+-   不在着信したメッセージに対して送信された電子メールの件名を変更します。ユーザーの状態が [応答不可] または [表示しない] に設定されている場合、"不在着信した会話は、 \<name\> \<Name\> Skype for business でメッセージを送信しました" ということです。
 -   全数調査データの一環としてデバイスに初めてサインインしたときのタイムスタンプの [キャプチャを開始します。](https://docs.microsoft.com/skypeforbusiness/legal-and-regulatory/data-collection-practices) サインインの信頼性の傾向を特定するのに役立ちます。
 
 ### <a name="visio-feature-updates"></a>Visio: 機能の更新
@@ -1065,7 +1065,7 @@ ms.locfileid: "42615006"
 ## <a name="version-1611-january-4"></a>バージョン 1611: 1 月4日
 *バージョン 1611 (ビルド 7571.2109)*
 
-注: 「Microsoft セキュリティ情報[MS17-002](https://technet.microsoft.com/library/security/ms17-002) 」に記載されているセキュリティ更新プログラムは、このチャネルリリースの Word のバージョンには適用されません。
+注: 「Microsoft セキュリティ情報 [MS17-002](https://technet.microsoft.com/library/security/ms17-002) 」に記載されているセキュリティ更新プログラムは、このチャネルリリースの Word のバージョンには適用されません。
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
 -   CSV または CSV UTF-8 として保存する際にテキストや二重引用符を含んだセルの値が正しくエクスポートされない問題を修正します。

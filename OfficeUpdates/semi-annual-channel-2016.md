@@ -1,8 +1,8 @@
 ---
 title: 2016での半期チャネルリリースのリリースノート
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 12/13/2016
 ms.audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: IT プロフェッショナルに、Office 365 ProPlus の半期チャネルリリースのリリースノートを2016で提供します。
-ms.openlocfilehash: b70dda115d271a4ec0779c4b99927275dae7969d
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: 749a68d693a3f962d547bc2f8cb257fba5e70370
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42615033"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48370145"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2016"></a>2016での半期チャネルリリースのリリースノート
 
@@ -29,7 +29,7 @@ ms.locfileid: "42615033"
 ## <a name="version-1605-december-13"></a>バージョン 1605:12 月13日
 *バージョン 1605 (ビルド 6965.2115)*
 
-### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
+### <a name="excel-security-updates"></a>Excel: セキュリティの更新
 -   マイクロソフト セキュリティ情報 [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Microsoft Office のセキュリティ更新プログラム (3204068)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: セキュリティ以外の更新プログラム
@@ -46,7 +46,7 @@ ms.locfileid: "42615033"
 
 *これは、2016年6月から使用可能になった遅延チャネルリリースです。引き続きサポートされ、2017年2月までセキュリティ更新プログラムを受信します。しかし、新しい遅延チャネルリリースが使用可能になりました—バージョン 1605 (ビルド 6965.2115) —新しい機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムが含まれます。*
 
-### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
+### <a name="excel-security-updates"></a>Excel: セキュリティの更新
 -   マイクロソフト セキュリティ情報 [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Microsoft Office のセキュリティ更新プログラム (3204068)
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
@@ -57,8 +57,8 @@ ms.locfileid: "42615033"
 ## <a name="version-1605-november-8"></a>バージョン 1605:11 月8日
 *バージョン 1605 (ビルド 6965.2105)*
 
-### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報[MS16 133](https://technet.microsoft.com/library/security/ms16-133): Microsoft Office (3199168) のセキュリティ更新プログラム
+### <a name="excel-security-updates"></a>Excel: セキュリティの更新
+-   マイクロソフト セキュリティ情報 [MS16-133](https://technet.microsoft.com/library/security/ms16-133): Microsoft Office のセキュリティ更新プログラム (3199168)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: セキュリティ以外の更新プログラム
 -   ユーザーが Exchange Online に移行した後、会話の履歴、連絡先、またはボイス メールの情報を取得するために Exchange に接続できない問題を修正します。
@@ -73,7 +73,7 @@ ms.locfileid: "42615033"
 
 *これは、2016年6月から使用可能になった遅延チャネルリリースです。引き続きサポートされ、2017年2月までセキュリティ更新プログラムを受信します。しかし、新しい遅延チャネルリリースが使用可能になりました—バージョン 1605 (ビルド 6965.2105) —新しい機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムが含まれます。*
 
-### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
+### <a name="excel-security-updates"></a>Excel: セキュリティの更新
 -   マイクロソフト セキュリティ情報 [MS16-133](https://technet.microsoft.com/library/security/ms16-133): Microsoft Office のセキュリティ更新プログラム (3199168)
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
@@ -255,7 +255,7 @@ ms.locfileid: "42615033"
 ## <a name="version-1602-september-13"></a>バージョン 1602: 9 月13日
 *バージョン 1602 (ビルド 6741.2071)*
 
-### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
+### <a name="excel-security-updates"></a>Excel: セキュリティの更新
 -   マイクロソフト セキュリティ情報 [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Microsoft Office のセキュリティ更新プログラム (3185852)
 
 ### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム
@@ -277,7 +277,7 @@ ms.locfileid: "42615033"
 
 *これは、2016年2月から使用可能になった遅延チャネルリリースです。引き続きサポートされ、2016年10月までセキュリティ更新プログラムを受信します。ただし、新しい遅延チャネルリリースが使用可能になりました—バージョン 1602 (ビルド 6741.2071) —新しい機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムが含まれます。*
 
-### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
+### <a name="excel-security-updates"></a>Excel: セキュリティの更新
 -   マイクロソフト セキュリティ情報 [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Microsoft Office のセキュリティ更新プログラム (3185852)
 
 ### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム
@@ -339,7 +339,7 @@ ms.locfileid: "42615033"
 ## <a name="version-1602-july-12"></a>バージョン 1602: 7 月12日
 *バージョン 1602 (ビルド 6741.2056)*
 
-### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
+### <a name="excel-security-updates"></a>Excel: セキュリティの更新
 -   マイクロソフト セキュリティ情報 [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Microsoft Office のセキュリティ更新プログラム (3170008)
 
 ### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム
@@ -355,7 +355,7 @@ ms.locfileid: "42615033"
 
 *これは、2016年2月から使用可能になった遅延チャネルリリースです。引き続きサポートされ、2016年10月までセキュリティ更新プログラムを受信します。ただし、新しい遅延チャネルリリースが使用可能になりました—バージョン 1602 (ビルド 6741.2056) —新しい機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムが含まれます。*
 
-### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
+### <a name="excel-security-updates"></a>Excel: セキュリティの更新
 -   マイクロソフト セキュリティ情報 [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Microsoft Office のセキュリティ更新プログラム (3170008)
 
 ### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム
@@ -465,7 +465,7 @@ ms.locfileid: "42615033"
 -   **変形の移行:** スライド間のシームレスな移行を生み出し、プレゼンテーションにモーションを表示して概念や情報をより効果的に伝えます。 [詳細情報](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **PowerPoint デザイナー:** ユーザーのコンテンツを取得し、さまざまなアイデアを自動的に生成できる新しいサービス。ユーザーはそこからアイデアを選択して、スライドの出来栄えをより良いものにできます。 [詳細情報](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-    このサービスには、インターネット接続が必要です。 この機能を無効にするには、[最新のグループポリシー管理用テンプレートファイルを使用](https://www.microsoft.com/download/details.aspx?id=49030)して、[PowerPoint Designer のオプション] の設定を有効にします。 このポリシー設定は、ユーザー構成\\管理用テンプレート\\Microsoft Office 2016\\ツール | オプション | 全般 | サービス オプション…\\PowerPoint デザイナーにあります。
+    このサービスには、インターネット接続が必要です。 この機能を無効にするには、 [最新のグループポリシー管理用テンプレートファイルを使用](https://www.microsoft.com/download/details.aspx?id=49030) して、[PowerPoint Designer のオプション] の設定を有効にします。 このポリシー設定は、ユーザー構成\\管理用テンプレート\\Microsoft Office 2016\\ツール | オプション | 全般 | サービス オプション…\\PowerPoint デザイナーにあります。
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: セキュリティ更新プログラム
 -   マイクロソフト セキュリティ情報 [MS15-116](https://technet.microsoft.com/library/security/ms15-116): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3104540)
@@ -674,7 +674,7 @@ ms.locfileid: "42615033"
 ## <a name="version-1509-april-12"></a>バージョン 1509: 4 月12日
 *バージョン 1509 (ビルド 6001.1073)*
 
-### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
+### <a name="excel-security-updates"></a>Excel: セキュリティの更新
 -   マイクロソフト セキュリティ情報 [MS16-042](https://technet.microsoft.com/library/security/ms16-042): Microsoft Office のセキュリティ更新プログラム (3148775)
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: セキュリティ更新プログラム

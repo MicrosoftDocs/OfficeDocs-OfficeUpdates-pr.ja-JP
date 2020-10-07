@@ -1,20 +1,20 @@
 ---
 title: 2019 年の毎月のチャネル リリースのリリース ノート
-ms.author: andrewmo
+ms.author: anankani
 author: anankani
-manager: andrewmo
+manager: anankani
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2019 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 1a4652ad9d7b3ec8150bc8e0b07cf65cdbfca864
-ms.sourcegitcommit: 2474d341cb1c1c2e0b43b5c324345d853e192c59
+ms.openlocfilehash: 88dca91031e19422e076e50674d0ada3968af135
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44565060"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48369935"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年の毎月のチャネル リリースのリリース ノート
 
@@ -22,12 +22,12 @@ ms.locfileid: "44565060"
 
  > [!NOTE]
 >- Microsoft では多くの場合、一定期間にわたって毎月、機能 (および場合によっては修正プログラム) を展開します。  ここで説明した内容がすぐに表示されない場合は、間もなく利用できるようになります。 [詳細情報](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
->- Microsoft Teams の Office 365 ProPlus の既存のインストールについて: 7月の上旬から、Office 365 ProPlus (および Office 365 Business) の更新に Microsoft Teams が含まれます。  Teams が追加される日付は、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/DeployOffice/teams-install)」を参照してください。
+>- Microsoft Teams の Office 365 ProPlus の既存のインストールについて: 7月の上旬から、Office 365 ProPlus (および Office 365 Business) の更新に Microsoft Teams が含まれます。  Teams が追加される日付は、使用している更新プログラム チャネルによって異なります。 追加情報については、「[Office 365 ProPlus と同時に Microsoft Teams を展開する](https://docs.microsoft.com/deployoffice/teams-install)」を参照してください。
 
 ## <a name="version-1911-december-10"></a>バージョン 1911: 12 月 10 日
 *バージョン 1911 (ビルド 12228.20364)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
@@ -120,7 +120,7 @@ ms.locfileid: "44565060"
 ## <a name="version-1910-november-12"></a>バージョン 1910: 11 月 12 日
 *バージョン 1910 (ビルド 12130.20344)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -180,7 +180,7 @@ ms.locfileid: "44565060"
 
 ### <a name="office-suite"></a>Office スイート
 
-- **Office 365 ProPlus の既存のインストールに Microsoft Teams をインストールする:** 6 月下旬から、Microsoft Teams は、これらのインストールの更新時に、Office 365 ProPlus (および Office 365 Business) の既存のインストールに含まれます。 Teams が追加される日にちは、使用している更新プログラム チャネルによって異なります。 追加情報については、「Office 365 ProPlus と同時に Microsoft Teams を展開する」を参照してください。 [詳細情報](https://docs.microsoft.com/DeployOffice/teams-install)
+- **Office 365 ProPlus の既存のインストールに Microsoft Teams をインストールする:** 6 月下旬から、Microsoft Teams は、これらのインストールの更新時に、Office 365 ProPlus (および Office 365 Business) の既存のインストールに含まれます。 Teams が追加される日にちは、使用している更新プログラム チャネルによって異なります。 追加情報については、「Office 365 ProPlus と同時に Microsoft Teams を展開する」を参照してください。 [詳細情報](https://docs.microsoft.com/deployoffice/teams-install)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
 
@@ -223,7 +223,7 @@ ms.locfileid: "44565060"
 ## <a name="version-1909-october-08"></a>バージョン 1909: 10 月 8 日
 *バージョン 1909 (ビルド 12026.20320)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
@@ -335,7 +335,7 @@ ms.locfileid: "44565060"
 ## <a name="version-1908-september-10"></a>バージョン 1908: 9 月 10 日
 *バージョン 1908 (ビルド 11929.20300)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
@@ -401,7 +401,7 @@ ms.locfileid: "44565060"
 ## <a name="version-1907-august-13"></a>バージョン 1907: 8 月 13 日
 *バージョン 1907 (ビルド 11901.20218)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
 
@@ -455,7 +455,7 @@ ms.locfileid: "44565060"
 ## <a name="version-1906-july-09"></a>バージョン 1906: 7 月 9 日
 *バージョン 1906 (ビルド 11727.20244)*
 
-セキュリティ更新プログラムの一覧は「[こちら](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)」
+セキュリティ更新プログラムの一覧は「[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)」
 
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
 
@@ -521,7 +521,7 @@ ms.locfileid: "44565060"
 
 ## <a name="version-1905-june-11"></a>バージョン 1905: 6 月 11 日
 *バージョン 1905 (ビルド 11629.20246)*
-<br/>[こちら](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)にセキュリティ更新プログラムが記載されています
+<br/>[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)にセキュリティ更新プログラムが記載されています
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
 
