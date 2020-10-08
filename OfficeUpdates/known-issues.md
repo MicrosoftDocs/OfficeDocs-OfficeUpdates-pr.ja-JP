@@ -1,6 +1,6 @@
 ---
 title: Office 365 ProPlus の既知の問題
-ms.author: andrewmo
+ms.author: anankani
 author: anankani
 manager: andrewmo
 ms.audience: ITPro
@@ -9,14 +9,14 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus の既知の問題に関する情報を提供します。
-ms.openlocfilehash: 45464d14ecfbf849929daba122b0a57bc74d05c5
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: eb771e0584a76f4ab4d506987a6b2379cc7087ee
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715435"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48369945"
 ---
-# <a name="office-365-proplus-known-issues"></a>Office 365 ProPlus の既知の問題
+# <a name="microsoft-365-apps-known-issues"></a>Microsoft 365 アプリの既知の問題
 
 この既知の問題には、2019 年の月次チャネル、半期チャネル (対象指定)、半期チャネルの更新プログラムに含まれるセキュリティ以外の更新プログラムに関する情報が記載されています。対象となるのは、Microsoft 365 Apps for enterprise、Microsoft 365 Apps for business、および Project と Visio のデスクトップ アプリのサブスクリプション版です。
 

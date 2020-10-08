@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 永続的なバージョンの Office 2016、Office 2013、Office 2010 の最新のセキュリティ以外の更新プログラム情報へのリンクを IT 技術者に提供します
-ms.openlocfilehash: 53d2533ecb240ad91b77662f3586804cf68f6cc9
-ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
+ms.openlocfilehash: fe1e5347280edc069ad769b543b3e259012dceab
+ms.sourcegitcommit: 3687214921cd454de794fe95f38a7bcc6782873a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48174526"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "48367794"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Windows インストーラー (MSI) を使用しているバージョンの Office の最新のセキュリティ以外の更新プログラム
 
@@ -25,6 +25,13 @@ ms.locfileid: "48174526"
 > - この記事の情報は、Microsoft 365 のアプリには適用されません。
 > - Office の更新プログラムをインストールする手順については、「[Office の更新プログラムをインストールする](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)」を参照してください。
 <br/><br/>
+
+## <a name="october-6-2020"></a>2020 年 10 月6日
+**Office 2016**<br/>
+Microsoft Office 2016 の更新プログラム ([KB4475584](https://support.microsoft.com/help/4475584))<br/>
+Microsoft Project 2016 の更新プログラム ([KB4484502](https://support.microsoft.com/help/4484502))<br/>
+Microsoft Visio 2016 の更新プログラム ([KB4484333](https://support.microsoft.com/help/4484333))<br/>
+Skype for Business 2016 の更新プログラム ([KB4486669](https://support.microsoft.com/help/4486669))<br/> 
 
 ## <a name="september-1-2020"></a>2020 年 9 月 1 日
 **Office 2016**<br/>
@@ -76,15 +83,6 @@ Microsoft Office 2016 の更新プログラム ([KB4484339](https://support.micr
 
 **Office 2013**<br/>
 Skype for Business 2015 の更新プログラム ([KB4484289](https://support.microsoft.com/help/4484289))<br/>
-
-## <a name="april-7-2020"></a>2020 年 4 月 7 日
-
-**Office 2016**<br/>
-Microsoft Office 2016 の更新プログラム ([KB4484101](https://support.microsoft.com/help/4484101))<br/>
-Microsoft Office 2016 の更新プログラム ([KB4484106](https://support.microsoft.com/help/4484106))<br/>
-Microsoft Office 2016 の更新プログラム ([KB4484248](https://support.microsoft.com/help/4484248))<br/>
-Microsoft OneNote 2016 の更新プログラム ([KB4475586](https://support.microsoft.com/help/4475586))<br/>
-Skype for Business 2016 の更新プログラム ([KB4484286](https://support.microsoft.com/help/4484286)) <br/>
 
 <br/>
 
