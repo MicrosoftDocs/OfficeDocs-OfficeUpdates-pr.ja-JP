@@ -1,9 +1,9 @@
 ### YamlMime:Landing
 title: Office 更新プログラム
-summary: Microsoft 365 アプリ、Office for Mac、Office Server 製品、および Office の永続バージョンを含む、Office 製品の機能、更新プログラムに関する情報を入手できます。
+summary: Microsoft 365 Apps、Office for Mac、Office Server 製品、永続版の Office を含む、Office 製品の機能、更新プログラムに関する情報を入手できます。
 metadata:
   title: Office 更新プログラム
-  description: Microsoft 365 アプリ、Office for Mac、Office Server 製品、および Office の永続バージョンを含む、Office 製品の機能、更新プログラムに関する情報を入手できます。
+  description: Microsoft 365 Apps、Office for Mac、Office Server 製品、永続版の Office を含む、Office 製品の機能、更新プログラムに関する情報を入手できます。
   ms.service: o365-proplus-itpro
   manager: andrewmo
   ms.audience: ITPro
@@ -12,14 +12,14 @@ metadata:
   author: TimDavenport
   ms.author: andrewmo
   ms.date: 06/18/2020
-  ms.openlocfilehash: c8b117874eca2923172290475e6ce7cad5894b1c
-  ms.sourcegitcommit: 75dd224cc25daf9e0dae2056ea7d53e7e7e790e3
-  ms.translationtype: MTPE
+  ms.openlocfilehash: 01f52a9d26307a582896969a567055f9107df572
+  ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+  ms.translationtype: HT
   ms.contentlocale: ja-JP
-  ms.lasthandoff: 06/23/2020
-  ms.locfileid: "44854579"
+  ms.lasthandoff: 10/07/2020
+  ms.locfileid: "48369965"
 landingContent:
-- title: Microsoft 365 アプリ
+- title: Microsoft 365 Apps
   linkLists:
   - linkListType: overview
     links:
@@ -51,11 +51,11 @@ landingContent:
       url: https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates
     - text: Project Server 更新プログラム
       url: project-server-updates.md
-    - text: SharePoint Server の更新プログラム
+    - text: SharePoint Server 更新プログラム
       url: sharepoint-updates.md
     - text: Skype for Business Server 更新プログラム
       url: https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates
-- title: Office (永続ライセンス)
+- title: Office (永続的ライセンス)
   linkLists:
   - linkListType: overview
     links:
@@ -63,9 +63,9 @@ landingContent:
       url: update-history-office-2019.md
     - text: Office 2010、2013、2016 の更新プログラム (MSI)
       url: office-updates-msi.md
-    - text: Office 2016 .msp ファイル
+    - text: Office 2016 の .msp ファイル
       url: msp-files-office-2016.md
-    - text: Office 2013 .msp ファイル
+    - text: Office 2013 の .msp ファイル
       url: msp-files-office-2013.md
 - title: その他の Office リソース
   linkLists:
@@ -75,7 +75,7 @@ landingContent:
       url: https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426
     - text: Microsoft 365 ロードマップ
       url: https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=O365
-    - text: Microsoft 365 の変更に関する最新情報
+    - text: 常に Microsoft 365 の最新情報を確認する
       url: https://support.office.com/article/719f4904-cbdd-4889-a0cf-fbd7837dfecd
     - text: Office ブログ
       url: https://www.microsoft.com/microsoft-365/blog/office/
@@ -85,7 +85,7 @@ landingContent:
     links:
     - text: Windows 10 のリリース情報
       url: https://www.microsoft.com/itpro/windows-10/release-information
-    - text: Microsoft ライフサイクルポリシー
+    - text: Microsoft のライフサイクル ポリシー
       url: https://support.microsoft.com/lifecycle
     - text: Microsoft セキュリティ更新ガイド
       url: https://portal.msrc.microsoft.com/
