@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに新機能、修正プログラム、または既知の問題の最新リストを提供します
-ms.openlocfilehash: 1bafe7aada2fc74fa57c2e5344deb6605db9cebe
-ms.sourcegitcommit: a543668818e709f17019d13f7e094c8cae33433a
+ms.openlocfilehash: e481bdbb11579efd8de903f1099038faf9a1c8e2
+ms.sourcegitcommit: 3e406a2082be4a9c922f3f7143b4ad3850a08181
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48368710"
+ms.lasthandoff: 10/08/2020
+ms.locfileid: "48382723"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 向けリリース ノートの最新チャネル (プレビュー)
 
@@ -27,6 +27,52 @@ ms.locfileid: "48368710"
 > - リリースノートの発行日は実際のビルドのリリース日と一致しない場合があります。
 
 [//]: # (削除しないでください)
+
+## <a name="version-2009-october-07"></a>バージョン 2009: 10 月 7 日
+*バージョン 2009 (ビルド 13231.20360)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="excel"></a>Excel
+
+- **Power Query を使用してデータ型を作成する: Power Query を使用してあらゆるデータ ソースから豊富なデータ型を作成します**
+
+### <a name="outlook"></a>Outlook
+
+- ** 文章校正が戻ってきました: ** Outlook は、文章校正のエラーが入力中に表示されるので、シングル クリックで候補を適用できます。 <br />[ブログの投稿](https://insider.office.com/ja-JP/blog/grammar-and-style-suggestions-available-in-outlook)の詳細情報をご覧ください
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- キャッシュされていない共有の予定表を検索するときに、結果が返されない問題に対処しました。
+
+
+- 一部のユーザーが、オフライン状態で Outlook が予期せず起動する原因となった問題に対処しました。
+
+
+- 別のメールボックスで共有フォルダーを開くと、断続的な障害が表示される原因となった問題に対処しました。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- セキュリティ修正プログラムを適用して、保護ビューで PowerPoint ファイルを開くと、 IRM による保護が無効になる問題に対処しました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- ユーザーが Office からインクジェット プリンターでドキュメントやファイルを印刷するとき、プリンターのインクが少なくなっている場合は、インクジェット プリンターのトナーはまだありますが、[トナー残量: 少] または [トナーなし] のメッセージが表示されます。 メッセージを変更して [トナー/インク残量: 少] と[トナー/インクなし] を表示します。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2009-september-26"></a>バージョン 2009: 9 月 26　日
 *バージョン 2009 (ビルド13231.20262)*
@@ -42,7 +88,6 @@ ms.locfileid: "48368710"
 ### <a name="project"></a>Project
 
 - イベント コードの実行中に、[タスク フォーム] ビューから変更を加えようとするときに、[OK] ボタンをクリックしても変更が反映されないという問題を修正しました。
-
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
