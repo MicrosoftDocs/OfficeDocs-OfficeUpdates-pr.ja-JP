@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の月次チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 0cc64d47a2e30409e6186e41a129ea6fb8512076
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+ms.openlocfilehash: c9d58f34f90b8fac9d765ebc0242c49c169e72ff
+ms.sourcegitcommit: 01f34ec0267eb63ffb29045cca4d0a4520256ad0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48370155"
+ms.lasthandoff: 10/09/2020
+ms.locfileid: "48398402"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020 年の最新のチャネル リリースのリリース ノート
 
@@ -32,6 +32,36 @@ ms.locfileid: "48370155"
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2009-october-08"></a>バージョン 2009: 10 月 8 日
+*バージョン 2009 (ビルド 13231.20368)*
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- キャッシュされていない共有の予定表を検索するときに、結果が返されない問題に対処しました。
+
+
+- 一部のユーザーが、オフライン状態で Outlook が予期せず起動する原因となった問題に対処しました。
+
+
+- 別のメールボックスで共有フォルダーを開くと、断続的な障害が表示される原因となった問題に対処しました。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- セキュリティ修正プログラムを適用して、保護ビューで PowerPoint ファイルを開くと、 IRM による保護が無効になる問題に対処しました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- ユーザーが Office からインクジェット プリンターでドキュメントやファイルを印刷するとき、プリンターのインクが少なくなっている場合は、インクジェット プリンターのトナーはまだありますが、[トナー残量: 少] または [トナーなし] のメッセージが表示されます。 メッセージを変更して [トナー/インク残量: 少] と [トナー/インクなし] を表示します。
 
 
 
@@ -1308,7 +1338,7 @@ ms.locfileid: "48370155"
 
 - **プレゼンテーションの最適化:** アクセシビリティ チェックを使用すると、スクリーン リーダーを考慮に入れて、スライド上のオブジェクトを配置することができます。
 
-- **簡単な GIF:** 1 つのスライド、1 つのフレーム。 PowerPoint でループ GIF を簡単に作成できます。 [詳細情報](https://support.office.com/en-us/article/a598753e-92de-4f1b-8393-714db4d334b4)
+- **簡単な GIF:** 1 つのスライド、1 つのフレーム。 PowerPoint でループ GIF を簡単に作成できます。 [詳細情報](https://support.office.com/ja-JP/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
 
@@ -1346,6 +1376,7 @@ ms.locfileid: "48370155"
 > Office の使用で問題がある場合は、[Microsoft の回答フォーラム](https://answers.microsoft.com/)に関するページまたは「[Microsoft Tech Community](https://techcommunity.microsoft.com/)」に質問を投稿するか、[サポート](https://support.microsoft.com/contactus)に問い合わせてサポートを受けることができます。
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|CC|Production| |16.0.13231.20368|version-2009-october-08|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20262|バージョン-2009-september-28|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20508|version-2008-september-22|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20408|version-2008-september-09|)
@@ -1355,5 +1386,4 @@ ms.locfileid: "48370155"
 [//]: # (|Win32|CC|Production| |16.0.13029.20308|バージョン-2007-7-30|)
 [//]: # (|Win32|CC|Production| |16.0.13001.20498|バージョン-2006-7-28|)
 [//]: # (|Win32|CC|Production| |16.0.13001.20384|バージョン-2006-7-14|)
-[//]: # (|Win32|CC|Production| |16.0.13001.20266|バージョン-2006-6-30|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)
