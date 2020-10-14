@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: クイック実行を使用する永続的なバージョンの Office 2010 の更新履歴を IT 技術者に提供します。
-ms.openlocfilehash: c95e38617f6a032d6b33b58b6b983bf33f75b6bd
-ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
+ms.openlocfilehash: 93ac645aaef5ab770d4ca07f0e4049c93354ead4
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48174696"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453405"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Office 2010 のクイック実行製品の更新履歴
 
@@ -33,7 +33,7 @@ ms.locfileid: "48174696"
 これらの製品のいずれかを使用しており、最新の状態になっていることを確認するには、Office のバージョン番号を確認し、必要に応じて手動で Office を更新します。
   
 > [!NOTE]
-> Office 2010 の最新バージョンは **14.0.7258.5000**で、2020年9月8日にリリースされました。
+> Office 2010 の最新バージョンは **14.0.7261.5000**です。2020年10月13日にリリースされました。
   
 Office のバージョンを確認するには、以下のことを行います。
   
@@ -57,7 +57,8 @@ Office のバージョンを確認するには、以下のことを行います�
   
 |**リリース年**|**リリース日**|**バージョン番号**|**詳細情報**|
 |:-----|:-----|:-----|:-----|
-|2020|9 月 8 日|14.0.7258.5000 <br/> |[KB 4576653](https://support.microsoft.com/help/4576653)<br/>|
+|2020|10 月 13 日|14.0.7261.5000 <br/>|[KB 4583495](https://support.microsoft.com/help/4583495)<br/>|
+||9 月 8 日|14.0.7258.5000 <br/> |[KB 4576653](https://support.microsoft.com/help/4576653)<br/>|
 || 8 月 11 日 <br/>|14.0.7257.5000 <br/>|[KB 4563408](https://support.microsoft.com/help/4563408) <br/>|
 ||7 月 14 日 <br/> |14.0.7254.5000 <br/> |[KB 4559453](https://support.microsoft.com/help/4559453) <br/>|
 ||6 月 9 日  <br/> |14.0.7252.5000  <br/> |[KB 4559448 ](https://support.microsoft.com/help/4559448 ) <br/> |
