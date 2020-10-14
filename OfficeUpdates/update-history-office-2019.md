@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: クイック実行 (C2R) を使用する永続的なバージョンの Office 2016 および 2019 の更新履歴を IT 技術者に提供します
-ms.openlocfilehash: c5e9ca77b340c5717b1d37e387e52b92ceb0056c
-ms.sourcegitcommit: 01f34ec0267eb63ffb29045cca4d0a4520256ad0
+ms.openlocfilehash: d808192979c1d29053e5782e7ce64d0f144a9de5
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2020
-ms.locfileid: "48398382"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453095"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R および Office 2019 の更新履歴
 
@@ -46,12 +46,12 @@ Microsoft は、Office 2016 のクイック実行 (C2R) バージョンおよび
 
 |**リリース日**|**バージョン番号**|**詳細情報**|
 |:-----|:-----|:-----|
+|2020 年 10 月 13 日|バージョン 1808 (ビルド 10367.20048)|[セキュリティの更新ページ](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)をご参照ください。  |
 |2020 年 9 月 8 日|バージョン 1808 (ビルド 10366.20016)|[セキュリティの更新ページ](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)をご参照ください。 |
 |2020 年 8 月 11 日|バージョン 1808 (ビルド 10364.20059)|[セキュリティの更新ページ](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)をご参照ください。 |
 |2020 年 7 月 14 日   |バージョン 1808 (ビルド 10363.20015)  |[CVE-2020-1342](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1342) <br/>[CVE-2020-1349](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1349) <br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1445) <br/>[CVE-2020-1446](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1446) <br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1447) <br/>[CVE-2020-1448](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1448) <br/>[CVE-2020-1449](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1449) <br/>|
 |2020 年 6 月 9 日   |バージョン 1808 (ビルド 10361.20002)  |[CVE-2020-1225](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1225) <br/> [CVE-2020-1226](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1226) <br/>[CVE-2020-1229](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1229) <br/>[CVE-2020-1321](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1321) <br/>[CVE-2020-1322](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-1322) <br/>|
 |2020 年 5 月 12 日   |バージョン 1808 (ビルド 10359.20023)  |[CVE-2020-0901](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0901) <br/> |
-|2020 年 4 月 14 日   |バージョン 1808 (ビルド 10358.20061)  |[CVE-2020-0760](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0760) <br/> [CVE-2020-0906](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0906) <br/> [CVE-2020-0961](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0961) <br/> [CVE-2020-0980](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0980) <br/>[CVE-2020-0991](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0991) <br/> |
 
 
 [//]: # (VL テーブルを削除しない 終了)
@@ -65,6 +65,7 @@ Microsoft は、Office 2016 のクイック実行 (C2R) バージョンおよび
 
 |**リリース日**|**バージョン番号**|**詳細情報**|
 |:-----|:-----|:-----|
+|2020 年 4 月 14 日   |バージョン 1808 (ビルド 10358.20061)  |[CVE-2020-0760](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0760) <br/> [CVE-2020-0906](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0906) <br/> [CVE-2020-0961](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0961) <br/> [CVE-2020-0980](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0980) <br/>[CVE-2020-0991](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0991) <br/> |
 |2020 年 3 月 10 日   |バージョン 1808 (ビルド 10357.20081)  |[CVE-2020-0850](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0850) <br/> [CVE-2020-0852](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0852) <br/> [CVE-2020-0892](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0892) <br/>  |
 |2020 年 2 月 11 日   |バージョン 1808 (ビルド 10356.20006)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0759) <br/>  |
 
@@ -84,12 +85,12 @@ Microsoft は、Office 2016 のクイック実行 (C2R) バージョンおよび
 
 |**リリース日**|**バージョン番号**|**詳細情報**|
 |:-----|:-----|:-----|
+|2020 年 10 月 13 日|バージョン 2009 (ビルド 13231.20390)|[セキュリティの更新ページ](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)をご参照ください。  |
 |2020 年 10 月 8 日|バージョン 2009 (ビルド 13231.20368)| |
 |2020 年 9 月 28日|バージョン 2009 (ビルド 13231.20262)| |
 |2020 年 9 月 22 日|バージョン 2008 (ビルド 13127.20508)| |
 |2020 年 9 月 09 日|バージョン 2008 (ビルド13127.20408)|[セキュリティの更新ページ](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)をご参照ください。 |
 |2020 年 8 月 31 日|バージョン 2008 (ビルド 13127.20296)| |
-|2020 年 8 月 25 日|バージョン 2007 (ビルド 13029.20460)| |
 
 
 [//]: # (リテール テーブルを削除しない 終了)
@@ -103,6 +104,7 @@ Microsoft は、Office 2016 のクイック実行 (C2R) バージョンおよび
 
 |**リリース日**|**バージョン番号**|**詳細情報**|
 |:-----|:-----|:-----|
+|2020 年 8 月 25 日|バージョン 2007 (ビルド 13029.20460)| |
 |2020 年 8 月 11 日|バージョン 2007 (ビルド 13029.20344)|[セキュリティの更新ページ](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)をご参照ください。 |
 |2020 年 7 月 30 日|バージョン 2007 (ビルド 13029.20308)  |さまざまなバグとパフォーマンスの修正。  <br/>  |
 |2020 年 7 月 28 日|バージョン 2006 (ビルド 13001.20498)  |さまざまなバグとパフォーマンスの修正。  <br/>  |
