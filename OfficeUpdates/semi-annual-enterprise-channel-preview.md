@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の半期チャネル リリース (対象指定) のリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 224c64a8f12489edd5050be683e477a05369f8c9
-ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
+ms.openlocfilehash: 1d67f64f2d0821addfdffbe4ac5b51895bf1e48f
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "47942864"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453395"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>2020 年の半期エンタープライズ チャネル (プレビュー) リリースのリリース ノート
 
@@ -23,6 +23,79 @@ ms.locfileid: "47942864"
 > [!IMPORTANT]
 > 現在、Microsoft 365 Apps の更新プログラム チャネルに、新しい更新プログラム チャネル (月次エンタープライズ チャネル) の追加や既存の更新プログラム チャネル名の変更など、いくつかの変更を進めています。 詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2127441)を参照してください。
 
+
+## <a name="version-2008-october-13"></a>バージョン 2008: 10 月 13 日
+*バージョン 2008 (Build 13127.20638)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- ' 前 ' と ' 後 ' のフィルター条件が逆転する バグをPivotDateFilter Api で修正しました。
+
+
+- Analysis Services データベースに既に存在しない値に設定されているために、ユーザーがピボットテーブル フィルターを変更できない問題が修正されました。
+
+
+- シートの一番上の行を固定した後にクイック分析を使用すると Excel がクラッシュする問題を修正しました。
+
+
+- IFNA () を使用する数式が含まれている場合、破損したワークブックに関する警告を発する可能性がある問題を修正しました。
+
+
+### <a name="outlook"></a>Outlook
+
+- 隅にある [X] をクリックして共有の予定表を閉じることができない問題に対処します。
+
+
+- [共有予定表の機能を有効にする] 設定が既存の共有予定表に適用されないことがある問題に対処します。
+
+
+- クラウドの添付ファイルを開くときに、開こうとしていたドキュメントの代わりに、安全なリンクの ページにエラーが表示される原因となった問題に対処します。
+
+
+- 添付ファイルのアップロードのパフォーマンスの問題に対処します。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- この変更により、[エクスポート] ボタンをクリックしてもエクスポートされないという [アニメーション GIF にエクスポート] 機能の問題に対処します。
+
+
+- セキュリティ修正プログラムを適用して、保護ビューで PowerPoint ファイルを開くと、 IRM による保護が無効になる問題に対処します。
+
+
+### <a name="word"></a>Word
+
+- サイズが非常に大きい特定のメールを開くとクラッシュが発生する問題が修正されます。
+
+
+- ドキュメントを開くときに、ユーザーがクラッシュする可能性がある問題が修正されました。
+
+
+- Word を起動するときにクラッシュの原因となっている可能性のあった問題を解決しました。
+
+
+- スタイル ギャラリー ダイアログの問題を修正しました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- Office からインクジェット プリンターでドキュメントやファイルを印刷するとき、プリンターのインク残量が少ない場合、インクジェット プリンターではトナーは使用されないにもかかわらず、[トナー残量: 少] または [トナーなし] と表示されます。 このメッセージが [トナー/インク残量: 少] と [トナー/インクなし] に変更されます。
+
+
+- GIF/アニメーション model3D を使用したアイドル時の高い CPU 使用率を修正
+
+
+- この変更は、 d2d1.dll の読み込みに失敗したために、Office アプリを起動したときにクラッシュする場合があった問題に対処します。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2008-september-08"></a>バージョン 2008: 9 月 08 日
 *バージョン 2008(ビルド13127.20408)*
@@ -65,7 +138,7 @@ ms.locfileid: "47942864"
 
 - **受信トレイを離れずに会議に参加する:** オンライン会議に参加するために、予定表に切り替える必要はありません。 [To Do] ウィンドウに固定された予定表を使用して、ワンクリックで任意の会議に参加します。
 
-- **キャプティブ WiFi ネットワークの新しいエクスペリエンス**: サインインに Web ページを必要とする WiFi ネットワークに参加したことはありませんか ? Outlook はこれを検出し、接続を支援します。<br />[ブログの投稿](https://insider.office.com/en-us/blog/outlook-on-public-wi-fi-networks-just-got-easier)の詳細情報をご覧ください
+- **キャプティブ WiFi ネットワークの新しいエクスペリエンス**: サインインに Web ページを必要とする WiFi ネットワークに参加したことはありませんか ? Outlook はこれを検出し、接続を支援します。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/outlook-on-public-wi-fi-networks-just-got-easier)の詳細情報をご覧ください
 
 - **人物を検索するときにメールの候補を取得する:** [検索] ボックスに人の名前を入力すると、最も関連性の高いメール メッセージが検索候補に含まれます。 [詳細情報](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
@@ -1116,6 +1189,7 @@ ms.locfileid: "47942864"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|FRDC|Insiders| |16.0.13127.20638|version-2008-october-13|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20408|version-2008-september-08|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.12527.20988|version-2002-august-11|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.12527.20880|version-2002-july-14|)
