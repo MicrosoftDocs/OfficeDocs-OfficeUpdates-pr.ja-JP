@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の月次チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: c9d58f34f90b8fac9d765ebc0242c49c169e72ff
-ms.sourcegitcommit: 01f34ec0267eb63ffb29045cca4d0a4520256ad0
+ms.openlocfilehash: eecc9d0164fbec792cf944b6ee6e5cd361d53ef4
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2020
-ms.locfileid: "48398402"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453325"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020 年の最新のチャネル リリースのリリース ノート
 
@@ -37,6 +37,23 @@ ms.locfileid: "48398402"
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
+## <a name="version-2009-october-13"></a>バージョン2009: 10 月 13 日
+*バージョン2009 (ビルド 13231.20390)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="project"></a>Project
+
+- リソースの配分状況が特定の方法で指定されている場合に、Project がクラッシュすることがある問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
 ## <a name="version-2009-october-08"></a>バージョン 2009: 10 月 8 日
 *バージョン 2009 (ビルド 13231.20368)*
 
@@ -45,23 +62,23 @@ ms.locfileid: "48398402"
 ### <a name="resolved-issues"></a>解決済みの問題
 ### <a name="outlook"></a>Outlook
 
-- キャッシュされていない共有の予定表を検索するときに、結果が返されない問題に対処しました。
+- キャッシュされていない共有の予定表を検索するときに、結果が返されない問題に対処します。
 
 
-- 一部のユーザーが、オフライン状態で Outlook が予期せず起動する原因となった問題に対処しました。
+- 一部のユーザーの環境で、Outlook がオフラインの状態で予期せず起動する原因となった問題に対処します。
 
 
-- 別のメールボックスで共有フォルダーを開くと、断続的な障害が表示される原因となった問題に対処しました。
+- 代理人が別のメールボックスで共有フォルダーを開くと、断続的にエラーが表示される原因となった問題に対処します。
 
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- セキュリティ修正プログラムを適用して、保護ビューで PowerPoint ファイルを開くと、 IRM による保護が無効になる問題に対処しました。
+- セキュリティ修正プログラムを適用して、保護ビューで PowerPoint ファイルを開くと、 IRM による保護が無効になる問題に対処します。
 
 
 ### <a name="office-suite"></a>Office スイート
 
-- ユーザーが Office からインクジェット プリンターでドキュメントやファイルを印刷するとき、プリンターのインクが少なくなっている場合は、インクジェット プリンターのトナーはまだありますが、[トナー残量: 少] または [トナーなし] のメッセージが表示されます。 メッセージを変更して [トナー/インク残量: 少] と [トナー/インクなし] を表示します。
+- Office からインクジェット プリンターでドキュメントやファイルを印刷するとき、プリンターのインク残量が少ない場合、インクジェット プリンターではトナーは使用されないにもかかわらず、[トナー残量: 少] または [トナーなし] と表示されます。 このメッセージが [トナー/インク残量: 少] と [トナー/インクなし] に変更されます。
 
 
 
@@ -1376,6 +1393,7 @@ ms.locfileid: "48398402"
 > Office の使用で問題がある場合は、[Microsoft の回答フォーラム](https://answers.microsoft.com/)に関するページまたは「[Microsoft Tech Community](https://techcommunity.microsoft.com/)」に質問を投稿するか、[サポート](https://support.microsoft.com/contactus)に問い合わせてサポートを受けることができます。
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|CC|Production| |16.0.13231.20390|version-2009-october-13|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20368|version-2009-october-08|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20262|バージョン-2009-september-28|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20508|version-2008-september-22|)
@@ -1385,5 +1403,4 @@ ms.locfileid: "48398402"
 [//]: # (|Win32|CC|Production| |16.0.13029.20344|バージョン-2007-8-11|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20308|バージョン-2007-7-30|)
 [//]: # (|Win32|CC|Production| |16.0.13001.20498|バージョン-2006-7-28|)
-[//]: # (|Win32|CC|Production| |16.0.13001.20384|バージョン-2006-7-14|)
-[//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)
+[//]: # (管理センターのメタデータのコンテンツを変更しないでください。終了)

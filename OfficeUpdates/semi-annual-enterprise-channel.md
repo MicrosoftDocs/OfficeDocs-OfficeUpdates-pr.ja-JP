@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の半期チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 9e420ed8c7c6f5c329b3137f21b952f7a29af7e1
-ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
+ms.openlocfilehash: f7f3b39521132fb11226bc512f782e0adec5aba8
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "47942774"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453415"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>2020 年の半期エンタープライズ チャネル リリースのリリース ノート
 
@@ -28,7 +28,64 @@ ms.locfileid: "47942774"
 >- 半期エンタープライズ チャネルのユーザーが Office ポータルから Microsoft 365 Apps をダウンロードして Windows 10 にインストールすると、既定で OneNote 2016 が含まれるようになります。
 
 
-[//]: # (バグの詳細コンテンツ エンドを削除しないでください)
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2002-october-13"></a>バージョン 2002: 10 月 13 日
+*バージョン2002 (ビルド 12527.21236)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="access"></a>Access
+
+- Access データベースのガイドラインと要件を満たしている限り、Accessの 64-ビットバージョンで"クエリが複雑すぎます" や "システム超かエラー" が表示されなくなります。
+
+
+- クエリデザイナーの後にフィルター機能を使用すると、データベースがクラッシュしなくなります。 それについて確認してください。
+
+
+### <a name="excel"></a>Excel
+
+- Analysis Services データベースに既に存在しない値に設定されているために、ユーザーがピボットテーブル フィルターを変更できない問題が修正されました。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- テンプレートから作成された新しいプレゼンテーションは、効率的な共同編集をうまく行うことができない設定を継承する場合があります。 この修正プログラムでは、この場合は設定がクリアされるようになりました。
+
+
+### <a name="word"></a>Word
+
+- ページ区切りと列を含む文書を開くと、"Microsoft Word で許可されている最大ページ数を超えたか、またはドキュメントが破損している可能性があります" というエラーメッセージが表示されることがありましたが、この問題を解決しました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- Office からインクジェット プリンターでドキュメントやファイルを印刷するとき、プリンターのインク残量が少ない場合、インクジェット プリンターではトナーは使用されないにもかかわらず、[トナー残量: 少] または [トナーなし] と表示されます。 このメッセージが [トナー/インク残量: 少] と [トナー/インクなし] に変更されます。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-1908-october-13"></a>バージョン1908: 10 月 13 日
+*バージョン 1908 (ビルド 11929.20966)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="office-suite"></a>Office スイート
+
+- Office からインクジェット プリンターでドキュメントやファイルを印刷するとき、プリンターのインク残量が少ない場合、インクジェット プリンターではトナーは使用されないにもかかわらず、[トナー残量: 少] または [トナーなし] と表示されます。 このメッセージが [トナー/インク残量: 少] と [トナー/インクなし] に変更されます。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2002-september-08"></a>バージョン 2002: 9 月 08 日
 *バージョン2002 (ビルド12527.21104)*
@@ -819,7 +876,7 @@ ms.locfileid: "47942774"
 
 - ユーザーが OST と同期している共有予定表フォルダーに問題があり、これらのフォルダーを操作しようとするとアクセス許可エラーが発生する問題に対処しました。
 
-- Citrix 環境で 30 件を超える予定表を表示したときにクラッシュする原因になった問題に対処します。 以前のバージョンで文書化された個々の [KB については、こちらを参照してください](https://support.microsoft.com/en-us/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)
+- Citrix 環境で 30 件を超える予定表を表示したときにクラッシュする原因になった問題に対処します。 以前のバージョンで文書化された個々の [KB については、こちらを参照してください](https://support.microsoft.com/ja-JP/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)
 
 - SMIME アルゴリズムの選択に関する問題を修正します。
 
@@ -1698,6 +1755,7 @@ ms.locfileid: "47942774"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|DC|Production| |16.0.12527.21236|version-2002-october-13|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21104|version-2002-september-08|)
 [//]: # (|Win32|DC|Production| |16.0.12527.20988|version-2002-august-11|)
 [//]: # (|Win32|DC|Production| |16.0.12527.20880|バージョン-2002-7 月-14|)

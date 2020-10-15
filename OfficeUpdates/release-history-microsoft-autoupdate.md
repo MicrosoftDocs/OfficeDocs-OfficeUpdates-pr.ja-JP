@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT プロフェッショナルに、Microsoft AutoUpdate (MAU) のリリース履歴を提供します
-ms.openlocfilehash: 0be44aaa71134e942d74c12bf38a32cbe1801169
-ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
+ms.openlocfilehash: d6c578011aae3e4358801df483e6596bf00a30e3
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48174636"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453189"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) のリリース履歴
  
@@ -29,6 +29,27 @@ ms.locfileid: "48174636"
 > - Microsoft AutoUpdate は、Microsoft のさまざまな Mac 製品への更新プログラムを提供します。そのため、Office for Mac を実行していない場合でも、Microsoft AutoUpdate を更新する通知が表示される場合があります。
 
 リリース ノートを確認するには、「[リリース ノート](release-notes-office-for-mac.md)」を参照してください。<br/><br/>
+
+## <a name="october-2020-release"></a>2020 年 10 月リリース
+
+**リリース日:** 2020 年 10 月 13 日
+
+*Microsoft Auto Update 4.28*
+
+**バグの修正と強化された機能:**
+-   MAU UI: 概要ビューには、エラーが発生したときにユーザーの注意が必要なことが表示されます。
+-   MAU UI と更新アシスタントは、何の操作も行わない72時間後に自己終了します。
+-   MAU UI: Windows メニューが用意されています。
+
+**MAU の更新プログラムのリンク:**
+
+[Microsoft Auto Update 4.28 パッケージをダウンロードする](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 ハッシュ:**
+
+80171D842C59BA3B26A085DD3AB6E63E32102088078848C95AEBECF4C91B0438
+
+<br/><br/>
 
 ## <a name="september-2020-release"></a>2020 年 9 月リリース
 
@@ -166,7 +187,7 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 - SSD 搭載の MacOS マシンの場合、更新はより高速で行われ、更新プログラムの入手に伴うアプリのダウンタイムはごくわずかです。
 
 
-[CVE-2020-0984](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0984) をご覧ください。
+[CVE-2020-0984](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0984) をご覧ください。
 
 **MAU 更新プログラムのリンク:**
 
