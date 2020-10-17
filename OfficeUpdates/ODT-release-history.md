@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: IT プロフェッショナルに、Office 展開ツール (ODT) のリリース履歴を提供します
-ms.openlocfilehash: c01fbe403dacb0b474c37b7439eba5b616f8a08f
-ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
+ms.openlocfilehash: 4f65d41bfa18321a951fb18abcf919056bec7c5d
+ms.sourcegitcommit: 57e715a8a3c0565b902cb3e6ca45d18a26f8ec45
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48174646"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "48469996"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Office 展開ツールのリリース履歴
 
@@ -29,6 +29,12 @@ ODT により、Office インストール環境をより詳細に制御できる
 
 [Office 展開ツールのダウンロード](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
 
+## <a name="october-14-2020"></a>2020 年 10 月 14 日
+バージョン 16.0.13231.20368 (setup.exe バージョン 16.0.13231.20350)
+- チャネルが指定されていない場合は、すべての製品が既定で月次チャネルを使用します。
+- RemoveMSI の使用時に特定の Office 2007 製品が予期せずインストールをブロックすることがある問題が解決されます
+- 他の DLL’s を含むディレクトリから ODT を実行するときのセキュリティが強化されました
+- 信頼性と復元の向上
 
 ## <a name="june-9-2020"></a>2020 年 6 月 9 日
 

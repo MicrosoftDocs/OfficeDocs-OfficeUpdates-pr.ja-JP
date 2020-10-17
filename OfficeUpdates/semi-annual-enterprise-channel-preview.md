@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の半期チャネル リリース (対象指定) のリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 1d67f64f2d0821addfdffbe4ac5b51895bf1e48f
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 18637bac9ff51237a2afe97136febbd20cb46512
+ms.sourcegitcommit: f906906efeaa6b3d35d324a70303ed4c79771552
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453395"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "48466115"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>2020 年の半期エンタープライズ チャネル (プレビュー) リリースのリリース ノート
 
@@ -67,6 +67,12 @@ ms.locfileid: "48453395"
 
 
 - セキュリティ修正プログラムを適用して、保護ビューで PowerPoint ファイルを開くと、 IRM による保護が無効になる問題に対処します。
+
+- PowerPoint アプリでクラッシュの原因となったオブジェクトの動作設定の問題を修正しました。
+
+### <a name="visio"></a>Visio
+
+- テキストの配置でリアルタイムのプレビュー表示がクラッシュするという問題を修正しました。
 
 
 ### <a name="word"></a>Word
