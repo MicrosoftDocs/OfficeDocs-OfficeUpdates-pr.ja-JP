@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 0de6ff1bec677f614284253708171f321b973f17
-ms.sourcegitcommit: 38049d061041fd0c40ccd138d7eeea6767e5d262
+ms.openlocfilehash: 03110a28e621110ab9d2c0061018576fae1d7f03
+ms.sourcegitcommit: ea220b40f5d2f1ab4a20597c90ed317e5c309b1d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/09/2020
-ms.locfileid: "48409071"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48495914"
 ---
 # <a name="release-notes-for-beta-channel"></a>ベータ チャネルのリリース ノート
 
-この記事には、Windows デスクトップ向け Word、Excel、PowerPoint、Outlook、Access、Project のベータ チャネル ビルドのリリース ノートが含まれています。 Microsoft では、毎週、皆様にお知らせしたい魅力的な新機能、重要な修正プログラム、重大な問題に関する情報を提供しています。 多くの場合、機能 (場合によっては修正プログラムも) は、特定の期間にわたってベータ チャネルにロールアウトされます。 これにより、Microsoft では、より広範な対象ユーザーに機能をリリースする前に、作業がスムーズに行われていることを確認できます。 以下に示すものが表示されない場合でも、最終的には入手できますのでご安心ください。  
+This article contains release notes for Beta Channel builds of Word, Excel, PowerPoint, Outlook, Access, and Project for Windows desktop. Every week, we'll highlight interesting new features, important fixes, and any significant issues we want you to know about. Note that we often roll out features (and sometimes even fixes) to Beta Channel over a period of time. This allows us to ensure that things are working smoothly before releasing the feature to a wider audience. So, if you don't see something described below, don't worry you'll get it eventually.  
 
 > [!IMPORTANT]
-> 現在、Microsoft 365 Apps の更新プログラム チャネルに、新しい更新プログラム チャネル (月次エンタープライズ チャネル) の追加や既存の更新プログラム チャネル名の変更など、いくつかの変更を進めています。 詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2127441)を参照してください。
+> We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
 > [!NOTE]
 > - リリース ノートは毎週投稿され、場合により複数のビルドのコンパイルになります。
@@ -30,6 +30,56 @@ ms.locfileid: "48409071"
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2011-october-16"></a>バージョン 2011: 10 月 16 日
+*バージョン 2011 (ビルド 13408.20000)*
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="excel"></a>Excel
+
+- **SVG クリップボードのサポート:** Office からサードパーティのアプリに SVG コンテンツを貼り付けることができるようになりました。 [詳細情報](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+
+### <a name="outlook"></a>Outlook
+
+- **SVG クリップボードのサポート:** Office からサードパーティのアプリに SVG コンテンツを貼り付けることができるようになりました。 [詳細情報](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **SVG クリップボードのサポート:** Office からサードパーティのアプリに SVG コンテンツを貼り付けることができるようになりました。 [詳細情報](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+
+### <a name="word"></a>Word
+
+- **SVG クリップボードのサポート:** Office からサードパーティのアプリに SVG コンテンツを貼り付けることができるようになりました。 [詳細情報](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- ユーザーが基本認証で Microsoft 365 グループの予定表の予定を削除できない問題を修正しました。
+
+
+- ニックネーム キャッシュの読み込み中に Outlook の起動に失敗する問題を修正しました。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 画像の横のコンテンツ プレースホルダー アイコンにツールヒントが表示されない問題を修正しました。
+
+
+- pptsx ファイルで表示されるスライド ショーの保護されたビューで、IRM で保護されたドキュメントの画面キャプチャが許可される問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2011-october-09"></a>バージョン 2011: 10 月 09 日
 *バージョン 2011 (ビルド 13406.20000)*
@@ -1659,6 +1709,7 @@ ms.locfileid: "48409071"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13408.20000|version-2011-october-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13406.20000|version-2011-october-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13328.20000|version-2010-october-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13318.20000|version-2010-september-25|)
@@ -1668,5 +1719,4 @@ ms.locfileid: "48409071"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13219.20004|version-2009-august-28|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13212.20000|version-2009-august-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13205.20000|version-2009-august-14|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13130.20000|version-2009-august-07|)
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。終了)
