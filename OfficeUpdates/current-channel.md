@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の月次チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: eecc9d0164fbec792cf944b6ee6e5cd361d53ef4
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 34072956ee4dafc1ebe04f8d9761e1ee831dc88e
+ms.sourcegitcommit: 1fa0c0b581efdfd4225f535186cb12fbccc403a1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453325"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48657325"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020 年の最新のチャネル リリースのリリース ノート
 
 このリリース ノートには、2020 年の最新チャネルの更新プログラムに含まれる新機能と、セキュリティ以外の更新プログラムに関する情報が記載されています。対象となるのは、Microsoft 365 Apps for enterprise、Microsoft 365 Apps for business、および Project と Visio のデスクトップ アプリのサブスクリプション版です。
 
 > [!IMPORTANT]
-> 現在、Microsoft 365 Apps の更新プログラム チャネルに、新しい更新プログラム チャネル (月次エンタープライズ チャネル) の追加や既存の更新プログラム チャネル名の変更など、いくつかの変更を進めています。 詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2127441)を参照してください。
+> We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
  > [!NOTE]
 >
@@ -32,6 +32,31 @@ ms.locfileid: "48453325"
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2009-october-21"></a>バージョン 2009 : 10 月 21 日
+*バージョン 2009 (ビルド 13231.20418)*
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- ユーザーが代理人に編集者権限を付与できなくなる問題を修正しました。
+
+
+- ユーザーが検索結果を選択したときにアプリケーションが予期せず終了する問題を修正しました。
+
+
+- 返信または転送時に中国語メッセージのヘッダーが読み取れなくなる問題を修正しました。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- ユーザーが別のスライドをクリックして表示するまで、Forms コンテンツ アドインが挿入後にレンダリングされない問題を修正しました。
 
 
 
@@ -409,7 +434,7 @@ ms.locfileid: "48453325"
 
 - **秘密度ラベルの自動適用または推奨:** Office は、検出された機密コンテンツに基づいて機密ラベルを推奨または自動的に適用できます。
 
-- **Excel で Power BI のデータセットからピボットテーブルを作成する:** Power BI に保存されているデータセットに接続されている Excel のピボットテーブルを数回のクリックで作成できます。これにより、ピボットテーブルと Power BI の両方を最大限に活用できます。 セキュリティで保護された Power BI データセットからピボットテーブルを使って、データの計算、集計、分析を行います。 [詳細情報](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br />[ブログの投稿](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/) の詳細情報をご覧ください
+- **Excel で Power BI のデータセットからピボットテーブルを作成する:** Power BI に保存されているデータセットに接続されている Excel のピボットテーブルを数回のクリックで作成できます。 これにより、ピボットテーブルと Power BI の両方を最大限に活用できます。 セキュリティで保護された Power BI データセットからピボットテーブルを使って、データの計算、集計、分析を行います。 [詳細情報](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br />[ブログの投稿](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/) の詳細情報をご覧ください
 
 ### <a name="outlook"></a>Outlook
 
@@ -1184,7 +1209,7 @@ ms.locfileid: "48453325"
 ### <a name="feature-updates"></a>機能の更新プログラム
 ### <a name="excel"></a>Excel
 
-- **ブックの統計情報:** セル、数式、グラフ、テーブル...これらをお客様に代わってカウントします。
+- **ブックの統計情報:** セル、数式、グラフ、テーブル...これらをお客様に代わってカウントします。
 
 - **クエリ エディターでのデータ プロファイリング**: 列のデータを一目で分析し、エラーと空の値を識別し、配布ヒストグラムなどを確認します。
 
@@ -1393,6 +1418,7 @@ ms.locfileid: "48453325"
 > Office の使用で問題がある場合は、[Microsoft の回答フォーラム](https://answers.microsoft.com/)に関するページまたは「[Microsoft Tech Community](https://techcommunity.microsoft.com/)」に質問を投稿するか、[サポート](https://support.microsoft.com/contactus)に問い合わせてサポートを受けることができます。
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|CC|Production| |16.0.13231.20418|version-2009-october-21|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20390|version-2009-october-13|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20368|version-2009-october-08|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20262|バージョン-2009-september-28|)
@@ -1402,5 +1428,4 @@ ms.locfileid: "48453325"
 [//]: # (|Win32|CC|Production| |16.0.13029.20460|バージョン-2007-8-25|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20344|バージョン-2007-8-11|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20308|バージョン-2007-7-30|)
-[//]: # (|Win32|CC|Production| |16.0.13001.20498|バージョン-2006-7-28|)
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。終了)

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 各チャネルの Microsoft 365 アプリ用更新プログラムのダウンロード サイズの概算に関する情報を IT 技術者に提供します
-ms.openlocfilehash: 5f7e6ca7fc98e3b3e8620807c523893802ba69de
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 4d29effb3a70a844c0165f848cdc8aacbf922d50
+ms.sourcegitcommit: 1fa0c0b581efdfd4225f535186cb12fbccc403a1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453275"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48657295"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 アプリ用更新プログラムのダウンロード サイズ
 
@@ -26,8 +26,8 @@ ms.locfileid: "48453275"
 
 
 > [!IMPORTANT]
-> - 現在、Microsoft 365 Apps の更新プログラム チャネルに、新しい更新プログラム チャネル (月次エンタープライズ チャネル) の追加や既存の更新プログラム チャネル名の変更など、いくつかの変更を進めています。 詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2127441)を参照してください。
-> - バージョン 2004 以降の Office 365 ProPlus は Microsoft 365 Apps for enterprise に名前が変更されています。詳細については、 [こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2123420)を参照してください。Microsoft のドキュメントでは通常、Microsoft 365 アプリと呼んでいます。
+> - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> - バージョン 2004 以降の Office 365 ProPlus は Microsoft 365 Apps for enterprise に名前が変更されています。 詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2123420)を参照してください。 Microsoft のドキュメントでは通常、Microsoft 365 Apps として言及します。
 
 
 > [!NOTE]
@@ -35,6 +35,22 @@ ms.locfileid: "48453275"
 > - 過去 4 か月のリリースが記載されています。
 
 [//]: # (削除しないでください)
+
+## <a name="october-21-2020"></a>2020 年 10 月 21 日
+
+[//]: # (コンテンツを削除しないでください。開始 2020 年 10 月 21 日)
+
+### <a name="current-channel"></a>最新チャネル
+
+最新のリリースはバージョン2009 (ビルド 13231.20418) です。
+
+|**アップグレード前のリリース**|**リリース日**|**ダウンロード サイズの概算 (MB)**|
+|:-----|:-----|:-----|
+|バージョン 2009 (ビルド 13231.20390) <br/> |2020 年 10 月 13 日 <br/> |38<br/> |
+|バージョン 2009 (ビルド 13231.20368) <br/> |2020 年 10 月 8 日 <br/> |173<br/> |
+
+
+[//]: # (コンテンツを削除しないでください。終了 2020 年 10 月 21 日)
 
 ## <a name="october-13-2020"></a>2020 年 10 月 13 日
 
