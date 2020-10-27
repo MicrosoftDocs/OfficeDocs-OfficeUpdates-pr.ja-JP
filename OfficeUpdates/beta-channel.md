@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 03110a28e621110ab9d2c0061018576fae1d7f03
-ms.sourcegitcommit: ea220b40f5d2f1ab4a20597c90ed317e5c309b1d
+ms.openlocfilehash: e610cad6deafeb73ca08eaec454e85916f1c3d89
+ms.sourcegitcommit: 33f70d8bdd50099f33bef7143d909c5ab2dfe27e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48495914"
+ms.lasthandoff: 10/23/2020
+ms.locfileid: "48750576"
 ---
 # <a name="release-notes-for-beta-channel"></a>ベータ チャネルのリリース ノート
 
@@ -31,9 +31,52 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
+## <a name="version-2011-october-23"></a>バージョン 2011: 10 月 23 日
+*バージョン 2011 (ビルド 13415.20002)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="powerpoint"></a>PowerPoint
+
+- **プレゼンター コーチでプレゼンテーションのリハーサルを行う:** 話す速度、ピッチ、つなぎ語、機微な表現など、聴衆の関心を引きつけておくのに役立つ内容についてフィードバックを受けます。 [詳細情報](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="access"></a>Access
+
+- 同期済みの OneDrive フォルダーからクエリをエクスポートしようとしたときに、一部のユーザーに "システム リソースの超過" というエラーが表示される問題を修正しました。
+
+- フォーム ウィンドウ間で別のフォームに切り替える場合の「自動」切り替えの問題を修正しました。
+
+### <a name="outlook"></a>Outlook
+
+- 会議の場所からコピーした URL をブラウザーなどの別の場所に貼り付けると、URL の末尾にセミコロンが含まれる問題が修正されました。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- スライドショーを 2 台目のモニターに複製する場合、そのスライドショーが他のウィンドウの背面で非表示になる問題を修正しました。
+
+### <a name="project"></a>Project
+
+- リソースの配分状況が特定の方法で指定されている場合に、Project が予期せず終了することがある問題を修正しました。
+
+### <a name="word"></a>Word
+
+- Word 文書を開くと、エラー ダイアログが表示されることがある変更履歴の問題を修正しました。
+
+- 機密度ラベルに透かしが適用される場合がある印刷の問題を修正しました。
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
 ## <a name="version-2011-october-16"></a>バージョン 2011: 10 月 16 日
 *バージョン 2011 (ビルド 13408.20000)*
-
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
@@ -90,13 +133,13 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>機能の更新プログラム
 ### <a name="excel"></a>Excel
 
-- **クエリから Powe rPlatform データフローを作成する**: 新しい Powe rPlatform データフローの作成に使用できる Power Query テンプレートにクエリをエクスポートできるようになりました。
+- **クエリから Powe rPlatform データフローを作成する** : 新しい Powe rPlatform データフローの作成に使用できる Power Query テンプレートにクエリをエクスポートできるようになりました。
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **アニメーション GIF を範囲内でエクスポートする**: アニメーション GIF にエクスポートするときにスライドの範囲を選択します
+- **アニメーション GIF を範囲内でエクスポートする** : アニメーション GIF にエクスポートするときにスライドの範囲を選択します
 
-- **透過背景の GIF を作成する**: アニメーション GIF にエクスポートする場合、新しいオプションを使用して背景を透明にすることができます。
+- **透過背景の GIF を作成する** : アニメーション GIF にエクスポートする場合、新しいオプションを使用して背景を透明にすることができます。
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -905,7 +948,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 - **Excel での共同作業中の並べ替え/フィルター処理:** Excel ファイルの並べ替えとフィルター処理を他のユーザーと行うことができるようになりました。 この新機能により、文書を共同編集しているときに、他のユーザーの並べ替えやフィルター処理による影響を受けません。
 
-- **Excel で Power BI のデータセットからピボットテーブルを作成する:** Power BI に保存されているデータセットに接続されている Excel のピボットテーブルを数回のクリックで作成できます。これにより、ピボットテーブルと Power BI の両方を最大限に活用できます。 セキュリティで保護された Power BI データセットからピボットテーブルを使って、データの計算、集計、分析を行います。 [詳細情報](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
+- **Excel で Power BI のデータセットからピボットテーブルを作成する:** Power BI に保存されているデータセットに接続されている Excel のピボットテーブルを数回のクリックで作成できます。 これにより、ピボットテーブルと Power BI の両方を最大限に活用できます。 セキュリティで保護された Power BI データセットからピボットテーブルを使って、データの計算、集計、分析を行います。 [詳細情報](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
 
 ### <a name="outlook"></a>Outlook
 
@@ -955,13 +998,13 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 
-## <a name="version2006may29"></a>バージョン 2006: 5 月 29 日
+## <a name="version-2006-may-29"></a>バージョン 2006: 5 月 29 日
 *バージョン 2006 (ビルド 12920.20000)*
 
-### <a name="featureupdates"></a>機能の更新プログラム
+### <a name="feature-updates"></a>機能の更新プログラム
 ### <a name="outlook"></a>Outlook
 
-- **Outlook トースト通知に追加されたその他のボタン:** Windows 10 で Outlook を実行しているときに Outlook トースト通知にクイック アクション ボタンが表示されるようになりました。
+- **Outlook トースト通知に追加されたその他のボタン:** Outlook for Windows 10で Outlook を実行しているときに Outlook トースト通知にクイック アクション ボタンが表示されるようになりました。
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -973,7 +1016,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolvedissues"></a>解決済みの問題
+### <a name="resolved-issues"></a>解決済みの問題
 
 ### <a name="excel"></a>Excel
 
@@ -993,7 +1036,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 - ポリシー Word 2007 以降のバイナリ文書とテンプレートを有効にすると、一部の共同編集で失敗することがある問題を修正しました。
 - 長いパス名 (32K を超える) のファイルが開かず、適切なエラー メッセージが表示されない問題を修正しました。
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 
 ## <a name="version-2006-may-22"></a>バージョン 2006: 5 月 22 日
@@ -1067,7 +1110,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **クリッカーは不要: イヤホンでカバー: ** Surface Earbuds を使用して、PowerPoint プレゼンテーションを制御します。 重要: ジェスチャーを使用してプレゼンテーションを制御するには、Windows 10 の Surface Audio アプリで Surface Earbuds をペアリングする必要があります。 Windows 10 で Surface Audio アプリを使い始める方法については、こちらをご覧ください。 [詳細情報](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
+- **クリッカーは不要: イヤホンでカバー:** Surface Earbuds を使用して、PowerPoint プレゼンテーションを制御します。 重要: ジェスチャーを使用してプレゼンテーションを制御するには、Windows 10 の Surface Audio アプリで Surface Earbuds をペアリングする必要があります。 Windows 10 で Surface Audio アプリを使い始める方法については、こちらをご覧ください。 [詳細情報](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
 
 ### <a name="word"></a>Word
 
@@ -1451,13 +1494,13 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>機能の更新プログラム
 
 ### <a name="excel"></a>Excel
-- **秘密度ラベル**: カスタム アクセス許可を求められるように組織で構成された秘密度ラベルを適用できるようになりました。 [詳細情報](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **秘密度ラベル** : カスタム アクセス許可を求められるように組織で構成された秘密度ラベルを適用できるようになりました。 [詳細情報](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="powerpoint"></a>PowerPoint
-- **秘密度ラベル**: カスタム アクセス許可を求められるように組織で構成された秘密度ラベルを適用できるようになりました。 [詳細情報](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **秘密度ラベル** : カスタム アクセス許可を求められるように組織で構成された秘密度ラベルを適用できるようになりました。 [詳細情報](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="word"></a>Word
-- **秘密度ラベル**: カスタム アクセス許可を求められるように組織で構成された秘密度ラベルを適用できるようになりました。 [詳細情報](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **秘密度ラベル** : カスタム アクセス許可を求められるように組織で構成された秘密度ラベルを適用できるようになりました。 [詳細情報](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
 
@@ -1533,7 +1576,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **インクを図形に変換する作図エクスペリエンスの向上: **より良い図を描いて変換し、Office オブジェクトを操作できるようにします。[詳細情報](https://support.office.com/article/f304ef73-9514-450b-9bb9-28c6057020f2)
+- **インクを図形に変換する作図エクスペリエンスの向上:** より良い図を描いて変換し、Office オブジェクトを操作できるようにします。 [詳細情報](https://support.office.com/article/f304ef73-9514-450b-9bb9-28c6057020f2)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
 
@@ -1611,11 +1654,11 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>機能の更新プログラム
 ### <a name="outlook"></a>Outlook
 
-- **キャプティブ WiFi ネットワークの新しいエクスペリエンス**: サインインに Web ページを必要とする WiFi ネットワークに参加したことはありませんか ? Outlook はこれを検出し、接続を支援します。
+- **キャプティブ WiFi ネットワークの新しいエクスペリエンス** : サインインに Web ページを必要とする WiFi ネットワークに参加したことはありませんか ? Outlook はこれを検出し、接続を支援します。
 
 ### <a name="word"></a>Word
 
-- **描画ツールボックスでインク エディターを見つける**: [描画] を選択し、[インク エディター] ペンを選択して、指またはデジタル ペンでドキュメントを編集します。 [詳細情報](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
+- **描画ツールボックスでインク エディターを見つける** : [描画] を選択し、[インク エディター] ペンを選択して、指またはデジタル ペンでドキュメントを編集します。 [詳細情報](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
 
 ### <a name="office-suite"></a>Office スイート
 
@@ -1709,6 +1752,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13408.20000|version-2011-october-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13406.20000|version-2011-october-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13328.20000|version-2010-october-02|)
@@ -1718,5 +1762,4 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (|Win32|DevMain|Insiders| |16.0.13301.20004|version-2010-september-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13219.20004|version-2009-august-28|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13212.20000|version-2009-august-21|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13205.20000|version-2009-august-14|)
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。終了)
