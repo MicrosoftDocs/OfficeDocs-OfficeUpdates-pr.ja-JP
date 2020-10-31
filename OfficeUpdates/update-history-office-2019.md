@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: クイック実行 (C2R) を使用する永続的なバージョンの Office 2016 および 2019 の更新履歴を IT 技術者に提供します
-ms.openlocfilehash: b4564f0ee33fe1f1625e2410855330f07fb391bd
-ms.sourcegitcommit: 1fa0c0b581efdfd4225f535186cb12fbccc403a1
+ms.openlocfilehash: ba996da9bf21f307388eec47801e18ee10567c58
+ms.sourcegitcommit: 16da127be61d3ac4db852de244516a36e3f5e129
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48657305"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48782282"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R および Office 2019 の更新履歴
 
@@ -24,7 +24,7 @@ Microsoft は、Office 2016 のクイック実行 (C2R) バージョンおよび
 
   1.    Word や Excel など、任意の Office アプリケーションを開きます。
   2.    **[ファイル]、[アカウント]** の順に選択します。
-  3.    **[製品情報]** で、**[バージョン情報]** セクションの下にあるバージョン番号をメモします。
+  3.    **[製品情報]** で、 **[バージョン情報]** セクションの下にあるバージョン番号をメモします。
 
 バージョン番号が最新バージョンと一致していれば、最新の状態です。一致しない場合は、最新バージョンの Office に手動で更新できます。Office を更新するには、[こちらの手順に従います](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)。
 
@@ -85,12 +85,12 @@ Microsoft は、Office 2016 のクイック実行 (C2R) バージョンおよび
 
 |**リリース日**|**バージョン番号**|**詳細情報**|
 |:-----|:-----|:-----|
+|2020 年 10 月 27 日|バージョン 2010 (ビルド 13328.20292)| |
 |2020 年 10 月 21 日|バージョン 2009 (ビルド 13231.20418)| |
 |2020 年 10 月 13 日|バージョン 2009 (ビルド 13231.20390)|[セキュリティの更新ページ](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)をご参照ください。  |
 |2020 年 10 月 8 日|バージョン 2009 (ビルド 13231.20368)| |
 |2020 年 9 月 28日|バージョン 2009 (ビルド 13231.20262)| |
 |2020 年 9 月 22 日|バージョン 2008 (ビルド 13127.20508)| |
-|2020 年 9 月 09 日|バージョン 2008 (ビルド13127.20408)|[セキュリティの更新ページ](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)をご参照ください。 |
 
 
 [//]: # (リテール テーブルを削除しない 終了)
@@ -104,6 +104,7 @@ Microsoft は、Office 2016 のクイック実行 (C2R) バージョンおよび
 
 |**リリース日**|**バージョン番号**|**詳細情報**|
 |:-----|:-----|:-----|
+|2020 年 9 月 09 日|バージョン 2008 (ビルド13127.20408)|[セキュリティの更新ページ](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)をご参照ください。 |
 |2020 年 8 月 31 日|バージョン 2008 (ビルド 13127.20296)| |
 |2020 年 8 月 25 日|バージョン 2007 (ビルド 13029.20460)| |
 |2020 年 8 月 11 日|バージョン 2007 (ビルド 13029.20344)|[セキュリティの更新ページ](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)をご参照ください。 |

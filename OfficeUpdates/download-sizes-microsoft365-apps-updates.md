@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 各チャネルの Microsoft 365 アプリ用更新プログラムのダウンロード サイズの概算に関する情報を IT 技術者に提供します
-ms.openlocfilehash: 4d29effb3a70a844c0165f848cdc8aacbf922d50
-ms.sourcegitcommit: 1fa0c0b581efdfd4225f535186cb12fbccc403a1
+ms.openlocfilehash: 1078760ca45011d1d690140f597f5a4f0752bd75
+ms.sourcegitcommit: 16da127be61d3ac4db852de244516a36e3f5e129
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48657295"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48782312"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 アプリ用更新プログラムのダウンロード サイズ
 
@@ -27,7 +27,7 @@ ms.locfileid: "48657295"
 
 > [!IMPORTANT]
 > - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - バージョン 2004 以降の Office 365 ProPlus は Microsoft 365 Apps for enterprise に名前が変更されています。 詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2123420)を参照してください。 Microsoft のドキュメントでは通常、Microsoft 365 Apps として言及します。
+> - Office 365 ProPlus は、バージョン 2004 以降、Microsoft 365 Apps for enterprise に名前が変更されています。詳細については、[この記事](https://go.microsoft.com/fwlink/p/?linkid=2123420)をお読みください。Microsoft のドキュメントでは通常、Microsoft 365 Apps として言及します。
 
 
 > [!NOTE]
@@ -35,6 +35,22 @@ ms.locfileid: "48657295"
 > - 過去 4 か月のリリースが記載されています。
 
 [//]: # (削除しないでください)
+
+## <a name="october-27-2020"></a>2020 年 10 月 27 日
+
+[//]: # (コンテンツを削除しないでください。開始 2020 年 10 月 27 日)
+
+### <a name="current-channel"></a>最新チャネル
+
+最新のリリースはバージョン2010 (ビルド 13328.20292) です。
+
+|**アップグレード前のリリース**|**リリース日**|**ダウンロード サイズの概算 (MB)**|
+|:-----|:-----|:-----|
+|バージョン 2009 (ビルド 13231.20418) <br/> |2020 年 10 月 21 日 <br/> |133<br/> |
+|バージョン 2009 (ビルド 13231.20390) <br/> |2020 年 10 月 13 日 <br/> |133<br/> |
+
+
+[//]: # (コンテンツを削除しないでください。終了 2020 年 10 月 27 日)
 
 ## <a name="october-21-2020"></a>2020 年 10 月 21 日
 
