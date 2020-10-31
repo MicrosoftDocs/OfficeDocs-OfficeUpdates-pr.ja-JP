@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: IT プロフェッショナルに、Office 展開ツール (ODT) のリリース履歴を提供します
-ms.openlocfilehash: 4f65d41bfa18321a951fb18abcf919056bec7c5d
-ms.sourcegitcommit: 57e715a8a3c0565b902cb3e6ca45d18a26f8ec45
+ms.openlocfilehash: f578849552bb4fda0198bad3651170923d0ceb35
+ms.sourcegitcommit: b19297da26ce6f740f3e2c94ea8a6c5d4e2aaa75
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "48469996"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "48806795"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Office 展開ツールのリリース履歴
 
@@ -23,16 +23,19 @@ Office 展開ツール (ODT) はコマンドライン ツールです。これ�
 
 ODT により、Office インストール環境をより詳細に制御できるようになります。 具体的には、インストールする製品や言語の種類、それらの製品の更新方法、インストール操作をユーザーに表示するかどうかを制御できます。 ODT の使用方法については、[Office 展開ツールの概要](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool)を参照してください。
 
- **サポートされているオペレーティング システム**: Windows 10、Windows 8.1、Windows Server 2019、Windows Server 2016 
+ **サポートされているオペレーティング システム** : Windows 10、Windows 8.1、Windows Server 2019、Windows Server 2016 
  
- **インストール方法**: 自己解凍実行ファイルをダウンロードして実行します。このファイルには、Office 展開ツールの実行可能ファイル (setup.exe) およびサンプル構成ファイル (configuration.xml) が含まれています。 
+ **インストール方法** : 自己解凍実行ファイルをダウンロードして実行します。このファイルには、Office 展開ツールの実行可能ファイル (setup.exe) およびサンプル構成ファイル (configuration.xml) が含まれています。 
 
 [Office 展開ツールのダウンロード](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+## <a name="october-29-2020"></a>2020 年 10 月 29 日
+バージョン 16.0.13328.20292 (setup.exe バージョン 16.0.13328.20290)
+- RemoveMSI の使用時に特定の Office 2007 製品が予期せずインストールをブロックすることがある問題が解決されます
 
 ## <a name="october-14-2020"></a>2020 年 10 月 14 日
 バージョン 16.0.13231.20368 (setup.exe バージョン 16.0.13231.20350)
 - チャネルが指定されていない場合は、すべての製品が既定で月次チャネルを使用します。
-- RemoveMSI の使用時に特定の Office 2007 製品が予期せずインストールをブロックすることがある問題が解決されます
 - 他の DLL’s を含むディレクトリから ODT を実行するときのセキュリティが強化されました
 - 信頼性と復元の向上
 
