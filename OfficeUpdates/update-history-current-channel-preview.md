@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Windows デスクトップ用の月次チャンネル 対象指定リリースの更新履歴を Insider の皆様に提供します。
-ms.openlocfilehash: 164f08c6b192be36396419c8e5c4b5412b0e8e7a
-ms.sourcegitcommit: d073ad1fa5007a3c01248e4cddc2d5a6e98e9811
+ms.openlocfilehash: 8856e1e2bf934bb51aba4c3614d62da3650ff4b1
+ms.sourcegitcommit: aff017c0f687d7501c877de09291079fecfc9362
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "48597770"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "48773609"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Windows 用 Office の最新チャネル (プレビュー) の更新履歴
 
@@ -23,13 +23,13 @@ Insider プログラムの詳細については、[こちら](https://insider.of
 
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Office の最新チャネル (プレビュー) バージョンとビルド
 
-以前は Insider スローと呼ばれていた最新チャネル (プレビュー) レベルに登録している場合、月に 1 回ほど Office の新機能の更新プログラムを入手できます。さらに、重要な修正プログラムまたはセキュリティ更新プログラムが含まれる後続のビルドも入手できます。 次のリストは、最近の最新チャネル (プレビュー) のバージョンとビルドを示しています。**最も新しくリリースされたビルドが最初に表示されています**。 新しいビルドには、以前のビルドに含まれているすべての更新が含まれています。
+以前は Insider スローと呼ばれていた最新チャネル (プレビュー) レベルに登録している場合、月に 1 回ほど Office の新機能の更新プログラムを入手できます。さらに、重要な修正プログラムまたはセキュリティ更新プログラムが含まれる後続のビルドも入手できます。 次のリストは、最近の最新チャネル (プレビュー) のバージョンとビルドを示しています。 **最も新しくリリースされたビルドが最初に表示されています** 。 新しいビルドには、以前のビルドに含まれているすべての更新が含まれています。
 リリース ノートを見つけるには、[参照](https://docs.microsoft.com/OfficeUpdates/current-channel-preview)してください。 また、「[Office Insider で利用できる新機能](https://insider.office.com/ja-JP/releasenotes/windows/slow)」も参照できます。
 
 
 > [!IMPORTANT]
 > - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - Office 365 ProPlus is being renamed to Microsoft 365 Apps for enterprise, starting with Version 2004. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2123420). In our documentation, we'll usually just refer to it as Microsoft 365 Apps.
+> - Office 365 ProPlus は、バージョン 2004 以降、Microsoft 365 Apps for enterprise に名前が変更されています。詳細については、[この記事](https://go.microsoft.com/fwlink/p/?linkid=2123420)をお読みください。Microsoft のドキュメントでは通常、Microsoft 365 Apps として言及します。
 
 > [!NOTE]
 > - こちらの更新履歴はリリースされたすべてのビルドを一覧表示します
@@ -38,13 +38,19 @@ Insider プログラムの詳細については、[こちら](https://insider.of
 
 [//]: # (削除しないでください)
 
+**2020 年 10 月 27 日**<br/>
+バージョン 2010 (ビルド 13328.20292)<br/>
+
+**2020 年 10 月 24 日**<br/>
+バージョン 2010 (ビルド 13328.20278)<br/>
+
 **2020 年 10 月 19 日**<br/>
 バージョン 2010 (ビルド 13328.20210)<br/>
 
 **2020 年 10 月 11 日**<br/>
 バージョン 2010 (ビルド13328.20154)<br/>
 
-** 2020 年 10 月 7 日**<br/>
+**2020 年 10 月 7 日**<br/>
 バージョン 2009 (ビルド 13231.20360)<br/>
 
 **2020 年 9 月 26 日**<br/>
@@ -91,7 +97,7 @@ Insider プログラムの詳細については、[こちら](https://insider.of
 **2020 年 7 月 20 日**<br/>
 バージョン 2007 (ビルド 13029.20236)<br/>
 
-** 2020 年 7 月 15 日 **<br/>
+**2020 年 7 月 15 日**<br/>
 バージョン 2007 (ビルド 13029.20200)<br/>
 
 **2020 年 7 月 9 日**<br/>
