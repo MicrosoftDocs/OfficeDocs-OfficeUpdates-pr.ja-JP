@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: e610cad6deafeb73ca08eaec454e85916f1c3d89
-ms.sourcegitcommit: 33f70d8bdd50099f33bef7143d909c5ab2dfe27e
+ms.openlocfilehash: 350eaf8320ae031ce8bc43ca188cc1e48b339092
+ms.sourcegitcommit: e79abb06d8096f75a23bb759ac4bb5491e071719
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/23/2020
-ms.locfileid: "48750576"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "48815603"
 ---
 # <a name="release-notes-for-beta-channel"></a>ベータ チャネルのリリース ノート
 
@@ -30,6 +30,93 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2011-october-30"></a>バージョン 2011: 10 月 30 日
+*バージョン 2011 (ビルド 13426.20004)*
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="excel"></a>Excel
+
+- **改善された条件付き書式ダイアログ** : 条件付き書式ダイアログのサイズが変更可能になり、シングルクリックでルールを複製できるようになりました。 [詳細情報](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="access"></a>Access
+
+- Office 以外のアプリケーションから DAO を使用すると、アプリケーションが予期せず終了する問題を修正しました。
+
+
+### <a name="excel"></a>Excel
+
+- Oracle データベースへの接続を使用する際の Power Pivot の問題を修正しました。
+
+
+- MTR 計算およびグループ ポリシー オブジェクトの更新 (リモート グループ ポリシーの更新など) のプロセスがトリガーされたときに Excel が予期せず終了する問題を修正しました。
+
+
+- この変更により、atomsvc ファイルを読み込もうとすると Excel でエラーが発生するバグが修正されます。
+
+
+- Excel ブック を Word 文書に挿入すると Word がハングアップするように見える問題を修正しました。
+
+
+### <a name="outlook"></a>Outlook
+
+- オプションがグレー表示され、メールボックスの所有者が自分のカレンダーの共有権限を管理できない問題を修正しました。
+
+
+- メールテンプレートを .OFT として保存すると、中国語の文字が疑問符に変わる問題を修正しました。
+
+
+- Outlook が制限付きのアクセス許可でメッセージを作成できない問題を修正しました。
+
+
+- 添付ファイルを追加または保存するときに Outlook が散発的に機能しなくなる問題に対処しました。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- デザインウィンドウを閉じるときにグリッド線がスライドからずれてしまう問題を修正しました。
+
+
+- 選択ウィンドウを開いた状態で画面の記録を停止した後、スライドのスクロールバーが自動的に調整を開始する問題を修正しました。
+
+
+### <a name="project"></a>Project
+
+- プロジェクトを PWA からローカル mpp ファイルに保存すると、ユーザーが実際に変更していないデータに対して ProjectBeforeTaskChangeEvent が発生する問題を修正しました。
+
+
+- リソースエンゲージメントが GUID ではなく名前でリソースを検索する問題を修正しました。同じ名前のリソースが複数ある場合に問題が発生していました。
+
+
+### <a name="word"></a>Word
+
+- コメントヒントをクリックしてもズームアウトしてコメントカードが表示されない問題を修正しました。
+
+
+- 列間の線がずれている場合があるレイアウトの問題を修正しました。
+
+
+- Excel ブック を Word 文書に挿入すると Word がハングアップするように見える問題を修正しました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- Office 2007 の "Microsoft アプリケーション エラー報告" 製品が存在する状態で RemoveMSI 機能を使用すると、Office 展開ツールで構成に失敗してしまうという問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツ エンドを削除しないでください。終了)
 
 ## <a name="version-2011-october-23"></a>バージョン 2011: 10 月 23 日
 *バージョン 2011 (ビルド 13415.20002)*
@@ -1752,6 +1839,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13408.20000|version-2011-october-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13406.20000|version-2011-october-09|)
@@ -1761,5 +1849,4 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (|Win32|DevMain|Insiders| |16.0.13304.20000|version-2010-september-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13301.20004|version-2010-september-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13219.20004|version-2009-august-28|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13212.20000|version-2009-august-21|)
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。終了)
