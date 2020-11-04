@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Windows デスクトップ用の月次チャンネル Insider ファースト リリースの更新履歴を Insider に提供します
-ms.openlocfilehash: b4867e5455923e7fde99fb3f81fe4f8810cf1b9f
-ms.sourcegitcommit: d467499b7c0725f8f998ce34bfe7f1286e37e683
+ms.openlocfilehash: 3220d75a6c2c248a9daed4982e99d037c5ae7322
+ms.sourcegitcommit: 0bc99107bfb04f1180b2cfb763cdc0f981f1b19a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48794388"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "48840446"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Office ベータ チャネルの更新履歴
 
@@ -31,12 +31,15 @@ Insider の皆様。最新の更新プログラムがインストールされて
 
 ## <a name="office-beta-channel-versions-and-builds"></a>Office ベータ チャネルのバージョンとビルド
 
-If you're enrolled in the Insider level you get frequent updates with new features and improvements. The following list shows a history of recent Beta Channel versions and builds, with **the most recently released build listed first** . New builds contain all the updates contained in previous builds.
+If you're enrolled in the Insider level you get frequent updates with new features and improvements. The following list shows a history of recent Beta Channel versions and builds, with **the most recently released build listed first**. New builds contain all the updates contained in previous builds.
 
 リリース ノートを確認するには、「[Windows デスクトップ版 Office のリリース ノート](https://docs.microsoft.com/OfficeUpdates/beta-channel)」を参照してください。
 
 
 [//]: # (削除しないでください)
+
+**2020 年 11 月 2 日**<br/>
+バージョン 2012 (ビルド 13430.20000)<br/>
 
 **2020 年 10 月 28 日**<br/>
 バージョン 2011 (ビルド 13426.20004)<br/>
