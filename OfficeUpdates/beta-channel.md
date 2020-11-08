@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 350eaf8320ae031ce8bc43ca188cc1e48b339092
-ms.sourcegitcommit: e79abb06d8096f75a23bb759ac4bb5491e071719
+ms.openlocfilehash: 3704121a210dc5e31cc63f98fe0ea763ee50e097
+ms.sourcegitcommit: 23b4900574769cc6848db009b4204c460621d909
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48815603"
+ms.lasthandoff: 11/06/2020
+ms.locfileid: "48939304"
 ---
 # <a name="release-notes-for-beta-channel"></a>ベータ チャネルのリリース ノート
 
@@ -30,6 +30,45 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2012-november-06"></a>バージョン 2012: 11 月 6 日
+*バージョン 2012 (ビルド 13430.20000)*
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="excel"></a>Excel
+
+- **複数のシートを同時に再表示する:** 一度に再表示できるのが、1枚のシートだけではなくなりました。一度に複数の非表示シートを表示します。 [詳細情報](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+
+### <a name="outlook"></a>Outlook
+
+- **同じ署名、すべてのデバイス:** 署名をクラウドに保存し ます。 一度作成して、Outlook を使用するすべての場所で使用します。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- 一部のリボン要素が簡体字中国語でローカライズされていないという問題が修正されました。
+
+
+- 更新時に Excel が予期せず終了する問題が修正されました。
+
+
+### <a name="outlook"></a>Outlook
+
+- Zip ファイルから開いたメッセージに添付ファイルを追加するときに問題が発生するという問題が修正されました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2011-october-30"></a>バージョン 2011: 10 月 30 日
 *バージョン 2011 (ビルド 13426.20004)*
@@ -1839,6 +1878,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13430.20000|version-2012-november-06|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13408.20000|version-2011-october-16|)
@@ -1848,5 +1888,4 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (|Win32|DevMain|Insiders| |16.0.13312.20006|version-2010-september-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13304.20000|version-2010-september-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13301.20004|version-2010-september-04|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13219.20004|version-2009-august-28|)
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。終了)
