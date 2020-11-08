@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに新機能、修正プログラム、または既知の問題の最新リストを提供します
-ms.openlocfilehash: a9af3ed5d8e04263855dcfa8b2ce4137c941f79d
-ms.sourcegitcommit: c6e102b60f4e412b1255dee700a27a80b5690c48
+ms.openlocfilehash: c04d875533233abd4996724e524f6ddc7cddb2cc
+ms.sourcegitcommit: 6da2dfccc63a75bf36d2660b770a62e61e8463be
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/05/2020
-ms.locfileid: "48919429"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "48944141"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 向けリリース ノートの最新チャネル (プレビュー)
 
@@ -27,6 +27,17 @@ ms.locfileid: "48919429"
 > - リリースノートの発行日は実際のビルドのリリース日と一致しない場合があります。
 
 [//]: # (削除しないでください)
+
+## <a name="version-2010-november-06"></a>バージョン 2010: 11 月 6 日
+*バージョン 2010 (ビルド 13328.20356)*
+* さまざまなバグとパフォーマンスの修正。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2010-november-04"></a>バージョン 2010: 11 月 4 日
 *バージョン 2010 (ビルド 13328.20340)*

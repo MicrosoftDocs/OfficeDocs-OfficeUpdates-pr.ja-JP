@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 2018 年 9 月以降にリリースされた Office 2016 for Mac のリリース ノートを IT プロフェッショナルに提供
-ms.openlocfilehash: eb42c013a007254e2ad0f3f8b35e9cdeac15bc65
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 91fc351da222e00c442e82c1de3284680db4f76c
+ms.sourcegitcommit: 6da2dfccc63a75bf36d2660b770a62e61e8463be
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453265"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "48944181"
 ---
 # <a name="update-history-for-office-2016-for-mac"></a>Office 2016 for Mac の更新履歴
 
 Office 2016 for Mac は、小売店やボリューム ライセンス契約を通じて 1 回限りの購入として利用可能な Office のバージョンです。2020 年 10 月 13 日までは、必要に応じて、セキュリティ更新プログラムおよびバグ修正プログラムでサポートされます。Office 2016 for Mac のサポートされている macOS の最小バージョンは 10.10 (Yosemite) です。
 
 > [!IMPORTANT]
-> - Office 2016 for Mac のサポートは、2020 年 10 月 13 日に終了します。 新しいバージョンへのアップグレードをまだ開始していない場合は、今すぐ開始することをお勧めします。 詳細については、[Office 2016 for Mac のサポート終了に関するお知らせ](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsupport.office.com%2Farticle%2Fe944a907-bbc8-4be5-918d-a514068d0056%3F&data=02%7C01%7Cv-lislo%40microsoft.com%7C6d81b3b1d6144587d18f08d7dfdff720%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637224025336277242&sdata=RkN3lJa%2BWIbzIk1PC08EhXOuI1RvYuyGYJfaVlYxU2U%3D&reserved=0)を参照してください。
+> - Office 2016 for Mac のサポートは、2020 年 10 月 13 日に終了しました。 新しいバージョンへのアップグレードをまだ開始していない場合は、今すぐ開始することをお勧めします。 詳細については、[Office 2016 for Mac のサポート終了に関するお知らせ](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsupport.office.com%2Farticle%2Fe944a907-bbc8-4be5-918d-a514068d0056%3F&data=02%7C01%7Cv-lislo%40microsoft.com%7C6d81b3b1d6144587d18f08d7dfdff720%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637224025336277242&sdata=RkN3lJa%2BWIbzIk1PC08EhXOuI1RvYuyGYJfaVlYxU2U%3D&reserved=0)を参照してください。
 
 > [!NOTE]
 > - セキュリティ上の理由から、Microsoft では SHA-1 は使用されなくなりました。[詳細情報](https://docs.microsoft.com/security-updates/SecurityAdvisories/2017/4010323)
@@ -29,7 +29,7 @@ Office 2016 for Mac は、小売店やボリューム ライセンス契約を�
 > - Office for Mac (Office 365 サブスクリプションに付属しているバージョン) のリリース情報については、Office for Mac の[リリース ノート](release-notes-office-for-mac.md)と[更新履歴](update-history-office-for-mac.md)をご覧ください。
 > - Office 2019 for Mac は、1 回限りの購入として利用可能な最新バージョンです。Office 2019 for Mac のリリース情報については、Office for Mac の[リリース ノート](release-notes-office-for-mac.md)と[更新履歴](update-history-office-for-mac.md)をご覧ください。
 
-Office 2016 for Mac の更新プログラムは、Microsoft AutoUpdate (MAU) で入手できます。Microsoft AutoUpdate を使用するには、Word などの Office アプリケーションを起動し、**[ヘルプ]** > **[更新プログラム]** を選択します。管理者で組織内のコンピューターを既存のソフトウェア展開ツールで更新する場合は、各アプリケーションの更新パッケージをダウンロードして展開することができます。
+Office 2016 for Mac の更新プログラムは、Microsoft AutoUpdate (MAU) で入手できます。Microsoft AutoUpdate を使用するには、Word などの Office アプリケーションを起動し、 **[ヘルプ]** > **[更新プログラム]** を選択します。管理者で組織内のコンピューターを既存のソフトウェア展開ツールで更新する場合は、各アプリケーションの更新パッケージをダウンロードして展開することができます。
 
 
 ## <a name="most-current-packages-for-office-2016-for-mac"></a>Office 2016 for Mac の最新パッケージ
@@ -218,7 +218,7 @@ Office 2016 for Mac の更新プログラムは、Microsoft AutoUpdate (MAU) で
 
 ## <a name="december-2019-release"></a>2019 年 12 月リリース
 
- **リリース日**: 2019 年 12 月 10 日 
+ **リリース日** : 2019 年 12 月 10 日 
   
  *バージョン 16.16.17 (ビルド 19120800)* 
   
@@ -417,7 +417,7 @@ Office 2016 for Mac の更新プログラムは、Microsoft AutoUpdate (MAU) で
 
 ## <a name="december-2018-release"></a>2018 年 12 月リリース
 
- **リリース日**: 2018 年 12 月 11 日 
+ **リリース日** : 2018 年 12 月 11 日 
   
  *バージョン 16.16.5 (ビルド 18120801)* 
   
