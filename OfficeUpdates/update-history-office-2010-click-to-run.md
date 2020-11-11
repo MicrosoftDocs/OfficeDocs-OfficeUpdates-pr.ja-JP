@@ -9,17 +9,17 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: クイック実行を使用する永続的なバージョンの Office 2010 の更新履歴を IT 技術者に提供します。
-ms.openlocfilehash: 93ac645aaef5ab770d4ca07f0e4049c93354ead4
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: b01719e43ad29de589bd9cf90c583cb11d7fb0bb
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453405"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48989936"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Office 2010 のクイック実行製品の更新履歴
 
 > [!IMPORTANT]
-> Office 2010 のサポートは、2020 年 10 月 13 日に終了します。 Office 2010 環境のアップグレードをまだ開始していない場合は、今すぐ開始することをお勧めします。 詳細については、[Office 2010 のサポート終了ロードマップ](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap)を参照してください。 
+> Office 2010 のサポートは、2020年10月13日に終了しました。 Office 2010 環境のアップグレードをまだ開始していない場合は、今すぐ開始することをお勧めします。 詳細については、[Office 2010 のサポート終了ロードマップ](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap)を参照してください。 
 
 
 次の Office 2010 製品は、クイック実行と呼ばれるテクノロジを使用して自動的に最新の状態に維持されます。
@@ -33,7 +33,7 @@ ms.locfileid: "48453405"
 これらの製品のいずれかを使用しており、最新の状態になっていることを確認するには、Office のバージョン番号を確認し、必要に応じて手動で Office を更新します。
   
 > [!NOTE]
-> Office 2010 の最新バージョンは **14.0.7261.5000**です。2020年10月13日にリリースされました。
+> Office 2010 の最新バージョンは **14.0.7261.5000** です。2020年10月13日にリリースされました。
   
 Office のバージョンを確認するには、以下のことを行います。
   
