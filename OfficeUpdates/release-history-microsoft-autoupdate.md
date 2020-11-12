@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT プロフェッショナルに、Microsoft AutoUpdate (MAU) のリリース履歴を提供します
-ms.openlocfilehash: d6c578011aae3e4358801df483e6596bf00a30e3
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 67a97d3d11dfea8db10f3d0cfbf45800dfd0b773
+ms.sourcegitcommit: 8365e449159add26608ff6b0188d05ab14ff0fef
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453189"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "48994966"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) のリリース履歴
  
@@ -29,6 +29,27 @@ ms.locfileid: "48453189"
 > - Microsoft AutoUpdate は、Microsoft のさまざまな Mac 製品への更新プログラムを提供します。そのため、Office for Mac を実行していない場合でも、Microsoft AutoUpdate を更新する通知が表示される場合があります。
 
 リリース ノートを確認するには、「[リリース ノート](release-notes-office-for-mac.md)」を参照してください。<br/><br/>
+
+
+## <a name="november-2020-release"></a>2020 年 11 月リリース
+
+**リリース日:** 2020 年 11月 10 日
+
+*Microsoft Auto Update 4.29*
+
+**バグの修正と強化された機能:**
+-   Microsoft 365 のチャネル名が更新されました。
+-   OneDrive の特定のインストールが更新プログラムを取得できなかった問題が修正されました。
+
+**MAU の更新プログラムのリンク:**
+
+[Microsoft Auto Update 4.29 パッケージをダウンロードする](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 ハッシュ:**
+
+7EDE97D524CE7E7869A4033D25270057E670588886F7A0E02628CC7FCB4F7851
+
+<br/><br/>
 
 ## <a name="october-2020-release"></a>2020 年 10 月リリース
 
@@ -259,7 +280,7 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 
 ## <a name="december-2019-release"></a>2019 年 12 月リリース
 
-**リリース日**: 2019 年 12 月 10 日
+**リリース日** : 2019 年 12 月 10 日
 
 *Microsoft Auto Update 4.18*
 

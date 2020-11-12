@@ -9,24 +9,24 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の月次チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: d47124846cd605174e6ca23e26cd0e61bb5cf779
-ms.sourcegitcommit: d03cdba884e24c4122db59bd06176ae5273d16e4
+ms.openlocfilehash: ddf6a8dc89f09b831bf162ecab4e853970843431
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/04/2020
-ms.locfileid: "48878921"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48989906"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020 年の最新のチャネル リリースのリリース ノート
 
 このリリース ノートには、2020 年の最新チャネルの更新プログラムに含まれる新機能と、セキュリティ以外の更新プログラムに関する情報が記載されています。対象となるのは、Microsoft 365 Apps for enterprise、Microsoft 365 Apps for business、および Project と Visio のデスクトップ アプリのサブスクリプション版です。
 
 > [!IMPORTANT]
-> We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> 新しい更新チャネル (月次エンタープライズチャネル) の追加や既存の更新チャネルの名前の変更など、Microsoft 365 アプリの更新チャネルにいくつかの変更を加えています。 詳細については、[この記事をお読みください](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
 
  > [!NOTE]
 >
->- Microsoft では多くの場合、現在の一定期間にわたって、機能 (および場合によっては修正プログラム) を展開します。  ここで説明した内容がすぐに表示されない場合は、間もなく利用できるようになります。 [詳細情報](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
->- Microsoft Teams の機能は、リリース頻度が高いため、最新のCurrent Channel とは異なる場合があります。
+>- 新しい更新チャネル (月次エンタープライズチャネル) の追加や既存の更新チャネルの名前の変更など、Microsoft 365 アプリの更新チャネルにいくつかの変更を加えています。 [詳細情報](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
+>- Microsoft Teams の機能は、リリースの頻度が高いため、リリースされた最新の Current Channel とは異なる場合があります。
 
 
 
@@ -35,7 +35,29 @@ ms.locfileid: "48878921"
 
 
 
-[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+[//]: # (BUGDETAILS コンテンツ エンドを削除しないでください。終了)
+
+## <a name="version-2010-november-10"></a>バージョン 2010: 11 月 10 日
+*バージョン 2010 (ビルド 13328.20356)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- ユーザーが代理人に編集者権限を付与できなくなる問題を修正しました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- 同期バックからサーバーのみに移行したファイルを保存しようとすると失敗する問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツ エンドを削除しないでください。終了)
 
 ## <a name="version-2010-october-27"></a>バージョン 2010: 10 月 27 日
 *バージョン 2010 (ビルド 13328.20292)*
@@ -132,7 +154,7 @@ ms.locfileid: "48878921"
 
 - Office からインクジェット プリンターでドキュメントやファイルを印刷するとき、プリンターのインク残量が少ない場合、インクジェット プリンターではトナーは使用されないにもかかわらず、[トナー残量: 少] または [トナーなし] と表示されます。 このメッセージが [トナー/インク残量: 少] と [トナー/インクなし] に変更されます。
 
-- Microsoft 365 エンドポイントのデータ損失防止を使用して Office Update に System Center Configuration Manager またはその他の管理ツールを利用する商用顧客の問題に対処しました。
+- Microsoft 365 エンドポイントのデータ損失防止が、ディスク上の Office ドキュメントを分類できない問題を修正しました。
 
 
 [//]: # (BUGDETAILS コンテンツ エンドを削除しないでください。終了)
@@ -1517,7 +1539,8 @@ ms.locfileid: "48878921"
 > [!NOTE]
 > Office の使用で問題がある場合は、[Microsoft の回答フォーラム](https://answers.microsoft.com/)に関するページまたは「[Microsoft Tech Community](https://techcommunity.microsoft.com/)」に質問を投稿するか、[サポート](https://support.microsoft.com/contactus)に問い合わせてサポートを受けることができます。
 
-[//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (管理センターのメタデータコンテンツの開始を変更しない)
+[//]: # (|Win32|CC|Production| |16.0.13328.20356|version-2010-november-10|)
 [//]: # (|Win32|CC|Production| |16.0.13328.20292|version-2010-october-27|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20418|version-2009-october-21|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20390|version-2009-october-13|)
@@ -1526,6 +1549,5 @@ ms.locfileid: "48878921"
 [//]: # (|Win32|CC|Production| |16.0.13127.20508|version-2008-september-22|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20408|version-2008-september-09|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20296|バージョン-2008-8-31|)
-[//]: # (|Win32|CC|Production| |16.0.13029.20460|バージョン-2007-8-25|)
-[//]: # (|Win32|CC|Production| |16.0.13029.20344|バージョン-2007-8-11|)
+[//]: # (|Win32|CC|Production| |16.0.13029.20460|version-2007-august-25|)
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。終了)
