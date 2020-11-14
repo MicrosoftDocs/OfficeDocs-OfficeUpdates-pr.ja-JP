@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Microsoft 365 Apps サブスクライバー向け Office for Mac のリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: ba500a25ed32a9a3c7a57401fbfdc7ba7b3f208d
-ms.sourcegitcommit: 6da2dfccc63a75bf36d2660b770a62e61e8463be
+ms.openlocfilehash: 9700bf78b5c49d5e5419a26cde1f2fd9d24d1bf3
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "48944166"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48990106"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac のリリース ノート
 
@@ -45,6 +45,34 @@ Microsoft 365 サブスクリプションに付属する Office for Mac は、�
 
 
 
+
+
+
+## <a name="november-10-2020"></a>2020年11 月 10 日
+*バージョン 16.43 (ビルド 20110804)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="powerpoint-mac"></a>PowerPoint Mac
+
+- **検索がさらに高速で簡単に:** 検索ボックスを使用してファイル内をすばやく検索できます。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+
+[//]: # (セキュリティの詳細コンテンツを削除しないでください。開始)
+
+
+### <a name="security-updates"></a>セキュリティ更新プログラム
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-17067](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-17067)
+
+[//]: # (セキュリティの詳細コンテンツを削除しないでください 終了)
 
 ## <a name="october-13-2020"></a>2020 年 10 月 13 日
 *バージョン 16.42 (ビルド 20101102)*
@@ -820,7 +848,7 @@ Microsoft 365 サブスクリプションに付属する Office for Mac は、�
 |Microsoft Auto Update 4.7 <br/>| インストール処理の一環として自動更新デーモンが追加されました。これにより、これまでユーザーに表示されていた、わかりにくいセキュリティ ダイアログ ボックスが廃止されます。 <br/><br/> Microsoft AutoUpdate のセキュリティ機能が強化され、SHA256 証明書がサポートされるようになりました。 <br/>|<br/> | [Microsoft AutoUpdate 更新パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
 
 > [!NOTE]
-> バージョン 16.21 以降、Microsoft Teams は * *_新規_* _インストールに関して既定でインストールされます。詳しくは、[Mac 上の Microsoft Teams のインストール](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac)をご覧ください。  
+> バージョン 16.21 以降、Microsoft Teams は * *_新規_* _インストールに関して既定でインストールされます。詳しくは、 [Mac 上の Microsoft Teams のインストール](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac)をご覧ください。  
 
 
 ## <a name="december-2018-release"></a>2018 年 12 月リリース
@@ -1066,7 +1094,7 @@ Microsoft 365 サブスクリプションに付属する Office for Mac は、�
 |:-----|:-----|:-----|
 |Word  <br/> |**他のユーザーとリアルタイムで編集:** ウィンドウの右上隅にあるサムネイルは、共有ドキュメントで他のどのユーザーが同時に作業しているかを示します。フラグ アイコンは、他のユーザーが作業している場所を示し、入力時の変更内容を表示できます。 [詳細を見る](https://support.office.com/article/7dd3040c-3f30-4fdd-bab0-8586492a1f1d#ID0EABAAA=Mac)  <br/><br/> **自動保存します。** クラウドに保存されているドキュメント、ワークシート、プレゼンテーションの変更が自動で保存され、他のユーザーの更新を数秒で確認できます。ロールバックする必要がありますか? バージョン履歴をチェックして、変更の一覧と旧バージョンへのアクセスを確認します。 [詳細を見る](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5.aspx#OfficeVersion=Mac) <br/> <br/> **サイトとグループにすばやくアクセスします:** 頻繁に使用するサイトやグループに保存されているプレゼンテーションを、[開く] メニューですばやく見つけることができます。  <br/> |[CVE-2018-0792](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0792): Microsoft Word のリモート コード実行の脆弱性  <br/>  <br/>[CVE-2018-0794](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0794): Microsoft Word のリモート コード実行の脆弱性 |
 |Excel  <br/> |**共同編集:** ブックで他のユーザーと同時に作業します。ウィンドウの右上隅にあるサムネイルは、他のどのユーザーが同時にファイルを表示または編集しているかを示します。 [詳細を見る](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104#ID0EAABAAA=Mac)  <br/><br/> **自動保存します。** クラウドに保存されているドキュメント、ワークシート、プレゼンテーションの変更が自動で保存され、他のユーザーの更新を数秒で確認できます。ロールバックする必要がありますか? バージョン履歴をチェックして、変更の一覧と旧バージョンへのアクセスを確認します。 [詳細を見る](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5.aspx#OfficeVersion=Mac)  <br/><br/> **その他のグラフ:** フィルター、サンバースト、ヒストグラムなどの新しいグラフを使用してデータをプロフェッショナルな視覚エフェクトに変換したり、新しいマップ グラフ タイプを使用して、手間をかけずに地理データをマップに変換したりできます。   <br/><br/> **その他の関数:** 新しい論理関数の [IFS 関数](https://support.office.com/article/36329a26-37b2-467c-972b-4a39bd951d45)と [SWITCH 関数](https://support.office.com/article/47ab33c0-28ce-4530-8a45-d532ec4aa25e)を使用して書く式を短縮します。   <br/><br/> **サイトとグループにすばやくアクセスします:** 頻繁に使用するサイトやグループに保存されているプレゼンテーションを、[開く] メニューですばやく見つけることができます。  <br/> <br/> **ピボットテーブル グラフのサポート:** ピボットテーブルでフィルターを変更すると、作成したグラフが自動的に調整され、必要なものが正確に表示されます。  <br/> <br/> **マルチスレッド計算** Excel では複数の処理スレッドを使用しているので、値が変更されたときに式がすばやく更新されます。 |
-|PowerPoint  <br/> |**他のユーザーとリアルタイムで編集:** ウィンドウの右上隅にあるサムネイルは、共有ドキュメントで他のどのユーザーが同時に作業しているかを示します。フラグ アイコンは、他のユーザーが作業している場所を示し、入力時の変更内容を表示できます。 [詳細を見る](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)  <br/><br/> **自動保存します。** クラウドに保存されているドキュメント、ワークシート、プレゼンテーションの変更が自動で保存され、他のユーザーの更新を数秒で確認できます。ロールバックする必要がありますか? バージョン履歴をチェックして、変更の一覧と旧バージョンへのアクセスを確認します。 [詳細を見る](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5.aspx#OfficeVersion=Mac) <br/> <br/> **変更内容を参照する:** 退席中に他のユーザーによって変更されているスライドが強調表示されます。 [詳細を見る](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d) <br/> <br/> **すばやくリサーチを開始:** ゼロから始めるのは困難です。QuickStarter は、評価の高いプレゼンテーションにするためのおすすめの話題とデザインで、選択したトピックのアウトラインを自動的に作成します。 [詳細を見る](https://support.office.com/article/4784f273-0b2c-456c-9c89-24e5b977c224.aspx) <br/> <br/> **メディアのトリミング:** オーディオまたはビデオ クリップの先頭または最後から不要なコンテンツを削除します。 [詳細を見る](https://support.office.com/article/1fc386f2-8404-43e8-9dbd-fee3a11a1d8f#Platform=Mac) <br/> <br/> **サイトとグループにすばやくアクセスします:** 頻繁に使用するサイトやグループに保存されているプレゼンテーションを、[開く] メニューですばやく見つけることができます。  <br/> <br/> **スライド ショーでレーザー ポインター:** マウスをレーザー ポインターとして使用して、スライドの特定の部分に注目させます。<br/><br/>**テキスト用蛍光ペン:** テキスト用蛍光ペンが Mac 版 に追加されました。 テキスト用蛍光ペンを使用して、テキストの重要な部分を強調してください。
+|PowerPoint  <br/> |**他のユーザーとリアルタイムで編集:** ウィンドウの右上隅にあるサムネイルは、共有ドキュメントで他のどのユーザーが同時に作業しているかを示します。フラグ アイコンは、他のユーザーが作業している場所を示し、入力時の変更内容を表示できます。 [詳細を見る](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)  <br/><br/> **自動保存します。** クラウドに保存されているドキュメント、ワークシート、プレゼンテーションの変更が自動で保存され、他のユーザーの更新を数秒で確認できます。ロールバックする必要がありますか? バージョン履歴をチェックして、変更の一覧と旧バージョンへのアクセスを確認します。 [詳細を見る](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5.aspx#OfficeVersion=Mac) <br/> <br/> **変更内容を参照する:** 退席中に他のユーザーによって変更されているスライドが強調表示されます。 [詳細を見る](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d) <br/> <br/> **すばやくリサーチを開始:** ゼロから始めるのは大変です。QuickStarter は、評価の高いプレゼンテーションにするためのおすすめの話題とデザインで、選択したトピックのアウトラインを自動的に作成します。 [詳細を見る](https://support.office.com/article/4784f273-0b2c-456c-9c89-24e5b977c224.aspx) <br/> <br/> **メディアのトリミング:** オーディオまたはビデオ クリップの先頭または最後から不要なコンテンツを削除します。 [詳細を見る](https://support.office.com/article/1fc386f2-8404-43e8-9dbd-fee3a11a1d8f#Platform=Mac) <br/> <br/> **サイトとグループにすばやくアクセスします:** 頻繁に使用するサイトやグループに保存されているプレゼンテーションを、[開く] メニューですばやく見つけることができます。  <br/> <br/> **スライド ショーでレーザー ポインター:** マウスをレーザー ポインターとして使用して、スライドの特定の部分に注目させます。<br/><br/>**テキスト用蛍光ペン:** テキスト用蛍光ペンが Mac 版 に追加されました。 テキスト用蛍光ペンを使用して、テキストの重要な部分を強調してください。
  |
 |Outlook  <br/> |**1 回のスワイプでアーカイブまたは削除する:** タッチパッド上で 2 本の指で左にスワイプしてメールをアーカイブするか、または右にスワイプして削除することで、受信トレイを整理する時間を節約します。  <br/> |[CVE-2018-0793](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0793): Microsoft Outlook のリモート コード実行の脆弱性 |
 

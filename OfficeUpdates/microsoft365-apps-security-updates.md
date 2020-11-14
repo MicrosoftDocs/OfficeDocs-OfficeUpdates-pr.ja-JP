@@ -9,28 +9,62 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft Officeセキュリティ更新プログラムのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: c9a4d3af52431016160bc8aa9e5f37200b90966d
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 47c4bc082265b63106f3293fbad1b830d012b504
+ms.sourcegitcommit: d898fa4f06c90444f9d729a1b0df2c82bde7d719
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453295"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "48992692"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Microsoft Office セキュリティ更新プログラムのリリース ノート
 
 このリリース ノートには、Microsoft Officeの更新プログラムに含まれているセキュリティ修正プログラムに関する情報が記載されています。
 
-この情報は、エンタープライズ用Microsoft 365 アプリ、ビジネス用Microsoft 365アプリ、Office 2016 リテール (C2R)およびOffice 2019に適用されます。
+この情報は、エンタープライズ用 Microsoft 365 アプリ、ビジネス用 Microsoft 365 アプリ、Office 2016 リテール (C2R) および Office 2019 に適用されます。
 
 
 > [!IMPORTANT]
-> - 現在、Microsoft 365 Apps の更新プログラム チャネルに、新しい更新プログラム チャネル (月次エンタープライズ チャネル) の追加や既存の更新プログラム チャネル名の変更など、いくつかの変更を進めています。 詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2127441)を参照してください。
-> - バージョン 2004 以降の Office 365 ProPlus は Microsoft 365 Apps for enterprise に名前が変更されています。詳細については、 [こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2123420)を参照してください。Microsoft のドキュメントでは通常、Microsoft 365 Apps として扱います。
+> - 新しい更新チャネル (月次エンタープライズチャネル) の追加や既存の更新チャネルの名前の変更など、Microsoft 365 アプリの更新チャネルにいくつかの変更を加えています。 詳細については、[この記事をお読みください](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
+> - Office 365 ProPlus は、バージョン 2004 以降、Microsoft 365 Apps for enterprise に名前が変更されています。詳細については、[この記事](https://go.microsoft.com/fwlink/p/?linkid=2123420)をお読みください。Microsoft のドキュメントでは通常、Microsoft 365 Apps として言及します。
 
 
  
 
 [//]: # (上の行は間隔を空けるために使用されているので、削除しないでください。)  
+
+## <a name="november-10-2020"></a>2020年11 月 10 日
+現在のチャネル: バージョン 2010 (ビルド 13328.20356)  
+月次エンタープライズ チャネル: バージョン 2009 (Build 13231.20514)  
+月次エンタープライズ チャネル: バージョン 2008 (Build 13127.20760)  
+半期エンタープライズ チャネル (プレビュー): バージョン 2008 (ビルド 13127.20760)  
+半期エンタープライズ チャネル： バージョン 2002 (ビルド 12527.21330)  
+半期エンタープライズ チャネル： バージョン 1908 (ビルド 11929.20974)  
+Windows 7 上の Microsoft 365 Apps: バージョン 2002 (ビルド 12527.21330)  
+Office 2019 製品版: バージョン 2010 (ビルド 13328.20356)  
+Office 2016 製品版: バージョン 2010 (ビルド 13328.20356)  
+Office 2019 ボリュームライセンス: バージョン 1808 (ビルド 10368.20035)  
+
+[//]: # (セキュリティの詳細コンテンツを削除しないでください。開始)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-17064](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-17064)
+-   [CVE-2020-17065](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-17065)
+-   [CVE-2020-17067](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-17067)
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-17020](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-17020)
+
+### <a name="office-suite"></a>Office スイート
+
+-   [CVE-2020-17062](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-17062)
+-   [CVE-2020-17063](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-17063)
+
+[//]: # (セキュリティの詳細コンテンツを削除しないでください 終了)
+
+
 
 ## <a name="october-13-2020"></a>2020 年 10 月 13 日
 最新チャネル: バージョン2009 (ビルド 13231.20390)  
