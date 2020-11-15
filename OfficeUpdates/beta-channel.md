@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 3704121a210dc5e31cc63f98fe0ea763ee50e097
-ms.sourcegitcommit: 23b4900574769cc6848db009b4204c460621d909
+ms.openlocfilehash: 36166e5e6ab4c814e56d5a5458747ba1c67964e7
+ms.sourcegitcommit: 9775ae224ef323ec5f92db13c85a8d0abf256f9c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/06/2020
-ms.locfileid: "48939304"
+ms.lasthandoff: 11/13/2020
+ms.locfileid: "49071536"
 ---
 # <a name="release-notes-for-beta-channel"></a>ベータ チャネルのリリース ノート
 
@@ -30,6 +30,47 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2012-november-13"></a>バージョン 2012: 11 月 13 日
+*バージョン 2012 (ビルド 13510.20004)*
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- OneDrive のローカル同期フォルダーからファイルを挿入する際に、「オブジェクトの挿入」コマンドにおいて正しいアイコンが表示されない問題を修正しました。
+
+
+### <a name="outlook"></a>Outlook
+
+- タスク進捗レポートの [宛先] フィールドが空白になってしまう問題を修正しました。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Slide.Shapes.AddMediaObject2 が従来のビデオ形式 (.MPG-1、Mpeg-2) でクラッシュする問題を修正しました。
+
+
+### <a name="project"></a>Project
+
+- 成果物が関連付けられていた SharePoint サイトが存在しなくなった場合に、成果物の依存関係を削除できない問題を修正しました。
+
+
+- 更新された情報が保存されているはずのプロジェクトをユーザーが開いた際に、更新された情報が見つからないという問題を修正しました。
+
+
+### <a name="word"></a>Word
+
+- ズーム中に写真がぼやけてしまう問題を修正しました。
+
+
+- 長いハイパーリンクが一部省略されてしまう問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツ エンドを削除しないでください。終了)
 
 ## <a name="version-2012-november-06"></a>バージョン 2012: 11 月 6 日
 *バージョン 2012 (ビルド 13430.20000)*
@@ -1878,6 +1919,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13510.20004|version-2012-november-13|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13430.20000|version-2012-november-06|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
@@ -1887,5 +1929,4 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (|Win32|DevMain|Insiders| |16.0.13318.20000|version-2010-september-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13312.20006|version-2010-september-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13304.20000|version-2010-september-11|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13301.20004|version-2010-september-04|)
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。終了)
