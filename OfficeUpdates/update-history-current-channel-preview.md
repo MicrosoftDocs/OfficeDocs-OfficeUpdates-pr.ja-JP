@@ -9,22 +9,20 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Windows デスクトップ用の月次チャンネル 対象指定リリースの更新履歴を Insider の皆様に提供します。
-ms.openlocfilehash: 499bf2eca1a90149c3fe1806e855be82058af2c5
-ms.sourcegitcommit: 82473b6efabedf74014a9a41c6c43ec53b0def88
+ms.openlocfilehash: c06c335656746e5eff7c05baa3966348a7ffba5e
+ms.sourcegitcommit: 4b5ee25e335d9585dfe5660faac747600c9e3e69
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48949976"
+ms.lasthandoff: 11/23/2020
+ms.locfileid: "49382657"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Windows 用 Office の最新チャネル (プレビュー) の更新履歴
 
-Insider の皆様へ。 最新の更新プログラムがインストールされているかどうかが不明な場合や、最新の最新チャネル (プレビュー) のビルドの一覧を確認したい場合は、このページをご覧ください。
-Insider プログラムの詳細については、[こちら](https://insider.office.com/)をクリックしてください。
+Hello, Insiders! If you're wondering whether you have the latest update installed or are looking for a list of recent Current Channel (Preview) builds, you're in the right place. Click [here](https://insider.office.com/) for more information on the Insiders Program.
 
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Office の最新チャネル (プレビュー) バージョンとビルド
 
-以前は Insider スローと呼ばれていた最新チャネル (プレビュー) レベルに登録している場合、月に 1 回ほど Office の新機能の更新プログラムを入手できます。さらに、重要な修正プログラムまたはセキュリティ更新プログラムが含まれる後続のビルドも入手できます。 次のリストは、最近の最新チャネル (プレビュー) のバージョンとビルドを示しています。 **最も新しくリリースされたビルドが最初に表示されています** 。 新しいビルドには、以前のビルドに含まれているすべての更新が含まれています。
-リリース ノートを見つけるには、[参照](https://docs.microsoft.com/OfficeUpdates/current-channel-preview)してください。 また、「[Office Insider で利用できる新機能](https://insider.office.com/ja-JP/releasenotes/windows/slow)」も参照できます。
+If you're enrolled in the Current Channel (Preview) level, which was formerly called Insider Slow, you get a new Office feature update approximately once a month, plus subsequent builds containing important fixes or security updates. The following list shows recent Current Channel (Preview) versions and builds, with **the most recently released build listed first**. New builds contain all the updates contained in previous builds. To find release notes, [see](https://docs.microsoft.com/OfficeUpdates/current-channel-preview). Also, you can see [What's new for Office Insiders](https://insider.office.com/en-us/releasenotes/windows/slow).
 
 
 > [!IMPORTANT]
@@ -37,6 +35,15 @@ Insider プログラムの詳細については、[こちら](https://insider.of
 
 
 [//]: # (削除しないでください)
+
+**2020 年 11 月 21日**<br/>
+バージョン 2011 (ビルド 13426.20274)<br/>
+
+**2020 年 11 月 18 日**<br/>
+バージョン 2011 (ビルド 13426.20250)<br/>
+
+**2020 年 11 月 16 日**<br/>
+バージョン 2011 (ビルド 13426.20234)<br/>
 
 **2020 年 11 月 9 日**<br/>
 バージョン 2011 (ビルド 13426.20184)<br/>
