@@ -9,16 +9,16 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに新機能、修正プログラム、または既知の問題の最新リストを提供します
-ms.openlocfilehash: 246f164b26d01b25894879cfb0625cf76829a2e0
-ms.sourcegitcommit: 82473b6efabedf74014a9a41c6c43ec53b0def88
+ms.openlocfilehash: 2702cc1098282aa53972a2b01beb8eb9545b04ff
+ms.sourcegitcommit: 4b5ee25e335d9585dfe5660faac747600c9e3e69
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48950006"
+ms.lasthandoff: 11/23/2020
+ms.locfileid: "49382637"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 向けリリース ノートの最新チャネル (プレビュー)
 
-この記事には、Windows デスクトップ向け Word、Excel、PowerPoint、Outlook、Access、Project の最新チャネル (対象指定) ビルドのリリース ノートが含まれています。 Microsoft では、毎週、皆様にお知らせしたい魅力的な新機能、重要な修正プログラム、重大な問題に関する情報を提供しています。 多くの場合、機能 (場合によっては修正プログラムも) は、特定の期間にわたって最新チャネル (プレビュー) に展開されることに注意してください。 これにより、Microsoft では、より広範な対象ユーザーに機能をリリースする前に、作業がスムーズに行われていることを確認できます。 したがって、下記のものが表示されない場合でも、心配する必要はなく、いずれは表示されます。  
+This article contains release notes for Current Channel (Preview) builds of Word, Excel, PowerPoint, Outlook, Access, and Project for Windows desktop. Every week, we’ll highlight interesting new features, important fixes, and any significant issues we want you to know about. Note that we often roll out features (and sometimes even fixes) to Current Channel (Preview) over a period of time. This allows us to ensure that things are working smoothly before releasing the feature to a wider audience. So, if you don’t see something described below, don't worry you'll get it eventually.  
 
 > [!IMPORTANT]
 > We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
@@ -28,6 +28,73 @@ ms.locfileid: "48950006"
 
 [//]: # (削除しないでください)
 
+## <a name="version-2011-november-21"></a>バージョン 2011: 11 月 21 日
+*バージョン 2011 (ビルド 13426.20274)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="powerpoint"></a>PowerPoint
+
+- **ビデオ ライブラリ:** は、アプリ内で利用可能な、質の良い無料のビデオ フッテージのライブラリを使用してドキュメントの質を高めます。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- MailItem.BeforeAttachmentAdd イベントの破損原因となった問題が修正されました。 
+
+
+- IDataObject 操作 (つまりクリップボードのドラッグやドロップ) で、ユーザーが添付ファイルに対して filetime の付加を無効にすることを許可できるように、レジストリキーを追加しました。 HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\添付ファイル。 REG_DWORD IncludeFileTimesInDataObject。 0 = filetimes は除外されます。 1 = (既定) filetimes が含まれています
+
+
+- Azure Information Protection の保護ラベルを使用してメッセージに返信すると、インライン画像が表示されなくなった問題が修正されました。
+
+
+
+[//]: # (BUGDETAILS コンテンツ を削除しないでください。終了)
+
+## <a name="version-2011-november-18"></a>バージョン 2011: 11 月 18 日
+*バージョン 2011 (ビルド 13426.20250)*
+* さまざまなバグとパフォーマンスの修正。
+
+## <a name="version-2011-november-16"></a>バージョン 2011: 11 月 16 日
+*バージョン 2011 (ビルド 13426.20234)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="outlook"></a>Outlook
+
+- **同じ署名、すべてのデバイス:** 署名をクラウドに保存し ます。 一度作成して、Outlook を使用するすべての場所で使用します。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- タスクに対する進捗レポートの送信時に、[宛先] フィールドが空白になる問題が修正されました。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Slide.Shapes.AddMediaObject2 が従来のビデオ形式 (.MPG-1、Mpeg-2) でクラッシュする VBA 問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツ を削除しないでください。終了)
+
 ## <a name="version-2011-november-09"></a>バージョン 2011: 11 月 09 日
 *バージョン 2011 (ビルド 13426.20184)*
 
@@ -36,7 +103,7 @@ ms.locfileid: "48950006"
 ### <a name="feature-updates"></a>機能の更新プログラム
 ### <a name="excel"></a>Excel
 
-- **クエリから Powe rPlatform データフローを作成する** : 新しい Powe rPlatform データフローの作成に使用できる Power Query テンプレートにクエリをエクスポートできるようになりました。
+- **クエリから Powe rPlatform データフローを作成する**: 新しい Powe rPlatform データフローの作成に使用できる Power Query テンプレートにクエリをエクスポートできるようになりました。
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -207,11 +274,11 @@ ms.locfileid: "48950006"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **SVG クリップボードのサポート:** Office からサードパーティのアプリに SVG コンテンツを貼り付けることができるようになりました。 [詳細情報](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />[ブログ記事](https://insider.office.com/ja-JP/blog/svg-content-office-third-party-apps)の詳細情報をご覧ください
+- **SVG クリップボードのサポート:** Office からサードパーティのアプリに SVG コンテンツを貼り付けることができるようになりました。 [詳細情報](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />[ブログ記事](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)の詳細情報をご覧ください
 
-- **透過背景の GIF を作成する** : アニメーション GIF にエクスポートする場合、新しいオプションを使用して背景を透明にすることができます。<br />[ブログ記事](https://insider.office.com/ja-JP/blog/export-animated-gifs-transparent-backgrounds)の詳細情報をご覧ください
+- **透過背景の GIF を作成する**: アニメーション GIF にエクスポートする場合、新しいオプションを使用して背景を透明にすることができます。<br />[ブログ記事](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)の詳細情報をご覧ください
 
-- **アニメーション GIF を範囲内でエクスポートする** : アニメーション GIF にエクスポートするときにスライドの範囲を選択します
+- **アニメーション GIF を範囲内でエクスポートする**: アニメーション GIF にエクスポートするときにスライドの範囲を選択します
 
 ### <a name="word"></a>Word
 
@@ -303,7 +370,7 @@ ms.locfileid: "48950006"
 ### <a name="feature-updates"></a>機能の更新プログラム
 ### <a name="outlook"></a>Outlook
 
-- **メッセージの作成にかかる時間を節約:** Outlook は、メッセージをすばやく作成するのに役立つ提案を作成することを示します。 提案を受け入れるには、Tab キーを使用するだけです。<br />[ブログ記事](https://insider.office.com/ja-JP/blog/text-predictions-in-word-outlook)の詳細情報をご覧ください
+- **メッセージの作成にかかる時間を節約:** Outlook は、メッセージをすばやく作成するのに役立つ提案を作成することを示します。 提案を受け入れるには、Tab キーを使用するだけです。<br />[ブログ記事](https://insider.office.com/en-us/blog/text-predictions-in-word-outlook)の詳細情報をご覧ください
 
 - **組み込みの翻訳機能を使用して、言語の壁を取り除く:** 翻訳用のアドインは必要なくなりました。 メッセージを右クリックすると、特定の単語、語句、またはメッセージ全体を翻訳できます。 [詳細情報](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
 
@@ -509,7 +576,7 @@ ms.locfileid: "48950006"
 
 ### <a name="outlook"></a>Outlook
 
-- **文章校正による支援:** Outlook では、入力中に文章校正のエラーが表示されます。シングル クリックで候補を適用できます。 <br />[ブログの投稿](https://insider.office.com/ja-JP/blog/grammar-and-style-suggestions-available-in-outlook)の詳細情報をご覧ください
+- **文章校正による支援:** Outlook では、入力中に文章校正のエラーが表示されます。シングル クリックで候補を適用できます。 <br />[ブログの投稿](https://insider.office.com/en-us/blog/grammar-and-style-suggestions-available-in-outlook)の詳細情報をご覧ください
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -573,7 +640,7 @@ ms.locfileid: "48950006"
 
 ### <a name="excel"></a>Excel
 
-- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
+- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
 
 - **Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。 [ファイル] > [オプション] に移動し、[Office テーマ] の横の [システム設定を使用する] を選択します。 [詳細情報](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -585,13 +652,13 @@ ms.locfileid: "48950006"
 
 - **メッセージの所有者として会話を削除する:** この機能を使用すると、メッセージの所有者による会話を削除できます。
 
-- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
+- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
 
 - **Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。 [ファイル] > [オプション] に移動し、[Office テーマ] の横の [システム設定を使用する] を選択します。 [詳細情報](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
+- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
 
 - **Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。 [ファイル] > [オプション] に移動し、[Office テーマ] の横の [システム設定を使用する] を選択します。 [詳細情報](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -609,7 +676,7 @@ ms.locfileid: "48950006"
 
 ### <a name="word"></a>Word
 
-- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
+- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
 
 - **Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。 [ファイル] > [オプション] に移動し、[Office テーマ] の横の [システム設定を使用する] を選択します。 [詳細情報](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -1055,7 +1122,7 @@ ms.locfileid: "48950006"
 
 
 
-[//]: # (BUGDETAILS コンテンツ エンドを削除しないでください。終了)
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2007-august-05"></a>バージョン 2007: 8 月 5 日
 *バージョン 2007 (ビルド 13029.20344)*
@@ -1338,7 +1405,7 @@ ms.locfileid: "48950006"
 
 ### <a name="outlook"></a>Outlook
 
-- **クイック投票を使用して、Outlook で投票を作成:** 簡単に投票を作成し、票を収集して、メールに結果を表示します。 [詳細情報](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
+- **クイック投票を使用して、Outlook で投票を作成:** 簡単に投票を作成し、票を収集して、メールに結果を表示します。[詳細情報](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
 
 - **メールの一部として画像を送信するときに、画像を高品質に維持する:** メールの内容の一部として画像を送信するときに、画像の圧縮を制限するための新しい Outlook の設定を使用できます。
 
@@ -1421,15 +1488,15 @@ ms.locfileid: "48950006"
 
 
 
-- **ピン留めされたフォルダーに保存** : フォルダーをピン留めすると、Office ファイルの保存が簡単になります。新しいファイルを保存したときに利用できるフォルダーをもっと制御したいというユーザーのフィードバックをいただきました。 新しい機能が追加されました。 [保存] ダイアログ ボックスでフォルダーをピン留めできます。 この新しい機能により、Word、Excel、PowerPoint のファイルを簡単に保存できます。 <br />[ブログの投稿](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)の詳細情報をご覧ください
+- **ピン留めされたフォルダーに保存**: フォルダーをピン留めすると、Office ファイルの保存が簡単になります。新しいファイルを保存したときに利用できるフォルダーをもっと制御したいというユーザーのフィードバックをいただきました。 新しい機能が追加されました。 [保存] ダイアログ ボックスでフォルダーをピン留めできます。 この新しい機能により、Word、Excel、PowerPoint のファイルを簡単に保存できます。 <br />[ブログの投稿](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)の詳細情報をご覧ください
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **ピン留めされたフォルダーに保存** : フォルダーをピン留めすると、Office ファイルの保存が簡単になります。新しいファイルを保存したときに利用できるフォルダーをもっと制御したいというユーザーのフィードバックをいただきました。 新しい機能が追加されました。 [保存] ダイアログ ボックスでフォルダーをピン留めできます。 この新しい機能により、Word、Excel、PowerPoint のファイルを簡単に保存できます。<br />[ブログの投稿](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/) の詳細情報をご覧ください
+- **ピン留めされたフォルダーに保存**: フォルダーをピン留めすると、Office ファイルの保存が簡単になります。新しいファイルを保存したときに利用できるフォルダーをもっと制御したいというユーザーのフィードバックをいただきました。 新しい機能が追加されました。 [保存] ダイアログ ボックスでフォルダーをピン留めできます。 この新しい機能により、Word、Excel、PowerPoint のファイルを簡単に保存できます。<br />[ブログの投稿](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/) の詳細情報をご覧ください
 
 ### <a name="word"></a>Word
 
-- **ピン留めされたフォルダーに保存** : フォルダーをピン留めすると、Office ファイルの保存が簡単になります。新しいファイルを保存したときに利用できるフォルダーをもっと制御したいというユーザーのフィードバックをいただきました。 新しい機能が追加されました。 [保存] ダイアログ ボックスでフォルダーをピン留めできます。 この新しい機能により、Word、Excel、PowerPoint のファイルを簡単に保存できます。 <br />[ブログの投稿](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/) の詳細情報をご覧ください
+- **ピン留めされたフォルダーに保存**: フォルダーをピン留めすると、Office ファイルの保存が簡単になります。新しいファイルを保存したときに利用できるフォルダーをもっと制御したいというユーザーのフィードバックをいただきました。 新しい機能が追加されました。 [保存] ダイアログ ボックスでフォルダーをピン留めできます。 この新しい機能により、Word、Excel、PowerPoint のファイルを簡単に保存できます。 <br />[ブログの投稿](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/) の詳細情報をご覧ください
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -1463,7 +1530,7 @@ ms.locfileid: "48950006"
 ### <a name="feature-updates"></a>機能の更新プログラム
 ### <a name="powerpoint"></a>PowerPoint
 
-- **PowerPoint でのストリーム ビデオのパフォーマンス向上:** 、ビデオの読み込み時間を最小限に抑え、快適な表示を実現するために Microsoft Stream ビデオの再生パフォーマンスを改善しました。 お客様の社内ビデオを使用して、Microsoft Stream でより適切なプレゼンテーションを作成します。
+- **PowerPoint でのストリーム ビデオのパフォーマンス向上:**、ビデオの読み込み時間を最小限に抑え、快適な表示を実現するために Microsoft Stream ビデオの再生パフォーマンスを改善しました。 お客様の社内ビデオを使用して、Microsoft Stream でより適切なプレゼンテーションを作成します。
 
 ### <a name="word"></a>Word
 
@@ -1938,7 +2005,7 @@ ms.locfileid: "48950006"
 
 
 
-[//]: # (バグの詳細コンテンツを削除しないでください。終了)
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2004-april-29"></a>バージョン 2004: 4 月 29 日
 *バージョン 2004 (ビルド 12730.20236)*
@@ -2016,7 +2083,7 @@ ms.locfileid: "48950006"
 
 ### <a name="outlook"></a>Outlook
 
-- **Outlook でのメール作成時の @ メンションの候補表示を無効にするオプションが追加されました。** @ メンション ピッカーが便利どころか迷惑だと感じていますか? 望むなら、オフにすることができるようになりました。
+- **Outlook でのメール作成時の @ メンションの候補表示を無効にするオプションが追加されました。**@ メンション ピッカーが便利どころか迷惑だと感じていますか? 望むなら、オフにすることができるようになりました。
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -2321,7 +2388,7 @@ ms.locfileid: "48950006"
 
 ### <a name="office-suite"></a>Office スイート
 
-- **タブ付きのウィンドウ** : アプリの右側にあるタブ UI を使用して、複数のウィンドウ間を切り替えることができるようになりました。 UI は、2 つ以上のウィンドウが開かれている場合にのみ表示されます。
+- **タブ付きのウィンドウ**: アプリの右側にあるタブ UI を使用して、複数のウィンドウ間を切り替えることができるようになりました。 UI は、2 つ以上のウィンドウが開かれている場合にのみ表示されます。
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -2351,13 +2418,13 @@ ms.locfileid: "48950006"
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 ### <a name="feature-updates"></a>機能の更新プログラム
 ### <a name="excel"></a>Excel
-- **秘密度ラベル** : カスタム アクセス許可を求められるように組織で構成された秘密度ラベルを適用できるようになりました。 [詳細情報](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **秘密度ラベル**: カスタム アクセス許可を求められるように組織で構成された秘密度ラベルを適用できるようになりました。 [詳細情報](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="powerpoint"></a>PowerPoint
-- **秘密度ラベル** : カスタム アクセス許可を求められるように組織で構成された秘密度ラベルを適用できるようになりました。 [詳細情報](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **秘密度ラベル**: カスタム アクセス許可を求められるように組織で構成された秘密度ラベルを適用できるようになりました。 [詳細情報](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="word"></a>Word
-- **秘密度ラベル** : カスタム アクセス許可を求められるように組織で構成された秘密度ラベルを適用できるようになりました。 [詳細情報](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **秘密度ラベル**: カスタム アクセス許可を求められるように組織で構成された秘密度ラベルを適用できるようになりました。 [詳細情報](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 </br>
 
 ### <a name="resolved-issues"></a>解決済みの問題
@@ -2525,7 +2592,7 @@ ms.locfileid: "48950006"
 
 ### <a name="outlook"></a>Outlook
 
-- **キャプティブ WiFi ネットワークの新しいエクスペリエンス** : サインインに Web ページを必要とする WiFi ネットワークに参加したことはありませんか ? Outlook はこれを検出し、接続を支援します。
+- **キャプティブ WiFi ネットワークの新しいエクスペリエンス**: サインインに Web ページを必要とする WiFi ネットワークに参加したことはありませんか ? Outlook はこれを検出し、接続を支援します。
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)

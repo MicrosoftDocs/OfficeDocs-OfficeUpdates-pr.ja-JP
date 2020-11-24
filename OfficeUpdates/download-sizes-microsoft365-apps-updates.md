@@ -9,20 +9,20 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 各チャネルの Microsoft 365 アプリ用更新プログラムのダウンロード サイズの概算に関する情報を IT 技術者に提供します
-ms.openlocfilehash: 03142d126521058ac2762a3f0004b7944f4f2bc4
-ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
+ms.openlocfilehash: b5b7bdea32117e9147861133dd37c0c7035589a1
+ms.sourcegitcommit: 20605334d158c0b79db02d1bd4fbc418578b575c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48990136"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "49387449"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 アプリ用更新プログラムのダウンロード サイズ
 
 私たちの目的は、できる限り事前に企業のお客様のネットワーク帯域幅使用率の計画を支援できるように、更新プログラムのサイズ情報を提供することです。
 
-次の表には、Microsoft 365 アプリの以前のリリースから最新のリリースに更新するときのダウンロード サイズの概算が示されています。 実際のダウンロード サイズは異なる場合もありますが、誤差は 50 メガバイト程度です。 以前のリリースから現在のリリースに更新する場合には、ダウンロード サイズがさらに大きくなります。
+The following tables show the approximate download size when updating from the previous release of Microsoft 365 Apps to the most current release. Actual download sizes might vary, by as much as 50 mb. If you are updating from an older release to the current release, your download size could be larger.
 
-半期チャネル (対象指定) から半期チャネルなどに、チャネルを切り替える場合には、更新プログラムのサイズは表に記載されているサイズよりもかなり大きくなります。 全体をダウンロードすることになるので、少なくとも 1 GB になります。
+If you are switching to a different channel, for example from Semi-Annual Channel (Targeted) to Semi-Annual Channel, your update size could be considerably larger than what's listed in the table. It could entail a full download, which could be at least 1 GB.
 
 
 > [!IMPORTANT]
@@ -35,6 +35,38 @@ ms.locfileid: "48990136"
 > - 過去 4 か月のリリースが記載されています。
 
 [//]: # (削除しないでください)
+
+## <a name="november-23-2020"></a>2020 年 11 月 23 日
+
+[//]: # (コンテンツの開始を削除しないでください 開始 2020 年 11 月 23 日)
+
+### <a name="current-channel"></a>現在のチャネル
+
+最新のリリースはバージョン2011 (ビルド 13426.20274) です。
+
+|**アップグレード前のリリース**|**リリース日**|**おおよそのダウンロード サイズ (MB)**|
+|:-----|:-----|:-----|
+|バージョン 2010 (ビルド 13328.20408) <br/> |2020 年 11 月 17 日 <br/> |143<br/> |
+|バージョン 2010 (ビルド 13328.20356) <br/> |2020年11 月 10 日 <br/> |148<br/> |
+
+
+[//]: # (コンテンツを削除しないでください。終了 2020 年 11 月 23 日)
+
+## <a name="november-17-2020"></a>2020 年 11 月 17 日
+
+[//]: # (コンテンツの開始を削除しないでください 開始 2020 年 11 月 17 日)
+
+### <a name="current-channel"></a>現在のチャネル
+
+最新のリリースはバージョン 2010 (ビルド 13328.20408) です。
+
+|**アップグレード前のリリース**|**リリース日**|**ダウンロード サイズの概算 (MB)**|
+|:-----|:-----|:-----|
+|バージョン 2010 (ビルド 13328.20356) <br/> |2020年11 月 10 日 <br/> |51<br/> |
+|バージョン 2010 (ビルド 13328.20292) <br/> |2020 年 10 月 27 日 <br/> |60<br/> |
+
+
+[//]: # (コンテンツを削除しないでください。終了 2020 年 11 月 17 日)
 
 ## <a name="november-10-2020"></a>2020年11 月 10 日
 

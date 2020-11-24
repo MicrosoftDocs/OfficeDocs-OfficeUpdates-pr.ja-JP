@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT 担当者に、日付ごとに整理した Microsoft 365 Apps のリリースすべての一覧を、リリース ノートへのリンクを含めて提供します
-ms.openlocfilehash: bf1870a04fbbc542d12aa64c611bf47351bba865
-ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
+ms.openlocfilehash: 7ff4270fbd49b887717858f0f9cb120f14903f4f
+ms.sourcegitcommit: 20605334d158c0b79db02d1bd4fbc418578b575c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48989946"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "49387448"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 Apps の更新履歴 (日付別の一覧)
 
@@ -34,7 +34,7 @@ ms.locfileid: "48989946"
 
 |**チャネル**|**バージョン**|**ビルド**|**リリース日**|**バージョンのサポート期限**|
 |:-----|:-----|:-----|:-----|:-----|
-|最新チャネル<br/>|2010<br/>|13328.20356<br/>|2020年11 月 10 日<br/>|バージョン 2011 がリリースされました<br/>|
+|最新チャネル<br/>|2011<br/>|13426.20274<br/>|2020 年 11 月 23 日<br/>|バージョン 2012 がリリースされました<br/>|
 |月次エンタープライズ チャネル<br/>|2009<br/>|13231.20514<br/>|2020年11 月 10 日<br/>|2021 年 1 月 12 日<br/>|
 |月次エンタープライズ チャネル<br/>|2008<br/>|13127.20760<br/>|2020年11 月 10 日<br/>|2020年12 月 8 日<br/>|
 |半期エンタープライズ チャネル (プレビュー)<br/>|2008<br/>|13127.20760<br/>|2020年11 月 10 日<br/>|2021 年 3 月 9 日<br/>|
@@ -45,12 +45,14 @@ ms.locfileid: "48989946"
 
 以前のリリースの Microsoft 365 Apps から最新の現在のリリースへ更新する場合のおおよそのダウンロード サイズについて詳しくは、「[Microsoft 365 Apps の更新プログラムのダウンロード サイズ](download-sizes-office365-proplus-updates.md)」をご覧ください。
 
-次の表は、更新プログラム チャネルでリリースされた Microsoft 365 アプリの各更新プログラムのバージョン番号とビルド番号のリストです。現在のところ、月次エンタープライズ、半期エンタープライズ (プレビュー)、および半期エンタープライズ チャネルがあります。 それぞれの表の記載項目をクリックすると、該当するリリースのリリース ノートを直接参照することができます。 これらのリリース ノートには、Microsoft 365 Apps の更新プログラムに含まれている機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムに関する情報が記載されています。  
+The following table provides a list of the version and build numbers for each update to Microsoft 365 Apps released in the following update channels: Current, Monthly Enterprise, Semi-Annual Enterprise (Preview), and Semi-Annual Enterprise. Each entry in the table links directly to the release notes for that release. These release notes provide information about features, security updates, and non-security updates that are included in the update to Microsoft 365 Apps.  
 
 [//]: # (HISTORYTABLESTART)
 
 |**Year**|**リリース日**|**最新チャネル**|**月次エンタープライズ チャネル**|**半期エンタープライズ チャネル (プレビュー)**|**半期エンタープライズ チャネル**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2020|11 月 23 日|[バージョン 2011 (ビルド 13426.20274)](current-channel.md#version-2011-november-23)| | | |
+|2020|11 月 17 日|[バージョン 2010 (ビルド 13328.20408)](current-channel.md#version-2010-november-17)| | | |
 |2020|11 月 10 日|[バージョン 2010 (ビルド 13328.20356)](current-channel.md#version-2010-november-10)|[バージョン 2009 (ビルド 13231.20514)](monthly-enterprise-channel.md#version-2009-november-10)<br/>[バージョン 2008 (ビルド 13127.20760)](monthly-enterprise-channel.md#version-2008-november-10)|[バージョン 2008 (ビルド 13127.20760)](semi-annual-enterprise-channel-preview.md#version-2008-november-10)|[バージョン 2002 (ビルド 12527.21330)](semi-annual-enterprise-channel.md#version-2002-november-10)<br/>[バージョン 1908 (ビルド 11929.20974)](semi-annual-enterprise-channel.md#version-1908-november-10)|
 |2020|10 月 27 日|[バージョン 2010 (ビルド 13328.20292)](current-channel.md#version-2010-october-27)| | | |
 |2020|10 月 21 日|[バージョン 2009 (ビルド 13231.20418)](current-channel.md#version-2009-october-21)| | | |
