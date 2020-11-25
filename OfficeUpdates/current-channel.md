@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の月次チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: ddf6a8dc89f09b831bf162ecab4e853970843431
-ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
+ms.openlocfilehash: 1601e91a17da4d4896ca6e058d14f2973c8c4eaa
+ms.sourcegitcommit: 20605334d158c0b79db02d1bd4fbc418578b575c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48989906"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "49387462"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020 年の最新のチャネル リリースのリリース ノート
 
@@ -32,6 +32,135 @@ ms.locfileid: "48989906"
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+
+
+[//]: # (BUGDETAILS コンテンツ エンドを削除しないでください。終了)
+
+## <a name="version-2011-november-23"></a>バージョン 2011: 11 月 23 日
+*バージョン 2011 (ビルド 13426.20274)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="access"></a>Access
+
+- **Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。 [ファイル] > [アカウント] の順に移動し、[Office テーマ] ドロップダウン リストで [システム設定を使用する] を選択します。 [詳細情報](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="excel"></a>Excel
+
+- **SVG クリップボードのサポート:** Office からサードパーティのアプリに SVG コンテンツを貼り付けることができるようになりました。 [詳細情報](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+
+- **Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。 [ファイル] > [アカウント] の順に移動し、[Office テーマ] ドロップダウン リストで [システム設定を使用する] を選択します。 [詳細情報](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="onenote"></a>OneNote
+
+- **Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。 [ファイル] > [アカウント] の順に移動し、[Office テーマ] ドロップダウン リストで [システム設定を使用する] を選択します。 [詳細情報](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="outlook"></a>Outlook
+
+- **SVG クリップボードのサポート:** Office からサードパーティのアプリに SVG コンテンツを貼り付けることができるようになりました。 [詳細情報](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+
+- **Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。 [ファイル] > [Office アカウント] の順に移動し、[Office テーマ] ドロップダウンリストで [システム設定を使用する] を選択します。 [詳細情報](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+- **タスクのユーザー エクスペリエンスの更新:** タスク アイテムの視覚的な更新。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **SVG クリップボードのサポート:** Office からサードパーティのアプリに SVG コンテンツを貼り付けることができるようになりました。 [詳細情報](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />[ブログ記事](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)の詳細情報をご覧ください
+
+- **透過背景の GIF を作成する**: アニメーション GIF にエクスポートする場合、新しいオプションを使用して背景を透明にすることができます。<br />[ブログの投稿](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)の詳細情報をご覧ください
+
+- **Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。 [ファイル] > [アカウント] の順に移動し、[Office テーマ] ドロップダウン リストで [システム設定を使用する] を選択します。 [詳細情報](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+- **アニメーション GIF を範囲でエクスポートする**: アニメーション GIF にエクスポートするときにスライドの範囲を選択します。
+
+### <a name="project"></a>Project
+
+- **Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。 [ファイル] > [アカウント] の順に移動し、[Office テーマ] ドロップダウン リストで [システム設定を使用する] を選択します。 [詳細情報](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="publisher"></a>発行者
+
+- **Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。 [ファイル] > [アカウント] の順に移動し、[Office テーマ] ドロップダウン リストで [システム設定を使用する] を選択します。 [詳細情報](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="visio"></a>Visio
+
+- **Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。 [ファイル] > [アカウント] の順に移動し、[Office テーマ] ドロップダウン リストで [システム設定を使用する] を選択します。 [詳細情報](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="word"></a>Word
+
+- **SVG クリップボードのサポート:** Office からサードパーティのアプリに SVG コンテンツを貼り付けることができるようになりました。 [詳細情報](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+
+- **Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。 [ファイル] > [アカウント] の順に移動し、[Office テーマ] ドロップダウン リストで [システム設定を使用する] を選択します。 [詳細情報](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- タスクの進捗レポートを送信するときに、[宛先] フィールドが空白になる問題が修正されました。
+
+
+- MailItem.BeforeAttachmentAdd イベントの破損原因となった問題が修正されました。 
+
+
+- IDataObject 操作 (つまりクリップボードのドラッグやドロップ) で、ユーザーが添付ファイルに対して filetime の付加を無効にすることを許可できるように、レジストリキーを追加しました。  HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\添付ファイル。 REG_DWORD IncludeFileTimesInDataObject。 0 = filetimes は除外されます。 1 = (既定) filetimes が含まれます。
+
+
+- Azure Information Protection の保護ラベルを使用してメッセージに返信するときに、インライン画像が消えるという問題が修正されました。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Slide.Shapes.AddMediaObject2 が従来のビデオ形式 (.MPG-1、Mpeg-2) でクラッシュする VBA の問題が修正されました。
+
+
+- 新たに録音したオーディオを含むスライドを複製した後にファイルを保存するときにエラーが発生するという問題が修正されました。
+
+
+- ドキュメントの修復操作の後であっても、一部の破損した PowerPoint ファイルを正常に開くことができないという問題が修正されました。
+
+
+### <a name="word"></a>Word
+
+- Word に影響を与える最適化されたゲートによって発生するアサート バグが修正されました。
+
+
+
+[//]: # (BUGDETAILS コンテンツ エンドを削除しないでください。終了)
+
+## <a name="version-2010-november-17"></a>バージョン 2010: 11 月 17 日
+*バージョン 2010 (ビルド 13328.20408)*
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- MailItem.BeforeAttachmentAdd イベントの破損原因となった問題が修正されました。 
+
+
+- IDataObject 操作 (つまりクリップボードのドラッグやドロップ) で、ユーザーが添付ファイルに対して filetime の付加を無効にすることを許可できるように、レジストリキーを追加しました。  HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\添付ファイル。  REG_DWORD IncludeFileTimesInDataObject。  0 = filetimes は除外されます。  1 = (既定) filetimes が含まれます。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- マージ中に IRM 保護されたドキュメントを使用しているときに発生する問題を解決します。
+
+
+### <a name="visio"></a>Visio
+
+- ユーザーが Visio for Office 365 のコネクタを使用して、ユーザー設定の Visio ステンシルと組み込みのテンプレートの両方で直線を作成できるようになりました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- 特定のシナリオで、[名前を付けて保存] の実行に失敗する問題が修正されました。
 
 
 
@@ -73,19 +202,19 @@ ms.locfileid: "48989906"
 
 - **Power Query を使用してデータ型を作成する:** Power Query を使用してあらゆるデータ ソースから豊富なデータ型を作成します。 [詳細情報](https://support.office.com/article/a465a3b7-3d37-4eb1-a59c-bd3163315308)<br />[ブログ記事](https://techcommunity.microsoft.com/t5/excel-blog/announcing-power-query-data-types/ba-p/1782903)の詳細情報をご覧ください
 
-- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログ記事](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
+- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログ記事](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
 
 - **アクション ペンを使用してすばやく編集する:** アクション ペンを使用すると、セルに直接手書きで書き込み、自動的に Excel データに変換されるインクでデータを書き留めることができます。
 
 ### <a name="outlook"></a>Outlook
 
-- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログ記事](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
+- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログ記事](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
 
-- **文章校正による支援:** Outlook では、入力中に文章校正のエラーが表示されます。シングル クリックで候補を適用できます。 [詳細情報](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/grammar-and-style-suggestions-available-in-outlook)の詳細情報をご覧ください
+- **文章校正による支援:** Outlook では、入力中に文章校正のエラーが表示されます。シングル クリックで候補を適用できます。 [詳細情報](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />[ブログの投稿](https://insider.office.com/en-us/blog/grammar-and-style-suggestions-available-in-outlook)の詳細情報をご覧ください
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログ記事](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
+- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
 
 ### <a name="teams"></a>Teams
 
@@ -99,7 +228,7 @@ ms.locfileid: "48989906"
 
 ### <a name="word"></a>Word
 
-- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
+- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -369,7 +498,7 @@ ms.locfileid: "48989906"
 
 
 
-[//]: # (バグの詳細コンテンツ エンドを削除しないでください)
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2008-august-31"></a>バージョン 2008: 8 月 31 日
 *バージョン 2008 (ビルド 13127.20296)*
@@ -413,7 +542,7 @@ ms.locfileid: "48989906"
 
 ### <a name="office-suite"></a>Office スイート
 
-- **タブ付きのウィンドウ** : アプリの右側にあるタブ UI を使用して、複数のウィンドウ間を切り替えることができるようになりました。 UI は、2 つ以上のウィンドウが開かれている場合にのみ表示されます。<br />[ブログの投稿](https://blog-insider.office.com/2020/02/20/improved-pane-management/)の詳細情報をご覧ください
+- **タブ付きのウィンドウ**: アプリの右側にあるタブ UI を使用して、複数のウィンドウ間を切り替えることができるようになりました。 UI は、2 つ以上のウィンドウが開かれている場合にのみ表示されます。<br />[ブログの投稿](https://blog-insider.office.com/2020/02/20/improved-pane-management/)の詳細情報をご覧ください
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -552,7 +681,7 @@ ms.locfileid: "48989906"
 
 - **PDF に接続:** PDF からデータに接続、インポート、更新します。 [詳細情報](https://support.office.com/article/be4330b3-5356-486c-a168-b68e9e616f5a)
 
-- **他のユーザーを混乱させずに、フィルター処理して並べ替える:** 、Sheet View で他のユーザーとの共同作業を行いながら Excel ファイルの並べ替えやフィルター処理ができるようになりました。 この新機能により、文書を共同編集しているときに、他のユーザーの並べ替えやフィルター処理による影響を受けません。 [詳細情報](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)
+- **他のユーザーを混乱させずに、フィルター処理して並べ替える:**、Sheet View で他のユーザーとの共同作業を行いながら Excel ファイルの並べ替えやフィルター処理ができるようになりました。 この新機能により、文書を共同編集しているときに、他のユーザーの並べ替えやフィルター処理による影響を受けません。 [詳細情報](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)
 
 - **秘密度ラベルの自動適用または推奨:** Office は、検出された機密コンテンツに基づいて機密ラベルを推奨または自動的に適用できます。
 
@@ -560,7 +689,7 @@ ms.locfileid: "48989906"
 
 ### <a name="outlook"></a>Outlook
 
-- **クイック投票を使用して、Outlook で投票を作成:** 簡単に投票を作成し、票を収集して、メールに結果を表示します。 [詳細情報](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
+- **クイック投票を使用して、Outlook で投票を作成:** 簡単に投票を作成し、票を収集して、メールに結果を表示します。[詳細情報](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
 
 - **メールの一部として画像を送信するときに、画像を高品質に維持する:** メールの内容の一部として画像を送信するときに、画像の圧縮を制限するための新しい Outlook の設定を使用できます。
 
@@ -578,7 +707,7 @@ ms.locfileid: "48989906"
 
 - **[チャンネル情報] ウィンドウ:** チャンネルヘッダーの "チャンネル情報" アイコンを選択したときに、[チャンネルの説明]、[最近の寄稿者]、[メンバー] に加えて、システム メッセージの新しいホームを含むチャンネル情報の概要を表示するウィンドウが開きます。
 
-- **チャット通知のプレビューをオフにする:** 、ユーザーは設定を変更したり、チャット通知トーストのプレビューを管理したりすることができます。
+- **チャット通知のプレビューをオフにする:**、ユーザーは設定を変更したり、チャット通知トーストのプレビューを管理したりすることができます。
 
 - **返信の候補:** Teams ユーザーに、自分の会話への返信の候補を提案する機能が追加されました。 これらの候補が有効になっている場合は、チャット メッセージの下部に表示されます。 メッセージへの返信をすばやく簡単に作成できます。
 
@@ -713,13 +842,13 @@ ms.locfileid: "48989906"
 ### <a name="feature-updates"></a>機能の更新プログラム
 ### <a name="excel"></a>Excel
 
-- **長いファイル名** : Windows デスクトップ版の Excel は、名前とパスが最大400文字の OneDrive/SharePoint ファイルをサポートするようになりました。
+- **長いファイル名**: Windows デスクトップ版の Excel は、名前とパスが最大400文字の OneDrive/SharePoint ファイルをサポートするようになりました。
 
 - **Realtimedata (RTD) の改善:** Office 365 バージョン 2002 の月間チャネル以降、ExcelのRealTimeData (RTD) 関数は、Excel 2010 のスプレッドシートのデータ計算よりもはるかに高速になります。 基盤となるメモリとデータ構造のボトルネックを取り除き、マルチスレッド再計算  (MTR) の使用可能なすべてのスレッドで計算できるようにスレッドセーフにしました。
 
 ### <a name="outlook"></a>Outlook
 
-- **Outlook でのメール作成時の @ メンションの候補表示を無効にするオプションが追加されました。** @ メンション ピッカーが便利どころか迷惑だと感じていますか? 今後は、必要に応じてオフにすることができます。<br />[ブログの投稿](https://blog-insider.office.com/2020/03/26/feedback-in-action-disable-mentions/)の詳細情報をご覧ください
+- **Outlook でのメール作成時の @ メンションの候補表示を無効にするオプションが追加されました。**@ メンション ピッカーが便利どころか迷惑だと感じていますか? 今後は、必要に応じてオフにすることができます。<br />[ブログの投稿](https://blog-insider.office.com/2020/03/26/feedback-in-action-disable-mentions/)の詳細情報をご覧ください
 
 - **IT 管理者向けのインシデント通知:** Microsoft 365 テナントのグローバル管理者および Office Apps 管理者は、Outlook for Windows の新しい右側のパネル通知により、ユーザーに影響する Outlook および O365 Exchange インシデントについて通知されます。 [詳細情報](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
 
@@ -727,11 +856,11 @@ ms.locfileid: "48989906"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **PowerPoint でのストリーム ビデオのパフォーマンス向上:** 、ビデオの読み込み時間を最小限に抑え、快適な表示を実現するために Microsoft Stream ビデオの再生パフォーマンスを改善しました。 お客様の社内ビデオを使用して、Microsoft Stream でより適切なプレゼンテーションを作成します。
+- **PowerPoint でのストリーム ビデオのパフォーマンス向上:**、ビデオの読み込み時間を最小限に抑え、快適な表示を実現するために Microsoft Stream ビデオの再生パフォーマンスを改善しました。 お客様の社内ビデオを使用して、Microsoft Stream でより適切なプレゼンテーションを作成します。
 
 ### <a name="teams"></a>Teams
 
-- **PSTN の参加者の電話番号は、外部ユーザーからマスクされます** 。Teams 会議でオーディオ会議を有効にしているお客様は、組織の外部から参加しているユーザーに PSTN 参加者の電話番号をマスクします。
+- **PSTN の参加者の電話番号は、外部ユーザーからマスクされます**。Teams 会議でオーディオ会議を有効にしているお客様は、組織の外部から参加しているユーザーに PSTN 参加者の電話番号をマスクします。
 
 - **チャネル通知の設定を管理する簡単な方法:** チームやチャネルのリストを通して、またはチャネル ヘッダーから、ワンクリックで、またはユーザー設定によって、ユーザーはすべてのアクティビティのオンとオフを切り替えることで、お好きな順序を設定できます。
 
@@ -934,7 +1063,7 @@ ms.locfileid: "48989906"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **アニメーション Gif を使用してストーリーを伝える:** Office エディターでアニメーション Gif がサポートされるようになりました。これにより、さらに目を引くドキュメントを作成できるようになりました。 [詳細については、こちらを参照してください。](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
+- **アニメーション Gif を使用してストーリーを伝える:** Office エディターでアニメーション Gif がサポートされるようになりました。これにより、さらに目を引くドキュメントを作成できるようになりました。[詳細については、こちらを参照してください。](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
 
 - **プレゼンテーション中に変更を同期する:** プレゼンテーションがスライド ショー モードであれば、いつでも変更を同期できます。 [詳細情報](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />[ブログの投稿](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)の詳細情報をご覧ください
 
@@ -944,17 +1073,17 @@ ms.locfileid: "48989906"
 
 - **Teams 会議でのビデオ レイアウトの変更:** 近日中に、Teams 会議中に同時に表示できる参加者の数は、4名から9名に増加します。
 
-- **[ライブイベント] にシステム オーディオを含める** : ライブ イベントの発表者やプロデューサーは、ライブ イベント中にデスクトップまたはウィンドウ画面を共有するときに、システム オーディオを含めることができるようになりました。 これにより、共有するコンテンツのオーディオ部分をユーザーが聞くことができます。
+- **[ライブイベント] にシステム オーディオを含める**: ライブ イベントの発表者やプロデューサーは、ライブ イベント中にデスクトップまたはウィンドウ画面を共有するときに、システム オーディオを含めることができるようになりました。 これにより、共有するコンテンツのオーディオ部分をユーザーが聞くことができます。
 
-- [ **ダイヤルイン ユーザーによるロビーのバイパスを許可する :** ] この設定では、スマートフォンでダイヤル インするユーザーが会議に直接参加するのか、[ユーザーの参加を自動的に許可する] の設定に関わらずロビーで待機するのかを制御します。
+- [**ダイヤルイン ユーザーによるロビーのバイパスを許可する :**] この設定では、スマートフォンでダイヤル インするユーザーが会議に直接参加するのか、[ユーザーの参加を自動的に許可する] の設定に関わらずロビーで待機するのかを制御します。
 
 - **会議で挙手しましょう:** ユーザーは会議で仮想の手を上げることができるようになりました。 他のユーザーは、会議のステージで参加者名簿の自分の名前の横で挙手しているのが表示されるのを見ることができます。
 
 - **ビデオ会議の背景をカスタマイズ:** ビデオ会議を実施しているときに、使用する静的な背景画像を選択できるようになりました。 この操作により、実際に座っている場所の背景ではない、選択した画像が表示されます。
 
-- **チャットにユーザーを追加する:** 、最大350人のユーザーを1つのチャットスレッドに追加できるようになりました。
+- **チャットにユーザーを追加する:**、最大350人のユーザーを1つのチャットスレッドに追加できるようになりました。
 
-- **アクティビティ フィードの設定ギア** : ユーザーは、[設定] ギアを使用して、フィードの左側のレールから、アクティビティ フィードと通知の設定に直接アクセスできるようになりました。
+- **アクティビティ フィードの設定ギア**: ユーザーは、[設定] ギアを使用して、フィードの左側のレールから、アクティビティ フィードと通知の設定に直接アクセスできるようになりました。
 
 - **進行中の Teams 会議内から会議のオプションに簡単にアクセス可能:** 会議の開催者は、参加者ウィンドウに直接アクセスできるリンクを提供することで、会議の開催者が発表者やロビーの設定をすばやく簡単に変更することができます。 この新機能は、予定されている、または 「今から会議」 の会議に使用できます。
 
@@ -1062,7 +1191,7 @@ ms.locfileid: "48989906"
 
 
 
-[//]: # (バグの詳細コンテンツを削除しないでください。終了)
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2004-april-29"></a>バージョン 2004: 4 月 29 日
 *バージョン 2004 (ビルド 12730.20236)*
@@ -1223,7 +1352,7 @@ ms.locfileid: "48989906"
 
 - **所有しているグループにメールをドラッグ:** メッセージや会話を受信トレイからドラッグして移動し、コピーします。 ドラッグしたメッセージは、すべてのグループ メンバーと共有されます。
 
-- **キャプティブ WiFi ネットワークの新しいエクスペリエンス** : サインインに Web ページを必要とする WiFi ネットワークに参加したことはありませんか ? Outlook はこれを検出し、接続を支援します。
+- **キャプティブ WiFi ネットワークの新しいエクスペリエンス**: サインインに Web ページを必要とする WiFi ネットワークに参加したことはありませんか ? Outlook はこれを検出し、接続を支援します。
 
 ###<a name="powerpoint"></a>PowerPoint
 
@@ -1333,7 +1462,7 @@ ms.locfileid: "48989906"
 
 - **ブックの統計情報:** セル、数式、グラフ、テーブル...これらをお客様に代わってカウントします。
 
-- **クエリ エディターでのデータ プロファイリング** : 列のデータを一目で分析し、エラーと空の値を識別し、配布ヒストグラムなどを確認します。
+- **クエリ エディターでのデータ プロファイリング**: 列のデータを一目で分析し、エラーと空の値を識別し、配布ヒストグラムなどを確認します。
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -1420,7 +1549,7 @@ ms.locfileid: "48989906"
 ### <a name="feature-updates"></a>機能の更新プログラム
 ### <a name="excel"></a>Excel
 
-- **すぐに読んで返信する** : ブックを開かずに、メールからコメントやメンションに直接返信します。
+- **すぐに読んで返信する**: ブックを開かずに、メールからコメントやメンションに直接返信します。
 
 - **左を見て、右を見て... XLOOKUP をご利用いただけます!** XLOOKUP を使えば、表や範囲内で必要なものは何でも見つけられます。 [詳細情報](https://support.office.com/article/b7fd680e-6d10-43e6-84f9-88eae8bf5929)
 
@@ -1428,7 +1557,7 @@ ms.locfileid: "48989906"
 
 - **高度なグループ メールの設定:** この機能は、グループ ユーザーが受信トレイで受信/フォローするメールまたはイベントを、カスタマイズするのに役立ちます。
 
-- **グループの名前付けポリシー** : グループの名前付けポリシーを使用すると、IT 管理者は組織内のユーザーが作成するグループの名前の標準化と管理を行えます。 管理者は、グループが作成される際に特定のプレフィックスとサフィックスをグループ名に追加することを要求できます。また、特定の単語の使用を禁止できます。 これにより、グループ名での不適切な単語の使用を最小限に抑えられる他、ディレクトリ内のグループ名の記載を IT 管理者が管理できます。 また、名前付けポリシーを使用することで、チーム サイトを展開する組織は、チーム サイトを部署ごとに分類できるようにもなります。
+- **グループの名前付けポリシー**: グループの名前付けポリシーを使用すると、IT 管理者は組織内のユーザーが作成するグループの名前の標準化と管理を行えます。 管理者は、グループが作成される際に特定のプレフィックスとサフィックスをグループ名に追加することを要求できます。また、特定の単語の使用を禁止できます。 これにより、グループ名での不適切な単語の使用を最小限に抑えられる他、ディレクトリ内のグループ名の記載を IT 管理者が管理できます。 また、名前付けポリシーを使用することで、チーム サイトを展開する組織は、チーム サイトを部署ごとに分類できるようにもなります。
 
 ### <a name="word"></a>Word
 
@@ -1502,7 +1631,7 @@ ms.locfileid: "48989906"
 
 - **プレゼンテーションの最適化:** アクセシビリティ チェックを使用すると、スクリーン リーダーを考慮に入れて、スライド上のオブジェクトを配置することができます。
 
-- **簡単な GIF:** 1 つのスライド、1 つのフレーム。 PowerPoint でループ GIF を簡単に作成できます。 [詳細情報](https://support.office.com/ja-JP/article/a598753e-92de-4f1b-8393-714db4d334b4)
+- **簡単な GIF:** 1 つのスライド、1 つのフレーム。 PowerPoint でループ GIF を簡単に作成できます。 [詳細情報](https://support.office.com/en-us/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
 
@@ -1539,7 +1668,9 @@ ms.locfileid: "48989906"
 > [!NOTE]
 > Office の使用で問題がある場合は、[Microsoft の回答フォーラム](https://answers.microsoft.com/)に関するページまたは「[Microsoft Tech Community](https://techcommunity.microsoft.com/)」に質問を投稿するか、[サポート](https://support.microsoft.com/contactus)に問い合わせてサポートを受けることができます。
 
-[//]: # (管理センターのメタデータコンテンツの開始を変更しない)
+[//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|CC|Production| |16.0.13426.20274|version-2011-november-23|)
+[//]: # (|Win32|CC|Production| |16.0.13328.20408|version-2010-november-17|)
 [//]: # (|Win32|CC|Production| |16.0.13328.20356|version-2010-november-10|)
 [//]: # (|Win32|CC|Production| |16.0.13328.20292|version-2010-october-27|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20418|version-2009-october-21|)
@@ -1548,6 +1679,4 @@ ms.locfileid: "48989906"
 [//]: # (|Win32|CC|Production| |16.0.13231.20262|バージョン-2009-september-28|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20508|version-2008-september-22|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20408|version-2008-september-09|)
-[//]: # (|Win32|CC|Production| |16.0.13127.20296|バージョン-2008-8-31|)
-[//]: # (|Win32|CC|Production| |16.0.13029.20460|version-2007-august-25|)
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。終了)
