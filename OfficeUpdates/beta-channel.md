@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 36166e5e6ab4c814e56d5a5458747ba1c67964e7
-ms.sourcegitcommit: 9775ae224ef323ec5f92db13c85a8d0abf256f9c
+ms.openlocfilehash: 5fd63ab3b6b4f0cbba13a4873baec870d1249932
+ms.sourcegitcommit: abe501ea3224670ce1b07859f4ef2f3eb8f7628c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/13/2020
-ms.locfileid: "49071536"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "49372271"
 ---
 # <a name="release-notes-for-beta-channel"></a>ベータ チャネルのリリース ノート
 
@@ -30,6 +30,42 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2012-november-20"></a>バージョン 2012: 11 月 20 日
+*バージョン 2012 (ビルド 13512.20000)*
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="outlook"></a>Outlook
+
+- **会議はすべてオンラインで:** 新しい設定により、オンライン会議のスケジュールを簡単に立てれるため、既定ですべての会議をオンラインにできます。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **ビデオ ライブラリ:** は、アプリ内で利用可能な、質の良い無料のビデオ フッテージのライブラリを使用してドキュメントの質を高めます。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="powerpoint"></a>PowerPoint
+
+- 共同編集者の詳細情報が有効な際に、不明な共同編集者のプレゼンス インジケーターが完全に更新されない問題が修正されました。
+
+
+### <a name="word"></a>Word
+
+- 文書を隠し文字で PDF に保存する際に、Word が固まる問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツ エンドを削除しないでください。終了)
 
 ## <a name="version-2012-november-13"></a>バージョン 2012: 11 月 13 日
 *バージョン 2012 (ビルド 13510.20004)*
@@ -120,7 +156,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>機能の更新プログラム
 ### <a name="excel"></a>Excel
 
-- **改善された条件付き書式ダイアログ** : 条件付き書式ダイアログのサイズが変更可能になり、シングルクリックでルールを複製できるようになりました。 [詳細情報](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
+- **改善された条件付き書式ダイアログ**: 条件付き書式ダイアログのサイズが変更可能になり、シングルクリックでルールを複製できるようになりました。 [詳細情報](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -300,13 +336,13 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>機能の更新プログラム
 ### <a name="excel"></a>Excel
 
-- **クエリから Powe rPlatform データフローを作成する** : 新しい Powe rPlatform データフローの作成に使用できる Power Query テンプレートにクエリをエクスポートできるようになりました。
+- **クエリから Powe rPlatform データフローを作成する**: 新しい Powe rPlatform データフローの作成に使用できる Power Query テンプレートにクエリをエクスポートできるようになりました。
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **アニメーション GIF を範囲内でエクスポートする** : アニメーション GIF にエクスポートするときにスライドの範囲を選択します
+- **アニメーション GIF を範囲内でエクスポートする**: アニメーション GIF にエクスポートするときにスライドの範囲を選択します
 
-- **透過背景の GIF を作成する** : アニメーション GIF にエクスポートする場合、新しいオプションを使用して背景を透明にすることができます。
+- **透過背景の GIF を作成する**: アニメーション GIF にエクスポートする場合、新しいオプションを使用して背景を透明にすることができます。
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -690,7 +726,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 - ドキュメントを HTML 形式に保存するときに、長いリンクが折り返されない問題が修正されました。
 - AutoOpen が AutoExec. より前に実行されるというマクロの問題が修正されました。
 
-[//]: # (バグの詳細コンテンツ エンドを削除しないでください)
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2009-august-28"></a>バージョン 2009: 8 月 28 日
 *バージョン 2009 (ビルド 13219.20004)*
@@ -805,19 +841,19 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>機能の更新プログラム
 ### <a name="excel"></a>Excel
 
-- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
+- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
 
 ### <a name="outlook"></a>Outlook
 
-- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
+- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
+- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
 
 ### <a name="word"></a>Word
 
-- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
+- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
 
@@ -1661,13 +1697,13 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>機能の更新プログラム
 
 ### <a name="excel"></a>Excel
-- **秘密度ラベル** : カスタム アクセス許可を求められるように組織で構成された秘密度ラベルを適用できるようになりました。 [詳細情報](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **秘密度ラベル**: カスタム アクセス許可を求められるように組織で構成された秘密度ラベルを適用できるようになりました。 [詳細情報](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="powerpoint"></a>PowerPoint
-- **秘密度ラベル** : カスタム アクセス許可を求められるように組織で構成された秘密度ラベルを適用できるようになりました。 [詳細情報](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **秘密度ラベル**: カスタム アクセス許可を求められるように組織で構成された秘密度ラベルを適用できるようになりました。 [詳細情報](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="word"></a>Word
-- **秘密度ラベル** : カスタム アクセス許可を求められるように組織で構成された秘密度ラベルを適用できるようになりました。 [詳細情報](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **秘密度ラベル**: カスタム アクセス許可を求められるように組織で構成された秘密度ラベルを適用できるようになりました。 [詳細情報](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
 
@@ -1743,7 +1779,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **インクを図形に変換する作図エクスペリエンスの向上:** より良い図を描いて変換し、Office オブジェクトを操作できるようにします。 [詳細情報](https://support.office.com/article/f304ef73-9514-450b-9bb9-28c6057020f2)
+- **インクを図形に変換する作図エクスペリエンスの向上:** より良い図を描いて変換し、Office オブジェクトを操作できるようにします。[詳細情報](https://support.office.com/article/f304ef73-9514-450b-9bb9-28c6057020f2)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
 
@@ -1821,11 +1857,11 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>機能の更新プログラム
 ### <a name="outlook"></a>Outlook
 
-- **キャプティブ WiFi ネットワークの新しいエクスペリエンス** : サインインに Web ページを必要とする WiFi ネットワークに参加したことはありませんか ? Outlook はこれを検出し、接続を支援します。
+- **キャプティブ WiFi ネットワークの新しいエクスペリエンス**: サインインに Web ページを必要とする WiFi ネットワークに参加したことはありませんか ? Outlook はこれを検出し、接続を支援します。
 
 ### <a name="word"></a>Word
 
-- **描画ツールボックスでインク エディターを見つける** : [描画] を選択し、[インク エディター] ペンを選択して、指またはデジタル ペンでドキュメントを編集します。 [詳細情報](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
+- **描画ツールボックスでインク エディターを見つける**: [描画] を選択し、[インク エディター] ペンを選択して、指またはデジタル ペンでドキュメントを編集します。 [詳細情報](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
 
 ### <a name="office-suite"></a>Office スイート
 
@@ -1919,6 +1955,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13512.20000|version-2012-november-20|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13510.20004|version-2012-november-13|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13430.20000|version-2012-november-06|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
@@ -1928,5 +1965,4 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (|Win32|DevMain|Insiders| |16.0.13328.20000|version-2010-october-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13318.20000|version-2010-september-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13312.20006|version-2010-september-18|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13304.20000|version-2010-september-11|)
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。終了)
