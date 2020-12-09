@@ -9,20 +9,20 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Windows デスクトップ用の月次チャンネル Insider ファースト リリースの更新履歴を Insider に提供します
-ms.openlocfilehash: f5e93a54dfc4745e1b7c412d1dbd02037d6cef3b
-ms.sourcegitcommit: 413694d561d367e93ad51c9be41495ad09a24af3
+ms.openlocfilehash: e183ddcbfb653678aaf3246fc7caae179c8b6426
+ms.sourcegitcommit: 551c3050697b157bbfb4f1d6bf8800ee9542ead3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/23/2020
-ms.locfileid: "49385493"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49588300"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Office ベータ チャネルの更新履歴
 
 Insider の皆様。最新の更新プログラムがインストールされているかどうかを確認したり、最近の Insider ビルドの一覧を探したりしている場合は、この記事をご活用いただけます。Insider プログラムの詳細については、[こちら](https://insider.office.com/)をクリックしてください。
 
 > [!IMPORTANT]
-> - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - Office 365 ProPlus は、バージョン 2004 以降、Microsoft 365 Apps for enterprise に名前が変更されています。詳細については、[この記事](https://go.microsoft.com/fwlink/p/?linkid=2123420)をお読みください。Microsoft のドキュメントでは通常、Microsoft 365 Apps として言及します。
+> - 現在、Microsoft 365 Apps の更新プログラム チャネルに、新しい更新プログラム チャネル (月次エンタープライズ チャネル) の追加や既存の更新プログラム チャネル名の変更など、いくつかの変更を進めています。 詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2127441)を参照してください。
+> - バージョン 2004 以降の Office 365 ProPlus は Microsoft 365 Apps for enterprise に名前が変更されています。 詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2123420)を参照してください。 Microsoft のドキュメントでは通常、Microsoft 365 Apps として扱います。
 
 > [!NOTE]
 >
@@ -31,12 +31,21 @@ Insider の皆様。最新の更新プログラムがインストールされて
 
 ## <a name="office-beta-channel-versions-and-builds"></a>Office ベータ チャネルのバージョンとビルド
 
-If you're enrolled in the Insider level you get frequent updates with new features and improvements. The following list shows a history of recent Beta Channel versions and builds, with **the most recently released build listed first**. New builds contain all the updates contained in previous builds.
+Insider レベルに登録している場合は、新機能と改善された機能を含む更新プログラムを頻繁に入手できます。 次のリストは、最近のベータ チャネルのバージョンとビルドの履歴を示しています。**最も新しくリリースされたビルドが最初に表示されています**。 新しいビルドには、以前のビルドに含まれているすべての更新が含まれています。
 
 リリース ノートを確認するには、「[Windows デスクトップ版 Office のリリース ノート](https://docs.microsoft.com/OfficeUpdates/beta-channel)」を参照してください。
 
 
 [//]: # (削除しないでください)
+
+**2020 年 12 月 7 日**<br/>
+バージョン 2101 (ビルド 13604.20000)<br/>
+
+**2020 年 12 月 2 日**<br/>
+バージョン 2012 (ビルド 13530.20000)<br/>
+
+**2020 年 11 月 30 日**<br/>
+バージョン 2012 (ビルド 13524.20004)<br/>
 
 **2020 年 11 月 23 日**<br/>
 バージョン 2012 (ビルド 13519.20000)<br/>
