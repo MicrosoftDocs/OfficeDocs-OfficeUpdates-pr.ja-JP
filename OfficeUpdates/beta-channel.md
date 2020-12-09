@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 5fd63ab3b6b4f0cbba13a4873baec870d1249932
-ms.sourcegitcommit: abe501ea3224670ce1b07859f4ef2f3eb8f7628c
+ms.openlocfilehash: 3fa31ed1c5dac96ba16d4af2a1ed59c1eab533bd
+ms.sourcegitcommit: 86478ce864c9594772fcd1e377e2ab04aef9bf56
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "49372271"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49575021"
 ---
 # <a name="release-notes-for-beta-channel"></a>ベータ チャネルのリリース ノート
 
-This article contains release notes for Beta Channel builds of Word, Excel, PowerPoint, Outlook, Access, and Project for Windows desktop. Every week, we'll highlight interesting new features, important fixes, and any significant issues we want you to know about. Note that we often roll out features (and sometimes even fixes) to Beta Channel over a period of time. This allows us to ensure that things are working smoothly before releasing the feature to a wider audience. So, if you don't see something described below, don't worry you'll get it eventually.  
+この記事には、Windows デスクトップ向け Word、Excel、PowerPoint、Outlook、Access、Project のベータ チャネル ビルドのリリース ノートが含まれています。 Microsoft では、毎週、皆様にお知らせしたい魅力的な新機能、重要な修正プログラム、重大な問題に関する情報を提供しています。 多くの場合、機能 (場合によっては修正プログラムも) は、特定の期間にわたってベータ チャネルにロールアウトされます。 これにより、Microsoft では、より広範な対象ユーザーに機能をリリースする前に、作業がスムーズに行われていることを確認できます。 以下に示すものが表示されない場合でも、最終的には入手できますのでご安心ください。  
 
 > [!IMPORTANT]
-> We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> 現在、Microsoft 365 Apps の更新プログラム チャネルに、新しい更新プログラム チャネル (月次エンタープライズ チャネル) の追加や既存の更新プログラム チャネル名の変更など、いくつかの変更を進めています。 詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2127441)を参照してください。
 
 > [!NOTE]
 > - リリース ノートは毎週投稿され、場合により複数のビルドのコンパイルになります。
@@ -30,6 +30,100 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2012-december-04"></a>バージョン 2012: 12 月 4 日
+*バージョン 2012 (ビルド 13530.20000)*
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="outlook"></a>Outlook
+
+- **連続する会議の合間に時間を組み込む:** 既定で 5 分から 10 分遅く会議を開始するように設定することで、出席者に休憩時間や場所の移動時間を与えることができます。 [詳細情報](https://support.office.com/article/be84396a-0903-4e25-b31c-1c99ce0dacf2)
+
+### <a name="visio"></a>Visio
+
+- **新しい Azure ステンシルと図形:** 最新の Azure 図を作成するために、多くのステンシルを追加しました。 [詳細情報](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- 上書きモードでの編集時に、IME を使用する必要がある言語での編集がうまくいかない問題が修正されました。
+
+
+- 自動保存が無効になっている場合に、通知のヘルプ記事へのハイパーリンクが破損していた問題を修正しました。
+
+
+- 数式ビューでデータをコピーして貼り付けると、Excel が予期せず終了する問題が修正されました。
+
+
+### <a name="outlook"></a>Outlook
+
+- 下書きに保存したときに SmartLinks の書式設定が失われるという問題が修正されました。
+
+
+### <a name="project"></a>Project
+
+- 沢山のリソースが付いたプロジェクトを開くのに、長い時間かかっているという問題が修正されました。
+
+
+- ロードの特定の部分でプロジェクト ファイルに問題がある場合に、特定のプロジェクトを開くことができるという問題が修正されました。
+
+
+### <a name="word"></a>Word
+
+- リッチ テキストとして貼り付けるより、通常のテキストとして貼り付けることが推奨されます。 このコンテキスト メニューの修正プログラムでは、テキストとして貼り付けることができます。 それ以外の場合、ユーザーはメモ帳などのプレーンテキスト エディターにコピーして、メモ帳から目的のターゲット アプリにコピーする必要があります。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2012-november-27"></a>バージョン 2012: 11 月 27 日
+*バージョン 2012 (ビルド 13519.20000)*
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- これにより、Power Pivot がタブ区切りのテキストファイルを正しくインポートできない問題が修正されました。
+
+
+### <a name="outlook"></a>Outlook
+
+- Outlook 以外のアプリケーションから Outlook メールを送信するときに、ユーザーに問題が発生しているという問題が修正されました。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- この変更により、インク分析中のタイムアウトに関連する問題が解決します。
+
+
+- この変更は、アニメーション GIF ユーザー インターフェイスの作成に関する文法エラーに対処します。
+
+
+- ドキュメントの修復操作の後であっても、一部の破損した PowerPoint ファイルを正常に開くことができないという問題が修正されました。
+
+
+### <a name="project"></a>Project
+
+- タスクに関連付して、割り当てられていない割り当てが複数存在するという問題が修正されました。
+
+
+- 大規模なプロジェクトでは、タスク名の入力に非常に時間がかかることがある問題が修正されました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2012-november-20"></a>バージョン 2012: 11 月 20 日
 *バージョン 2012 (ビルド 13512.20000)*
@@ -44,7 +138,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **ビデオ ライブラリ:** は、アプリ内で利用可能な、質の良い無料のビデオ フッテージのライブラリを使用してドキュメントの質を高めます。
+- **ビデオ ライブラリ:** アプリ内で利用可能な、質の良い無料のビデオ フッテージのライブラリを使用してドキュメントの質を高めます。
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -56,7 +150,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="resolved-issues"></a>解決済みの問題
 ### <a name="powerpoint"></a>PowerPoint
 
-- 共同編集者の詳細情報が有効な際に、不明な共同編集者のプレゼンス インジケーターが完全に更新されない問題が修正されました。
+- 共同編集者の詳細情報が有効になった際に、不明だった共同編集者のプレゼンス インジケーターを完全に更新できなかった問題が修正されました。
 
 
 ### <a name="word"></a>Word
@@ -65,7 +159,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 
 
-[//]: # (BUGDETAILS コンテンツ エンドを削除しないでください。終了)
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2012-november-13"></a>バージョン 2012: 11 月 13 日
 *バージョン 2012 (ビルド 13510.20004)*
@@ -400,7 +494,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2010-october-02"></a>バージョン 2010: 10 月 02 日
+## <a name="version-2010-october-02"></a>バージョン 2010: 10 月 2 日
 *バージョン 2010 (ビルド 13328.20000)*
 
 
@@ -726,7 +820,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 - ドキュメントを HTML 形式に保存するときに、長いリンクが折り返されない問題が修正されました。
 - AutoOpen が AutoExec. より前に実行されるというマクロの問題が修正されました。
 
-[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+[//]: # (バグの詳細コンテンツ エンドを削除しないでください)
 
 ## <a name="version-2009-august-28"></a>バージョン 2009: 8 月 28 日
 *バージョン 2009 (ビルド 13219.20004)*
@@ -1110,7 +1204,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>機能の更新プログラム
 ### <a name="excel"></a>Excel
 
-- **Power BI からデータ型を使用して組織データを取得する:** Power BI からの Excel データ型が Office 365 E5/A5 または Microsoft 365 E5/A5 を使用する組織の Insider にロールアウトされるようになりました。 必要な情報を入手し、簡単に更新することは、多くの日常のワークフローに欠かせません。 Excel のデータ型として、Power BI から会社または組織の情報へのアクセスを提供し、スプレッドシートにリンクされた情報を取り込む機能を拡張します。 [詳細情報](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />[ブログの投稿](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/) の詳細情報をご覧ください
+- **Power BI からデータ型を使用して組織データを取得する:** Power BI からの Excel データ型が Office 365 E5/A5 または Microsoft 365 E5/A5 を使用する組織の Insider にロールアウトされるようになりました。 必要な情報を入手し、簡単に更新することは、多くの日常のワークフローに欠かせません。 Excel のデータ型として、Power BI から会社または組織の情報へのアクセスを提供し、スプレッドシートにリンクされた情報を取り込む機能を拡張します。 [詳細情報](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />[ブログの投稿](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)の詳細情報をご覧ください
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
 
@@ -1254,11 +1348,11 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **固定フォルダーに保存する:** フォルダーをピン留めすると、Office ファイルの保存が簡単になります。 ユーザーは新しいファイルが保存されるときに使用可能なフォルダーをより詳細に制御したいとのフィードバックを受けました。 新しい機能が追加されました。 [保存] ダイアログ ボックスでフォルダーをピン留めできます。 この新しい機能により、Word、Excel、PowerPoint のファイルを簡単に保存できます。<br />[ブログの投稿](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/) の詳細情報をご覧ください
+- **固定フォルダーに保存する:** フォルダーをピン留めすると、Office ファイルの保存が簡単になります。 ユーザーは新しいファイルが保存されるときに使用可能なフォルダーをより詳細に制御したいとのフィードバックを受けました。 新しい機能が追加されました。 [保存] ダイアログ ボックスでフォルダーをピン留めできます。 この新しい機能により、Word、Excel、PowerPoint のファイルを簡単に保存できます。<br />[ブログの投稿](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)の詳細情報をご覧ください
 
 ### <a name="word"></a>Word
 
-- **固定フォルダーに保存する:** フォルダーをピン留めすると、Office ファイルの保存が簡単になります。 ユーザーは新しいファイルが保存されるときに使用可能なフォルダーをより詳細に制御したいとのフィードバックを受けました。 新しい機能が追加されました。 [保存] ダイアログ ボックスでフォルダーをピン留めできます。 この新しい機能により、Word、Excel、PowerPoint のファイルを簡単に保存できます。<br />[ブログの投稿](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/) の詳細情報をご覧ください
+- **固定フォルダーに保存する:** フォルダーをピン留めすると、Office ファイルの保存が簡単になります。 ユーザーは新しいファイルが保存されるときに使用可能なフォルダーをより詳細に制御したいとのフィードバックを受けました。 新しい機能が追加されました。 [保存] ダイアログ ボックスでフォルダーをピン留めできます。 この新しい機能により、Word、Excel、PowerPoint のファイルを簡単に保存できます。<br />[ブログの投稿](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)の詳細情報をご覧ください
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
 
@@ -1955,6 +2049,8 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|version-2012-december-04|)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13519.20000|version-2012-november-27|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13512.20000|version-2012-november-20|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13510.20004|version-2012-november-13|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13430.20000|version-2012-november-06|)
@@ -1963,6 +2059,4 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (|Win32|DevMain|Insiders| |16.0.13408.20000|version-2011-october-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13406.20000|version-2011-october-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13328.20000|version-2010-october-02|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13318.20000|version-2010-september-25|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13312.20006|version-2010-september-18|)
-[//]: # (管理センターのメタデータのコンテンツを変更しないでください。終了)
+[//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)
