@@ -9,20 +9,20 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT 担当者に、日付ごとに整理した Microsoft 365 Apps のリリースすべての一覧を、リリース ノートへのリンクを含めて提供します
-ms.openlocfilehash: 7ff4270fbd49b887717858f0f9cb120f14903f4f
-ms.sourcegitcommit: 20605334d158c0b79db02d1bd4fbc418578b575c
+ms.openlocfilehash: 86e2ac3bb42e3b179214e1c030ef941878054883
+ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "49387448"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601562"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 Apps の更新履歴 (日付別の一覧)
 
 この記事に記載されているバージョンとビルド番号は、Microsoft 365 Apps for enterprise、Microsoft 365 Apps for business、および Project と Visio のデスクトップ アプリのサブスクリプション版に適用されます。
 
 > [!IMPORTANT]
-> - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - Office 365 ProPlus は、バージョン 2004 以降、Microsoft 365 Apps for enterprise に名前が変更されています。詳細については、[この記事](https://go.microsoft.com/fwlink/p/?linkid=2123420)をお読みください。Microsoft のドキュメントでは通常、Microsoft 365 Apps として言及します。
+> - 現在、Microsoft 365 Apps の更新プログラム チャネルに、新しい更新プログラム チャネル (月次エンタープライズ チャネル) の追加や既存の更新プログラム チャネル名の変更など、いくつかの変更を進めています。 詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2127441)を参照してください。
+> - バージョン 2004 以降の Office 365 ProPlus は Microsoft 365 Apps for enterprise に名前が変更されています。 詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2123420)を参照してください。 Microsoft のドキュメントでは通常、Microsoft 365 Apps として扱います。
 
 > [!NOTE]
 > - この表ではリリース日付順に表示され、最新リリース日が最初に示されています。
@@ -34,23 +34,26 @@ ms.locfileid: "49387448"
 
 |**チャネル**|**バージョン**|**ビルド**|**リリース日**|**バージョンのサポート期限**|
 |:-----|:-----|:-----|:-----|:-----|
-|最新チャネル<br/>|2011<br/>|13426.20274<br/>|2020 年 11 月 23 日<br/>|バージョン 2012 がリリースされました<br/>|
-|月次エンタープライズ チャネル<br/>|2009<br/>|13231.20514<br/>|2020年11 月 10 日<br/>|2021 年 1 月 12 日<br/>|
-|月次エンタープライズ チャネル<br/>|2008<br/>|13127.20760<br/>|2020年11 月 10 日<br/>|2020年12 月 8 日<br/>|
-|半期エンタープライズ チャネル (プレビュー)<br/>|2008<br/>|13127.20760<br/>|2020年11 月 10 日<br/>|2021 年 3 月 9 日<br/>|
-|半期エンタープライズ チャネル<br/>|2002<br/>|12527.21330<br/>|2020年11 月 10 日<br/>|2021 年 9 月 14 日<br/>|
-|半期エンタープライズ チャネル<br/>|1908<br/>|11929.20974<br/>|2020年11 月 10 日<br/>|2021 年 3 月 9 日<br/>|
+|最新チャネル<br/>|2011<br/>|13426.20332<br/>|2020 年 12 月 8 日<br/>|バージョン 2012 がリリースされました<br/>|
+|月次エンタープライズ チャネル<br/>|2010<br/>|13328.20478<br/>|2020 年 12 月 8 日<br/>|2021 年 2 月 9 日<br/>|
+|月次エンタープライズ チャネル<br/>|2009<br/>|13231.20620<br/>|2020 年 12 月 8 日<br/>|2021 年 1 月 12 日<br/>|
+|半期エンタープライズ チャネル (プレビュー)<br/>|2008<br/>|13127.20910<br/>|2020 年 12 月 8 日<br/>|2021 年 3 月 9 日<br/>|
+|半期エンタープライズ チャネル<br/>|2002<br/>|12527.21416<br/>|2020 年 12 月 8 日<br/>|2021 年 9 月 14 日<br/>|
+|半期エンタープライズ チャネル<br/>|1908<br/>|11929.20984<br/>|2020 年 12 月 8 日<br/>|2021 年 3 月 9 日<br/>|
 
 [//]: # (EOSTABLEEND)
 
 以前のリリースの Microsoft 365 Apps から最新の現在のリリースへ更新する場合のおおよそのダウンロード サイズについて詳しくは、「[Microsoft 365 Apps の更新プログラムのダウンロード サイズ](download-sizes-office365-proplus-updates.md)」をご覧ください。
 
-The following table provides a list of the version and build numbers for each update to Microsoft 365 Apps released in the following update channels: Current, Monthly Enterprise, Semi-Annual Enterprise (Preview), and Semi-Annual Enterprise. Each entry in the table links directly to the release notes for that release. These release notes provide information about features, security updates, and non-security updates that are included in the update to Microsoft 365 Apps.  
+次の表は、更新プログラム チャネルでリリースされた Microsoft 365 アプリの各更新プログラムのバージョン番号とビルド番号のリストです。現在のところ、月次エンタープライズ、半期エンタープライズ (プレビュー)、および半期エンタープライズ チャネルがあります。 それぞれの表の記載項目をクリックすると、該当するリリースのリリース ノートを直接参照することができます。 これらのリリース ノートには、Microsoft 365 Apps の更新プログラムに含まれている機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムに関する情報が記載されています。  
 
 [//]: # (HISTORYTABLESTART)
 
 |**Year**|**リリース日**|**最新チャネル**|**月次エンタープライズ チャネル**|**半期エンタープライズ チャネル (プレビュー)**|**半期エンタープライズ チャネル**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2020|12 月 08 日|[バージョン 2011 (ビルド 13426.20332)](current-channel.md#version-2011-december-08)|[バージョン 2010 (ビルド 13328.20478)](monthly-enterprise-channel.md#version-2010-december-08)<br/>[バージョン 2009 (ビルド 13231.20620)](monthly-enterprise-channel.md#version-2009-december-08)|[バージョン 2008 (ビルド 13127.20910)](semi-annual-enterprise-channel-preview.md#version-2008-december-08)|[バージョン 2002 (ビルド 12527.21416)](semi-annual-enterprise-channel.md#version-2002-december-08)<br/>[バージョン 1908 (ビルド 11929.20984)](semi-annual-enterprise-channel.md#version-1908-december-08)|
+|2020|12 月 2 日|[バージョン 2011 (ビルド 13426.20308)](current-channel.md#version-2011-december-02)| | | |
+|2020|11 月 30 日|[バージョン 2011 (ビルド 13426.20294)](current-channel.md#version-2011-november-30)| | | |
 |2020|11 月 23 日|[バージョン 2011 (ビルド 13426.20274)](current-channel.md#version-2011-november-23)| | | |
 |2020|11 月 17 日|[バージョン 2010 (ビルド 13328.20408)](current-channel.md#version-2010-november-17)| | | |
 |2020|11 月 10 日|[バージョン 2010 (ビルド 13328.20356)](current-channel.md#version-2010-november-10)|[バージョン 2009 (ビルド 13231.20514)](monthly-enterprise-channel.md#version-2009-november-10)<br/>[バージョン 2008 (ビルド 13127.20760)](monthly-enterprise-channel.md#version-2008-november-10)|[バージョン 2008 (ビルド 13127.20760)](semi-annual-enterprise-channel-preview.md#version-2008-november-10)|[バージョン 2002 (ビルド 12527.21330)](semi-annual-enterprise-channel.md#version-2002-november-10)<br/>[バージョン 1908 (ビルド 11929.20974)](semi-annual-enterprise-channel.md#version-1908-november-10)|

@@ -9,25 +9,25 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 各チャネルの Microsoft 365 アプリ用更新プログラムのダウンロード サイズの概算に関する情報を IT 技術者に提供します
-ms.openlocfilehash: b5b7bdea32117e9147861133dd37c0c7035589a1
-ms.sourcegitcommit: 20605334d158c0b79db02d1bd4fbc418578b575c
+ms.openlocfilehash: d3645b8814459970e7eaf0a2788cb292be739825
+ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "49387449"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601432"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 アプリ用更新プログラムのダウンロード サイズ
 
 私たちの目的は、できる限り事前に企業のお客様のネットワーク帯域幅使用率の計画を支援できるように、更新プログラムのサイズ情報を提供することです。
 
-The following tables show the approximate download size when updating from the previous release of Microsoft 365 Apps to the most current release. Actual download sizes might vary, by as much as 50 mb. If you are updating from an older release to the current release, your download size could be larger.
+次の表には、Microsoft 365 アプリの以前のリリースから最新のリリースに更新するときのダウンロード サイズの概算が示されています。 実際のダウンロード サイズは異なる場合もありますが、誤差は 50 メガバイト程度です。 以前のリリースから現在のリリースに更新する場合には、ダウンロード サイズがさらに大きくなります。
 
-If you are switching to a different channel, for example from Semi-Annual Channel (Targeted) to Semi-Annual Channel, your update size could be considerably larger than what's listed in the table. It could entail a full download, which could be at least 1 GB.
+半期チャネル (対象指定) から半期チャネルなどに、チャネルを切り替える場合には、更新プログラムのサイズは表に記載されているサイズよりもかなり大きくなります。 全体をダウンロードすることになるので、少なくとも 1 GB になります。
 
 
 > [!IMPORTANT]
-> - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - Office 365 ProPlus は、バージョン 2004 以降、Microsoft 365 Apps for enterprise に名前が変更されています。詳細については、[この記事](https://go.microsoft.com/fwlink/p/?linkid=2123420)をお読みください。Microsoft のドキュメントでは通常、Microsoft 365 Apps として言及します。
+> - 現在、Microsoft 365 Apps の更新プログラム チャネルに、新しい更新プログラム チャネル (月次エンタープライズ チャネル) の追加や既存の更新プログラム チャネル名の変更など、いくつかの変更を進めています。 詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2127441)を参照してください。
+> - バージョン 2004 以降の Office 365 ProPlus は Microsoft 365 Apps for enterprise に名前が変更されています。 詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2123420)を参照してください。 Microsoft のドキュメントでは通常、Microsoft 365 Apps として言及します。
 
 
 > [!NOTE]
@@ -36,39 +36,120 @@ If you are switching to a different channel, for example from Semi-Annual Channe
 
 [//]: # (削除しないでください)
 
+## <a name="december-8-2020"></a>2020年12 月 8 日
+
+[//]: # (コンテンツを削除しないでください。開始 2020 年 12 月 8 日)
+
+### <a name="current-channel"></a>最新チャネル
+
+最新のリリースはバージョン2011 (ビルド 13426.20332) です。
+
+|**アップグレード前のリリース**|**リリース日**|**ダウンロード サイズの概算 (MB)**|
+|:-----|:-----|:-----|
+|バージョン 2011 (ビルド 13426.20308) <br/> |2020 年 12 月 2 日 <br/> |55<br/> |
+|バージョン 2011 (ビルド 13426.20294) <br/> |2020 年 11 月 30 日 <br/> |227<br/> |
+
+
+### <a name="monthly-enterprise-channel"></a>月次エンタープライズ チャネル
+
+最新のリリースはバージョン 2010 (ビルド 13328.20478) です。
+
+|**アップグレード前のリリース**|**リリース日**|**ダウンロード サイズの概算 (MB)**|
+|:-----|:-----|:-----|
+|バージョン 2009 (ビルド 13231.20514) <br/> |2020 年 11 月 10 日 <br/> |127<br/> |
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>半期エンタープライズ チャネル (プレビュー)
+
+最新のリリースはバージョン 2008 (ビルド 13127.20910) です。
+
+|**アップグレード前のリリース**|**リリース日**|**ダウンロード サイズの概算 (MB)**|
+|:-----|:-----|:-----|
+|バージョン 2008 (ビルド 13127.20760) <br/> |2020 年 11 月 10 日 <br/> |68<br/> |
+|バージョン 2008 (ビルド 13127.20638) <br/> |2020 年 10 月 13 日 <br/> |75<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>半期エンタープライズ チャネル
+
+最新のリリースはバージョン2002 (ビルド 12527.21416) です。
+
+|**アップグレード前のリリース**|**リリース日**|**ダウンロード サイズの概算 (MB)**|
+|:-----|:-----|:-----|
+|バージョン 2002 (ビルド 12527.21330) <br/> |2020 年 11 月 10 日 <br/> |68<br/> |
+|バージョン2002 (ビルド 12527.21236) <br/> |2020 年 10 月 13 日 <br/> |71<br/> |
+
+
+
+[//]: # (コンテンツを削除しないでください。終了 2020 年 12 月 8 日)
+
+
+
+
+## <a name="december-2-2020"></a>2020 年 12 月 2 日
+
+[//]: # (コンテンツを削除しないでください。開始 2020 年12 月 2 日)
+
+### <a name="current-channel"></a>最新チャネル
+
+最新のリリースはバージョン 2011 (ビルド 13426.20308) です。
+
+|**アップグレード前のリリース**|**リリース日**|**ダウンロード サイズの概算 (MB)**|
+|:-----|:-----|:-----|
+|バージョン 2011 (ビルド 13426.20294) <br/> |2020 年 11 月 30 日 <br/> |53<br/> |
+|バージョン 2011 (ビルド 13426.20274) <br/> |2020 年 11 月 23 日 <br/> |241<br/> |
+
+
+[//]: # (コンテンツを削除しないでください。終了 2020 年 12 月 2 日)
+
+## <a name="november-30-2020"></a>2020 年 11 月 30 日
+
+[//]: # (コンテンツを削除しないでください。開始 2020 年 11 月 30 日)
+
+### <a name="current-channel"></a>最新チャネル
+
+最新のリリースはバージョン 2011 (ビルド 13426.20294) です。
+
+|**アップグレード前のリリース**|**リリース日**|**ダウンロード サイズの概算 (MB)**|
+|:-----|:-----|:-----|
+|バージョン 2011 (ビルド 13426.20274) <br/> |2020 年 11 月 23 日 <br/> |40<br/> |
+|バージョン 2010 (ビルド 13328.20408) <br/> |2020 年 11 月 17 日 <br/> |146<br/> |
+
+
+[//]: # (コンテンツを削除しないでください。終了2020 年 11 月 30 日)
+
 ## <a name="november-23-2020"></a>2020 年 11 月 23 日
 
-[//]: # (コンテンツの開始を削除しないでください 開始 2020 年 11 月 23 日)
+[//]: # (コンテンツを削除しないでください。開始2020 年 11 月 23 日)
 
-### <a name="current-channel"></a>現在のチャネル
+### <a name="current-channel"></a>最新チャネル
 
-最新のリリースはバージョン2011 (ビルド 13426.20274) です。
+最新のリリースはバージョン 2011 (ビルド 13426.20274) です。
 
-|**アップグレード前のリリース**|**リリース日**|**おおよそのダウンロード サイズ (MB)**|
+|**アップグレード前のリリース**|**リリース日**|**ダウンロード サイズの概算 (MB)**|
 |:-----|:-----|:-----|
 |バージョン 2010 (ビルド 13328.20408) <br/> |2020 年 11 月 17 日 <br/> |143<br/> |
-|バージョン 2010 (ビルド 13328.20356) <br/> |2020年11 月 10 日 <br/> |148<br/> |
+|バージョン 2010 (ビルド 13328.20356) <br/> |2020 年 11 月 10 日 <br/> |148<br/> |
 
 
-[//]: # (コンテンツを削除しないでください。終了 2020 年 11 月 23 日)
+[//]: # (コンテンツを削除しないでください。2020 年11 月 23 日)
 
 ## <a name="november-17-2020"></a>2020 年 11 月 17 日
 
-[//]: # (コンテンツの開始を削除しないでください 開始 2020 年 11 月 17 日)
+[//]: # (コンテンツを削除しないでください。開始 2020 年 11 月 17 日)
 
-### <a name="current-channel"></a>現在のチャネル
+### <a name="current-channel"></a>最新チャネル
 
 最新のリリースはバージョン 2010 (ビルド 13328.20408) です。
 
 |**アップグレード前のリリース**|**リリース日**|**ダウンロード サイズの概算 (MB)**|
 |:-----|:-----|:-----|
-|バージョン 2010 (ビルド 13328.20356) <br/> |2020年11 月 10 日 <br/> |51<br/> |
+|バージョン 2010 (ビルド 13328.20356) <br/> |2020 年 11 月 10 日 <br/> |51<br/> |
 |バージョン 2010 (ビルド 13328.20292) <br/> |2020 年 10 月 27 日 <br/> |60<br/> |
 
 
-[//]: # (コンテンツを削除しないでください。終了 2020 年 11 月 17 日)
+[//]: # (コンテンツを削除しないでください。終了2020 年 11 月 17 日)
 
-## <a name="november-10-2020"></a>2020年11 月 10 日
+## <a name="november-10-2020"></a>2020 年 11 月 10 日
 
 [//]: # (コンテンツの開始を削除しないでください 開始 2020 年 11 月 10 日)
 
@@ -76,7 +157,7 @@ If you are switching to a different channel, for example from Semi-Annual Channe
 
 最新のリリースはバージョン2010 (ビルド 13328.20356) です。
 
-|**アップグレード前のリリース**|**リリース日**|**おおよそのダウンロード サイズ (MB)**|
+|**アップグレード前のリリース**|**リリース日**|**ダウンロード サイズの概算 (MB)**|
 |:-----|:-----|:-----|
 |バージョン 2010 (ビルド 13328.20292) <br/> |2020 年 10 月 27 日 <br/> |57<br/> |
 |バージョン 2009 (ビルド 13231.20418) <br/> |2020 年 10 月 21 日 <br/> |286<br/> |
@@ -214,7 +295,7 @@ If you are switching to a different channel, for example from Semi-Annual Channe
 
 
 
-## <a name="september-28-2020"></a>2020 年 9 月 28 日
+## <a name="september-28-2020"></a>2020 年 9 月 28日
 
 [//]: # (コンテンツを削除しないでください。開始2020年9月28日)
 
