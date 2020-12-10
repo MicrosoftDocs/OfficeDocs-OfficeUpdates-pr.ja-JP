@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: IT プロフェッショナルに、Office 展開ツール (ODT) のリリース履歴を提供します
-ms.openlocfilehash: a1553a3f08a254c9c177fec88073073c34a3427c
-ms.sourcegitcommit: 413694d561d367e93ad51c9be41495ad09a24af3
+ms.openlocfilehash: 125f37f1fb4b21d2d63784e51703c1297d928f49
+ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/23/2020
-ms.locfileid: "49385483"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601412"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Office 展開ツールのリリース履歴
 
 Office 展開ツール (ODT) はコマンドライン ツールです。これを使用すると、Microsoft 365 アプリなどのクイック実行バージョンの Office をクライアント コンピューターにダウンロードして展開することができます。 
 
 
-ODT により、Office インストール環境をより詳細に制御できるようになります。具体的には、インストールする製品や言語の種類、それらの製品の更新方法、インストール操作をユーザーに表示するかどうかを制御できます。ODT の使用方法については、[Office 展開ツールの概要](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool)を参照してください。
+ODT により、Office インストール環境をより詳細に制御できるようになります。 具体的には、インストールする製品や言語の種類、それらの製品の更新方法、インストール操作をユーザーに表示するかどうかを制御できます。 ODT の使用方法については、[Office 展開ツールの概要](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool)を参照してください。
 
  **サポートされているオペレーティング システム**: Windows 10、Windows 8.1、Windows Server 2019、Windows Server 2016 
  
@@ -29,13 +29,19 @@ ODT により、Office インストール環境をより詳細に制御できる
 
 [Office 展開ツールのダウンロード](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
 
+## <a name="december-8-2020"></a>2020年12 月 8 日
+バージョン 16.0.13426.20308 (setup.exe バージョン 16.0.13426.20308)
+- デバイスに Perpetual 2019 以外のチャネルから Office 製品がインストールされている場合に、ダウンロード モードが Perpetual 2019 チャネルのダウンロードをブロックする問題を修正しました。
+- 構成 XML で明示的なバージョンが指定されているダウンロード モードで作成されたローカル ソースに対してアーキテクチャの移行が失敗する問題を修正しました。
+
+
 ## <a name="november-23-2020"></a>2020 年 11 月 23 日
 バージョン 16.0.13328.20420 (setup.exe バージョン 16.0.13328.20420)
 - /ダウンロード モードで校正ツールをダウンロードできなかった問題が修正されました
-- 昇格されていないユーザー コンテキストで実行したときに /ダウンロード モードが失敗する問題が修正されました。
-- 構成 XML にバージョン属性を指定すると、/ダウンロード モードでのダウンロードが不完全になる問題が修正されました。
-- 抽出時に Office 展開ツールの名前が "setup.exe" にならない問題が修正されました。
-- 構成 XML にチャネル属性が指定されている際のインストール ソースの優先順位付けに関する問題が修正されました。
+- 昇格されていないユーザー コンテキストで実行したときに /ダウンロード モードが失敗する問題が修正されました
+- 構成 XML にバージョン属性を指定すると、/ダウンロード モードでのダウンロードが不完全になる問題が修正されました
+- 抽出時に Office 展開ツールの名前が "setup.exe" にならない問題が修正されました
+- 構成 XML にチャネル属性が指定されている際のインストール ソースの優先順位付けに関する問題が修正されました
 
 ## <a name="november-10-2020"></a>2020 年 11 月 10 日
 バージョン 16.0.13328.20356 (setupODT.exe バージョン 16.0.13328.20336)

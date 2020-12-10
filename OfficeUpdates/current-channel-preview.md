@@ -9,24 +9,221 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに新機能、修正プログラム、または既知の問題の最新リストを提供します
-ms.openlocfilehash: 23b62c7eb5c91e4fecb0c14567b2554f4f89b371
-ms.sourcegitcommit: 3a7eddcac9238b1394f1c1623ddb3273254b9ceb
+ms.openlocfilehash: 39d685dc793bf9afae8126923272c428470125bd
+ms.sourcegitcommit: 40dff4c716db4382af4841031ba0050869e78e42
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "49408343"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "49613539"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 向けリリース ノートの最新チャネル (プレビュー)
 
-This article contains release notes for Current Channel (Preview) builds of Word, Excel, PowerPoint, Outlook, Access, and Project for Windows desktop. Every week, we’ll highlight interesting new features, important fixes, and any significant issues we want you to know about. Note that we often roll out features (and sometimes even fixes) to Current Channel (Preview) over a period of time. This allows us to ensure that things are working smoothly before releasing the feature to a wider audience. So, if you don’t see something described below, don't worry you'll get it eventually.  
+この記事には、Windows デスクトップ向け Word、Excel、PowerPoint、Outlook、Access、Project、Teams の最新チャネル (プレビュー版) ビルドのリリース ノートが含まれています。 Microsoft では、毎週、皆様にお知らせしたい魅力的な新機能、重要な修正プログラム、重大な問題に関する情報を提供しています。 多くの場合、機能 (場合によっては修正プログラムも) は、特定の期間にわたって最新チャネル (プレビュー) に展開されることに注意してください。 これにより、Microsoft では、より広範な対象ユーザーに機能をリリースする前に、作業がスムーズに行われていることを確認できます。 したがって、下記のものが表示されない場合でも、心配する必要はなく、いずれは表示されます。  
 
 > [!IMPORTANT]
-> We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> 現在、Microsoft 365 Apps の更新プログラム チャネルに、新しい更新プログラム チャネル (月次エンタープライズ チャネル) の追加や既存の更新プログラム チャネル名の変更など、いくつかの変更を進めています。 詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2127441)を参照してください。
 
 > [!NOTE]
 > - リリースノートの発行日は実際のビルドのリリース日と一致しない場合があります。
+> - Microsoft Teams の機能は、リリース頻度が高いため、最新チャネル プレビュー版とは異なる場合があります。
 
 [//]: # (削除しないでください)
+
+## <a name="version-2012-december-07"></a>バージョン 2012: 12 月 7 日
+*バージョン 2012 (ビルド 13530.20064)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+
+### <a name="teams"></a>Teams
+
+- **Teams で Windows ネイティブ通知をサポート:** ユーザーはバナーに組み込まれた Teams、または Windows のネイティブ バナーのいずれかを使用して、通知配信の優先手段を選択できるようになりました。
+
+
+- **Citrix および VMWare VDI の Teams 会議 2X2 ギャラリー ビュー:** Teams の VDI 2x2 ギャラリー ビュー機能を使用すると、Teams クライアントが VDI 最適化モードの場合、Citrix、VMWare から VDI クライアントの 2x2 ギャラリー ビューで最大 4 人の参加者のビデオを表示できます。
+
+
+- **会議の反応:**  会議の反応は、会議を操作するための新しい方法です。 参加者は、共有されているコンテンツにストリームとして表示される反応を送信できます。また、会議ステージに表示されている場合は、その反応を送信した人物に対しても送信できます。 
+
+
+- **Web 会議の Together モードとラージ ギャラリー** ラージ ギャラリーでは、同時に最大 49 の他のユーザーのビデオを見ることができます。 このオプションは、少なくとも 10 人のユーザーがカメラをオンにしている場合に使用できます。 Together モードを使用すると、会議のすべてのユーザーと同じ共有スペースを使用しているかのように感じられます。 会議に少なくとも 5 人のユーザーがいる場合に、Together モードを使用できます。 
+
+
+- **コール マージ** コール マージを使用すると、ユーザーは新しい通話または新しい着信を 1-1 またはグループ呼び出しに結合できます。 これは、Teams の VOIP 通話と PSTN 通話に適用されます。 
+
+
+### <a name="visio"></a>Visio
+
+- **新しい Azure ステンシルと図形:** 最新の Azure 図を作成するために、多くのステンシルを追加しました。 [詳細情報](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- 一部のリボン要素が簡体字中国語でローカライズされていないという問題が修正されました。
+
+
+- 更新時に Excel が予期せず終了する問題が修正されました。
+
+
+- OneDrive のローカル同期フォルダーからファイルを挿入する際に、「オブジェクトの挿入」コマンドにおいて正しいアイコンが表示されない問題を修正しました。
+
+
+- 上書きモードで、IME の使用が必要な言語で編集を行うと、パフォーマンスが低下する問題を修正しました。
+
+
+- 共同編集時に、一部のユーザーに対して、新しいバージョンのファイルを通知するメッセージ バーが誤って表示される問題を修正しました。
+
+
+- 数式ビューでデータをコピーして貼り付けるときに Excel が予期せず終了する問題を修正しました。
+
+
+- 自動保存が無効になった場合に、通知のヘルプ記事へのハイパーリンクが破損していた問題を修正しました。
+
+
+- Excel を特定の言語で実行しているときにデータを入力すると、Excel が動作しなくなるという問題を修正しました。
+
+
+- この変更により、数式内にフォントが正しく表示されないという問題が解決されます。
+
+
+- これにより、Power Pivot がタブ区切りのテキストファイルを正しくインポートできない問題が修正されました。
+
+
+### <a name="outlook"></a>Outlook
+
+- タスク進捗レポートの [宛先] フィールドが空白になってしまう問題を修正しました。
+
+
+- MailItem.BeforeAttachmentAdd イベントの破損原因となった問題が修正されました。
+
+
+- Outlook 以外のアプリケーションから Outlook メールを送信するときに問題が発生する原因となった問題を修正しました。
+
+
+- 下書きに保存すると、SmartLinks が書式設定を失うという問題が修正されました。
+
+
+- Zip ファイルから開いたメッセージに添付ファイルを追加するときに問題が発生するという問題が修正されました。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Word から PowerPoint への数式のコピーと貼り付けに関する問題を修正しました。
+
+
+- この変更により、インク分析中のタイムアウトに関連する問題が解決します。
+
+
+- この変更は、アニメーション GIF ユーザー インターフェイスの作成に関する文法エラーに対処します。
+
+
+- この変更により、特定のジオメトリで図形の結合操作を適用するときの軌跡の塗りつぶしに関する問題が解決されます。
+
+
+- この変更により、数式内にフォントが正しく表示されないという問題が解決されます。
+
+
+- この変更により、ビデオの読み込み中に発生する可能性のあるエラーの処理に関する問題が解決されます。
+
+
+- Slide.Shapes.AddMediaObject2 が従来のビデオ形式 (MPG-1、Mpeg-2) でクラッシュする VBA の問題を修正しました。
+
+
+- 共同編集者の詳細情報が利用可能な場合、不明だった共同編集者のプレゼンス インジケーターが完全に更新されないという問題を修正しました。
+
+
+- ルーラーがオンの状態でスライド表示のサイズが変更されるときに、null ポインターが逆に参照されるという問題を修正しました。
+
+
+- ドキュメントの修復操作の後であっても、一部の破損した PowerPoint ファイルを正常に開くことができないという問題が修正されました。
+
+
+### <a name="project"></a>Project
+
+- 更新された情報が保存されているはずのプロジェクトをユーザーが開いた際に、更新された情報が見つからないという問題を修正しました。
+
+
+- 成果物が関連付けられていた SharePoint サイトが存在しなくなった場合に、成果物の依存関係を削除できない問題を修正しました。
+
+
+- 多くのリソースを持つプロジェクトを開くのに時間がかかるという問題を修正しました。
+
+
+- タスクに関連付して、割り当てられていない割り当てが複数存在するという問題が修正されました。
+
+
+- 大規模なプロジェクトでは、タスク名の入力に非常に時間がかかることがある問題が修正されました。
+
+
+- ロードの特定の部分でプロジェクト ファイルに問題がある場合に、特定のプロジェクトを開くことができるという問題が修正されました。
+
+
+### <a name="word"></a>Word
+
+- リッチ テキストとして貼り付けるより、通常のテキストとして貼り付けることが推奨されます。 このコンテキスト メニューの修正プログラムでは、テキストとして貼り付けることができます。 それ以外の場合、ユーザーはメモ帳などのプレーンテキスト エディターにコピーして、メモ帳から目的のターゲット アプリにコピーする必要があります。
+
+
+- Word から PowerPoint への数式のコピーと貼り付けに関する問題を修正しました。
+
+
+- この変更により、ドキュメントを編集するときのカーソルに関する問題が解決されます。
+
+
+- ズーム中に写真がぼやけてしまう問題を修正しました。
+
+
+- 長いハイパーリンクが一部省略されてしまう問題を修正しました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- Office スイートでは、新しいバージョンの Office を特定の古いバージョンの Office の上からインストールすると、レジストリ エントリが存在していないために機能が低下する(Power Query を使用できないなど) という問題が修正されました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2011-december-01"></a>バージョン 2011: 12 月 1 日
+*バージョン 2011 (ビルド 13426.20306)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="outlook"></a>Outlook
+
+- **会議はすべてオンラインで:** 新しい設定により、オンライン会議のスケジュールを簡単に立てれるため、既定ですべての会議をオンラインにできます。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- 他の出席者が会議を転送すると、会議の元の出席者の一部がキャンセルを受信するという問題が修正されました。
+
+
+- 1 つ以上の署名が構成されているにもかかわらず、ユーザーの署名が署名ドロップダウンに表示されない問題が修正されました。
+
+
+### <a name="project"></a>Project
+
+- ロードの特定の部分でプロジェクト ファイルに問題がある場合に、特定のプロジェクトを開くことができるという問題が修正されました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2011-november-24"></a>バージョン 2011: 11 月 24 日
 *バージョン 2011 (ビルド 13426.20294)*
@@ -36,7 +233,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 ### <a name="resolved-issues"></a>解決済みの問題
 ### <a name="office-suite"></a>Office スイート
 
-- Word から Powerpoint への数式のコピーと貼り付けに関する問題を修正
+- Word から PowerPoint への数式のコピーと貼り付けに関する問題を修正しました。
 
 
 
@@ -50,7 +247,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 ### <a name="feature-updates"></a>機能の更新プログラム
 ### <a name="powerpoint"></a>PowerPoint
 
-- **ビデオ ライブラリ:** は、アプリ内で利用可能な、質の良い無料のビデオ フッテージのライブラリを使用してドキュメントの質を高めます。
+- **ビデオ ライブラリ:** アプリ内で利用可能な、質の良い無料のビデオ フッテージのライブラリを使用してドキュメントの質を高めます。
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -65,14 +262,14 @@ This article contains release notes for Current Channel (Preview) builds of Word
 - MailItem.BeforeAttachmentAdd イベントの破損原因となった問題が修正されました。 
 
 
-- IDataObject 操作 (つまりクリップボードのドラッグやドロップ) で、ユーザーが添付ファイルに対して filetime の付加を無効にすることを許可できるように、レジストリキーを追加しました。 HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\添付ファイル。 REG_DWORD IncludeFileTimesInDataObject。 0 = filetimes は除外されます。 1 = (既定) filetimes が含まれています
+- IDataObject 操作 (つまりクリップボードのドラッグやドロップ) で、ユーザーが添付ファイルに対して filetime の付加を無効にできるように、regkey を追加しました。 HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments. REG_DWORD IncludeFileTimesInDataObject. 0 = filetimes は除外されます。 1 = (既定) filetimes が含まれています
 
 
-- Azure Information Protection の保護ラベルを使用してメッセージに返信すると、インライン画像が表示されなくなった問題が修正されました。
+- Azure Information Protection の保護ラベルを使用してメッセージに返信すると、インライン画像が表示されなかった問題が修正されました。
 
 
 
-[//]: # (BUGDETAILS コンテンツ を削除しないでください。終了)
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2011-november-18"></a>バージョン 2011: 11 月 18 日
 *バージョン 2011 (ビルド 13426.20250)*
@@ -103,13 +300,13 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- Slide.Shapes.AddMediaObject2 が従来のビデオ形式 (.MPG-1、Mpeg-2) でクラッシュする VBA 問題を修正しました。
+- Slide.Shapes.AddMediaObject2 が従来のビデオ形式 (MPG-1、Mpeg-2) でクラッシュする VBA の問題を修正しました。
 
 
 
-[//]: # (BUGDETAILS コンテンツ を削除しないでください。終了)
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2011-november-09"></a>バージョン 2011: 11 月 09 日
+## <a name="version-2011-november-09"></a>バージョン 2011: 11 月 9 日
 *バージョン 2011 (ビルド 13426.20184)*
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
@@ -259,7 +456,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 
 
-[//]: # (BUGDETAILS コンテンツ エンドを削除しないでください。終了)
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2010-november-06"></a>バージョン 2010: 11 月 6 日
 *バージョン 2010 (ビルド 13328.20356)*
@@ -288,7 +485,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **SVG クリップボードのサポート:** Office からサードパーティのアプリに SVG コンテンツを貼り付けることができるようになりました。 [詳細情報](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />[ブログ記事](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)の詳細情報をご覧ください
+- **SVG クリップボードのサポート:** Office からサードパーティのアプリに SVG コンテンツを貼り付けることができるようになりました。 [詳細情報](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />[ブログの投稿](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)の詳細情報をご覧ください
 
 - **透過背景の GIF を作成する**: アニメーション GIF にエクスポートする場合、新しいオプションを使用して背景を透明にすることができます。<br />[ブログ記事](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)の詳細情報をご覧ください
 

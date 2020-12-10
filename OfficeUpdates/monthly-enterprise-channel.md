@@ -9,23 +9,175 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の月次エンタープライズ チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 924c774b56a1b39fdaaf6a55ea2cfcff65e128fb
-ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
+ms.openlocfilehash: 523eadc2a10787c22b774c4c01dd9997153a8bb8
+ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48990156"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601522"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>2020 年の月次エンタープライズ チャネル リリースのリリース ノート
 
 このリリース ノートには、2020 年の月次エンタープライズ チャネルの更新プログラムに含まれる新機能と、セキュリティ以外の更新プログラムに関する情報が記載されています。対象となるのは、Microsoft 365 Apps for enterprise、Microsoft 365 Apps for business、および Project と Visio のデスクトップ アプリのサブスクリプション版です。
 
 > [!IMPORTANT]
-> 新しい更新チャネル (月次エンタープライズチャネル) の追加や既存の更新チャネルの名前の変更など、Microsoft365 アプリの更新チャネルにいくつかの変更を加えています。 詳細については、[この記事をお読みください](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
+> Microsoft 365 アプリの更新チャネルの更新プログラムチャネルに、新しい更新チャネル (月間エンタープライズ チャネル) の追加や、既存の更新プログラムチャネルの名前の変更など、いくつかの変更を行っています。 詳細については、[こちらの記事を参照](https://go.microsoft.com/fwlink/p/?linkid=2127441)をご覧ください。
 
 [//]: # (削除しないでください)
 
 
+
+## <a name="version-2010-december-08"></a>バージョン 2010: 12 月 08 日
+*バージョン 2010 (ビルド 13328.20478)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="access"></a>Access
+
+- **Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。 [ファイル] > [アカウント] の順に移動し、[Office テーマ] ドロップダウンで [システム設定を使用する] を選択します。 [詳細情報](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="excel"></a>Excel
+
+- **数式で使用する変数を作成する:** LET 関数を使用してパフォーマンス、読みやすさ、および構成性を向上させます。 この関数では、新規または既存の数式に名前付き変数を作成することができます。 [詳細情報](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br />[ブログの投稿](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/)の詳細情報をご覧ください
+
+- **Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。 [ファイル] > [アカウント] の順に移動し、[Office テーマ] ドロップダウンで [システム設定を使用する] を選択します。 [詳細情報](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="onenote"></a>OneNote
+
+- **Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。 [ファイル] > [アカウント] の順に移動し、[Office テーマ] ドロップダウンで [システム設定を使用する] を選択します。 [詳細情報](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="outlook"></a>Outlook
+
+- **タスクのユーザー エクスペリエンスの更新:** タスク アイテムの視覚的な更新
+
+- **Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。 [ファイル] > [Office アカウント] の順に移動し、[Office テーマ] ドロップダウンで [システム設定を使用する] を選択します。 [詳細情報](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。 [ファイル] > [アカウント] の順に移動し、[Office テーマ] ドロップダウンで [システム設定を使用する] を選択します。 [詳細情報](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+- **アニメーション GIF を範囲内でエクスポートする**: アニメーション GIF にエクスポートするときにスライドの範囲を選択します
+
+- **透過背景の GIF を作成する**: アニメーション GIF にエクスポートする場合、新しいオプションを使用して背景を透明にすることができます。<br />[ブログの投稿](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)の詳細情報をご覧ください
+
+### <a name="project"></a>Project
+
+- **Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。 [ファイル] > [アカウント] の順に移動し、[Office テーマ] ドロップダウンで [システム設定を使用する] を選択します。 [詳細情報](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="publisher"></a>発行者
+
+- **Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。 [ファイル] > [アカウント] の順に移動し、[Office テーマ] ドロップダウンで [システム設定を使用する] を選択します。 [詳細情報](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="visio"></a>Visio
+
+- **Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。 [ファイル] > [アカウント] の順に移動し、[Office テーマ] ドロップダウンで [システム設定を使用する] を選択します。 [詳細情報](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="word"></a>Word
+
+- **Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。 [ファイル] > [アカウント] の順に移動し、[Office テーマ] ドロップダウンで [システム設定を使用する] を選択します。 [詳細情報](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="access"></a>Access
+
+- Office 以外のアプリケーションから DAO を使用すると、アプリケーションが予期せず終了する問題を修正しました。
+
+
+### <a name="outlook"></a>Outlook
+
+- Outlook でクラウド設定を有効にしているユーザーに対して、2つ目の空白の署名を作成するという問題が修正されました。
+
+
+- ユーザーに対してクラウド設定が既定でオンにならない原因となっていた問題を修正しました。
+
+
+- ユーザーの署名への変更が保存できない原因となっていた問題を修正しました。
+
+
+- 返信または転送時に中国語メッセージのヘッダーが読み取れなくなる問題を修正しました。
+
+
+- OFT ファイルとして保存するときに中国語の文字が疑問符に変更される問題を修正しました。
+
+
+- IDataObject 操作 (つまりクリップボードのドラッグやドロップ) で、ユーザーが添付ファイルに対して filetime の付加を無効にできるように、regkey を追加しました。  HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments.  REG_DWORD IncludeFileTimesInDataObject.  0 = filetimes は除外されます。  1 = (既定) filetimes が含まれます。
+
+
+- MailItem.BeforeAttachmentAdd イベントの破損原因となった問題が修正されました。 
+
+
+- 他の出席者が会議を転送すると、会議の元の出席者の一部がキャンセルを受信するという問題が修正されました。
+
+
+- ユーザーが代理人に編集者権限を付与できなくなる問題を修正しました。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- これは、PresentationBeforeClose イベントを聞き、イベント ハンドラーの一部として Presentation.Saved プロパティをチェックするアドインがある場合、ドキュメントを閉じるときに保存プロンプトがループで表示される問題の修正です。
+
+
+- マージ中に IRM/ 保護されたドキュメントを使用しているときに発生する問題を解決します。
+
+
+- Word から Powerpoint への数式のコピーと貼り付けに関する問題を修正した。
+
+
+### <a name="project"></a>Project
+
+- リソースの配分状況が特定の方法で指定されているファイルを開くと、Project が予期せず終了することがある問題を修正しました。
+
+
+- プロジェクトを PWA からローカル mpp ファイルに保存すると、ユーザーが実際に変更していないデータに対して ProjectBeforeTaskChangeEvent が発生する問題を修正しました。
+
+
+- タスクフォームタイプビュー内でラグが変更された場合、ProjectBeforeTaskChagne イベントの NewVal に正しい値がない問題を修正しました。
+
+
+### <a name="visio"></a>Visio
+
+- 問題が修正され、ユーザーが Visio for Office 365 のコネクタを使用して、ユーザー設定の Visio ステンシルと組み込みのテンプレートの両方で直線を作成できるようになりました。
+
+
+### <a name="word"></a>Word
+
+- Word から Powerpoint への数式のコピーと貼り付けに関する問題を修正した。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- Microsoft 365 エンドポイントのデータ損失防止が、ディスク上の Office ドキュメントを分類できない問題を修正しました。
+
+
+- Office からインクジェット プリンターでドキュメントやファイルを印刷するとき、プリンターのインク残量が少ない場合、インクジェット プリンターではトナーは使用されないにもかかわらず、[トナー残量: 少] または [トナーなし] と表示されます。 このメッセージが [トナー/インク残量: 少] と [トナー/インクなし] に変更されます。
+
+
+- コメントから Excel にテキストをコピーして貼り付けるときにエラーが発生する問題を修正しました。
+
+
+- 特定のシナリオで、[名前を付けて保存] の実行に失敗する問題を修正しました。
+
+
+- 同期バックからサーバーのみに移行したファイルを保存しようとすると失敗する問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2009-december-08"></a>バージョン 2009: 12 月 08 日
+*バージョン 2009 (ビルド 13231.20620)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-2009-november-10"></a>バージョン 2009: 11 月 10 日
 *バージョン2009 (ビルド 13231.20514)*
@@ -118,7 +270,7 @@ ms.locfileid: "48990156"
 
 
 
-[//]: # (BUGDETAILS コンテンツ エンドを削除しないでください。終了)
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2008-november-10"></a>バージョン 2008: 11 月 10 日
 *バージョン 2008 (ビルド 13127.20760)*
@@ -134,7 +286,7 @@ ms.locfileid: "48990156"
 - マクロを使用して、範囲の FormulaR1C1 プロパティを設定する問題を修正しました。グラフ シートがアクティブ シートである場合、セル参照が正しくありませんでした。
 
 
-- Excel で 1 つまたは複数の数式を計算しようとする際に発生する、「Excelはリソース不足になりました」というエラーが生じる問題が修正されました。
+- Excel で 1 つまたは複数の数式を計算しようとする際に発生する、Excelはリソース不足になりましたというエラーが生じる問題が修正されました。
 
 
 - Office の言語がスペイン語に設定されているときに、データ検証リストにすべてのアイテムが表示されない問題が修正されました。
@@ -171,8 +323,7 @@ ms.locfileid: "48990156"
 - ユーザーが代理人に編集者権限を付与できなくなる問題を修正しました。
 
 
-- オプションの接続エクスペリエンスが Web アドインの読み込みをブロックする問題を修正しました。<br />
-  [ブログ記事](https://developer.microsoft.com/ja-JP/office/blogs/outlook-add-ins-and-optional-connected-experiences/)の詳細情報をご覧ください
+- オプションの接続エクスペリエンスが Web アドインの読み込みをブロックする問題を修正しました。<br />[ブログの投稿](https://developer.microsoft.com/en-us/office/blogs/outlook-add-ins-and-optional-connected-experiences/)の詳細情報をご覧ください
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -214,17 +365,17 @@ ms.locfileid: "48990156"
 
 ### <a name="outlook"></a>Outlook
 
-- **クイック投票を使用して、Outlook で投票を作成:** 簡単に投票を作成し、票を収集して、メールに結果を表示します。 [詳細情報](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
+- **クイック投票を使用して、Outlook で投票を作成:** 簡単に投票を作成し、票を収集して、メールに結果を表示します。[詳細情報](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
 
 - **Outlook の新しいプロファイル カード:** Outlook の新しいプロファイル カードは、組織ビューが改善され、Outlook Web のカード スタイルに一致します。 [詳細情報](https://support.office.com/article/e80f931f-5fc4-4a59-ba6e-c1e35a85b501)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **固定フォルダーに保存する:** フォルダーをピン留めすると、Office ファイルの保存が簡単になります。  ユーザーは新しいファイルが保存されるときに使用可能なフォルダーをより詳細に制御したいとのフィードバックを受けました。 新しい機能が追加されました。 [保存] ダイアログ ボックスでフォルダーをピン留めできます。 この新しい機能により、Word、Excel、PowerPoint のファイルを簡単に保存できます。 [詳細情報](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />[ブログの投稿](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/) の詳細情報をご覧ください
+- **固定フォルダーに保存する:** フォルダーをピン留めすると、Office ファイルの保存が簡単になります。  ユーザーは新しいファイルが保存されるときに使用可能なフォルダーをより詳細に制御したいとのフィードバックを受けました。 新しい機能が追加されました。 [保存] ダイアログ ボックスでフォルダーをピン留めできます。 この新しい機能により、Word、Excel、PowerPoint のファイルを簡単に保存できます。 [詳細情報](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />[ブログの投稿](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)の詳細情報をご覧ください
 
 ### <a name="word"></a>Word
 
-- **固定フォルダーに保存する:** フォルダーをピン留めすると、Office ファイルの保存が簡単になります。  ユーザーは新しいファイルが保存されるときに使用可能なフォルダーをより詳細に制御したいとのフィードバックを受けました。 新しい機能が追加されました。 [保存] ダイアログ ボックスでフォルダーをピン留めできます。 この新しい機能により、Word、Excel、PowerPoint のファイルを簡単に保存できます。 [詳細情報](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />[ブログの投稿](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/) の詳細情報をご覧ください
+- **固定フォルダーに保存する:** フォルダーをピン留めすると、Office ファイルの保存が簡単になります。  ユーザーは新しいファイルが保存されるときに使用可能なフォルダーをより詳細に制御したいとのフィードバックを受けました。 新しい機能が追加されました。 [保存] ダイアログ ボックスでフォルダーをピン留めできます。 この新しい機能により、Word、Excel、PowerPoint のファイルを簡単に保存できます。 [詳細情報](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />[ブログの投稿](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)の詳細情報をご覧ください
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -418,7 +569,7 @@ ms.locfileid: "48990156"
 
 ### <a name="office-suite"></a>Office スイート
 
-- **タブ付きのウィンドウ** : アプリの右側にあるタブ UI を使用して、複数のウィンドウ間を切り替えることができるようになりました。 UI は、2 つ以上のウィンドウが開かれている場合にのみ表示されます。<br />[ブログの投稿](https://blog-insider.office.com/2020/02/20/improved-pane-management/)の詳細情報をご覧ください
+- **タブ付きのウィンドウ**: アプリの右側にあるタブ UI を使用して、複数のウィンドウ間を切り替えることができるようになりました。 UI は、2 つ以上のウィンドウが開かれている場合にのみ表示されます。<br />[ブログの投稿](https://blog-insider.office.com/2020/02/20/improved-pane-management/)の詳細情報をご覧ください
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -523,7 +674,7 @@ ms.locfileid: "48990156"
 
 - **アニメーション Gif を使用してストーリーを伝える:** Office エディターでアニメーション Gif がサポートされるようになりました。これにより、さらに目を引くドキュメントを作成できるようになりました。
 
-- **他のユーザーを混乱させずに、フィルター処理して並べ替える:** 、Sheet View で他のユーザーとの共同作業を行いながら Excel ファイルの並べ替えやフィルター処理ができるようになりました。 この新機能により、文書を共同編集しているときに、他のユーザーの並べ替えやフィルター処理による影響を受けません。 [詳細情報](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)
+- **他のユーザーを混乱させずに、フィルター処理して並べ替える:**、Sheet View で他のユーザーとの共同作業を行いながら Excel ファイルの並べ替えやフィルター処理ができるようになりました。 この新機能により、文書を共同編集しているときに、他のユーザーの並べ替えやフィルター処理による影響を受けません。 [詳細情報](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)
 
 ### <a name="outlook"></a>Outlook
 
@@ -531,7 +682,7 @@ ms.locfileid: "48990156"
 
 - **アニメーション Gif を使用してストーリーを伝える:** Office エディターでアニメーション Gif がサポートされるようになりました。これにより、さらに目を引くドキュメントを作成できるようになりました。
 
-- **Outlook でのメール作成時の @ メンションの候補表示を無効にするオプションが追加されました。** @ メンション ピッカーが便利どころか迷惑だと感じていますか? 今後は、必要に応じてオフにすることができます。<br />[ブログの投稿](https://blog-insider.office.com/2020/03/26/feedback-in-action-disable-mentions/) の詳細情報をご覧ください
+- **Outlook でのメール作成時の @ メンションの候補表示を無効にするオプションが追加されました。**@ メンション ピッカーが便利どころか迷惑だと感じていますか? 今後は、必要に応じてオフにすることができます。<br />[ブログの投稿](https://blog-insider.office.com/2020/03/26/feedback-in-action-disable-mentions/) の詳細情報をご覧ください
 
 - **メールの一部として画像を送信するときに、画像を高品質に維持する:** メールの内容の一部として画像を送信するときに、画像の圧縮を制限するための新しい Outlook の設定を使用できます。
 
@@ -539,7 +690,7 @@ ms.locfileid: "48990156"
 
 - **アニメーション Gif を使用してストーリーを伝える:** Office エディターでアニメーション Gif がサポートされるようになりました。これにより、さらに目を引くドキュメントを作成できるようになりました。
 
-- **PowerPoint でのストリーム ビデオのパフォーマンス向上:** 、ビデオの読み込み時間を最小限に抑え、快適な表示を実現するために Microsoft Stream ビデオの再生パフォーマンスを改善しました。 お客様の社内ビデオを使用して、Microsoft Stream でより適切なプレゼンテーションを作成します。
+- **PowerPoint でのストリーム ビデオのパフォーマンス向上:**、ビデオの読み込み時間を最小限に抑え、快適な表示を実現するために Microsoft Stream ビデオの再生パフォーマンスを改善しました。 お客様の社内ビデオを使用して、Microsoft Stream でより適切なプレゼンテーションを作成します。
 
 ### <a name="word"></a>Word
 
@@ -741,7 +892,7 @@ ms.locfileid: "48990156"
 
 - **Facebook コネクタのサポート終了:** 2020 年 4 月以降、Excel では Facebook コネクタを使用する外部データ接続がサポートされなくなります。
 
-- **ブックの見映えを良くする新しい画像:** 何千ものロイヤリティフリーの画像、アイコン、ステッカーが用意されており、これらをブックで使用できます。 開始するには、[挿入] > [画像] > [ストック画像] の順に選択します。 [詳細情報](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />[ブログの投稿](https://blog-insider.office.com/2020/04/06/premium-creative-content/) の詳細情報をご覧ください
+- **ブックの見映えを良くする新しい画像:** 何千ものロイヤリティフリーの画像、アイコン、ステッカーが用意されており、これらをブックで使用できます。 開始するには、[挿入] > [画像] > [ストック画像] の順に選択します。 [詳細情報](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />[ブログの投稿](https://blog-insider.office.com/2020/04/06/premium-creative-content/)の詳細情報をご覧ください
 
 ### <a name="outlook"></a>Outlook
 
@@ -759,7 +910,7 @@ ms.locfileid: "48990156"
 
 - **プレゼンテーション中に変更を同期する:** プレゼンテーションがスライド ショー モードであっても、いつでも変更を同期できます。 [詳細情報](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />[ブログの投稿](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/) の詳細情報をご覧ください
 
-- **スライドの見映えを良くする新しい画像:** 何千ものロイヤリティフリーの画像、アイコン、ステッカーが用意されており、これらをプレゼンテーションで使用できます。 開始するには、[挿入] > [画像] > [ストック画像] の順に選択します。 [詳細情報](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />[ブログの投稿](https://blog-insider.office.com/2020/04/06/premium-creative-content/) の詳細情報をご覧ください
+- **スライドの見映えを良くする新しい画像:** 何千ものロイヤリティフリーの画像、アイコン、ステッカーが用意されており、これらをプレゼンテーションで使用できます。 開始するには、[挿入] > [画像] > [ストック画像] の順に選択します。 [詳細情報](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />[ブログの投稿](https://blog-insider.office.com/2020/04/06/premium-creative-content/)の詳細情報をご覧ください
 
 ### <a name="word"></a>Word
 
@@ -767,7 +918,7 @@ ms.locfileid: "48990156"
 
 - **最適な色を選択する:** 16 進数カラーコードを使用して、フォントやテキストのハイライトなどに使用する色を正確に選びます。<br />[ブログの投稿](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/) の詳細情報をご覧ください
 
-- **ドキュメントの見映えを良くする新しい画像:** 何千ものロイヤリティフリーの画像、アイコン、ステッカーが用意されており、これらをドキュメントで使用できます。 開始するには、[挿入] > [画像] > [ストック画像] の順に選択します。 [詳細情報](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />[ブログの投稿](https://blog-insider.office.com/2020/04/06/premium-creative-content/) の詳細情報をご覧ください
+- **ドキュメントの見映えを良くする新しい画像:** 何千ものロイヤリティフリーの画像、アイコン、ステッカーが用意されており、これらをドキュメントで使用できます。 開始するには、[挿入] > [画像] > [ストック画像] の順に選択します。 [詳細情報](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />[ブログの投稿](https://blog-insider.office.com/2020/04/06/premium-creative-content/)の詳細情報をご覧ください
 
 ### <a name="office-suite"></a>Office スイート
 
@@ -871,11 +1022,11 @@ ms.locfileid: "48990156"
 
 - **人物を検索するときにメールの候補を取得する:** [検索] ボックスに人の名前を入力すると、最も関連性の高いメール メッセージが検索候補に含まれます。 [詳細情報](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
-- **グループの名前付けポリシー** : グループの名前付けポリシーを使用すると、IT 管理者は組織内のユーザーが作成するグループの名前の標準化と管理を行えます。 管理者は、グループが作成される際に特定のプレフィックスとサフィックスをグループ名に追加することを要求できます。また、特定の単語の使用を禁止できます。 これにより、グループ名での不適切な単語の使用を最小限に抑えられる他、ディレクトリ内のグループ名の記載を IT 管理者が管理できます。 また、名前付けポリシーを使用することで、チーム サイトを展開する組織は、チーム サイトを部署ごとに分類できるようにもなります。
+- **グループの名前付けポリシー**: グループの名前付けポリシーを使用すると、IT 管理者は組織内のユーザーが作成するグループの名前の標準化と管理を行えます。 管理者は、グループが作成される際に特定のプレフィックスとサフィックスをグループ名に追加することを要求できます。また、特定の単語の使用を禁止できます。 これにより、グループ名での不適切な単語の使用を最小限に抑えられる他、ディレクトリ内のグループ名の記載を IT 管理者が管理できます。 また、名前付けポリシーを使用することで、チーム サイトを展開する組織は、チーム サイトを部署ごとに分類できるようにもなります。
 
 - **受信トレイを離れずに会議に参加する:** オンライン会議に参加するために、予定表に切り替える必要はありません。 [To Do] ウィンドウに固定された予定表を使用して、ワンクリックで任意の会議に参加します。
 
-- **キャプティブ WiFi ネットワークの新しいエクスペリエンス** : サインインに Web ページを必要とする WiFi ネットワークに参加したことはありませんか ? Outlook はこれを検出し、接続を支援します。
+- **キャプティブ WiFi ネットワークの新しいエクスペリエンス**: サインインに Web ページを必要とする WiFi ネットワークに参加したことはありませんか ? Outlook はこれを検出し、接続を支援します。
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -895,7 +1046,7 @@ ms.locfileid: "48990156"
 
 - **ブラウザーへのバウンスは不要:** ブラウザーまたはアプリで Office ドキュメントへのリンクを開く方法を決定することができます。
 
-- **他のユーザーがすばやく変更を確認:** 共同編集の改善とは、これまでになく迅速に、共同作業者がユーザーによる変更を確認できることを意味します。
+- **他のユーザーがすばやく変更を確認する:** 共同編集の改善とは、これまでになく迅速に、共同作業者がユーザーによる変更を確認できることを意味します。
 
 ### <a name="office-suite"></a>Office スイート
 
@@ -942,7 +1093,7 @@ ms.locfileid: "48990156"
 - 終了後にタスク マネージャーに Outlook プロセスが残っているという問題に対処しました。
 
 
-- ユーザーがマウスで X ボタンを使用しているときにクラッシュが生じる問題に対処しました。
+- マウスで X ボタンを使用しているときにクラッシュが生じる原因となっていたユーザーの問題に対処しました。
 
 
 - サードパーティ製の MAPI アプリケーションでクラッシュが発生した問題に対処しました。
@@ -1005,7 +1156,8 @@ ms.locfileid: "48990156"
 > Office の使用で問題がある場合は、[Microsoft の回答フォーラム](https://answers.microsoft.com/)に関するページまたは「[Microsoft Tech Community](https://techcommunity.microsoft.com/)」に質問を投稿するか、[サポート](https://support.microsoft.com/contactus)に問い合わせてサポートを受けることができます。
 
 
-[//]: # (管理センターのメタデータコンテンツの開始を変更しない)
+[//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13328.20478|version-2010-december-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13231.20514|version-2009-november-10|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13127.20638|version-2008-october-13|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13029.20534|version-2007-september-08|)

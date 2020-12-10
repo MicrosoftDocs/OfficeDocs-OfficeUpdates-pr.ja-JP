@@ -9,25 +9,27 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Windows デスクトップ用の月次チャンネル 対象指定リリースの更新履歴を Insider の皆様に提供します。
-ms.openlocfilehash: c2be3991959bb0dbd2110bc356df0659a6f06b0a
-ms.sourcegitcommit: 3a7eddcac9238b1394f1c1623ddb3273254b9ceb
+ms.openlocfilehash: bf9c104215f5bd1824bc6536e113a4e5c2c670e6
+ms.sourcegitcommit: 551c3050697b157bbfb4f1d6bf8800ee9542ead3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "49408353"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49588290"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Windows 用 Office の最新チャネル (プレビュー) の更新履歴
 
-Hello, Insiders! If you're wondering whether you have the latest update installed or are looking for a list of recent Current Channel (Preview) builds, you're in the right place. Click [here](https://insider.office.com/) for more information on the Insiders Program.
+Insider の皆様へ。 最新の更新プログラムがインストールされているかどうかが不明な場合や、最新の最新チャネル (プレビュー) のビルドの一覧を確認したい場合は、このページをご覧ください。
+Insider プログラムの詳細については、[こちら](https://insider.office.com/)をクリックしてください。
 
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Office の最新チャネル (プレビュー) バージョンとビルド
 
-If you're enrolled in the Current Channel (Preview) level, which was formerly called Insider Slow, you get a new Office feature update approximately once a month, plus subsequent builds containing important fixes or security updates. The following list shows recent Current Channel (Preview) versions and builds, with **the most recently released build listed first**. New builds contain all the updates contained in previous builds. To find release notes, [see](https://docs.microsoft.com/OfficeUpdates/current-channel-preview). Also, you can see [What's new for Office Insiders](https://insider.office.com/en-us/releasenotes/windows/slow).
+以前は Insider スローと呼ばれていた最新チャネル (プレビュー) レベルに登録している場合、月に 1 回ほど Office の新機能の更新プログラムを入手できます。さらに、重要な修正プログラムまたはセキュリティ更新プログラムが含まれる後続のビルドも入手できます。 次のリストは、最近の最新チャネル (プレビュー) のバージョンとビルドを示しています。**最も新しくリリースされたビルドが最初に表示されています**。 新しいビルドには、以前のビルドに含まれているすべての更新が含まれています。
+リリース ノートを見つけるには、[参照](https://docs.microsoft.com/OfficeUpdates/current-channel-preview)してください。 また、「[Office Insider で利用できる新機能](https://insider.office.com/en-us/releasenotes/windows/slow)」も参照できます。
 
 
 > [!IMPORTANT]
-> - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - Office 365 ProPlus は、バージョン 2004 以降、Microsoft 365 Apps for enterprise に名前が変更されています。詳細については、[この記事](https://go.microsoft.com/fwlink/p/?linkid=2123420)をお読みください。Microsoft のドキュメントでは通常、Microsoft 365 Apps として言及します。
+> - 現在、Microsoft 365 Apps の更新プログラム チャネルに、新しい更新プログラム チャネル (月次エンタープライズ チャネル) の追加や既存の更新プログラム チャネル名の変更など、いくつかの変更を進めています。 詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2127441)を参照してください。
+> - バージョン 2004 以降の Office 365 ProPlus は Microsoft 365 Apps for enterprise に名前が変更されています。 詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2123420)を参照してください。 Microsoft のドキュメントでは通常、Microsoft 365 Apps として扱います。
 
 > [!NOTE]
 > - こちらの更新履歴はリリースされたすべてのビルドを一覧表示します
@@ -36,10 +38,16 @@ If you're enrolled in the Current Channel (Preview) level, which was formerly ca
 
 [//]: # (削除しないでください)
 
+**2020 年 12 月 7 日**<br/>
+バージョン 2012 (ビルド 13530.20064)<br/>
+
+**2020 年 12 月 1 日**<br/>
+バージョン 2011 (ビルド 13426.20306)<br/>
+
 **2020 年 11 月 24 日**<br/>
 バージョン 2011 (ビルド 13426.20294)<br/>
 
-**2020 年 11 月 21日**<br/>
+**2020 年 11 月 21 日**<br/>
 バージョン 2011 (ビルド 13426.20274)<br/>
 
 **2020 年 11 月 18 日**<br/>
