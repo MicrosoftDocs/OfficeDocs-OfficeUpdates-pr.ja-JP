@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT 担当者に、日付ごとに整理した Microsoft 365 Apps のリリースすべての一覧を、リリース ノートへのリンクを含めて提供します
-ms.openlocfilehash: 86e2ac3bb42e3b179214e1c030ef941878054883
-ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
+ms.openlocfilehash: b6fb5a7ee354c847d907b87933b44b76f168c727
+ms.sourcegitcommit: 033070b22b91c5d361c030abc516986ee305390a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49601562"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "49662702"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 Apps の更新履歴 (日付別の一覧)
 
@@ -29,6 +29,8 @@ ms.locfileid: "49601562"
 > - 更新プログラム チャネルの詳細については、「[Microsoft 365 Apps 用更新プログラム チャネルの概要](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)」を参照してください。
 
 次の表では、サポートされているバージョンと最新のビルド番号を更新プログラム チャネルごとに記載しています。
+
+### <a name="supported-versions"></a>**サポートされているバージョン**
 
 [//]: # (EOSTABLESTART)
 
@@ -45,7 +47,9 @@ ms.locfileid: "49601562"
 
 以前のリリースの Microsoft 365 Apps から最新の現在のリリースへ更新する場合のおおよそのダウンロード サイズについて詳しくは、「[Microsoft 365 Apps の更新プログラムのダウンロード サイズ](download-sizes-office365-proplus-updates.md)」をご覧ください。
 
-次の表は、更新プログラム チャネルでリリースされた Microsoft 365 アプリの各更新プログラムのバージョン番号とビルド番号のリストです。現在のところ、月次エンタープライズ、半期エンタープライズ (プレビュー)、および半期エンタープライズ チャネルがあります。 それぞれの表の記載項目をクリックすると、該当するリリースのリリース ノートを直接参照することができます。 これらのリリース ノートには、Microsoft 365 Apps の更新プログラムに含まれている機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムに関する情報が記載されています。  
+次の表は、更新プログラム チャネルでリリースされた Microsoft 365 アプリの各更新プログラムのバージョン番号とビルド番号のリストです。現在のところ、月次エンタープライズ、半期エンタープライズ (プレビュー)、および半期エンタープライズ チャネルがあります。 それぞれの表の記載項目をクリックすると、該当するリリースのリリース ノートを直接参照することができます。 これらのリリース ノートには、Microsoft 365 Apps の更新プログラムに含まれている機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムに関する情報が記載されています。
+
+### <a name="version-history"></a>**バージョン履歴**
 
 [//]: # (HISTORYTABLESTART)
 
