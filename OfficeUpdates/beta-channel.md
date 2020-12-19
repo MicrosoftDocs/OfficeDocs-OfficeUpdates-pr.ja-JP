@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 5c7201236c3974e0b0001d7a17d4d945d359947e
-ms.sourcegitcommit: 0de1e313cbab2fcb6c3216e71f90312249bb4396
+ms.openlocfilehash: ade0bd6ee25f8a5cce262f1c2428adeeef9a2b5d
+ms.sourcegitcommit: 481be0fc1d299537985563e5b29249f0fdc873a1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49655307"
+ms.lasthandoff: 12/18/2020
+ms.locfileid: "49716947"
 ---
 # <a name="release-notes-for-beta-channel"></a>ベータ チャネルのリリース ノート
 
@@ -30,6 +30,66 @@ ms.locfileid: "49655307"
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2101-december-18"></a>バージョン 2101: 12 月 18 日
+*バージョン 2101 (ビルド 13610.20002)*
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="excel"></a>Excel
+
+- **M365 の管理者に機密度ラベルに関する監査データを送信する** : ユーザーがドキュメントやメールに機密度ラベルを適用、変更、または削除したときに、Office は M365 監査バックエンドに監査データを送信し管理者の目に入れるようにします。 これは、管理者のためのサイレント機能 (UI なし) です。
+
+### <a name="outlook"></a>Outlook
+
+- **M365 の管理者に機密度ラベルに関する監査データを送信する** : ユーザーがドキュメントやメールに機密度ラベルを適用、変更、または削除したときに、Office は M365 監査バックエンドに監査データを送信し管理者の目に入れるようにします。 これは、管理者のためのサイレント機能 (UI なし) です。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **M365 の管理者に機密度ラベルに関する監査データを送信する** : ユーザーがドキュメントやメールに機密度ラベルを適用、変更、または削除したときに、Office は M365 監査バックエンドに監査データを送信し管理者の目に入れるようにします。 これは、管理者のためのサイレント機能 (UI なし) です。
+
+### <a name="word"></a>Word
+
+- **M365 の管理者に機密度ラベルに関する監査データを送信する** : ユーザーがドキュメントやメールに機密度ラベルを適用、変更、または削除したときに、Office は M365 監査バックエンドに監査データを送信し管理者の目に入れるようにします。 これは、管理者のためのサイレント機能 (UI なし) です。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- ピボット テーブルに書式設定スタイルを適用するときのパフォーマンスが向上しました。
+
+
+### <a name="outlook"></a>Outlook
+
+- ユーザーが検索対象のカテゴリを複数選ぶことができなかった原因となっていた問題を解決しました。
+
+
+- イベントが別の予定からコピーされたときに、一部の予定表アイテムの開始時刻が予期せず変更される問題が修正されました。
+
+
+### <a name="project"></a>Project
+
+- 更新された情報が保存されているはずのプロジェクトをユーザーが開いた際に、更新された情報が見つからないという問題を修正しました。
+
+
+### <a name="word"></a>Word
+
+- コメント カードの下部に入力するときのアニメーションを修正します。
+
+
+- 文書を隠し文字で PDF に保存する際に、Word が固まる問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2101-december-11"></a>バージョン 2101: 12 月 11 日
 *バージョン 2101 (ビルド 13604.20000)*
@@ -1453,6 +1513,8 @@ ms.locfileid: "49655307"
 
 - **PDF に接続:** PDF からデータに接続、インポート、更新します。 [詳細情報](https://support.office.com/article/9967afd8-85ee-4df3-aa06-753bcc1a2724)
 
+- **秘密度ラベルの自動適用または推奨:** Office は、検出された機密コンテンツに基づいて機密ラベルを推奨または自動的に適用できます。
+
 ### <a name="outlook"></a>Outlook
 
 - **必要なものだけを見つける:** フォルダー、送信者、日付、添付ファイル情報などのオプションで検索を絞り込みます。
@@ -1460,6 +1522,8 @@ ms.locfileid: "49655307"
 ### <a name="powerpoint"></a>PowerPoint
 
 - **クリッカーは不要: イヤホンでカバー:** Surface Earbuds を使用して、PowerPoint プレゼンテーションを制御します。 重要: ジェスチャーを使用してプレゼンテーションを制御するには、Windows 10 の Surface Audio アプリで Surface Earbuds をペアリングする必要があります。 Windows 10 で Surface Audio アプリを使い始める方法については、こちらをご覧ください。 [詳細情報](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
+
+- **秘密度ラベルの自動適用または推奨:** Office は、検出された機密コンテンツに基づいて機密ラベルを推奨または自動的に適用できます。
 
 ### <a name="word"></a>Word
 
@@ -2101,6 +2165,7 @@ ms.locfileid: "49655307"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|version-2101-december-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|version-2101-december-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|version-2012-december-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13519.20000|version-2012-november-27|)
@@ -2110,5 +2175,4 @@ ms.locfileid: "49655307"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13408.20000|version-2011-october-16|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13406.20000|version-2011-october-09|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)
