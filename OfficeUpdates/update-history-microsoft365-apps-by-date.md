@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT 担当者に、日付ごとに整理した Microsoft 365 Apps のリリースすべての一覧を、リリース ノートへのリンクを含めて提供します
-ms.openlocfilehash: b6fb5a7ee354c847d907b87933b44b76f168c727
-ms.sourcegitcommit: 033070b22b91c5d361c030abc516986ee305390a
+ms.openlocfilehash: 2f72d1f036be1874e5b911ec57ca18a07fc1c41c
+ms.sourcegitcommit: d4973d351666da9b360f4f83cd588e327ccbab1a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "49662702"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49725756"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 Apps の更新履歴 (日付別の一覧)
 
@@ -36,7 +36,7 @@ ms.locfileid: "49662702"
 
 |**チャネル**|**バージョン**|**ビルド**|**リリース日**|**バージョンのサポート期限**|
 |:-----|:-----|:-----|:-----|:-----|
-|最新チャネル<br/>|2011<br/>|13426.20332<br/>|2020 年 12 月 8 日<br/>|バージョン 2012 がリリースされました<br/>|
+|最新チャネル<br/>|2011<br/>|13426.20404<br/>|2020 年 12 月 21 日<br/>|バージョン 2012 がリリースされました<br/>|
 |月次エンタープライズ チャネル<br/>|2010<br/>|13328.20478<br/>|2020 年 12 月 8 日<br/>|2021 年 2 月 9 日<br/>|
 |月次エンタープライズ チャネル<br/>|2009<br/>|13231.20620<br/>|2020 年 12 月 8 日<br/>|2021 年 1 月 12 日<br/>|
 |半期エンタープライズ チャネル (プレビュー)<br/>|2008<br/>|13127.20910<br/>|2020 年 12 月 8 日<br/>|2021 年 3 月 9 日<br/>|
@@ -55,6 +55,7 @@ ms.locfileid: "49662702"
 
 |**Year**|**リリース日**|**最新チャネル**|**月次エンタープライズ チャネル**|**半期エンタープライズ チャネル (プレビュー)**|**半期エンタープライズ チャネル**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2020|12 月 21 日|[バージョン 2011 (ビルド 13426.20404)](current-channel.md#version-2011-december-21)| | | |
 |2020|12 月 08 日|[バージョン 2011 (ビルド 13426.20332)](current-channel.md#version-2011-december-08)|[バージョン 2010 (ビルド 13328.20478)](monthly-enterprise-channel.md#version-2010-december-08)<br/>[バージョン 2009 (ビルド 13231.20620)](monthly-enterprise-channel.md#version-2009-december-08)|[バージョン 2008 (ビルド 13127.20910)](semi-annual-enterprise-channel-preview.md#version-2008-december-08)|[バージョン 2002 (ビルド 12527.21416)](semi-annual-enterprise-channel.md#version-2002-december-08)<br/>[バージョン 1908 (ビルド 11929.20984)](semi-annual-enterprise-channel.md#version-1908-december-08)|
 |2020|12 月 2 日|[バージョン 2011 (ビルド 13426.20308)](current-channel.md#version-2011-december-02)| | | |
 |2020|11 月 30 日|[バージョン 2011 (ビルド 13426.20294)](current-channel.md#version-2011-november-30)| | | |
