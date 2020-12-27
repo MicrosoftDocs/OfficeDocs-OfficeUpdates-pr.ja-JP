@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: ade0bd6ee25f8a5cce262f1c2428adeeef9a2b5d
-ms.sourcegitcommit: 481be0fc1d299537985563e5b29249f0fdc873a1
+ms.openlocfilehash: 6b42dcee02fa315647a1176bda1d581833ca5211
+ms.sourcegitcommit: 9a0952ac6d6c19231b3f4148a69d3260300ae78a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49716947"
+ms.lasthandoff: 12/25/2020
+ms.locfileid: "49733210"
 ---
 # <a name="release-notes-for-beta-channel"></a>ベータ チャネルのリリース ノート
 
@@ -30,6 +30,48 @@ ms.locfileid: "49716947"
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2101-december-25"></a>バージョン 2101: 12 月 25 日
+*バージョン 2101 (ビルド 13617.20002)*
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- Excel からグラフをコピーして Word に貼り付けるときに、10 進数と桁区切りの記号の設定を継承するように更新しました
+
+
+- 無効なファイル属性 (作成時刻、修正時刻など) を持つ UNC ファイルを開くと、Excel が予期せず終了してしまう可能性がある問題を修正しました。
+
+
+- この変更では、SVG 画像の枠線の色の変更に関する問題に対処しました。
+
+
+### <a name="outlook"></a>Outlook
+
+- Word から差し込み印刷を開始するときに、ユーザーがアクセスを許可する時間の長さを指定できず、ユーザーに対して余分なプロンプトが表示されてしまう問題を修正しました。
+
+
+- 引き換えベースのアドインのユーザーの Outlook が予期せず終了してしまう問題を修正しました。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- この変更では、SVG 画像の枠線の色の変更に関する問題に対処しました。
+
+
+### <a name="word"></a>Word
+
+- この変更では、SVG 画像の枠線の色の変更に関する問題に対処しました。
+
+
+- コメント カードの返信ボックスが画面に表示されない問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2101-december-18"></a>バージョン 2101: 12 月 18 日
 *バージョン 2101 (ビルド 13610.20002)*
@@ -271,7 +313,7 @@ ms.locfileid: "49716947"
 
 
 
-[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+[//]: # (BUGDETAILS コンテンツ エンドを削除しないでください。終了)
 
 ## <a name="version-2012-november-13"></a>バージョン 2012: 11 月 13 日
 *バージョン 2012 (ビルド 13510.20004)*
@@ -2165,6 +2207,7 @@ ms.locfileid: "49716947"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|version-2101-december-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|version-2101-december-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|version-2101-december-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|version-2012-december-04|)
@@ -2174,5 +2217,4 @@ ms.locfileid: "49716947"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13430.20000|version-2012-november-06|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13408.20000|version-2011-october-16|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)
