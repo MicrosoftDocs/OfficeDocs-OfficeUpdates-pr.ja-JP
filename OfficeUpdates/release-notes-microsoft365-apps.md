@@ -10,18 +10,18 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT 担当者に対して、最新リリースの Microsoft 365 Apps の一覧をそれぞれの更新プログラム チャネルごとに、リリース ノートへのリンクと更新履歴を含めて提供します
-ms.openlocfilehash: da1785c6d08afec30753b97d633f3baa9fbd209b
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+ms.openlocfilehash: 6050fdcd08ffcfcde37b0f79886079dc38ddc790
+ms.sourcegitcommit: f0d1cbcbb5b9e5077dc21b7de9b2146b9e4c530c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48370135"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49748235"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps の更新プログラムに関するリリース情報
 
 
 > [!IMPORTANT]
->バージョン 2004 以降の Office 365 ProPlus は  Microsoft 365 Apps for enterprise に名前が変更されています。詳細については、 [こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2123420)を参照してください。Microsoft のドキュメントでは通常、Microsoft 365 Apps として扱います。
+> バージョン 2004 以降の Office 365 ProPlus は Microsoft 365 Apps for enterprise に名前が変更されています。 詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2123420)を参照してください。 Microsoft のドキュメントでは通常、Microsoft 365 Apps として扱います。
 
 
 ## <a name="security-updates-for-microsoft-365-apps-releases"></a>Microsoft 365 Apps リリースのセキュリティ更新プログラム
@@ -45,10 +45,10 @@ ms.locfileid: "48370135"
 ## <a name="release-notes-for-microsoft-365-apps-releases"></a>Microsoft 365 Apps リリースのリリース ノート
 
 更新プログラム チャネルと年ごとのリリース ノートすべての一覧については、次の記事をご覧ください。
- - 最新: [2020](current-channel.md)、[2019](monthly-channel-2019.md)、[2018](monthly-channel-2018.md)、[2017](monthly-channel-2017.md)、[2016](monthly-channel-2016.md)
- - 月々のエンタープライズ チャネル: [2020](monthly-enterprise-channel.md)
- - 半期エンタープライズ (プレビュー): [2020](semi-annual-enterprise-channel-preview.md)、[2019](semi-annual-channel-targeted-2019.md)、[2018](semi-annual-channel-targeted-2018.md)、[2017](semi-annual-channel-targeted-2017.md)、[2016](semi-annual-channel-targeted-2016.md)
- - 半期エンタープライズ: [2020](semi-annual-enterprise-channel.md)、[2019](semi-annual-channel-2019.md)、[2018](semi-annual-channel-2018.md)、[2017](semi-annual-channel-2017.md)、[2016](semi-annual-channel-2016.md)
+ - 最新チャネル: [2021-2020](current-channel.md)、[2019](monthly-channel-2019.md)、[2018](monthly-channel-2018.md)
+ - 月次エンタープライズ チャネル: [2021-2020](monthly-enterprise-channel.md)
+ - 半期エンタープライズ (プレビュー): [2021-2020](semi-annual-enterprise-channel-preview.md)、[2019](semi-annual-channel-targeted-2019.md)、[2018](semi-annual-channel-targeted-2018.md)
+ - 半期エンタープライズ: [2021-2020](semi-annual-enterprise-channel.md)、[2019](semi-annual-channel-2019.md)、[2018](semi-annual-channel-2018.md)
 
  ## <a name="release-history-for-office-deployment-tool"></a>Office 展開ツールのリリース履歴
  Office 展開ツールのリリースの完全リストは、次の記事を参照してください。
@@ -64,7 +64,7 @@ Office for Mac の更新プログラム (Microsoft 365 Apps が含まれる Micr
 
 ## <a name="related-topics"></a>関連項目
 
-- [Microsoft 365 Apps 用更新プログラム チャネルの概要](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Microsoft 365 Apps 用更新プログラム チャネルの概要](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)
 - [Office の展開](https://docs.microsoft.com/deployoffice/)
 - [Microsoft 365 Apps の新機能](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
 - [Microsoft 365 Apps のロードマップ](https://products.office.com/business/office-365-roadmap)
