@@ -5,23 +5,22 @@
 ## [更新プログラムのサイズ](download-sizes-microsoft365-apps-updates.md)
 
 ## 最新チャネル
-### [2021-2020](current-channel.md)
-### [2019](monthly-channel-2019.md)
-### [2018](monthly-channel-2018.md)
+### [リリース ノート](current-channel.md)
+### [リリース ノートのアーカイブ](monthly-channel-2019.md)
 
 ## 月次エンタープライズ チャネル
-### [2021-2020](monthly-enterprise-channel.md)
+### [リリース ノート](monthly-enterprise-channel.md)
 
 ## 半期エンタープライズ チャネル
-### [2021-2020](semi-annual-enterprise-channel.md)
-### [2019](semi-annual-channel-2019.md)
-### [2018](semi-annual-channel-2018.md)
+### [リリース ノート](semi-annual-enterprise-channel.md)
+### [リリース ノートのアーカイブ](semi-annual-channel-2019.md)
+
 
 
 ## 半期エンタープライズ チャネル (プレビュー)
-### [2021-2020](semi-annual-enterprise-channel-preview.md)
-### [2019](semi-annual-channel-targeted-2019.md)
-### [2018](semi-annual-channel-targeted-2018.md)
+### [リリース ノート](semi-annual-enterprise-channel-preview.md)
+### [リリースノートのアーカイブ](semi-annual-channel-targeted-2019.md)
+
 
 
 ## Office Insider プログラム  
