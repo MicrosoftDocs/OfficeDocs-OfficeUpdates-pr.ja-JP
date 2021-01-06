@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 6b42dcee02fa315647a1176bda1d581833ca5211
-ms.sourcegitcommit: 9a0952ac6d6c19231b3f4148a69d3260300ae78a
+ms.openlocfilehash: 042e83845d033f3f2f854e7d3f2198f698032c7a
+ms.sourcegitcommit: f0d1cbcbb5b9e5077dc21b7de9b2146b9e4c530c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/25/2020
-ms.locfileid: "49733210"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49748225"
 ---
 # <a name="release-notes-for-beta-channel"></a>ベータ チャネルのリリース ノート
 
@@ -30,6 +30,65 @@ ms.locfileid: "49733210"
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2101-january-01"></a>バージョン 2101: 1 月 1 日
+*バージョン 2101 (ビルド 13624.20002)*
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="excel"></a>Excel
+
+- **必須のラベル付け:** 必須のラベル付けポリシーが設定されているユーザーについては、管理者がユーザーのドキュメントやメールにラベル付けを行う必要があります。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **必須のラベル付け:** 必須のラベル付けポリシーが設定されているユーザーについては、管理者がユーザーのドキュメントやメールにラベル付けを行う必要があります。
+
+### <a name="word"></a>Word
+
+- **必須のラベル付け:** 必須のラベル付けポリシーが設定されているユーザーについては、管理者がユーザーのドキュメントやメールにラベル付けを行う必要があります。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="onenote"></a>OneNote
+
+- この変更により、OneNote に影響を与えるレンダリングの問題に対処します。
+
+
+### <a name="outlook"></a>Outlook
+
+- この変更により、エンド ユーザーに対して Exchange Online アーカイブ メールボックスを表示しないようにする Exchange サーバーの設定を Outlook で利用できるようになります。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- この変更により、図形の結合がテキストを操作するときに発生する問題に対処します。
+
+
+### <a name="word"></a>Word
+
+- 最新コメントをより堅牢なものにするための修正を行いました。
+
+
+- @Mention を含むコメント投稿を編集するときに発生する問題を修正しました。
+
+
+- 新しい Word インスタンスを作成すると、コメントの下書きが消えます。
+
+
+- 修正と、コメント ウィンドウ内のネストされたスクロール バーに関する問題。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2101-december-25"></a>バージョン 2101: 12 月 25 日
 *バージョン 2101 (ビルド 13617.20002)*
@@ -313,7 +372,7 @@ ms.locfileid: "49733210"
 
 
 
-[//]: # (BUGDETAILS コンテンツ エンドを削除しないでください。終了)
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2012-november-13"></a>バージョン 2012: 11 月 13 日
 *バージョン 2012 (ビルド 13510.20004)*
@@ -2207,6 +2266,7 @@ ms.locfileid: "49733210"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13624.20002|version-2101-january-01|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|version-2101-december-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|version-2101-december-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|version-2101-december-11|)
@@ -2216,5 +2276,4 @@ ms.locfileid: "49733210"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13510.20004|version-2012-november-13|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13430.20000|version-2012-november-06|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに新機能、修正プログラム、または既知の問題の最新リストを提供します
-ms.openlocfilehash: ba9448af2e899aa4bc60d9d825117be3d895dbcd
-ms.sourcegitcommit: 148e77b6199c7f6f584542a60e35b434fa830b80
+ms.openlocfilehash: 7e328c89e2aae647ced22808720a1bcfdf906f79
+ms.sourcegitcommit: aae2d2bcce3ea8a26226062f0ad695d80587db11
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/28/2020
-ms.locfileid: "49735505"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49750628"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 向けリリース ノートの最新チャネル (プレビュー)
 
@@ -28,6 +28,29 @@ ms.locfileid: "49735505"
 > - Microsoft Teams の機能は、リリース頻度が高いため、最新チャネル プレビュー版とは異なる場合があります。
 
 [//]: # (削除しないでください)
+
+## <a name="version-2012-january-04"></a>バージョン 2012: 1 月 4 日
+*バージョン 2012 (ビルド 13530.20316)*
+* さまざまなバグとパフォーマンスの修正。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="excel"></a>Excel
+
+- **必須のラベル付け:** 必須のラベル付けポリシーが設定されているユーザーについては、管理者がユーザーのドキュメントやメールにラベル付けを行う必要があります。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **必須のラベル付け:** 必須のラベル付けポリシーが設定されているユーザーについては、管理者がユーザーのドキュメントやメールにラベル付けを行う必要があります。
+
+### <a name="word"></a>Word
+
+- **必須のラベル付け:** 必須のラベル付けポリシーが設定されているユーザーについては、管理者がユーザーのドキュメントやメールにラベル付けを行う必要があります。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2012-december-28"></a>バージョン 2012: 12 月 28 日
 *バージョン 2012 (ビルド 13530.20264)*
@@ -2299,7 +2322,7 @@ ms.locfileid: "49735505"
 
 
 
-[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+[//]: # (バグの詳細コンテンツを削除しないでください。終了)
 
 ## <a name="version-2004-april-29"></a>バージョン 2004: 4 月 29 日
 *バージョン 2004 (ビルド 12730.20236)*

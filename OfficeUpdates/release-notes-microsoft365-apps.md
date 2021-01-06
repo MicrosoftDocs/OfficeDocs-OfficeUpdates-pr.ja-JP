@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT 担当者に対して、最新リリースの Microsoft 365 Apps の一覧をそれぞれの更新プログラム チャネルごとに、リリース ノートへのリンクと更新履歴を含めて提供します
-ms.openlocfilehash: 6050fdcd08ffcfcde37b0f79886079dc38ddc790
-ms.sourcegitcommit: f0d1cbcbb5b9e5077dc21b7de9b2146b9e4c530c
+ms.openlocfilehash: dfba017d577f874222fd6d9cde05088820a7bf90
+ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49748235"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49760641"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps の更新プログラムに関するリリース情報
 
@@ -45,10 +45,10 @@ ms.locfileid: "49748235"
 ## <a name="release-notes-for-microsoft-365-apps-releases"></a>Microsoft 365 Apps リリースのリリース ノート
 
 更新プログラム チャネルと年ごとのリリース ノートすべての一覧については、次の記事をご覧ください。
- - 最新チャネル: [2021-2020](current-channel.md)、[2019](monthly-channel-2019.md)、[2018](monthly-channel-2018.md)
- - 月次エンタープライズ チャネル: [2021-2020](monthly-enterprise-channel.md)
- - 半期エンタープライズ (プレビュー): [2021-2020](semi-annual-enterprise-channel-preview.md)、[2019](semi-annual-channel-targeted-2019.md)、[2018](semi-annual-channel-targeted-2018.md)
- - 半期エンタープライズ: [2021-2020](semi-annual-enterprise-channel.md)、[2019](semi-annual-channel-2019.md)、[2018](semi-annual-channel-2018.md)
+ - 最新チャネルl: [ リリース ノート ](current-channel.md), [アーカイブ済み リリース ノート ](monthly-channel-archived.md)
+ - 月次 エンタープライズ チャネル :  [ リリース ノート ](monthly-enterprise-channel.md)
+ - 半期エンタープライズ (プレビュー): [ リリース ノート ](semi-annual-enterprise-channel-preview.md), [アーカイブ済み リリース ノート ](semi-annual-enterprise-channel-preview-archived.md)
+ - 半期エンタープライズ: [ リリース ノート ](semi-annual-enterprise-channel.md), [アーカイブ済み リリース ノート ](semi-annual-enterprise-channel-archived.md)
 
  ## <a name="release-history-for-office-deployment-tool"></a>Office 展開ツールのリリース履歴
  Office 展開ツールのリリースの完全リストは、次の記事を参照してください。
