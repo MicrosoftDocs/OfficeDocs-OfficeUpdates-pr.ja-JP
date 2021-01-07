@@ -6,20 +6,20 @@
 
 ## 最新チャネル
 ### [リリース ノート](current-channel.md)
-### [リリース ノートのアーカイブ](monthly-channel-2019.md)
+### [リリース ノートのアーカイブ](monthly-channel-archived.md)
 
 ## 月次エンタープライズ チャネル
 ### [リリース ノート](monthly-enterprise-channel.md)
 
 ## 半期エンタープライズ チャネル
 ### [リリース ノート](semi-annual-enterprise-channel.md)
-### [リリース ノートのアーカイブ](semi-annual-channel-2019.md)
+### [リリース ノートのアーカイブ](semi-annual-enterprise-channel-archived.md)
 
 
 
 ## 半期エンタープライズ チャネル (プレビュー)
 ### [リリース ノート](semi-annual-enterprise-channel-preview.md)
-### [リリースノートのアーカイブ](semi-annual-channel-targeted-2019.md)
+### [リリースノートのアーカイブ](semi-annual-enterprise-channel-preview-archived.md)
 
 
 
