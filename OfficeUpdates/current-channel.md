@@ -9,16 +9,16 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の月次チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 05b0f1f990c33ae7e3e7f76971eac447c66382f2
-ms.sourcegitcommit: d4973d351666da9b360f4f83cd588e327ccbab1a
+ms.openlocfilehash: 5f7a0c255d98678baf5b868b5fd41e213e2901bc
+ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49725796"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49760681"
 ---
-# <a name="release-notes-for-current-channel-releases-in-2020"></a>2020 年の最新のチャネル リリースのリリース ノート
+# <a name="release-notes-for-current-channel"></a>現在のチャネルのリリース ノート
 
-このリリース ノートには、2020 年の最新チャネルの更新プログラムに含まれる新機能と、セキュリティ以外の更新プログラムに関する情報が記載されています。対象となるのは、Microsoft 365 Apps for enterprise、Microsoft 365 Apps for business、および Project と Visio のデスクトップ アプリのサブスクリプション版です。
+このリリース ノートには、現在のチャネルの更新プログラムに含まれる新機能と、セキュリティ以外の更新プログラムに関する情報が記載されています。対象となるのは、Microsoft 365 Apps for enterprise、Microsoft 365 Apps for business、および Project と Visio のデスクトップ アプリのサブスクリプション版です。
 
 > [!IMPORTANT]
 > 現在、Microsoft 365 Apps の更新プログラム チャネルに、新しい更新プログラム チャネル (月次エンタープライズ チャネル) の追加や既存の更新プログラム チャネル名の変更など、いくつかの変更を進めています。 詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2127441)を参照してください。
@@ -32,6 +32,69 @@ ms.locfileid: "49725796"
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2012-january-05"></a>バージョン 2012: 1 月 5 日
+*バージョン 2012 (ビルド 13530.20316)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="outlook"></a>Outlook
+
+- **クラウドでの Outlook の設定** [自動応答]、[優先受信トレイ]、[プライバシー] などの Outlook for Windows の設定を選択し、任意の PC でアクセスできるようにします。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **プレゼンター コーチでプレゼンテーションのリハーサルを行う:** 話す速度、ピッチ、つなぎ語、機微な表現など、聴衆の関心を引きつけておくのに役立つ内容についてフィードバックを受けます。 [詳細情報](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- ピボットテーブルの [計算の種類] メニューを使用すると、Excel が予期せず終了する問題を修正しました。
+
+
+- Excel 4.0 マクロを含む Excel アドイン ファイルを開いたときにプロンプトが表示されずにマクロが無効のままになる問題を修正しました。
+
+
+- 共同編集時に、一部のユーザーに対して、新しいバージョンのファイルを通知するメッセージ バーが誤って表示される問題を修正しました。
+
+
+- この変更により、数式内にフォントが正しく表示されない問題に対処できます。
+
+
+### <a name="outlook"></a>Outlook
+
+- 一部のお客様の環境で、予定表の読み込み中にハングアップする原因となった問題を修正しました。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- この変更により、特定のジオメトリで図形の結合操作を適用するときの軌跡の塗りつぶしに関する問題が解決されます。
+
+
+- この変更により、数式内にフォントが正しく表示されないという問題が解決されます。
+
+
+- QAT に追加された font size コマンドが、更新中に定義された最も近いフォントサイズに自動補完される問題を修正しました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- 最適化されたバイナリ サイズ。
+
+
+- Anaheim WebView は、Windows 情報保護 (WIP) をまだサポートしていません。 この修正プログラムを適用すると、Office addin プラットフォームが、WIP が有効な環境でダウンレベルの WebView に戻ります。 お客様のコンピューター環境に応じて、Edge Spartan WebView または Trident WebView のいずれかになります。 ダウンレベル WebViews は、両方とも WIP をサポートしています。
 
 
 
@@ -253,7 +316,7 @@ ms.locfileid: "49725796"
 
 
 
-[//]: # (BUGDETAILS コンテンツ エンドを削除しないでください。終了)
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2010-november-10"></a>バージョン 2010: 11 月 10 日
 *バージョン 2010 (ビルド 13328.20356)*
@@ -1758,6 +1821,7 @@ ms.locfileid: "49725796"
 > Office の使用で問題がある場合は、[Microsoft の回答フォーラム](https://answers.microsoft.com/)に関するページまたは「[Microsoft Tech Community](https://techcommunity.microsoft.com/)」に質問を投稿するか、[サポート](https://support.microsoft.com/contactus)に問い合わせてサポートを受けることができます。
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|CC|Production| |16.0.13530.20316|version-2012-january-05|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20404|version-2011-december-21|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20332|version-2011-december-08|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20308|version-2011-december-02|)
@@ -1767,5 +1831,4 @@ ms.locfileid: "49725796"
 [//]: # (|Win32|CC|Production| |16.0.13328.20356|version-2010-november-10|)
 [//]: # (|Win32|CC|Production| |16.0.13328.20292|version-2010-october-27|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20418|version-2009-october-21|)
-[//]: # (|Win32|CC|Production| |16.0.13231.20390|version-2009-october-13|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)

@@ -9,16 +9,16 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の半期チャネル リリース (対象指定) のリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: ea0bcf4a30146c52bb45fef6361d490580b64739
-ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
+ms.openlocfilehash: b10c08a3f2375ef3d11653d998f92b3df70a769d
+ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49601612"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49760651"
 ---
-# <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>2020 年の半期エンタープライズ チャネル (プレビュー) リリースのリリース ノート
+# <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>半期エンタープライズ チャネル (プレビュー) のリリース ノート
 
-このリリース ノートには、2020 年の半期エンタープライズ チャネル (プレビュー) の更新プログラムに含まれる新機能と、セキュリティ以外の更新プログラムに関する情報が記載されています。対象となるのは、Microsoft 365 Apps for enterprise、Microsoft 365 Apps for business、および Project と Visio のデスクトップ アプリのサブスクリプション版です。
+このリリース ノートには、半期エンタープライズ チャネル (プレビュー) の更新プログラムに含まれる新機能と、セキュリティ以外の更新プログラムに関する情報が記載されています。対象となるのは、Microsoft 365 Apps for enterprise、Microsoft 365 Apps for business、および Project と Visio のデスクトップ アプリのサブスクリプション版です。
 
 > [!IMPORTANT]
 > 現在、Microsoft 365 Apps の更新プログラム チャネルに、新しい更新プログラム チャネル (月次エンタープライズ チャネル) の追加や既存の更新プログラム チャネル名の変更など、いくつかの変更を進めています。 詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2127441)を参照してください。
@@ -176,7 +176,8 @@ ms.locfileid: "49601612"
 
 - 返信または転送時に中国語メッセージのヘッダーが文字化けする問題を修正しました。
 
-- オプションの接続エクスペリエンスが Web アドインの読み込みをブロックする問題を修正しました。  <br />[ブログの投稿](https://developer.microsoft.com/en-us/office/blogs/outlook-add-ins-and-optional-connected-experiences/)の詳細情報をご覧ください
+- オプションの接続エクスペリエンスが Web アドインの読み込みをブロックする問題を修正しました。  <br />
+  [ブログの投稿](https://developer.microsoft.com/ja-JP/office/blogs/outlook-add-ins-and-optional-connected-experiences/)の詳細情報をご覧ください
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -314,7 +315,7 @@ ms.locfileid: "49601612"
 
 - **受信トレイを離れずに会議に参加する:** オンライン会議に参加するために、予定表に切り替える必要はありません。 [To Do] ウィンドウに固定された予定表を使用して、ワンクリックで任意の会議に参加します。
 
-- **キャプティブ WiFi ネットワークの新しいエクスペリエンス**: サインインに Web ページを必要とする WiFi ネットワークに参加したことはありませんか ? Outlook はこれを検出し、接続を支援します。<br />[ブログの投稿](https://insider.office.com/en-us/blog/outlook-on-public-wi-fi-networks-just-got-easier)の詳細情報をご覧ください
+- **キャプティブ WiFi ネットワークの新しいエクスペリエンス**: サインインに Web ページを必要とする WiFi ネットワークに参加したことはありませんか ? Outlook はこれを検出し、接続を支援します。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/outlook-on-public-wi-fi-networks-just-got-easier)の詳細情報をご覧ください
 
 - **人物を検索するときにメールの候補を取得する:** [検索] ボックスに人の名前を入力すると、最も関連性の高いメール メッセージが検索候補に含まれます。 [詳細情報](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
@@ -882,7 +883,8 @@ ms.locfileid: "49601612"
 
 - **複数の値を返す式を入力する:** 複数の値を返す式を素早く入力できるようになりました。隣接するセルに自動的に入力されます。 [詳細情報](https://support.microsoft.com/en-us/office/new-array-functions-003df6c7-1dcb-4388-8e2e-0fe77a0887bc?ui=en-us&rs=en-us&ad=us)
 - **6 つの強力な機能:** スプレッドシートを強化する 6 つの新しい関数が追加されました。FILTER、SORT、SORTBY、UNIQUE、SEQUENCE、RANDARRAY です。  [詳細情報](https://support.microsoft.com/en-us/office/easier-array-formulas-5c2c9cbb-def8-409a-b380-2fbf91b20aa3?ui=en-us&rs=en-us&ad=us)
-- **左を見て、右を見て... XLOOKUP をご利用いただけます!** XLOOKUP を使えば、表や範囲内で必要なものは何でも見つけられます。  [詳細情報](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)
+- **左を見て、右を見て... XLOOKUP をご利用いただけます!** XLOOKUP を使えば、表や範囲内で必要なものは何でも見つけられます。  
+  [詳細情報](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 

@@ -9,16 +9,16 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の半期チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 60e12b7b58c06415c80db20cd35f41c622c0bbd0
-ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
+ms.openlocfilehash: 893b5374a24fefdbe1fbdc7788370dd5a87e0251
+ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49601472"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49760701"
 ---
-# <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>2020 年の半期エンタープライズ チャネル リリースのリリース ノート
+# <a name="release-notes-for-semi-annual-enterprise-channel"></a>半期エンタープライズ チャネルのリリース ノート
 
-このリリース ノートには、2020 年の半期エンタープライズ チャネルの更新プログラムに含まれる新機能と、セキュリティ以外の更新プログラムに関する情報が記載されています。対象となるのは、Microsoft 365 Apps for enterprise、Microsoft 365 Apps for business、および Project と Visio のデスクトップ アプリのサブスクリプション版です。
+このリリース ノートには、半期エンタープライズ チャネルの更新プログラムに含まれる新機能と、セキュリティ以外の更新プログラムに関する情報が記載されています。対象となるのは、Microsoft 365 Apps for enterprise、Microsoft 365 Apps for business、および Project と Visio のデスクトップ アプリのサブスクリプション版です。
 
 > [!IMPORTANT]
 > 現在、Microsoft 365 Apps の更新プログラム チャネルに、新しい更新プログラム チャネル (月次エンタープライズ チャネル) の追加や既存の更新プログラム チャネル名の変更など、いくつかの変更を進めています。 詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2127441)を参照してください。
@@ -967,7 +967,7 @@ ms.locfileid: "49601472"
 
 - ユーザーが OST と同期している共有予定表フォルダーに問題があり、これらのフォルダーを操作しようとするとアクセス許可エラーが発生する問題に対処しました。
 
-- Citrix 環境で 30 件を超える予定表を表示したときにクラッシュする原因になった問題に対処します。 以前のバージョンで文書化された個々の [KB については、こちらを参照してください](https://support.microsoft.com/en-us/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)
+- Citrix 環境で 30 件を超える予定表を表示したときにクラッシュする原因になった問題に対処します。 以前のバージョンで文書化された個々の [KB については、こちらを参照してください](https://support.microsoft.com/ja-JP/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)
 
 - SMIME アルゴリズムの選択に関する問題を修正します。
 
