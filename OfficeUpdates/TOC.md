@@ -57,5 +57,5 @@
 ## [Skype for Business Server 更新プログラム](https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates)
 
 # 関連リンク
-## [Windows 10 のリリース](https://www.microsoft.com/itpro/windows-10/release-information)
+## [Windows 10 のリリース](https://aka.ms/windows/releaseinfo)
 ## [Microsoft のライフサイクル ポリシー](https://support.microsoft.com/lifecycle)
