@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT 担当者に対して、最新リリースの Microsoft 365 Apps の一覧をそれぞれの更新プログラム チャネルごとに、リリース ノートへのリンクと更新履歴を含めて提供します
-ms.openlocfilehash: dfba017d577f874222fd6d9cde05088820a7bf90
-ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
+ms.openlocfilehash: 40c9a96422c9e608e6b847fbe4e2d220f4f407ab
+ms.sourcegitcommit: 1404eb977e0bc5d5de5a89c713eae9f32fdc877f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49760641"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49780675"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps の更新プログラムに関するリリース情報
 
@@ -64,12 +64,12 @@ Office for Mac の更新プログラム (Microsoft 365 Apps が含まれる Micr
 
 ## <a name="related-topics"></a>関連項目
 
-- [Microsoft 365 Apps 用更新プログラム チャネルの概要](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)
+- [Microsoft 365 Apps 用更新プログラム チャネルの概要](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 - [Office の展開](https://docs.microsoft.com/deployoffice/)
 - [Microsoft 365 Apps の新機能](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
 - [Microsoft 365 Apps のロードマップ](https://products.office.com/business/office-365-roadmap)
 - [Microsoft 365 Apps のメッセージ センターの概要](https://support.office.com/article/38fb3333-bfcc-4340-a37b-deda509c2093)
-- [Windows 10 のリリース情報](https://www.microsoft.com/itpro/windows-10/release-information)
+- [Windows 10 のリリース情報](https://aka.ms/windows/releaseinfo)
 - [Microsoft セキュリティ更新ガイド](https://portal.msrc.microsoft.com/)
 
 > [!NOTE]
