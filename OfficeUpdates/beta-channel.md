@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 042e83845d033f3f2f854e7d3f2198f698032c7a
-ms.sourcegitcommit: f0d1cbcbb5b9e5077dc21b7de9b2146b9e4c530c
+ms.openlocfilehash: f2eb63f0f9724ab4f5927df9696f7007917fe82e
+ms.sourcegitcommit: 75e30d61054abf480f9344b5a54370db93198d11
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49748225"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "49785749"
 ---
 # <a name="release-notes-for-beta-channel"></a>ベータ チャネルのリリース ノート
 
@@ -30,6 +30,37 @@ ms.locfileid: "49748225"
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2102-january-08"></a>バージョン 2102: 1 月 8 日
+*バージョン 2102 (ビルド 13704.20000)*
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="outlook"></a>Outlook
+
+- **ディクテーションが改善されました:** 新しい [ディクテーション] ツールバー、[音声コマンド]、および [自動句読点のサポート] を使用して、音声でのコンテンツ作成がさらに簡単になりました。
+
+### <a name="word"></a>Word
+
+- **ディクテーションが改善されました:** 新しい [ディクテーション] ツールバー、[音声コマンド]、および [自動句読点のサポート] を使用して、音声でのコンテンツ作成がさらに簡単になりました。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- PowerPoint での埋め込まれた Excel の範囲のプレビューでサイズが正しく表示されない問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2101-january-01"></a>バージョン 2101: 1 月 1 日
 *バージョン 2101 (ビルド 13624.20002)*
@@ -2266,6 +2297,7 @@ ms.locfileid: "49748225"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13704.20000|version-2102-january-08|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13624.20002|version-2101-january-01|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|version-2101-december-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|version-2101-december-18|)
@@ -2275,5 +2307,4 @@ ms.locfileid: "49748225"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13512.20000|version-2012-november-20|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13510.20004|version-2012-november-13|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13430.20000|version-2012-november-06|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)
