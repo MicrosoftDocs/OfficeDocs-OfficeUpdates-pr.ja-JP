@@ -9,19 +9,19 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: クイック実行を使用する永続的なバージョンの Office 2013 の更新履歴を IT 技術者に提供します。
-ms.openlocfilehash: 0d11acb0a63bf32c86bebcd3352c8be79017c7fb
-ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
+ms.openlocfilehash: d46d8e6ea453c64fed6458132ea439bd20caa92f
+ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49601462"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "49837608"
 ---
 # <a name="update-history-for-office-2013"></a>Office 2013 の更新履歴
 
 特定の Office 2013 製品は、クイック実行というテクノロジを使用して自動的に最新の状態に維持されます。最新の状態にあることを検証するには、Office のバージョン番号を確認し、必要に応じて手動で更新します。
   
 > [!NOTE]
-> 最新バージョンの Office 2013 は、2020 年 12 月 8 日にリリースされた **15.0.5301.1000** です。
+> Office 2013 の最新バージョンは、2021 年 1 月 12 日にリリースされた **15.0.5311.1000** です。
   
 Office のバージョンを確認するには、以下を実行します。
   
@@ -45,6 +45,7 @@ Office のバージョンを確認するには、以下を実行します。
   
 |**リリース年**|**リリース日**|**バージョン番号**|**詳細情報**|
 |:-----|:-----|:-----|:-----|
+|2021 |1 月 12 日|15.0.5311.1000|[KB  4583559](https://support.microsoft.com/help/4583559)|
 |2020| 12 月 8 日|15.0.5301.1000 |[KB 4583521](https://support.microsoft.com/help/4583521)|
 ||11 月 10 日|15.0.5293.1000|[KB 4583503](https://support.microsoft.com/help/4583503)|
 ||10 月 13 日| 15.0.5285.1000| [KB 4583495](https://support.microsoft.com/help/4583495)|
