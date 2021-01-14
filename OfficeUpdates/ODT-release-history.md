@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: IT プロフェッショナルに、Office 展開ツール (ODT) のリリース履歴を提供します
-ms.openlocfilehash: df3e2d20f3355f25da37aaeb078687a1c4763993
-ms.sourcegitcommit: 8d67b1150d1818c1faa7f0ef4d7ab58a7dd653d2
+ms.openlocfilehash: b9a5966e49653a4998a0cb3f3858decbe6f820c6
+ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49725072"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "49837368"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Office 展開ツールのリリース履歴
 
@@ -28,6 +28,10 @@ ODT により、Office インストール環境をより詳細に制御できる
  **インストール方法**: 自己解凍実行ファイルをダウンロードして実行します。このファイルには、Office 展開ツールの実行可能ファイル (setup.exe) およびサンプル構成ファイル (configuration.xml) が含まれています。 
 
 [Office 展開ツールのダウンロード](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+## <a name="january-12-2021"></a>2021 年 1 月 12 日
+バージョン 16.0.13530.20376 (setup.exe バージョン 16.0.13530.20334)
+- 間違った製品登録や非標準の製品登録により、RemoveMSI 操作が失敗する可能性がある問題を修正しました
 
 ## <a name="december-21-2020"></a>2020 年 12 月 21 日
 バージョン 16.0.13426.20370 (setup.exe バージョン 16.0.13426.20352)
