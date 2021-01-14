@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の半期チャネル リリース (対象指定) のリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: b10c08a3f2375ef3d11653d998f92b3df70a769d
-ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
+ms.openlocfilehash: 71bc9b10ba52a077ba5cb20e2ab916ef7190814c
+ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49760651"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "49837628"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>半期エンタープライズ チャネル (プレビュー) のリリース ノート
 
@@ -23,6 +23,78 @@ ms.locfileid: "49760651"
 > [!IMPORTANT]
 > 現在、Microsoft 365 Apps の更新プログラム チャネルに、新しい更新プログラム チャネル (月次エンタープライズ チャネル) の追加や既存の更新プログラム チャネル名の変更など、いくつかの変更を進めています。 詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2127441)を参照してください。
 
+
+## <a name="version-2008-january-12"></a>バージョン 2008: 1 月 12 日
+*バージョン 2008 (ビルド 13127.21064)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- 読み取り専用のブックを開いたときに、ピボット テーブルのデータが更新されなくなる問題を修正しました。
+
+
+- この変更により、次の問題が修正されます: OneDrive ローカル同期フォルダーからファイルを挿入すると、Excel の [オブジェクトの挿入] に正しいアイコンが表示されない。
+
+
+- 共同編集のときに、新しいバージョンのファイルに関する通知が誤って送信される可能性がある問題を修正しました。
+
+
+- Overwrite モードで IME を使用するときに、余計な文字を誤って前に進めてしまうという編集に関する問題を修正しました。
+
+
+- リアルタイム データをマルチスレッドの再計算機能と組み合わせて使用するときの問題を修正しました。
+
+
+- 特定の Windows セキュリティのエクスプロイト保護設定 (SimExec、CallerCheck) を使用している場合に、Excel の起動に失敗したり、予期せず終了したりしてしまう問題を修正しました。
+
+
+### <a name="outlook"></a>Outlook
+
+- 下書きに保存したときに SmartLinks の書式設定が失われるという問題が修正されました。
+
+
+- ポリシーを上書きするときに、正当化テキストをカスタマイズする方法をユーザーに提供してしまう問題を修正しました。
+
+
+- OFT ファイルとして保存するときに、中国語の文字が疑問符に変更されてしまう問題を修正しました。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Slide.Shapes.AddMediaObject2 が従来のビデオ形式 (.MPG-1、Mpeg-2) で予期せず終了してしまう可能性がある VBA の問題を修正しました。
+
+
+- ドキュメントの修復操作の後であっても、一部の破損した PowerPoint ファイルを正常に開くことができないという問題が修正されました。
+
+
+### <a name="project"></a>Project
+
+- リソースの配分状況が特定の方法で指定されている場合に、Project が予期せず終了することがある問題を修正しました。
+
+
+### <a name="skype"></a>Skype
+
+- ユーザの TLS-DSK 証明書が期待通りの時間に更新されず、有効期間が 12 時間未満の場合にのみ更新されてしまう問題を修正しました。
+
+
+- Office にまだライセンスが付与されていない場合、サインイン後に Skype for Business UI が空白で表示されてしまう問題を修正しました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- この変更により、従来の図面を含むファイルを開くことに関連する問題に対処します。
+
+
+- この変更により、SVG フォールバック プロキシでアクセス違反が発生する問題に対処します。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2008-december-08"></a>バージョン 2008: 12 月 08 日
 *バージョン 2008 (ビルド 13127.20910)*
@@ -123,7 +195,7 @@ ms.locfileid: "49760651"
 
 
 
-[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+[//]: # (BUGDETAILS コンテンツ エンドを削除しないでください。終了)
 
 ## <a name="version-2008-november-10"></a>バージョン 2008: 11 月 10 日
 *バージョン 2008 (ビルド 13127.20760)*
@@ -1366,6 +1438,7 @@ ms.locfileid: "49760651"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|FRDC|Insiders| |16.0.13127.21064|version-2008-january-12|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20910|version-2008-december-08|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20760|version-2008-november-10|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20638|version-2008-october-13|)
