@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の月次チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 3b79261feff06820428a77b05fb778b577b0f046
-ms.sourcegitcommit: 1404eb977e0bc5d5de5a89c713eae9f32fdc877f
+ms.openlocfilehash: 90e66226abfe32aeb4097ccdfff3ec3665437c05
+ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "49780755"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "49837508"
 ---
 # <a name="release-notes-for-current-channel"></a>現在のチャネルのリリース ノート
 
@@ -32,6 +32,28 @@ ms.locfileid: "49780755"
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2012-january-12"></a>バージョン 2012: 1 月 12 日
+*バージョン 2012 (ビルド 13530.20376)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- 特定の Windows セキュリティのエクスプロイト保護設定 (SimExec、CallerCheck) を使用している場合に、Excel の起動に失敗したり、予期せず終了したりしてしまう問題を修正しました。
+
+
+### <a name="outlook"></a>Outlook
+
+- ユーザーに保存を求めた後、編集した署名が保存できない問題を修正しました。
 
 
 
@@ -322,7 +344,7 @@ ms.locfileid: "49780755"
 
 
 
-[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+[//]: # (BUGDETAILS コンテンツ エンドを削除しないでください。終了)
 
 ## <a name="version-2010-november-10"></a>バージョン 2010: 11 月 10 日
 *バージョン 2010 (ビルド 13328.20356)*
@@ -1827,6 +1849,7 @@ ms.locfileid: "49780755"
 > Office の使用で問題がある場合は、[Microsoft の回答フォーラム](https://answers.microsoft.com/)に関するページまたは「[Microsoft Tech Community](https://techcommunity.microsoft.com/)」に質問を投稿するか、[サポート](https://support.microsoft.com/contactus)に問い合わせてサポートを受けることができます。
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|CC|Production| |16.0.13530.20376|version-2012-january-12|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20316|version-2012-january-05|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20404|version-2011-december-21|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20332|version-2011-december-08|)
@@ -1836,5 +1859,4 @@ ms.locfileid: "49780755"
 [//]: # (|Win32|CC|Production| |16.0.13328.20408|version-2010-november-17|)
 [//]: # (|Win32|CC|Production| |16.0.13328.20356|version-2010-november-10|)
 [//]: # (|Win32|CC|Production| |16.0.13328.20292|version-2010-october-27|)
-[//]: # (|Win32|CC|Production| |16.0.13231.20418|version-2009-october-21|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)
