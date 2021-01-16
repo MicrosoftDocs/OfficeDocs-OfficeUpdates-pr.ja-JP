@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: f2eb63f0f9724ab4f5927df9696f7007917fe82e
-ms.sourcegitcommit: 75e30d61054abf480f9344b5a54370db93198d11
+ms.openlocfilehash: 6c96bdecd5cfc8fcfdebe4d851d29ac57e66ef72
+ms.sourcegitcommit: 4ba886bf4644bc78de9d15e25c2b338c002643e9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "49785749"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49878740"
 ---
 # <a name="release-notes-for-beta-channel"></a>ベータ チャネルのリリース ノート
 
@@ -30,6 +30,42 @@ ms.locfileid: "49785749"
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2102-january-15"></a>バージョン 2102: 1 月 15 日
+*バージョン 2102 (ビルド 13707.20008)*
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="outlook"></a>Outlook
+
+- **Teamsと共有:** Outlook からのメールや会話を Teams のユーザーまたはチャネルと共有します。
+
+### <a name="visio"></a>Visio
+
+- **図に適した既製のグラフィック:** アイコン、株の写真画像、ユーザーの切り抜き、ステッカーの大きなライブラリから選び、Visio 図面に追加できます。 [詳細情報](https://support.office.com/article/0ab844a5-289b-47f2-ba92-eeda168bc381)
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="project"></a>Project
+
+- コスト型リソースがマイルストーン タスクに割り当てられたとき、基準コストが正しくロールアップされないという問題が修正されました。
+
+
+### <a name="word"></a>Word
+
+- VBA マクロ実行中に ExportAsFixedFormat2 が、"プレゼンテーション (不明のメンバー) の不正な値" というエラーが表示され失敗する問題を修正しています。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2102-january-08"></a>バージョン 2102: 1 月 8 日
 *バージョン 2102 (ビルド 13704.20000)*
@@ -2255,7 +2291,7 @@ ms.locfileid: "49785749"
 ### <a name="resolved-issues"></a>解決済みの問題
 ### <a name="access"></a>Access
 
-- この更新プログラムでは、ADODB を使用する問題を修正します。 VB コードのレコーダー オブジェクトがエラーを誤って報告することがあります。
+- この更新プログラムでは、ADODB を使用する問題を修正します。 VB コードのれコーター オブジェクトがエラーを誤って報告することがあります。
 
 - この更新プログラムでは、Microsoft Access がリンクされた SQL Server テーブル内の ID 列を識別できない原因となり、行が削除されたと誤って報告される原因となる問題が修正されます。
 
@@ -2297,6 +2333,7 @@ ms.locfileid: "49785749"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13707.20008|version-2102-january-15|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13704.20000|version-2102-january-08|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13624.20002|version-2101-january-01|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|version-2101-december-25|)
@@ -2306,5 +2343,4 @@ ms.locfileid: "49785749"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13519.20000|version-2012-november-27|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13512.20000|version-2012-november-20|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13510.20004|version-2012-november-13|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13430.20000|version-2012-november-06|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)
