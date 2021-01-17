@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Microsoft 365 Apps サブスクライバー向け Office for Mac のリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: ab5f18ee1b2deb738e5d3e6e55a78a5adf624585
-ms.sourcegitcommit: 1587fea5b37f632608fe67e28030d380aba6b781
+ms.openlocfilehash: 5e63a6441de32b956a7e25e6bc0026d6fd485f2a
+ms.sourcegitcommit: 38acc55545cbeccd16603b7f731dc41a26e4a5ea
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49684089"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "49863204"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac のリリース ノート
 
@@ -49,6 +49,51 @@ Microsoft 365 サブスクリプションに付属する Office for Mac は、�
 
 
 
+
+
+
+## <a name="january-13-2021"></a>2021 年 1 月 13 日
+*バージョン 16.45 (ビルド 21011103)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="excel"></a>Excel
+
+- **秘密度ラベルの自動適用または推奨:** Office は、検出された機密コンテンツに基づいて機密ラベルを推奨または自動的に適用できます。 [詳細情報](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+
+### <a name="outlook"></a>Outlook
+
+- **秘密度ラベルの自動適用または推奨:** Office は、検出された機密コンテンツに基づいて秘密度ラベルを推奨または自動適用できます。 [詳細情報](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **秘密度ラベルの自動適用または推奨:** Office は、検出された機密コンテンツに基づいて機密ラベルを推奨または自動的に適用できます。 [詳細情報](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+
+### <a name="word"></a>Word
+
+- **秘密度ラベルの自動適用または推奨:** Office は、検出された機密コンテンツに基づいて機密ラベルを推奨または自動的に適用できます。 [詳細情報](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+
+[//]: # (セキュリティの詳細コンテンツを削除しないでください。開始)
+
+
+### <a name="security-updates"></a>セキュリティ更新プログラム
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-1714](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2021-1714)
+-   [CVE-2021-1713](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2021-1713)
+
+### <a name="word"></a>Word
+
+-   [CVE-2021-1716](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2021-1716)
+-   [CVE-2021-1715](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2021-1715)
+
+[//]: # (セキュリティの詳細コンテンツを削除しないでください 終了)
 
 ## <a name="december-15-2020"></a>2020 年 12 月 15 日
 *バージョン 16.44 (Build 20121301)*
@@ -205,7 +250,7 @@ Microsoft 365 サブスクリプションに付属する Office for Mac は、�
 ### <a name="feature-updates"></a>機能の更新プログラム
 ### <a name="excel"></a>Excel
 
-- **他のユーザーに影響を与えないフィルター処理と並べ替え:** Excel で他のユーザーと共同作業しながら自分が見やすいように表示できるため、他のユーザーに表示される内容を変えることなく、フィルター処理と並べ替えを行うことができます。 [詳細情報](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/sheet-view-makes-collaborating-easier)の詳細情報をご覧ください
+- **他のユーザーに影響を与えないフィルター処理と並べ替え:** Excel で他のユーザーと共同作業しながら自分が見やすいように表示できるため、他のユーザーに表示される内容を変えることなく、フィルター処理と並べ替えを行うことができます。 [詳細情報](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/sheet-view-makes-collaborating-easier) の詳細情報をご覧ください
 
 ### <a name="outlook"></a>Outlook
 
@@ -292,7 +337,7 @@ Microsoft 365 サブスクリプションに付属する Office for Mac は、�
 ### <a name="feature-updates"></a>機能の更新プログラム
 ### <a name="excel"></a>Excel
 
-- **写真からデータを取得する:** 写真から、[挿入] タブから、または iPhone から直接表データを追加します。 [詳細情報](https://support.office.com/article/3c1bb58d-2c59-4bc0-b04a-a671a6868fd7)<br />[ブログの投稿](https://blog-insider.office.com/2020/04/13/data-from-picture-in-excel/)の詳細情報をご覧ください
+- **写真からデータを取得する:** 写真から、[挿入] タブから、または iPhone から直接表データを追加します。 [詳細情報](https://support.office.com/article/3c1bb58d-2c59-4bc0-b04a-a671a6868fd7)<br />[ブログの投稿](https://blog-insider.office.com/2020/04/13/data-from-picture-in-excel/) の詳細情報をご覧ください
 
 ### <a name="outlook"></a>Outlook
 
@@ -348,14 +393,14 @@ Microsoft 365 サブスクリプションに付属する Office for Mac は、�
 
 - **スライドにリンクする:** 同僚へスライドセットに投稿してもらうように依頼して、ヘルプが必要なスライド上で直接開始します。 [詳細情報](https://support.office.com/article/4f5f3d5e-1674-4742-8cf1-9623050c19ef)
 
-- **探しているものを見つける:**[検索] ボックスを使用して、テキスト、コマンド、ヘルプなどを探します。 [詳細情報](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />[ブログの投稿](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)の詳細情報をご覧ください
+- **探しているものを見つける:**[検索] ボックスを使用して、テキスト、コマンド、ヘルプなどを探します。 [詳細情報](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />[ブログの投稿](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/) の詳細情報をご覧ください
 
 ### <a name="word"></a>Word
 
 - **ハンズフリーで入力:** マイクは用意しましたか? [ディクテーション] をクリックして、発話すると Word によって入力されるのを確認してください。 [詳細情報](https://support.office.com/article/3876e05f-3fcc-418f-b8ab-db7ce0d11d3c)<br />[ブログの投稿](https://blog-insider.office.com/2020/01/24/dictate-your-documents-in-word-on-mac/) の詳細情報をご覧ください
 
 
-- **探しているものを見つける:**[検索] ボックスを使用して、テキスト、コマンド、ヘルプなどを探します。 [詳細情報](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />[ブログの投稿](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)の詳細情報をご覧ください
+- **探しているものを見つける:**[検索] ボックスを使用して、テキスト、コマンド、ヘルプなどを探します。 [詳細情報](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />[ブログの投稿](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/) の詳細情報をご覧ください
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
