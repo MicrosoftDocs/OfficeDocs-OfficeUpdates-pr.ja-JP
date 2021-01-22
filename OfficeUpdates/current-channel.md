@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の月次チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 90e66226abfe32aeb4097ccdfff3ec3665437c05
-ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
+ms.openlocfilehash: 2a724fbea64b9e0cc76637fbe438f94379a390eb
+ms.sourcegitcommit: 322c2ae414beb38571117d522ddc5a3abb9ecc11
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "49837508"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "49934415"
 ---
 # <a name="release-notes-for-current-channel"></a>現在のチャネルのリリース ノート
 
@@ -32,6 +32,28 @@ ms.locfileid: "49837508"
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2012-january-21"></a>バージョン 2012: 1 月 21 日
+*バージョン 2012 (ビルド 13530.20440)*
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- プロファイルに大きな階層がある共有メールボックスまたは代理メールボックスを持つユーザーがハングする原因となる問題を修正しました。
+
+
+- 特定の検索シナリオで Outlook が予期せず終了するという一部のユーザーに発生した問題が修正されました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- すべての相互依存のコンポーネントを正常に閉じる、ファイルの閉じ順序が修正されました。
 
 
 
@@ -366,7 +388,7 @@ ms.locfileid: "49837508"
 
 
 
-[//]: # (BUGDETAILS コンテンツ エンドを削除しないでください。終了)
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2010-october-27"></a>バージョン 2010: 10 月 27 日
 *バージョン 2010 (ビルド 13328.20292)*
@@ -1759,7 +1781,7 @@ ms.locfileid: "49837508"
 ### <a name="resolved-issues"></a>解決済みの問題
 ### <a name="access"></a>Access
 
-- この更新プログラムでは、ADODB を使用する問題を修正します。 VB コードのレコーダー オブジェクトがエラーを誤って報告することがあります。
+- この更新プログラムでは、ADODB を使用する問題を修正します。 VB コードのれコーター オブジェクトがエラーを誤って報告することがあります。
 
 
 - この更新プログラムでは、Microsoft Access がリンクされた SQL Server テーブル内の ID 列を識別できない原因となり、行が削除されたと誤って報告される原因となる問題が修正されます。
@@ -1849,6 +1871,7 @@ ms.locfileid: "49837508"
 > Office の使用で問題がある場合は、[Microsoft の回答フォーラム](https://answers.microsoft.com/)に関するページまたは「[Microsoft Tech Community](https://techcommunity.microsoft.com/)」に質問を投稿するか、[サポート](https://support.microsoft.com/contactus)に問い合わせてサポートを受けることができます。
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|CC|Production| |16.0.13530.20440|version-2012-january-21|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20376|version-2012-january-12|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20316|version-2012-january-05|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20404|version-2011-december-21|)
@@ -1858,5 +1881,4 @@ ms.locfileid: "49837508"
 [//]: # (|Win32|CC|Production| |16.0.13426.20274|version-2011-november-23|)
 [//]: # (|Win32|CC|Production| |16.0.13328.20408|version-2010-november-17|)
 [//]: # (|Win32|CC|Production| |16.0.13328.20356|version-2010-november-10|)
-[//]: # (|Win32|CC|Production| |16.0.13328.20292|version-2010-october-27|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)
