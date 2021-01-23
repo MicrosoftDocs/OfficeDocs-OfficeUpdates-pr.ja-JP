@@ -1,5 +1,5 @@
 ---
-title: Microsoft Auto Update (MAU) のリリース履歴
+title: Microsoft AutoUpdate (MAU) のリリース履歴
 ms.author: timda
 author: TimDavenport
 manager: TimDavenport
@@ -8,25 +8,25 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
-description: IT プロフェッショナルに、Microsoft Auto Update (MAU) のリリース履歴を提供します
-ms.openlocfilehash: 5250255af7fe776e7f8ed07a7d5987076fc08079
-ms.sourcegitcommit: 053560beb18fc8b527e2be661b165e0034e3b1bf
+description: IT プロフェッショナルに、Microsoft AutoUpdate (MAU) のリリース履歴を提供します
+ms.openlocfilehash: 74388a251d2c568322e13cca34d973f3d790e023
+ms.sourcegitcommit: e47d22b7b3ad48ad20ca184c30824480e1701c35
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "49849492"
+ms.lasthandoff: 01/23/2021
+ms.locfileid: "49943277"
 ---
-# <a name="release-history-for-microsoft-auto-update-mau"></a>Microsoft Auto Update (MAU) のリリース履歴
+# <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) のリリース履歴
  
-最新バージョンの Microsoft Auto Update (MAU) に更新された状態を常に保つようお勧めします。
+最新バージョンの Microsoft AutoUpdate (MAU) に更新された状態を常に保つようお勧めします。
 
-以下の表に、Microsoft Auto Update のリリース履歴を示します。この表はリリース日順になっていて、最新のリリース日のものが先頭です。すべての更新プログラム パッケージは 64 ビットです。
+以下の表に、Microsoft AutoUpdate のリリース履歴を示します。この表はリリース日順になっていて、最新のリリース日付のものが先頭です。すべての更新プログラム パッケージが 64 ビットです。
 
 
 > [!NOTE]
 > 
-> - ダウンロード リンクは、Microsoft Auto Update の最新リリースにのみ提供されます
-> - Microsoft Auto Update は、Microsoft のさまざまな Mac 製品への更新プログラムを提供します。そのため、Office for Mac を実行していない場合でも、Microsoft Auto Update を更新する通知が表示される場合があります。
+> - ダウンロード リンクは、最新リリースの Microsoft AutoUpdate にのみ提供されます。
+> - Microsoft AutoUpdate は、Microsoft のさまざまな Mac 製品への更新プログラムを提供します。そのため、Office for Mac を実行していない場合でも、Microsoft AutoUpdate を更新する通知が表示される場合があります。
 
 リリース ノートを確認するには、「[リリース ノート](release-notes-office-for-mac.md)」を参照してください。<br/><br/>
 
@@ -34,12 +34,12 @@ ms.locfileid: "49849492"
 
 **リリース日:** 2020 年 1 月 13 日
 
-*Microsoft Auto Update 4.31*
+*Microsoft AutoUpdate 4.31*
 
 **バグの修正と強化された機能:**
-- 自動更新を実行していないデバイスの場合、Microsoft Auto Update は MAU UI を開く代わりに通知を介して新しい更新プログラムについてお知らせするようになりました。
+- 自動更新を実行していないデバイスの場合、Microsoft AutoUpdate は MAU UI を開く代わりに、通知を介して新しい更新プログラムについてお知らせするようになります。
 
-[Microsoft Auto Update 4.31 パッケージをダウンロードする](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.31.21011103_Updater.pkg)<br/>
+[Microsoft AutoUpdate 4.31 パッケージをダウンロードする](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.31.21011103_Updater.pkg)<br/>
 <br/>
 **SHA-256 ハッシュ:**
 
@@ -51,14 +51,14 @@ ms.locfileid: "49849492"
 
 **リリース日:** 2020 年 12 月 15 日
 
-*Microsoft Auto Update 4.30*
+*Microsoft AutoUpdate 4.30*
 
 **バグの修正と強化された機能:**
 - M1を使用して、Macs にユニバーサル アプリ サポートを追加します。
 
 **MAU の更新プログラムのリンク:**
 
-[Microsoft Auto Update 4.30 パッケージをダウンロードする](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.30.20121301_Updater.pkg)<br/>
+[Microsoft AutoUpdate 4.30 パッケージをダウンロードする](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.30.20121301_Updater.pkg)<br/>
 <br/>
 **SHA-256 ハッシュ:**
 
@@ -71,15 +71,15 @@ ms.locfileid: "49849492"
 
 **リリース日:** 2020 年 11月 10 日
 
-*Microsoft Auto Update 4.29*
+*Microsoft AutoUpdate 4.29*
 
 **バグの修正と強化された機能:**
 -   Microsoft 365 のチャネル名が更新されました。
--   OneDrive の特定のインストールが更新プログラムを取得できなかった問題が修正されました。
+-   OneDrive の特定のインストールで更新プログラムを取得できなかった問題が修正されました。
 
 **MAU の更新プログラムのリンク:**
 
-[Microsoft Auto Update 4.29 パッケージをダウンロードする](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.29.20110804_Updater.pkg)<br/>
+[Microsoft AutoUpdate 4.29 パッケージをダウンロードする](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.29.20110804_Updater.pkg)<br/>
 <br/>
 **SHA-256 ハッシュ:**
 
@@ -91,16 +91,16 @@ ms.locfileid: "49849492"
 
 **リリース日:** 2020 年 10 月 13 日
 
-*Microsoft Auto Update 4.28*
+*Microsoft AutoUpdate 4.28*
 
 **バグの修正と強化された機能:**
 -   MAU UI: 概要ビューには、エラーが発生したときにユーザーの注意が必要なことが表示されます。
--   MAU UI と更新アシスタントは、何の操作も行わない72時間後に自己終了します。
+-   MAU UI と更新アシスタントは共に、操作が 72 時間行われないと自己終了します。
 -   MAU UI: Windows メニューが用意されています。
 
 **MAU の更新プログラムのリンク:**
 
-[Microsoft Auto Update 4.28 パッケージをダウンロードする](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.28.20101102_Updater.pkg)<br/>
+[Microsoft AutoUpdate 4.28 パッケージをダウンロードする](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.28.20101102_Updater.pkg)<br/>
 <br/>
 **SHA-256 ハッシュ:**
 
@@ -112,14 +112,14 @@ ms.locfileid: "49849492"
 
 **リリース日:** 2020 年 9 月 16 日
 
-*Microsoft Auto Update 4.27*
+*Microsoft AutoUpdate 4.27*
 
 **バグの修正と強化された機能:**
--   MAU 更新アシスタントは、通常のチェック サイクルにまだ達していない場合でも、ロック画面の背後で更新プログラムを開始します。
+-   MAU 更新アシスタントは、通常のチェック サイクルに達しなくても、ロック画面の背後で更新プログラムを開始するようになります。
 
 **MAU の更新プログラムのリンク:**
 
-[Microsoft Auto Update 4.27 パッケージをダウンロードする](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.27.20091302_Updater.pkg)<br/>
+[Microsoft AutoUpdate 4.27 パッケージをダウンロードする](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.27.20091302_Updater.pkg)<br/>
 <br/>
 **SHA-256 ハッシュ:**
 
@@ -131,7 +131,7 @@ ms.locfileid: "49849492"
 
 **リリース日:** 2020 年 8 月 11 日
 
-*Microsoft Auto Update 4.26*
+*Microsoft AutoUpdate 4.26*
 
 **バグの修正と強化された機能:**
 -   ドックの MAU アイコンに、利用可能な更新プログラムの数が表示されます。 
@@ -143,7 +143,7 @@ ms.locfileid: "49849492"
 
 **MAU 更新プログラムのリンク:**
 
-[Microsoft Auto Update 4.26 パッケージをダウンロードする](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.26.20081000_Updater.pkg)<br/>
+[Microsoft AutoUpdate 4.26 パッケージをダウンロードする](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.26.20081000_Updater.pkg)<br/>
 <br/>
 **SHA-256 ハッシュ:**
 
@@ -159,10 +159,10 @@ E81CEADF900A0C7E7D593720D08146DBC1C55868D5B21C7E7A175AA36DFE0178
 
 **バグの修正と強化された機能:**
 - アプリの終了を検出し、"アプリを開く" に関して表示されたダイアログを自動的に削除します。
-- ４ 月のリリースで導入された、自動更新をオフにしているユーザーに Microsoft Auto Update UI が週に 1 回だけ表示される機能を元に戻しました。
+- 4 月のリリースで導入された、自動更新をオフにしているユーザーに Microsoft AutoUpdate UI が週に 1 回だけ表示される機能が元に戻されました。
 - 更新プログラムをダウンロードした後、インストールを開始する前に Update Assitant が終了する問題が修正されました。
 - ユーザー通知が保留になっているときに、長期間経過しても Update Assistant が終了しないという問題が修正されました。
-- インストール後に MAU UI が再度開いた (または再び開かない) 問題が修正されました。 MAU UI 自体から更新プログラムを開始した場合、またはユーザーが (Finder、Terminal など経由で) 明示的に更新プログラムを開始した場合、インストール後に UI が開く必要があります。
+- インストール後に MAU UI が再度開いた (または再度開かなかった) 問題が修正されました。 MAU UI 自体から更新プログラムを開始した場合、またはユーザーが (Finder、Terminal などを経由して) 明示的に更新プログラムを開始した場合は、インストール後に UI が開きます。
 
 **SHA-256 ハッシュ:**
 
@@ -177,7 +177,7 @@ B8E3D4391E48732F42217589784D8B3417F6F14489D9DE04395198A01BFDFA46
 *Microsoft AutoUpdate 4.24*
 
 **バグの修正と強化された機能:**
-- カスタマー メッセージング キャンペーン: Office for Mac 2016 は、2020年10月にサポートが終了します。 
+- カスタマー メッセージング キャンペーン: Office for Mac 2016 は、2020 年 10 月にサポートが終了します。 
 - MAU の Helper Tool XPC 接続のセキュリティ修正。
 
 **SHA-256 ハッシュ:**
@@ -193,8 +193,8 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 *Microsoft AutoUpdate 4.23*
 
 **バグの修正と強化された機能:**
-- MacOS 10.13 以上と Office 2016 バージョンを使用しているデバイスでは、ユーザーに Office 2016 のサポートが終了する旨の通知が表示されます。 
-- Word、Excel、PowerPoint のアプリでウィンドウを開いておらず、デバイスが Microsoft Auto Update の自動更新モードになっている場合、更新を適用するためにユーザーがこれらのアプリを終了する必要はありません。 3. Microsoft Auto Update が、ユーザーが更新したり、新しい Auto Update セッションを起動したりしなくても、CDN 上の最新リリースを使用して更新ダッシュボードを自動的に更新するようになりました。 
+- macOS 10.13 以上と Office 2016 バージョンを使用しているデバイスでは、ユーザーに Office 2016 のサポートが終了する旨の通知が表示されます。 
+- Word、Excel、PowerPoint のアプリでウィンドウを開いておらず、デバイスが Microsoft AutoUpdate の自動モードになっている場合は、更新を適用するためにユーザーがこれらのアプリを終了する必要はなくなります。 Microsoft AutoUpdate は、ユーザーが更新したり、新しい AutoUpdate セッションを起動したりしなくても、CDN 上の最新リリースを使用して更新ダッシュボードを自動的に更新するようになりました。 
 
 **SHA-256 ハッシュ:**
 
@@ -206,10 +206,10 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 
 **リリース日:** 2020 年 4 月 21 日
 
-*Microsoft Auto Update 4.22*
+*Microsoft AutoUpdate 4.22*
 
 **バグの修正と強化された機能:**
-- 新しい更新プログラムがない場合、"自動" モードの Microsoft Auto Update で Office アプリを更新しているデバイス、および非自動モードで更新を実行しているデバイスに Microsoft Auto Update UI は表示されません。
+- 「自動」モードの Microsoft AutoUpdate で Office アプリを更新しているデバイス、および非自動モードで更新を行うデバイスで新しい更新プログラムがないときには、Microsoft AutoUpdate UI は表示されません。
 
 **SHA-256 ハッシュ:**
 
@@ -219,13 +219,13 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 
 **リリース日:** 2020 年 4 月 14 日
 
-*Microsoft Auto Update 4.22*
+*Microsoft AutoUpdate 4.22*
 
  **機能の更新プログラム:**
 
-- セキュリティ修正: Microsoft Auto Update は、古いバージョンからの安全でない接続を防止します。
-- 自動更新がオフのユーザーには、Microsoft Auto Update UI が週に 1 回だけ表示されます。
-- SSD 搭載の MacOS マシンの場合、更新はより高速で行われ、更新プログラムの入手に伴うアプリのダウンタイムはごくわずかです。
+- セキュリティ修正: Microsoft AutoUpdate は、古いバージョンからの安全でない接続を防止します。
+- 自動更新がオフのユーザーには、Microsoft AutoUpdate UI が週に 1 回だけ表示されます。
+- SSD 搭載の macOS マシンの場合、更新はより高速で行われ、更新によるアプリのダウンタイムはごくわずかになります。
 
 
 [CVE-2020-0984](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0984) をご覧ください。
@@ -239,11 +239,11 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 
 **リリース日:** 2020 年 3 月 10 日
 
-*Microsoft Auto Update 4.21*
+*Microsoft AutoUpdate 4.21*
 
  **機能の更新プログラム:**
 
-- Word、Excel、PowerPoint で状態の復元が有効になりました。Microsoft Auto Update の自動更新モードでウィンドウが開くことなく実行されるか、Docstage 状態が実行されます。 今後自動更新モードのエンド ユーザーではこれまで以上にサイレントで更新が実行されます。状態の復元による更新の使用対象となるアプリを終了する必要がないためです。
+- Word、Excel、PowerPoint で状態の復元が有効になりました。Microsoft AutoUpdate の自動更新モードでウィンドウが開くことなく実行されるか、Docstage 状態が実行されます。 今後自動更新モードのエンド ユーザーではこれまで以上にサイレントで更新が実行されます。状態の復元による更新の使用対象となるアプリを終了する必要がないためです。
 
 **SHA-256 ハッシュ:**
 
@@ -254,11 +254,11 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 
 **リリース日:** 2020 年 2 月 11 日
 
-*Microsoft Auto Update 4.20*
+*Microsoft AutoUpdate 4.20*
 
  **機能の更新プログラム:**
 
-- デバイス上の少なくとも 1 つのアプリが MAU に登録されている場合にのみ、Microsoft Auto Update UI が起動します
+- デバイス上の少なくとも 1 つのアプリが MAU に登録されている場合にのみ、Microsoft AutoUpdate UI が起動します
 - バグの修正と強化された機能
 
 **SHA-256 ハッシュ:**
@@ -269,7 +269,7 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 
 **リリース日:** 2020 年 1 月 14 日 
 
-*Microsoft Auto Update 4.19*
+*Microsoft AutoUpdate 4.19*
 
  **機能の更新プログラム:**
 
@@ -283,7 +283,7 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 
 **リリース日**: 2019 年 12 月 10 日
 
-*Microsoft Auto Update 4.18*
+*Microsoft AutoUpdate 4.18*
 
  **機能の更新プログラム:**
 
@@ -297,12 +297,12 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 
 **リリース日:** 2019 年 11 月 12 日
 
-*Microsoft Auto Update 4.17*
+*Microsoft AutoUpdate 4.17*
 
  **機能の更新プログラム:**
 
-- 各メジャー更新の新機能が、Microsoft Auto Update ダッシュボードで表示できるようになりました。
-- Catalina のリリースにより、Office 2019 更新プログラムの最小 OS 要件が macOS 10.13 に変更されました。最新の Office 更新プログラムを入手するには、ユーザーにアップグレードするよう通知しています。
+- 各メジャー更新の新機能は、Microsoft AutoUpdate ダッシュボードで表示できるようになりました。
+- Office 2019 更新プログラムの最小 OS 要件は、Catalina のリリースに伴い、macOS 10.13 に変更されました。 ユーザーは、最新の Office 更新プログラムにアップグレードするように通知されます。
 
 **SHA-256 ハッシュ:**
 
@@ -312,11 +312,11 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 
 **リリース日:** 2019 年 10 月 15 日
 
-*Microsoft Auto Update 4.16*
+*Microsoft AutoUpdate 4.16*
 
  **機能の更新プログラム:**
 
-- Microsoft Auto Update 4.16 以降、すべての新しいエンド ユーザー エクスペリエンスがすべての顧客に対して利用可能になりました。
+- Microsoft AutoUpdate 4.16 以降、すべての新しいエンド ユーザー エクスペリエンスがすべての顧客に利用可能になりました。
 
 **SHA-256 ハッシュ:**
 
@@ -325,7 +325,7 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 
 **リリース日:** 2019 年 9 月 10 日
 
-*Microsoft Auto Update 4.15*
+*Microsoft AutoUpdate 4.15*
 
  **機能の更新プログラム:**
 
@@ -340,7 +340,7 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 
 **リリース日:** 2019 年 8 月 13 日
 
-*Microsoft Auto Update 4.14*
+*Microsoft AutoUpdate 4.14*
 
  **機能の更新プログラム:**
 
@@ -354,7 +354,7 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 
 **リリース日:** 2019 年 7 月 18 日
 
-*Microsoft Auto Update 4.13*
+*Microsoft AutoUpdate 4.13*
 
  **機能の更新プログラム:**
 
@@ -370,7 +370,7 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 
 **リリース日:** 2019 年 6 月 27 日
 
-*Microsoft Auto Update 4.12*
+*Microsoft AutoUpdate 4.12*
 
  **機能の更新プログラム:**
 
@@ -383,13 +383,13 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 
 **リリース日:** 2019 年 6 月 9 日
 
-*Microsoft Auto Update 4.12*
+*Microsoft AutoUpdate 4.12*
 
  **機能の更新プログラム:**
 
-- バイナリ デルタの更新: SSD デバイスを使用している場合は、更新プログラムを小規模に展開することで、更新プログラムのための帯域幅消費を削減します。
-- アクセサリ用アプリのサポート: MAU で Microsoft OneDrive などのアクセサリ用アプリがサポートされるようになりました。
-- クローンの拡張機能: クローンの更新が、より堅牢で失敗知らずになりました。
+- バイナリの差分更新: SSD デバイスでは、より小規模な更新プログラムを利用できるため、更新による帯域幅の消費を削減できます。
+- アクセサリ アプリのサポート: MAU で、Microsoft OneDrive などのアクセサリ アプリがサポートされるようになりました。
+- 複製でのインストールの機能強化: クローンの更新が、より堅牢になりました。
 
 **SHA-256 ハッシュ:**
 
@@ -401,7 +401,7 @@ ABCC7D58DA7DB1B8B24B9B1BE6B1DB93BDC97AE487EFB615EC5695B9E1CC0FC9
 
 **リリース日:** 2019 年 5 月 14 日
 
-*Microsoft Auto Update 4.11*
+*Microsoft AutoUpdate 4.11*
 
  **機能の更新プログラム:**
 
@@ -418,12 +418,12 @@ EE3403B79E536191E545E70708A99D3A33B384372F65C028490AFFB551CD1EE2
 
 **リリース日:** 2019 年 4 月 16日
 
-*Microsoft Auto Update 4.10*
+*Microsoft AutoUpdate 4.10*
 
  **機能の更新プログラム:**
 
-- クローンでのインストール機能の強化: SSD デバイスでは、現在使用中のアプリのクローンでアップデートが展開されるため、アップデートによるアプリのダウンタイムが短縮されます。
-- インストールの最適化: アップデート プロセスで並列化されたクローンが使用されるため、アップデートによるアプリのダウンタイムが短縮されます。
+- 複製でのインストール機能の強化: SSD デバイスでは、現在使用中のアプリに対して複製で更新プログラムが展開されるため、更新によるアプリのダウンタイムが削減されます。
+- インストールの最適化: 更新プロセスで並列化された複製が使用されるため、アプリのダウンタイムが削減されます。
 
 **SHA-256 ハッシュ:**
 
@@ -475,7 +475,7 @@ FF676870D5B3521202095810B85DEF36538B59E00AEA44A2ED0D7EA8B3B99D6C
 |2016 年 1 月 5 日  <br/> |3.4.0  <br/> |[KB 3133674](https://support.microsoft.com/kb/3133674) <br/> | <br/> |
 
 
-## <a name="related-topics"></a>関連項目
+## <a name="related-articles"></a>関連記事
 
 - [Office for Mac の更新履歴](update-history-office-for-mac.md)
 - [Office for Mac のリリース ノート](release-notes-office-for-mac.md) 
