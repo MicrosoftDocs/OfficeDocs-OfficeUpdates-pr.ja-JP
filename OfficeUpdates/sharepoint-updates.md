@@ -13,12 +13,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: SharePoint Server 2016、SharePoint 2013、および SharePoint 2010 の更新プログラムを 1 か所で検索および管理できます。このページのリンクを使用して、更新プログラムに関する詳細な情報を取得し、更新プログラムをダウンロードしてください。
-ms.openlocfilehash: f94b64d28c61d5d98c64daebd4cc406439bafcf4
-ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
+ms.openlocfilehash: b3d51cbd5990de8cf0c36f018881278b6f5989d4
+ms.sourcegitcommit: e9067730e4a7e0bd546c59642362b5f01f1aae64
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "49837578"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "49980421"
 ---
 # <a name="sharepoint-updates"></a>SharePoint 更新プログラム
 
@@ -26,9 +26,13 @@ ms.locfileid: "49837578"
 
 SharePoint Online と Microsoft 365 の最新更新プログラムについては、「[Microsoft 365 のロードマップ](https://go.microsoft.com/fwlink/p/?linkid=529454)」を参照してください。
 
+
+
 <a name="BKMK_2016"> </a>
   
 ## <a name="sharepoint-2019-update-history"></a>SharePoint 2019 の更新履歴
+> [!NOTE]
+>各リリース日の最初の更新プログラム/KB は、言語に依存しない STS パッチです。 2 番目の更新プログラムは言語に依存する WSSLOC パッチで、英語のインストールを含むすべての言語パックを対象としています。 言語に依存する WSSLOC パッチは毎月リリースされない場合がありますが、ファームを完全にアップデートするには両方のアップデートが必要です。
 
 |**パッケージ名**|**サポート技術情報番号**|**バージョン**|**リリース日**|
 |:-----|:-----|:-----|:-----|
@@ -60,6 +64,9 @@ SharePoint Online と Microsoft 365 の最新更新プログラムについて�
 |SharePoint Server 2019  <br/>  |[KB 4461548](https://support.microsoft.com/help/4461548)  <br/> ||2018 年 12 月  <br/> |
 |SharePoint Server 2019  <br/>  |[KB 4461513](https://support.microsoft.com/help/4461513)  <br/> ||2018 年 11 月  <br/> |
 ## <a name="sharepoint-2016-update-history"></a>SharePoint 2016 の更新履歴
+
+> [!NOTE]
+>各リリース日の最初の更新プログラム/KB は、言語に依存しない STS パッチです。 2 番目の更新プログラムは言語に依存する WSSLOC パッチで、英語のインストールを含むすべての言語パックを対象としています。 言語に依存する WSSLOC パッチは毎月リリースされない場合がありますが、ファームを完全にアップデートするには両方のアップデートが必要です。
 
 |**パッケージ名**|**サポート技術情報番号**|**バージョン**|**リリース日**|
 |:-----|:-----|:-----|:-----|
