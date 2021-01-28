@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の月次チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 2a724fbea64b9e0cc76637fbe438f94379a390eb
-ms.sourcegitcommit: 322c2ae414beb38571117d522ddc5a3abb9ecc11
+ms.openlocfilehash: 1947dcee128684821afb91cec6bb16f015015ed5
+ms.sourcegitcommit: 0e5154d937aaa5fd45f8fa79b8f0b2a614b7e5a0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49934415"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50013288"
 ---
 # <a name="release-notes-for-current-channel"></a>現在のチャネルのリリース ノート
 
@@ -32,6 +32,86 @@ ms.locfileid: "49934415"
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2101-january-26"></a>バージョン 2101: 1 月 26 日
+*バージョン 2101 (ビルド 13628.20274)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="excel"></a>Excel
+
+- **M365 の管理者に機密度ラベルに関する監査データを送信する** : ユーザーがドキュメントやメールに機密度ラベルを適用、変更、または削除したときに、Office は M365 監査バックエンドに監査データを送信し管理者の目に入れるようにします。 これは、管理者のためのサイレント機能 (UI なし) です。
+
+- 
+  **政府機関のお客様: ドキュメントおよびメールに秘密度ラベルを適用する:** GCC および GCC-H 環境のお客様は、秘密度のラベル付け機能を利用できるようになりました (詳細情報 - https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels)。
+
+### <a name="outlook"></a>Outlook
+
+- **メッセージの所有者として会話を削除する:** この機能を使用すると、メッセージの所有者による会話を削除できます。
+
+- **連続する会議の合間に時間を組み込む:** 既定で 5 分から 10 分遅く会議を開始するように設定することで、出席者に休憩時間や場所の移動時間を与えることができます。 [詳細情報](https://support.office.com/article/be84396a-0903-4e25-b31c-1c99ce0dacf2)
+
+- **すべてのオンライン会議:** 予定表設定を更新して、既定で Teams 会議を作成するすべての会議を作成します。これにより、Teams 会議オプションをクリックする必要がなくなります。
+
+- **M365 の管理者に機密度ラベルに関する監査データを送信する** : ユーザーがドキュメントやメールに機密度ラベルを適用、変更、または削除したときに、Office は M365 監査バックエンドに監査データを送信し管理者の目に入れるようにします。 これは、管理者のためのサイレント機能 (UI なし) です。
+
+- 
+  **政府機関のお客様: ドキュメントおよびメールに秘密度ラベルを適用する:** GCC および GCC-H 環境のお客様は、秘密度のラベル付け機能を利用できるようになりました (詳細情報 - https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels)。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **M365 の管理者に機密度ラベルに関する監査データを送信する** : ユーザーがドキュメントやメールに機密度ラベルを適用、変更、または削除したときに、Office は M365 監査バックエンドに監査データを送信し管理者の目に入れるようにします。 これは、管理者のためのサイレント機能 (UI なし) です。
+
+- 
+  **政府機関のお客様: ドキュメントおよびメールに秘密度ラベルを適用する:** GCC および GCC-H 環境のお客様は、秘密度のラベル付け機能を利用できるようになりました (詳細情報 - https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels)。
+
+### <a name="word"></a>Word
+
+- **M365 の管理者に機密度ラベルに関する監査データを送信する** : ユーザーがドキュメントやメールに機密度ラベルを適用、変更、または削除したときに、Office は M365 監査バックエンドに監査データを送信し管理者の目に入れるようにします。 これは、管理者のためのサイレント機能 (UI なし) です。
+
+- 
+  **政府機関のお客様: ドキュメントおよびメールに秘密度ラベルを適用する:** GCC および GCC-H 環境のお客様は、秘密度のラベル付け機能を利用できるようになりました (詳細情報 - https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels)。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- 特定の Windows セキュリティのエクスプロイト保護設定 (SimExec、CallerCheck) を使用している場合に、Excel の起動に失敗したり、予期せず終了したりしてしまう問題を修正しました。
+
+
+### <a name="excelexe"></a>excel.exe
+
+- 一部の従来の Excel 4.0 および Excel 5.0 マクロ、および dialogsheets.show への一部の VBA 呼び出しが破損する問題を修正しました。
+
+
+### <a name="outlook"></a>Outlook
+
+- 特定の検索シナリオで Outlook が予期せず終了するという一部のユーザーの問題が修正されました。
+
+
+- プロファイルに大きな階層がある共有メールボックスまたは代理メールボックスを持つユーザーがハングする原因となる問題を修正しました。
+
+
+### <a name="project"></a>Project
+
+- チーム プランナー ビューのタスクに枠が表示されない問題を修正しました。
+
+
+- チーム プランナー ビューのタスクでドラッグ アンド ドロップが機能しない問題を修正しました。
+
+
+- コスト型リソースがマイルストーン タスクに割り当てられたとき、基準コストが正しくロールアップされないという問題が修正されました。
 
 
 
@@ -366,7 +446,7 @@ ms.locfileid: "49934415"
 
 
 
-[//]: # (BUGDETAILS コンテンツ エンドを削除しないでください。終了)
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2010-november-10"></a>バージョン 2010: 11 月 10 日
 *バージョン 2010 (ビルド 13328.20356)*
@@ -1871,6 +1951,7 @@ ms.locfileid: "49934415"
 > Office の使用で問題がある場合は、[Microsoft の回答フォーラム](https://answers.microsoft.com/)に関するページまたは「[Microsoft Tech Community](https://techcommunity.microsoft.com/)」に質問を投稿するか、[サポート](https://support.microsoft.com/contactus)に問い合わせてサポートを受けることができます。
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|CC|Production| |16.0.13628.20274|version-2101-january-26|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20440|version-2012-january-21|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20376|version-2012-january-12|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20316|version-2012-january-05|)
@@ -1880,5 +1961,4 @@ ms.locfileid: "49934415"
 [//]: # (|Win32|CC|Production| |16.0.13426.20294|version-2011-november-30|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20274|version-2011-november-23|)
 [//]: # (|Win32|CC|Production| |16.0.13328.20408|version-2010-november-17|)
-[//]: # (|Win32|CC|Production| |16.0.13328.20356|version-2010-november-10|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)
