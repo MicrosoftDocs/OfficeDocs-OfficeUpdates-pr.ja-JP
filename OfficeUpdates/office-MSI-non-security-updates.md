@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 永続的なバージョンの Office 2016、Office 2013、Office 2010 の最新のセキュリティ以外の更新プログラム情報へのリンクを IT 技術者に提供します
-ms.openlocfilehash: a27f237ebfa45bc00503ae56680c3082c6e05af0
-ms.sourcegitcommit: 83279185266cdc7c628bc5092360d2914e240034
+ms.openlocfilehash: d678db0661a86e65dc8fc17b659d7339c9ad2b65
+ms.sourcegitcommit: 94cecf570c23c9f540a659820706fca049ed97ab
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49756756"
+ms.lasthandoff: 02/02/2021
+ms.locfileid: "50080948"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Windows インストーラー (MSI) を使用しているバージョンの Office の最新のセキュリティ以外の更新プログラム
 
@@ -25,6 +25,19 @@ ms.locfileid: "49756756"
 > - この記事の情報は、Microsoft 365 のアプリには適用されません。
 > - Office の更新プログラムをインストールする手順については、「[Office の更新プログラムをインストールする](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)」を参照してください。
 <br/><br/>
+
+## <a name="february-2-2021"></a>2021 年 2 月 2 日
+**Office 2016**<br/>
+Microsoft Office 2016 の更新プログラム ([KB4493189](https://support.microsoft.com/help/4493189)) </br> Microsoft Outlook 2016 の更新プログラム ([KB4493190](https://support.microsoft.com/help/4493190)) </br> Microsoft PowerPoint 2016 の更新プログラム ([KB4493164](https://support.microsoft.com/help/4493164)) </br> 
+
+**Office 2013**<br/>
+Microsoft Office 2013 の更新プログラム ([KB4486684](https://support.microsoft.com/help/4486684)) </br>
+Microsoft PowerPoint 2013 の更新プログラム ([KB4493169](https://support.microsoft.com/help/4493169)) </br>
+
+**Office 2010**<br/>
+Microsoft Office 2010 の更新プログラム ([KB4493180](https://support.microsoft.com/help/4493180)) </br>
+Microsoft PowerPoint 2010 の更新プログラム ([KB4493179](https://support.microsoft.com/help/4493179))</br>
+
 
 ## <a name="january-5-2021"></a>2021 年 1 月 5 日
 **Office 2016**</br>
