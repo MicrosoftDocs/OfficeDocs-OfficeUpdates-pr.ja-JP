@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに新機能、修正プログラム、または既知の問題の最新リストを提供します
-ms.openlocfilehash: e2b211ded8c30c0ad3be4731a310cdbccfd10a65
-ms.sourcegitcommit: e9067730e4a7e0bd546c59642362b5f01f1aae64
+ms.openlocfilehash: 17896e4c80de0b30306ee69798d0631adfd18da5
+ms.sourcegitcommit: 94cecf570c23c9f540a659820706fca049ed97ab
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "49980411"
+ms.lasthandoff: 02/02/2021
+ms.locfileid: "50080978"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 向けリリース ノートの最新チャネル (プレビュー)
 
@@ -28,6 +28,20 @@ ms.locfileid: "49980411"
 > - Microsoft Teams の機能は、リリース頻度が高いため、最新チャネル プレビュー版とは異なる場合があります。
 
 [//]: # (削除しないでください)
+
+## <a name="version-2101-february-02"></a>バージョン 2101: 2 月 2 日
+*バージョン 2101 (ビルド 13628.20320)*
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- クラウド設定のユーザーが設定を更新するときにハングする問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2101-january-25"></a>バージョン 2101: 1 月 25 日
 *バージョン 2101 (ビルド 13628.20274)*
