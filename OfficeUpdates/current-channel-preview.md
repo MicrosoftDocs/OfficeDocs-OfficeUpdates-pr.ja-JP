@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに新機能、修正プログラム、または既知の問題の最新リストを提供します
-ms.openlocfilehash: 17896e4c80de0b30306ee69798d0631adfd18da5
-ms.sourcegitcommit: 94cecf570c23c9f540a659820706fca049ed97ab
+ms.openlocfilehash: 647619401b48a0770bc40c26d3ccafd11d511c91
+ms.sourcegitcommit: 596f79408a3c2db9e81ce0ef236680ead06035b6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50080978"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "50101365"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 向けリリース ノートの最新チャネル (プレビュー)
 
@@ -28,6 +28,23 @@ ms.locfileid: "50080978"
 > - Microsoft Teams の機能は、リリース頻度が高いため、最新チャネル プレビュー版とは異なる場合があります。
 
 [//]: # (削除しないでください)
+
+## <a name="version-2101-february-03"></a>バージョン 2101: 2 月 3 日
+*バージョン 2101 (ビルド 13628.20330)*
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- OWA に既定の正しい署名が表示されない問題を修正しました。
+
+
+- [暗号化のみ] オプションを使用して送信されたメールの暗号化アイコンが表示されない問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2101-february-02"></a>バージョン 2101: 2 月 2 日
 *バージョン 2101 (ビルド 13628.20320)*
