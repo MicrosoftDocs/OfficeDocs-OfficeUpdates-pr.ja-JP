@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: d76a29f3c54500e86fe833b6ac7e9de91c5e9b9d
-ms.sourcegitcommit: 71b7d573a7e32ab27a597330017ea60f7b094f5d
+ms.openlocfilehash: d394bf781d303a8881b3fe79b0b5a077bab5d202
+ms.sourcegitcommit: 6a32d4120b43fbedbf08362255277cebd2be11a5
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "50054509"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50118387"
 ---
 # <a name="release-notes-for-beta-channel"></a>ベータ チャネルのリリース ノート
 
@@ -30,6 +30,65 @@ ms.locfileid: "50054509"
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2102-february-05"></a>バージョン 2102: 2 月 5 日
+*バージョン 2102 (ビルド 13801.20004)*
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="access"></a>Access
+
+- Access で選択したタブがよりはっきりと表示されるようになりました。
+
+
+### <a name="excel"></a>Excel
+
+- グラフでデータ系列を選択した後に Excel が応答を停止する問題を修正しました。
+
+
+- Android で特定のキーボードを使用して Enter キーを押すと、次のセルに移動するのではなく、新しい行が追加される問題を修正しました。
+
+
+- トリミング操作中に画像のアスペクト比が保持されることに関連する問題を修正しました。
+
+
+### <a name="outlook"></a>Outlook
+
+- デジタル署名のオプションのチェックを外した後も、メールがデジタル署名されたものとして送信される問題を修正しました。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- トリミング操作中に画像のアスペクト比が保持されることに関連する問題を修正しました。
+
+
+### <a name="word"></a>Word
+
+- トリミング操作中に画像のアスペクト比が保持されることに関連する問題を修正しました。
+
+
+- コメントがリンクで切り捨てられる可能性がある問題を修正しました。
+
+
+- 共同編集時に競合モードになる問題を修正しました。
+
+
+- SharePoint Online に保存する際に発生する問題を修正しました
+
+
+- Word 文書を PDF にエクスポートする際の問題を修正しました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- あるサインイン アカウントの機密ラベルを表示する必要があるときに、特定の状況で Office が別のサインイン アカウントの機密ラベルを表示する問題を修正しました。
+
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2102-january-29"></a>バージョン 2102: 1 月 29 日
 *バージョン 2102 (ビルド 13721.20008)*
@@ -2412,6 +2471,7 @@ ms.locfileid: "50054509"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13801.20004|version-2102-february-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13721.20008|version-2102-january-29|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13714.20000|version-2102-january-22|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13707.20008|version-2102-january-15|)
@@ -2421,5 +2481,4 @@ ms.locfileid: "50054509"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|version-2101-december-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|version-2101-december-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|version-2012-december-04|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13519.20000|version-2012-november-27|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)
