@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに新機能、修正プログラム、または既知の問題の最新リストを提供します
-ms.openlocfilehash: 647619401b48a0770bc40c26d3ccafd11d511c91
-ms.sourcegitcommit: 596f79408a3c2db9e81ce0ef236680ead06035b6
+ms.openlocfilehash: 20c8d43321c9eb99ba667e7d9ec418de7eedf607
+ms.sourcegitcommit: 64ec3051f942003a63c28a4713f5511d85f2fa20
 ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 02/04/2021
-ms.locfileid: "50101365"
+ms.locfileid: "50105219"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 向けリリース ノートの最新チャネル (プレビュー)
 
@@ -78,16 +78,11 @@ ms.locfileid: "50101365"
 
 - **政府機関のお客様: ドキュメントおよびメールに秘密度ラベルを適用する:** GCC および GCC-H 環境のお客様は、秘密度のラベル付け機能を利用できるようになりました。 [詳細情報](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels) を参照してください。
 
+
 ### <a name="word"></a>Word
 
 - **政府機関のお客様: ドキュメントおよびメールに秘密度ラベルを適用する:** GCC および GCC-H 環境のお客様は、秘密度のラベル付け機能を利用できるようになりました。 [詳細情報](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
-
-[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
-
-<br/>
-
-[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
 ### <a name="resolved-issues"></a>解決済みの問題
 ### <a name="outlook"></a>Outlook
@@ -97,6 +92,8 @@ ms.locfileid: "50101365"
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+
 
 ## <a name="version-2101-january-18"></a>バージョン 2101: 1 月 18 日
 *バージョン 2101 (ビルド 13628.20158)*
@@ -122,6 +119,19 @@ ms.locfileid: "50101365"
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2101-january-13"></a>バージョン 2101: 1 月 13 日
+*バージョン 2101 (ビルド 13628.20118)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="teams"></a>Teams
+- **その他のテーマ:** デスクトップと Web クライアントで新しいテーマを利用できます。
+
+- **PPT 共有:** Teams の発表者ツール Teams の共有トレイから PowerPoint ファイルを選択すると、発表者ツールが自動的に開きます。 簡単なアドホック スライド ナビゲーションのために、デッキ内すべてのスライドの現在のスライド、スライド ノート、サムネイル ストリップを表示できます。 このビューは完全に背後で動作し、制御している発表者のみに表示されます。 オーディエンスには、現在のスライド (大きな赤いボックスで強調表示)、またはオーディエンスが選択した移動先のスライド (オーディエンスのナビゲーションがお客様によってロックされていない場合) しか表示されません。 
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+<br/>
 
 ## <a name="version-2101-january-09"></a>バージョン 2101: 1 月 9 日
 *バージョン 2101 (ビルド 13628.20118)*
