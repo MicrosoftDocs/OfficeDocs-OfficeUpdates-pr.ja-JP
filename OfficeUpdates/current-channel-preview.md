@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに新機能、修正プログラム、または既知の問題の最新リストを提供します
-ms.openlocfilehash: 20c8d43321c9eb99ba667e7d9ec418de7eedf607
-ms.sourcegitcommit: 64ec3051f942003a63c28a4713f5511d85f2fa20
+ms.openlocfilehash: a225ff4079216b634a0bc113e077b4925dab158e
+ms.sourcegitcommit: 7c433a6b5cd2736a9e2ddf7a6c3bd0ea6814ac6e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "50105219"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50151965"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 向けリリース ノートの最新チャネル (プレビュー)
 
@@ -28,6 +28,106 @@ ms.locfileid: "50105219"
 > - Microsoft Teams の機能は、リリース頻度が高いため、最新チャネル プレビュー版とは異なる場合があります。
 
 [//]: # (削除しないでください)
+
+## <a name="version-2102-february-08"></a>バージョン 2102: 2 月 8 日
+*バージョン 2102 (ビルド 13801.20084)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="outlook"></a>Outlook
+
+- **Microsoft Search を利用した作成 (To\CC\BCC) の提案:** To\CC 行へのユーザーの追加は、Microsoft Search を利用するようになりました。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="access"></a>Access
+
+- Access で選択したタブがよりはっきりと表示されるようになりました。
+
+
+### <a name="excel"></a>Excel
+
+- ファイルを再度開いたときに、セルの連続していない範囲を使用する特定のグラフが読み込まれない問題を修正します。
+
+
+- 特定の Windows セキュリティのエクスプロイト保護設定 (SimExec、CallerCheck) を使用している場合に、Excel の起動に失敗したり、予期せず終了したりしてしまう問題を修正しました。
+
+
+- グラフでデータ系列を選択した後に Excel が応答を停止する問題を修正しました。
+
+
+- [名前の定義] ダイアログで名前を追加したときに Excel が予期せず終了する問題を修正しました。
+
+
+- トリミング操作中に画像のアスペクト比が保持されることに関連する問題を修正しました。
+
+
+### <a name="outlook"></a>Outlook
+
+- デジタル署名のオプションのチェックを外した後も、メールがデジタル署名されたものとして送信される問題を修正しました。
+
+
+- [暗号化のみ] オプションを使用して送信されたメールの暗号化アイコンが表示されない問題を修正しました。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 色付きの絵文字を表示すると発生する問題を修正しました。
+
+
+- トリミング操作中に画像のアスペクト比が保持されることに関連する問題を修正しました。
+
+
+### <a name="visio"></a>Visio
+
+- CAD ステンシルからの形状レンダリングに関するこの問題は修正されました。 ユーザーには、最新のビルドで解決された問題が表示されます。
+
+
+### <a name="word"></a>Word
+
+- これにより、インターネット接続が一定期間失われた後、リアルタイム入力とプレゼンスが復元されない問題が修正されます。
+
+
+- ユーザーがコメント内のテキストを選択すると、Word は他のコメント内の選択されたテキストの選択を解除するようになりました。
+
+
+- Word でコメント テキストを Excel にコピーできるようになりました。
+
+
+- VBA マクロ実行中に ExportAsFixedFormat2 が、"プレゼンテーション (不明のメンバー) の不正な値" というエラーを表示して失敗する問題を修正しました。
+
+
+- トリミング操作中に画像のアスペクト比が保持されることに関連する問題を修正しました。
+
+
+- コメントがリンクで切り捨てられる可能性がある問題を修正しました。
+
+
+- SharePoint Online に保存する際に発生する問題を修正しました
+
+
+- Word 文書を PDF にエクスポートする際の問題を修正しました。
+
+
+- 自動バックアップの問題を修正しました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- 画像として箇条書きを挿入すると箇条書きが消える PowerPoint のバグを修正します。 この修正により、レンダリングの信頼性が向上します。
+
+- あるサインイン アカウントの機密ラベルを表示する必要があるときに、特定の状況で Office が別のサインイン アカウントの機密ラベルを表示する問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2101-february-03"></a>バージョン 2101: 2 月 3 日
 *バージョン 2101 (ビルド 13628.20330)*
