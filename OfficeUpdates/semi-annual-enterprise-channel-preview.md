@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の半期チャネル リリース (対象指定) のリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: b8c02c43cc0c510bb6d64cb66c563e600961c3f7
-ms.sourcegitcommit: 34bca539ddfe0e06b772aaa294f4e992630b2a41
+ms.openlocfilehash: bc3878099fa34b75437ce800250d711cb0f5bd0c
+ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50032304"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50173836"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>半期エンタープライズ チャネル (プレビュー) のリリース ノート
 
@@ -23,6 +23,67 @@ ms.locfileid: "50032304"
 > [!IMPORTANT]
 > 現在、Microsoft 365 Apps の更新プログラム チャネルに、新しい更新プログラム チャネル (月次エンタープライズ チャネル) の追加や既存の更新プログラム チャネル名の変更など、いくつかの変更を進めています。 詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2127441)を参照してください。
 
+
+## <a name="version-2008-february-09"></a>バージョン 2008: 2 月 9 日
+*バージョン 2008 (ビルド 13127.21216)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- 無効なファイル属性 (作成時刻、修正時刻など) を持つ UNC ファイルを開くと、Excel が予期せず終了してしまう可能性がある問題を修正しました。
+
+
+- Excel からグラフをコピーして Word または PowerPoint に貼り付けるときに、10 進数と桁区切りの記号の設定を継承しない問題を修正しました。
+
+
+- 毎回マクロが実行されているとピボットテーブルの範囲の形式を含むマクロを実行するパフォーマンスが悪化する問題を修正しました。
+
+
+- シートを別のブックにコピーまたは移動する場合に条件付き書式のルールが破棄される問題を修正しました。
+
+
+- アプリのスタート画面のブートが無効の場合にユーザーが秘密度ラベルを Excel ファイルに適用できない問題を修正しました。
+
+
+- OneDrive 同期フォルダーからクラウド ファイルを開く場合の問題を修正しました。
+
+
+### <a name="outlook"></a>Outlook
+
+- 添付ファイルを追加または保存するときに Outlook が散発的に機能しなくなる問題に対処しました。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- QAT で [フォントサイズ] コマンドが追加されたのに、更新すると最近定義されたフォント サイズにオート コンプリートするという問題は修正されました。
+
+
+- ‘ ソースの形式を保持する ’ オプションを使用してスライドのコピーまたは貼り付けを行う場合に予期せず新しいスライド マスターを上書きすることがある問題は修正されました
+
+
+### <a name="word"></a>Word
+
+- Word 文書を開くと、エラー ダイアログが表示されることがある変更履歴の問題を修正しました。
+
+
+- OneDrive 同期フォルダーからクラウド ファイルを開く場合の問題を修正しました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- Office で正常にファイルを開けなくなる問題は修正されました。
+
+
+- 書式のコピー/貼り付けを介してコネクタに適用されたスケッチ アウトラインを含むドキュメントが壊れる可能性がある問題は修正されました。
+
+
+
+[//]: # (バグの詳細コンテンツ エンドを削除しないでください)
 
 ## <a name="version-2008-january-12"></a>バージョン 2008: 1 月 12 日
 *バージョン 2008 (ビルド 13127.21064)*
@@ -195,7 +256,7 @@ ms.locfileid: "50032304"
 
 
 
-[//]: # (BUGDETAILS コンテンツ エンドを削除しないでください。終了)
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2008-november-10"></a>バージョン 2008: 11 月 10 日
 *バージョン 2008 (ビルド 13127.20760)*
@@ -1438,6 +1499,7 @@ ms.locfileid: "50032304"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|FRDC|Insiders| |16.0.13127.21216|version-2008-february-09|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.21064|version-2008-january-12|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20910|version-2008-december-08|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20760|version-2008-november-10|)
