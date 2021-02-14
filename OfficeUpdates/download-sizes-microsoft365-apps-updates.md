@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 各チャネルの Microsoft 365 アプリ用更新プログラムのダウンロード サイズの概算に関する情報を IT 技術者に提供します
-ms.openlocfilehash: 85b022b5823661f2d2fed4a3cea2522e57e70075
-ms.sourcegitcommit: c3115d0acd9074ebe9be4b468f5e54361af6c582
+ms.openlocfilehash: 5e741a9bc7da8fc5476e27b88c71b2bd3e81393b
+ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "50108019"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50173746"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 アプリ用更新プログラムのダウンロード サイズ
 
@@ -36,14 +36,13 @@ ms.locfileid: "50108019"
 
 [//]: # (削除しないでください)
 
-[//]: # (予測コンテンツを削除しないでください。開始)
+## <a name="february-9-2021"></a>2021 年 2 月 9 日
 
-## <a name="february-4-2021"></a>2021 年 2 月 4 日
-
+[//]: # (コンテンツを削除しないでください。開始 2021 年 2 月 9 日)
 
 ### <a name="monthly-enterprise-channel"></a>月次エンタープライズ チャネル
 
-<i>予定されているリリースは、バージョン 2012 (ビルド 13530.20510) です。</i>
+最新のリリースはバージョン 2012 (ビルド 13530.20528) です。
 
 |**アップグレード前のリリース**|**リリース日**|**ダウンロード サイズの概算 (MB)**|
 |:-----|:-----|:-----|
@@ -53,7 +52,7 @@ ms.locfileid: "50108019"
 
 ### <a name="semi-annual-enterprise-channel-preview"></a>半期エンタープライズ チャネル (プレビュー)
 
-<i>予定されているリリースは、バージョン 2008 (ビルド 13127.21184) です。</i>
+最新のリリースはバージョン 2008 (ビルド 13127.21216) です。
 
 |**アップグレード前のリリース**|**リリース日**|**ダウンロード サイズの概算 (MB)**|
 |:-----|:-----|:-----|
@@ -63,7 +62,7 @@ ms.locfileid: "50108019"
 
 ### <a name="semi-annual-enterprise-channel"></a>半期エンタープライズ チャネル
 
-<i>予定されているリリースは、バージョン 2008 (ビルド 13127.21184) です。</i>
+最新のリリースはバージョン 2008 (ビルド 13127.21216) です。
 
 |**アップグレード前のリリース**|**リリース日**|**ダウンロード サイズの概算 (MB)**|
 |:-----|:-----|:-----|
@@ -71,7 +70,10 @@ ms.locfileid: "50108019"
 |バージョン 2002 (ビルド 12527.21416) <br/> |2020 年 12 月 8 日 <br/> |363<br/> |
 
 
-[//]: # (予測コンテンツを削除しないでください。終了)
+[//]: # (コンテンツを削除しないでください。終了 2021 年 2 月 9 日)
+
+
+
 
 ## <a name="january-26-2021"></a>2021 年 1 月 26 日
 

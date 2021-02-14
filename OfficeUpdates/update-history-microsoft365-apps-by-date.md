@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT 担当者に、日付ごとに整理した Microsoft 365 Apps のリリースすべての一覧を、リリース ノートへのリンクを含めて提供します
-ms.openlocfilehash: daa3193272c05afbcfab5296ba2fd17952667d51
-ms.sourcegitcommit: 0e5154d937aaa5fd45f8fa79b8f0b2a614b7e5a0
+ms.openlocfilehash: ebf10c81f15dc5b072ef0f8efe8e03bc11644a36
+ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50013278"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50173806"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 Apps の更新履歴 (日付別の一覧)
 
@@ -37,12 +37,12 @@ ms.locfileid: "50013278"
 |**チャネル**|**バージョン**|**ビルド**|**リリース日**|**バージョンのサポート期限**|
 |:-----|:-----|:-----|:-----|:-----|
 |最新チャネル<br/>|2101<br/>|13628.20274<br/>|2021 年 1 月 26 日<br/>|バージョン 2102 がリリースされました<br/>|
-|月次エンタープライズ チャネル<br/>|2011<br/>|13426.20526<br/>|2021 年 1 月 12 日<br/>|2021 年 3 月 9 日<br/>|
-|月次エンタープライズ チャネル<br/>|2010<br/>|13328.20550<br/>|2021 年 1 月 12 日<br/>|2021 年 2 月 9 日<br/>|
-|半期エンタープライズ チャネル (プレビュー)<br/>|2008<br/>|13127.21064<br/>|2021 年 1 月 12 日<br/>|2021 年 3 月 9 日<br/>|
-|半期エンタープライズ チャネル<br/>|2008<br/>|13127.21064<br/>|2021 年 1 月 12 日<br/>|2022 年 3 月 8 日<br/>|
-|半期エンタープライズ チャネル<br/>|2002<br/>|12527.21504<br/>|2021 年 1 月 12 日<br/>|2021 年 9 月 14 日<br/>|
-|半期エンタープライズ チャネル<br/>|1908<br/>|11929.20994<br/>|2021 年 1 月 12 日<br/>|2021 年 3 月 9 日<br/>|
+|月次エンタープライズ チャネル<br/>|2012<br/>|13530.20528<br/>|2021 年 2 月 9 日<br/>|2021年 4 月 13 日<br/>|
+|月次エンタープライズ チャネル<br/>|2011<br/>|13426.20658<br/>|2021 年 2 月 9 日<br/>|2021 年 3 月 9 日<br/>|
+|半期エンタープライズ チャネル (プレビュー)<br/>|2008<br/>|13127.21216<br/>|2021 年 2 月 9 日<br/>|2021 年 3 月 9 日<br/>|
+|半期エンタープライズ チャネル<br/>|2008<br/>|13127.21216<br/>|2021 年 2 月 9 日<br/>|2022 年 3 月 8 日<br/>|
+|半期エンタープライズ チャネル<br/>|2002<br/>|12527.21594<br/>|2021 年 2 月 9 日<br/>|2021 年 9 月 14 日<br/>|
+|半期エンタープライズ チャネル<br/>|1908<br/>|11929.21008<br/>|2021 年 2 月 9 日<br/>|2021 年 3 月 9 日<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -56,6 +56,7 @@ ms.locfileid: "50013278"
 
 |**Year**|**リリース日**|**最新チャネル**|**月次エンタープライズ チャネル**|**半期エンタープライズ チャネル (プレビュー)**|**半期エンタープライズ チャネル**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2021|2 月 9 日| |[バージョン 2012 (ビルド 13530.20528)](monthly-enterprise-channel.md#version-2012-february-09)<br/>[バージョン 2011 (ビルド 13426.20658)](monthly-enterprise-channel.md#version-2011-february-09)|[バージョン 2008 (ビルド 13127.21216)](semi-annual-enterprise-channel-preview.md#version-2008-february-09)|[バージョン 2008 (ビルド 13127.21216)](semi-annual-enterprise-channel.md#version-2008-february-09)<br/>[バージョン 2002 (ビルド 12527.21594)](semi-annual-enterprise-channel.md#version-2002-february-09)<br/>[バージョン 1908 (ビルド 11929.21008)](semi-annual-enterprise-channel.md#version-1908-february-09)|
 |2021|1 月 26 日|[バージョン 2101 (ビルド 13628.20274)](current-channel.md#version-2101-january-26)| | | |
 |2021|1 月 21 日|[バージョン 2012 (ビルド 13530.20440)](current-channel.md#version-2012-january-21)| | | |
 |2021|1 月 12 日|[バージョン 2012 (ビルド 13530.20376)](current-channel.md#version-2012-january-12)|[バージョン 2011 (ビルド 13426.20526)](monthly-enterprise-channel.md#version-2011-january-12)<br/>[バージョン 2010 (ビルド 13328.20550)](monthly-enterprise-channel.md#version-2010-january-12)|[バージョン 2008 (ビルド 13127.21064)](semi-annual-enterprise-channel-preview.md#version-2008-january-12)|[バージョン 2008 (ビルド 13127.21064)](semi-annual-enterprise-channel.md#version-2008-january-12)<br/>[バージョン 2002 (ビルド 12527.21504)](semi-annual-enterprise-channel.md#version-2002-january-12)<br/>[バージョン 1908 (ビルド 11929.20994)](semi-annual-enterprise-channel.md#version-1908-january-12)|

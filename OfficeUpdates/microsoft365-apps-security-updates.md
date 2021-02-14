@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft Officeセキュリティ更新プログラムのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 7f5cefd77c4639d4e06bd3974f56e070710bd2e8
-ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
+ms.openlocfilehash: 70d82af998c180290c0f826c46d0dd8f21b74243
+ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "49837678"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50173716"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Microsoft Office セキュリティ更新プログラムのリリース ノート
 
@@ -31,6 +31,29 @@ ms.locfileid: "49837678"
  
 
 [//]: # (上の行は間隔を空けるために使用されているので、削除しないでください。)  
+
+## <a name="february-09-2021"></a>2021 年 2 月 9 日
+月次エンタープライズ チャネル: バージョン 2012 (ビルド 13530.20528)  
+月次エンタープライズ チャネル: バージョン 2011 (ビルド 13426.20658)  
+半期エンタープライズ チャネル (プレビュー): バージョン 2008 (ビルド 13127.21216)  
+半期エンタープライズ チャネル: バージョン 2008 (ビルド 13127.21216)  
+半期エンタープライズ チャネル: バージョン 2002 (ビルド 12527.21594)  
+半期エンタープライズ チャネル: バージョン 1908 (ビルド 11929.21008)  
+Windows 7 上の Microsoft 365 Apps: バージョン 2002 (ビルド 12527.21594)  
+Office 2019 ボリューム ライセンス: バージョン 1808 (ビルド 10371.20060)  
+
+[//]: # (セキュリティの詳細コンテンツを削除しないでください。開始)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-24069](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2021-24069)
+-   [CVE-2021-24070](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2021-24070)
+-   [CVE-2021-24067](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2021-24067)
+
+[//]: # (セキュリティの詳細コンテンツを削除しないでください 終了)
+
+
 
 ## <a name="january-12-2021"></a>2021 年 1 月 12 日
 現在のチャネル: バージョン 2012 (ビルド 13530.20376)  
@@ -99,7 +122,7 @@ Office 2019 ボリュームライセンス: バージョン 1808 (ビルド 1036
 
 -   [CVE-2020-17124](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-17124)
 
-[//]: # (セキュリティの詳細コンテンツを削除しないでください 終了)
+[//]: # (セキュリティの詳細コンテンツを削除しないでください。終了)
 
 
 
