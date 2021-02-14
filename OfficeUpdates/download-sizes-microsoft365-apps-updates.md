@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 各チャネルの Microsoft 365 アプリ用更新プログラムのダウンロード サイズの概算に関する情報を IT 技術者に提供します
-ms.openlocfilehash: 5e741a9bc7da8fc5476e27b88c71b2bd3e81393b
-ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
+ms.openlocfilehash: 853e398dab1e6eb040afbf5ccd6dbacd9fe6a9ea
+ms.sourcegitcommit: b015407aa6693d879f11025b40a7b45424753f99
 ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 02/10/2021
-ms.locfileid: "50173746"
+ms.locfileid: "50177929"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 アプリ用更新プログラムのダウンロード サイズ
 
@@ -39,6 +39,16 @@ ms.locfileid: "50173746"
 ## <a name="february-9-2021"></a>2021 年 2 月 9 日
 
 [//]: # (コンテンツを削除しないでください。開始 2021 年 2 月 9 日)
+
+### <a name="current-channel"></a>最新チャネル
+
+最新のリリースはバージョン 2101 (ビルド 13628.20380) です。
+
+|**アップグレード前のリリース**|**リリース日**|**ダウンロード サイズの概算 (MB)**|
+|:-----|:-----|:-----|
+|バージョン 2101 (ビルド 13628.20274) <br/> |2021 年 1 月 26 日 <br/> |62<br/> |
+|バージョン 2012 (ビルド 13530.20440) <br/> |2021 年 1 月 21 日 <br/> |203<br/> |
+
 
 ### <a name="monthly-enterprise-channel"></a>月次エンタープライズ チャネル
 
