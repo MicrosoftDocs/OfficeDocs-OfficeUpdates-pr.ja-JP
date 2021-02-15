@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: d394bf781d303a8881b3fe79b0b5a077bab5d202
-ms.sourcegitcommit: 6a32d4120b43fbedbf08362255277cebd2be11a5
+ms.openlocfilehash: c251fccdf8c3f370d7ed6594e0478a73bfe37411
+ms.sourcegitcommit: c8a895031a6a22d6c6dc6d5e4c73918edcfac7b7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50118387"
+ms.lasthandoff: 02/14/2021
+ms.locfileid: "50242045"
 ---
 # <a name="release-notes-for-beta-channel"></a>ベータ チャネルのリリース ノート
 
@@ -30,6 +30,57 @@ ms.locfileid: "50118387"
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2103-february-12"></a>バージョン 2103: 2 月 12 日
+*バージョン 2103 (ビルド 13806.20000)*
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="outlook"></a>Outlook
+
+- **Microsoft Search を利用した作成 (To\CC\BCC) の提案:** To\CC 行へのユーザーの追加は、Microsoft Search を利用するようになりました。
+
+- **ディクテーションはより多くの言語で利用できます:** ディクテーションは 7 つの新しい言語をサポートするようになりました: ヒンディー語、ロシア語、ポーランド語、ポルトガル語 (ポルトガル)、韓国語、タイ語、中国語 (台湾)
+
+### <a name="word"></a>Word
+
+- **ディクテーションはより多くの言語で利用できます:** ディクテーションは 7 つの新しい言語をサポートするようになりました: ヒンディー語、ロシア語、ポーランド語、ポルトガル語 (ポルトガル)、韓国語、タイ語、中国語 (台湾)
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- 画像を取得できないためにデータ型カードを表示しようとすると、Excel が予期せず終了することがある問題を修正しました。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- アニメーションおよびオーディオ ブックマークのループの問題を解決します。
+
+### <a name="project"></a>Project
+
+- 100% 完了したタスクが 99% 完了に戻る問題を修正しました。
+
+- JAWS を実行しているときにタスク情報ダイアログに移動すると、Project が予期せず終了することがある問題を修正しました。
+
+### <a name="word"></a>Word
+
+- 自動保存の問題を解決しました。
+
+
+- 共同編集中の競合を解決する際の問題を修正しました。
+
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2102-february-05"></a>バージョン 2102: 2 月 5 日
 *バージョン 2102 (ビルド 13801.20004)*
@@ -2471,6 +2522,7 @@ ms.locfileid: "50118387"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13806.20000|version-2103-february-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13801.20004|version-2102-february-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13721.20008|version-2102-january-29|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13714.20000|version-2102-january-22|)
@@ -2480,5 +2532,4 @@ ms.locfileid: "50118387"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|version-2101-december-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|version-2101-december-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|version-2101-december-11|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|version-2012-december-04|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)
