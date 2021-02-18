@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Microsoft 365 Apps サブスクライバー向け Office for Mac のリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 5e63a6441de32b956a7e25e6bc0026d6fd485f2a
-ms.sourcegitcommit: 38acc55545cbeccd16603b7f731dc41a26e4a5ea
+ms.openlocfilehash: 38acca443d355786ddefe61329756931eb93f803
+ms.sourcegitcommit: 91cdc26b717315b6603bf75ded1347b29a84fcb6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "49863204"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "50263935"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac のリリース ノート
 
@@ -51,6 +51,66 @@ Microsoft 365 サブスクリプションに付属する Office for Mac は、�
 
 
 
+
+
+
+## <a name="february-16-2021"></a>2021 年 2 月 16 日
+*バージョン 16.46 (ビルド 21021202)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="excel"></a>Excel
+
+- **政府機関のお客様向け: ドキュメントとメールに秘密度ラベルを適用する。:** GCC および GCC-H 環境のお客様は、秘密度ラベル付け機能を利用できるようになりました。 [詳細情報](https://docs.microsoft.com/ja-JP/microsoft-365/compliance/sensitivity-labels)
+
+- **秘密度ラベル監査ログ:** ユーザーが、ドキュメントやメールで秘密度ラベルを適用、変更、削除すると、管理者は、その情報を Microsoft 365 監査ログで使用できるようになります。
+
+### <a name="outlook"></a>Outlook
+
+- **政府機関のお客様向け: ドキュメントとメールに秘密度ラベルを適用する。:** GCC および GCC-H 環境のお客様は、秘密度ラベル付け機能を利用できるようになりました。 [詳細情報](https://docs.microsoft.com/ja-JP/microsoft-365/compliance/sensitivity-labels)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **アニメーション GIF を範囲内でエクスポートする**: アニメーション GIF にエクスポートするときにスライドの範囲を選択します
+
+- **透過背景の GIF を作成する**: アニメーション GIF にエクスポートする場合、新しいオプションを使用して背景を透明にすることができます。
+
+- **秘密度ラベルの自動適用または推奨:** Office は、検出された機密コンテンツに基づいて機密ラベルを推奨または自動的に適用できます。 [詳細情報](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+
+- **政府機関のお客様向け: ドキュメントとメールに秘密度ラベルを適用する。:** GCC および GCC-H 環境のお客様は、秘密度ラベル付け機能を利用できるようになりました。 [詳細情報](https://docs.microsoft.com/ja-JP/microsoft-365/compliance/sensitivity-labels)
+
+- **秘密度ラベル監査ログ:** ユーザーが、ドキュメントやメールで秘密度ラベルを適用、変更、削除すると、管理者は、その情報を Microsoft 365 監査ログで使用できるようになります。
+
+### <a name="word"></a>Word
+
+- **秘密度ラベルの自動適用または推奨:** Office は、検出された機密コンテンツに基づいて機密ラベルを推奨または自動的に適用できます。
+
+- **政府機関のお客様向け: ドキュメントとメールに秘密度ラベルを適用する。:** GCC および GCC-H 環境のお客様は、秘密度ラベル付け機能を利用できるようになりました。 [詳細情報](https://docs.microsoft.com/ja-JP/microsoft-365/compliance/sensitivity-labels)
+
+- **秘密度ラベル監査ログ:** ユーザーが、ドキュメントやメールで秘密度ラベルを適用、変更、削除すると、管理者は、その情報を Microsoft 365 監査ログで使用できるようになります。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+
+[//]: # (セキュリティの詳細コンテンツを削除しないでください。開始)
+
+
+### <a name="security-updates"></a>セキュリティ更新プログラム
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-1714](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2021-1714)
+-   [CVE-2021-1713](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2021-1713)
+
+### <a name="word"></a>Word
+
+-   [CVE-2021-1716](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2021-1716)
+-   [CVE-2021-1715](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2021-1715)
+
+[//]: # (セキュリティの詳細コンテンツを削除しないでください 終了)
 
 ## <a name="january-13-2021"></a>2021 年 1 月 13 日
 *バージョン 16.45 (ビルド 21011103)*
@@ -250,7 +310,7 @@ Microsoft 365 サブスクリプションに付属する Office for Mac は、�
 ### <a name="feature-updates"></a>機能の更新プログラム
 ### <a name="excel"></a>Excel
 
-- **他のユーザーに影響を与えないフィルター処理と並べ替え:** Excel で他のユーザーと共同作業しながら自分が見やすいように表示できるため、他のユーザーに表示される内容を変えることなく、フィルター処理と並べ替えを行うことができます。 [詳細情報](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/sheet-view-makes-collaborating-easier) の詳細情報をご覧ください
+- **他のユーザーに影響を与えないフィルター処理と並べ替え:** Excel で他のユーザーと共同作業しながら自分が見やすいように表示できるため、他のユーザーに表示される内容を変えることなく、フィルター処理と並べ替えを行うことができます。 [詳細情報](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/sheet-view-makes-collaborating-easier)の詳細情報をご覧ください
 
 ### <a name="outlook"></a>Outlook
 
@@ -337,7 +397,7 @@ Microsoft 365 サブスクリプションに付属する Office for Mac は、�
 ### <a name="feature-updates"></a>機能の更新プログラム
 ### <a name="excel"></a>Excel
 
-- **写真からデータを取得する:** 写真から、[挿入] タブから、または iPhone から直接表データを追加します。 [詳細情報](https://support.office.com/article/3c1bb58d-2c59-4bc0-b04a-a671a6868fd7)<br />[ブログの投稿](https://blog-insider.office.com/2020/04/13/data-from-picture-in-excel/) の詳細情報をご覧ください
+- **写真からデータを取得する:** 写真から、[挿入] タブから、または iPhone から直接表データを追加します。 [詳細情報](https://support.office.com/article/3c1bb58d-2c59-4bc0-b04a-a671a6868fd7)<br />[ブログの投稿](https://blog-insider.office.com/2020/04/13/data-from-picture-in-excel/)の詳細情報をご覧ください
 
 ### <a name="outlook"></a>Outlook
 
@@ -393,14 +453,14 @@ Microsoft 365 サブスクリプションに付属する Office for Mac は、�
 
 - **スライドにリンクする:** 同僚へスライドセットに投稿してもらうように依頼して、ヘルプが必要なスライド上で直接開始します。 [詳細情報](https://support.office.com/article/4f5f3d5e-1674-4742-8cf1-9623050c19ef)
 
-- **探しているものを見つける:**[検索] ボックスを使用して、テキスト、コマンド、ヘルプなどを探します。 [詳細情報](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />[ブログの投稿](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/) の詳細情報をご覧ください
+- **探しているものを見つける:**[検索] ボックスを使用して、テキスト、コマンド、ヘルプなどを探します。 [詳細情報](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />[ブログの投稿](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)の詳細情報をご覧ください
 
 ### <a name="word"></a>Word
 
 - **ハンズフリーで入力:** マイクは用意しましたか? [ディクテーション] をクリックして、発話すると Word によって入力されるのを確認してください。 [詳細情報](https://support.office.com/article/3876e05f-3fcc-418f-b8ab-db7ce0d11d3c)<br />[ブログの投稿](https://blog-insider.office.com/2020/01/24/dictate-your-documents-in-word-on-mac/) の詳細情報をご覧ください
 
 
-- **探しているものを見つける:**[検索] ボックスを使用して、テキスト、コマンド、ヘルプなどを探します。 [詳細情報](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />[ブログの投稿](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/) の詳細情報をご覧ください
+- **探しているものを見つける:**[検索] ボックスを使用して、テキスト、コマンド、ヘルプなどを探します。 [詳細情報](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />[ブログの投稿](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)の詳細情報をご覧ください
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -935,12 +995,12 @@ Microsoft 365 サブスクリプションに付属する Office for Mac は、�
 |Microsoft Auto Update 4.7 <br/>| インストール処理の一環として自動更新デーモンが追加されました。これにより、これまでユーザーに表示されていた、わかりにくいセキュリティ ダイアログ ボックスが廃止されます。 <br/><br/> Microsoft AutoUpdate のセキュリティ機能が強化され、SHA256 証明書がサポートされるようになりました。 <br/>|<br/> | [Microsoft AutoUpdate 更新パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
 
 > [!NOTE]
-> バージョン 16.21 以降、既定で、Microsoft Teams は、[**_新規_* _ installations] でインストールされます。 詳細については、「[Microsoft Teams の Mac へのインストール](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac)」を参照してくださいさ。  
+> バージョン 16.21 以降、既定で、Microsoft Teams は ***新規*** インストールに関してインストールされます。詳しくは、[Mac 上の Microsoft Teams のインストール](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac)をご覧ください。  
 
 
 ## <a name="december-2018-release"></a>2018 年 12 月リリース
 
- _ *リリース日:* *2018 年 12 月 11 日 
+ **リリース日**: 2018 年 12 月 11 日 
   
  *バージョン 16.20.0 (ビルド 18120801)* 
   
