@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の月次チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: f7ac64dfccab0196b01bceb1854dc4a450223c2a
-ms.sourcegitcommit: b015407aa6693d879f11025b40a7b45424753f99
+ms.openlocfilehash: c6b6b6b7f87257cd3e512f4b5dfd8164a2a65dec
+ms.sourcegitcommit: 4b7514025e31d2baef2082cd9cb8434646edfe82
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50177955"
+ms.lasthandoff: 02/17/2021
+ms.locfileid: "50271790"
 ---
 # <a name="release-notes-for-current-channel"></a>現在のチャネルのリリース ノート
 
@@ -32,6 +32,31 @@ ms.locfileid: "50177955"
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2101-february-16"></a>バージョン 2101: 2 月 16 日
+*バージョン 2101 (ビルド 13628.20448)*
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- ユーザーが Outlook で検索しているときに、アプリが予期せず閉じることがある問題を修正しました。
+
+
+- デジタル署名のオプションのチェックを外した後も、メールがデジタル署名されたものとして送信される問題を修正しました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- メディア コントローラーのイベント通知に関連する問題を修正します。
+
+
+- メディア プレーヤー エンジンのタイミングに関連する問題を修正します。
 
 
 
@@ -1968,6 +1993,7 @@ ms.locfileid: "50177955"
 > Office の使用で問題がある場合は、[Microsoft の回答フォーラム](https://answers.microsoft.com/)に関するページまたは「[Microsoft Tech Community](https://techcommunity.microsoft.com/)」に質問を投稿するか、[サポート](https://support.microsoft.com/contactus)に問い合わせてサポートを受けることができます。
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|CC|Production| |16.0.13628.20448|version-2101-january-16|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20380|version-2101-february-09|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20274|version-2101-january-26|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20440|version-2012-january-21|)
@@ -1977,5 +2003,4 @@ ms.locfileid: "50177955"
 [//]: # (|Win32|CC|Production| |16.0.13426.20332|version-2011-december-08|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20308|version-2011-december-02|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20294|version-2011-november-30|)
-[//]: # (|Win32|CC|Production| |16.0.13426.20274|version-2011-november-23|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)
