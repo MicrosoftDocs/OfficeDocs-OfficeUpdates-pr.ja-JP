@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT 担当者に、日付ごとに整理した Microsoft 365 Apps のリリースすべての一覧を、リリース ノートへのリンクを含めて提供します
-ms.openlocfilehash: 8c430193def5bacbd177630c3d61598c8ab49bdd
-ms.sourcegitcommit: 22b0fb80adf158717f43f07a1d6e18ec91618fb4
+ms.openlocfilehash: ea386ed41e693146e6e13ffc1c6cd1ea711deba6
+ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "50279824"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50418072"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 Apps の更新履歴 (日付別の一覧)
 
@@ -36,7 +36,7 @@ ms.locfileid: "50279824"
 
 |**チャネル**|**バージョン**|**ビルド**|**リリース日**|**バージョンのサポート期限**|
 |:-----|:-----|:-----|:-----|:-----|
-|最新チャネル<br/>|2101<br/>|13628.20448<br/>|2021 年 2 月 16 日<br/>|バージョン 2102 がリリースされました<br/>|
+|最新チャネル<br/>|2102<br/>|13801.20266<br/>|2021 年 3 月 1 日<br/>|バージョン 2103 がリリースされました<br/>|
 |月次エンタープライズ チャネル<br/>|2012<br/>|13530.20528<br/>|2021 年 2 月 9 日<br/>|2021年 4 月 13 日<br/>|
 |月次エンタープライズ チャネル<br/>|2011<br/>|13426.20658<br/>|2021 年 2 月 9 日<br/>|2021 年 3 月 9 日<br/>|
 |半期エンタープライズ チャネル (プレビュー)<br/>|2008<br/>|13127.21216<br/>|2021 年 2 月 9 日<br/>|2021 年 3 月 9 日<br/>|
@@ -56,6 +56,7 @@ ms.locfileid: "50279824"
 
 |**Year**|**リリース日**|**最新チャネル**|**月次エンタープライズ チャネル**|**半期エンタープライズ チャネル (プレビュー)**|**半期エンタープライズ チャネル**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2021|3 月 1 日|[バージョン 2102 (ビルド 13801.20266)](current-channel.md#version-2102-march-01)| | | |
 |2021|2 月 16 日|[バージョン 2101 (ビルド 13628.20448)](current-channel.md#version-2101-february-17)| | | |
 |2021|2 月 9 日|[バージョン 2101 (ビルド 13628.20380)](current-channel.md#version-2101-february-09)|[バージョン 2012 (ビルド 13530.20528)](monthly-enterprise-channel.md#version-2012-february-09)<br/>[バージョン 2011 (ビルド 13426.20658)](monthly-enterprise-channel.md#version-2011-february-09)|[バージョン 2008 (ビルド 13127.21216)](semi-annual-enterprise-channel-preview.md#version-2008-february-09)|[バージョン 2008 (ビルド 13127.21216)](semi-annual-enterprise-channel.md#version-2008-february-09)<br/>[バージョン 2002 (ビルド 12527.21594)](semi-annual-enterprise-channel.md#version-2002-february-09)<br/>[バージョン 1908 (ビルド 11929.21008)](semi-annual-enterprise-channel.md#version-1908-february-09)|
 |2021|1 月 26 日|[バージョン 2101 (ビルド 13628.20274)](current-channel.md#version-2101-january-26)| | | |

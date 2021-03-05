@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Microsoft 365 Apps サブスクライバー向け Office for Mac のリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 38acca443d355786ddefe61329756931eb93f803
-ms.sourcegitcommit: 91cdc26b717315b6603bf75ded1347b29a84fcb6
+ms.openlocfilehash: e671d6d2520edde125287179c49c1556914b3ab8
+ms.sourcegitcommit: 75e6b1f2f564b32969be80e0594e8055a2c4f34c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50263935"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50425745"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac のリリース ノート
 
@@ -76,15 +76,11 @@ Microsoft 365 サブスクリプションに付属する Office for Mac は、�
 
 - **透過背景の GIF を作成する**: アニメーション GIF にエクスポートする場合、新しいオプションを使用して背景を透明にすることができます。
 
-- **秘密度ラベルの自動適用または推奨:** Office は、検出された機密コンテンツに基づいて機密ラベルを推奨または自動的に適用できます。 [詳細情報](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
-
 - **政府機関のお客様向け: ドキュメントとメールに秘密度ラベルを適用する。:** GCC および GCC-H 環境のお客様は、秘密度ラベル付け機能を利用できるようになりました。 [詳細情報](https://docs.microsoft.com/ja-JP/microsoft-365/compliance/sensitivity-labels)
 
 - **秘密度ラベル監査ログ:** ユーザーが、ドキュメントやメールで秘密度ラベルを適用、変更、削除すると、管理者は、その情報を Microsoft 365 監査ログで使用できるようになります。
 
 ### <a name="word"></a>Word
-
-- **秘密度ラベルの自動適用または推奨:** Office は、検出された機密コンテンツに基づいて機密ラベルを推奨または自動的に適用できます。
 
 - **政府機関のお客様向け: ドキュメントとメールに秘密度ラベルを適用する。:** GCC および GCC-H 環境のお客様は、秘密度ラベル付け機能を利用できるようになりました。 [詳細情報](https://docs.microsoft.com/ja-JP/microsoft-365/compliance/sensitivity-labels)
 
@@ -102,13 +98,9 @@ Microsoft 365 サブスクリプションに付属する Office for Mac は、�
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2021-1714](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2021-1714)
--   [CVE-2021-1713](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2021-1713)
+-   [CVE-2021-24067](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2021-24067)
+-   [CVE-2021-24069](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2021-24069)
 
-### <a name="word"></a>Word
-
--   [CVE-2021-1716](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2021-1716)
--   [CVE-2021-1715](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2021-1715)
 
 [//]: # (セキュリティの詳細コンテンツを削除しないでください 終了)
 

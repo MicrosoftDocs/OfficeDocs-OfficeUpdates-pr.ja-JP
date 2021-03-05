@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: IT プロフェッショナルに、Office 展開ツール (ODT) のリリース履歴を提供します
-ms.openlocfilehash: 1046a62a8440402e64bb25cb5ccf3dfbd84c894d
-ms.sourcegitcommit: b015407aa6693d879f11025b40a7b45424753f99
+ms.openlocfilehash: 9425577c975122e0ebeffcefed1734a9e024fa8c
+ms.sourcegitcommit: ab151c4f3172c007249a556fa02854b0765d24b9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50177956"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50421411"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Office 展開ツールのリリース履歴
 
@@ -28,6 +28,14 @@ ODT により、Office インストール環境をより詳細に制御できる
  **インストール方法**: 自己解凍実行ファイルをダウンロードして実行します。このファイルには、Office 展開ツールの実行可能ファイル (setup.exe) およびサンプル構成ファイル (configuration.xml) が含まれています。 
 
 [Office 展開ツールのダウンロード](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+## <a name="february-25-2021"></a>2021 年 2 月 25 日
+バージョン 16.0.13628.20476 (setup.exe バージョン 16.0.13628.20462)
+- 数十の言語を指定する configuration.xml ファイルが検証に失敗する問題を修正しました
+- MigrateArch シナリオで FORCEAPPSHUTDOWN プロパティが尊重されていなかった問題を修正しました
+- configuration.xml で 2 つ以上の PIDKEY 属性を指定すると、PIDKey のインストールに失敗する問題を修正しました
+
+
 
 ## <a name="february-9-2021"></a>2021 年 2 月 9 日
 バージョン 16.0.13628.20274 (setup.exe バージョン 16.0.13628.20246)

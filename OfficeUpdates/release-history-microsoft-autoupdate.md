@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT プロフェッショナルに、Microsoft AutoUpdate (MAU) のリリース履歴を提供します
-ms.openlocfilehash: 74388a251d2c568322e13cca34d973f3d790e023
-ms.sourcegitcommit: e47d22b7b3ad48ad20ca184c30824480e1701c35
+ms.openlocfilehash: 3ce9f8f366510103d47ae34dad4dffa060d5dccd
+ms.sourcegitcommit: ab151c4f3172c007249a556fa02854b0765d24b9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/23/2021
-ms.locfileid: "49943277"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50421372"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) のリリース履歴
  
@@ -29,6 +29,24 @@ ms.locfileid: "49943277"
 > - Microsoft AutoUpdate は、Microsoft のさまざまな Mac 製品への更新プログラムを提供します。そのため、Office for Mac を実行していない場合でも、Microsoft AutoUpdate を更新する通知が表示される場合があります。
 
 リリース ノートを確認するには、「[リリース ノート](release-notes-office-for-mac.md)」を参照してください。<br/><br/>
+
+## <a name="february-2021-release"></a>2021 年 2 月リリース
+
+**リリース日:** 2021 年 2 月 17 日
+
+*Microsoft AutoUpdate 4.32*
+
+**バグの修正と強化された機能:**
+- ドキュメントの更新: -t、-m、および更新フラグの欠落しているフラグの説明が、MAU のコマンド ライン インターフェイスで使用できるようになりました。
+- アクセシビリティの更新: ボイス オーバー アナウンスが、MAU UI の進行状況バーのダウンロード/インストールおよび MAU のユーザー設定 UI の更新プログラム チャネル ラベルで利用できるようになりました。
+- 機能の更新: MAU のメイン メニュー バーに、キーボード ショートカットを許可する編集オプションが追加されました。
+- その他の更新: MAU の著作権年は 2021 年に更新されました。
+
+[Microsoft AutoUpdate 4.32 パッケージをダウンロードする](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.32.21021202_Updater.pkg)<br/>
+<br/>
+**SHA-256 ハッシュ:**
+
+CCB758531B295848620C703957FD8CF3C7F1555C334FB320C4BB682ABA0261D6
 
 ## <a name="january-2021-release"></a>2021 年 1 月リリース
 

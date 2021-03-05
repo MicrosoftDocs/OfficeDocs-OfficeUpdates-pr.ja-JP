@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 永続的なバージョンの Office 2016、Office 2013、Office 2010 の最新のセキュリティ以外の更新プログラム情報へのリンクを IT 技術者に提供します
-ms.openlocfilehash: d678db0661a86e65dc8fc17b659d7339c9ad2b65
-ms.sourcegitcommit: 94cecf570c23c9f540a659820706fca049ed97ab
+ms.openlocfilehash: 8627a47ca19b170f0d69e16d4a23cc787cb8a6bd
+ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50080948"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50418062"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Windows インストーラー (MSI) を使用しているバージョンの Office の最新のセキュリティ以外の更新プログラム
 
@@ -25,6 +25,15 @@ ms.locfileid: "50080948"
 > - この記事の情報は、Microsoft 365 のアプリには適用されません。
 > - Office の更新プログラムをインストールする手順については、「[Office の更新プログラムをインストールする](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)」を参照してください。
 <br/><br/>
+
+## <a name="march-2-2021"></a>2021 年 3 月 2 日
+**Office 2016**<br/>
+Microsoft Access 2016 の更新プログラム ([KB4493188](https://support.microsoft.com/help/4493188)) </br> Microsoft Office 2016 の更新プログラム ([KB4493153](https://support.microsoft.com/help/4493153)) </br> Microsoft Outlook 2016 の更新プログラム ([KB4493226](https://support.microsoft.com/help/4493226)) </br> Microsoft Project 2016 の更新プログラム ([KB4493191](https://support.microsoft.com/help/4493191)) </br> 
+
+
+**Office 2013**<br/>
+Microsoft Outlook 2013 の更新プログラム ([KB4493174](https://support.microsoft.com/help/4493174)) </br> 
+
 
 ## <a name="february-2-2021"></a>2021 年 2 月 2 日
 **Office 2016**<br/>
