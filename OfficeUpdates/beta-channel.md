@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: c251fccdf8c3f370d7ed6594e0478a73bfe37411
-ms.sourcegitcommit: c8a895031a6a22d6c6dc6d5e4c73918edcfac7b7
+ms.openlocfilehash: 9906e3180c91eaa19f0c42f4703e867bb4b45d35
+ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/14/2021
-ms.locfileid: "50242045"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50418042"
 ---
 # <a name="release-notes-for-beta-channel"></a>ベータ チャネルのリリース ノート
 
@@ -30,6 +30,84 @@ ms.locfileid: "50242045"
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2103-february-26"></a>バージョン 2103: 2 月 26 日
+*バージョン 2103 (ビルド 13819.20006)*
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- ユーザーが Excel ブックを PDF にエクスポートできない問題を修正しました。
+
+
+- 共同編集中にシートをコピーした際、一部の書式設定が失われる問題を修正しました。
+
+
+### <a name="outlook"></a>Outlook
+
+- DRM 保護を削除すると、添付ファイルが重複して表示される問題を修正しました。
+
+
+### <a name="project"></a>プロジェクト
+
+- Project Web App からローカル ファイルにプロジェクトを保存するときに、タスクの分割が誤って作成される問題を修正しました。 これは、非標準の作業時間のタスク カレンダーが使用されていた場合に発生します。
+
+
+- インジケーター列が最初の列スポットにない場合、「サマリー タスクを切り取ると、サブタスクも削除されます」という警告が表示されない問題を修正しました。
+
+
+- ユーザーがタイムシートで [タスクに自分自身を追加] 機能を選択した場合に、作成された割り当てで適切なリソース利用可能時間の単位が使用されないという問題を修正しました。
+
+
+### <a name="word"></a>Word
+
+- 複数のコメントの配置に関する問題を修正しました。
+
+
+- [音声読み上げ] 作業ウィンドウの、キーボード ショートカットの問題を修正しました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- OneDrive の場所は、グループ ポリシー設定に応じて適切にフィルター処理されるようになりました。
+
+
+- EMF 画像の読み込み時に発生する可能性がある無応答に関連した問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2103-february-19"></a>バージョン 2103: 2 月 19 日
+*バージョン 2103 (ビルド 13811.20002)*
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- DRM 保護を削除すると、添付ファイルが重複して表示される問題を修正しました。
+
+
+### <a name="project"></a>プロジェクト
+
+- インジケーター列が最初の列スポットにない場合、「サマリー タスクを切り取ると、サブタスクも削除されます」という警告が表示されない問題を修正しました。
+
+
+- ユーザーがタイムシートで [タスクに自分自身を追加] 機能を選択した場合に、作成された割り当てで適切なリソース利用可能時間の単位が使用されないという問題を修正しました。
+
+
+### <a name="word"></a>Word
+
+- [音声読み上げ] 作業ウィンドウの、キーボード ショートカットの問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2103-february-12"></a>バージョン 2103: 2 月 12 日
 *バージョン 2103 (ビルド 13806.20000)*
@@ -2522,6 +2600,8 @@ ms.locfileid: "50242045"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13819.20006|version-2103-february-26|)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13811.20002|version-2103-february-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13806.20000|version-2103-february-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13801.20004|version-2102-february-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13721.20008|version-2102-january-29|)
@@ -2530,6 +2610,4 @@ ms.locfileid: "50242045"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13704.20000|version-2102-january-08|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13624.20002|version-2101-january-01|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|version-2101-december-25|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|version-2101-december-18|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|version-2101-december-11|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)

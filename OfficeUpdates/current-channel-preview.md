@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに新機能、修正プログラム、または既知の問題の最新リストを提供します
-ms.openlocfilehash: abb6b5cc2d425bf2f99a947eda622d6798e4ec56
-ms.sourcegitcommit: 91cdc26b717315b6603bf75ded1347b29a84fcb6
+ms.openlocfilehash: 734f5c159afc2621e6a4e906b2a7155c9a4801b7
+ms.sourcegitcommit: ab151c4f3172c007249a556fa02854b0765d24b9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50263955"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50421406"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 向けリリース ノートの最新チャネル (プレビュー)
 
@@ -28,6 +28,88 @@ ms.locfileid: "50263955"
 > - Microsoft Teams の機能は、リリース頻度が高いため、最新チャネル プレビュー版とは異なる場合があります。
 
 [//]: # (削除しないでください)
+
+## <a name="version-2102-march-03"></a>バージョン 2102: 3 月 3 日
+*バージョン 2102 (ビルド 13801.20274)*
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="word"></a>Word
+
+- アイコンと SVG グラフィックに適用されるテーマ情報の問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2102-march-01"></a>バージョン 2102: 3 月 1 日
+*バージョン 2102 (ビルド 13801.20266)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="outlook"></a>Outlook
+
+- **Teams で共有:** Outlook からのメッセージを Teams 内のユーザーまたはチャネルと共有します。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- 新しいグループを作成した後、重複する予定表のグループが表示される原因となる問題を修正しました。
+
+
+- 改善された共有カレンダーのユーザーが、カレンダーの色を黄色または茶色に設定できない問題を修正しました。
+
+
+- 一部のユーザーがメッセージ ウィンドウを閉じるときにアプリがシャットダウンする問題を修正しました。
+
+
+- Unicode コンテンツを含む署名が破損するのをユーザーに表示する問題を修正しました。
+
+
+- インライン翻訳のユーザーがフィードバックを送信できない問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2102-february-21"></a>バージョン 2102: 2 月 21 日
+*バージョン 2102 (ビルド 13801.20182)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="outlook"></a>Outlook
+
+- **音声でメッセージの下書きを作成する:** 新しいディクテーション ツールバー、音声コマンド、自動句読点などを使用してメッセージを作成します。
+
+### <a name="word"></a>Word
+
+- **音声で文書の下書きを作成する:** 新しいディクテーション ツールバー、音声コマンド、自動句読点を使用して文書の下書きを作成します。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- [リンク画像を貼り付け] オプションを使用すると、画像が思っていたよりも小さくなる問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2102-february-16"></a>バージョン 2102: 2 月 16 日
 *バージョン 2102 (ビルド 13801.20160)*
@@ -67,6 +149,22 @@ ms.locfileid: "50263955"
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+
+## <a name="version-2102-february-11"></a>バージョン 2102: 2 月 11 日
+*バージョン 2102 (ビルド 13801.20158)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="teams"></a>Teams
+
+- **Windows および Mac の Edge および Chrome ブラウザーの 2x2 ビデオ** ユーザーは、Windows および Mac の Edge および Chrome ブラウザーでのチーム会議において、最大 4 人の参加者のビデオを見ることができます。 [詳細情報](https://support.microsoft.com/office/using-video-in-microsoft-teams-3647fc29-7b92-4c26-8c2d-8a596904cdae#bkmk_videolayout)
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
 
 ## <a name="version-2102-february-08"></a>バージョン 2102: 2 月 8 日
 *バージョン 2102 (ビルド 13801.20084)*
@@ -270,6 +368,8 @@ ms.locfileid: "50263955"
 - **その他のテーマ:** デスクトップと Web クライアントで新しいテーマを利用できます。
 
 - **PPT 共有:** Teams の発表者ツール Teams の共有トレイから PowerPoint ファイルを選択すると、発表者ツールが自動的に開きます。 簡単なアドホック スライド ナビゲーションのために、デッキ内すべてのスライドの現在のスライド、スライド ノート、サムネイル ストリップを表示できます。 このビューは完全に背後で動作し、制御している発表者のみに表示されます。 オーディエンスには、現在のスライド (大きな赤いボックスで強調表示)、またはオーディエンスが選択した移動先のスライド (オーディエンスのナビゲーションがお客様によってロックされていない場合) しか表示されません。 
+
+- **Mac でデスクトップまたはウィンドウを共有する際に、コンピュータのサウンドを含める** Mac の Teams からデスクトップまたはウィンドウを共有するときに、コンピューターのサウンドを含めることができるようになりました。これにより、会議の参加者は、コンピューターから再生されるオーディオを聞くことができます。 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
 <br/>
