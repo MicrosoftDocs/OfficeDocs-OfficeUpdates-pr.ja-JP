@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT 担当者に、日付ごとに整理した Microsoft 365 Apps のリリースすべての一覧を、リリース ノートへのリンクを含めて提供します
-ms.openlocfilehash: ea386ed41e693146e6e13ffc1c6cd1ea711deba6
-ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
+ms.openlocfilehash: cccd1af67f32ebcd94de4532b7f8f553b2336218
+ms.sourcegitcommit: a602c02ef920a2f7566232f5045ace1c9dd44b8b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50418072"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "50515328"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 Apps の更新履歴 (日付別の一覧)
 
@@ -28,7 +28,7 @@ ms.locfileid: "50418072"
 > - この表ではリリース日付順に表示され、最新リリース日が最初に示されています。
 > - 更新プログラム チャネルの詳細については、「[Microsoft 365 Apps 用更新プログラム チャネルの概要](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)」を参照してください。
 
-次の表では、サポートされているバージョンと最新のビルド番号を更新プログラム チャネルごとに記載しています。
+次の表では、サポートされているバージョンと最新のビルド番号を更新プログラム チャネルごとに記載しています。 リリース日は、最新のビルドがいつリリースされたかを示します。
 
 ### <a name="supported-versions"></a>**サポートされているバージョン**
 

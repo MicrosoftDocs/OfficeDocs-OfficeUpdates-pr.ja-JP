@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 9906e3180c91eaa19f0c42f4703e867bb4b45d35
-ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
+ms.openlocfilehash: 7cc50ebb59a95a5b7a2e13f83264c3b6684f0a9a
+ms.sourcegitcommit: 16ea8464803ad28e97b14554df657d99b91a27de
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50418042"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50505669"
 ---
 # <a name="release-notes-for-beta-channel"></a>ベータ チャネルのリリース ノート
 
@@ -30,6 +30,80 @@ ms.locfileid: "50418042"
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2103-march-05"></a>バージョン 2103: 3 月 5 日
+*バージョン 2103 (ビルド 13901.20036)*
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="excel"></a>Excel
+
+- **機密性の高い暗号化されたドキュメントの自動保存と共同編集:** 生産性とセキュリティをトレードオフしないでください。 Microsoft Information Protection により、秘密度ラベルで暗号化されたドキュメントを、暗号化されていないドキュメントと同じように、自動保存して他のユーザーとリアル タイムで共同編集できるようになりました。 テナントのオプトインが必要です (詳細: https://aka.ms/mipcoauth)。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **機密性の高い暗号化されたドキュメントの自動保存と共同編集:** 生産性とセキュリティをトレードオフしないでください。 Microsoft Information Protection により、秘密度ラベルで暗号化されたドキュメントを、暗号化されていないドキュメントと同じように、自動保存して他のユーザーとリアル タイムで共同編集できるようになりました。 テナントのオプトインが必要です (詳細: https://aka.ms/mipcoauth)。
+
+### <a name="word"></a>Word
+
+- **機密性の高い暗号化されたドキュメントの自動保存と共同編集:** 生産性とセキュリティをトレードオフしないでください。 Microsoft Information Protection により、秘密度ラベルで暗号化されたドキュメントを、暗号化されていないドキュメントと同じように、自動保存して他のユーザーとリアル タイムで共同編集できるようになりました。 テナントのオプトインが必要です (詳細: https://aka.ms/mipcoauth)。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- 日本語フォントで乗算または除算記号を使用すると、フォントが予期せず変更される問題を修正しました。 文字をサポートしている場合は、引き続き同じフォントを使用します。
+
+
+- .xls または .xlt 形式で保存するときに、一部のピボットテーブル形式でブックが破損する問題を修正しました。
+
+
+- ブックを開いたときに予期せずメモが表示される問題を修正しました。
+
+
+### <a name="outlook"></a>Outlook
+
+- CSV にエクスポートするときに非 ASCII 文字が正しくエクスポートされない問題を修正しました。
+
+
+- メールを作成するときに、ユーザーが [名前の確認] で連絡先グループを検索できない問題を修正しました。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- PowerPoint スライドショー モードで折れ線グラフの矢印が期待どおりに表示されない問題を修正しました。
+
+
+### <a name="word"></a>Word
+
+- Microsoft Information Protection (MIP) ラベルで保護されたファイルを開くとき、MIP で保護されたラベルにアクセスできる ID にユーザーがサインインしていない場合、無期限にハングする可能性がある問題を修正しました。 ユーザーは、サインイン プロンプトを表示するためにオープンをキャンセルする必要があり、オープンはその時点以降にのみ成功します。 開く/ダウンロード中にサインイン プロンプトを表示できるようにすることで、この問題を修正します。
+
+
+- 新しい単語コメントでディクテーションを使用する際の問題を修正しました。コメント カードのディクテーション ボタンが正しくオンとオフを切り替えるようになりました。
+
+
+- ユーザーがドキュメントにディクテーションしたときに単語の間にスペースが挿入されない問題を修正しました。
+
+
+- RTL で入力された複数行のコメントを投稿すると、2 行目以降が右ではなく左に配置される問題を修正しました。
+
+
+- スペル チェックが 2 つの異なるスペル修正コンテキスト メニュー間で切り替わる問題を修正しました。
+
+
+- 列のテキストが重複する可能性がある問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2103-february-26"></a>バージョン 2103: 2 月 26 日
 *バージョン 2103 (ビルド 13819.20006)*
@@ -2600,6 +2674,7 @@ ms.locfileid: "50418042"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13901.20036|version-2103-march-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13819.20006|version-2103-february-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13811.20002|version-2103-february-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13806.20000|version-2103-february-12|)
@@ -2609,5 +2684,4 @@ ms.locfileid: "50418042"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13707.20008|version-2102-january-15|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13704.20000|version-2102-january-08|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13624.20002|version-2101-january-01|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|version-2101-december-25|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)
