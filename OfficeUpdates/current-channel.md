@@ -9,24 +9,24 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の月次チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: ae1c321ef15541e632da9e7e9d84c364f57c6858
-ms.sourcegitcommit: f67e9486398c358b4572720dc700aa98e3c0414f
+ms.openlocfilehash: 95b197a91dda728899ddebc6825fcd042180e805
+ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50455773"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50595651"
 ---
-# <a name="release-notes-for-current-channel"></a><span data-ttu-id="3f2b2-103">現在のチャネルのリリース ノート</span><span class="sxs-lookup"><span data-stu-id="3f2b2-103">Release notes for Current Channel</span></span>
+# <a name="release-notes-for-current-channel"></a><span data-ttu-id="dde2c-103">現在のチャネルのリリース ノート</span><span class="sxs-lookup"><span data-stu-id="dde2c-103">Release notes for Current Channel</span></span>
 
-<span data-ttu-id="3f2b2-104">このリリース ノートには、現在のチャネルの更新プログラムに含まれる新機能と、セキュリティ以外の更新プログラムに関する情報が記載されています。対象となるのは、Microsoft 365 Apps for enterprise、Microsoft 365 Apps for business、および Project と Visio のデスクトップ アプリのサブスクリプション版です。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-104">These release notes provide information about new features and non-security updates that are included in Current Channel updates for Microsoft 365 Apps for enterprise, Microsoft 365 Apps for business, and the subscription versions of the desktop apps for Project and Visio.</span></span>
+<span data-ttu-id="dde2c-104">このリリース ノートには、現在のチャネルの更新プログラムに含まれる新機能と、セキュリティ以外の更新プログラムに関する情報が記載されています。対象となるのは、Microsoft 365 Apps for enterprise、Microsoft 365 Apps for business、および Project と Visio のデスクトップ アプリのサブスクリプション版です。</span><span class="sxs-lookup"><span data-stu-id="dde2c-104">These release notes provide information about new features and non-security updates that are included in Current Channel updates for Microsoft 365 Apps for enterprise, Microsoft 365 Apps for business, and the subscription versions of the desktop apps for Project and Visio.</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="3f2b2-105">現在、Microsoft 365 Apps の更新プログラム チャネルに、新しい更新プログラム チャネル (月次エンタープライズ チャネル) の追加や既存の更新プログラム チャネル名の変更など、いくつかの変更を進めています。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-105">We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels.</span></span> <span data-ttu-id="3f2b2-106">詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2127441)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-106">To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).</span></span>
+> <span data-ttu-id="dde2c-105">現在、Microsoft 365 Apps の更新プログラム チャネルに、新しい更新プログラム チャネル (月次エンタープライズ チャネル) の追加や既存の更新プログラム チャネル名の変更など、いくつかの変更を進めています。</span><span class="sxs-lookup"><span data-stu-id="dde2c-105">We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels.</span></span> <span data-ttu-id="dde2c-106">詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2127441)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="dde2c-106">To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).</span></span>
 
  > [!NOTE]
 >
->- <span data-ttu-id="3f2b2-107">Microsoft では多くの場合、現在の一定期間にわたって、機能 (および場合によっては修正プログラム) を展開します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-107">We often roll out features (and sometimes even fixes) to Current over a period of time.</span></span>  <span data-ttu-id="3f2b2-108">ここで説明した内容がすぐに表示されない場合は、間もなく利用できるようになります。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-108">If you don’t see something described below right away, you can expect it soon.</span></span> [<span data-ttu-id="3f2b2-109">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-109">Learn more</span></span>](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
->- <span data-ttu-id="3f2b2-110">Microsoft Teams の機能は、リリース頻度が高いため、最新のCurrent Channel とは異なる場合があります。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-110">Microsoft Teams features may differ from the latest Current Channel released as they have a more frequent release cadence.</span></span>
+>- <span data-ttu-id="dde2c-107">Microsoft では多くの場合、現在の一定期間にわたって、機能 (および場合によっては修正プログラム) を展開します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-107">We often roll out features (and sometimes even fixes) to Current over a period of time.</span></span>  <span data-ttu-id="dde2c-108">ここで説明した内容がすぐに表示されない場合は、間もなく利用できるようになります。</span><span class="sxs-lookup"><span data-stu-id="dde2c-108">If you don’t see something described below right away, you can expect it soon.</span></span> [<span data-ttu-id="dde2c-109">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-109">Learn more</span></span>](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
+>- <span data-ttu-id="dde2c-110">Microsoft Teams の機能は、リリース頻度が高いため、最新のCurrent Channel とは異なる場合があります。</span><span class="sxs-lookup"><span data-stu-id="dde2c-110">Microsoft Teams features may differ from the latest Current Channel released as they have a more frequent release cadence.</span></span>
 
 
 
@@ -37,57 +37,90 @@ ms.locfileid: "50455773"
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2102-march-01"></a><span data-ttu-id="3f2b2-113">バージョン 2102: 3 月 1 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-113">Version 2102: March 01</span></span>
-<span data-ttu-id="3f2b2-114">*バージョン 2102 (ビルド 13801.20266)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-114">*Version 2102 (Build 13801.20266)*</span></span>
+## <a name="version-2102-march-09"></a><span data-ttu-id="dde2c-113">バージョン 2102: 3 月 9 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-113">Version 2102: March 09</span></span>
+<span data-ttu-id="dde2c-114">*バージョン 2102 (ビルド 13801.20294)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-114">*Version 2102 (Build 13801.20294)*</span></span>
+
+<span data-ttu-id="dde2c-115">セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="dde2c-115">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-117">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-117">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-118">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-118">Outlook</span></span>
+
+- <span data-ttu-id="dde2c-119">Outlook を再起動するまで、新しく追加された予定表がナビゲーション ウィンドウに表示されないという問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-119">We fixed an issue that caused users to see newly added calendars fail to appear in the navigation pane until after Outlook had been restarted.</span></span>
+
+
+### <a name="word"></a><span data-ttu-id="dde2c-120">Word</span><span class="sxs-lookup"><span data-stu-id="dde2c-120">Word</span></span>
+
+- <span data-ttu-id="dde2c-121">3D 効果のあるアイコンと SVG グラフィックに適用される色の問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-121">Fixes an issue with colors applied to icons and SVG graphics with 3D effects.</span></span>
+
+
+- <span data-ttu-id="dde2c-122">段落をスキップする可能性があるナレーターの問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-122">We fixed an issue with Narrator which may skips over a paragraph.</span></span>
+
+
+- <span data-ttu-id="dde2c-123">リッチ テキスト コンテンツ コントロールの問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-123">We fixed an issue with Rich text content controls.</span></span>
+
+
+### <a name="office-suite"></a><span data-ttu-id="dde2c-124">Office スイート</span><span class="sxs-lookup"><span data-stu-id="dde2c-124">Office Suite</span></span>
+
+- <span data-ttu-id="dde2c-125">数式を含むテキスト内でナレーターを使用すると発生する可能性がある問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-125">Fixed an issue that could happen when using narrator within text that contains math equations.</span></span>
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2102-march-01"></a><span data-ttu-id="dde2c-127">バージョン 2102: 3 月 1 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-127">Version 2102: March 01</span></span>
+<span data-ttu-id="dde2c-128">*バージョン 2102 (ビルド 13801.20266)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-128">*Version 2102 (Build 13801.20266)*</span></span>
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="feature-updates"></a><span data-ttu-id="3f2b2-116">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="3f2b2-116">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="3f2b2-117">Excel</span><span class="sxs-lookup"><span data-stu-id="3f2b2-117">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="dde2c-130">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="dde2c-130">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="dde2c-131">Excel</span><span class="sxs-lookup"><span data-stu-id="dde2c-131">Excel</span></span>
 
-- <span data-ttu-id="3f2b2-118">**複数のシートを同時に再表示する:** 一度に再表示できるのが、1枚のシートだけではなくなりました。一度に複数の非表示シートを表示します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-118">**Unhide many sheets at the same time:** No need to unhide one sheet at a time anymore -- unhide multiple hidden sheets at once.</span></span> [<span data-ttu-id="3f2b2-119">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-119">Learn more</span></span>](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+- <span data-ttu-id="dde2c-132">**複数のシートを同時に再表示する:** 一度に再表示できるのが、1枚のシートだけではなくなりました。一度に複数の非表示シートを表示します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-132">**Unhide many sheets at the same time:** No need to unhide one sheet at a time anymore -- unhide multiple hidden sheets at once.</span></span> [<span data-ttu-id="dde2c-133">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-133">Learn more</span></span>](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
 
-- <span data-ttu-id="3f2b2-120">**改善された条件付き書式ダイアログ**: 条件付き書式ダイアログのサイズが変更可能になり、シングルクリックでルールを複製できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-120">**Improved Conditional Formatting dialogs:** Conditional Formatting dialogs are now resizable, and now you can duplicate the rule with a single click.</span></span> [<span data-ttu-id="3f2b2-121">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-121">Learn more</span></span>](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
+- <span data-ttu-id="dde2c-134">**改善された条件付き書式ダイアログ**: 条件付き書式ダイアログのサイズが変更可能になり、シングルクリックでルールを複製できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-134">**Improved Conditional Formatting dialogs:** Conditional Formatting dialogs are now resizable, and now you can duplicate the rule with a single click.</span></span> [<span data-ttu-id="dde2c-135">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-135">Learn more</span></span>](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
 
-- <span data-ttu-id="3f2b2-122">**ユーザーに機密ラベルの適用を要求する:** 組織のポリシーで要求されている場合、ユーザーは機密ラベルを適用するように求められます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-122">**Require users to apply sensitivity labels:** Users will be prompted to apply a sensitivity label if their organization's policy requires it.</span></span>
+- <span data-ttu-id="dde2c-136">**ユーザーに機密ラベルの適用を要求する:** 組織のポリシーで要求されている場合、ユーザーは機密ラベルを適用するように求められます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-136">**Require users to apply sensitivity labels:** Users will be prompted to apply a sensitivity label if their organization's policy requires it.</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="3f2b2-123">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-123">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-137">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-137">Outlook</span></span>
 
-- <span data-ttu-id="3f2b2-124">**更新された連絡先リスト ビュー:** 連絡先リストにメール アドレスと更新された写真とテキストのサイズが表示されるようになりました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-124">**Updated Contacts list view:** Contacts list now shows email addresses and updated photo and text size.</span></span>
+- <span data-ttu-id="dde2c-138">**更新された連絡先リスト ビュー:** 連絡先リストにメール アドレスと更新された写真とテキストのサイズが表示されるようになりました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-138">**Updated Contacts list view:** Contacts list now shows email addresses and updated photo and text size.</span></span>
 
-- <span data-ttu-id="3f2b2-125">**組み込みの翻訳機能を使用して、言語の壁を取り除く:** 翻訳用のアドインは必要なくなりました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-125">**Break the language barrier with a built-in translator:** Add-ins for translation aren't required anymore!</span></span> <span data-ttu-id="3f2b2-126">メッセージを右クリックすると、特定の単語、語句、またはメッセージ全体を翻訳できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-126">In a message, right-click to translate specific words, phrases, or the whole message.</span></span> [<span data-ttu-id="3f2b2-127">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-127">Learn more</span></span>](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
+- <span data-ttu-id="dde2c-139">**組み込みの翻訳機能を使用して、言語の壁を取り除く:** 翻訳用のアドインは必要なくなりました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-139">**Break the language barrier with a built-in translator:** Add-ins for translation aren't required anymore!</span></span> <span data-ttu-id="dde2c-140">メッセージを右クリックすると、特定の単語、語句、またはメッセージ全体を翻訳できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-140">In a message, right-click to translate specific words, phrases, or the whole message.</span></span> [<span data-ttu-id="dde2c-141">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-141">Learn more</span></span>](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
 
-### <a name="powerpoint"></a><span data-ttu-id="3f2b2-128">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="3f2b2-128">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="dde2c-142">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="dde2c-142">PowerPoint</span></span>
 
-- <span data-ttu-id="3f2b2-129">**ユーザーに機密ラベルの適用を要求する:** 組織のポリシーで要求されている場合、ユーザーは機密ラベルを適用するように求められます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-129">**Require users to apply sensitivity labels:** Users will be prompted to apply a sensitivity label if their organization's policy requires it.</span></span>
+- <span data-ttu-id="dde2c-143">**ユーザーに機密ラベルの適用を要求する:** 組織のポリシーで要求されている場合、ユーザーは機密ラベルを適用するように求められます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-143">**Require users to apply sensitivity labels:** Users will be prompted to apply a sensitivity label if their organization's policy requires it.</span></span>
 
-### <a name="teams"></a><span data-ttu-id="3f2b2-130">Teams</span><span class="sxs-lookup"><span data-stu-id="3f2b2-130">Teams</span></span>
+### <a name="teams"></a><span data-ttu-id="dde2c-144">Teams</span><span class="sxs-lookup"><span data-stu-id="dde2c-144">Teams</span></span>
 
-- <span data-ttu-id="3f2b2-131">**PowerPoint ファイルを共有するときのプレゼンター ビュー:** 会議で PowerPoint ファイルを共有するときに、プレゼンターはデッキ内のすべてのスライドのサムネイル ストリップを使用して、アドホックなスライド ナビゲーションを簡単に行えるようになりました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-131">**Presenter View when sharing a PowerPoint file:** When sharing a PowerPoint file in a meeting, the presenter can now a thumbnail strip of all the slides in the deck for easy ad-hoc slide navigation.</span></span>
+- <span data-ttu-id="dde2c-145">**PowerPoint ファイルを共有するときのプレゼンター ビュー:** 会議で PowerPoint ファイルを共有するときに、プレゼンターはデッキ内のすべてのスライドのサムネイル ストリップを使用して、アドホックなスライド ナビゲーションを簡単に行えるようになりました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-145">**Presenter View when sharing a PowerPoint file:** When sharing a PowerPoint file in a meeting, the presenter can now a thumbnail strip of all the slides in the deck for easy ad-hoc slide navigation.</span></span>
 
-- <span data-ttu-id="3f2b2-132">**テーマとアイコンの更新:** デフォルトとダーク テーマの色、およびアイコンを更新しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-132">**Theming and icon updates:** We have made updates to the default and dark theme colors and to the icon.</span></span>
+- <span data-ttu-id="dde2c-146">**テーマとアイコンの更新:** デフォルトとダーク テーマの色、およびアイコンを更新しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-146">**Theming and icon updates:** We have made updates to the default and dark theme colors and to the icon.</span></span>
 
-- <span data-ttu-id="3f2b2-133">**iPad でのライブ イベント プレゼンターのサポート:** サポートされている iPad デバイスからライブ イベントでプレゼンテーションを行うことができます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-133">**Live Event Presenter Support on iPad:** You can present in a live event from your supported iPad device.</span></span>
+- <span data-ttu-id="dde2c-147">**iPad でのライブ イベント プレゼンターのサポート:** サポートされている iPad デバイスからライブ イベントでプレゼンテーションを行うことができます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-147">**Live Event Presenter Support on iPad:** You can present in a live event from your supported iPad device.</span></span>
 
-- <span data-ttu-id="3f2b2-134">**Microsoft Forms を使用した会議参加者の投票:** チーム会議の投票は、より魅力的で生産的な会議の実施に役立つ、簡単に見つけられるシームレスなエクスペリエンスです。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-134">**Poll meeting participants using Microsoft Forms:** Polls for Teams meetings is an easily discoverable and seamless experience that will help you conduct more engaging and productive meetings.</span></span> <span data-ttu-id="3f2b2-135">Microsoft Forms を利用した投票を使用すると、会議のプレゼンターは、会議の前、最中、および後に、それぞれ、Teams 会議のタブの下の 1 つの場所から投票を準備、起動、および評価できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-135">With Polls, which is powered by Microsoft Forms, meeting presenters can prepare, launch, and evaluate polls before, during, and after meetings, respectively, all from one place under a tab in the Teams meeting.</span></span> <span data-ttu-id="3f2b2-136">会議のプレゼンターとして、Forms アプリをチーム会議のタブとして追加し、投票を 1 か所から作成、起動、評価できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-136">As a meeting presenter, you can add the Forms app as a tab in the Teams meeting, then create, launch, and evaluate your polls from one place.</span></span> <span data-ttu-id="3f2b2-137">会議が始まる前でも、会議中に開始される投票を作成できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-137">Create polls to be launched during the meeting even before the meeting begins.</span></span> <span data-ttu-id="3f2b2-138">次に、会議後、タブ、エクスポートされた Excel ブック、または Web 上のフォーム アプリで回答を評価することを選択できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-138">Then, after the meeting, you can choose to evaluate responses in the tab, an exported Excel workbook, or on the web in the Forms app.</span></span> <span data-ttu-id="3f2b2-139">プレゼンターには、匿名応答の有効化、投票の終了、Excel への結果のエクスポートなどのさまざまなコントロールがあります。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-139">Presenters have a variety of controls, like enabling anonymous responses, closing polls, and exporting results to Excel.</span></span> <span data-ttu-id="3f2b2-140">任意のエンド ポイント (モバイル、Web、デスクトップ) からの参加者は、会議画面または会議チャットに表示される投票を表示して回答したり、匿名でない投票結果をリアルタイムで確認したりできます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-140">Attendees from any endpoint (mobile, web, desktop) can view and answer polls as they appear on the meeting screen or in the meeting chat, as well as see non-anonymous poll results in real time.</span></span>
+- <span data-ttu-id="dde2c-148">**Microsoft Forms を使用した会議参加者の投票:** チーム会議の投票は、より魅力的で生産的な会議の実施に役立つ、簡単に見つけられるシームレスなエクスペリエンスです。</span><span class="sxs-lookup"><span data-stu-id="dde2c-148">**Poll meeting participants using Microsoft Forms:** Polls for Teams meetings is an easily discoverable and seamless experience that will help you conduct more engaging and productive meetings.</span></span> <span data-ttu-id="dde2c-149">Microsoft Forms を利用した投票を使用すると、会議のプレゼンターは、会議の前、最中、および後に、それぞれ、Teams 会議のタブの下の 1 つの場所から投票を準備、起動、および評価できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-149">With Polls, which is powered by Microsoft Forms, meeting presenters can prepare, launch, and evaluate polls before, during, and after meetings, respectively, all from one place under a tab in the Teams meeting.</span></span> <span data-ttu-id="dde2c-150">会議のプレゼンターとして、Forms アプリをチーム会議のタブとして追加し、投票を 1 か所から作成、起動、評価できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-150">As a meeting presenter, you can add the Forms app as a tab in the Teams meeting, then create, launch, and evaluate your polls from one place.</span></span> <span data-ttu-id="dde2c-151">会議が始まる前でも、会議中に開始される投票を作成できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-151">Create polls to be launched during the meeting even before the meeting begins.</span></span> <span data-ttu-id="dde2c-152">次に、会議後、タブ、エクスポートされた Excel ブック、または Web 上のフォーム アプリで回答を評価することを選択できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-152">Then, after the meeting, you can choose to evaluate responses in the tab, an exported Excel workbook, or on the web in the Forms app.</span></span> <span data-ttu-id="dde2c-153">プレゼンターには、匿名応答の有効化、投票の終了、Excel への結果のエクスポートなどのさまざまなコントロールがあります。</span><span class="sxs-lookup"><span data-stu-id="dde2c-153">Presenters have a variety of controls, like enabling anonymous responses, closing polls, and exporting results to Excel.</span></span> <span data-ttu-id="dde2c-154">任意のエンド ポイント (モバイル、Web、デスクトップ) からの参加者は、会議画面または会議チャットに表示される投票を表示して回答したり、匿名でない投票結果をリアルタイムで確認したりできます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-154">Attendees from any endpoint (mobile, web, desktop) can view and answer polls as they appear on the meeting screen or in the meeting chat, as well as see non-anonymous poll results in real time.</span></span>
 
-- <span data-ttu-id="3f2b2-141">**会議の反応:** 会議の反応は、会議を操作するための新しい方法です。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-141">**Meeting reactions:** Meeting reactions are a new way to interact in meetings.</span></span> <span data-ttu-id="3f2b2-142">参加者はリアクションを送信でき、共有されているコンテンツ、および会議ステージに表示されている場合はリアクションを送信した個人にストリームとして表示されます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-142">Participants can send reactions and they'll be shown as a stream on content that is shared, and on the individual who sent the reaction if they're displayed on the meeting stage.</span></span>
+- <span data-ttu-id="dde2c-155">**会議の反応:** 会議の反応は、会議を操作するための新しい方法です。</span><span class="sxs-lookup"><span data-stu-id="dde2c-155">**Meeting reactions:** Meeting reactions are a new way to interact in meetings.</span></span> <span data-ttu-id="dde2c-156">参加者はリアクションを送信でき、共有されているコンテンツ、および会議ステージに表示されている場合はリアクションを送信した個人にストリームとして表示されます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-156">Participants can send reactions and they'll be shown as a stream on content that is shared, and on the individual who sent the reaction if they're displayed on the meeting stage.</span></span>
 
-- <span data-ttu-id="3f2b2-143">**デスクトップ クライアントの履歴メニュー:** Teams デスクトップク ライアントの履歴メニューを使用すると、最近アクセスした場所に簡単に戻ることができます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-143">**History Menu for desktop client:** The History Menu in Teams desktop client lets you easily get back to recently visited locations.</span></span> <span data-ttu-id="3f2b2-144">デスクトップ クライアントの順方向または逆方向のナビゲーション オプションにカーソルを合わせて、場所を選択するだけです。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-144">Simply hover over the forward or backward navigation options in the desktop client and select the location.</span></span> <span data-ttu-id="3f2b2-145">メニューを開くためのキーボード ショートカットも利用できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-145">A keyboard shortcut is also available to open the menu.</span></span>
+- <span data-ttu-id="dde2c-157">**デスクトップ クライアントの履歴メニュー:** Teams デスクトップク ライアントの履歴メニューを使用すると、最近アクセスした場所に簡単に戻ることができます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-157">**History Menu for desktop client:** The History Menu in Teams desktop client lets you easily get back to recently visited locations.</span></span> <span data-ttu-id="dde2c-158">デスクトップ クライアントの順方向または逆方向のナビゲーション オプションにカーソルを合わせて、場所を選択するだけです。</span><span class="sxs-lookup"><span data-stu-id="dde2c-158">Simply hover over the forward or backward navigation options in the desktop client and select the location.</span></span> <span data-ttu-id="dde2c-159">メニューを開くためのキーボード ショートカットも利用できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-159">A keyboard shortcut is also available to open the menu.</span></span>
 
-- <span data-ttu-id="3f2b2-146">**米国向け Microsoft Teams Rooms の Cortana:** Microsoft Teams Rooms の Cortana 音声アシスタンスを使用すると、会議室から番号を呼び出したり、会議に参加または終了したり、会議に番号を追加したりするためのタッチレス エクスペリエンスを利用できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-146">**Cortana in Microsoft Teams Rooms for US:** Cortana voice assistance in Microsoft Teams Rooms lets you have a touchless experience for calling a number from your conference room, joining or ending a meeting, or adding a number to a meeting.</span></span>
+- <span data-ttu-id="dde2c-160">**米国向け Microsoft Teams Rooms の Cortana:** Microsoft Teams Rooms の Cortana 音声アシスタンスを使用すると、会議室から番号を呼び出したり、会議に参加または終了したり、会議に番号を追加したりするためのタッチレス エクスペリエンスを利用できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-160">**Cortana in Microsoft Teams Rooms for US:** Cortana voice assistance in Microsoft Teams Rooms lets you have a touchless experience for calling a number from your conference room, joining or ending a meeting, or adding a number to a meeting.</span></span>
 
-- <span data-ttu-id="3f2b2-147">**電話番号のマスキング:** ダイヤルイン参加者が会議に参加するときに電話番号をマスキングするための新しい管理者設定をリリースしました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-147">**Masking phone numbers:** We released a new admin setting for masking phone numbers for dial-in participants when they join a meeting.</span></span> <span data-ttu-id="3f2b2-148">管理者は、会議の全員 (主催者を除く) から、外部の人からのみ電話番号をマスクするか、マスクを無効にするかを選択できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-148">Admins can choose to mask phone numbers from everyone in the meeting (except the organizer), from external people only or have masking disabled.</span></span> <span data-ttu-id="3f2b2-149">管理者がこの設定を無効にすることを選択した場合、電話番号は会議にすべて表示されます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-149">If the admins choose to have this setting disabled, the phone numbers will be displayed fully in the meeting.</span></span>  <span data-ttu-id="3f2b2-150">(10 月末までのプライベート リリース)</span><span class="sxs-lookup"><span data-stu-id="3f2b2-150">(private release until the end of October)</span></span>
+- <span data-ttu-id="dde2c-161">**電話番号のマスキング:** ダイヤルイン参加者が会議に参加するときに電話番号をマスキングするための新しい管理者設定をリリースしました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-161">**Masking phone numbers:** We released a new admin setting for masking phone numbers for dial-in participants when they join a meeting.</span></span> <span data-ttu-id="dde2c-162">管理者は、会議の全員 (主催者を除く) から、外部の人からのみ電話番号をマスクするか、マスクを無効にするかを選択できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-162">Admins can choose to mask phone numbers from everyone in the meeting (except the organizer), from external people only or have masking disabled.</span></span> <span data-ttu-id="dde2c-163">管理者がこの設定を無効にすることを選択した場合、電話番号は会議にすべて表示されます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-163">If the admins choose to have this setting disabled, the phone numbers will be displayed fully in the meeting.</span></span>  <span data-ttu-id="dde2c-164">(10 月末までのプライベート リリース)</span><span class="sxs-lookup"><span data-stu-id="dde2c-164">(private release until the end of October)</span></span>
 
-- <span data-ttu-id="3f2b2-151">**カレンダーの共有:** カレンダー タブにチャンネルを追加する機能を追加しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-151">**Calendar sharing:** We added the ability to add a channel to a calendar tab.</span></span>
+- <span data-ttu-id="dde2c-165">**カレンダーの共有:** カレンダー タブにチャンネルを追加する機能を追加しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-165">**Calendar sharing:** We added the ability to add a channel to a calendar tab.</span></span>
 
-- <span data-ttu-id="3f2b2-152">**より多くのシーンを Together モードにする:** Teams は、会議の主催者またはプレゼンターが Together モードのシーンを変更して、参加者がさまざまなエクスペリエンスに一緒に参加できるようにする機能を導入しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-152">**Bringing more scenes to Together Mode:** Teams have now introduced the ability for meeting organisers or presenters to change the Together Mode scene allowing attendees to appear in different experiences together.</span></span>
+- <span data-ttu-id="dde2c-166">**より多くのシーンを Together モードにする:** Teams は、会議の主催者またはプレゼンターが Together モードのシーンを変更して、参加者がさまざまなエクスペリエンスに一緒に参加できるようにする機能を導入しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-166">**Bringing more scenes to Together Mode:** Teams have now introduced the ability for meeting organisers or presenters to change the Together Mode scene allowing attendees to appear in different experiences together.</span></span>
 
-### <a name="word"></a><span data-ttu-id="3f2b2-153">Word</span><span class="sxs-lookup"><span data-stu-id="3f2b2-153">Word</span></span>
+### <a name="word"></a><span data-ttu-id="dde2c-167">Word</span><span class="sxs-lookup"><span data-stu-id="dde2c-167">Word</span></span>
 
-- <span data-ttu-id="3f2b2-154">**ワンクリック ライティング候補:** ワンクリックでライティング候補を適用できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-154">**One-click writing suggestions:** Apply writing suggestions with a single click.</span></span> <span data-ttu-id="3f2b2-155">更新されたエディターウィンドウを使って、候補間を簡単に移動できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-155">The updated Editor pane makes it easy to navigate between suggestions.</span></span> [<span data-ttu-id="3f2b2-156">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-156">Learn more</span></span>](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br /><span data-ttu-id="3f2b2-157">[ブログの投稿](https://insider.office.com/ja-JP/blog/microsoft-editor-gets-an-upgrade)の詳細情報をご覧ください</span><span class="sxs-lookup"><span data-stu-id="3f2b2-157">See details in [blog post](https://insider.office.com/ja-JP/blog/microsoft-editor-gets-an-upgrade)</span></span>
+- <span data-ttu-id="dde2c-168">**ワンクリック ライティング候補:** ワンクリックでライティング候補を適用できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-168">**One-click writing suggestions:** Apply writing suggestions with a single click.</span></span> <span data-ttu-id="dde2c-169">更新されたエディターウィンドウを使って、候補間を簡単に移動できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-169">The updated Editor pane makes it easy to navigate between suggestions.</span></span> [<span data-ttu-id="dde2c-170">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-170">Learn more</span></span>](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br /><span data-ttu-id="dde2c-171">[ブログの投稿](https://insider.office.com/ja-JP/blog/microsoft-editor-gets-an-upgrade)の詳細情報をご覧ください</span><span class="sxs-lookup"><span data-stu-id="dde2c-171">See details in [blog post](https://insider.office.com/ja-JP/blog/microsoft-editor-gets-an-upgrade)</span></span>
 
-- <span data-ttu-id="3f2b2-158">**ユーザーに機密ラベルの適用を要求する:** 組織のポリシーで要求されている場合、ユーザーは機密ラベルを適用するように求められます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-158">**Require users to apply sensitivity labels:** Users will be prompted to apply a sensitivity label if their organization's policy requires it.</span></span>
+- <span data-ttu-id="dde2c-172">**ユーザーに機密ラベルの適用を要求する:** 組織のポリシーで要求されている場合、ユーザーは機密ラベルを適用するように求められます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-172">**Require users to apply sensitivity labels:** Users will be prompted to apply a sensitivity label if their organization's policy requires it.</span></span>
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -96,128 +129,128 @@ ms.locfileid: "50455773"
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-161">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-161">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="3f2b2-162">Access</span><span class="sxs-lookup"><span data-stu-id="3f2b2-162">Access</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-175">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-175">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="dde2c-176">Access</span><span class="sxs-lookup"><span data-stu-id="dde2c-176">Access</span></span>
 
-- <span data-ttu-id="3f2b2-163">ユーザーに「無効なカーソル状態」というエラー ダイアログが表示される問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-163">We fixed an issue where users were getting an error dialog "Invalid cursor state".</span></span>
-
-
-### <a name="excel"></a><span data-ttu-id="3f2b2-164">Excel</span><span class="sxs-lookup"><span data-stu-id="3f2b2-164">Excel</span></span>
-
-- <span data-ttu-id="3f2b2-165">ユーザーが Excel ブックを PDF にエクスポートできない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-165">We fixed an issue that prevented users from exporting an Excel workbook to PDF.</span></span>
+- <span data-ttu-id="dde2c-177">ユーザーに「無効なカーソル状態」というエラー ダイアログが表示される問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-177">We fixed an issue where users were getting an error dialog "Invalid cursor state".</span></span>
 
 
-- <span data-ttu-id="3f2b2-166">[リンクされた画像を貼り付け] オプションを使用すると、画像が予想よりも小さくなる問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-166">We fixed an issue which caused images to bee smaller than expected when using the Paste Linked Picture option.</span></span>
+### <a name="excel"></a><span data-ttu-id="dde2c-178">Excel</span><span class="sxs-lookup"><span data-stu-id="dde2c-178">Excel</span></span>
+
+- <span data-ttu-id="dde2c-179">ユーザーが Excel ブックを PDF にエクスポートできない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-179">We fixed an issue that prevented users from exporting an Excel workbook to PDF.</span></span>
 
 
-### <a name="outlook"></a><span data-ttu-id="3f2b2-167">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-167">Outlook</span></span>
-
-- <span data-ttu-id="3f2b2-168">改善版共有カレンダーのユーザーが、カレンダーの色を黄色または茶色に設定できない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-168">We fixed an issue that caused users of the Shared Calendar improvements to be unable to set a calendar's color to yellow or brown.</span></span>
+- <span data-ttu-id="dde2c-180">[リンクされた画像を貼り付け] オプションを使用すると、画像が予想よりも小さくなる問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-180">We fixed an issue which caused images to bee smaller than expected when using the Paste Linked Picture option.</span></span>
 
 
-- <span data-ttu-id="3f2b2-169">新しいグループを作成した後、重複するカレンダー グループが表示される原因となる問題を修正して解決しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-169">We fixed and issue that caused users to see duplicate calendar groups appearing after creating a new group.</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-181">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-181">Outlook</span></span>
+
+- <span data-ttu-id="dde2c-182">改善版共有カレンダーのユーザーが、カレンダーの色を黄色または茶色に設定できない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-182">We fixed an issue that caused users of the Shared Calendar improvements to be unable to set a calendar's color to yellow or brown.</span></span>
 
 
-- <span data-ttu-id="3f2b2-170">一部のユーザーがメッセージ ウィンドウを閉じるときにアプリがシャットダウンする問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-170">We fixed an issue that  caused some users to experience the app to shut down when closing message windows.</span></span>
+- <span data-ttu-id="dde2c-183">新しいグループを作成した後、重複するカレンダー グループが表示される原因となる問題を修正して解決しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-183">We fixed and issue that caused users to see duplicate calendar groups appearing after creating a new group.</span></span>
 
 
-- <span data-ttu-id="3f2b2-171">Unicode コンテンツを含む署名が破損するのをユーザーに表示する問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-171">We fixed an issue that caused users to see signatures containing unicode content to get damaged.</span></span>
+- <span data-ttu-id="dde2c-184">一部のユーザーがメッセージ ウィンドウを閉じるときにアプリがシャットダウンする問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-184">We fixed an issue that  caused some users to experience the app to shut down when closing message windows.</span></span>
 
 
-- <span data-ttu-id="3f2b2-172">インライン翻訳のユーザーがフィードバックを送信できない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-172">We fixed an issue that caused users of inline translation to be unable to submit feedback.</span></span>
+- <span data-ttu-id="dde2c-185">Unicode コンテンツを含む署名が破損するのをユーザーに表示する問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-185">We fixed an issue that caused users to see signatures containing unicode content to get damaged.</span></span>
 
 
-### <a name="word"></a><span data-ttu-id="3f2b2-173">Word</span><span class="sxs-lookup"><span data-stu-id="3f2b2-173">Word</span></span>
+- <span data-ttu-id="dde2c-186">インライン翻訳のユーザーがフィードバックを送信できない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-186">We fixed an issue that caused users of inline translation to be unable to submit feedback.</span></span>
 
-- <span data-ttu-id="3f2b2-174">共同編集中の競合を解決する際の問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-174">We fixed an issue in resolving conflicts while in coauthoring.</span></span>
+
+### <a name="word"></a><span data-ttu-id="dde2c-187">Word</span><span class="sxs-lookup"><span data-stu-id="dde2c-187">Word</span></span>
+
+- <span data-ttu-id="dde2c-188">共同編集中の競合を解決する際の問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-188">We fixed an issue in resolving conflicts while in coauthoring.</span></span>
 
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2101-february-16"></a><span data-ttu-id="3f2b2-176">バージョン 2101: 2 月 16 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-176">Version 2101: February 16</span></span>
-<span data-ttu-id="3f2b2-177">*バージョン 2101 (ビルド 13628.20448)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-177">*Version 2101 (Build 13628.20448)*</span></span>
+## <a name="version-2101-february-16"></a><span data-ttu-id="dde2c-190">バージョン 2101: 2 月 16 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-190">Version 2101: February 16</span></span>
+<span data-ttu-id="dde2c-191">*バージョン 2101 (ビルド 13628.20448)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-191">*Version 2101 (Build 13628.20448)*</span></span>
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-179">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-179">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="3f2b2-180">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-180">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-193">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-193">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-194">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-194">Outlook</span></span>
 
-- <span data-ttu-id="3f2b2-181">ユーザーが Outlook で検索しているときに、アプリが予期せず閉じることがある問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-181">We fixed an issue that caused the app to sometimes close unexpectedly when users were searching in Outlook.</span></span>
-
-
-- <span data-ttu-id="3f2b2-182">デジタル署名のオプションのチェックを外した後も、メールがデジタル署名されたものとして送信される問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-182">We fixed an issue that caused mails to be sent as digitally signed after the user unchecked that option.</span></span>
+- <span data-ttu-id="dde2c-195">ユーザーが Outlook で検索しているときに、アプリが予期せず閉じることがある問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-195">We fixed an issue that caused the app to sometimes close unexpectedly when users were searching in Outlook.</span></span>
 
 
-### <a name="office-suite"></a><span data-ttu-id="3f2b2-183">Office スイート</span><span class="sxs-lookup"><span data-stu-id="3f2b2-183">Office Suite</span></span>
-
-- <span data-ttu-id="3f2b2-184">メディア コントローラーのイベント通知に関連する問題を修正します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-184">Fixes an issue related to media controller event notifications.</span></span>
+- <span data-ttu-id="dde2c-196">デジタル署名のオプションのチェックを外した後も、メールがデジタル署名されたものとして送信される問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-196">We fixed an issue that caused mails to be sent as digitally signed after the user unchecked that option.</span></span>
 
 
-- <span data-ttu-id="3f2b2-185">メディア プレーヤー エンジンのタイミングに関連する問題を修正します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-185">Fixes an issue related to media player engine timing.</span></span>
+### <a name="office-suite"></a><span data-ttu-id="dde2c-197">Office スイート</span><span class="sxs-lookup"><span data-stu-id="dde2c-197">Office Suite</span></span>
+
+- <span data-ttu-id="dde2c-198">メディア コントローラーのイベント通知に関連する問題を修正します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-198">Fixes an issue related to media controller event notifications.</span></span>
+
+
+- <span data-ttu-id="dde2c-199">メディア プレーヤー エンジンのタイミングに関連する問題を修正します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-199">Fixes an issue related to media player engine timing.</span></span>
 
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2101-february-09"></a><span data-ttu-id="3f2b2-187">バージョン 2101: 2 月 9 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-187">Version 2101: February 09</span></span>
-<span data-ttu-id="3f2b2-188">*バージョン 2101 (ビルド 13628.20380)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-188">*Version 2101 (Build 13628.20380)*</span></span>
+## <a name="version-2101-february-09"></a><span data-ttu-id="dde2c-201">バージョン 2101: 2 月 9 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-201">Version 2101: February 09</span></span>
+<span data-ttu-id="dde2c-202">*バージョン 2101 (ビルド 13628.20380)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-202">*Version 2101 (Build 13628.20380)*</span></span>
 
-<span data-ttu-id="3f2b2-189">セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="3f2b2-189">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
+<span data-ttu-id="dde2c-203">セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="dde2c-203">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-191">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-191">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="3f2b2-192">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-192">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-205">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-205">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-206">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-206">Outlook</span></span>
 
-- <span data-ttu-id="3f2b2-193">クラウド設定のユーザーが設定を更新するときにハングする問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-193">We fixed an issue that caused Cloud Settings users to experience a hang when updating settings.</span></span>
-
-
-- <span data-ttu-id="3f2b2-194">OWA に既定の正しい署名が表示されない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-194">We fixed an issue that caused issues with displaying the correct default signature in OWA.</span></span>
+- <span data-ttu-id="dde2c-207">クラウド設定のユーザーが設定を更新するときにハングする問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-207">We fixed an issue that caused Cloud Settings users to experience a hang when updating settings.</span></span>
 
 
-- <span data-ttu-id="3f2b2-195">[暗号化のみ] オプションを使用して送信されたメールの暗号化アイコンが表示されない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-195">We fixed an issue that caused the encryption icon to fail to display on emails sent using the encryption only option.</span></span>
+- <span data-ttu-id="dde2c-208">OWA に既定の正しい署名が表示されない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-208">We fixed an issue that caused issues with displaying the correct default signature in OWA.</span></span>
+
+
+- <span data-ttu-id="dde2c-209">[暗号化のみ] オプションを使用して送信されたメールの暗号化アイコンが表示されない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-209">We fixed an issue that caused the encryption icon to fail to display on emails sent using the encryption only option.</span></span>
 
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2101-january-26"></a><span data-ttu-id="3f2b2-197">バージョン 2101: 1 月 26 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-197">Version 2101: January 26</span></span>
-<span data-ttu-id="3f2b2-198">*バージョン 2101 (ビルド 13628.20274)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-198">*Version 2101 (Build 13628.20274)*</span></span>
+## <a name="version-2101-january-26"></a><span data-ttu-id="dde2c-211">バージョン 2101: 1 月 26 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-211">Version 2101: January 26</span></span>
+<span data-ttu-id="dde2c-212">*バージョン 2101 (ビルド 13628.20274)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-212">*Version 2101 (Build 13628.20274)*</span></span>
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="feature-updates"></a><span data-ttu-id="3f2b2-200">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="3f2b2-200">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="3f2b2-201">Excel</span><span class="sxs-lookup"><span data-stu-id="3f2b2-201">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="dde2c-214">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="dde2c-214">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="dde2c-215">Excel</span><span class="sxs-lookup"><span data-stu-id="dde2c-215">Excel</span></span>
 
-- <span data-ttu-id="3f2b2-202">**M365 の管理者に機密度ラベルに関する監査データを送信する** : ユーザーがドキュメントやメールに機密度ラベルを適用、変更、または削除したときに、Office は M365 監査バックエンドに監査データを送信し管理者の目に入れるようにします。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-202">**Send audit data about sensitivity labeling to M365 administrators:** When users apply, change, or remove sensitivity labels on their documents and emails, Office will send up audit data to the M365 audit backend for administrators to see.</span></span> <span data-ttu-id="3f2b2-203">これは、管理者のためのサイレント機能 (UI なし) です。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-203">This is a silent functionality (no UI) for administrator benefit.</span></span>
+- <span data-ttu-id="dde2c-216">**M365 の管理者に機密度ラベルに関する監査データを送信する** : ユーザーがドキュメントやメールに機密度ラベルを適用、変更、または削除したときに、Office は M365 監査バックエンドに監査データを送信し管理者の目に入れるようにします。</span><span class="sxs-lookup"><span data-stu-id="dde2c-216">**Send audit data about sensitivity labeling to M365 administrators:** When users apply, change, or remove sensitivity labels on their documents and emails, Office will send up audit data to the M365 audit backend for administrators to see.</span></span> <span data-ttu-id="dde2c-217">これは、管理者のためのサイレント機能 (UI なし) です。</span><span class="sxs-lookup"><span data-stu-id="dde2c-217">This is a silent functionality (no UI) for administrator benefit.</span></span>
 
-- <span data-ttu-id="3f2b2-204">**政府機関のお客様: ドキュメントおよびメールに秘密度ラベルを適用する:** GCC および GCC-H 環境のお客様は、秘密度のラベル付け機能を利用できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-204">**Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the GCC and GCC-H environments.</span></span> [<span data-ttu-id="3f2b2-205">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-205">Learn more</span></span>](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- <span data-ttu-id="dde2c-218">**政府機関のお客様: ドキュメントおよびメールに秘密度ラベルを適用する:** GCC および GCC-H 環境のお客様は、秘密度のラベル付け機能を利用できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-218">**Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the GCC and GCC-H environments.</span></span> [<span data-ttu-id="dde2c-219">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-219">Learn more</span></span>](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
-### <a name="outlook"></a><span data-ttu-id="3f2b2-206">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-206">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-220">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-220">Outlook</span></span>
 
-- <span data-ttu-id="3f2b2-207">**メッセージの所有者として会話を削除する:** この機能を使用すると、メッセージの所有者による会話を削除できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-207">**Delete conversation by message owner:** This feature allows you to delete a conversation by message owner.</span></span>
+- <span data-ttu-id="dde2c-221">**メッセージの所有者として会話を削除する:** この機能を使用すると、メッセージの所有者による会話を削除できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-221">**Delete conversation by message owner:** This feature allows you to delete a conversation by message owner.</span></span>
 
-- <span data-ttu-id="3f2b2-208">**連続する会議の合間に時間を組み込む:** 既定で 5 分から 10 分遅く会議を開始するように設定することで、出席者に休憩時間や場所の移動時間を与えることができます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-208">**Build in time between back-to-back meetings:** Give attendees time to catch their breath or travel between locations by setting meetings to start 5-10 min late by default.</span></span> [<span data-ttu-id="3f2b2-209">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-209">Learn more</span></span>](https://support.office.com/article/be84396a-0903-4e25-b31c-1c99ce0dacf2)
+- <span data-ttu-id="dde2c-222">**連続する会議の合間に時間を組み込む:** 既定で 5 分から 10 分遅く会議を開始するように設定することで、出席者に休憩時間や場所の移動時間を与えることができます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-222">**Build in time between back-to-back meetings:** Give attendees time to catch their breath or travel between locations by setting meetings to start 5-10 min late by default.</span></span> [<span data-ttu-id="dde2c-223">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-223">Learn more</span></span>](https://support.office.com/article/be84396a-0903-4e25-b31c-1c99ce0dacf2)
 
-- <span data-ttu-id="3f2b2-210">**すべてのオンライン会議:** 予定表設定を更新して、既定で Teams 会議を作成するすべての会議を作成します。これにより、Teams 会議オプションをクリックする必要がなくなります。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-210">**Every meeting online:** Update your calendar settings to make every meeting you create a Teams Meeting by default so you no longer need to remember to click the Teams Meeting option.</span></span>
+- <span data-ttu-id="dde2c-224">**すべてのオンライン会議:** 予定表設定を更新して、既定で Teams 会議を作成するすべての会議を作成します。これにより、Teams 会議オプションをクリックする必要がなくなります。</span><span class="sxs-lookup"><span data-stu-id="dde2c-224">**Every meeting online:** Update your calendar settings to make every meeting you create a Teams Meeting by default so you no longer need to remember to click the Teams Meeting option.</span></span>
 
-- <span data-ttu-id="3f2b2-211">**M365 の管理者に機密度ラベルに関する監査データを送信する** : ユーザーがドキュメントやメールに機密度ラベルを適用、変更、または削除したときに、Office は M365 監査バックエンドに監査データを送信し管理者の目に入れるようにします。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-211">**Send audit data about sensitivity labeling to M365 administrators:** When users apply, change, or remove sensitivity labels on their documents and emails, Office will send up audit data to the M365 audit backend for administrators to see.</span></span> <span data-ttu-id="3f2b2-212">これは、管理者のためのサイレント機能 (UI なし) です。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-212">This is a silent functionality (no UI) for administrator benefit.</span></span>
+- <span data-ttu-id="dde2c-225">**M365 の管理者に機密度ラベルに関する監査データを送信する** : ユーザーがドキュメントやメールに機密度ラベルを適用、変更、または削除したときに、Office は M365 監査バックエンドに監査データを送信し管理者の目に入れるようにします。</span><span class="sxs-lookup"><span data-stu-id="dde2c-225">**Send audit data about sensitivity labeling to M365 administrators:** When users apply, change, or remove sensitivity labels on their documents and emails, Office will send up audit data to the M365 audit backend for administrators to see.</span></span> <span data-ttu-id="dde2c-226">これは、管理者のためのサイレント機能 (UI なし) です。</span><span class="sxs-lookup"><span data-stu-id="dde2c-226">This is a silent functionality (no UI) for administrator benefit.</span></span>
 
-- <span data-ttu-id="3f2b2-213">**政府機関のお客様: ドキュメントおよびメールに秘密度ラベルを適用する:** GCC および GCC-H 環境のお客様は、秘密度のラベル付け機能を利用できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-213">**Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the GCC and GCC-H environments.</span></span> [<span data-ttu-id="3f2b2-214">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-214">Learn more</span></span>](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- <span data-ttu-id="dde2c-227">**政府機関のお客様: ドキュメントおよびメールに秘密度ラベルを適用する:** GCC および GCC-H 環境のお客様は、秘密度のラベル付け機能を利用できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-227">**Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the GCC and GCC-H environments.</span></span> [<span data-ttu-id="dde2c-228">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-228">Learn more</span></span>](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
-### <a name="powerpoint"></a><span data-ttu-id="3f2b2-215">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="3f2b2-215">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="dde2c-229">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="dde2c-229">PowerPoint</span></span>
 
-- <span data-ttu-id="3f2b2-216">**M365 の管理者に機密度ラベルに関する監査データを送信する** : ユーザーがドキュメントやメールに機密度ラベルを適用、変更、または削除したときに、Office は M365 監査バックエンドに監査データを送信し管理者の目に入れるようにします。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-216">**Send audit data about sensitivity labeling to M365 administrators:** When users apply, change, or remove sensitivity labels on their documents and emails, Office will send up audit data to the M365 audit backend for administrators to see.</span></span> <span data-ttu-id="3f2b2-217">これは、管理者のためのサイレント機能 (UI なし) です。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-217">This is a silent functionality (no UI) for administrator benefit.</span></span>
+- <span data-ttu-id="dde2c-230">**M365 の管理者に機密度ラベルに関する監査データを送信する** : ユーザーがドキュメントやメールに機密度ラベルを適用、変更、または削除したときに、Office は M365 監査バックエンドに監査データを送信し管理者の目に入れるようにします。</span><span class="sxs-lookup"><span data-stu-id="dde2c-230">**Send audit data about sensitivity labeling to M365 administrators:** When users apply, change, or remove sensitivity labels on their documents and emails, Office will send up audit data to the M365 audit backend for administrators to see.</span></span> <span data-ttu-id="dde2c-231">これは、管理者のためのサイレント機能 (UI なし) です。</span><span class="sxs-lookup"><span data-stu-id="dde2c-231">This is a silent functionality (no UI) for administrator benefit.</span></span>
 
-- <span data-ttu-id="3f2b2-218">**政府機関のお客様: ドキュメントおよびメールに秘密度ラベルを適用する:** GCC および GCC-H 環境のお客様は、秘密度のラベル付け機能を利用できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-218">**Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the GCC and GCC-H environments.</span></span> [<span data-ttu-id="3f2b2-219">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-219">Learn more</span></span>](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- <span data-ttu-id="dde2c-232">**政府機関のお客様: ドキュメントおよびメールに秘密度ラベルを適用する:** GCC および GCC-H 環境のお客様は、秘密度のラベル付け機能を利用できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-232">**Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the GCC and GCC-H environments.</span></span> [<span data-ttu-id="dde2c-233">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-233">Learn more</span></span>](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
-### <a name="word"></a><span data-ttu-id="3f2b2-220">Word</span><span class="sxs-lookup"><span data-stu-id="3f2b2-220">Word</span></span>
+### <a name="word"></a><span data-ttu-id="dde2c-234">Word</span><span class="sxs-lookup"><span data-stu-id="dde2c-234">Word</span></span>
 
-- <span data-ttu-id="3f2b2-221">**M365 の管理者に機密度ラベルに関する監査データを送信する** : ユーザーがドキュメントやメールに機密度ラベルを適用、変更、または削除したときに、Office は M365 監査バックエンドに監査データを送信し管理者の目に入れるようにします。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-221">**Send audit data about sensitivity labeling to M365 administrators:** When users apply, change, or remove sensitivity labels on their documents and emails, Office will send up audit data to the M365 audit backend for administrators to see.</span></span> <span data-ttu-id="3f2b2-222">これは、管理者のためのサイレント機能 (UI なし) です。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-222">This is a silent functionality (no UI) for administrator benefit.</span></span>
+- <span data-ttu-id="dde2c-235">**M365 の管理者に機密度ラベルに関する監査データを送信する** : ユーザーがドキュメントやメールに機密度ラベルを適用、変更、または削除したときに、Office は M365 監査バックエンドに監査データを送信し管理者の目に入れるようにします。</span><span class="sxs-lookup"><span data-stu-id="dde2c-235">**Send audit data about sensitivity labeling to M365 administrators:** When users apply, change, or remove sensitivity labels on their documents and emails, Office will send up audit data to the M365 audit backend for administrators to see.</span></span> <span data-ttu-id="dde2c-236">これは、管理者のためのサイレント機能 (UI なし) です。</span><span class="sxs-lookup"><span data-stu-id="dde2c-236">This is a silent functionality (no UI) for administrator benefit.</span></span>
 
-- <span data-ttu-id="3f2b2-223">**政府機関のお客様: ドキュメントおよびメールに秘密度ラベルを適用する:** GCC および GCC-H 環境のお客様は、秘密度のラベル付け機能を利用できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-223">**Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the GCC and GCC-H environments.</span></span> [<span data-ttu-id="3f2b2-224">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-224">Learn more</span></span>](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- <span data-ttu-id="dde2c-237">**政府機関のお客様: ドキュメントおよびメールに秘密度ラベルを適用する:** GCC および GCC-H 環境のお客様は、秘密度のラベル付け機能を利用できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-237">**Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the GCC and GCC-H environments.</span></span> [<span data-ttu-id="dde2c-238">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-238">Learn more</span></span>](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -226,94 +259,94 @@ ms.locfileid: "50455773"
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-227">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-227">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="3f2b2-228">Excel</span><span class="sxs-lookup"><span data-stu-id="3f2b2-228">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-241">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-241">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="dde2c-242">Excel</span><span class="sxs-lookup"><span data-stu-id="dde2c-242">Excel</span></span>
 
-- <span data-ttu-id="3f2b2-229">特定の Windows セキュリティのエクスプロイト保護設定 (SimExec、CallerCheck) を使用している場合に、Excel の起動に失敗したり、予期せず終了したりしてしまう問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-229">Fixes an issue where Excel would fail to launch or close unexpectedly if certain Windows Security exploit protection settings (SimExec, CallerCheck) are in use</span></span>
-
-
-- <span data-ttu-id="3f2b2-230">一部の従来の Excel 4.0 および Excel 5.0 マクロ、および dialogsheets.show への一部の VBA 呼び出しが破損する問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-230">We fixed an issue that broke some legacy Excel 4.0 and Excel5.0 macros as well as some VBA calls to dialogsheets.show.</span></span>
+- <span data-ttu-id="dde2c-243">特定の Windows セキュリティのエクスプロイト保護設定 (SimExec、CallerCheck) を使用している場合に、Excel の起動に失敗したり、予期せず終了したりしてしまう問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-243">Fixes an issue where Excel would fail to launch or close unexpectedly if certain Windows Security exploit protection settings (SimExec, CallerCheck) are in use</span></span>
 
 
-### <a name="outlook"></a><span data-ttu-id="3f2b2-231">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-231">Outlook</span></span>
-
-- <span data-ttu-id="3f2b2-232">特定の検索シナリオで Outlook が予期せず終了するという一部のユーザーの問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-232">We fixed an issue that caused some users to experience Outlook to close unexpectedly in certain search scenarios.</span></span>
+- <span data-ttu-id="dde2c-244">一部の従来の Excel 4.0 および Excel 5.0 マクロ、および dialogsheets.show への一部の VBA 呼び出しが破損する問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-244">We fixed an issue that broke some legacy Excel 4.0 and Excel5.0 macros as well as some VBA calls to dialogsheets.show.</span></span>
 
 
-- <span data-ttu-id="3f2b2-233">プロファイルに大きな階層がある共有メールボックスまたは代理メールボックスを持つユーザーがハングする原因となる問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-233">We fixed an issue that caused users that have Shared or Delegated Mailboxes with large hierarchies in their profile to encounter hangs.</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-245">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-245">Outlook</span></span>
+
+- <span data-ttu-id="dde2c-246">特定の検索シナリオで Outlook が予期せず終了するという一部のユーザーの問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-246">We fixed an issue that caused some users to experience Outlook to close unexpectedly in certain search scenarios.</span></span>
 
 
-### <a name="project"></a><span data-ttu-id="3f2b2-234">Project</span><span class="sxs-lookup"><span data-stu-id="3f2b2-234">Project</span></span>
-
-- <span data-ttu-id="3f2b2-235">チーム プランナー ビューのタスクに枠が表示されない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-235">Fixed an issue where borders weren't showing up for tasks in the Team Planner view.</span></span>
+- <span data-ttu-id="dde2c-247">プロファイルに大きな階層がある共有メールボックスまたは代理メールボックスを持つユーザーがハングする原因となる問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-247">We fixed an issue that caused users that have Shared or Delegated Mailboxes with large hierarchies in their profile to encounter hangs.</span></span>
 
 
-- <span data-ttu-id="3f2b2-236">チーム プランナー ビューのタスクでドラッグ アンド ドロップが機能しない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-236">Fixed an issue where you drag and drop wasn't working for tasks in the Team Planner view.</span></span>
+### <a name="project"></a><span data-ttu-id="dde2c-248">Project</span><span class="sxs-lookup"><span data-stu-id="dde2c-248">Project</span></span>
+
+- <span data-ttu-id="dde2c-249">チーム プランナー ビューのタスクに枠が表示されない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-249">Fixed an issue where borders weren't showing up for tasks in the Team Planner view.</span></span>
 
 
-- <span data-ttu-id="3f2b2-237">コスト型リソースがマイルストーン タスクに割り当てられたとき、基準コストが正しくロールアップされないという問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-237">Fixed an issue where when a cost resource was assigned to a milestone task, baseline cost didn't rollup correctly.</span></span>
+- <span data-ttu-id="dde2c-250">チーム プランナー ビューのタスクでドラッグ アンド ドロップが機能しない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-250">Fixed an issue where you drag and drop wasn't working for tasks in the Team Planner view.</span></span>
+
+
+- <span data-ttu-id="dde2c-251">コスト型リソースがマイルストーン タスクに割り当てられたとき、基準コストが正しくロールアップされないという問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-251">Fixed an issue where when a cost resource was assigned to a milestone task, baseline cost didn't rollup correctly.</span></span>
 
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2012-january-21"></a><span data-ttu-id="3f2b2-239">バージョン 2012: 1 月 21 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-239">Version 2012: January 21</span></span>
-<span data-ttu-id="3f2b2-240">*バージョン 2012 (ビルド 13530.20440)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-240">*Version 2012 (Build 13530.20440)*</span></span>
+## <a name="version-2012-january-21"></a><span data-ttu-id="dde2c-253">バージョン 2012: 1 月 21 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-253">Version 2012: January 21</span></span>
+<span data-ttu-id="dde2c-254">*バージョン 2012 (ビルド 13530.20440)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-254">*Version 2012 (Build 13530.20440)*</span></span>
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-242">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-242">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="3f2b2-243">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-243">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-256">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-256">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-257">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-257">Outlook</span></span>
 
-- <span data-ttu-id="3f2b2-244">プロファイルに大きな階層がある共有メールボックスまたは代理メールボックスを持つユーザーがハングする原因となる問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-244">We fixed an issue that caused users that have Shared or Delegated Mailboxes with large hierarchies in their profile to encounter hangs.</span></span>
-
-
-- <span data-ttu-id="3f2b2-245">特定の検索シナリオで Outlook が予期せず終了するという一部のユーザーに発生した問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-245">We fixed an issue that caused some users to experience Outlook closing unexpectedly in certain search scenarios.</span></span>
+- <span data-ttu-id="dde2c-258">プロファイルに大きな階層がある共有メールボックスまたは代理メールボックスを持つユーザーがハングする原因となる問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-258">We fixed an issue that caused users that have Shared or Delegated Mailboxes with large hierarchies in their profile to encounter hangs.</span></span>
 
 
-### <a name="office-suite"></a><span data-ttu-id="3f2b2-246">Office スイート</span><span class="sxs-lookup"><span data-stu-id="3f2b2-246">Office Suite</span></span>
+- <span data-ttu-id="dde2c-259">特定の検索シナリオで Outlook が予期せず終了するという一部のユーザーに発生した問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-259">We fixed an issue that caused some users to experience Outlook closing unexpectedly in certain search scenarios.</span></span>
 
-- <span data-ttu-id="3f2b2-247">すべての相互依存のコンポーネントを正常に閉じる、ファイルの閉じ順序が修正されました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-247">Fixed the file closing sequence so that all the interdependent components are closed gracefully.</span></span>
+
+### <a name="office-suite"></a><span data-ttu-id="dde2c-260">Office スイート</span><span class="sxs-lookup"><span data-stu-id="dde2c-260">Office Suite</span></span>
+
+- <span data-ttu-id="dde2c-261">すべての相互依存のコンポーネントを正常に閉じる、ファイルの閉じ順序が修正されました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-261">Fixed the file closing sequence so that all the interdependent components are closed gracefully.</span></span>
 
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2012-january-12"></a><span data-ttu-id="3f2b2-249">バージョン 2012: 1 月 12 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-249">Version 2012: January 12</span></span>
-<span data-ttu-id="3f2b2-250">*バージョン 2012 (ビルド 13530.20376)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-250">*Version 2012 (Build 13530.20376)*</span></span>
+## <a name="version-2012-january-12"></a><span data-ttu-id="dde2c-263">バージョン 2012: 1 月 12 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-263">Version 2012: January 12</span></span>
+<span data-ttu-id="dde2c-264">*バージョン 2012 (ビルド 13530.20376)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-264">*Version 2012 (Build 13530.20376)*</span></span>
 
-<span data-ttu-id="3f2b2-251">セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="3f2b2-251">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
+<span data-ttu-id="dde2c-265">セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="dde2c-265">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-253">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-253">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="3f2b2-254">Excel</span><span class="sxs-lookup"><span data-stu-id="3f2b2-254">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-267">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-267">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="dde2c-268">Excel</span><span class="sxs-lookup"><span data-stu-id="dde2c-268">Excel</span></span>
 
-- <span data-ttu-id="3f2b2-255">特定の Windows セキュリティのエクスプロイト保護設定 (SimExec、CallerCheck) を使用している場合に、Excel の起動に失敗したり、予期せず終了したりしてしまう問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-255">Fixes an issue where Excel would fail to launch or close unexpectedly if certain Windows Security exploit protection settings (SimExec, CallerCheck) are in use.</span></span>
+- <span data-ttu-id="dde2c-269">特定の Windows セキュリティのエクスプロイト保護設定 (SimExec、CallerCheck) を使用している場合に、Excel の起動に失敗したり、予期せず終了したりしてしまう問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-269">Fixes an issue where Excel would fail to launch or close unexpectedly if certain Windows Security exploit protection settings (SimExec, CallerCheck) are in use.</span></span>
 
 
-### <a name="outlook"></a><span data-ttu-id="3f2b2-256">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-256">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-270">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-270">Outlook</span></span>
 
-- <span data-ttu-id="3f2b2-257">ユーザーに保存を求めた後、編集した署名が保存できない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-257">We fixed an issue that caused an edited signature to fail to save after prompting the user to do so.</span></span>
+- <span data-ttu-id="dde2c-271">ユーザーに保存を求めた後、編集した署名が保存できない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-271">We fixed an issue that caused an edited signature to fail to save after prompting the user to do so.</span></span>
 
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2012-january-05"></a><span data-ttu-id="3f2b2-259">バージョン 2012: 1 月 5 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-259">Version 2012: January 05</span></span>
-<span data-ttu-id="3f2b2-260">*バージョン 2012 (ビルド 13530.20316)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-260">*Version 2012 (Build 13530.20316)*</span></span>
+## <a name="version-2012-january-05"></a><span data-ttu-id="dde2c-273">バージョン 2012: 1 月 5 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-273">Version 2012: January 05</span></span>
+<span data-ttu-id="dde2c-274">*バージョン 2012 (ビルド 13530.20316)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-274">*Version 2012 (Build 13530.20316)*</span></span>
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="feature-updates"></a><span data-ttu-id="3f2b2-262">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="3f2b2-262">Feature updates</span></span>
-### <a name="outlook"></a><span data-ttu-id="3f2b2-263">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-263">Outlook</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="dde2c-276">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="dde2c-276">Feature updates</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-277">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-277">Outlook</span></span>
 
-- <span data-ttu-id="3f2b2-264">**クラウドでの Outlook の設定** [自動応答]、[優先受信トレイ]、[プライバシー] などの Outlook for Windows の設定を選択し、任意の PC でアクセスできるようにします。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-264">**Your Outlook settings in the cloud:** Choose your Outlook for Windows settings like Automatic Replies, Focused Inbox, and Privacy, and get to them on any PC.</span></span>
+- <span data-ttu-id="dde2c-278">**クラウドでの Outlook の設定** [自動応答]、[優先受信トレイ]、[プライバシー] などの Outlook for Windows の設定を選択し、任意の PC でアクセスできるようにします。</span><span class="sxs-lookup"><span data-stu-id="dde2c-278">**Your Outlook settings in the cloud:** Choose your Outlook for Windows settings like Automatic Replies, Focused Inbox, and Privacy, and get to them on any PC.</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="3f2b2-265">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="3f2b2-265">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="dde2c-279">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="dde2c-279">PowerPoint</span></span>
 
-- <span data-ttu-id="3f2b2-266">**プレゼンター コーチでプレゼンテーションのリハーサルを行う:** 話す速度、ピッチ、つなぎ語、機微な表現など、聴衆の関心を引きつけておくのに役立つ内容についてフィードバックを受けます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-266">**Rehearse your presentation with Presenter Coach:** Get feedback on the things that help keep an audience engaged — like pacing, pitch, filler words, sensitive phrases, and more.</span></span> [<span data-ttu-id="3f2b2-267">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-267">Learn more</span></span>](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
+- <span data-ttu-id="dde2c-280">**プレゼンター コーチでプレゼンテーションのリハーサルを行う:** 話す速度、ピッチ、つなぎ語、機微な表現など、聴衆の関心を引きつけておくのに役立つ内容についてフィードバックを受けます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-280">**Rehearse your presentation with Presenter Coach:** Get feedback on the things that help keep an audience engaged — like pacing, pitch, filler words, sensitive phrases, and more.</span></span> [<span data-ttu-id="dde2c-281">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-281">Learn more</span></span>](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -322,198 +355,198 @@ ms.locfileid: "50455773"
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-270">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-270">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="3f2b2-271">Excel</span><span class="sxs-lookup"><span data-stu-id="3f2b2-271">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-284">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-284">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="dde2c-285">Excel</span><span class="sxs-lookup"><span data-stu-id="dde2c-285">Excel</span></span>
 
-- <span data-ttu-id="3f2b2-272">ピボットテーブルの [計算の種類] メニューを使用すると、Excel が予期せず終了する問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-272">Fixed an issue where Excel might close unexpectedly when using the "Show Values As" menu for a PivotTable.</span></span>
-
-
-- <span data-ttu-id="3f2b2-273">Excel 4.0 マクロを含む Excel アドイン ファイルを開いたときにプロンプトが表示されずにマクロが無効のままになる問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-273">Fixed an issue where Excel may leave macros disabled without prompting when opening an Excel Add-in file containing Excel 4.0 Macros.</span></span>
+- <span data-ttu-id="dde2c-286">ピボットテーブルの [計算の種類] メニューを使用すると、Excel が予期せず終了する問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-286">Fixed an issue where Excel might close unexpectedly when using the "Show Values As" menu for a PivotTable.</span></span>
 
 
-- <span data-ttu-id="3f2b2-274">共同編集時に、一部のユーザーに対して、新しいバージョンのファイルを通知するメッセージ バーが誤って表示される問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-274">Fixed an issue where some users would incorrectly see a message bar informing them of a new version of a file when coauthoring.</span></span>
+- <span data-ttu-id="dde2c-287">Excel 4.0 マクロを含む Excel アドイン ファイルを開いたときにプロンプトが表示されずにマクロが無効のままになる問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-287">Fixed an issue where Excel may leave macros disabled without prompting when opening an Excel Add-in file containing Excel 4.0 Macros.</span></span>
 
 
-- <span data-ttu-id="3f2b2-275">この変更により、数式内にフォントが正しく表示されない問題に対処できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-275">This change addresses an issue with properly displaying fonts within equations.</span></span>
+- <span data-ttu-id="dde2c-288">共同編集時に、一部のユーザーに対して、新しいバージョンのファイルを通知するメッセージ バーが誤って表示される問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-288">Fixed an issue where some users would incorrectly see a message bar informing them of a new version of a file when coauthoring.</span></span>
 
 
-### <a name="outlook"></a><span data-ttu-id="3f2b2-276">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-276">Outlook</span></span>
-
-- <span data-ttu-id="3f2b2-277">一部のお客様の環境で、予定表の読み込み中にハングアップする原因となった問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-277">We fixed an issue that caused some customers to encounter a hang while loading their calendars.</span></span>
+- <span data-ttu-id="dde2c-289">この変更により、数式内にフォントが正しく表示されない問題に対処できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-289">This change addresses an issue with properly displaying fonts within equations.</span></span>
 
 
-### <a name="powerpoint"></a><span data-ttu-id="3f2b2-278">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="3f2b2-278">PowerPoint</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-290">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-290">Outlook</span></span>
 
-- <span data-ttu-id="3f2b2-279">この変更により、特定のジオメトリで図形の結合操作を適用するときの軌跡の塗りつぶしに関する問題が解決されます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-279">This change addresses an issue with path fills when applying Merge Shapes operations with certain geometries.</span></span>
-
-
-- <span data-ttu-id="3f2b2-280">この変更により、数式内にフォントが正しく表示されないという問題が解決されます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-280">This change addresses an issue with properly displaying fonts within equations.</span></span>
+- <span data-ttu-id="dde2c-291">一部のお客様の環境で、予定表の読み込み中にハングアップする原因となった問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-291">We fixed an issue that caused some customers to encounter a hang while loading their calendars.</span></span>
 
 
-- <span data-ttu-id="3f2b2-281">QAT に追加された font size コマンドが、更新中に定義された最も近いフォントサイズに自動補完される問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-281">We have fixed an issue where font size command, added in QAT, auto completes to the nearest defined font size while updating it.</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="dde2c-292">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="dde2c-292">PowerPoint</span></span>
+
+- <span data-ttu-id="dde2c-293">この変更により、特定のジオメトリで図形の結合操作を適用するときの軌跡の塗りつぶしに関する問題が解決されます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-293">This change addresses an issue with path fills when applying Merge Shapes operations with certain geometries.</span></span>
 
 
-### <a name="office-suite"></a><span data-ttu-id="3f2b2-282">Office スイート</span><span class="sxs-lookup"><span data-stu-id="3f2b2-282">Office Suite</span></span>
-
-- <span data-ttu-id="3f2b2-283">最適化されたバイナリ サイズ。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-283">Optimized binary size.</span></span>
+- <span data-ttu-id="dde2c-294">この変更により、数式内にフォントが正しく表示されないという問題が解決されます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-294">This change addresses an issue with properly displaying fonts within equations.</span></span>
 
 
-- <span data-ttu-id="3f2b2-284">Anaheim WebView は、Windows 情報保護 (WIP) をまだサポートしていません。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-284">Anaheim WebView does not support Windows Information Protection (WIP) yet.</span></span> <span data-ttu-id="3f2b2-285">この修正プログラムを適用すると、Office addin プラットフォームが、WIP が有効な環境でダウンレベルの WebView に戻ります。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-285">With this fix Office addin platform falls back to down level WebView in WIP enabled environment.</span></span> <span data-ttu-id="3f2b2-286">お客様のコンピューター環境に応じて、Edge Spartan WebView または Trident WebView のいずれかになります。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-286">That can be either Edge Spartan WebView or Trident WebView depending on customer's machine environment.</span></span> <span data-ttu-id="3f2b2-287">ダウンレベル WebViews は、両方とも WIP をサポートしています。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-287">Both down level WebViews support WIP.</span></span>
+- <span data-ttu-id="dde2c-295">QAT に追加された font size コマンドが、更新中に定義された最も近いフォントサイズに自動補完される問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-295">We have fixed an issue where font size command, added in QAT, auto completes to the nearest defined font size while updating it.</span></span>
+
+
+### <a name="office-suite"></a><span data-ttu-id="dde2c-296">Office スイート</span><span class="sxs-lookup"><span data-stu-id="dde2c-296">Office Suite</span></span>
+
+- <span data-ttu-id="dde2c-297">最適化されたバイナリ サイズ。</span><span class="sxs-lookup"><span data-stu-id="dde2c-297">Optimized binary size.</span></span>
+
+
+- <span data-ttu-id="dde2c-298">Anaheim WebView は、Windows 情報保護 (WIP) をまだサポートしていません。</span><span class="sxs-lookup"><span data-stu-id="dde2c-298">Anaheim WebView does not support Windows Information Protection (WIP) yet.</span></span> <span data-ttu-id="dde2c-299">この修正プログラムを適用すると、Office addin プラットフォームが、WIP が有効な環境でダウンレベルの WebView に戻ります。</span><span class="sxs-lookup"><span data-stu-id="dde2c-299">With this fix Office addin platform falls back to down level WebView in WIP enabled environment.</span></span> <span data-ttu-id="dde2c-300">お客様のコンピューター環境に応じて、Edge Spartan WebView または Trident WebView のいずれかになります。</span><span class="sxs-lookup"><span data-stu-id="dde2c-300">That can be either Edge Spartan WebView or Trident WebView depending on customer's machine environment.</span></span> <span data-ttu-id="dde2c-301">ダウンレベル WebViews は、両方とも WIP をサポートしています。</span><span class="sxs-lookup"><span data-stu-id="dde2c-301">Both down level WebViews support WIP.</span></span>
 
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2011-december-21"></a><span data-ttu-id="3f2b2-289">バージョン 2011: 12 月 21 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-289">Version 2011: December 21</span></span>
-<span data-ttu-id="3f2b2-290">*バージョン 2011 (ビルド 13426.20404)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-290">*Version 2011 (Build 13426.20404)*</span></span>
+## <a name="version-2011-december-21"></a><span data-ttu-id="dde2c-303">バージョン 2011: 12 月 21 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-303">Version 2011: December 21</span></span>
+<span data-ttu-id="dde2c-304">*バージョン 2011 (ビルド 13426.20404)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-304">*Version 2011 (Build 13426.20404)*</span></span>
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-292">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-292">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="3f2b2-293">Excel</span><span class="sxs-lookup"><span data-stu-id="3f2b2-293">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-306">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-306">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="dde2c-307">Excel</span><span class="sxs-lookup"><span data-stu-id="dde2c-307">Excel</span></span>
 
-- <span data-ttu-id="3f2b2-294">Excel によってファイルの新しいバージョンが使用可能であることを示すメッセージバーが誤って表示され、ブックのコピーに変更内容を保存するか、変更内容を破棄するように強制する問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-294">Fixed an issue where Excel would incorrectly show a message bar that a new version of the file is available and force the user to save their changes in a copy of the workbook or discard their changes.</span></span>
-
-
-- <span data-ttu-id="3f2b2-295">Excel 4.0 マクロを含む Excel アドイン ファイルを開いたときにプロンプトが表示されずに Excel がマクロを無効のままにしてしまう問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-295">Fixed an issue where Excel may leave macros disabled without prompting when opening an Excel Add-in file containing Excel 4.0 Macros.</span></span>
+- <span data-ttu-id="dde2c-308">Excel によってファイルの新しいバージョンが使用可能であることを示すメッセージバーが誤って表示され、ブックのコピーに変更内容を保存するか、変更内容を破棄するように強制する問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-308">Fixed an issue where Excel would incorrectly show a message bar that a new version of the file is available and force the user to save their changes in a copy of the workbook or discard their changes.</span></span>
 
 
-### <a name="office-suite"></a><span data-ttu-id="3f2b2-296">Office スイート</span><span class="sxs-lookup"><span data-stu-id="3f2b2-296">Office Suite</span></span>
+- <span data-ttu-id="dde2c-309">Excel 4.0 マクロを含む Excel アドイン ファイルを開いたときにプロンプトが表示されずに Excel がマクロを無効のままにしてしまう問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-309">Fixed an issue where Excel may leave macros disabled without prompting when opening an Excel Add-in file containing Excel 4.0 Macros.</span></span>
 
-- <span data-ttu-id="3f2b2-297">キャッシュからの URL と OneDrive からの URL が一致しない場合に、ファイルが NOT SyncBacked として開かれる問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-297">Fixed an issue of file would be opened as NOT SyncBacked when url from cache and url from OneDrive does NOT match.</span></span>
+
+### <a name="office-suite"></a><span data-ttu-id="dde2c-310">Office スイート</span><span class="sxs-lookup"><span data-stu-id="dde2c-310">Office Suite</span></span>
+
+- <span data-ttu-id="dde2c-311">キャッシュからの URL と OneDrive からの URL が一致しない場合に、ファイルが NOT SyncBacked として開かれる問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-311">Fixed an issue of file would be opened as NOT SyncBacked when url from cache and url from OneDrive does NOT match.</span></span>
 
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2011-december-08"></a><span data-ttu-id="3f2b2-299">バージョン 2011: 12 月 08 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-299">Version 2011: December 08</span></span>
-<span data-ttu-id="3f2b2-300">*バージョン 2011 (ビルド 13426.20332)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-300">*Version 2011 (Build 13426.20332)*</span></span>
+## <a name="version-2011-december-08"></a><span data-ttu-id="dde2c-313">バージョン 2011: 12 月 08 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-313">Version 2011: December 08</span></span>
+<span data-ttu-id="dde2c-314">*バージョン 2011 (ビルド 13426.20332)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-314">*Version 2011 (Build 13426.20332)*</span></span>
 
-<span data-ttu-id="3f2b2-301">セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="3f2b2-301">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
+<span data-ttu-id="dde2c-315">セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="dde2c-315">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-303">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-303">Resolved issues</span></span>
-### <a name="office-suite"></a><span data-ttu-id="3f2b2-304">Office スイート</span><span class="sxs-lookup"><span data-stu-id="3f2b2-304">Office Suite</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-317">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-317">Resolved issues</span></span>
+### <a name="office-suite"></a><span data-ttu-id="dde2c-318">Office スイート</span><span class="sxs-lookup"><span data-stu-id="dde2c-318">Office Suite</span></span>
 
-- <span data-ttu-id="3f2b2-305">SaveRequestManagerCam が原因で、エラーが返される代わりにアプリケーションが閉じられる問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-305">We fixed an issue where SaveRequestManagerCam was causing the application to close instead of returning an error.</span></span> 
+- <span data-ttu-id="dde2c-319">SaveRequestManagerCam が原因で、エラーが返される代わりにアプリケーションが閉じられる問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-319">We fixed an issue where SaveRequestManagerCam was causing the application to close instead of returning an error.</span></span> 
 
 
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2011-december-02"></a><span data-ttu-id="3f2b2-307">バージョン 2011: 12 月 2 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-307">Version 2011: December 02</span></span>
-<span data-ttu-id="3f2b2-308">*バージョン 2011 (ビルド 13426.20308)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-308">*Version 2011 (Build 13426.20308)*</span></span>
+## <a name="version-2011-december-02"></a><span data-ttu-id="dde2c-321">バージョン 2011: 12 月 2 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-321">Version 2011: December 02</span></span>
+<span data-ttu-id="dde2c-322">*バージョン 2011 (ビルド 13426.20308)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-322">*Version 2011 (Build 13426.20308)*</span></span>
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-310">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-310">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="3f2b2-311">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-311">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-324">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-324">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-325">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-325">Outlook</span></span>
 
-- <span data-ttu-id="3f2b2-312">他の出席者が会議を転送すると、会議の元の出席者の一部がキャンセルを受信するという問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-312">We fixed an issue that caused the original attendees of some meetings to receive a cancellation when another attendee forwards the meeting.</span></span>
-
-
-- <span data-ttu-id="3f2b2-313">1 つ以上の署名が構成されているにもかかわらず、ユーザーの署名が署名ドロップダウンに表示されない問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-313">We fixed an issue that caused some users to see no signatures in the signatures drop down despite having one or more signatures configured.</span></span>
+- <span data-ttu-id="dde2c-326">他の出席者が会議を転送すると、会議の元の出席者の一部がキャンセルを受信するという問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-326">We fixed an issue that caused the original attendees of some meetings to receive a cancellation when another attendee forwards the meeting.</span></span>
 
 
-### <a name="project"></a><span data-ttu-id="3f2b2-314">Project</span><span class="sxs-lookup"><span data-stu-id="3f2b2-314">Project</span></span>
-
-- <span data-ttu-id="3f2b2-315">ロードの特定の部分でプロジェクト ファイルに問題がある場合に、特定のプロジェクトを開くことができるという問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-315">Fixed an issue where specific projects could be opened if there was an issue with the project file in a specific part of load.</span></span>
+- <span data-ttu-id="dde2c-327">1 つ以上の署名が構成されているにもかかわらず、ユーザーの署名が署名ドロップダウンに表示されない問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-327">We fixed an issue that caused some users to see no signatures in the signatures drop down despite having one or more signatures configured.</span></span>
 
 
-### <a name="office-suite"></a><span data-ttu-id="3f2b2-316">Office スイート</span><span class="sxs-lookup"><span data-stu-id="3f2b2-316">Office Suite</span></span>
+### <a name="project"></a><span data-ttu-id="dde2c-328">Project</span><span class="sxs-lookup"><span data-stu-id="dde2c-328">Project</span></span>
 
-- <span data-ttu-id="3f2b2-317">Office スイートでは、新しいバージョンの Office を特定の古いバージョンの Office の上からインストールすると、レジストリ エントリが存在していないために機能が低下する(Power Query を使用できないなど) という問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-317">Office Suite Fixed an issue where installing a newer version of Office over certain older versions can result in impaired functionality (such as being unable to use Power Query) due to missing registry entries.</span></span>
+- <span data-ttu-id="dde2c-329">ロードの特定の部分でプロジェクト ファイルに問題がある場合に、特定のプロジェクトを開くことができるという問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-329">Fixed an issue where specific projects could be opened if there was an issue with the project file in a specific part of load.</span></span>
+
+
+### <a name="office-suite"></a><span data-ttu-id="dde2c-330">Office スイート</span><span class="sxs-lookup"><span data-stu-id="dde2c-330">Office Suite</span></span>
+
+- <span data-ttu-id="dde2c-331">Office スイートでは、新しいバージョンの Office を特定の古いバージョンの Office の上からインストールすると、レジストリ エントリが存在していないために機能が低下する(Power Query を使用できないなど) という問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-331">Office Suite Fixed an issue where installing a newer version of Office over certain older versions can result in impaired functionality (such as being unable to use Power Query) due to missing registry entries.</span></span>
 
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2011-november-30"></a><span data-ttu-id="3f2b2-319">バージョン 2011: 11 月 30 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-319">Version 2011: November 30</span></span>
-<span data-ttu-id="3f2b2-320">*バージョン 2011 (ビルド 13426.20294)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-320">*Version 2011 (Build 13426.20294)*</span></span>
+## <a name="version-2011-november-30"></a><span data-ttu-id="dde2c-333">バージョン 2011: 11 月 30 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-333">Version 2011: November 30</span></span>
+<span data-ttu-id="dde2c-334">*バージョン 2011 (ビルド 13426.20294)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-334">*Version 2011 (Build 13426.20294)*</span></span>
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-322">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-322">Resolved issues</span></span>
-### <a name="powerpoint"></a><span data-ttu-id="3f2b2-323">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="3f2b2-323">PowerPoint</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-336">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-336">Resolved issues</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="dde2c-337">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="dde2c-337">PowerPoint</span></span>
 
-- <span data-ttu-id="3f2b2-324">Word から Powerpoint への数式のコピー/貼り付けに関する問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-324">Fixed an issue with copy/paste of an equation from Word to PowerPoint.</span></span>
-
-
-### <a name="word"></a><span data-ttu-id="3f2b2-325">Word</span><span class="sxs-lookup"><span data-stu-id="3f2b2-325">Word</span></span>
-
-- <span data-ttu-id="3f2b2-326">Word から Powerpoint への数式のコピー/貼り付けに関する問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-326">Fixed an issue with copy/paste of an equation from Word to PowerPoint.</span></span>
+- <span data-ttu-id="dde2c-338">Word から Powerpoint への数式のコピー/貼り付けに関する問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-338">Fixed an issue with copy/paste of an equation from Word to PowerPoint.</span></span>
 
 
-- <span data-ttu-id="3f2b2-327">文書のスタイルがテンプレートとは別のスタイルに置き換わる問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-327">We fixed an issue which document styles are replaced with other styles from the template.</span></span>
+### <a name="word"></a><span data-ttu-id="dde2c-339">Word</span><span class="sxs-lookup"><span data-stu-id="dde2c-339">Word</span></span>
+
+- <span data-ttu-id="dde2c-340">Word から Powerpoint への数式のコピー/貼り付けに関する問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-340">Fixed an issue with copy/paste of an equation from Word to PowerPoint.</span></span>
+
+
+- <span data-ttu-id="dde2c-341">文書のスタイルがテンプレートとは別のスタイルに置き換わる問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-341">We fixed an issue which document styles are replaced with other styles from the template.</span></span>
 
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2011-november-23"></a><span data-ttu-id="3f2b2-329">バージョン 2011: 11 月 23 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-329">Version 2011: November 23</span></span>
-<span data-ttu-id="3f2b2-330">*バージョン 2011 (ビルド 13426.20274)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-330">*Version 2011 (Build 13426.20274)*</span></span>
+## <a name="version-2011-november-23"></a><span data-ttu-id="dde2c-343">バージョン 2011: 11 月 23 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-343">Version 2011: November 23</span></span>
+<span data-ttu-id="dde2c-344">*バージョン 2011 (ビルド 13426.20274)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-344">*Version 2011 (Build 13426.20274)*</span></span>
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="feature-updates"></a><span data-ttu-id="3f2b2-332">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="3f2b2-332">Feature updates</span></span>
-### <a name="access"></a><span data-ttu-id="3f2b2-333">Access</span><span class="sxs-lookup"><span data-stu-id="3f2b2-333">Access</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="dde2c-346">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="dde2c-346">Feature updates</span></span>
+### <a name="access"></a><span data-ttu-id="dde2c-347">Access</span><span class="sxs-lookup"><span data-stu-id="dde2c-347">Access</span></span>
 
-- <span data-ttu-id="3f2b2-334">**Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-334">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="3f2b2-335">[ファイル] > [アカウント] の順に移動し、[Office テーマ] ドロップダウンで [システム設定を使用する] を選択します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-335">Go to File > Account and choose "Use system setting" under the Office Theme drop-down.</span></span> [<span data-ttu-id="3f2b2-336">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-336">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- <span data-ttu-id="dde2c-348">**Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-348">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="dde2c-349">[ファイル] > [アカウント] の順に移動し、[Office テーマ] ドロップダウンで [システム設定を使用する] を選択します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-349">Go to File > Account and choose "Use system setting" under the Office Theme drop-down.</span></span> [<span data-ttu-id="dde2c-350">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-350">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
-### <a name="excel"></a><span data-ttu-id="3f2b2-337">Excel</span><span class="sxs-lookup"><span data-stu-id="3f2b2-337">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="dde2c-351">Excel</span><span class="sxs-lookup"><span data-stu-id="dde2c-351">Excel</span></span>
 
-- <span data-ttu-id="3f2b2-338">**SVG クリップボードのサポート:** Office からサードパーティのアプリに SVG コンテンツを貼り付けることができるようになりました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-338">**SVG Clipboard Support:** You can now paste SVG content from Office into 3rd party apps.</span></span> [<span data-ttu-id="3f2b2-339">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-339">Learn more</span></span>](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- <span data-ttu-id="dde2c-352">**SVG クリップボードのサポート:** Office からサードパーティのアプリに SVG コンテンツを貼り付けることができるようになりました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-352">**SVG Clipboard Support:** You can now paste SVG content from Office into 3rd party apps.</span></span> [<span data-ttu-id="dde2c-353">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-353">Learn more</span></span>](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
-- <span data-ttu-id="3f2b2-340">**Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-340">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="3f2b2-341">[ファイル] > [アカウント] の順に移動し、[Office テーマ] ドロップダウンで [システム設定を使用する] を選択します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-341">Go to File > Account and choose "Use system setting" under the Office Theme drop-down.</span></span> [<span data-ttu-id="3f2b2-342">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-342">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- <span data-ttu-id="dde2c-354">**Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-354">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="dde2c-355">[ファイル] > [アカウント] の順に移動し、[Office テーマ] ドロップダウンで [システム設定を使用する] を選択します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-355">Go to File > Account and choose "Use system setting" under the Office Theme drop-down.</span></span> [<span data-ttu-id="dde2c-356">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-356">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
-- <span data-ttu-id="3f2b2-343">**ソース クエリを基に新しいシートに名前を付ける:** データが新しいシートに読み込まれると、シートはソース クエリの名前に基づいて名付けられます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-343">**Name the new sheet after the source query:** When the data is loaded into the new sheet, the sheet will be named based on the name of the source query.</span></span>
+- <span data-ttu-id="dde2c-357">**ソース クエリを基に新しいシートに名前を付ける:** データが新しいシートに読み込まれると、シートはソース クエリの名前に基づいて名付けられます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-357">**Name the new sheet after the source query:** When the data is loaded into the new sheet, the sheet will be named based on the name of the source query.</span></span>
 
-- <span data-ttu-id="3f2b2-344">**[詳細] ダイアログ ボックスを使用してデータ型を作成する:** [詳細] ダイアログ ボックスでは、作成するデータ型を組み合わせる列を手動で選択できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-344">**Use the Advanced Dialog to Create Data Types:** The Advanced Dialog allows you to manually select the columns which combine the Data Type you are creating.</span></span>
+- <span data-ttu-id="dde2c-358">**[詳細] ダイアログ ボックスを使用してデータ型を作成する:** [詳細] ダイアログ ボックスでは、作成するデータ型を組み合わせる列を手動で選択できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-358">**Use the Advanced Dialog to Create Data Types:** The Advanced Dialog allows you to manually select the columns which combine the Data Type you are creating.</span></span>
 
-### <a name="onenote"></a><span data-ttu-id="3f2b2-345">OneNote</span><span class="sxs-lookup"><span data-stu-id="3f2b2-345">OneNote</span></span>
+### <a name="onenote"></a><span data-ttu-id="dde2c-359">OneNote</span><span class="sxs-lookup"><span data-stu-id="dde2c-359">OneNote</span></span>
 
-- <span data-ttu-id="3f2b2-346">**Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-346">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="3f2b2-347">[ファイル] > [アカウント] の順に移動し、[Office テーマ] ドロップダウンで [システム設定を使用する] を選択します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-347">Go to File > Account and choose "Use system setting" under the Office Theme drop-down.</span></span> [<span data-ttu-id="3f2b2-348">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-348">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- <span data-ttu-id="dde2c-360">**Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-360">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="dde2c-361">[ファイル] > [アカウント] の順に移動し、[Office テーマ] ドロップダウンで [システム設定を使用する] を選択します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-361">Go to File > Account and choose "Use system setting" under the Office Theme drop-down.</span></span> [<span data-ttu-id="dde2c-362">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-362">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
-### <a name="outlook"></a><span data-ttu-id="3f2b2-349">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-349">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-363">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-363">Outlook</span></span>
 
-- <span data-ttu-id="3f2b2-350">**SVG クリップボードのサポート:** Office からサードパーティのアプリに SVG コンテンツを貼り付けることができるようになりました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-350">**SVG Clipboard Support:** You can now paste SVG content from Office into 3rd party apps.</span></span> [<span data-ttu-id="3f2b2-351">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-351">Learn more</span></span>](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- <span data-ttu-id="dde2c-364">**SVG クリップボードのサポート:** Office からサードパーティのアプリに SVG コンテンツを貼り付けることができるようになりました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-364">**SVG Clipboard Support:** You can now paste SVG content from Office into 3rd party apps.</span></span> [<span data-ttu-id="dde2c-365">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-365">Learn more</span></span>](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
-- <span data-ttu-id="3f2b2-352">**Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-352">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="3f2b2-353">[ファイル] > [Office アカウント] の順に移動し、[Office テーマ] ドロップダウンで [システム設定を使用する] を選択します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-353">Go to File > Office Account and choose "Use system setting" under the Office Theme drop-down.</span></span> [<span data-ttu-id="3f2b2-354">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-354">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- <span data-ttu-id="dde2c-366">**Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-366">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="dde2c-367">[ファイル] > [Office アカウント] の順に移動し、[Office テーマ] ドロップダウンで [システム設定を使用する] を選択します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-367">Go to File > Office Account and choose "Use system setting" under the Office Theme drop-down.</span></span> [<span data-ttu-id="dde2c-368">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-368">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
-- <span data-ttu-id="3f2b2-355">**タスクのユーザー エクスペリエンスの更新:** タスク アイテムの視覚的な更新。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-355">**User Experience Updates for Tasks:** A visual refresh of task items.</span></span>
+- <span data-ttu-id="dde2c-369">**タスクのユーザー エクスペリエンスの更新:** タスク アイテムの視覚的な更新。</span><span class="sxs-lookup"><span data-stu-id="dde2c-369">**User Experience Updates for Tasks:** A visual refresh of task items.</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="3f2b2-356">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="3f2b2-356">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="dde2c-370">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="dde2c-370">PowerPoint</span></span>
 
-- <span data-ttu-id="3f2b2-357">**SVG クリップボードのサポート:** Office からサードパーティのアプリに SVG コンテンツを貼り付けることができるようになりました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-357">**SVG Clipboard Support:** You can now paste SVG content from Office into 3rd party apps.</span></span> [<span data-ttu-id="3f2b2-358">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-358">Learn more</span></span>](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br /><span data-ttu-id="3f2b2-359">[ブログの投稿](https://insider.office.com/ja-JP/blog/svg-content-office-third-party-apps)の詳細情報をご覧ください</span><span class="sxs-lookup"><span data-stu-id="3f2b2-359">See details in [blog post](https://insider.office.com/ja-JP/blog/svg-content-office-third-party-apps)</span></span>
+- <span data-ttu-id="dde2c-371">**SVG クリップボードのサポート:** Office からサードパーティのアプリに SVG コンテンツを貼り付けることができるようになりました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-371">**SVG Clipboard Support:** You can now paste SVG content from Office into 3rd party apps.</span></span> [<span data-ttu-id="dde2c-372">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-372">Learn more</span></span>](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br /><span data-ttu-id="dde2c-373">[ブログの投稿](https://insider.office.com/ja-JP/blog/svg-content-office-third-party-apps)の詳細情報をご覧ください</span><span class="sxs-lookup"><span data-stu-id="dde2c-373">See details in [blog post](https://insider.office.com/ja-JP/blog/svg-content-office-third-party-apps)</span></span>
 
-- <span data-ttu-id="3f2b2-360">**透過背景の GIF を作成する**: アニメーション GIF にエクスポートする場合、新しいオプションを使用して背景を透明にすることができます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-360">**Create GIFs with Transparent Backgrounds:** When exporting to an Animated GIF, a new option will allow you to make the background transparent.</span></span><br /><span data-ttu-id="3f2b2-361">[ブログの投稿](https://insider.office.com/ja-JP/blog/export-animated-gifs-transparent-backgrounds)の詳細情報をご覧ください</span><span class="sxs-lookup"><span data-stu-id="3f2b2-361">See details in [blog post](https://insider.office.com/ja-JP/blog/export-animated-gifs-transparent-backgrounds)</span></span>
+- <span data-ttu-id="dde2c-374">**透過背景の GIF を作成する**: アニメーション GIF にエクスポートする場合、新しいオプションを使用して背景を透明にすることができます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-374">**Create GIFs with Transparent Backgrounds:** When exporting to an Animated GIF, a new option will allow you to make the background transparent.</span></span><br /><span data-ttu-id="dde2c-375">[ブログの投稿](https://insider.office.com/ja-JP/blog/export-animated-gifs-transparent-backgrounds)の詳細情報をご覧ください</span><span class="sxs-lookup"><span data-stu-id="dde2c-375">See details in [blog post](https://insider.office.com/ja-JP/blog/export-animated-gifs-transparent-backgrounds)</span></span>
 
-- <span data-ttu-id="3f2b2-362">**Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-362">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="3f2b2-363">[ファイル] > [アカウント] の順に移動し、[Office テーマ] ドロップダウンで [システム設定を使用する] を選択します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-363">Go to File > Account and choose "Use system setting" under the Office Theme drop-down.</span></span> [<span data-ttu-id="3f2b2-364">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-364">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- <span data-ttu-id="dde2c-376">**Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-376">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="dde2c-377">[ファイル] > [アカウント] の順に移動し、[Office テーマ] ドロップダウンで [システム設定を使用する] を選択します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-377">Go to File > Account and choose "Use system setting" under the Office Theme drop-down.</span></span> [<span data-ttu-id="dde2c-378">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-378">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
-- <span data-ttu-id="3f2b2-365">**アニメーション GIF を範囲内でエクスポートする**: アニメーション GIF にエクスポートするときにスライドの範囲を選択します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-365">**Export animated GIF in a range:** Select a range of slides when exporting to animated GIF.</span></span>
+- <span data-ttu-id="dde2c-379">**アニメーション GIF を範囲内でエクスポートする**: アニメーション GIF にエクスポートするときにスライドの範囲を選択します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-379">**Export animated GIF in a range:** Select a range of slides when exporting to animated GIF.</span></span>
 
-- <span data-ttu-id="3f2b2-366">**ビデオ ライブラリ:** アプリ内で利用可能な、質の良い無料のビデオ ライブラリを使用してドキュメントの質を高めます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-366">**Video Library:** Elevate your documents with a library of curated, royalty-free video footage available in-app</span></span>
+- <span data-ttu-id="dde2c-380">**ビデオ ライブラリ:** アプリ内で利用可能な、質の良い無料のビデオ ライブラリを使用してドキュメントの質を高めます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-380">**Video Library:** Elevate your documents with a library of curated, royalty-free video footage available in-app</span></span>
 
-### <a name="project"></a><span data-ttu-id="3f2b2-367">Project</span><span class="sxs-lookup"><span data-stu-id="3f2b2-367">Project</span></span>
+### <a name="project"></a><span data-ttu-id="dde2c-381">Project</span><span class="sxs-lookup"><span data-stu-id="dde2c-381">Project</span></span>
 
-- <span data-ttu-id="3f2b2-368">**Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-368">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="3f2b2-369">[ファイル] > [アカウント] の順に移動し、[Office テーマ] ドロップダウンで [システム設定を使用する] を選択します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-369">Go to File > Account and choose "Use system setting" under the Office Theme drop-down.</span></span> [<span data-ttu-id="3f2b2-370">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-370">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- <span data-ttu-id="dde2c-382">**Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-382">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="dde2c-383">[ファイル] > [アカウント] の順に移動し、[Office テーマ] ドロップダウンで [システム設定を使用する] を選択します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-383">Go to File > Account and choose "Use system setting" under the Office Theme drop-down.</span></span> [<span data-ttu-id="dde2c-384">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-384">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
-### <a name="publisher"></a><span data-ttu-id="3f2b2-371">発行者</span><span class="sxs-lookup"><span data-stu-id="3f2b2-371">Publisher</span></span>
+### <a name="publisher"></a><span data-ttu-id="dde2c-385">発行者</span><span class="sxs-lookup"><span data-stu-id="dde2c-385">Publisher</span></span>
 
-- <span data-ttu-id="3f2b2-372">**Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-372">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="3f2b2-373">[ファイル] > [アカウント] の順に移動し、[Office テーマ] ドロップダウンで [システム設定を使用する] を選択します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-373">Go to File > Account and choose "Use system setting" under the Office Theme drop-down.</span></span> [<span data-ttu-id="3f2b2-374">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-374">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- <span data-ttu-id="dde2c-386">**Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-386">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="dde2c-387">[ファイル] > [アカウント] の順に移動し、[Office テーマ] ドロップダウンで [システム設定を使用する] を選択します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-387">Go to File > Account and choose "Use system setting" under the Office Theme drop-down.</span></span> [<span data-ttu-id="dde2c-388">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-388">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
-### <a name="visio"></a><span data-ttu-id="3f2b2-375">Visio</span><span class="sxs-lookup"><span data-stu-id="3f2b2-375">Visio</span></span>
+### <a name="visio"></a><span data-ttu-id="dde2c-389">Visio</span><span class="sxs-lookup"><span data-stu-id="dde2c-389">Visio</span></span>
 
-- <span data-ttu-id="3f2b2-376">**Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-376">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="3f2b2-377">[ファイル] > [アカウント] の順に移動し、[Office テーマ] ドロップダウンで [システム設定を使用する] を選択します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-377">Go to File > Account and choose "Use system setting" under the Office Theme drop-down.</span></span> [<span data-ttu-id="3f2b2-378">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-378">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- <span data-ttu-id="dde2c-390">**Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-390">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="dde2c-391">[ファイル] > [アカウント] の順に移動し、[Office テーマ] ドロップダウンで [システム設定を使用する] を選択します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-391">Go to File > Account and choose "Use system setting" under the Office Theme drop-down.</span></span> [<span data-ttu-id="dde2c-392">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-392">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
-### <a name="word"></a><span data-ttu-id="3f2b2-379">Word</span><span class="sxs-lookup"><span data-stu-id="3f2b2-379">Word</span></span>
+### <a name="word"></a><span data-ttu-id="dde2c-393">Word</span><span class="sxs-lookup"><span data-stu-id="dde2c-393">Word</span></span>
 
-- <span data-ttu-id="3f2b2-380">**SVG クリップボードのサポート:** Office からサードパーティのアプリに SVG コンテンツを貼り付けることができるようになりました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-380">**SVG Clipboard Support:** You can now paste SVG content from Office into 3rd party apps.</span></span> [<span data-ttu-id="3f2b2-381">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-381">Learn more</span></span>](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- <span data-ttu-id="dde2c-394">**SVG クリップボードのサポート:** Office からサードパーティのアプリに SVG コンテンツを貼り付けることができるようになりました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-394">**SVG Clipboard Support:** You can now paste SVG content from Office into 3rd party apps.</span></span> [<span data-ttu-id="dde2c-395">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-395">Learn more</span></span>](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
-- <span data-ttu-id="3f2b2-382">**Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-382">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="3f2b2-383">[ファイル] > [アカウント] の順に移動し、[Office テーマ] ドロップダウンで [システム設定を使用する] を選択します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-383">Go to File > Account and choose "Use system setting" under the Office Theme drop-down.</span></span> [<span data-ttu-id="3f2b2-384">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-384">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- <span data-ttu-id="dde2c-396">**Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-396">**Switch Office themes automatically:** Office can automatically switch themes to match your Windows 10 theme settings.</span></span> <span data-ttu-id="dde2c-397">[ファイル] > [アカウント] の順に移動し、[Office テーマ] ドロップダウンで [システム設定を使用する] を選択します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-397">Go to File > Account and choose "Use system setting" under the Office Theme drop-down.</span></span> [<span data-ttu-id="dde2c-398">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-398">Learn more</span></span>](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -522,135 +555,135 @@ ms.locfileid: "50455773"
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-387">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-387">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="3f2b2-388">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-388">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-401">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-401">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-402">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-402">Outlook</span></span>
 
-- <span data-ttu-id="3f2b2-389">タスクの進捗レポートを送信するときに、[宛先] フィールドが空白になる問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-389">We fixed an issue that caused the To field to be blank when sending a status report on a task.</span></span>
-
-
-- <span data-ttu-id="3f2b2-390">MailItem.BeforeAttachmentAdd イベントの破損原因となった問題が修正されました。 </span><span class="sxs-lookup"><span data-stu-id="3f2b2-390">We fixed an issue that caused the MailItem.BeforeAttachmentAdd event to be broken.</span></span>
+- <span data-ttu-id="dde2c-403">タスクの進捗レポートを送信するときに、[宛先] フィールドが空白になる問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-403">We fixed an issue that caused the To field to be blank when sending a status report on a task.</span></span>
 
 
-- <span data-ttu-id="3f2b2-391">IDataObject 操作 (つまりクリップボードのドラッグやドロップ) で、ユーザーが添付ファイルに対して filetime の付加を無効にできるように、regkey を追加しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-391">We added a regkey that allows customers to disable filetime inclusion for attachments in IDataObject operations (i.e. drag drop, clipboard).</span></span>  <span data-ttu-id="3f2b2-392">HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments.</span><span class="sxs-lookup"><span data-stu-id="3f2b2-392">HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments.</span></span> <span data-ttu-id="3f2b2-393">REG_DWORD IncludeFileTimesInDataObject.</span><span class="sxs-lookup"><span data-stu-id="3f2b2-393">REG_DWORD IncludeFileTimesInDataObject.</span></span> <span data-ttu-id="3f2b2-394">0 = filetimes は除外されます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-394">0 = filetimes are excluded.</span></span> <span data-ttu-id="3f2b2-395">1 = (既定) filetimes が含まれます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-395">1 = (default) filetimes are included.</span></span>
+- <span data-ttu-id="dde2c-404">MailItem.BeforeAttachmentAdd イベントの破損原因となった問題が修正されました。 </span><span class="sxs-lookup"><span data-stu-id="dde2c-404">We fixed an issue that caused the MailItem.BeforeAttachmentAdd event to be broken.</span></span>
 
 
-- <span data-ttu-id="3f2b2-396">Azure Information Protection の保護ラベルを使用してメッセージに返信するときに、インライン画像が消えるという問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-396">We fixed an issue that caused inline images to disappear when replying to a message with a protection label from Azure Information Protection.</span></span>
+- <span data-ttu-id="dde2c-405">IDataObject 操作 (つまりクリップボードのドラッグやドロップ) で、ユーザーが添付ファイルに対して filetime の付加を無効にできるように、regkey を追加しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-405">We added a regkey that allows customers to disable filetime inclusion for attachments in IDataObject operations (i.e. drag drop, clipboard).</span></span>  <span data-ttu-id="dde2c-406">HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments.</span><span class="sxs-lookup"><span data-stu-id="dde2c-406">HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments.</span></span> <span data-ttu-id="dde2c-407">REG_DWORD IncludeFileTimesInDataObject.</span><span class="sxs-lookup"><span data-stu-id="dde2c-407">REG_DWORD IncludeFileTimesInDataObject.</span></span> <span data-ttu-id="dde2c-408">0 = filetimes は除外されます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-408">0 = filetimes are excluded.</span></span> <span data-ttu-id="dde2c-409">1 = (既定) filetimes が含まれます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-409">1 = (default) filetimes are included.</span></span>
 
 
-### <a name="powerpoint"></a><span data-ttu-id="3f2b2-397">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="3f2b2-397">PowerPoint</span></span>
-
-- <span data-ttu-id="3f2b2-398">Slide.Shapes.AddMediaObject2 が従来のビデオ形式 (.MPG-1、Mpeg-2) でクラッシュする VBA の問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-398">We have fixed a VBA issue where Slide.Shapes.AddMediaObject2 crashing with legacy video formats (MPG-1,Mpeg-2).</span></span>
+- <span data-ttu-id="dde2c-410">Azure Information Protection の保護ラベルを使用してメッセージに返信するときに、インライン画像が消えるという問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-410">We fixed an issue that caused inline images to disappear when replying to a message with a protection label from Azure Information Protection.</span></span>
 
 
-- <span data-ttu-id="3f2b2-399">新たに録音したオーディオを含むスライドを複製した後にファイルを保存するときにエラーが発生するという問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-399">We fixed an issue where there is an error when saving the file after duplicating a slide that contains a newly recorded audio.</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="dde2c-411">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="dde2c-411">PowerPoint</span></span>
+
+- <span data-ttu-id="dde2c-412">Slide.Shapes.AddMediaObject2 が従来のビデオ形式 (.MPG-1、Mpeg-2) でクラッシュする VBA の問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-412">We have fixed a VBA issue where Slide.Shapes.AddMediaObject2 crashing with legacy video formats (MPG-1,Mpeg-2).</span></span>
 
 
-- <span data-ttu-id="3f2b2-400">ドキュメントの修復操作の後であっても、一部の破損した PowerPoint ファイルを正常に開くことができないという問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-400">Fixed an issue where some corrupt PowerPoint files were not opening correctly, even after a document repair operation.</span></span>
+- <span data-ttu-id="dde2c-413">新たに録音したオーディオを含むスライドを複製した後にファイルを保存するときにエラーが発生するという問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-413">We fixed an issue where there is an error when saving the file after duplicating a slide that contains a newly recorded audio.</span></span>
 
 
-### <a name="word"></a><span data-ttu-id="3f2b2-401">Word</span><span class="sxs-lookup"><span data-stu-id="3f2b2-401">Word</span></span>
+- <span data-ttu-id="dde2c-414">ドキュメントの修復操作の後であっても、一部の破損した PowerPoint ファイルを正常に開くことができないという問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-414">Fixed an issue where some corrupt PowerPoint files were not opening correctly, even after a document repair operation.</span></span>
 
-- <span data-ttu-id="3f2b2-402">最適化されたゲートがWord に影響を与えるアサート バグが修正されました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-402">Fixed an assert bug exposed by optimized gates affecting Word.</span></span>
+
+### <a name="word"></a><span data-ttu-id="dde2c-415">Word</span><span class="sxs-lookup"><span data-stu-id="dde2c-415">Word</span></span>
+
+- <span data-ttu-id="dde2c-416">最適化されたゲートがWord に影響を与えるアサート バグが修正されました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-416">Fixed an assert bug exposed by optimized gates affecting Word.</span></span>
 
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2010-november-17"></a><span data-ttu-id="3f2b2-404">バージョン 2010: 11 月 17 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-404">Version 2010: November 17</span></span>
-<span data-ttu-id="3f2b2-405">*バージョン 2010 (ビルド 13328.20408)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-405">*Version 2010 (Build 13328.20408)*</span></span>
+## <a name="version-2010-november-17"></a><span data-ttu-id="dde2c-418">バージョン 2010: 11 月 17 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-418">Version 2010: November 17</span></span>
+<span data-ttu-id="dde2c-419">*バージョン 2010 (ビルド 13328.20408)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-419">*Version 2010 (Build 13328.20408)*</span></span>
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-407">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-407">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="3f2b2-408">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-408">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-421">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-421">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-422">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-422">Outlook</span></span>
 
-- <span data-ttu-id="3f2b2-409">MailItem.BeforeAttachmentAdd イベントの破損原因となった問題が修正されました。 </span><span class="sxs-lookup"><span data-stu-id="3f2b2-409">We fixed an issue that caused the MailItem.BeforeAttachmentAdd event to be broken.</span></span>
-
-
-- <span data-ttu-id="3f2b2-410">IDataObject 操作 (つまりクリップボードのドラッグやドロップ) で、ユーザーが添付ファイルに対して filetime の付加を無効にできるように、regkey を追加しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-410">We added a regkey that allows customers to disable filetime inclusion for attachments in IDataObject operations (i.e. drag drop, clipboard).</span></span>  <span data-ttu-id="3f2b2-411">HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments.</span><span class="sxs-lookup"><span data-stu-id="3f2b2-411">HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments.</span></span>  <span data-ttu-id="3f2b2-412">REG_DWORD IncludeFileTimesInDataObject.</span><span class="sxs-lookup"><span data-stu-id="3f2b2-412">REG_DWORD IncludeFileTimesInDataObject.</span></span>  <span data-ttu-id="3f2b2-413">0 = filetimes は除外されます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-413">0 = filetimes are excluded.</span></span>  <span data-ttu-id="3f2b2-414">1 = (既定) filetimes が含まれます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-414">1 = (default) filetimes are included.</span></span>
+- <span data-ttu-id="dde2c-423">MailItem.BeforeAttachmentAdd イベントの破損原因となった問題が修正されました。 </span><span class="sxs-lookup"><span data-stu-id="dde2c-423">We fixed an issue that caused the MailItem.BeforeAttachmentAdd event to be broken.</span></span>
 
 
-### <a name="powerpoint"></a><span data-ttu-id="3f2b2-415">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="3f2b2-415">PowerPoint</span></span>
-
-- <span data-ttu-id="3f2b2-416">マージ中に IRM 保護されたドキュメントを使用しているときに発生する問題を解決します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-416">Fix to address a an issue when using IRM/protected documents during a merge error.</span></span>
+- <span data-ttu-id="dde2c-424">IDataObject 操作 (つまりクリップボードのドラッグやドロップ) で、ユーザーが添付ファイルに対して filetime の付加を無効にできるように、regkey を追加しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-424">We added a regkey that allows customers to disable filetime inclusion for attachments in IDataObject operations (i.e. drag drop, clipboard).</span></span>  <span data-ttu-id="dde2c-425">HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments.</span><span class="sxs-lookup"><span data-stu-id="dde2c-425">HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments.</span></span>  <span data-ttu-id="dde2c-426">REG_DWORD IncludeFileTimesInDataObject.</span><span class="sxs-lookup"><span data-stu-id="dde2c-426">REG_DWORD IncludeFileTimesInDataObject.</span></span>  <span data-ttu-id="dde2c-427">0 = filetimes は除外されます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-427">0 = filetimes are excluded.</span></span>  <span data-ttu-id="dde2c-428">1 = (既定) filetimes が含まれます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-428">1 = (default) filetimes are included.</span></span>
 
 
-### <a name="visio"></a><span data-ttu-id="3f2b2-417">Visio</span><span class="sxs-lookup"><span data-stu-id="3f2b2-417">Visio</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="dde2c-429">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="dde2c-429">PowerPoint</span></span>
 
-- <span data-ttu-id="3f2b2-418">問題を解決したので、ユーザーが Visio for Office 365 のコネクタを使用して、ユーザー設定の Visio ステンシルと組み込みのテンプレートの両方で直線を作成できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-418">We fixed an issue where users will be able to create straight lines using connectors in Visio for Office 365 for both custom Visio stencils and in-built templates.</span></span>
+- <span data-ttu-id="dde2c-430">マージ中に IRM 保護されたドキュメントを使用しているときに発生する問題を解決します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-430">Fix to address a an issue when using IRM/protected documents during a merge error.</span></span>
 
 
-### <a name="office-suite"></a><span data-ttu-id="3f2b2-419">Office スイート</span><span class="sxs-lookup"><span data-stu-id="3f2b2-419">Office Suite</span></span>
+### <a name="visio"></a><span data-ttu-id="dde2c-431">Visio</span><span class="sxs-lookup"><span data-stu-id="dde2c-431">Visio</span></span>
 
-- <span data-ttu-id="3f2b2-420">特定のシナリオで、[名前を付けて保存] の実行に失敗する問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-420">Fixed an issue where trying to do a SaveAs would fail in certain scenarios.</span></span>
+- <span data-ttu-id="dde2c-432">問題を解決したので、ユーザーが Visio for Office 365 のコネクタを使用して、ユーザー設定の Visio ステンシルと組み込みのテンプレートの両方で直線を作成できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-432">We fixed an issue where users will be able to create straight lines using connectors in Visio for Office 365 for both custom Visio stencils and in-built templates.</span></span>
+
+
+### <a name="office-suite"></a><span data-ttu-id="dde2c-433">Office スイート</span><span class="sxs-lookup"><span data-stu-id="dde2c-433">Office Suite</span></span>
+
+- <span data-ttu-id="dde2c-434">特定のシナリオで、[名前を付けて保存] の実行に失敗する問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-434">Fixed an issue where trying to do a SaveAs would fail in certain scenarios.</span></span>
 
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2010-november-10"></a><span data-ttu-id="3f2b2-422">バージョン 2010: 11 月 10 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-422">Version 2010: November 10</span></span>
-<span data-ttu-id="3f2b2-423">*バージョン 2010 (ビルド 13328.20356)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-423">*Version 2010 (Build 13328.20356)*</span></span>
+## <a name="version-2010-november-10"></a><span data-ttu-id="dde2c-436">バージョン 2010: 11 月 10 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-436">Version 2010: November 10</span></span>
+<span data-ttu-id="dde2c-437">*バージョン 2010 (ビルド 13328.20356)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-437">*Version 2010 (Build 13328.20356)*</span></span>
 
-<span data-ttu-id="3f2b2-424">セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="3f2b2-424">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
+<span data-ttu-id="dde2c-438">セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="dde2c-438">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-426">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-426">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="3f2b2-427">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-427">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-440">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-440">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-441">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-441">Outlook</span></span>
 
-- <span data-ttu-id="3f2b2-428">ユーザーが代理人に編集者権限を付与できなくなる問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-428">We fixed an issue that caused users to be unable to grant Editor permission to their delegates.</span></span>
+- <span data-ttu-id="dde2c-442">ユーザーが代理人に編集者権限を付与できなくなる問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-442">We fixed an issue that caused users to be unable to grant Editor permission to their delegates.</span></span>
 
 
-### <a name="office-suite"></a><span data-ttu-id="3f2b2-429">Office スイート</span><span class="sxs-lookup"><span data-stu-id="3f2b2-429">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="dde2c-443">Office スイート</span><span class="sxs-lookup"><span data-stu-id="dde2c-443">Office Suite</span></span>
 
-- <span data-ttu-id="3f2b2-430">同期バックからサーバーのみに移行したファイルを保存しようとすると失敗する問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-430">We fixed an issue that was causing a failure when trying to save files that have transitioned from syncbacked to server-only.</span></span>
+- <span data-ttu-id="dde2c-444">同期バックからサーバーのみに移行したファイルを保存しようとすると失敗する問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-444">We fixed an issue that was causing a failure when trying to save files that have transitioned from syncbacked to server-only.</span></span>
 
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2010-october-27"></a><span data-ttu-id="3f2b2-432">バージョン 2010: 10 月 27 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-432">Version 2010: October 27</span></span>
-<span data-ttu-id="3f2b2-433">*バージョン 2010 (ビルド 13328.20292)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-433">*Version 2010 (Build 13328.20292)*</span></span>
+## <a name="version-2010-october-27"></a><span data-ttu-id="dde2c-446">バージョン 2010: 10 月 27 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-446">Version 2010: October 27</span></span>
+<span data-ttu-id="dde2c-447">*バージョン 2010 (ビルド 13328.20292)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-447">*Version 2010 (Build 13328.20292)*</span></span>
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="feature-updates"></a><span data-ttu-id="3f2b2-435">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="3f2b2-435">Feature updates</span></span>
-### <a name="access"></a><span data-ttu-id="3f2b2-436">Access</span><span class="sxs-lookup"><span data-stu-id="3f2b2-436">Access</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="dde2c-449">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="dde2c-449">Feature updates</span></span>
+### <a name="access"></a><span data-ttu-id="dde2c-450">Access</span><span class="sxs-lookup"><span data-stu-id="dde2c-450">Access</span></span>
 
-- <span data-ttu-id="3f2b2-437">**時代に追いつきましょう! 日付/時刻の拡張データ型では、より精度が高くなります。:** 改良されたデータ型をご紹介します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-437">**Keep up with the times! The Date/Time Extended data type has better precision.:** Introducing a new and improved data type.</span></span> <span data-ttu-id="3f2b2-438">SQL との構文の互換性を高め、日付と時刻を含むレコードの精度と詳細レベルを向上させるため、Access に DateTime2 データ型を実装しています。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-438">To enhance syntax compatibility with SQL, and to increase accuracy and level of detail in records that include dates and times, we’re implementing the DateTime2 data type into Access.</span></span> <span data-ttu-id="3f2b2-439">この追加の日付および時間のデータ型には、より大きい日付範囲 (0001-01-01 ～ 9999-12-31) が含まれます。これにより、指定された時間の精度 (秒単位ではなくナノ秒) で提供され、計算を実行できるようになります。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-439">This additional date & time data type will include a larger date range (0001-01-01 through 9999-12-31), with higher-specified time precision (nanoseconds, rather than seconds) that you will be able to provide and perform calculations on.</span></span> <span data-ttu-id="3f2b2-440">有効にするには、[新しいフィールド] > [日付と時間の拡張] を選択します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-440">To enable, select New field > Date & Time Extended.</span></span> [<span data-ttu-id="3f2b2-441">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-441">Learn more</span></span>](https://support.office.com/article/708c32da-a052-4cc2-9850-9851042e0024)
+- <span data-ttu-id="dde2c-451">**時代に追いつきましょう! 日付/時刻の拡張データ型では、より精度が高くなります。:** 改良されたデータ型をご紹介します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-451">**Keep up with the times! The Date/Time Extended data type has better precision.:** Introducing a new and improved data type.</span></span> <span data-ttu-id="dde2c-452">SQL との構文の互換性を高め、日付と時刻を含むレコードの精度と詳細レベルを向上させるため、Access に DateTime2 データ型を実装しています。</span><span class="sxs-lookup"><span data-stu-id="dde2c-452">To enhance syntax compatibility with SQL, and to increase accuracy and level of detail in records that include dates and times, we’re implementing the DateTime2 data type into Access.</span></span> <span data-ttu-id="dde2c-453">この追加の日付および時間のデータ型には、より大きい日付範囲 (0001-01-01 ～ 9999-12-31) が含まれます。これにより、指定された時間の精度 (秒単位ではなくナノ秒) で提供され、計算を実行できるようになります。</span><span class="sxs-lookup"><span data-stu-id="dde2c-453">This additional date & time data type will include a larger date range (0001-01-01 through 9999-12-31), with higher-specified time precision (nanoseconds, rather than seconds) that you will be able to provide and perform calculations on.</span></span> <span data-ttu-id="dde2c-454">有効にするには、[新しいフィールド] > [日付と時間の拡張] を選択します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-454">To enable, select New field > Date & Time Extended.</span></span> [<span data-ttu-id="dde2c-455">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-455">Learn more</span></span>](https://support.office.com/article/708c32da-a052-4cc2-9850-9851042e0024)
 
-### <a name="excel"></a><span data-ttu-id="3f2b2-442">Excel</span><span class="sxs-lookup"><span data-stu-id="3f2b2-442">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="dde2c-456">Excel</span><span class="sxs-lookup"><span data-stu-id="dde2c-456">Excel</span></span>
 
-- <span data-ttu-id="3f2b2-443">**Power Query を使用してデータ型を作成する:** Power Query を使用してあらゆるデータ ソースから豊富なデータ型を作成します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-443">**Create Data Types with Power Query:** Create rich data types with Power Query from any data source.</span></span> [<span data-ttu-id="3f2b2-444">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-444">Learn more</span></span>](https://support.office.com/article/a465a3b7-3d37-4eb1-a59c-bd3163315308)<br /><span data-ttu-id="3f2b2-445">[ブログの投稿](https://techcommunity.microsoft.com/t5/excel-blog/announcing-power-query-data-types/ba-p/1782903)の詳細情報をご覧ください</span><span class="sxs-lookup"><span data-stu-id="3f2b2-445">See details in [blog post](https://techcommunity.microsoft.com/t5/excel-blog/announcing-power-query-data-types/ba-p/1782903)</span></span>
+- <span data-ttu-id="dde2c-457">**Power Query を使用してデータ型を作成する:** Power Query を使用してあらゆるデータ ソースから豊富なデータ型を作成します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-457">**Create Data Types with Power Query:** Create rich data types with Power Query from any data source.</span></span> [<span data-ttu-id="dde2c-458">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-458">Learn more</span></span>](https://support.office.com/article/a465a3b7-3d37-4eb1-a59c-bd3163315308)<br /><span data-ttu-id="dde2c-459">[ブログの投稿](https://techcommunity.microsoft.com/t5/excel-blog/announcing-power-query-data-types/ba-p/1782903)の詳細情報をご覧ください</span><span class="sxs-lookup"><span data-stu-id="dde2c-459">See details in [blog post](https://techcommunity.microsoft.com/t5/excel-blog/announcing-power-query-data-types/ba-p/1782903)</span></span>
 
-- <span data-ttu-id="3f2b2-446">**Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-446">**Insert your iPhone photos directly into Office:** HEIC pictures from your phone now insert seamlessly into Office.</span></span> <span data-ttu-id="3f2b2-447">変換は必要ありません。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-447">No conversion required.</span></span><br /><span data-ttu-id="3f2b2-448">[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください</span><span class="sxs-lookup"><span data-stu-id="3f2b2-448">See details in [blog post](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)</span></span>
+- <span data-ttu-id="dde2c-460">**Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-460">**Insert your iPhone photos directly into Office:** HEIC pictures from your phone now insert seamlessly into Office.</span></span> <span data-ttu-id="dde2c-461">変換は必要ありません。</span><span class="sxs-lookup"><span data-stu-id="dde2c-461">No conversion required.</span></span><br /><span data-ttu-id="dde2c-462">[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください</span><span class="sxs-lookup"><span data-stu-id="dde2c-462">See details in [blog post](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)</span></span>
 
-- <span data-ttu-id="3f2b2-449">**アクション ペンを使用してすばやく編集する:** アクション ペンを使用すると、セルに直接手書きで書き込み、自動的に Excel データに変換されるインクでデータを書き留めることができます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-449">**Make quick edits using the action pen:** With the action pen, you can write by hand directly in the cells, jot down data with ink that gets automatically converted to Excel data.</span></span>
+- <span data-ttu-id="dde2c-463">**アクション ペンを使用してすばやく編集する:** アクション ペンを使用すると、セルに直接手書きで書き込み、自動的に Excel データに変換されるインクでデータを書き留めることができます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-463">**Make quick edits using the action pen:** With the action pen, you can write by hand directly in the cells, jot down data with ink that gets automatically converted to Excel data.</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="3f2b2-450">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-450">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-464">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-464">Outlook</span></span>
 
-- <span data-ttu-id="3f2b2-451">**Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-451">**Insert your iPhone photos directly into Office:** HEIC pictures from your phone now insert seamlessly into Office.</span></span> <span data-ttu-id="3f2b2-452">変換は必要ありません。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-452">No conversion required.</span></span><br /><span data-ttu-id="3f2b2-453">[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください</span><span class="sxs-lookup"><span data-stu-id="3f2b2-453">See details in [blog post](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)</span></span>
+- <span data-ttu-id="dde2c-465">**Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-465">**Insert your iPhone photos directly into Office:** HEIC pictures from your phone now insert seamlessly into Office.</span></span> <span data-ttu-id="dde2c-466">変換は必要ありません。</span><span class="sxs-lookup"><span data-stu-id="dde2c-466">No conversion required.</span></span><br /><span data-ttu-id="dde2c-467">[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください</span><span class="sxs-lookup"><span data-stu-id="dde2c-467">See details in [blog post](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)</span></span>
 
-- <span data-ttu-id="3f2b2-454">**文章校正による支援:** Outlook では、入力中に文章校正のエラーが表示されます。シングル クリックで候補を適用できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-454">**Grammar checking's got your back:** Outlook marks grammar errors as you type, so you can apply suggestions with a single click.</span></span> [<span data-ttu-id="3f2b2-455">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-455">Learn more</span></span>](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br /><span data-ttu-id="3f2b2-456">[ブログの投稿](https://insider.office.com/ja-JP/blog/grammar-and-style-suggestions-available-in-outlook)の詳細情報をご覧ください</span><span class="sxs-lookup"><span data-stu-id="3f2b2-456">See details in [blog post](https://insider.office.com/ja-JP/blog/grammar-and-style-suggestions-available-in-outlook)</span></span>
+- <span data-ttu-id="dde2c-468">**文章校正による支援:** Outlook では、入力中に文章校正のエラーが表示されます。シングル クリックで候補を適用できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-468">**Grammar checking's got your back:** Outlook marks grammar errors as you type, so you can apply suggestions with a single click.</span></span> [<span data-ttu-id="dde2c-469">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-469">Learn more</span></span>](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br /><span data-ttu-id="dde2c-470">[ブログの投稿](https://insider.office.com/ja-JP/blog/grammar-and-style-suggestions-available-in-outlook)の詳細情報をご覧ください</span><span class="sxs-lookup"><span data-stu-id="dde2c-470">See details in [blog post](https://insider.office.com/ja-JP/blog/grammar-and-style-suggestions-available-in-outlook)</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="3f2b2-457">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="3f2b2-457">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="dde2c-471">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="dde2c-471">PowerPoint</span></span>
 
-- <span data-ttu-id="3f2b2-458">**Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-458">**Insert your iPhone photos directly into Office:** HEIC pictures from your phone now insert seamlessly into Office.</span></span> <span data-ttu-id="3f2b2-459">変換は必要ありません。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-459">No conversion required.</span></span><br /><span data-ttu-id="3f2b2-460">[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください</span><span class="sxs-lookup"><span data-stu-id="3f2b2-460">See details in [blog post](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)</span></span>
+- <span data-ttu-id="dde2c-472">**Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-472">**Insert your iPhone photos directly into Office:** HEIC pictures from your phone now insert seamlessly into Office.</span></span> <span data-ttu-id="dde2c-473">変換は必要ありません。</span><span class="sxs-lookup"><span data-stu-id="dde2c-473">No conversion required.</span></span><br /><span data-ttu-id="dde2c-474">[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください</span><span class="sxs-lookup"><span data-stu-id="dde2c-474">See details in [blog post](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)</span></span>
 
-### <a name="teams"></a><span data-ttu-id="3f2b2-461">Teams</span><span class="sxs-lookup"><span data-stu-id="3f2b2-461">Teams</span></span>
+### <a name="teams"></a><span data-ttu-id="dde2c-475">Teams</span><span class="sxs-lookup"><span data-stu-id="dde2c-475">Teams</span></span>
 
-- <span data-ttu-id="3f2b2-462">**Microsoft Teams のテンプレート:** Teams のテンプレートを使用すると、ユーザーは新しいチームを作成するときにさまざまなカスタマイズ可能なテンプレートから選択できるため、すばやく開始できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-462">**Templates in Microsoft Teams:** With Templates in Teams, users can choose from a variety of customizable templates when creating a new team, helping them get started quickly.</span></span> <span data-ttu-id="3f2b2-463">IT 担当者は、組織の新しいカスタム テンプレートを作成して、チーム構造を標準化し、関連するアプリを表示し、ベスト プラクティスを拡張することもできます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-463">IT professionals can also create new custom templates for their organization, allowing them to standardize team structures, surface relevant apps, and scale best practices.</span></span>
+- <span data-ttu-id="dde2c-476">**Microsoft Teams のテンプレート:** Teams のテンプレートを使用すると、ユーザーは新しいチームを作成するときにさまざまなカスタマイズ可能なテンプレートから選択できるため、すばやく開始できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-476">**Templates in Microsoft Teams:** With Templates in Teams, users can choose from a variety of customizable templates when creating a new team, helping them get started quickly.</span></span> <span data-ttu-id="dde2c-477">IT 担当者は、組織の新しいカスタム テンプレートを作成して、チーム構造を標準化し、関連するアプリを表示し、ベスト プラクティスを拡張することもできます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-477">IT professionals can also create new custom templates for their organization, allowing them to standardize team structures, surface relevant apps, and scale best practices.</span></span>
 
-- <span data-ttu-id="3f2b2-464">**ピン留めされた投稿:** この機能を使用すると、ユーザーはチャネル内のメッセージをチャネル情報ペインに「ピン留め」して、チャネルのすべてのメンバーに表示させることができます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-464">**Pinned Posts:** This feature allows users to "pin" any message in a channel to the channel info pane for all members of the channel to see.</span></span> <span data-ttu-id="3f2b2-465">チャネルにアクセスできるメンバーは誰でも、ピン留めされたメッセージを見ることができます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-465">Any members who have access to the channel will be able to see pinned messages.</span></span> <span data-ttu-id="3f2b2-466">チャネルのすべてのメンバーは、(チャネルのモデレート設定でオフにされていない限り) 任意のメッセージをピン留めできます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-466">Any member of a channel will be able to pin any message (unless turned off via channel moderation settings).</span></span>
+- <span data-ttu-id="dde2c-478">**ピン留めされた投稿:** この機能を使用すると、ユーザーはチャネル内のメッセージをチャネル情報ペインに「ピン留め」して、チャネルのすべてのメンバーに表示させることができます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-478">**Pinned Posts:** This feature allows users to "pin" any message in a channel to the channel info pane for all members of the channel to see.</span></span> <span data-ttu-id="dde2c-479">チャネルにアクセスできるメンバーは誰でも、ピン留めされたメッセージを見ることができます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-479">Any members who have access to the channel will be able to see pinned messages.</span></span> <span data-ttu-id="dde2c-480">チャネルのすべてのメンバーは、(チャネルのモデレート設定でオフにされていない限り) 任意のメッセージをピン留めできます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-480">Any member of a channel will be able to pin any message (unless turned off via channel moderation settings).</span></span>
 
-- <span data-ttu-id="3f2b2-467">**アプリ カタログに送信:** この画面の左下に [アプリ カタログに送信] リンクが表示されます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-467">**Submit to app catalog:** You’ll see a Submit to app catalog link on the lower left of this screen.</span></span> <span data-ttu-id="3f2b2-468">App Studio と Visual Studio に加えて、承認のためにアプリを送信できるもう 1 つの場所です。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-468">In addition to App Studio and Visual Studio, it’s another place where you can submit apps for approval.</span></span>
+- <span data-ttu-id="dde2c-481">**アプリ カタログに送信:** この画面の左下に [アプリ カタログに送信] リンクが表示されます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-481">**Submit to app catalog:** You’ll see a Submit to app catalog link on the lower left of this screen.</span></span> <span data-ttu-id="dde2c-482">App Studio と Visual Studio に加えて、承認のためにアプリを送信できるもう 1 つの場所です。</span><span class="sxs-lookup"><span data-stu-id="dde2c-482">In addition to App Studio and Visual Studio, it’s another place where you can submit apps for approval.</span></span>
 
-- <span data-ttu-id="3f2b2-469">**InVision によるフリーハンドを使用して、ポップアウトされた会議エクスペリエンスでホワイトボードを作成する:** InVision によるフリーハンド アプリを使用して、ポップアウトされた会議エクスペリエンスでホワイトボードを作成できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-469">**Use Freehand by Invision to whiteboard in the popped out meeting experience:** You can now use the Freehand by Invision app to whiteboard in any meeting you take in the popped out meeting experience.</span></span> <span data-ttu-id="3f2b2-470">共有コンテンツ トレイからフリーハンド アプリを選択してインストールし、同僚とのホワイトボード セッションを開始することで、シームレスにブレーンストーミングを開始できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-470">Seamlessly start brainstorming by selecting the Freehand app from the share content tray and, installing it, and starting the whiteboarding session with your colleagues!</span></span>
+- <span data-ttu-id="dde2c-483">**InVision によるフリーハンドを使用して、ポップアウトされた会議エクスペリエンスでホワイトボードを作成する:** InVision によるフリーハンド アプリを使用して、ポップアウトされた会議エクスペリエンスでホワイトボードを作成できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-483">**Use Freehand by Invision to whiteboard in the popped out meeting experience:** You can now use the Freehand by Invision app to whiteboard in any meeting you take in the popped out meeting experience.</span></span> <span data-ttu-id="dde2c-484">共有コンテンツ トレイからフリーハンド アプリを選択してインストールし、同僚とのホワイトボード セッションを開始することで、シームレスにブレーンストーミングを開始できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-484">Seamlessly start brainstorming by selecting the Freehand app from the share content tray and, installing it, and starting the whiteboarding session with your colleagues!</span></span>
 
-### <a name="word"></a><span data-ttu-id="3f2b2-471">Word</span><span class="sxs-lookup"><span data-stu-id="3f2b2-471">Word</span></span>
+### <a name="word"></a><span data-ttu-id="dde2c-485">Word</span><span class="sxs-lookup"><span data-stu-id="dde2c-485">Word</span></span>
 
-- <span data-ttu-id="3f2b2-472">**Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-472">**Insert your iPhone photos directly into Office:** HEIC pictures from your phone now insert seamlessly into Office.</span></span> <span data-ttu-id="3f2b2-473">変換は必要ありません。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-473">No conversion required.</span></span><br /><span data-ttu-id="3f2b2-474">[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください</span><span class="sxs-lookup"><span data-stu-id="3f2b2-474">See details in [blog post](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)</span></span>
+- <span data-ttu-id="dde2c-486">**Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-486">**Insert your iPhone photos directly into Office:** HEIC pictures from your phone now insert seamlessly into Office.</span></span> <span data-ttu-id="dde2c-487">変換は必要ありません。</span><span class="sxs-lookup"><span data-stu-id="dde2c-487">No conversion required.</span></span><br /><span data-ttu-id="dde2c-488">[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください</span><span class="sxs-lookup"><span data-stu-id="dde2c-488">See details in [blog post](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)</span></span>
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -659,152 +692,152 @@ ms.locfileid: "50455773"
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-477">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-477">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="3f2b2-478">Access</span><span class="sxs-lookup"><span data-stu-id="3f2b2-478">Access</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-491">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-491">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="dde2c-492">Access</span><span class="sxs-lookup"><span data-stu-id="dde2c-492">Access</span></span>
 
-- <span data-ttu-id="3f2b2-479">Office 以外のアプリケーションから DAO を使用すると、アプリケーションが予期せず終了する問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-479">We fixed an issue when using DAO from non-Office applications would cause the application to close unexpectedly.</span></span>
-
-
-### <a name="outlook"></a><span data-ttu-id="3f2b2-480">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-480">Outlook</span></span>
-
-- <span data-ttu-id="3f2b2-481">返信または転送時に中国語メッセージのヘッダーが読み取れなくなる問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-481">We fixed an issue that caused the headers of Chinese messages to be unreadable when replying or forwarding.</span></span>
+- <span data-ttu-id="dde2c-493">Office 以外のアプリケーションから DAO を使用すると、アプリケーションが予期せず終了する問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-493">We fixed an issue when using DAO from non-Office applications would cause the application to close unexpectedly.</span></span>
 
 
-- <span data-ttu-id="3f2b2-482">OFT ファイルとして保存するときに中国語の文字が疑問符に変更される問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-482">We fixed an issue that caused Chinese characters to get changed to question marks when saving as an OFT file.</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-494">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-494">Outlook</span></span>
+
+- <span data-ttu-id="dde2c-495">返信または転送時に中国語メッセージのヘッダーが読み取れなくなる問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-495">We fixed an issue that caused the headers of Chinese messages to be unreadable when replying or forwarding.</span></span>
 
 
-- <span data-ttu-id="3f2b2-483">クラウド設定を有効にしているユーザーに対して、2つ目の空白の署名を作成するという問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-483">We fixed an issue that caused Outlook to create a second empty signature for people who had cloud settings enabled.</span></span>
+- <span data-ttu-id="dde2c-496">OFT ファイルとして保存するときに中国語の文字が疑問符に変更される問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-496">We fixed an issue that caused Chinese characters to get changed to question marks when saving as an OFT file.</span></span>
 
 
-- <span data-ttu-id="3f2b2-484">ユーザーに対してクラウド設定が既定でオンにならない原因となっていた問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-484">We fixed a n issue that caused Cloud Settings not to be turned on for users by default.</span></span>
+- <span data-ttu-id="dde2c-497">クラウド設定を有効にしているユーザーに対して、2つ目の空白の署名を作成するという問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-497">We fixed an issue that caused Outlook to create a second empty signature for people who had cloud settings enabled.</span></span>
 
 
-- <span data-ttu-id="3f2b2-485">ユーザーの署名への変更が保存できない原因となっていた問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-485">We fixed an issue that caused changes to a user's signature to fail to save.</span></span>
+- <span data-ttu-id="dde2c-498">ユーザーに対してクラウド設定が既定でオンにならない原因となっていた問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-498">We fixed a n issue that caused Cloud Settings not to be turned on for users by default.</span></span>
 
 
-### <a name="powerpoint"></a><span data-ttu-id="3f2b2-486">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="3f2b2-486">PowerPoint</span></span>
-
-- <span data-ttu-id="3f2b2-487">これは、PresentationBeforeClose イベントを聞き、イベント ハンドラーの一部として Presentation.Saved プロパティをチェックするアドインがある場合、ドキュメントを閉じるときに保存プロンプトがループで表示される問題の修正です。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-487">This is a fix for an issue where the save prompt shows in a loop when closing the document when there is an add-in that listens to PresentationBeforeClose event and checks Presentation.Saved property as a part of the event handler.</span></span>
+- <span data-ttu-id="dde2c-499">ユーザーの署名への変更が保存できない原因となっていた問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-499">We fixed an issue that caused changes to a user's signature to fail to save.</span></span>
 
 
-### <a name="project"></a><span data-ttu-id="3f2b2-488">Project</span><span class="sxs-lookup"><span data-stu-id="3f2b2-488">Project</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="dde2c-500">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="dde2c-500">PowerPoint</span></span>
 
-- <span data-ttu-id="3f2b2-489">プロジェクトを PWA からローカル mpp ファイルに保存すると、ユーザーが実際に変更していないデータに対して ProjectBeforeTaskChangeEvent が発生する問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-489">Fixed an issue where when you save a project from PWA to a local mpp file, the ProjectBeforeTaskChangeEvent fires for data that wasn't actually changed by the user.</span></span>
-
-
-- <span data-ttu-id="3f2b2-490">リソースの配分状況が特定の方法で指定されているファイルを開くと、Project が予期せず終了することがある問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-490">Fixed an issue where Project may terminate unexpectedly when opening files where resource contours were specified in a certain manner.</span></span>
+- <span data-ttu-id="dde2c-501">これは、PresentationBeforeClose イベントを聞き、イベント ハンドラーの一部として Presentation.Saved プロパティをチェックするアドインがある場合、ドキュメントを閉じるときに保存プロンプトがループで表示される問題の修正です。</span><span class="sxs-lookup"><span data-stu-id="dde2c-501">This is a fix for an issue where the save prompt shows in a loop when closing the document when there is an add-in that listens to PresentationBeforeClose event and checks Presentation.Saved property as a part of the event handler.</span></span>
 
 
-- <span data-ttu-id="3f2b2-491">プロジェクトを PWA からローカル mpp ファイルに保存すると、ユーザーが実際に変更していないデータに対して ProjectBeforeTaskChangeEvent が発生する問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-491">Fixed an issue where when you save a project from PWA to a local mpp file, the ProjectBeforeTaskChangeEvent fires for data that wasn't actually changed by the user.</span></span>
+### <a name="project"></a><span data-ttu-id="dde2c-502">Project</span><span class="sxs-lookup"><span data-stu-id="dde2c-502">Project</span></span>
+
+- <span data-ttu-id="dde2c-503">プロジェクトを PWA からローカル mpp ファイルに保存すると、ユーザーが実際に変更していないデータに対して ProjectBeforeTaskChangeEvent が発生する問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-503">Fixed an issue where when you save a project from PWA to a local mpp file, the ProjectBeforeTaskChangeEvent fires for data that wasn't actually changed by the user.</span></span>
 
 
-- <span data-ttu-id="3f2b2-492">タスクフォームタイプビュー内でラグが変更された場合、ProjectBeforeTaskChagne イベントの NewVal に正しい値がない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-492">Fixed an issue where the NewVal in the ProjectBeforeTaskChange event doesn't have the correct value if a lag is changed within a Task Form type view.</span></span>
+- <span data-ttu-id="dde2c-504">リソースの配分状況が特定の方法で指定されているファイルを開くと、Project が予期せず終了することがある問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-504">Fixed an issue where Project may terminate unexpectedly when opening files where resource contours were specified in a certain manner.</span></span>
 
 
-### <a name="office-suite"></a><span data-ttu-id="3f2b2-493">Office スイート</span><span class="sxs-lookup"><span data-stu-id="3f2b2-493">Office Suite</span></span>
+- <span data-ttu-id="dde2c-505">プロジェクトを PWA からローカル mpp ファイルに保存すると、ユーザーが実際に変更していないデータに対して ProjectBeforeTaskChangeEvent が発生する問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-505">Fixed an issue where when you save a project from PWA to a local mpp file, the ProjectBeforeTaskChangeEvent fires for data that wasn't actually changed by the user.</span></span>
 
-- <span data-ttu-id="3f2b2-494">Office からインクジェット プリンターでドキュメントやファイルを印刷するとき、プリンターのインク残量が少ない場合、インクジェット プリンターではトナーは使用されないにもかかわらず、[トナー残量: 少] または [トナーなし] と表示されます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-494">When the user prints any document/file on inkjet printers from Office and printer's ink is low, "Toner Low" or "No Toner" message will show, even though inkjet printers don't have toners.</span></span> <span data-ttu-id="3f2b2-495">このメッセージが [トナー/インク残量: 少] と [トナー/インクなし] に変更されます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-495">Changing message to display "Toner/ink Low" & "No toner/ink".</span></span>
 
-- <span data-ttu-id="3f2b2-496">Microsoft 365 エンドポイントのデータ損失防止が、ディスク上の Office ドキュメントを分類できない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-496">Fixed an issue where Microsoft 365 Endpoint data loss prevention was unable to classify Office documents on disk.</span></span>
+- <span data-ttu-id="dde2c-506">タスクフォームタイプビュー内でラグが変更された場合、ProjectBeforeTaskChagne イベントの NewVal に正しい値がない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-506">Fixed an issue where the NewVal in the ProjectBeforeTaskChange event doesn't have the correct value if a lag is changed within a Task Form type view.</span></span>
+
+
+### <a name="office-suite"></a><span data-ttu-id="dde2c-507">Office スイート</span><span class="sxs-lookup"><span data-stu-id="dde2c-507">Office Suite</span></span>
+
+- <span data-ttu-id="dde2c-508">Office からインクジェット プリンターでドキュメントやファイルを印刷するとき、プリンターのインク残量が少ない場合、インクジェット プリンターではトナーは使用されないにもかかわらず、[トナー残量: 少] または [トナーなし] と表示されます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-508">When the user prints any document/file on inkjet printers from Office and printer's ink is low, "Toner Low" or "No Toner" message will show, even though inkjet printers don't have toners.</span></span> <span data-ttu-id="dde2c-509">このメッセージが [トナー/インク残量: 少] と [トナー/インクなし] に変更されます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-509">Changing message to display "Toner/ink Low" & "No toner/ink".</span></span>
+
+- <span data-ttu-id="dde2c-510">Microsoft 365 エンドポイントのデータ損失防止が、ディスク上の Office ドキュメントを分類できない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-510">Fixed an issue where Microsoft 365 Endpoint data loss prevention was unable to classify Office documents on disk.</span></span>
 
 
 [//]: # (BUGDETAILS コンテンツ エンドを削除しないでください。終了)
 
-## <a name="version-2009-october-21"></a><span data-ttu-id="3f2b2-498">バージョン 2009 : 10 月 21 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-498">Version 2009: October 21</span></span>
-<span data-ttu-id="3f2b2-499">*バージョン 2009 (ビルド 13231.20418)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-499">*Version 2009 (Build 13231.20418)*</span></span>
+## <a name="version-2009-october-21"></a><span data-ttu-id="dde2c-512">バージョン 2009 : 10 月 21 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-512">Version 2009: October 21</span></span>
+<span data-ttu-id="dde2c-513">*バージョン 2009 (ビルド 13231.20418)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-513">*Version 2009 (Build 13231.20418)*</span></span>
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-501">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-501">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="3f2b2-502">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-502">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-515">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-515">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-516">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-516">Outlook</span></span>
 
-- <span data-ttu-id="3f2b2-503">ユーザーが代理人に編集者権限を付与できなくなる問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-503">We fixed an issue that caused users to be unable to grant Editor permission to their delegates.</span></span>
-
-
-- <span data-ttu-id="3f2b2-504">ユーザーが検索結果を選択したときにアプリケーションが予期せず終了する問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-504">We fixed an issue that caused users to experience the application to terminate unexpectedly when selecting a search result.</span></span>
+- <span data-ttu-id="dde2c-517">ユーザーが代理人に編集者権限を付与できなくなる問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-517">We fixed an issue that caused users to be unable to grant Editor permission to their delegates.</span></span>
 
 
-- <span data-ttu-id="3f2b2-505">返信または転送時に中国語メッセージのヘッダーが読み取れなくなる問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-505">We fixed an issue that caused the headers of Chinese messages to be unreadable when replying or forwarding.</span></span>
+- <span data-ttu-id="dde2c-518">ユーザーが検索結果を選択したときにアプリケーションが予期せず終了する問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-518">We fixed an issue that caused users to experience the application to terminate unexpectedly when selecting a search result.</span></span>
 
 
-### <a name="powerpoint"></a><span data-ttu-id="3f2b2-506">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="3f2b2-506">PowerPoint</span></span>
+- <span data-ttu-id="dde2c-519">返信または転送時に中国語メッセージのヘッダーが読み取れなくなる問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-519">We fixed an issue that caused the headers of Chinese messages to be unreadable when replying or forwarding.</span></span>
 
-- <span data-ttu-id="3f2b2-507">ユーザーが別のスライドをクリックして表示するまで、Forms コンテンツ アドインが挿入後にレンダリングされない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-507">We have fixed an issue where Forms content add-in doesn't render after insertion until user click to another slide to make it show.</span></span>
+
+### <a name="powerpoint"></a><span data-ttu-id="dde2c-520">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="dde2c-520">PowerPoint</span></span>
+
+- <span data-ttu-id="dde2c-521">ユーザーが別のスライドをクリックして表示するまで、Forms コンテンツ アドインが挿入後にレンダリングされない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-521">We have fixed an issue where Forms content add-in doesn't render after insertion until user click to another slide to make it show.</span></span>
 
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2009-october-13"></a><span data-ttu-id="3f2b2-509">バージョン2009: 10 月 13 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-509">Version 2009: October 13</span></span>
-<span data-ttu-id="3f2b2-510">*バージョン2009 (ビルド 13231.20390)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-510">*Version 2009 (Build 13231.20390)*</span></span>
+## <a name="version-2009-october-13"></a><span data-ttu-id="dde2c-523">バージョン2009: 10 月 13 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-523">Version 2009: October 13</span></span>
+<span data-ttu-id="dde2c-524">*バージョン2009 (ビルド 13231.20390)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-524">*Version 2009 (Build 13231.20390)*</span></span>
 
-<span data-ttu-id="3f2b2-511">セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="3f2b2-511">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
+<span data-ttu-id="dde2c-525">セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="dde2c-525">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-513">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-513">Resolved issues</span></span>
-### <a name="project"></a><span data-ttu-id="3f2b2-514">Project</span><span class="sxs-lookup"><span data-stu-id="3f2b2-514">Project</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-527">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-527">Resolved issues</span></span>
+### <a name="project"></a><span data-ttu-id="dde2c-528">Project</span><span class="sxs-lookup"><span data-stu-id="dde2c-528">Project</span></span>
 
-- <span data-ttu-id="3f2b2-515">リソースの配分状況が特定の方法で指定されている場合に、Project がクラッシュすることがある問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-515">Fixed an issue where Project may crash on opening files where resource contours were specified in a certain manner.</span></span>
+- <span data-ttu-id="dde2c-529">リソースの配分状況が特定の方法で指定されている場合に、Project がクラッシュすることがある問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-529">Fixed an issue where Project may crash on opening files where resource contours were specified in a certain manner.</span></span>
 
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2009-october-08"></a><span data-ttu-id="3f2b2-517">バージョン 2009: 10 月 8 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-517">Version 2009: October 08</span></span>
-<span data-ttu-id="3f2b2-518">*バージョン 2009 (ビルド 13231.20368)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-518">*Version 2009 (Build 13231.20368)*</span></span>
+## <a name="version-2009-october-08"></a><span data-ttu-id="dde2c-531">バージョン 2009: 10 月 8 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-531">Version 2009: October 08</span></span>
+<span data-ttu-id="dde2c-532">*バージョン 2009 (ビルド 13231.20368)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-532">*Version 2009 (Build 13231.20368)*</span></span>
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-520">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-520">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="3f2b2-521">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-521">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-534">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-534">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-535">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-535">Outlook</span></span>
 
-- <span data-ttu-id="3f2b2-522">キャッシュされていない共有の予定表を検索するときに、結果が返されない問題に対処します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-522">Addresses an issue that caused Search to return no results when searching uncached shared calendars.</span></span>
-
-
-- <span data-ttu-id="3f2b2-523">一部のユーザーの環境で、Outlook がオフラインの状態で予期せず起動する原因となった問題に対処します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-523">Addresses an issue that caused some users to observe Outlook unexpectedly starting in an offline state.</span></span>
+- <span data-ttu-id="dde2c-536">キャッシュされていない共有の予定表を検索するときに、結果が返されない問題に対処します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-536">Addresses an issue that caused Search to return no results when searching uncached shared calendars.</span></span>
 
 
-- <span data-ttu-id="3f2b2-524">代理人が別のメールボックスで共有フォルダーを開くと、断続的にエラーが表示される原因となった問題に対処します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-524">Addresses an issue that caused delegates to see intermittent failures when opening shared folders in another mailbox.</span></span>
+- <span data-ttu-id="dde2c-537">一部のユーザーの環境で、Outlook がオフラインの状態で予期せず起動する原因となった問題に対処します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-537">Addresses an issue that caused some users to observe Outlook unexpectedly starting in an offline state.</span></span>
 
 
-### <a name="powerpoint"></a><span data-ttu-id="3f2b2-525">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="3f2b2-525">PowerPoint</span></span>
-
-- <span data-ttu-id="3f2b2-526">セキュリティ修正プログラムを適用して、保護ビューで PowerPoint ファイルを開くと、 IRM による保護が無効になる問題に対処します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-526">Security fix to address an issue that disabled IRM protections when opening a PowerPoint file in Protected View.</span></span>
+- <span data-ttu-id="dde2c-538">代理人が別のメールボックスで共有フォルダーを開くと、断続的にエラーが表示される原因となった問題に対処します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-538">Addresses an issue that caused delegates to see intermittent failures when opening shared folders in another mailbox.</span></span>
 
 
-### <a name="office-suite"></a><span data-ttu-id="3f2b2-527">Office スイート</span><span class="sxs-lookup"><span data-stu-id="3f2b2-527">Office Suite</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="dde2c-539">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="dde2c-539">PowerPoint</span></span>
 
-- <span data-ttu-id="3f2b2-528">Office からインクジェット プリンターでドキュメントやファイルを印刷するとき、プリンターのインク残量が少ない場合、インクジェット プリンターではトナーは使用されないにもかかわらず、[トナー残量: 少] または [トナーなし] と表示されます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-528">When the user prints any document/file on inkjet printers from Office and printer's ink is low, "Toner Low" or "No Toner" message will show, even though inkjet printers don't have toners.</span></span> <span data-ttu-id="3f2b2-529">このメッセージが [トナー/インク残量: 少] と [トナー/インクなし] に変更されます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-529">Changing message to display "Toner/ink Low" & "No toner/ink".</span></span>
+- <span data-ttu-id="dde2c-540">セキュリティ修正プログラムを適用して、保護ビューで PowerPoint ファイルを開くと、 IRM による保護が無効になる問題に対処します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-540">Security fix to address an issue that disabled IRM protections when opening a PowerPoint file in Protected View.</span></span>
+
+
+### <a name="office-suite"></a><span data-ttu-id="dde2c-541">Office スイート</span><span class="sxs-lookup"><span data-stu-id="dde2c-541">Office Suite</span></span>
+
+- <span data-ttu-id="dde2c-542">Office からインクジェット プリンターでドキュメントやファイルを印刷するとき、プリンターのインク残量が少ない場合、インクジェット プリンターではトナーは使用されないにもかかわらず、[トナー残量: 少] または [トナーなし] と表示されます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-542">When the user prints any document/file on inkjet printers from Office and printer's ink is low, "Toner Low" or "No Toner" message will show, even though inkjet printers don't have toners.</span></span> <span data-ttu-id="dde2c-543">このメッセージが [トナー/インク残量: 少] と [トナー/インクなし] に変更されます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-543">Changing message to display "Toner/ink Low" & "No toner/ink".</span></span>
 
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2009-september-28"></a><span data-ttu-id="3f2b2-531">バージョン 2009: 9 月 28 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-531">Version 2009: September 28</span></span>
-<span data-ttu-id="3f2b2-532">*バージョン 2009 (ビルド13231.20262)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-532">*Version 2009 (Build 13231.20262)*</span></span>
+## <a name="version-2009-september-28"></a><span data-ttu-id="dde2c-545">バージョン 2009: 9 月 28 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-545">Version 2009: September 28</span></span>
+<span data-ttu-id="dde2c-546">*バージョン 2009 (ビルド13231.20262)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-546">*Version 2009 (Build 13231.20262)*</span></span>
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="feature-updates"></a><span data-ttu-id="3f2b2-534">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="3f2b2-534">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="3f2b2-535">Excel</span><span class="sxs-lookup"><span data-stu-id="3f2b2-535">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="dde2c-548">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="dde2c-548">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="dde2c-549">Excel</span><span class="sxs-lookup"><span data-stu-id="dde2c-549">Excel</span></span>
 
-- <span data-ttu-id="3f2b2-536">**図形を画像として保存する:** 簡単なクリック操作で図形、アイコン、その他のオブジェクトを画像ファイルとして保存し、別の場所で再利用することができます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-536">**Save shapes as pictures:** In just a few clicks, save a shape, icon, or other object as a picture file so you can reuse it elsewhere.</span></span> [<span data-ttu-id="3f2b2-537">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-537">Learn more</span></span>](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- <span data-ttu-id="dde2c-550">**図形を画像として保存する:** 簡単なクリック操作で図形、アイコン、その他のオブジェクトを画像ファイルとして保存し、別の場所で再利用することができます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-550">**Save shapes as pictures:** In just a few clicks, save a shape, icon, or other object as a picture file so you can reuse it elsewhere.</span></span> [<span data-ttu-id="dde2c-551">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-551">Learn more</span></span>](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
-- <span data-ttu-id="3f2b2-538">**データ型を使用して Power BI から組織データを取得する:** Power BI からの Excel データ型が Office 365、Microsoft 365、Power BI Pro サービス プランを使用する組織の Insider に展開されるようになりました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-538">**Get Organization Data from Power BI using Data Types:** Excel data types from Power BI are now rolling out to Insiders in organizations with Office 365 / Microsoft 365 and the Power BI Pro service plan.</span></span> <span data-ttu-id="3f2b2-539">必要な情報を入手し、簡単に更新することは、多くの日常のワークフローに欠かせません。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-539">Getting the information you need and easily refreshing it is critical to many everyday workflows.</span></span> <span data-ttu-id="3f2b2-540">Excel のデータ型として、Power BI から会社または組織の情報へのアクセスを提供し、スプレッドシートにリンクされた情報を取り込む機能を拡張します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-540">We’re giving you access to your company or organization information from Power BI as a data type in Excel, which expands your ability to bring in linked information in your spreadsheets.</span></span> [<span data-ttu-id="3f2b2-541">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-541">Learn more</span></span>](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br /><span data-ttu-id="3f2b2-542">[ブログの投稿](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)の詳細情報をご覧ください</span><span class="sxs-lookup"><span data-stu-id="3f2b2-542">See details in [blog post](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)</span></span>
+- <span data-ttu-id="dde2c-552">**データ型を使用して Power BI から組織データを取得する:** Power BI からの Excel データ型が Office 365、Microsoft 365、Power BI Pro サービス プランを使用する組織の Insider に展開されるようになりました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-552">**Get Organization Data from Power BI using Data Types:** Excel data types from Power BI are now rolling out to Insiders in organizations with Office 365 / Microsoft 365 and the Power BI Pro service plan.</span></span> <span data-ttu-id="dde2c-553">必要な情報を入手し、簡単に更新することは、多くの日常のワークフローに欠かせません。</span><span class="sxs-lookup"><span data-stu-id="dde2c-553">Getting the information you need and easily refreshing it is critical to many everyday workflows.</span></span> <span data-ttu-id="dde2c-554">Excel のデータ型として、Power BI から会社または組織の情報へのアクセスを提供し、スプレッドシートにリンクされた情報を取り込む機能を拡張します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-554">We’re giving you access to your company or organization information from Power BI as a data type in Excel, which expands your ability to bring in linked information in your spreadsheets.</span></span> [<span data-ttu-id="dde2c-555">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-555">Learn more</span></span>](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br /><span data-ttu-id="dde2c-556">[ブログの投稿](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)の詳細情報をご覧ください</span><span class="sxs-lookup"><span data-stu-id="dde2c-556">See details in [blog post](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)</span></span>
 
-- <span data-ttu-id="3f2b2-543">**数式で使用する変数を作成する:** LET 関数を使用してパフォーマンス、読みやすさ、および構成性を向上させます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-543">**Create variables to use in formulas:** Improve performance, readability, and composability with the LET function.</span></span> <span data-ttu-id="3f2b2-544">この関数では、新規または既存の数式に名前付き変数を作成することができます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-544">This function allows you to create named variables in new or pre-existing formulas.</span></span> [<span data-ttu-id="3f2b2-545">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-545">Learn more</span></span>](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br /><span data-ttu-id="3f2b2-546">[ブログの投稿](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/)の詳細情報をご覧ください</span><span class="sxs-lookup"><span data-stu-id="3f2b2-546">See details in [blog post](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/)</span></span>
+- <span data-ttu-id="dde2c-557">**数式で使用する変数を作成する:** LET 関数を使用してパフォーマンス、読みやすさ、および構成性を向上させます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-557">**Create variables to use in formulas:** Improve performance, readability, and composability with the LET function.</span></span> <span data-ttu-id="dde2c-558">この関数では、新規または既存の数式に名前付き変数を作成することができます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-558">This function allows you to create named variables in new or pre-existing formulas.</span></span> [<span data-ttu-id="dde2c-559">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-559">Learn more</span></span>](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br /><span data-ttu-id="dde2c-560">[ブログの投稿](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/)の詳細情報をご覧ください</span><span class="sxs-lookup"><span data-stu-id="dde2c-560">See details in [blog post](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/)</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="3f2b2-547">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-547">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-561">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-561">Outlook</span></span>
 
-- <span data-ttu-id="3f2b2-548">**自動拡張オンライン アーカイブ検索:** 自動拡張オンライン アーカイブ検索を有効にします</span><span class="sxs-lookup"><span data-stu-id="3f2b2-548">**Auto-Expanding Online Archive Search:** Enabling auto-expanding Online Archive Search</span></span>
+- <span data-ttu-id="dde2c-562">**自動拡張オンライン アーカイブ検索:** 自動拡張オンライン アーカイブ検索を有効にします</span><span class="sxs-lookup"><span data-stu-id="dde2c-562">**Auto-Expanding Online Archive Search:** Enabling auto-expanding Online Archive Search</span></span>
 
-- <span data-ttu-id="3f2b2-549">**Outlook の新しいプロファイル カード:** Outlook の新しいプロファイル カードは、組織ビューの詳細を含み、Outlook Web のカード スタイルに一致します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-549">**New profile card for Outlook:** New profile card for Outlook including a better Organization view and matches the card style of Outlook Web.</span></span>
+- <span data-ttu-id="dde2c-563">**Outlook の新しいプロファイル カード:** Outlook の新しいプロファイル カードは、組織ビューの詳細を含み、Outlook Web のカード スタイルに一致します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-563">**New profile card for Outlook:** New profile card for Outlook including a better Organization view and matches the card style of Outlook Web.</span></span>
 
-### <a name="teams"></a><span data-ttu-id="3f2b2-550">Teams</span><span class="sxs-lookup"><span data-stu-id="3f2b2-550">Teams</span></span>
+### <a name="teams"></a><span data-ttu-id="dde2c-564">Teams</span><span class="sxs-lookup"><span data-stu-id="dde2c-564">Teams</span></span>
 
-- <span data-ttu-id="3f2b2-551">**Microsoft Teams でファイルを共有:** [詳細情報](https://docs.microsoft.com/MicrosoftTeams/sharing-files-in-teams)</span><span class="sxs-lookup"><span data-stu-id="3f2b2-551">**Sharing files in Microsoft Teams:** [Learn more](https://docs.microsoft.com/MicrosoftTeams/sharing-files-in-teams)</span></span>
+- <span data-ttu-id="dde2c-565">**Microsoft Teams でファイルを共有:** [詳細情報](https://docs.microsoft.com/MicrosoftTeams/sharing-files-in-teams)</span><span class="sxs-lookup"><span data-stu-id="dde2c-565">**Sharing files in Microsoft Teams:** [Learn more](https://docs.microsoft.com/MicrosoftTeams/sharing-files-in-teams)</span></span>
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -813,158 +846,158 @@ ms.locfileid: "50455773"
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-554">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-554">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="3f2b2-555">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-555">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-568">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-568">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-569">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-569">Outlook</span></span>
 
-- <span data-ttu-id="3f2b2-556">件名が空白の場合、一部の自動的に生成されたメールの本文が空で送信される原因となった問題に対処します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-556">Addresses an issue that caused some automatically generated emails to be sent with a blank body when the subject line is blank.</span></span>
-
-
-### <a name="powerpoint"></a><span data-ttu-id="3f2b2-557">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="3f2b2-557">PowerPoint</span></span>
-
-- <span data-ttu-id="3f2b2-558">特定のデータ オブジェクト タイプ (E2o) を大量に含むファイルの共同編集が遅くなる問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-558">Fixed an issue causing slow coauthoring on files containing large numbers of a certain data object type (E2o).</span></span>
+- <span data-ttu-id="dde2c-570">件名が空白の場合、一部の自動的に生成されたメールの本文が空で送信される原因となった問題に対処します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-570">Addresses an issue that caused some automatically generated emails to be sent with a blank body when the subject line is blank.</span></span>
 
 
-### <a name="project"></a><span data-ttu-id="3f2b2-559">Project</span><span class="sxs-lookup"><span data-stu-id="3f2b2-559">Project</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="dde2c-571">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="dde2c-571">PowerPoint</span></span>
 
-- <span data-ttu-id="3f2b2-560">イベント コードの実行中に、[タスク フォーム] ビューから変更を加えようとするときに、[OK] ボタンをクリックしても変更が反映されないという問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-560">Fixed an issue where if you have eventing code running and try to make changes through a Task Form view, clicking the OK button may not commit the changes.</span></span>
-
-
-### <a name="word"></a><span data-ttu-id="3f2b2-561">Word</span><span class="sxs-lookup"><span data-stu-id="3f2b2-561">Word</span></span>
-
-- <span data-ttu-id="3f2b2-562">スタイル ギャラリー ダイアログの問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-562">We fixed an issue with Style Gallery dialog.</span></span>
+- <span data-ttu-id="dde2c-572">特定のデータ オブジェクト タイプ (E2o) を大量に含むファイルの共同編集が遅くなる問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-572">Fixed an issue causing slow coauthoring on files containing large numbers of a certain data object type (E2o).</span></span>
 
 
-### <a name="office-suite"></a><span data-ttu-id="3f2b2-563">Office スイート</span><span class="sxs-lookup"><span data-stu-id="3f2b2-563">Office Suite</span></span>
+### <a name="project"></a><span data-ttu-id="dde2c-573">Project</span><span class="sxs-lookup"><span data-stu-id="dde2c-573">Project</span></span>
 
-- <span data-ttu-id="3f2b2-564">この変更により、[エクスポート] ボタンをクリックしてもエクスポートされないという [アニメーション GIF にエクスポート] 機能の問題に対処します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-564">This change addresses an issue with Export to Animated GIF feature where clicking on Export button was not exporting.</span></span>
+- <span data-ttu-id="dde2c-574">イベント コードの実行中に、[タスク フォーム] ビューから変更を加えようとするときに、[OK] ボタンをクリックしても変更が反映されないという問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-574">Fixed an issue where if you have eventing code running and try to make changes through a Task Form view, clicking the OK button may not commit the changes.</span></span>
 
 
-- <span data-ttu-id="3f2b2-565">この変更では、[図の圧縮] ダイアログで一部のユーザー設定が保持されない問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-565">This change addresses an issue with the Compress Picture dialog not retaining certain user settings.</span></span>
+### <a name="word"></a><span data-ttu-id="dde2c-575">Word</span><span class="sxs-lookup"><span data-stu-id="dde2c-575">Word</span></span>
+
+- <span data-ttu-id="dde2c-576">スタイル ギャラリー ダイアログの問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-576">We fixed an issue with Style Gallery dialog.</span></span>
+
+
+### <a name="office-suite"></a><span data-ttu-id="dde2c-577">Office スイート</span><span class="sxs-lookup"><span data-stu-id="dde2c-577">Office Suite</span></span>
+
+- <span data-ttu-id="dde2c-578">この変更により、[エクスポート] ボタンをクリックしてもエクスポートされないという [アニメーション GIF にエクスポート] 機能の問題に対処します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-578">This change addresses an issue with Export to Animated GIF feature where clicking on Export button was not exporting.</span></span>
+
+
+- <span data-ttu-id="dde2c-579">この変更では、[図の圧縮] ダイアログで一部のユーザー設定が保持されない問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-579">This change addresses an issue with the Compress Picture dialog not retaining certain user settings.</span></span>
 
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2008-september-22"></a><span data-ttu-id="3f2b2-567">バージョン 2008: 9 月 22 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-567">Version 2008: September 22</span></span>
-<span data-ttu-id="3f2b2-568">*バージョン 2008 (ビルド 13127.20508)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-568">*Version 2008 (Build 13127.20508)*</span></span>
+## <a name="version-2008-september-22"></a><span data-ttu-id="dde2c-581">バージョン 2008: 9 月 22 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-581">Version 2008: September 22</span></span>
+<span data-ttu-id="dde2c-582">*バージョン 2008 (ビルド 13127.20508)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-582">*Version 2008 (Build 13127.20508)*</span></span>
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-570">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-570">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="3f2b2-571">Excel</span><span class="sxs-lookup"><span data-stu-id="3f2b2-571">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-584">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-584">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="dde2c-585">Excel</span><span class="sxs-lookup"><span data-stu-id="dde2c-585">Excel</span></span>
 
-- <span data-ttu-id="3f2b2-572">シートの一番上の行を固定した後にクイック分析を使用すると Excel がクラッシュする問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-572">Fixed an issue where Excel could crash when using the Quick Analysis after freezing the top row of the sheet.</span></span>
-
-
-- <span data-ttu-id="3f2b2-573">IFNA () を使用する数式が含まれている場合、破損したワークブックに関する警告を発する可能性がある問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-573">Fixed an issue that could cause a warning about a corrupt workbook if it contained formulas using IFNA().</span></span>
+- <span data-ttu-id="dde2c-586">シートの一番上の行を固定した後にクイック分析を使用すると Excel がクラッシュする問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-586">Fixed an issue where Excel could crash when using the Quick Analysis after freezing the top row of the sheet.</span></span>
 
 
-### <a name="outlook"></a><span data-ttu-id="3f2b2-574">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-574">Outlook</span></span>
-
-- <span data-ttu-id="3f2b2-575">隅にある [X] をクリックして共有の予定表を閉じることができない問題に対処します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-575">Addresses an issue that caused users to be unable to close shared calendars by clicking on the "X" in the corner.</span></span>
+- <span data-ttu-id="dde2c-587">IFNA () を使用する数式が含まれている場合、破損したワークブックに関する警告を発する可能性がある問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-587">Fixed an issue that could cause a warning about a corrupt workbook if it contained formulas using IFNA().</span></span>
 
 
-- <span data-ttu-id="3f2b2-576">添付ファイルのアップロードのパフォーマンスの問題に対処します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-576">Addresses a performance issue with attachment upload.</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-588">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-588">Outlook</span></span>
+
+- <span data-ttu-id="dde2c-589">隅にある [X] をクリックして共有の予定表を閉じることができない問題に対処します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-589">Addresses an issue that caused users to be unable to close shared calendars by clicking on the "X" in the corner.</span></span>
 
 
-### <a name="powerpoint"></a><span data-ttu-id="3f2b2-577">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="3f2b2-577">PowerPoint</span></span>
-
-- <span data-ttu-id="3f2b2-578">PowerPoint アプリのクラッシュの原因となった問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-578">We have fixed an issue which was causing the crash in PowerPoint app.</span></span>
+- <span data-ttu-id="dde2c-590">添付ファイルのアップロードのパフォーマンスの問題に対処します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-590">Addresses a performance issue with attachment upload.</span></span>
 
 
-### <a name="visio"></a><span data-ttu-id="3f2b2-579">Visio</span><span class="sxs-lookup"><span data-stu-id="3f2b2-579">Visio</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="dde2c-591">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="dde2c-591">PowerPoint</span></span>
 
-- <span data-ttu-id="3f2b2-580">テキストを配置するとリアルタイムのプレビューがクラッシュする問題がお客様から報告されました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-580">Live preview crashes on text alignment reported by customers.</span></span> <span data-ttu-id="3f2b2-581">7 月のフォークで最も多く報告されているクラッシュ。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-581">Top hitting crash of July fork.</span></span>
-
-
-### <a name="word"></a><span data-ttu-id="3f2b2-582">Word</span><span class="sxs-lookup"><span data-stu-id="3f2b2-582">Word</span></span>
-
-- <span data-ttu-id="3f2b2-583">スタイル ギャラリー ダイアログの問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-583">We fixed an issue with Style Gallery dialog.</span></span>
+- <span data-ttu-id="dde2c-592">PowerPoint アプリのクラッシュの原因となった問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-592">We have fixed an issue which was causing the crash in PowerPoint app.</span></span>
 
 
-### <a name="office-suite"></a><span data-ttu-id="3f2b2-584">Office スイート</span><span class="sxs-lookup"><span data-stu-id="3f2b2-584">Office Suite</span></span>
+### <a name="visio"></a><span data-ttu-id="dde2c-593">Visio</span><span class="sxs-lookup"><span data-stu-id="dde2c-593">Visio</span></span>
 
-- <span data-ttu-id="3f2b2-585">GIF/アニメーション model3D を使用したアイドル時の高い CPU 使用率を修正</span><span class="sxs-lookup"><span data-stu-id="3f2b2-585">Fixes high CPU usage on idle with GIF/animated model3D</span></span>
+- <span data-ttu-id="dde2c-594">テキストを配置するとリアルタイムのプレビューがクラッシュする問題がお客様から報告されました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-594">Live preview crashes on text alignment reported by customers.</span></span> <span data-ttu-id="dde2c-595">7 月のフォークで最も多く報告されているクラッシュ。</span><span class="sxs-lookup"><span data-stu-id="dde2c-595">Top hitting crash of July fork.</span></span>
+
+
+### <a name="word"></a><span data-ttu-id="dde2c-596">Word</span><span class="sxs-lookup"><span data-stu-id="dde2c-596">Word</span></span>
+
+- <span data-ttu-id="dde2c-597">スタイル ギャラリー ダイアログの問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-597">We fixed an issue with Style Gallery dialog.</span></span>
+
+
+### <a name="office-suite"></a><span data-ttu-id="dde2c-598">Office スイート</span><span class="sxs-lookup"><span data-stu-id="dde2c-598">Office Suite</span></span>
+
+- <span data-ttu-id="dde2c-599">GIF/アニメーション model3D を使用したアイドル時の高い CPU 使用率を修正</span><span class="sxs-lookup"><span data-stu-id="dde2c-599">Fixes high CPU usage on idle with GIF/animated model3D</span></span>
 
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2008-september-09"></a><span data-ttu-id="3f2b2-587">バージョン 2008: 9 月 9 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-587">Version 2008: September 09</span></span>
-<span data-ttu-id="3f2b2-588">*バージョン 2008(ビルド13127.20408)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-588">*Version 2008 (Build 13127.20408)*</span></span>
+## <a name="version-2008-september-09"></a><span data-ttu-id="dde2c-601">バージョン 2008: 9 月 9 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-601">Version 2008: September 09</span></span>
+<span data-ttu-id="dde2c-602">*バージョン 2008(ビルド13127.20408)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-602">*Version 2008 (Build 13127.20408)*</span></span>
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-590">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-590">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="3f2b2-591">Access</span><span class="sxs-lookup"><span data-stu-id="3f2b2-591">Access</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-604">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-604">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="dde2c-605">Access</span><span class="sxs-lookup"><span data-stu-id="dde2c-605">Access</span></span>
 
-- <span data-ttu-id="3f2b2-592">テキストを編集するため [ズーム] ボックスを起動する (Shift + F2) ときに、Access がクラッシュする可能性がある問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-592">This change fixes an issue that could cause Access to crash when launching the Zoom box (Shift + F2) to edit text.</span></span>
-
-
-### <a name="excel"></a><span data-ttu-id="3f2b2-593">Excel</span><span class="sxs-lookup"><span data-stu-id="3f2b2-593">Excel</span></span>
-
-- <span data-ttu-id="3f2b2-594">Format Painter を使用すると、特定の状況で Excel がクラッシュする可能性がある問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-594">Fixed an issue where Excel could crash in certain circumstances when using the Format Painter.</span></span>
+- <span data-ttu-id="dde2c-606">テキストを編集するため [ズーム] ボックスを起動する (Shift + F2) ときに、Access がクラッシュする可能性がある問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-606">This change fixes an issue that could cause Access to crash when launching the Zoom box (Shift + F2) to edit text.</span></span>
 
 
-### <a name="word"></a><span data-ttu-id="3f2b2-595">Word</span><span class="sxs-lookup"><span data-stu-id="3f2b2-595">Word</span></span>
+### <a name="excel"></a><span data-ttu-id="dde2c-607">Excel</span><span class="sxs-lookup"><span data-stu-id="dde2c-607">Excel</span></span>
 
-- <span data-ttu-id="3f2b2-596">図形のサイズを変更すると、ユーザーのコンテンツが失われる場合がある問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-596">We fixed an issue where the user might lose content when resize a shape.</span></span>
-
-
-- <span data-ttu-id="3f2b2-597">基本スタイルが標準スタイルで更新されない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-597">We fixed an issue which the base styles are not updated with Normal style.</span></span>
+- <span data-ttu-id="dde2c-608">Format Painter を使用すると、特定の状況で Excel がクラッシュする可能性がある問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-608">Fixed an issue where Excel could crash in certain circumstances when using the Format Painter.</span></span>
 
 
-### <a name="office-suite"></a><span data-ttu-id="3f2b2-598">Office スイート</span><span class="sxs-lookup"><span data-stu-id="3f2b2-598">Office Suite</span></span>
+### <a name="word"></a><span data-ttu-id="dde2c-609">Word</span><span class="sxs-lookup"><span data-stu-id="dde2c-609">Word</span></span>
 
-- <span data-ttu-id="3f2b2-599">この変更では、[図の圧縮] ダイアログで一部のユーザー設定が保持されない問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-599">This change addresses an issue with the Compress Picture dialog not retaining certain user settings.</span></span>
+- <span data-ttu-id="dde2c-610">図形のサイズを変更すると、ユーザーのコンテンツが失われる場合がある問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-610">We fixed an issue where the user might lose content when resize a shape.</span></span>
+
+
+- <span data-ttu-id="dde2c-611">基本スタイルが標準スタイルで更新されない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-611">We fixed an issue which the base styles are not updated with Normal style.</span></span>
+
+
+### <a name="office-suite"></a><span data-ttu-id="dde2c-612">Office スイート</span><span class="sxs-lookup"><span data-stu-id="dde2c-612">Office Suite</span></span>
+
+- <span data-ttu-id="dde2c-613">この変更では、[図の圧縮] ダイアログで一部のユーザー設定が保持されない問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-613">This change addresses an issue with the Compress Picture dialog not retaining certain user settings.</span></span>
 
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2008-august-31"></a><span data-ttu-id="3f2b2-601">バージョン 2008: 8 月 31 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-601">Version 2008: August 31</span></span>
-<span data-ttu-id="3f2b2-602">*バージョン 2008 (ビルド 13127.20296)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-602">*Version 2008 (Build 13127.20296)*</span></span>
+## <a name="version-2008-august-31"></a><span data-ttu-id="dde2c-615">バージョン 2008: 8 月 31 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-615">Version 2008: August 31</span></span>
+<span data-ttu-id="dde2c-616">*バージョン 2008 (ビルド 13127.20296)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-616">*Version 2008 (Build 13127.20296)*</span></span>
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="feature-updates"></a><span data-ttu-id="3f2b2-604">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="3f2b2-604">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="3f2b2-605">Excel</span><span class="sxs-lookup"><span data-stu-id="3f2b2-605">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="dde2c-618">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="dde2c-618">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="dde2c-619">Excel</span><span class="sxs-lookup"><span data-stu-id="dde2c-619">Excel</span></span>
 
-- <span data-ttu-id="3f2b2-606">**固定フォルダーに保存する:** フォルダーをピン留めすると、Office ファイルの保存が簡単になります。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-606">**Save to Pinned Folders:** Pin your folders makes saving Office files easier.</span></span> <span data-ttu-id="3f2b2-607">ユーザーは新しいファイルが保存されるときに使用可能なフォルダーをより詳細に制御したいとのフィードバックを受けました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-607">We received feedback that users want more control over the folders available when a new file is saved.</span></span> <span data-ttu-id="3f2b2-608">新しい機能が追加されました。 [保存] ダイアログ ボックスでフォルダーをピン留めできます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-608">We're excited to bring a new capability to you: pin your folders in the Save dialog.</span></span> <span data-ttu-id="3f2b2-609">この新しい機能により、Word、Excel、PowerPoint のファイルを簡単に保存できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-609">This new capability will make saving your Word, Excel, and PowerPoint files easier.</span></span> [<span data-ttu-id="3f2b2-610">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-610">Learn more</span></span>](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br /><span data-ttu-id="3f2b2-611">[ブログの投稿](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)の詳細情報をご覧ください</span><span class="sxs-lookup"><span data-stu-id="3f2b2-611">See details in [blog post](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)</span></span>
+- <span data-ttu-id="dde2c-620">**固定フォルダーに保存する:** フォルダーをピン留めすると、Office ファイルの保存が簡単になります。</span><span class="sxs-lookup"><span data-stu-id="dde2c-620">**Save to Pinned Folders:** Pin your folders makes saving Office files easier.</span></span> <span data-ttu-id="dde2c-621">ユーザーは新しいファイルが保存されるときに使用可能なフォルダーをより詳細に制御したいとのフィードバックを受けました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-621">We received feedback that users want more control over the folders available when a new file is saved.</span></span> <span data-ttu-id="dde2c-622">新しい機能が追加されました。 [保存] ダイアログ ボックスでフォルダーをピン留めできます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-622">We're excited to bring a new capability to you: pin your folders in the Save dialog.</span></span> <span data-ttu-id="dde2c-623">この新しい機能により、Word、Excel、PowerPoint のファイルを簡単に保存できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-623">This new capability will make saving your Word, Excel, and PowerPoint files easier.</span></span> [<span data-ttu-id="dde2c-624">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-624">Learn more</span></span>](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br /><span data-ttu-id="dde2c-625">[ブログの投稿](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)の詳細情報をご覧ください</span><span class="sxs-lookup"><span data-stu-id="dde2c-625">See details in [blog post](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="3f2b2-612">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-612">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-626">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-626">Outlook</span></span>
 
-- <span data-ttu-id="3f2b2-613">**メール内のリンクの改善:** ファイルへのリンクを含めると、ファイル名が URL に置き換わります。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-613">**Improved links in email:** When you include a link to a file, the file name replaces the URL.</span></span> <span data-ttu-id="3f2b2-614">アクセス許可を変更して、すべての受信者がアクセスできるようにすることができます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-614">You can change permissions so all recipients have access.</span></span> [<span data-ttu-id="3f2b2-615">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-615">Learn more</span></span>](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br /><span data-ttu-id="3f2b2-616">[ブログの投稿](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)の詳細情報をご覧ください</span><span class="sxs-lookup"><span data-stu-id="3f2b2-616">See details in [blog post](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)</span></span>
+- <span data-ttu-id="dde2c-627">**メール内のリンクの改善:** ファイルへのリンクを含めると、ファイル名が URL に置き換わります。</span><span class="sxs-lookup"><span data-stu-id="dde2c-627">**Improved links in email:** When you include a link to a file, the file name replaces the URL.</span></span> <span data-ttu-id="dde2c-628">アクセス許可を変更して、すべての受信者がアクセスできるようにすることができます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-628">You can change permissions so all recipients have access.</span></span> [<span data-ttu-id="dde2c-629">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-629">Learn more</span></span>](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br /><span data-ttu-id="dde2c-630">[ブログの投稿](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)の詳細情報をご覧ください</span><span class="sxs-lookup"><span data-stu-id="dde2c-630">See details in [blog post](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)</span></span>
 
 
 
-### <a name="powerpoint"></a><span data-ttu-id="3f2b2-617">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="3f2b2-617">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="dde2c-631">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="dde2c-631">PowerPoint</span></span>
 
-- <span data-ttu-id="3f2b2-618">**固定フォルダーに保存する:** フォルダーをピン留めすると、Office ファイルの保存が簡単になります。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-618">**Save to Pinned Folders:** Pin your folders makes saving Office files easier.</span></span> <span data-ttu-id="3f2b2-619">ユーザーは新しいファイルが保存されるときに使用可能なフォルダーをより詳細に制御したいとのフィードバックを受けました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-619">We received feedback that users want more control over the folders available when a new file is saved.</span></span> <span data-ttu-id="3f2b2-620">新しい機能が追加されました。 [保存] ダイアログ ボックスでフォルダーをピン留めできます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-620">We're excited to bring a new capability to you: pin your folders in the Save dialog.</span></span> <span data-ttu-id="3f2b2-621">この新しい機能により、Word、Excel、PowerPoint のファイルを簡単に保存できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-621">This new capability will make saving your Word, Excel, and PowerPoint files easier.</span></span> [<span data-ttu-id="3f2b2-622">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-622">Learn more</span></span>](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br /><span data-ttu-id="3f2b2-623">[ブログの投稿](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)の詳細情報をご覧ください</span><span class="sxs-lookup"><span data-stu-id="3f2b2-623">See details in [blog post](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)</span></span>
+- <span data-ttu-id="dde2c-632">**固定フォルダーに保存する:** フォルダーをピン留めすると、Office ファイルの保存が簡単になります。</span><span class="sxs-lookup"><span data-stu-id="dde2c-632">**Save to Pinned Folders:** Pin your folders makes saving Office files easier.</span></span> <span data-ttu-id="dde2c-633">ユーザーは新しいファイルが保存されるときに使用可能なフォルダーをより詳細に制御したいとのフィードバックを受けました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-633">We received feedback that users want more control over the folders available when a new file is saved.</span></span> <span data-ttu-id="dde2c-634">新しい機能が追加されました。 [保存] ダイアログ ボックスでフォルダーをピン留めできます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-634">We're excited to bring a new capability to you: pin your folders in the Save dialog.</span></span> <span data-ttu-id="dde2c-635">この新しい機能により、Word、Excel、PowerPoint のファイルを簡単に保存できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-635">This new capability will make saving your Word, Excel, and PowerPoint files easier.</span></span> [<span data-ttu-id="dde2c-636">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-636">Learn more</span></span>](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br /><span data-ttu-id="dde2c-637">[ブログの投稿](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)の詳細情報をご覧ください</span><span class="sxs-lookup"><span data-stu-id="dde2c-637">See details in [blog post](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)</span></span>
 
-### <a name="teams"></a><span data-ttu-id="3f2b2-624">Teams</span><span class="sxs-lookup"><span data-stu-id="3f2b2-624">Teams</span></span>
+### <a name="teams"></a><span data-ttu-id="dde2c-638">Teams</span><span class="sxs-lookup"><span data-stu-id="dde2c-638">Teams</span></span>
 
-- <span data-ttu-id="3f2b2-625">**コールマージ:** コールマージにより、エンドユーザーは、アクティブな保持された 1 対 1 の 通話を別の1 対 1 の通話または別のグループ通話に結合できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-625">**Call Merge:** Call Merge gives end users the capability to merge their active unheld 1-1 call into another 1-1 call or another group call.</span></span> <span data-ttu-id="3f2b2-626">これは、Teams の VOIP 通話と PSTN 通話に適用されます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-626">This applies to Teams VOIP calls and PSTN calls.</span></span>
+- <span data-ttu-id="dde2c-639">**コールマージ:** コールマージにより、エンドユーザーは、アクティブな保持された 1 対 1 の 通話を別の1 対 1 の通話または別のグループ通話に結合できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-639">**Call Merge:** Call Merge gives end users the capability to merge their active unheld 1-1 call into another 1-1 call or another group call.</span></span> <span data-ttu-id="dde2c-640">これは、Teams の VOIP 通話と PSTN 通話に適用されます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-640">This applies to Teams VOIP calls and PSTN calls.</span></span>
 
-- <span data-ttu-id="3f2b2-627">**管理者は、Firstline ワーカーの出席状況をシフトベース (オンシフト、オフシフト) で構成できます:** 管理者は、シフト中、ビジー (シフト中に切り替えることができます)、シフト外といったシフトベースの出席状況を表示できるように Firstline ワーカーを構成できます。
+- <span data-ttu-id="dde2c-641">**管理者は、Firstline ワーカーの出席状況をシフトベース (オンシフト、オフシフト) で構成できます:** 管理者は、シフト中、ビジー (シフト中に切り替えることができます)、シフト外といったシフトベースの出席状況を表示できるように Firstline ワーカーを構成できます。
 
-</span><span class="sxs-lookup"><span data-stu-id="3f2b2-627">**Admins can configure shift-based presence (On shift, Off shift) for their Firstline workers:** Admins can configure their firstline workers to have shift-based presence states: On shift, Busy (can be toggled when on shift), and Off shift.</span></span>
+</span><span class="sxs-lookup"><span data-stu-id="dde2c-641">**Admins can configure shift-based presence (On shift, Off shift) for their Firstline workers:** Admins can configure their firstline workers to have shift-based presence states: On shift, Busy (can be toggled when on shift), and Off shift.</span></span>
 
-- <span data-ttu-id="3f2b2-628">**Teams の Cortana 音声スキル:** Teams モバイルアプリの Cortana 音声スキルにより、ユーザーは自然な話し言葉を使用して、会議、コミュニケーション、コラボレーションといったタスクを簡単に実行できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-628">**Cortana voice skills in Teams:** Cortana voice skills in Teams mobile app help users perform meeting, communication and collaboration tasks simply using spoken natural language.</span></span> <span data-ttu-id="3f2b2-629">ユーザーは、家事を色々こなしたり、犬の散歩をしたり、外出先で誰かと連絡する必要がある場合、Teams アプリのマイクボタンをクリックして Cortana に話しかけ、「ミーガンに電話する」や「次の会議にメッセージを送信する」といったリクエストを行うことができます。
+- <span data-ttu-id="dde2c-642">**Teams の Cortana 音声スキル:** Teams モバイルアプリの Cortana 音声スキルにより、ユーザーは自然な話し言葉を使用して、会議、コミュニケーション、コラボレーションといったタスクを簡単に実行できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-642">**Cortana voice skills in Teams:** Cortana voice skills in Teams mobile app help users perform meeting, communication and collaboration tasks simply using spoken natural language.</span></span> <span data-ttu-id="dde2c-643">ユーザーは、家事を色々こなしたり、犬の散歩をしたり、外出先で誰かと連絡する必要がある場合、Teams アプリのマイクボタンをクリックして Cortana に話しかけ、「ミーガンに電話する」や「次の会議にメッセージを送信する」といったリクエストを行うことができます。
 
-</span><span class="sxs-lookup"><span data-stu-id="3f2b2-629">Users can speak to Cortana by clicking on the microphone button in Teams app and make requests like “Call Megan” or “Send a message to my next meeting” if they need to connect with someone while juggling household chores or walking the dog or generally on the go.</span></span> <span data-ttu-id="3f2b2-630">ユーザーは「次の会議に参加する」と言うだけで会議に参加したり、「午前中の予定を教えて」と質問してカレンダーを確認したりできます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-630">Users can join meetings simply by saying “Join my next meeting” or check their calendar by asking “what do I have this morning”.</span></span> <span data-ttu-id="3f2b2-631">会議または通話に入ると、会議ステージのオーバーフローメニューから Cortana を呼び出して、名前または番号によるメンバーの追加 (「通話にミーガンを追加」)、デッキプレゼンテーション (「プレゼンテーション 四半期レビューデッキ」) またはスライドの紹介 (「付録スライドを紹介」) といった、一般的な会議のタスクを実行したりできます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-631">Once in a meeting or a call, they can invoke Cortana from the overflow menu in the meeting stage and perform typical in-meeting tasks like adding people by name or number (“Add Megan to the call”), deck presentation (“present the quarterly review deck”) or navigating slides (“Go to the appendix slide”).</span></span> <span data-ttu-id="3f2b2-632">この機能がサポートするその他の機能としては、ファイルの検索と共有、検索、およびTeamsアプリ内での一般的な移動 (「Johnとのチャットを開く、未読のアクティビティに移動する、メンションに移動する」など) があります。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-632">Other things that the feature supports are finding and sharing files, search, and generally navigating within the Teams app (“Open my chat with John, Go to my unread activity, Go to my mentions etc.).</span></span> <span data-ttu-id="3f2b2-633">チーム内の Cortana は、[オンラインサービス規約 (OST) ](https://www.microsoft.com/licensing/product-licensing/products)に反映されているように、Cortana エンタープライズサービスと同じエンタープライズレベルのプライバシー、セキュリティ、およびコンプライアンスの約束を満たしています。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-633">Cortana in Teams meets the same enterprise-level privacy, security, and compliance promises for Cortana enterprise services, as reflected in the [Online Services Terms (OST)](https://www.microsoft.com/licensing/product-licensing/products).</span></span>
+</span><span class="sxs-lookup"><span data-stu-id="dde2c-643">Users can speak to Cortana by clicking on the microphone button in Teams app and make requests like “Call Megan” or “Send a message to my next meeting” if they need to connect with someone while juggling household chores or walking the dog or generally on the go.</span></span> <span data-ttu-id="dde2c-644">ユーザーは「次の会議に参加する」と言うだけで会議に参加したり、「午前中の予定を教えて」と質問してカレンダーを確認したりできます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-644">Users can join meetings simply by saying “Join my next meeting” or check their calendar by asking “what do I have this morning”.</span></span> <span data-ttu-id="dde2c-645">会議または通話に入ると、会議ステージのオーバーフローメニューから Cortana を呼び出して、名前または番号によるメンバーの追加 (「通話にミーガンを追加」)、デッキプレゼンテーション (「プレゼンテーション 四半期レビューデッキ」) またはスライドの紹介 (「付録スライドを紹介」) といった、一般的な会議のタスクを実行したりできます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-645">Once in a meeting or a call, they can invoke Cortana from the overflow menu in the meeting stage and perform typical in-meeting tasks like adding people by name or number (“Add Megan to the call”), deck presentation (“present the quarterly review deck”) or navigating slides (“Go to the appendix slide”).</span></span> <span data-ttu-id="dde2c-646">この機能がサポートするその他の機能としては、ファイルの検索と共有、検索、およびTeamsアプリ内での一般的な移動 (「Johnとのチャットを開く、未読のアクティビティに移動する、メンションに移動する」など) があります。</span><span class="sxs-lookup"><span data-stu-id="dde2c-646">Other things that the feature supports are finding and sharing files, search, and generally navigating within the Teams app (“Open my chat with John, Go to my unread activity, Go to my mentions etc.).</span></span> <span data-ttu-id="dde2c-647">チーム内の Cortana は、[オンラインサービス規約 (OST) ](https://www.microsoft.com/licensing/product-licensing/products)に反映されているように、Cortana エンタープライズサービスと同じエンタープライズレベルのプライバシー、セキュリティ、およびコンプライアンスの約束を満たしています。</span><span class="sxs-lookup"><span data-stu-id="dde2c-647">Cortana in Teams meets the same enterprise-level privacy, security, and compliance promises for Cortana enterprise services, as reflected in the [Online Services Terms (OST)](https://www.microsoft.com/licensing/product-licensing/products).</span></span>
 
-- <span data-ttu-id="3f2b2-634">**グループチャットの拡大:** Teams で 250 人がグループチャットに参加できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-634">**Group chat increase:** Teams added the ability to now have 250 participants in a group chat.</span></span>
+- <span data-ttu-id="dde2c-648">**グループチャットの拡大:** Teams で 250 人がグループチャットに参加できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-648">**Group chat increase:** Teams added the ability to now have 250 participants in a group chat.</span></span>
 
-- <span data-ttu-id="3f2b2-635">**シフトによるタグ付け:** この機能を使用すると、 Teams の [シフトアプリ](https://support.microsoft.com/office/get-started-in-shifts-5f3e30d8-1821-4904-be26-c3cd25a497d6#bkmk_openshiftsappdesktop)で、スケジュールとシフトグループ名に一致するタグが自動的に割り当てられます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-635">**Tagging by Shift:** With this feature, people are automatically assigned tags that match their schedule and shift group name in the [Shifts app](https://support.microsoft.com/office/get-started-in-shifts-5f3e30d8-1821-4904-be26-c3cd25a497d6#bkmk_openshiftsappdesktop) in Teams.</span></span>
+- <span data-ttu-id="dde2c-649">**シフトによるタグ付け:** この機能を使用すると、 Teams の [シフトアプリ](https://support.microsoft.com/office/get-started-in-shifts-5f3e30d8-1821-4904-be26-c3cd25a497d6#bkmk_openshiftsappdesktop)で、スケジュールとシフトグループ名に一致するタグが自動的に割り当てられます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-649">**Tagging by Shift:** With this feature, people are automatically assigned tags that match their schedule and shift group name in the [Shifts app](https://support.microsoft.com/office/get-started-in-shifts-5f3e30d8-1821-4904-be26-c3cd25a497d6#bkmk_openshiftsappdesktop) in Teams.</span></span>
 
-### <a name="word"></a><span data-ttu-id="3f2b2-636">Word</span><span class="sxs-lookup"><span data-stu-id="3f2b2-636">Word</span></span>
+### <a name="word"></a><span data-ttu-id="dde2c-650">Word</span><span class="sxs-lookup"><span data-stu-id="dde2c-650">Word</span></span>
 
-- <span data-ttu-id="3f2b2-637">**固定フォルダーに保存する:** フォルダーをピン留めすると、Office ファイルの保存が簡単になります。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-637">**Save to Pinned Folders:** Pin your folders makes saving Office files easier.</span></span> <span data-ttu-id="3f2b2-638">ユーザーは新しいファイルが保存されるときに使用可能なフォルダーをより詳細に制御したいとのフィードバックを受けました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-638">We received feedback that users want more control over the folders available when a new file is saved.</span></span> <span data-ttu-id="3f2b2-639">新しい機能が追加されました。 [保存] ダイアログ ボックスでフォルダーをピン留めできます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-639">We're excited to bring a new capability to you: pin your folders in the Save dialog.</span></span> <span data-ttu-id="3f2b2-640">この新しい機能により、Word、Excel、PowerPoint のファイルを簡単に保存できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-640">This new capability will make saving your Word, Excel, and PowerPoint files easier.</span></span> [<span data-ttu-id="3f2b2-641">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-641">Learn more</span></span>](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br /><span data-ttu-id="3f2b2-642">[ブログの投稿](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)の詳細情報をご覧ください</span><span class="sxs-lookup"><span data-stu-id="3f2b2-642">See details in [blog post](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)</span></span>
+- <span data-ttu-id="dde2c-651">**固定フォルダーに保存する:** フォルダーをピン留めすると、Office ファイルの保存が簡単になります。</span><span class="sxs-lookup"><span data-stu-id="dde2c-651">**Save to Pinned Folders:** Pin your folders makes saving Office files easier.</span></span> <span data-ttu-id="dde2c-652">ユーザーは新しいファイルが保存されるときに使用可能なフォルダーをより詳細に制御したいとのフィードバックを受けました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-652">We received feedback that users want more control over the folders available when a new file is saved.</span></span> <span data-ttu-id="dde2c-653">新しい機能が追加されました。 [保存] ダイアログ ボックスでフォルダーをピン留めできます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-653">We're excited to bring a new capability to you: pin your folders in the Save dialog.</span></span> <span data-ttu-id="dde2c-654">この新しい機能により、Word、Excel、PowerPoint のファイルを簡単に保存できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-654">This new capability will make saving your Word, Excel, and PowerPoint files easier.</span></span> [<span data-ttu-id="dde2c-655">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-655">Learn more</span></span>](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br /><span data-ttu-id="dde2c-656">[ブログの投稿](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)の詳細情報をご覧ください</span><span class="sxs-lookup"><span data-stu-id="dde2c-656">See details in [blog post](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)</span></span>
 
-### <a name="office-suite"></a><span data-ttu-id="3f2b2-643">Office スイート</span><span class="sxs-lookup"><span data-stu-id="3f2b2-643">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="dde2c-657">Office スイート</span><span class="sxs-lookup"><span data-stu-id="dde2c-657">Office Suite</span></span>
 
-- <span data-ttu-id="3f2b2-644">**タブ付きのウィンドウ**: アプリの右側にあるタブ UI を使用して、複数のウィンドウ間を切り替えることができるようになりました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-644">**Tabbed Panes:** Now you can switch between multiple panes using a tab UI on the right hand side of the app.</span></span> <span data-ttu-id="3f2b2-645">UI は、2 つ以上のウィンドウが開かれている場合にのみ表示されます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-645">The UI will only be visible when you have 2+ panes open.</span></span><br /><span data-ttu-id="3f2b2-646">[ブログの投稿](https://blog-insider.office.com/2020/02/20/improved-pane-management/)の詳細情報をご覧ください</span><span class="sxs-lookup"><span data-stu-id="3f2b2-646">See details in [blog post](https://blog-insider.office.com/2020/02/20/improved-pane-management/)</span></span>
+- <span data-ttu-id="dde2c-658">**タブ付きのウィンドウ**: アプリの右側にあるタブ UI を使用して、複数のウィンドウ間を切り替えることができるようになりました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-658">**Tabbed Panes:** Now you can switch between multiple panes using a tab UI on the right hand side of the app.</span></span> <span data-ttu-id="dde2c-659">UI は、2 つ以上のウィンドウが開かれている場合にのみ表示されます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-659">The UI will only be visible when you have 2+ panes open.</span></span><br /><span data-ttu-id="dde2c-660">[ブログの投稿](https://blog-insider.office.com/2020/02/20/improved-pane-management/)の詳細情報をご覧ください</span><span class="sxs-lookup"><span data-stu-id="dde2c-660">See details in [blog post](https://blog-insider.office.com/2020/02/20/improved-pane-management/)</span></span>
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -973,171 +1006,171 @@ ms.locfileid: "50455773"
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-649">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-649">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="3f2b2-650">Access</span><span class="sxs-lookup"><span data-stu-id="3f2b2-650">Access</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-663">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-663">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="dde2c-664">Access</span><span class="sxs-lookup"><span data-stu-id="dde2c-664">Access</span></span>
 
-- <span data-ttu-id="3f2b2-651">この問題は解決されました。これで、Office のクイック実行アプリケーション以外でも ODBC ドライバーを使用できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-651">This issue has been resolved - you can now use our ODBC driver outside of Office's Click-to-Run applications.</span></span>
-
-
-### <a name="outlook"></a><span data-ttu-id="3f2b2-652">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-652">Outlook</span></span>
-
-- <span data-ttu-id="3f2b2-653">プロファイルに追加されたサブ アカウントから会議出席依頼を作成しようとした場合に、ユーザーのメール アドレスの代わりに空欄の From: フィールドが表示されないという問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-653">Fixes an issue that caused users who attempted to create a meeting request from a secondary account added to their profile to not see a blank From: field instead of their email address.</span></span>
-
-- <span data-ttu-id="3f2b2-654">共有メールボックスを追加した後に、ユーザーがパブリック フォルダーに接続できない原因となっていた問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-654">Fixes an issue that caused users to be unable to connect to Public Folders after adding a shared mailbox.</span></span>
-
-- <span data-ttu-id="3f2b2-655">特定の状況で代理人が会議を辞退したときに、マネージャーのカレンダーから削除されないという問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-655">Addressed an issue that caused meetings to fail to be removed from a manager's calendar when declined by a delegate in some circumstances.</span></span>
-
-- <span data-ttu-id="3f2b2-656">共有カレンダーの改善機能を使用している一部のユーザーが、新しく追加された共有カレンダーを表示できない問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-656">Addressed an issue that prevented some users of the Shared Calendar Improvements feature from being able to view a newly-added shared calendar.</span></span>
-
-- <span data-ttu-id="3f2b2-657">クラウドの添付ファイルを操作するときに、ユーザーに時折クラッシュが発生する問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-657">Fixes an issue that caused users to experience occasional crashes when interacting with Cloud attachments.</span></span>
-
-- <span data-ttu-id="3f2b2-658">SharePoint ファイルに Smart Link を追加すると、一部の文字セットのユーザーにファイル名が正しく表示されないという問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-658">Addressed an issue that caused users of some character sets to see file names display incorrectly when adding a Smart Link to a SharePoint file.</span></span>
-
-- <span data-ttu-id="3f2b2-659">新しいメールに返信、または新しいメールを作成するときにユーザーにクラッシュが発生する問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-659">Addresses an issue that caused users to experience a crash when replying to or composing new email.</span></span>
-
-- <span data-ttu-id="3f2b2-660">[ヘッダーのみダウンロード] オプションが選択されている POP アカウントから 4 件以上のメールを削除しようとするとクラッシュするという問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-660">Addressed an issue which caused users to experience a crash when deleting 4 or more emails from a POP account with the "Download Headers Only" option selected.</span></span>
-
-- <span data-ttu-id="3f2b2-661">一部のユーザーにスケジュール アシスタント ページが表示されない問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-661">Addressed an issue that caused some users to see the Scheduling Assistant page fail to display.</span></span>
-
-- <span data-ttu-id="3f2b2-662">これにより、受信者を編集しているときに不定期にクラッシュする問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-662">This fixes an issue that caused users to experience occasional crashes when editing recipients.</span></span>
-
-- <span data-ttu-id="3f2b2-663">コンパクト ビューを使用するときに異常が表示される原因となっていた問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-663">Fixes an issue that caused users to see anomalies when using the compact view.</span></span>
-
-- <span data-ttu-id="3f2b2-664">右クリックのコンテキストメニューが検索コントロールに表示されない問題の原因を解決しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-664">Addressed an issue that caused the right-click context menu to fail to appear in the search controls.</span></span>
-
-- <span data-ttu-id="3f2b2-665">ユーザーが新しいメールに返信または作成するときに次のエラーを受け取る原因となった問題に対処します。「この Web ページのファイルの一部が予期された場所にありません。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-665">Addresses an issue that caused users to receive the following error when replying to or composing new email, "Some of the files in this web page aren't in the expected location.</span></span> <span data-ttu-id="3f2b2-666">この Web ページをダウンロードする必要がありますか? </span><span class="sxs-lookup"><span data-stu-id="3f2b2-666">Do you want to download them anyway?</span></span> <span data-ttu-id="3f2b2-667">Web ページが信頼できるソースからのものであることを確認したら、[はい] をクリックします。」</span><span class="sxs-lookup"><span data-stu-id="3f2b2-667">If you’re sure the Web page is from a trusted source, click Yes"</span></span>
+- <span data-ttu-id="dde2c-665">この問題は解決されました。これで、Office のクイック実行アプリケーション以外でも ODBC ドライバーを使用できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-665">This issue has been resolved - you can now use our ODBC driver outside of Office's Click-to-Run applications.</span></span>
 
 
-### <a name="project"></a><span data-ttu-id="3f2b2-668">Project</span><span class="sxs-lookup"><span data-stu-id="3f2b2-668">Project</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-666">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-666">Outlook</span></span>
 
-- <span data-ttu-id="3f2b2-669">SharePoint タスクリストに接続されているプロジェクトのプロジェクト終了日が更新されない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-669">Fixed an issue where the Project finish date isn't getting updated for projects connected to SharePoint tasks list.</span></span>
+- <span data-ttu-id="dde2c-667">プロファイルに追加されたサブ アカウントから会議出席依頼を作成しようとした場合に、ユーザーのメール アドレスの代わりに空欄の From: フィールドが表示されないという問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-667">Fixes an issue that caused users who attempted to create a meeting request from a secondary account added to their profile to not see a blank From: field instead of their email address.</span></span>
 
-- <span data-ttu-id="3f2b2-670">リソースに複数のコスト単価表が定義されている場合に、残りのコストが正しく計算されない場合がある問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-670">Fixed an issue where if a resource had more than one cost rate table defined, remaining cost was not always calculated correctly.</span></span>
+- <span data-ttu-id="dde2c-668">共有メールボックスを追加した後に、ユーザーがパブリック フォルダーに接続できない原因となっていた問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-668">Fixes an issue that caused users to be unable to connect to Public Folders after adding a shared mailbox.</span></span>
 
-### <a name="skype"></a><span data-ttu-id="3f2b2-671">Skype</span><span class="sxs-lookup"><span data-stu-id="3f2b2-671">Skype</span></span>
+- <span data-ttu-id="dde2c-669">特定の状況で代理人が会議を辞退したときに、マネージャーのカレンダーから削除されないという問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-669">Addressed an issue that caused meetings to fail to be removed from a manager's calendar when declined by a delegate in some circumstances.</span></span>
 
-- <span data-ttu-id="3f2b2-672">ダンス絵文字の肌の色を中間色に変更しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-672">Changed dancing emoticon skin tone to neutral color.</span></span>
+- <span data-ttu-id="dde2c-670">共有カレンダーの改善機能を使用している一部のユーザーが、新しく追加された共有カレンダーを表示できない問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-670">Addressed an issue that prevented some users of the Shared Calendar Improvements feature from being able to view a newly-added shared calendar.</span></span>
 
-### <a name="word"></a><span data-ttu-id="3f2b2-673">Word</span><span class="sxs-lookup"><span data-stu-id="3f2b2-673">Word</span></span>
+- <span data-ttu-id="dde2c-671">クラウドの添付ファイルを操作するときに、ユーザーに時折クラッシュが発生する問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-671">Fixes an issue that caused users to experience occasional crashes when interacting with Cloud attachments.</span></span>
 
-- <span data-ttu-id="3f2b2-674">この変更により、以前の共同編集セッションの後に Office アプリケーションがサイレントな保存の失敗状態に陥ることがある問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-674">This change fixes an issue where Office applications can get stuck in a silent Save failure state after a previous coauthoring session.</span></span>
+- <span data-ttu-id="dde2c-672">SharePoint ファイルに Smart Link を追加すると、一部の文字セットのユーザーにファイル名が正しく表示されないという問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-672">Addressed an issue that caused users of some character sets to see file names display incorrectly when adding a Smart Link to a SharePoint file.</span></span>
 
-- <span data-ttu-id="3f2b2-675">マクロ AutoOpen が AutoExec の前に実行されてしまうという問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-675">We fixed an issue where macro AutoOpen runs before AutoExec</span></span>
+- <span data-ttu-id="dde2c-673">新しいメールに返信、または新しいメールを作成するときにユーザーにクラッシュが発生する問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-673">Addresses an issue that caused users to experience a crash when replying to or composing new email.</span></span>
+
+- <span data-ttu-id="dde2c-674">[ヘッダーのみダウンロード] オプションが選択されている POP アカウントから 4 件以上のメールを削除しようとするとクラッシュするという問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-674">Addressed an issue which caused users to experience a crash when deleting 4 or more emails from a POP account with the "Download Headers Only" option selected.</span></span>
+
+- <span data-ttu-id="dde2c-675">一部のユーザーにスケジュール アシスタント ページが表示されない問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-675">Addressed an issue that caused some users to see the Scheduling Assistant page fail to display.</span></span>
+
+- <span data-ttu-id="dde2c-676">これにより、受信者を編集しているときに不定期にクラッシュする問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-676">This fixes an issue that caused users to experience occasional crashes when editing recipients.</span></span>
+
+- <span data-ttu-id="dde2c-677">コンパクト ビューを使用するときに異常が表示される原因となっていた問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-677">Fixes an issue that caused users to see anomalies when using the compact view.</span></span>
+
+- <span data-ttu-id="dde2c-678">右クリックのコンテキストメニューが検索コントロールに表示されない問題の原因を解決しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-678">Addressed an issue that caused the right-click context menu to fail to appear in the search controls.</span></span>
+
+- <span data-ttu-id="dde2c-679">ユーザーが新しいメールに返信または作成するときに次のエラーを受け取る原因となった問題に対処します。「この Web ページのファイルの一部が予期された場所にありません。</span><span class="sxs-lookup"><span data-stu-id="dde2c-679">Addresses an issue that caused users to receive the following error when replying to or composing new email, "Some of the files in this web page aren't in the expected location.</span></span> <span data-ttu-id="dde2c-680">この Web ページをダウンロードする必要がありますか? </span><span class="sxs-lookup"><span data-stu-id="dde2c-680">Do you want to download them anyway?</span></span> <span data-ttu-id="dde2c-681">Web ページが信頼できるソースからのものであることを確認したら、[はい] をクリックします。」</span><span class="sxs-lookup"><span data-stu-id="dde2c-681">If you’re sure the Web page is from a trusted source, click Yes"</span></span>
+
+
+### <a name="project"></a><span data-ttu-id="dde2c-682">Project</span><span class="sxs-lookup"><span data-stu-id="dde2c-682">Project</span></span>
+
+- <span data-ttu-id="dde2c-683">SharePoint タスクリストに接続されているプロジェクトのプロジェクト終了日が更新されない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-683">Fixed an issue where the Project finish date isn't getting updated for projects connected to SharePoint tasks list.</span></span>
+
+- <span data-ttu-id="dde2c-684">リソースに複数のコスト単価表が定義されている場合に、残りのコストが正しく計算されない場合がある問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-684">Fixed an issue where if a resource had more than one cost rate table defined, remaining cost was not always calculated correctly.</span></span>
+
+### <a name="skype"></a><span data-ttu-id="dde2c-685">Skype</span><span class="sxs-lookup"><span data-stu-id="dde2c-685">Skype</span></span>
+
+- <span data-ttu-id="dde2c-686">ダンス絵文字の肌の色を中間色に変更しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-686">Changed dancing emoticon skin tone to neutral color.</span></span>
+
+### <a name="word"></a><span data-ttu-id="dde2c-687">Word</span><span class="sxs-lookup"><span data-stu-id="dde2c-687">Word</span></span>
+
+- <span data-ttu-id="dde2c-688">この変更により、以前の共同編集セッションの後に Office アプリケーションがサイレントな保存の失敗状態に陥ることがある問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-688">This change fixes an issue where Office applications can get stuck in a silent Save failure state after a previous coauthoring session.</span></span>
+
+- <span data-ttu-id="dde2c-689">マクロ AutoOpen が AutoExec の前に実行されてしまうという問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-689">We fixed an issue where macro AutoOpen runs before AutoExec</span></span>
 
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2007-august-25"></a><span data-ttu-id="3f2b2-677">バージョン 2007: 8 月 25 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-677">Version 2007: August 25</span></span>
-<span data-ttu-id="3f2b2-678">*バージョン 2007 (ビルド 13029.20460)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-678">*Version 2007 (Build 13029.20460)*</span></span>
+## <a name="version-2007-august-25"></a><span data-ttu-id="dde2c-691">バージョン 2007: 8 月 25 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-691">Version 2007: August 25</span></span>
+<span data-ttu-id="dde2c-692">*バージョン 2007 (ビルド 13029.20460)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-692">*Version 2007 (Build 13029.20460)*</span></span>
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-680">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-680">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="3f2b2-681">Excel</span><span class="sxs-lookup"><span data-stu-id="3f2b2-681">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-694">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-694">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="dde2c-695">Excel</span><span class="sxs-lookup"><span data-stu-id="dde2c-695">Excel</span></span>
 
-- <span data-ttu-id="3f2b2-682">LET () 関数を使用して、数式を含むファイルを保存しようとすると、エラーが発生することがあります。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-682">An error could occur when trying to save a file that contains a formula using the LET() function.</span></span>
-
-
-### <a name="outlook"></a><span data-ttu-id="3f2b2-683">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-683">Outlook</span></span>
-
-- <span data-ttu-id="3f2b2-684">SharePoint ファイルに Smart Link を追加すると、一部の文字セットのユーザーにファイル名が正しく表示されないという問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-684">Addressed an issue that caused users of some character sets to see file names display incorrectly when adding a Smart Link to a SharePoint file.</span></span>
+- <span data-ttu-id="dde2c-696">LET () 関数を使用して、数式を含むファイルを保存しようとすると、エラーが発生することがあります。</span><span class="sxs-lookup"><span data-stu-id="dde2c-696">An error could occur when trying to save a file that contains a formula using the LET() function.</span></span>
 
 
-- <span data-ttu-id="3f2b2-685">Outlook ユーザーにコンパクト ビューでのナビゲーションの問題が表示される問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-685">Addressed an issue that caused outlook users to see issues with navigation in compact views.</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-697">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-697">Outlook</span></span>
+
+- <span data-ttu-id="dde2c-698">SharePoint ファイルに Smart Link を追加すると、一部の文字セットのユーザーにファイル名が正しく表示されないという問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-698">Addressed an issue that caused users of some character sets to see file names display incorrectly when adding a Smart Link to a SharePoint file.</span></span>
 
 
-### <a name="powerpoint"></a><span data-ttu-id="3f2b2-686">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="3f2b2-686">PowerPoint</span></span>
-
-- <span data-ttu-id="3f2b2-687">PowerPoint アプリでクラッシュする問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-687">We have fixed a crash issue with PowerPoint app.</span></span>
+- <span data-ttu-id="dde2c-699">Outlook ユーザーにコンパクト ビューでのナビゲーションの問題が表示される問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-699">Addressed an issue that caused outlook users to see issues with navigation in compact views.</span></span>
 
 
-### <a name="word"></a><span data-ttu-id="3f2b2-688">Word</span><span class="sxs-lookup"><span data-stu-id="3f2b2-688">Word</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="dde2c-700">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="dde2c-700">PowerPoint</span></span>
 
-- <span data-ttu-id="3f2b2-689">新しいメールに返信または作成するときにユーザーにクラッシュが発生する問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-689">Addresses an issue that caused users to experience a crash when replying to or composing new mail.</span></span>
-
-
-### <a name="office-suite"></a><span data-ttu-id="3f2b2-690">Office スイート</span><span class="sxs-lookup"><span data-stu-id="3f2b2-690">Office Suite</span></span>
-
-- <span data-ttu-id="3f2b2-691">以前の Web サービス ベースの [共有] ウィンドウで、[共有] ウィンドウが開いているときに文書を閉じるとクラッシュする場合があります。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-691">For the old, non-web service based Share pane, upon closing the document while the Share pane is open could cause a crash.</span></span> <span data-ttu-id="3f2b2-692">この問題は修正されました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-692">This is now fixed.</span></span>
+- <span data-ttu-id="dde2c-701">PowerPoint アプリでクラッシュする問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-701">We have fixed a crash issue with PowerPoint app.</span></span>
 
 
-- <span data-ttu-id="3f2b2-693">特定の状況下で UI 要素またはコンテンツが表示されない問題を修正しました。特に、発表者ツールのオン/オフ、または複数のモニターの使用に関して発生しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-693">We fixed an issue where users were seeing the UI elements or content not being displayed under certain conditions, in particular with coming in and out of Presenter View or using multiple monitors.</span></span>
+### <a name="word"></a><span data-ttu-id="dde2c-702">Word</span><span class="sxs-lookup"><span data-stu-id="dde2c-702">Word</span></span>
+
+- <span data-ttu-id="dde2c-703">新しいメールに返信または作成するときにユーザーにクラッシュが発生する問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-703">Addresses an issue that caused users to experience a crash when replying to or composing new mail.</span></span>
+
+
+### <a name="office-suite"></a><span data-ttu-id="dde2c-704">Office スイート</span><span class="sxs-lookup"><span data-stu-id="dde2c-704">Office Suite</span></span>
+
+- <span data-ttu-id="dde2c-705">以前の Web サービス ベースの [共有] ウィンドウで、[共有] ウィンドウが開いているときに文書を閉じるとクラッシュする場合があります。</span><span class="sxs-lookup"><span data-stu-id="dde2c-705">For the old, non-web service based Share pane, upon closing the document while the Share pane is open could cause a crash.</span></span> <span data-ttu-id="dde2c-706">この問題は修正されました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-706">This is now fixed.</span></span>
+
+
+- <span data-ttu-id="dde2c-707">特定の状況下で UI 要素またはコンテンツが表示されない問題を修正しました。特に、発表者ツールのオン/オフ、または複数のモニターの使用に関して発生しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-707">We fixed an issue where users were seeing the UI elements or content not being displayed under certain conditions, in particular with coming in and out of Presenter View or using multiple monitors.</span></span>
 
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2007-august-11"></a><span data-ttu-id="3f2b2-695">バージョン 2007: 8 月 11 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-695">Version 2007: August 11</span></span>
-<span data-ttu-id="3f2b2-696">*バージョン 2007 (ビルド 13029.20344)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-696">*Version 2007 (Build 13029.20344)*</span></span>
+## <a name="version-2007-august-11"></a><span data-ttu-id="dde2c-709">バージョン 2007: 8 月 11 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-709">Version 2007: August 11</span></span>
+<span data-ttu-id="dde2c-710">*バージョン 2007 (ビルド 13029.20344)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-710">*Version 2007 (Build 13029.20344)*</span></span>
 
-<span data-ttu-id="3f2b2-697">セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="3f2b2-697">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
+<span data-ttu-id="dde2c-711">セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="dde2c-711">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-699">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-699">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="3f2b2-700">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-700">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-713">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-713">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-714">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-714">Outlook</span></span>
 
-- <span data-ttu-id="3f2b2-701">Outlook で検索候補を取得できない問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-701">Addressed an issue that caused Outlook to fail to retrieve search suggestions.</span></span>
-
-
-- <span data-ttu-id="3f2b2-702">ユーザーがペルソナ情報を取得しようとしたときにクラッシュする場合がある問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-702">Addressed an issue that caused users to occasionally crash when retrieving persona information.</span></span>
+- <span data-ttu-id="dde2c-715">Outlook で検索候補を取得できない問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-715">Addressed an issue that caused Outlook to fail to retrieve search suggestions.</span></span>
 
 
-### <a name="project"></a><span data-ttu-id="3f2b2-703">Project</span><span class="sxs-lookup"><span data-stu-id="3f2b2-703">Project</span></span>
+- <span data-ttu-id="dde2c-716">ユーザーがペルソナ情報を取得しようとしたときにクラッシュする場合がある問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-716">Addressed an issue that caused users to occasionally crash when retrieving persona information.</span></span>
 
-- <span data-ttu-id="3f2b2-704">正常ではない状態になったプロジェクトを開くことができない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-704">Fixed an issue where a project that had gotten into a bad state could not be opened.</span></span>
+
+### <a name="project"></a><span data-ttu-id="dde2c-717">Project</span><span class="sxs-lookup"><span data-stu-id="dde2c-717">Project</span></span>
+
+- <span data-ttu-id="dde2c-718">正常ではない状態になったプロジェクトを開くことができない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-718">Fixed an issue where a project that had gotten into a bad state could not be opened.</span></span>
 
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2007-july-30"></a><span data-ttu-id="3f2b2-706">バージョン 2007: 7 月 30 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-706">Version 2007: July 30</span></span>
-<span data-ttu-id="3f2b2-707">*バージョン 2007 (ビルド 13029.20308)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-707">*Version 2007 (Build 13029.20308)*</span></span>
+## <a name="version-2007-july-30"></a><span data-ttu-id="dde2c-720">バージョン 2007: 7 月 30 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-720">Version 2007: July 30</span></span>
+<span data-ttu-id="dde2c-721">*バージョン 2007 (ビルド 13029.20308)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-721">*Version 2007 (Build 13029.20308)*</span></span>
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="feature-updates"></a><span data-ttu-id="3f2b2-709">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="3f2b2-709">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="3f2b2-710">Excel</span><span class="sxs-lookup"><span data-stu-id="3f2b2-710">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="dde2c-723">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="dde2c-723">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="dde2c-724">Excel</span><span class="sxs-lookup"><span data-stu-id="dde2c-724">Excel</span></span>
 
-- <span data-ttu-id="3f2b2-711">**PDF に接続:** PDF からデータに接続、インポート、更新します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-711">**Make a PDF connection:** Connect to, import, refresh data from a PDF.</span></span> [<span data-ttu-id="3f2b2-712">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-712">Learn more</span></span>](https://support.office.com/article/be4330b3-5356-486c-a168-b68e9e616f5a)
+- <span data-ttu-id="dde2c-725">**PDF に接続:** PDF からデータに接続、インポート、更新します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-725">**Make a PDF connection:** Connect to, import, refresh data from a PDF.</span></span> [<span data-ttu-id="dde2c-726">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-726">Learn more</span></span>](https://support.office.com/article/be4330b3-5356-486c-a168-b68e9e616f5a)
 
-- <span data-ttu-id="3f2b2-713">**他のユーザーを混乱させずに、フィルター処理して並べ替える:**、Sheet View で他のユーザーとの共同作業を行いながら Excel ファイルの並べ替えやフィルター処理ができるようになりました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-713">**Filter and sort without disrupting others:** You can now sort and filter your Excel file while collaborating with others with Sheet View.</span></span> <span data-ttu-id="3f2b2-714">この新機能により、文書を共同編集しているときに、他のユーザーの並べ替えやフィルター処理による影響を受けません。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-714">This new feature prevents you from being impacted by other user’s sorts and filters while coauthoring the document.</span></span> [<span data-ttu-id="3f2b2-715">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-715">Learn more</span></span>](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)
+- <span data-ttu-id="dde2c-727">**他のユーザーを混乱させずに、フィルター処理して並べ替える:**、Sheet View で他のユーザーとの共同作業を行いながら Excel ファイルの並べ替えやフィルター処理ができるようになりました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-727">**Filter and sort without disrupting others:** You can now sort and filter your Excel file while collaborating with others with Sheet View.</span></span> <span data-ttu-id="dde2c-728">この新機能により、文書を共同編集しているときに、他のユーザーの並べ替えやフィルター処理による影響を受けません。</span><span class="sxs-lookup"><span data-stu-id="dde2c-728">This new feature prevents you from being impacted by other user’s sorts and filters while coauthoring the document.</span></span> [<span data-ttu-id="dde2c-729">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-729">Learn more</span></span>](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)
 
-- <span data-ttu-id="3f2b2-716">**秘密度ラベルの自動適用または推奨:** Office は、検出された機密コンテンツに基づいて機密ラベルを推奨または自動的に適用できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-716">**Auto-apply or recommend sensitivity labels:** Office can recommend or automatically apply a sensitivity label based on the sensitive content detected.</span></span>
+- <span data-ttu-id="dde2c-730">**秘密度ラベルの自動適用または推奨:** Office は、検出された機密コンテンツに基づいて機密ラベルを推奨または自動的に適用できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-730">**Auto-apply or recommend sensitivity labels:** Office can recommend or automatically apply a sensitivity label based on the sensitive content detected.</span></span>
 
-- <span data-ttu-id="3f2b2-717">**Excel で Power BI のデータセットからピボットテーブルを作成する:** Power BI に保存されているデータセットに接続されている Excel のピボットテーブルを数回のクリックで作成できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-717">**Create PivotTables from Datasets in Power BI within Excel:** You can create PivotTables in Excel that are connected to datasets stored in Power BI with a few clicks.</span></span> <span data-ttu-id="3f2b2-718">これにより、ピボットテーブルと Power BI の両方を最大限に活用できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-718">Doing this allows you get the best of both PivotTables and Power BI.</span></span> <span data-ttu-id="3f2b2-719">セキュリティで保護された Power BI データセットからピボットテーブルを使って、データの計算、集計、分析を行います。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-719">Calculate, summarize, and analyze your data with PivotTables from your secure Power BI datasets.</span></span> [<span data-ttu-id="3f2b2-720">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-720">Learn more</span></span>](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br /><span data-ttu-id="3f2b2-721">[ブログの投稿](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)の詳細情報をご覧ください</span><span class="sxs-lookup"><span data-stu-id="3f2b2-721">See details in [blog post](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)</span></span>
+- <span data-ttu-id="dde2c-731">**Excel で Power BI のデータセットからピボットテーブルを作成する:** Power BI に保存されているデータセットに接続されている Excel のピボットテーブルを数回のクリックで作成できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-731">**Create PivotTables from Datasets in Power BI within Excel:** You can create PivotTables in Excel that are connected to datasets stored in Power BI with a few clicks.</span></span> <span data-ttu-id="dde2c-732">これにより、ピボットテーブルと Power BI の両方を最大限に活用できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-732">Doing this allows you get the best of both PivotTables and Power BI.</span></span> <span data-ttu-id="dde2c-733">セキュリティで保護された Power BI データセットからピボットテーブルを使って、データの計算、集計、分析を行います。</span><span class="sxs-lookup"><span data-stu-id="dde2c-733">Calculate, summarize, and analyze your data with PivotTables from your secure Power BI datasets.</span></span> [<span data-ttu-id="dde2c-734">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-734">Learn more</span></span>](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br /><span data-ttu-id="dde2c-735">[ブログの投稿](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)の詳細情報をご覧ください</span><span class="sxs-lookup"><span data-stu-id="dde2c-735">See details in [blog post](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="3f2b2-722">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-722">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-736">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-736">Outlook</span></span>
 
-- <span data-ttu-id="3f2b2-723">**クイック投票を使用して、Outlook で投票を作成:** 簡単に投票を作成し、票を収集して、メールに結果を表示します。[詳細情報](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)</span><span class="sxs-lookup"><span data-stu-id="3f2b2-723">**Create polls in Outlook with Quick Poll:** Easily create a poll, collect votes, and view results within an email [Learn more](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)</span></span>
+- <span data-ttu-id="dde2c-737">**クイック投票を使用して、Outlook で投票を作成:** 簡単に投票を作成し、票を収集して、メールに結果を表示します。[詳細情報](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)</span><span class="sxs-lookup"><span data-stu-id="dde2c-737">**Create polls in Outlook with Quick Poll:** Easily create a poll, collect votes, and view results within an email [Learn more](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)</span></span>
 
-- <span data-ttu-id="3f2b2-724">**メールの一部として画像を送信するときに、画像を高品質に維持する:** メールの内容の一部として画像を送信するときに、画像の圧縮を制限するための新しい Outlook の設定を使用できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-724">**Keep your pictures high fidelity when sending them as part of an email:** A new Outlook setting is available to limit picture compression when you send pictures as part of the email contents</span></span>
+- <span data-ttu-id="dde2c-738">**メールの一部として画像を送信するときに、画像を高品質に維持する:** メールの内容の一部として画像を送信するときに、画像の圧縮を制限するための新しい Outlook の設定を使用できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-738">**Keep your pictures high fidelity when sending them as part of an email:** A new Outlook setting is available to limit picture compression when you send pictures as part of the email contents</span></span>
 
-- <span data-ttu-id="3f2b2-725">**以前のセッションからアイテムを素早く再開する:** 以前の Outlook セッションからアイテムを素早く再開するためのオプションが追加されました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-725">**Quickly reopen items from previous session:** We added an option to quickly reopen items from a previous Outlook session.</span></span> <span data-ttu-id="3f2b2-726">Outlook がクラッシュした場合でも、または終了した場合でも、アプリを再び開くと、すばやくアイテムを再起動することができます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-726">Whether Outlook crashes or you close it, you’ll now be able to quickly relaunch items when you reopen the app.</span></span> <span data-ttu-id="3f2b2-727">この機能は既定でオンになっています。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-727">This feature is on by default.</span></span> <span data-ttu-id="3f2b2-728">オフにするには、[オプション] > [一般] > [開始オプション] に移動します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-728">To turn it off, go to Options > General > Start up Options.</span></span>
+- <span data-ttu-id="dde2c-739">**以前のセッションからアイテムを素早く再開する:** 以前の Outlook セッションからアイテムを素早く再開するためのオプションが追加されました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-739">**Quickly reopen items from previous session:** We added an option to quickly reopen items from a previous Outlook session.</span></span> <span data-ttu-id="dde2c-740">Outlook がクラッシュした場合でも、または終了した場合でも、アプリを再び開くと、すばやくアイテムを再起動することができます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-740">Whether Outlook crashes or you close it, you’ll now be able to quickly relaunch items when you reopen the app.</span></span> <span data-ttu-id="dde2c-741">この機能は既定でオンになっています。</span><span class="sxs-lookup"><span data-stu-id="dde2c-741">This feature is on by default.</span></span> <span data-ttu-id="dde2c-742">オフにするには、[オプション] > [一般] > [開始オプション] に移動します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-742">To turn it off, go to Options > General > Start up Options.</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="3f2b2-729">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="3f2b2-729">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="dde2c-743">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="dde2c-743">PowerPoint</span></span>
 
-- <span data-ttu-id="3f2b2-730">**秘密度ラベルの自動適用または推奨:** Office は、検出された機密コンテンツに基づいて機密ラベルを推奨または自動的に適用できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-730">**Auto-apply or recommend sensitivity labels:** Office can recommend or automatically apply a sensitivity label based on the sensitive content detected.</span></span>
+- <span data-ttu-id="dde2c-744">**秘密度ラベルの自動適用または推奨:** Office は、検出された機密コンテンツに基づいて機密ラベルを推奨または自動的に適用できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-744">**Auto-apply or recommend sensitivity labels:** Office can recommend or automatically apply a sensitivity label based on the sensitive content detected.</span></span>
 
-### <a name="teams"></a><span data-ttu-id="3f2b2-731">Teams</span><span class="sxs-lookup"><span data-stu-id="3f2b2-731">Teams</span></span>
+### <a name="teams"></a><span data-ttu-id="dde2c-745">Teams</span><span class="sxs-lookup"><span data-stu-id="dde2c-745">Teams</span></span>
 
-- <span data-ttu-id="3f2b2-732">**簡素化された新しい通知設定:** 機能が強化され、やり方がより簡素化された通知設定をユーザーが管理できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-732">**New simplified notification settings:** Users can now manage their notifications settings in a more simplified manner with enhanced functionalities.</span></span>
+- <span data-ttu-id="dde2c-746">**簡素化された新しい通知設定:** 機能が強化され、やり方がより簡素化された通知設定をユーザーが管理できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-746">**New simplified notification settings:** Users can now manage their notifications settings in a more simplified manner with enhanced functionalities.</span></span>
 
-- <span data-ttu-id="3f2b2-733">**Teams でWindows ネイティブ通知をサポート:** ユーザーはバナーに組み込まれた Teams、または Windows のネイティブ バナーのいずれかを使用して、通知配信の優先手段を選択できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-733">**Windows Native Notification are now Supported on Teams:** Users can now select their preferred means of notification delivery, either through teams built in banners or the windows native banners.</span></span>
+- <span data-ttu-id="dde2c-747">**Teams でWindows ネイティブ通知をサポート:** ユーザーはバナーに組み込まれた Teams、または Windows のネイティブ バナーのいずれかを使用して、通知配信の優先手段を選択できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-747">**Windows Native Notification are now Supported on Teams:** Users can now select their preferred means of notification delivery, either through teams built in banners or the windows native banners.</span></span>
 
-- <span data-ttu-id="3f2b2-734">**[チャンネル情報] ウィンドウ:** チャンネルヘッダーの "チャンネル情報" アイコンを選択したときに、[チャンネルの説明]、[最近の寄稿者]、[メンバー] に加えて、システム メッセージの新しいホームを含むチャンネル情報の概要を表示するウィンドウが開きます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-734">**Channel Info Pane:** When selecting on the "Channel info" icon in the channel header, a pane will open where you will see a summary of channel information including the channel description, a list of recent contributors and members, as well as the new home for system messages.</span></span>
+- <span data-ttu-id="dde2c-748">**[チャンネル情報] ウィンドウ:** チャンネルヘッダーの "チャンネル情報" アイコンを選択したときに、[チャンネルの説明]、[最近の寄稿者]、[メンバー] に加えて、システム メッセージの新しいホームを含むチャンネル情報の概要を表示するウィンドウが開きます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-748">**Channel Info Pane:** When selecting on the "Channel info" icon in the channel header, a pane will open where you will see a summary of channel information including the channel description, a list of recent contributors and members, as well as the new home for system messages.</span></span>
 
-- <span data-ttu-id="3f2b2-735">**チャット通知のプレビューをオフにする:**、ユーザーは設定を変更したり、チャット通知トーストのプレビューを管理したりすることができます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-735">**Turn off previews for your chat notifications:** Users can change settings and manage previews for their chat notification toasts.</span></span>
+- <span data-ttu-id="dde2c-749">**チャット通知のプレビューをオフにする:**、ユーザーは設定を変更したり、チャット通知トーストのプレビューを管理したりすることができます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-749">**Turn off previews for your chat notifications:** Users can change settings and manage previews for their chat notification toasts.</span></span>
 
-- <span data-ttu-id="3f2b2-736">**返信の候補:** Teams ユーザーに、自分の会話への返信の候補を提案する機能が追加されました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-736">**Suggested replies:** We added the ability for Teams users to have a suggested reply to their conversations.</span></span> <span data-ttu-id="3f2b2-737">これらの候補が有効になっている場合は、チャット メッセージの下部に表示されます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-737">These suggestions will appear at the bottom of a chat message if they are enabled.</span></span> <span data-ttu-id="3f2b2-738">メッセージへの返信をすばやく簡単に作成できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-738">They make replying to messages quick and easy!</span></span>
+- <span data-ttu-id="dde2c-750">**返信の候補:** Teams ユーザーに、自分の会話への返信の候補を提案する機能が追加されました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-750">**Suggested replies:** We added the ability for Teams users to have a suggested reply to their conversations.</span></span> <span data-ttu-id="dde2c-751">これらの候補が有効になっている場合は、チャット メッセージの下部に表示されます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-751">These suggestions will appear at the bottom of a chat message if they are enabled.</span></span> <span data-ttu-id="dde2c-752">メッセージへの返信をすばやく簡単に作成できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-752">They make replying to messages quick and easy!</span></span>
 
-### <a name="word"></a><span data-ttu-id="3f2b2-739">Word</span><span class="sxs-lookup"><span data-stu-id="3f2b2-739">Word</span></span>
+### <a name="word"></a><span data-ttu-id="dde2c-753">Word</span><span class="sxs-lookup"><span data-stu-id="dde2c-753">Word</span></span>
 
-- <span data-ttu-id="3f2b2-740">**秘密度ラベルの自動適用または推奨:** Office は、検出された機密コンテンツに基づいて機密ラベルを推奨または自動的に適用できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-740">**Auto-apply or recommend sensitivity labels:** Office can recommend or automatically apply a sensitivity label based on the sensitive content detected.</span></span>
+- <span data-ttu-id="dde2c-754">**秘密度ラベルの自動適用または推奨:** Office は、検出された機密コンテンツに基づいて機密ラベルを推奨または自動的に適用できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-754">**Auto-apply or recommend sensitivity labels:** Office can recommend or automatically apply a sensitivity label based on the sensitive content detected.</span></span>
 
-- <span data-ttu-id="3f2b2-741">**テキストをベクター内で保持:** 地図やグラフ、その他の SVG ベクターを Excel、Word、PowerPoint で変換する場合、それらのオブジェクトの中にテキストを保持できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-741">**Retain text in vectors:** Now you can retain the text in maps, charts, and other SVG vectors when converting these objects in Excel, Word, and PowerPoint.</span></span>
+- <span data-ttu-id="dde2c-755">**テキストをベクター内で保持:** 地図やグラフ、その他の SVG ベクターを Excel、Word、PowerPoint で変換する場合、それらのオブジェクトの中にテキストを保持できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-755">**Retain text in vectors:** Now you can retain the text in maps, charts, and other SVG vectors when converting these objects in Excel, Word, and PowerPoint.</span></span>
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -1146,151 +1179,151 @@ ms.locfileid: "50455773"
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-744">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-744">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="3f2b2-745">Access</span><span class="sxs-lookup"><span data-stu-id="3f2b2-745">Access</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-758">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-758">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="dde2c-759">Access</span><span class="sxs-lookup"><span data-stu-id="dde2c-759">Access</span></span>
 
-- <span data-ttu-id="3f2b2-746">この修正プログラムでは、特定のクエリを実行しようとすると、"クエリが複雑すぎます" というエラーメッセージが表示される問題に対処しています。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-746">This fix addresses the issue where trying to run certain queries have previously produced the error message 'Query is too complex".</span></span>
+- <span data-ttu-id="dde2c-760">この修正プログラムでは、特定のクエリを実行しようとすると、"クエリが複雑すぎます" というエラーメッセージが表示される問題に対処しています。</span><span class="sxs-lookup"><span data-stu-id="dde2c-760">This fix addresses the issue where trying to run certain queries have previously produced the error message 'Query is too complex".</span></span>
 
-### <a name="excel"></a><span data-ttu-id="3f2b2-747">Excel</span><span class="sxs-lookup"><span data-stu-id="3f2b2-747">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="dde2c-761">Excel</span><span class="sxs-lookup"><span data-stu-id="dde2c-761">Excel</span></span>
 
-- <span data-ttu-id="3f2b2-748">改ページ プレビューで複数のシートを含むブックを読み込むときにエラーやハングが発生することがある問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-748">Fixed an issue where an error or hang may occur when loading a workbook with with multiple sheets in page break preview.</span></span>
-
-
-### <a name="outlook"></a><span data-ttu-id="3f2b2-749">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-749">Outlook</span></span>
-
-- <span data-ttu-id="3f2b2-750">保護されたコンテキストから保護されていないコンテキストに返信するとき、送信元アドレスを切り替えると、CLP のユーザーにクラッシュが発生する問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-750">Addressed an issue that caused users of CLP to experience a crash when switching the from address on a reply from a protected context to an unprotected one.</span></span>
+- <span data-ttu-id="dde2c-762">改ページ プレビューで複数のシートを含むブックを読み込むときにエラーやハングが発生することがある問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-762">Fixed an issue where an error or hang may occur when loading a workbook with with multiple sheets in page break preview.</span></span>
 
 
-- <span data-ttu-id="3f2b2-751">[共有フォルダーのダウンロード] がチェックされていない場合、共有された予定表の会議の [返信オプション] に [転送を許可する] オプションが表示されない問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-751">Addressed an issue that caused the "Allow Forwarding" option to be missing from shared calendar meeting "Response Options" when Download Shared folder was NOT checked.</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-763">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-763">Outlook</span></span>
+
+- <span data-ttu-id="dde2c-764">保護されたコンテキストから保護されていないコンテキストに返信するとき、送信元アドレスを切り替えると、CLP のユーザーにクラッシュが発生する問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-764">Addressed an issue that caused users of CLP to experience a crash when switching the from address on a reply from a protected context to an unprotected one.</span></span>
 
 
-- <span data-ttu-id="3f2b2-752">管理者のカレンダー上で既存のカレンダーの予定を編集するときに代理人がエラーを受け取る問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-752">Addressed an issue that caused delegates to receive an error when editing an existing calendar appointment on a manager's calendar.</span></span>
+- <span data-ttu-id="dde2c-765">[共有フォルダーのダウンロード] がチェックされていない場合、共有された予定表の会議の [返信オプション] に [転送を許可する] オプションが表示されない問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-765">Addressed an issue that caused the "Allow Forwarding" option to be missing from shared calendar meeting "Response Options" when Download Shared folder was NOT checked.</span></span>
 
 
-- <span data-ttu-id="3f2b2-753">セキュリティ ダイアログ ボックスで [保存] オプションを選択したときに、ユーザーがテナント外の OneDrive の添付ファイルをローカルコンピューターに保存できない原因となっていた問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-753">Addressed an issue that caused users to be unable to save OneDrive attachments from outside their tenant to their local computer when selecting the "Save" option on the security dialog.</span></span>
-
-- <span data-ttu-id="3f2b2-754">スケジュール アシスタント ページが表示されない問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-754">Addressed an issue that caused the Scheduling Assistant page to fail to display.</span></span>
-
-- <span data-ttu-id="3f2b2-755">インシデント通知アラートのフォーマットの問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-755">Addressed an issue that caused formatting problems in incident notification alerts.</span></span>
-
-### <a name="project"></a><span data-ttu-id="3f2b2-756">Project</span><span class="sxs-lookup"><span data-stu-id="3f2b2-756">Project</span></span>
-
-- <span data-ttu-id="3f2b2-757">[リソースの割り当て] ダイアログ ボックスで選択されているタスクが、[タスク ボード] ビューで選択したタスクと異なる問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-757">Fixed an issue where the task selected in the assign resources dialog isn't the same as the task selected in the task board view.</span></span>
-
-- <span data-ttu-id="3f2b2-758">複数の依存関係があるタスクを貼り付けると、すべての依存関係が正しくコピーされるわけではない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-758">Fixed an issue where if you paste a task that has multiple dependencies, not all dependencies are copied correctly.</span></span>
-
-- <span data-ttu-id="3f2b2-759">Project から SharePoint ドキュメント ライブラリに PDF/XPS を保存できない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-759">Fixed an issue where you couldn't save a PDF/XPS from Project to a SharePoint document library.</span></span>
+- <span data-ttu-id="dde2c-766">管理者のカレンダー上で既存のカレンダーの予定を編集するときに代理人がエラーを受け取る問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-766">Addressed an issue that caused delegates to receive an error when editing an existing calendar appointment on a manager's calendar.</span></span>
 
 
-### <a name="office-suite"></a><span data-ttu-id="3f2b2-760">Office スイート</span><span class="sxs-lookup"><span data-stu-id="3f2b2-760">Office Suite</span></span>
+- <span data-ttu-id="dde2c-767">セキュリティ ダイアログ ボックスで [保存] オプションを選択したときに、ユーザーがテナント外の OneDrive の添付ファイルをローカルコンピューターに保存できない原因となっていた問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-767">Addressed an issue that caused users to be unable to save OneDrive attachments from outside their tenant to their local computer when selecting the "Save" option on the security dialog.</span></span>
 
-- <span data-ttu-id="3f2b2-761">製品版への移行が完了した場合でも、ランタイムメッセージが表示される問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-761">Fixed an issue that caused a runtime message to show even though the transition to the full product is complete.</span></span> <span data-ttu-id="3f2b2-762">この問題の修正では、サービスが追加された製品を適切に計算するようにしました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-762">The fix for this issue was to ensure the service properly computed added products.</span></span> <span data-ttu-id="3f2b2-763">新たに追加された製品をフィルターで除外し (新しい構成に存在することも確認)、既存の製品リリース ID の最後に追加しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-763">We filtered out the newly added products (ensuring that they exist in the new configuration as well) and added them to the end of existing Product release IDs.</span></span>
+- <span data-ttu-id="dde2c-768">スケジュール アシスタント ページが表示されない問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-768">Addressed an issue that caused the Scheduling Assistant page to fail to display.</span></span>
+
+- <span data-ttu-id="dde2c-769">インシデント通知アラートのフォーマットの問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-769">Addressed an issue that caused formatting problems in incident notification alerts.</span></span>
+
+### <a name="project"></a><span data-ttu-id="dde2c-770">Project</span><span class="sxs-lookup"><span data-stu-id="dde2c-770">Project</span></span>
+
+- <span data-ttu-id="dde2c-771">[リソースの割り当て] ダイアログ ボックスで選択されているタスクが、[タスク ボード] ビューで選択したタスクと異なる問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-771">Fixed an issue where the task selected in the assign resources dialog isn't the same as the task selected in the task board view.</span></span>
+
+- <span data-ttu-id="dde2c-772">複数の依存関係があるタスクを貼り付けると、すべての依存関係が正しくコピーされるわけではない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-772">Fixed an issue where if you paste a task that has multiple dependencies, not all dependencies are copied correctly.</span></span>
+
+- <span data-ttu-id="dde2c-773">Project から SharePoint ドキュメント ライブラリに PDF/XPS を保存できない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-773">Fixed an issue where you couldn't save a PDF/XPS from Project to a SharePoint document library.</span></span>
+
+
+### <a name="office-suite"></a><span data-ttu-id="dde2c-774">Office スイート</span><span class="sxs-lookup"><span data-stu-id="dde2c-774">Office Suite</span></span>
+
+- <span data-ttu-id="dde2c-775">製品版への移行が完了した場合でも、ランタイムメッセージが表示される問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-775">Fixed an issue that caused a runtime message to show even though the transition to the full product is complete.</span></span> <span data-ttu-id="dde2c-776">この問題の修正では、サービスが追加された製品を適切に計算するようにしました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-776">The fix for this issue was to ensure the service properly computed added products.</span></span> <span data-ttu-id="dde2c-777">新たに追加された製品をフィルターで除外し (新しい構成に存在することも確認)、既存の製品リリース ID の最後に追加しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-777">We filtered out the newly added products (ensuring that they exist in the new configuration as well) and added them to the end of existing Product release IDs.</span></span>
 
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2006-july-28"></a><span data-ttu-id="3f2b2-765">バージョン 2006: 7 月 28 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-765">Version 2006: July 28</span></span>
-<span data-ttu-id="3f2b2-766">*バージョン 2006 (ビルド 13001.20498)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-766">*Version 2006 (Build 13001.20498)*</span></span>
+## <a name="version-2006-july-28"></a><span data-ttu-id="dde2c-779">バージョン 2006: 7 月 28 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-779">Version 2006: July 28</span></span>
+<span data-ttu-id="dde2c-780">*バージョン 2006 (ビルド 13001.20498)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-780">*Version 2006 (Build 13001.20498)*</span></span>
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-768">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-768">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="3f2b2-769">Excel</span><span class="sxs-lookup"><span data-stu-id="3f2b2-769">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-782">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-782">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="dde2c-783">Excel</span><span class="sxs-lookup"><span data-stu-id="dde2c-783">Excel</span></span>
 
-- <span data-ttu-id="3f2b2-770">改ページ プレビューで複数のシートを含むブックを読み込むときにエラーやハングが発生することがある問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-770">Fixed an issue where an error or hang may occur when loading a workbook with with multiple sheets in page break preview.</span></span>
-
-
-### <a name="outlook"></a><span data-ttu-id="3f2b2-771">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-771">Outlook</span></span>
-
-- <span data-ttu-id="3f2b2-772">SVG 画像のコピーと貼り付けの問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-772">We fixed an issue for copy and paste SVG image.</span></span>
+- <span data-ttu-id="dde2c-784">改ページ プレビューで複数のシートを含むブックを読み込むときにエラーやハングが発生することがある問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-784">Fixed an issue where an error or hang may occur when loading a workbook with with multiple sheets in page break preview.</span></span>
 
 
-### <a name="word"></a><span data-ttu-id="3f2b2-773">Word</span><span class="sxs-lookup"><span data-stu-id="3f2b2-773">Word</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-785">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-785">Outlook</span></span>
 
-- <span data-ttu-id="3f2b2-774">SVG 画像のコピーと貼り付けの問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-774">We fixed an issue for copy and paste SVG image.</span></span>
+- <span data-ttu-id="dde2c-786">SVG 画像のコピーと貼り付けの問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-786">We fixed an issue for copy and paste SVG image.</span></span>
 
 
-### <a name="office-suite"></a><span data-ttu-id="3f2b2-775">Office スイート</span><span class="sxs-lookup"><span data-stu-id="3f2b2-775">Office Suite</span></span>
+### <a name="word"></a><span data-ttu-id="dde2c-787">Word</span><span class="sxs-lookup"><span data-stu-id="dde2c-787">Word</span></span>
 
-- <span data-ttu-id="3f2b2-776">タイミングの問題で、Office ファイルを閉じるときにクラッシュすることがあります。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-776">A timing issue could cause a crash when closing office files.</span></span>
+- <span data-ttu-id="dde2c-788">SVG 画像のコピーと貼り付けの問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-788">We fixed an issue for copy and paste SVG image.</span></span>
+
+
+### <a name="office-suite"></a><span data-ttu-id="dde2c-789">Office スイート</span><span class="sxs-lookup"><span data-stu-id="dde2c-789">Office Suite</span></span>
+
+- <span data-ttu-id="dde2c-790">タイミングの問題で、Office ファイルを閉じるときにクラッシュすることがあります。</span><span class="sxs-lookup"><span data-stu-id="dde2c-790">A timing issue could cause a crash when closing office files.</span></span>
 
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2006-july-14"></a><span data-ttu-id="3f2b2-778">バージョン 2006: 7 月 14 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-778">Version 2006: July 14</span></span>
-<span data-ttu-id="3f2b2-779">*バージョン 2006 (ビルド 13001.20384)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-779">*Version 2006 (Build 13001.20384)*</span></span>
+## <a name="version-2006-july-14"></a><span data-ttu-id="dde2c-792">バージョン 2006: 7 月 14 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-792">Version 2006: July 14</span></span>
+<span data-ttu-id="dde2c-793">*バージョン 2006 (ビルド 13001.20384)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-793">*Version 2006 (Build 13001.20384)*</span></span>
 
-<span data-ttu-id="3f2b2-780">セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="3f2b2-780">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
+<span data-ttu-id="dde2c-794">セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="dde2c-794">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-782">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-782">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="3f2b2-783">アクセス</span><span class="sxs-lookup"><span data-stu-id="3f2b2-783">Access</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-796">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-796">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="dde2c-797">アクセス</span><span class="sxs-lookup"><span data-stu-id="dde2c-797">Access</span></span>
 
-- <span data-ttu-id="3f2b2-784">ID (オートナンバーなど) フィールドが含まれるリンク付きの SQL 表を挿入する場合についての問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-784">Resolved an issue with inserting linked SQL tables that include an identity (e.g. autonumber) field.</span></span>
+- <span data-ttu-id="dde2c-798">ID (オートナンバーなど) フィールドが含まれるリンク付きの SQL 表を挿入する場合についての問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-798">Resolved an issue with inserting linked SQL tables that include an identity (e.g. autonumber) field.</span></span>
 
-### <a name="excel"></a><span data-ttu-id="3f2b2-785">Excel</span><span class="sxs-lookup"><span data-stu-id="3f2b2-785">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="dde2c-799">Excel</span><span class="sxs-lookup"><span data-stu-id="dde2c-799">Excel</span></span>
 
-- <span data-ttu-id="3f2b2-786">読み取り専用モードのブックに対して、ドキュメント分類を自動的に行った可能性があります。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-786">Automatic document classification may have occurred for workbooks that were in read-only mode.</span></span>
+- <span data-ttu-id="dde2c-800">読み取り専用モードのブックに対して、ドキュメント分類を自動的に行った可能性があります。</span><span class="sxs-lookup"><span data-stu-id="dde2c-800">Automatic document classification may have occurred for workbooks that were in read-only mode.</span></span>
 
-- <span data-ttu-id="3f2b2-787">アカウントからサインアウトした場合にデータ接続を作成しようとすると発生する可能性があるクラッシュを修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-787">Fixed a crash that could happen when trying to create a data connection if you have signed out from your account.</span></span>
+- <span data-ttu-id="dde2c-801">アカウントからサインアウトした場合にデータ接続を作成しようとすると発生する可能性があるクラッシュを修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-801">Fixed a crash that could happen when trying to create a data connection if you have signed out from your account.</span></span>
 
-### <a name="onenote"></a><span data-ttu-id="3f2b2-788">OneNote</span><span class="sxs-lookup"><span data-stu-id="3f2b2-788">OneNote</span></span>
+### <a name="onenote"></a><span data-ttu-id="dde2c-802">OneNote</span><span class="sxs-lookup"><span data-stu-id="dde2c-802">OneNote</span></span>
 
-- <span data-ttu-id="3f2b2-789">リソースの使用率を低下させて、共同編集状態の検出機能を改善します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-789">Improve detection of co-authoring status to reduce resource utilization.</span></span>
+- <span data-ttu-id="dde2c-803">リソースの使用率を低下させて、共同編集状態の検出機能を改善します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-803">Improve detection of co-authoring status to reduce resource utilization.</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="3f2b2-790">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-790">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-804">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-804">Outlook</span></span>
 
-- <span data-ttu-id="3f2b2-791">セキュリティ ダイアログ ボックスで [保存] オプションを選択したときに、ユーザーがテナント外の OneDrive の添付ファイルをローカルコンピューターに保存できない原因となっていた問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-791">Addressed an issue that caused users to be unable to save OneDrive attachments from outside their tenant to their local computer when selecting the "Save" option on the security dialog.</span></span>
+- <span data-ttu-id="dde2c-805">セキュリティ ダイアログ ボックスで [保存] オプションを選択したときに、ユーザーがテナント外の OneDrive の添付ファイルをローカルコンピューターに保存できない原因となっていた問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-805">Addressed an issue that caused users to be unable to save OneDrive attachments from outside their tenant to their local computer when selecting the "Save" option on the security dialog.</span></span>
 
-### <a name="office-suite"></a><span data-ttu-id="3f2b2-792">Office スイート</span><span class="sxs-lookup"><span data-stu-id="3f2b2-792">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="dde2c-806">Office スイート</span><span class="sxs-lookup"><span data-stu-id="dde2c-806">Office Suite</span></span>
 
-- <span data-ttu-id="3f2b2-793">以前の AppV51 の回帰を修正するために、新しい AppV51 drop をバックポートします。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-793">We backported a new AppV51 drop to fix a regression in previous AppV51.</span></span>
+- <span data-ttu-id="dde2c-807">以前の AppV51 の回帰を修正するために、新しい AppV51 drop をバックポートします。</span><span class="sxs-lookup"><span data-stu-id="dde2c-807">We backported a new AppV51 drop to fix a regression in previous AppV51.</span></span>
 
-- <span data-ttu-id="3f2b2-794">レジストリ TabProcGrowth の値がREG_SZ型でアドインがアクティブ化されている場合に、Windows の Office ホストがクラッシュする問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-794">Addressed a crash issue with the office host in windows, when an add-in is activated while the registry TabProcGrowth value is REG_SZ type.</span></span>
+- <span data-ttu-id="dde2c-808">レジストリ TabProcGrowth の値がREG_SZ型でアドインがアクティブ化されている場合に、Windows の Office ホストがクラッシュする問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-808">Addressed a crash issue with the office host in windows, when an add-in is activated while the registry TabProcGrowth value is REG_SZ type.</span></span>
 
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2006-june-30"></a><span data-ttu-id="3f2b2-796">バージョン 2006: 6 月 30 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-796">Version 2006: June 30</span></span>
-<span data-ttu-id="3f2b2-797">*バージョン 2006 (ビルド 13001.20266)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-797">*Version 2006 (Build 13001.20266)*</span></span>
+## <a name="version-2006-june-30"></a><span data-ttu-id="dde2c-810">バージョン 2006: 6 月 30 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-810">Version 2006: June 30</span></span>
+<span data-ttu-id="dde2c-811">*バージョン 2006 (ビルド 13001.20266)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-811">*Version 2006 (Build 13001.20266)*</span></span>
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="feature-updates"></a><span data-ttu-id="3f2b2-799">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="3f2b2-799">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="3f2b2-800">Excel</span><span class="sxs-lookup"><span data-stu-id="3f2b2-800">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="dde2c-813">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="dde2c-813">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="dde2c-814">Excel</span><span class="sxs-lookup"><span data-stu-id="dde2c-814">Excel</span></span>
 
-- <span data-ttu-id="3f2b2-801">**長いファイル名**: Windows デスクトップ版の Excel は、名前とパスが最大400文字の OneDrive/SharePoint ファイルをサポートするようになりました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-801">**Longer file names:** Excel for Windows desktop now supports OneDrive/SharePoint files with names and paths of up to 400 characters.</span></span>
+- <span data-ttu-id="dde2c-815">**長いファイル名**: Windows デスクトップ版の Excel は、名前とパスが最大400文字の OneDrive/SharePoint ファイルをサポートするようになりました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-815">**Longer file names:** Excel for Windows desktop now supports OneDrive/SharePoint files with names and paths of up to 400 characters.</span></span>
 
-- <span data-ttu-id="3f2b2-802">**Realtimedata (RTD) の改善:** Office 365 バージョン 2002 の月間チャネル以降、ExcelのRealTimeData (RTD) 関数は、Excel 2010 のスプレッドシートのデータ計算よりもはるかに高速になります。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-802">**Realtimedata (RTD) improvements:** In Office 365 version 2002 monthly channel and later, Excel's RealTimeData (RTD) function is much faster than Excel 2010 calculating data in the spreadsheet.</span></span> <span data-ttu-id="3f2b2-803">基盤となるメモリとデータ構造のボトルネックを取り除き、マルチスレッド再計算  (MTR) の使用可能なすべてのスレッドで計算できるようにスレッドセーフにしました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-803">We removed bottlenecks in its underlying memory and data structures as well as made it thread-safe to allow  it to be calculated on all available threads of Multithreaded recalculation (MTR).</span></span>
+- <span data-ttu-id="dde2c-816">**Realtimedata (RTD) の改善:** Office 365 バージョン 2002 の月間チャネル以降、ExcelのRealTimeData (RTD) 関数は、Excel 2010 のスプレッドシートのデータ計算よりもはるかに高速になります。</span><span class="sxs-lookup"><span data-stu-id="dde2c-816">**Realtimedata (RTD) improvements:** In Office 365 version 2002 monthly channel and later, Excel's RealTimeData (RTD) function is much faster than Excel 2010 calculating data in the spreadsheet.</span></span> <span data-ttu-id="dde2c-817">基盤となるメモリとデータ構造のボトルネックを取り除き、マルチスレッド再計算  (MTR) の使用可能なすべてのスレッドで計算できるようにスレッドセーフにしました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-817">We removed bottlenecks in its underlying memory and data structures as well as made it thread-safe to allow  it to be calculated on all available threads of Multithreaded recalculation (MTR).</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="3f2b2-804">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-804">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-818">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-818">Outlook</span></span>
 
-- <span data-ttu-id="3f2b2-805">**Outlook でのメール作成時の @ メンションの候補表示を無効にするオプションが追加されました。**@ メンション ピッカーが便利どころか迷惑だと感じていますか?</span><span class="sxs-lookup"><span data-stu-id="3f2b2-805">**New option to disable @ mention suggestions when composing mail in Outlook:** Do you find the @ mention picker more annoying than useful?</span></span> <span data-ttu-id="3f2b2-806">今後は、必要に応じてオフにすることができます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-806">Now you can turn it off if you prefer.</span></span><br /><span data-ttu-id="3f2b2-807">[ブログの投稿](https://blog-insider.office.com/2020/03/26/feedback-in-action-disable-mentions/)の詳細情報をご覧ください</span><span class="sxs-lookup"><span data-stu-id="3f2b2-807">See details in [blog post](https://blog-insider.office.com/2020/03/26/feedback-in-action-disable-mentions/)</span></span>
+- <span data-ttu-id="dde2c-819">**Outlook でのメール作成時の @ メンションの候補表示を無効にするオプションが追加されました。**@ メンション ピッカーが便利どころか迷惑だと感じていますか?</span><span class="sxs-lookup"><span data-stu-id="dde2c-819">**New option to disable @ mention suggestions when composing mail in Outlook:** Do you find the @ mention picker more annoying than useful?</span></span> <span data-ttu-id="dde2c-820">今後は、必要に応じてオフにすることができます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-820">Now you can turn it off if you prefer.</span></span><br /><span data-ttu-id="dde2c-821">[ブログの投稿](https://blog-insider.office.com/2020/03/26/feedback-in-action-disable-mentions/)の詳細情報をご覧ください</span><span class="sxs-lookup"><span data-stu-id="dde2c-821">See details in [blog post](https://blog-insider.office.com/2020/03/26/feedback-in-action-disable-mentions/)</span></span>
 
-- <span data-ttu-id="3f2b2-808">**IT 管理者向けのインシデント通知:** Microsoft 365 テナントのグローバル管理者および Office Apps 管理者は、Outlook for Windows の新しい右側のパネル通知により、ユーザーに影響する Outlook および O365 Exchange インシデントについて通知されます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-808">**Incident Notification for IT Admins:** Microsoft 365 tenant global administrators and Office Apps Administrators will be notified about Outlook and O365 Exchange incidents affecting their users with a new right-side panel notification in Outlook for Windows.</span></span> [<span data-ttu-id="3f2b2-809">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-809">Learn more</span></span>](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
+- <span data-ttu-id="dde2c-822">**IT 管理者向けのインシデント通知:** Microsoft 365 テナントのグローバル管理者および Office Apps 管理者は、Outlook for Windows の新しい右側のパネル通知により、ユーザーに影響する Outlook および O365 Exchange インシデントについて通知されます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-822">**Incident Notification for IT Admins:** Microsoft 365 tenant global administrators and Office Apps Administrators will be notified about Outlook and O365 Exchange incidents affecting their users with a new right-side panel notification in Outlook for Windows.</span></span> [<span data-ttu-id="dde2c-823">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-823">Learn more</span></span>](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
 
-- <span data-ttu-id="3f2b2-810">**Outlook トースト通知に追加されたその他のボタン:** Outlook for Windows 10で Outlook を実行しているときに Outlook トースト通知にクイック アクション ボタンが表示されるようになりました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-810">**Additional buttons added to Outlook toast notifications:** Quick Action buttons now appear in Outlook toast notifications when running Outlook on Windows 10</span></span>
+- <span data-ttu-id="dde2c-824">**Outlook トースト通知に追加されたその他のボタン:** Outlook for Windows 10で Outlook を実行しているときに Outlook トースト通知にクイック アクション ボタンが表示されるようになりました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-824">**Additional buttons added to Outlook toast notifications:** Quick Action buttons now appear in Outlook toast notifications when running Outlook on Windows 10</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="3f2b2-811">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="3f2b2-811">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="dde2c-825">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="dde2c-825">PowerPoint</span></span>
 
-- <span data-ttu-id="3f2b2-812">**PowerPoint でのストリーム ビデオのパフォーマンス向上:**、ビデオの読み込み時間を最小限に抑え、快適な表示を実現するために Microsoft Stream ビデオの再生パフォーマンスを改善しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-812">**Improved Stream video performance in PowerPoint:** We’ve made improvements to the playback performance of Microsoft Stream videos to minimize video loading time and create a smooth viewing experience.</span></span> <span data-ttu-id="3f2b2-813">お客様の社内ビデオを使用して、Microsoft Stream でより適切なプレゼンテーションを作成します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-813">Use your corporate videos from Microsoft Stream to create better presentations.</span></span>
+- <span data-ttu-id="dde2c-826">**PowerPoint でのストリーム ビデオのパフォーマンス向上:**、ビデオの読み込み時間を最小限に抑え、快適な表示を実現するために Microsoft Stream ビデオの再生パフォーマンスを改善しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-826">**Improved Stream video performance in PowerPoint:** We’ve made improvements to the playback performance of Microsoft Stream videos to minimize video loading time and create a smooth viewing experience.</span></span> <span data-ttu-id="dde2c-827">お客様の社内ビデオを使用して、Microsoft Stream でより適切なプレゼンテーションを作成します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-827">Use your corporate videos from Microsoft Stream to create better presentations.</span></span>
 
-### <a name="teams"></a><span data-ttu-id="3f2b2-814">Teams</span><span class="sxs-lookup"><span data-stu-id="3f2b2-814">Teams</span></span>
+### <a name="teams"></a><span data-ttu-id="dde2c-828">Teams</span><span class="sxs-lookup"><span data-stu-id="dde2c-828">Teams</span></span>
 
-- <span data-ttu-id="3f2b2-815">**PSTN の参加者の電話番号は、外部ユーザーからマスクされます**。Teams 会議でオーディオ会議を有効にしているお客様は、組織の外部から参加しているユーザーに PSTN 参加者の電話番号をマスクします。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-815">**PSTN participant phone numbers are masked from external users:** For customers with Audio Conferencing enabled for their Teams meetings, we will mask the PSTN participant's phone number to users who have joined from outside of your organization.</span></span>
+- <span data-ttu-id="dde2c-829">**PSTN の参加者の電話番号は、外部ユーザーからマスクされます**。Teams 会議でオーディオ会議を有効にしているお客様は、組織の外部から参加しているユーザーに PSTN 参加者の電話番号をマスクします。</span><span class="sxs-lookup"><span data-stu-id="dde2c-829">**PSTN participant phone numbers are masked from external users:** For customers with Audio Conferencing enabled for their Teams meetings, we will mask the PSTN participant's phone number to users who have joined from outside of your organization.</span></span>
 
-- <span data-ttu-id="3f2b2-816">**チャネル通知の設定を管理する簡単な方法:** チームやチャネルのリストを通して、またはチャネル ヘッダーから、ワンクリックで、またはユーザー設定によって、ユーザーはすべてのアクティビティのオンとオフを切り替えることで、お好きな順序を設定できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-816">**Simplified way to manage your channel notification settings:** Through the teams and channels list or from the channel header, the users can quickly manage their notification settings by turning all activity on or off with a single click or diving deep into custom to set their preferred permutations.</span></span>
+- <span data-ttu-id="dde2c-830">**チャネル通知の設定を管理する簡単な方法:** チームやチャネルのリストを通して、またはチャネル ヘッダーから、ワンクリックで、またはユーザー設定によって、ユーザーはすべてのアクティビティのオンとオフを切り替えることで、お好きな順序を設定できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-830">**Simplified way to manage your channel notification settings:** Through the teams and channels list or from the channel header, the users can quickly manage their notification settings by turning all activity on or off with a single click or diving deep into custom to set their preferred permutations.</span></span>
 
-- <span data-ttu-id="3f2b2-817">**Walkie Talkie :** プッシュツートークを使用した、インスタント音声コミュニケーション。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-817">**Walkie Talkie:** Instant voice communication using push-to-talk.</span></span>
+- <span data-ttu-id="dde2c-831">**Walkie Talkie :** プッシュツートークを使用した、インスタント音声コミュニケーション。</span><span class="sxs-lookup"><span data-stu-id="dde2c-831">**Walkie Talkie:** Instant voice communication using push-to-talk.</span></span>
 
-### <a name="word"></a><span data-ttu-id="3f2b2-818">Word</span><span class="sxs-lookup"><span data-stu-id="3f2b2-818">Word</span></span>
+### <a name="word"></a><span data-ttu-id="dde2c-832">Word</span><span class="sxs-lookup"><span data-stu-id="dde2c-832">Word</span></span>
 
-- <span data-ttu-id="3f2b2-819">**スクリーン リーダーでの操作の確認:** 操作の確認は、重要なアクセシビリティ要件です。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-819">**Confirmation of action in screen readers:** Confirmation of action is an important accessibility requirement.</span></span> <span data-ttu-id="3f2b2-820">Windows からの新しい通知 API の導入により、操作の成功をスクリーン リーダーのユーザーに通知できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-820">With the introduction of a new Notification API from Windows, we are now able to alert screen reader users about the success of their actions.</span></span> <span data-ttu-id="3f2b2-821">切り取り、コピー、貼り付け、太字、斜体、下線、元に戻す、やり直し、自動修正、および自動大文字化が、Win32 Word のナレーター ユーザーにすべて通知されるようになりました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-821">Cut, copy, paste, bold, italic, underline, undo, redo, auto corrections, and auto-capitalizations are now all announced to Narrator users in Win32 Word.</span></span> <span data-ttu-id="3f2b2-822">この機能を有効にするには、Windows + Ctrl + Enter キーを押してナレーターをオンにします。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-822">To enable this feature, turn on Narrator by pressing windows + ctrl + enter.</span></span>
+- <span data-ttu-id="dde2c-833">**スクリーン リーダーでの操作の確認:** 操作の確認は、重要なアクセシビリティ要件です。</span><span class="sxs-lookup"><span data-stu-id="dde2c-833">**Confirmation of action in screen readers:** Confirmation of action is an important accessibility requirement.</span></span> <span data-ttu-id="dde2c-834">Windows からの新しい通知 API の導入により、操作の成功をスクリーン リーダーのユーザーに通知できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-834">With the introduction of a new Notification API from Windows, we are now able to alert screen reader users about the success of their actions.</span></span> <span data-ttu-id="dde2c-835">切り取り、コピー、貼り付け、太字、斜体、下線、元に戻す、やり直し、自動修正、および自動大文字化が、Win32 Word のナレーター ユーザーにすべて通知されるようになりました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-835">Cut, copy, paste, bold, italic, underline, undo, redo, auto corrections, and auto-capitalizations are now all announced to Narrator users in Win32 Word.</span></span> <span data-ttu-id="dde2c-836">この機能を有効にするには、Windows + Ctrl + Enter キーを押してナレーターをオンにします。</span><span class="sxs-lookup"><span data-stu-id="dde2c-836">To enable this feature, turn on Narrator by pressing windows + ctrl + enter.</span></span>
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -1299,137 +1332,137 @@ ms.locfileid: "50455773"
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-825">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-825">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="3f2b2-826">Access</span><span class="sxs-lookup"><span data-stu-id="3f2b2-826">Access</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-839">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-839">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="dde2c-840">Access</span><span class="sxs-lookup"><span data-stu-id="dde2c-840">Access</span></span>
 
-- <span data-ttu-id="3f2b2-827">クエリの実行に予想よりも約2倍の時間がかかっていた問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-827">We fixed an issue where query execution was taking approximately twice as long to complete than expected.</span></span>
-
-
-### <a name="excel"></a><span data-ttu-id="3f2b2-828">Excel</span><span class="sxs-lookup"><span data-stu-id="3f2b2-828">Excel</span></span>
-
-- <span data-ttu-id="3f2b2-829">SharePoint/OneDrive に保存すると、ユーザー設定のリボンタブの CustomUI XML が削除されるという問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-829">Fixed an issue which caused CustomUI XML for a custom ribbon tab to be removed when saving to SharePoint/OneDrive.</span></span>
+- <span data-ttu-id="dde2c-841">クエリの実行に予想よりも約2倍の時間がかかっていた問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-841">We fixed an issue where query execution was taking approximately twice as long to complete than expected.</span></span>
 
 
-### <a name="outlook"></a><span data-ttu-id="3f2b2-830">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-830">Outlook</span></span>
+### <a name="excel"></a><span data-ttu-id="dde2c-842">Excel</span><span class="sxs-lookup"><span data-stu-id="dde2c-842">Excel</span></span>
 
-- <span data-ttu-id="3f2b2-831">ドラッグ アンド ドロップによってファイル システムにコピーされた添付ファイルの作成日が、4501年1月1日に設定された問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-831">Addressed an issue that caused users to see the creation date of attachments that they copied to their file system via drag and drop getting set to January 1, 4501.</span></span>
-
-- <span data-ttu-id="3f2b2-832">共有された予定表の改良版のユーザーに予定表のエラーが表示される問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-832">Addressed an issue that caused users of the Shared Calendar improvements to see calendar failures.</span></span>
+- <span data-ttu-id="dde2c-843">SharePoint/OneDrive に保存すると、ユーザー設定のリボンタブの CustomUI XML が削除されるという問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-843">Fixed an issue which caused CustomUI XML for a custom ribbon tab to be removed when saving to SharePoint/OneDrive.</span></span>
 
 
-- <span data-ttu-id="3f2b2-833">Outlook で、受信トレイ修復ツールを実行するように促す表示が継続的に発生していた問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-833">Addressed an issue that caused users to see Outlook continuously prompt them to run the Inbox Repair tool.</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-844">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-844">Outlook</span></span>
+
+- <span data-ttu-id="dde2c-845">ドラッグ アンド ドロップによってファイル システムにコピーされた添付ファイルの作成日が、4501年1月1日に設定された問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-845">Addressed an issue that caused users to see the creation date of attachments that they copied to their file system via drag and drop getting set to January 1, 4501.</span></span>
+
+- <span data-ttu-id="dde2c-846">共有された予定表の改良版のユーザーに予定表のエラーが表示される問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-846">Addressed an issue that caused users of the Shared Calendar improvements to see calendar failures.</span></span>
 
 
-- <span data-ttu-id="3f2b2-834">クラウド設定が有効になっているときに、Ctrl キーを押しながらクリックすると動作が停止する問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-834">Addressed an issue that caused Ctrl+click to stop working when cloud settings were enabled.</span></span>
+- <span data-ttu-id="dde2c-847">Outlook で、受信トレイ修復ツールを実行するように促す表示が継続的に発生していた問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-847">Addressed an issue that caused users to see Outlook continuously prompt them to run the Inbox Repair tool.</span></span>
 
 
-- <span data-ttu-id="3f2b2-835">Suggest a Feature で機能を検索しても結果が返されず、ユーザーが新しい機能のアイデアを提出するオプションがないという問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-835">Addressed an issue that caused searching for a feature in Suggest a Feature to return no results and leave the user with no option to submit a new feature idea.</span></span>
+- <span data-ttu-id="dde2c-848">クラウド設定が有効になっているときに、Ctrl キーを押しながらクリックすると動作が停止する問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-848">Addressed an issue that caused Ctrl+click to stop working when cloud settings were enabled.</span></span>
 
 
-### <a name="project"></a><span data-ttu-id="3f2b2-836">Project</span><span class="sxs-lookup"><span data-stu-id="3f2b2-836">Project</span></span>
-
-- <span data-ttu-id="3f2b2-837">URL が .com で終了している場合に、Project Web App からプロジェクト デスクトップ クライアントでプロジェクトを開くことができない問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-837">Fixed an issue where projects couldn't be opened in the Project desktop client from Project Web App if the URL ended in .com.</span></span>
+- <span data-ttu-id="dde2c-849">Suggest a Feature で機能を検索しても結果が返されず、ユーザーが新しい機能のアイデアを提出するオプションがないという問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-849">Addressed an issue that caused searching for a feature in Suggest a Feature to return no results and leave the user with no option to submit a new feature idea.</span></span>
 
 
-- <span data-ttu-id="3f2b2-838">プロジェクトのサマリータスクで、[プロジェクトの開始日] フィールドまたは [タスク] フィールドのいずれかに変更があった場合、ProjectBeforeTaskChange イベントが発生しない問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-838">Fixed an issue where the ProjectBeforeTaskChange event doesn't fire when there is a change to the project summary task - either the project start/task field.</span></span>
+### <a name="project"></a><span data-ttu-id="dde2c-850">Project</span><span class="sxs-lookup"><span data-stu-id="dde2c-850">Project</span></span>
+
+- <span data-ttu-id="dde2c-851">URL が .com で終了している場合に、Project Web App からプロジェクト デスクトップ クライアントでプロジェクトを開くことができない問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-851">Fixed an issue where projects couldn't be opened in the Project desktop client from Project Web App if the URL ended in .com.</span></span>
 
 
-- <span data-ttu-id="3f2b2-839">100% 完了とマークされているタスクが、100% 未満のタスクに間違って変更されてしまう問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-839">Fixed an issue where a task that is marked 100% complete is wrongly changing to be less than 100% complete.</span></span>
+- <span data-ttu-id="dde2c-852">プロジェクトのサマリータスクで、[プロジェクトの開始日] フィールドまたは [タスク] フィールドのいずれかに変更があった場合、ProjectBeforeTaskChange イベントが発生しない問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-852">Fixed an issue where the ProjectBeforeTaskChange event doesn't fire when there is a change to the project summary task - either the project start/task field.</span></span>
 
 
-### <a name="word"></a><span data-ttu-id="3f2b2-840">Word</span><span class="sxs-lookup"><span data-stu-id="3f2b2-840">Word</span></span>
+- <span data-ttu-id="dde2c-853">100% 完了とマークされているタスクが、100% 未満のタスクに間違って変更されてしまう問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-853">Fixed an issue where a task that is marked 100% complete is wrongly changing to be less than 100% complete.</span></span>
 
-- <span data-ttu-id="3f2b2-841">URL にクエリ コンポーネントが含まれている場合にカスタム ドキュメント配信 (aspx) から Word ドキュメントを開く問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-841">Resolved an issue opening Word documents from custom document delivery (aspx) when the URL contains a query component.</span></span>
+
+### <a name="word"></a><span data-ttu-id="dde2c-854">Word</span><span class="sxs-lookup"><span data-stu-id="dde2c-854">Word</span></span>
+
+- <span data-ttu-id="dde2c-855">URL にクエリ コンポーネントが含まれている場合にカスタム ドキュメント配信 (aspx) から Word ドキュメントを開く問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-855">Resolved an issue opening Word documents from custom document delivery (aspx) when the URL contains a query component.</span></span>
 
 
 
 [//]: # (バグの詳細コンテンツ エンドを削除しないでください)
 
-## <a name="version-2005-june-24"></a><span data-ttu-id="3f2b2-843">バージョン 2005: 6 月 24 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-843">Version 2005: June 24</span></span>
-<span data-ttu-id="3f2b2-844">*バージョン 2005 (ビルド 12827.20470)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-844">*Version 2005 (Build 12827.20470)*</span></span>
+## <a name="version-2005-june-24"></a><span data-ttu-id="dde2c-857">バージョン 2005: 6 月 24 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-857">Version 2005: June 24</span></span>
+<span data-ttu-id="dde2c-858">*バージョン 2005 (ビルド 12827.20470)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-858">*Version 2005 (Build 12827.20470)*</span></span>
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-846">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-846">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="3f2b2-847">Access</span><span class="sxs-lookup"><span data-stu-id="3f2b2-847">Access</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-860">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-860">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="dde2c-861">Access</span><span class="sxs-lookup"><span data-stu-id="dde2c-861">Access</span></span>
 
-- <span data-ttu-id="3f2b2-848">このバグは修正されました。アプリケーションのクラッシュを発生させずに、コードに日付/時刻の拡張データ型を呼び出すことができます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-848">This bug has now been fixed; you should be able to call the Date/Time Extended data type into your code without experiencing any crash in your app.</span></span> <span data-ttu-id="3f2b2-849">問題が発生した場合は、チームにお知らせください。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-849">Please let the team know if you encounter further issues.</span></span>
-
-
-- <span data-ttu-id="3f2b2-850">この問題は修正されました。これで、最新の Access バージョンに戻すことができるようになりました。さらに、DAO/VBA を使用して10進数データ型を管理および編集することができます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-850">This issue has now been fixed; you can now revert back to your most updated Access version, and use DAO/VBA to manage and edit a decimal data type.</span></span> <span data-ttu-id="3f2b2-851">データ型を使用して問題が発生した場合は、Access チームにお知らせください。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-851">Please let the Access team know if you encounter any further issues with using our data type.</span></span>
+- <span data-ttu-id="dde2c-862">このバグは修正されました。アプリケーションのクラッシュを発生させずに、コードに日付/時刻の拡張データ型を呼び出すことができます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-862">This bug has now been fixed; you should be able to call the Date/Time Extended data type into your code without experiencing any crash in your app.</span></span> <span data-ttu-id="dde2c-863">問題が発生した場合は、チームにお知らせください。</span><span class="sxs-lookup"><span data-stu-id="dde2c-863">Please let the team know if you encounter further issues.</span></span>
 
 
-### <a name="excel"></a><span data-ttu-id="3f2b2-852">Excel</span><span class="sxs-lookup"><span data-stu-id="3f2b2-852">Excel</span></span>
-
-- <span data-ttu-id="3f2b2-853">SharePoint/OneDrive に保存すると、ユーザー設定のリボンタブの CustomUI XML が削除されるという問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-853">Fixed an issue which caused CustomUI XML for a custom ribbon tab to be removed when saving to SharePoint/OneDrive.</span></span>
+- <span data-ttu-id="dde2c-864">この問題は修正されました。これで、最新の Access バージョンに戻すことができるようになりました。さらに、DAO/VBA を使用して10進数データ型を管理および編集することができます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-864">This issue has now been fixed; you can now revert back to your most updated Access version, and use DAO/VBA to manage and edit a decimal data type.</span></span> <span data-ttu-id="dde2c-865">データ型を使用して問題が発生した場合は、Access チームにお知らせください。</span><span class="sxs-lookup"><span data-stu-id="dde2c-865">Please let the Access team know if you encounter any further issues with using our data type.</span></span>
 
 
+### <a name="excel"></a><span data-ttu-id="dde2c-866">Excel</span><span class="sxs-lookup"><span data-stu-id="dde2c-866">Excel</span></span>
+
+- <span data-ttu-id="dde2c-867">SharePoint/OneDrive に保存すると、ユーザー設定のリボンタブの CustomUI XML が削除されるという問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-867">Fixed an issue which caused CustomUI XML for a custom ribbon tab to be removed when saving to SharePoint/OneDrive.</span></span>
 
 
 
-### <a name="outlook"></a><span data-ttu-id="3f2b2-854">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-854">Outlook</span></span>
-
-- <span data-ttu-id="3f2b2-855">M365 Business Plus プランのサービスを利用していたユーザーがデータ損失防止の保護ポリシー ヒントを有効にできない問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-855">Addressed an issue where Outlook failed to enable Data Loss Protection policy tips people for users who had paid for the service who are on M365 Business Plus plans.</span></span>
 
 
-- <span data-ttu-id="3f2b2-856">ドラッグ アンド ドロップによってファイル システムにコピーされた添付ファイルの作成日が、4501年1月1日に設定された問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-856">Addressed an issue that caused users to see the creation date of attachments that they copied to their file system via drag and drop getting set to January 1, 4501.</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-868">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-868">Outlook</span></span>
+
+- <span data-ttu-id="dde2c-869">M365 Business Plus プランのサービスを利用していたユーザーがデータ損失防止の保護ポリシー ヒントを有効にできない問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-869">Addressed an issue where Outlook failed to enable Data Loss Protection policy tips people for users who had paid for the service who are on M365 Business Plus plans.</span></span>
 
 
-- <span data-ttu-id="3f2b2-857">ユーザーがOutlook ルールを更新すると、「&quot;このコンピューターのルールは、Microsoft Exchange のルールと異なります&quot;」 と表示される問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-857">Addressed an issue that caused users to see the &quot;The rules on this computer do not match the rules on Microsoft Exchange&quot; message when updating their rules in Outlook.</span></span>
+- <span data-ttu-id="dde2c-870">ドラッグ アンド ドロップによってファイル システムにコピーされた添付ファイルの作成日が、4501年1月1日に設定された問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-870">Addressed an issue that caused users to see the creation date of attachments that they copied to their file system via drag and drop getting set to January 1, 4501.</span></span>
 
 
-- <span data-ttu-id="3f2b2-858">共有された予定表の改良版のユーザーに予定表のエラーが表示される問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-858">Addressed an issue that caused users of the Shared Calendar improvements to see calendar failures.</span></span>
+- <span data-ttu-id="dde2c-871">ユーザーがOutlook ルールを更新すると、「&quot;このコンピューターのルールは、Microsoft Exchange のルールと異なります&quot;」 と表示される問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-871">Addressed an issue that caused users to see the &quot;The rules on this computer do not match the rules on Microsoft Exchange&quot; message when updating their rules in Outlook.</span></span>
 
 
-- <span data-ttu-id="3f2b2-859">一部のシナリオで、断続的なハングやクラッシュを発生させる原因となっていた問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-859">Addressed an issue that caused users to experience intermittent hangs and crashes in some scenarios.</span></span>
+- <span data-ttu-id="dde2c-872">共有された予定表の改良版のユーザーに予定表のエラーが表示される問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-872">Addressed an issue that caused users of the Shared Calendar improvements to see calendar failures.</span></span>
 
 
-- <span data-ttu-id="3f2b2-860">Outlook で、受信トレイ修復ツールを実行するように促す表示が継続的に発生していた問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-860">Addressed an issue that caused users to see Outlook continuously prompt them to run the Inbox Repair tool.</span></span>
+- <span data-ttu-id="dde2c-873">一部のシナリオで、断続的なハングやクラッシュを発生させる原因となっていた問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-873">Addressed an issue that caused users to experience intermittent hangs and crashes in some scenarios.</span></span>
 
 
-- <span data-ttu-id="3f2b2-861">Suggest a Feature で機能を検索しても結果が返されず、ユーザーが新しい機能のアイデアを提出するオプションがないという問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-861">Addressed an issue that caused searching for a feature in Suggest a Feature to return no results and leave the user with no option to submit a new feature idea.</span></span>
+- <span data-ttu-id="dde2c-874">Outlook で、受信トレイ修復ツールを実行するように促す表示が継続的に発生していた問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-874">Addressed an issue that caused users to see Outlook continuously prompt them to run the Inbox Repair tool.</span></span>
 
 
-### <a name="powerpoint"></a><span data-ttu-id="3f2b2-862">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="3f2b2-862">PowerPoint</span></span>
-
-- <span data-ttu-id="3f2b2-863">提案ウィンドウでクラッシュする問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-863">We have fixed a crash issue with suggestion pane.</span></span>
+- <span data-ttu-id="dde2c-875">Suggest a Feature で機能を検索しても結果が返されず、ユーザーが新しい機能のアイデアを提出するオプションがないという問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-875">Addressed an issue that caused searching for a feature in Suggest a Feature to return no results and leave the user with no option to submit a new feature idea.</span></span>
 
 
-### <a name="project"></a><span data-ttu-id="3f2b2-864">Project</span><span class="sxs-lookup"><span data-stu-id="3f2b2-864">Project</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="dde2c-876">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="dde2c-876">PowerPoint</span></span>
 
-- <span data-ttu-id="3f2b2-865">100% 完了とマークされているタスクが、100% 未満のタスクに間違って変更されてしまう問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-865">Fixed an issue where a task that is marked 100% complete is wrongly changing to be less than 100% complete.</span></span>
-
-### <a name="word"></a><span data-ttu-id="3f2b2-866">Word</span><span class="sxs-lookup"><span data-stu-id="3f2b2-866">Word</span></span>
-
-- <span data-ttu-id="3f2b2-867">一部のアプリケーションからコンテンツをドラッグしたときにクラッシュする問題の原因となっていた可能性がある問題が解決されました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-867">Resolved an issue that may have caused a crash when dragging some content from the app.</span></span>
+- <span data-ttu-id="dde2c-877">提案ウィンドウでクラッシュする問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-877">We have fixed a crash issue with suggestion pane.</span></span>
 
 
-### <a name="office-suite"></a><span data-ttu-id="3f2b2-868">Office スイート</span><span class="sxs-lookup"><span data-stu-id="3f2b2-868">Office Suite</span></span>
+### <a name="project"></a><span data-ttu-id="dde2c-878">Project</span><span class="sxs-lookup"><span data-stu-id="dde2c-878">Project</span></span>
 
-- <span data-ttu-id="3f2b2-869">この変更により、Gif や3D モデルなどのアニメーション コンテンツを読み込んだり、再生したりするときに、ハングする可能性があります。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-869">This change addresses potential hangs when loading and playing animated content such as GIFs or 3D models.</span></span>
+- <span data-ttu-id="dde2c-879">100% 完了とマークされているタスクが、100% 未満のタスクに間違って変更されてしまう問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-879">Fixed an issue where a task that is marked 100% complete is wrongly changing to be less than 100% complete.</span></span>
+
+### <a name="word"></a><span data-ttu-id="dde2c-880">Word</span><span class="sxs-lookup"><span data-stu-id="dde2c-880">Word</span></span>
+
+- <span data-ttu-id="dde2c-881">一部のアプリケーションからコンテンツをドラッグしたときにクラッシュする問題の原因となっていた可能性がある問題が解決されました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-881">Resolved an issue that may have caused a crash when dragging some content from the app.</span></span>
+
+
+### <a name="office-suite"></a><span data-ttu-id="dde2c-882">Office スイート</span><span class="sxs-lookup"><span data-stu-id="dde2c-882">Office Suite</span></span>
+
+- <span data-ttu-id="dde2c-883">この変更により、Gif や3D モデルなどのアニメーション コンテンツを読み込んだり、再生したりするときに、ハングする可能性があります。</span><span class="sxs-lookup"><span data-stu-id="dde2c-883">This change addresses potential hangs when loading and playing animated content such as GIFs or 3D models.</span></span>
 
 
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2005-june-09"></a><span data-ttu-id="3f2b2-871">バージョン 2005: 6月 9 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-871">Version 2005: June 09</span></span>
-<span data-ttu-id="3f2b2-872">*バージョン 2005 (ビルド 12827.20336)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-872">*Version 2005 (Build 12827.20336)*</span></span>
+## <a name="version-2005-june-09"></a><span data-ttu-id="dde2c-885">バージョン 2005: 6月 9 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-885">Version 2005: June 09</span></span>
+<span data-ttu-id="dde2c-886">*バージョン 2005 (ビルド 12827.20336)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-886">*Version 2005 (Build 12827.20336)*</span></span>
 
-<span data-ttu-id="3f2b2-873">セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="3f2b2-873">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
+<span data-ttu-id="dde2c-887">セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="dde2c-887">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
 
-### <a name="feature-updates"></a><span data-ttu-id="3f2b2-874">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="3f2b2-874">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="3f2b2-875">Excel</span><span class="sxs-lookup"><span data-stu-id="3f2b2-875">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="dde2c-888">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="dde2c-888">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="dde2c-889">Excel</span><span class="sxs-lookup"><span data-stu-id="dde2c-889">Excel</span></span>
 
-- <span data-ttu-id="3f2b2-876">**[描画] の [ツール] ボックスのなげなわと消しゴム:** 描画ツールを使用しているときに、[描画] の [ツール] ボックスでなげなわと消しゴムを使用できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-876">**Lasso and eraser in Ink Toolbox:** When using the drawing tools, the lasso and the eraser are now available in the Ink Toolbox.</span></span>
+- <span data-ttu-id="dde2c-890">**[描画] の [ツール] ボックスのなげなわと消しゴム:** 描画ツールを使用しているときに、[描画] の [ツール] ボックスでなげなわと消しゴムを使用できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-890">**Lasso and eraser in Ink Toolbox:** When using the drawing tools, the lasso and the eraser are now available in the Ink Toolbox.</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="3f2b2-877">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="3f2b2-877">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="dde2c-891">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="dde2c-891">PowerPoint</span></span>
 
-- <span data-ttu-id="3f2b2-878">**[描画] の [ツール] ボックスのなげなわと消しゴム:** 描画ツールを使用しているときに、[描画] の [ツール] ボックスでなげなわと消しゴムを使用できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-878">**Lasso and eraser in Ink Toolbox:** When using the drawing tools, the lasso and the eraser are now available in the Ink Toolbox.</span></span>
+- <span data-ttu-id="dde2c-892">**[描画] の [ツール] ボックスのなげなわと消しゴム:** 描画ツールを使用しているときに、[描画] の [ツール] ボックスでなげなわと消しゴムを使用できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-892">**Lasso and eraser in Ink Toolbox:** When using the drawing tools, the lasso and the eraser are now available in the Ink Toolbox.</span></span>
 
-### <a name="word"></a><span data-ttu-id="3f2b2-879">Word</span><span class="sxs-lookup"><span data-stu-id="3f2b2-879">Word</span></span>
+### <a name="word"></a><span data-ttu-id="dde2c-893">Word</span><span class="sxs-lookup"><span data-stu-id="dde2c-893">Word</span></span>
 
-- <span data-ttu-id="3f2b2-880">**[描画] の [ツール] ボックスのなげなわと消しゴム:** 描画ツールを使用しているときに、[描画] の [ツール] ボックスでなげなわと消しゴムを使用できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-880">**Lasso and eraser in Ink Toolbox:** When using the drawing tools, the lasso and the eraser are now available in the Ink Toolbox.</span></span>
+- <span data-ttu-id="dde2c-894">**[描画] の [ツール] ボックスのなげなわと消しゴム:** 描画ツールを使用しているときに、[描画] の [ツール] ボックスでなげなわと消しゴムを使用できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-894">**Lasso and eraser in Ink Toolbox:** When using the drawing tools, the lasso and the eraser are now available in the Ink Toolbox.</span></span>
 
 
 
@@ -1440,84 +1473,84 @@ ms.locfileid: "50455773"
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-883">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-883">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="3f2b2-884">Excel</span><span class="sxs-lookup"><span data-stu-id="3f2b2-884">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-897">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-897">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="dde2c-898">Excel</span><span class="sxs-lookup"><span data-stu-id="dde2c-898">Excel</span></span>
 
-- <span data-ttu-id="3f2b2-885">ピボットテーブルをチャート シートに挿入しようとしたときに Excel がクラッシュする場合がある問題に対処します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-885">Addresses an issue where Excel may crash when attempting to insert PivotTables into a chart sheet.</span></span>
+- <span data-ttu-id="dde2c-899">ピボットテーブルをチャート シートに挿入しようとしたときに Excel がクラッシュする場合がある問題に対処します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-899">Addresses an issue where Excel may crash when attempting to insert PivotTables into a chart sheet.</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="3f2b2-886">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="3f2b2-886">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="dde2c-900">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="dde2c-900">PowerPoint</span></span>
 
-- <span data-ttu-id="3f2b2-887">これにより、ユーザーがファイルに対してモダンおよびレガシのコメントを持っていて、コメントの更新をトリガーすると、クラッシュが修正されます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-887">This fixes a crash when users have both modern and legacy comments in a file, thus triggering an upgrade on the comments.</span></span>
+- <span data-ttu-id="dde2c-901">これにより、ユーザーがファイルに対してモダンおよびレガシのコメントを持っていて、コメントの更新をトリガーすると、クラッシュが修正されます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-901">This fixes a crash when users have both modern and legacy comments in a file, thus triggering an upgrade on the comments.</span></span>
 
-### <a name="project"></a><span data-ttu-id="3f2b2-888">Project</span><span class="sxs-lookup"><span data-stu-id="3f2b2-888">Project</span></span>
+### <a name="project"></a><span data-ttu-id="dde2c-902">Project</span><span class="sxs-lookup"><span data-stu-id="dde2c-902">Project</span></span>
 
-- <span data-ttu-id="3f2b2-889">プロジェクトのサマリータスクで、[プロジェクトの開始日] フィールドまたは [タスク] フィールドのいずれかに変更があった場合、ProjectBeforeTaskChange イベントが発生しない問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-889">Fixed an issue where the ProjectBeforeTaskChange event doesn't fire when there is a change to the project summary task - either the project start/task field.</span></span>
+- <span data-ttu-id="dde2c-903">プロジェクトのサマリータスクで、[プロジェクトの開始日] フィールドまたは [タスク] フィールドのいずれかに変更があった場合、ProjectBeforeTaskChange イベントが発生しない問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-903">Fixed an issue where the ProjectBeforeTaskChange event doesn't fire when there is a change to the project summary task - either the project start/task field.</span></span>
 
-### <a name="office-suite"></a><span data-ttu-id="3f2b2-890">Office スイート</span><span class="sxs-lookup"><span data-stu-id="3f2b2-890">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="dde2c-904">Office スイート</span><span class="sxs-lookup"><span data-stu-id="dde2c-904">Office Suite</span></span>
 
-- <span data-ttu-id="3f2b2-891">Bing アドオンのインストール検証を既定で true に設定し、MSI のリターン成功をインストール成功とみなすことで、ValidateInstall のエラー率の問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-891">We have resolved the ValidateInstall fail rate issue by setting the Bing Addon install validation to true by default and considering the MSI return success as an install success.</span></span>
+- <span data-ttu-id="dde2c-905">Bing アドオンのインストール検証を既定で true に設定し、MSI のリターン成功をインストール成功とみなすことで、ValidateInstall のエラー率の問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-905">We have resolved the ValidateInstall fail rate issue by setting the Bing Addon install validation to true by default and considering the MSI return success as an install success.</span></span>
 
 
 
 [//]: # (バグの詳細コンテンツ エンドを削除しないでください)
 
-## <a name="version-2005-june-02"></a><span data-ttu-id="3f2b2-893">バージョン 2005: 6 月 2 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-893">Version 2005: June 02</span></span>
-<span data-ttu-id="3f2b2-894">*バージョン 2005 (ビルド 12827.20268)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-894">*Version 2005 (Build 12827.20268)*</span></span>
+## <a name="version-2005-june-02"></a><span data-ttu-id="dde2c-907">バージョン 2005: 6 月 2 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-907">Version 2005: June 02</span></span>
+<span data-ttu-id="dde2c-908">*バージョン 2005 (ビルド 12827.20268)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-908">*Version 2005 (Build 12827.20268)*</span></span>
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="feature-updates"></a><span data-ttu-id="3f2b2-896">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="3f2b2-896">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="3f2b2-897">Excel</span><span class="sxs-lookup"><span data-stu-id="3f2b2-897">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="dde2c-910">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="dde2c-910">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="dde2c-911">Excel</span><span class="sxs-lookup"><span data-stu-id="dde2c-911">Excel</span></span>
 
-- <span data-ttu-id="3f2b2-898">**新しいデータ型を自動的に使用する :** 可能性のある株式や地理的な場所に似たデータ値を入力すると、Excel は、関連付けられた該当する株価や地理といったデータ型に変換することを提案します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-898">**Automatically use new data types:** When you type a data value that resembles a stock or a geographic location, Excel offers to convert it to the right connected data type - Stocks or Geography.</span></span> [<span data-ttu-id="3f2b2-899">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-899">Learn more</span></span>](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
+- <span data-ttu-id="dde2c-912">**新しいデータ型を自動的に使用する :** 可能性のある株式や地理的な場所に似たデータ値を入力すると、Excel は、関連付けられた該当する株価や地理といったデータ型に変換することを提案します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-912">**Automatically use new data types:** When you type a data value that resembles a stock or a geographic location, Excel offers to convert it to the right connected data type - Stocks or Geography.</span></span> [<span data-ttu-id="dde2c-913">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-913">Learn more</span></span>](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
 
-- <span data-ttu-id="3f2b2-900">**アニメーション Gif を使用してストーリーを伝える :** Office エディターでアニメーション Gif がサポートされるようになりました。これにより、さらに目を引くドキュメントを作成できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-900">**Tell your stories with animated GIFs:** Animated GIFs are now supported in the Office editor - your documents just got snazzier</span></span>
+- <span data-ttu-id="dde2c-914">**アニメーション Gif を使用してストーリーを伝える :** Office エディターでアニメーション Gif がサポートされるようになりました。これにより、さらに目を引くドキュメントを作成できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-914">**Tell your stories with animated GIFs:** Animated GIFs are now supported in the Office editor - your documents just got snazzier</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="3f2b2-901">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-901">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-915">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-915">Outlook</span></span>
 
-- <span data-ttu-id="3f2b2-902">**グループ内のデータを保護:** グループを作成するときに選択する秘密度ラベルがグループ メール、ドキュメント、チーム サイトに適用されます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-902">**Help protect data in your group:** The Sensitivity label you choose when creating a group is applied to group email, documents, and team sites</span></span>
+- <span data-ttu-id="dde2c-916">**グループ内のデータを保護:** グループを作成するときに選択する秘密度ラベルがグループ メール、ドキュメント、チーム サイトに適用されます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-916">**Help protect data in your group:** The Sensitivity label you choose when creating a group is applied to group email, documents, and team sites</span></span>
 
-- <span data-ttu-id="3f2b2-903">**より迅速かつ適切な結果:** 検索機能が更新され、よりスマート、迅速、かつ信頼性が高くなりました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-903">**Better results—in a jiffy:** We've updated the Search experience to make it smarter, faster, and more reliable than ever.</span></span> [<span data-ttu-id="3f2b2-904">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-904">Learn more</span></span>](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
+- <span data-ttu-id="dde2c-917">**より迅速かつ適切な結果:** 検索機能が更新され、よりスマート、迅速、かつ信頼性が高くなりました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-917">**Better results—in a jiffy:** We've updated the Search experience to make it smarter, faster, and more reliable than ever.</span></span> [<span data-ttu-id="dde2c-918">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-918">Learn more</span></span>](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
 
-- <span data-ttu-id="3f2b2-905">**アニメーション Gif を使用してストーリーを伝える :** Office エディターでアニメーション Gif がサポートされるようになりました。これにより、さらに目を引くドキュメントを作成できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-905">**Tell your stories with animated GIFs:** Animated GIFs are now supported in the Office editor - your documents just got snazzier</span></span>
+- <span data-ttu-id="dde2c-919">**アニメーション Gif を使用してストーリーを伝える :** Office エディターでアニメーション Gif がサポートされるようになりました。これにより、さらに目を引くドキュメントを作成できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-919">**Tell your stories with animated GIFs:** Animated GIFs are now supported in the Office editor - your documents just got snazzier</span></span>
 
-- <span data-ttu-id="3f2b2-906">**予定表が一新されます:** 予定表を簡単に読みやすくなるビジュアル アップデートをご覧ください。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-906">**Calendar gets a makeover:** See visual updates that make your calendar easier to scan.</span></span> [<span data-ttu-id="3f2b2-907">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-907">Learn more</span></span>](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br /><span data-ttu-id="3f2b2-908">[ブログの投稿](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)の詳細情報をご覧ください</span><span class="sxs-lookup"><span data-stu-id="3f2b2-908">See details in [blog post](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)</span></span>
+- <span data-ttu-id="dde2c-920">**予定表が一新されます:** 予定表を簡単に読みやすくなるビジュアル アップデートをご覧ください。</span><span class="sxs-lookup"><span data-stu-id="dde2c-920">**Calendar gets a makeover:** See visual updates that make your calendar easier to scan.</span></span> [<span data-ttu-id="dde2c-921">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-921">Learn more</span></span>](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br /><span data-ttu-id="dde2c-922">[ブログの投稿](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)の詳細情報をご覧ください</span><span class="sxs-lookup"><span data-stu-id="dde2c-922">See details in [blog post](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="3f2b2-909">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="3f2b2-909">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="dde2c-923">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="dde2c-923">PowerPoint</span></span>
 
-- <span data-ttu-id="3f2b2-910">**アニメーション Gif を使用してストーリーを伝える:** Office エディターでアニメーション Gif がサポートされるようになりました。これにより、さらに目を引くドキュメントを作成できるようになりました。[詳細については、こちらを参照してください。](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)</span><span class="sxs-lookup"><span data-stu-id="3f2b2-910">**Tell your stories with animated GIFs:** Animated GIFs are now supported in the Office editor - your documents just got snazzier [Learn more](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)</span></span>
+- <span data-ttu-id="dde2c-924">**アニメーション Gif を使用してストーリーを伝える:** Office エディターでアニメーション Gif がサポートされるようになりました。これにより、さらに目を引くドキュメントを作成できるようになりました。[詳細については、こちらを参照してください。](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)</span><span class="sxs-lookup"><span data-stu-id="dde2c-924">**Tell your stories with animated GIFs:** Animated GIFs are now supported in the Office editor - your documents just got snazzier [Learn more](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)</span></span>
 
-- <span data-ttu-id="3f2b2-911">**プレゼンテーション中に変更を同期する:** プレゼンテーションがスライド ショー モードであれば、いつでも変更を同期できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-911">**Synchronize changes while you are presenting:** Synchronize changes whenever they are made even when the presentation is in slide show mode.</span></span> [<span data-ttu-id="3f2b2-912">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-912">Learn more</span></span>](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br /><span data-ttu-id="3f2b2-913">[ブログの投稿](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)の詳細情報をご覧ください</span><span class="sxs-lookup"><span data-stu-id="3f2b2-913">See details in [blog post](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)</span></span>
+- <span data-ttu-id="dde2c-925">**プレゼンテーション中に変更を同期する:** プレゼンテーションがスライド ショー モードであれば、いつでも変更を同期できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-925">**Synchronize changes while you are presenting:** Synchronize changes whenever they are made even when the presentation is in slide show mode.</span></span> [<span data-ttu-id="dde2c-926">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-926">Learn more</span></span>](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br /><span data-ttu-id="dde2c-927">[ブログの投稿](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)の詳細情報をご覧ください</span><span class="sxs-lookup"><span data-stu-id="dde2c-927">See details in [blog post](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)</span></span>
 
-- <span data-ttu-id="3f2b2-914">**クリッカーは不要: イヤホンでカバー:** Surface Earbuds を使用して、PowerPoint プレゼンテーションを制御します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-914">**No need for a clicker: your earbuds have you covered:** Use your Surface Earbuds to control your PowerPoint presentations.</span></span> <span data-ttu-id="3f2b2-915">機能のしくみ: ペアリングすると、PowerPoint の機能を有効にする必要があります。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-915">How it works:  Once paired, you'll need to enable the feature in PowerPoint.</span></span> <span data-ttu-id="3f2b2-916">F5 キーを押すか、[スライド ショー] > [最初から] を選択してプレゼンテーションを開始します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-916">Start a presentation by pressing F5 or selecting Slide Show > From Beginning.</span></span>  <span data-ttu-id="3f2b2-917">スライドショーでは、スライドを右クリックし、Surface Earbuds の設定で、[ジェスチャを使用してプレゼンテーションを制御] を選択します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-917">In Slide Show, right click on the slide and under Surface Earbuds Settings choose Use Gestures to Control Presentation.</span></span>  <span data-ttu-id="3f2b2-918">この設定は、今後作成するすべてのプレゼンテーションに記録されます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-918">This setting will be remembered for all future presentations.</span></span> <span data-ttu-id="3f2b2-919">スライド ショー モードで左イヤホンを使用して前後にスワイプし、プレゼンテーションをナビゲートできます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-919">You can now can swipe forward and backward on the left earbud to navigate your presentations in Slide Show mode.</span></span>  <span data-ttu-id="3f2b2-920">ダブルタップして、埋め込まれたビデオを再生または一時停止します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-920">Double tap to play or pause embedded videos.</span></span>  <span data-ttu-id="3f2b2-921">重要: ジェスチャーを使用してプレゼンテーションを制御するには、Windows 10 の Surface Audio アプリで Surface Earbuds をペアリングする必要があります。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-921">Important: You must pair your Surface Earbuds in the Surface Audio app for Windows 10 in order to use gestures to control presentations.</span></span> <span data-ttu-id="3f2b2-922">Windows 10 で Surface Audio アプリを使い始める方法については、こちらをご覧ください。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-922">Instructions for getting started with the Surface Audio app on Windows 10 are available here.</span></span> [<span data-ttu-id="3f2b2-923">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-923">Learn more</span></span>](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
+- <span data-ttu-id="dde2c-928">**クリッカーは不要: イヤホンでカバー:** Surface Earbuds を使用して、PowerPoint プレゼンテーションを制御します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-928">**No need for a clicker: your earbuds have you covered:** Use your Surface Earbuds to control your PowerPoint presentations.</span></span> <span data-ttu-id="dde2c-929">機能のしくみ: ペアリングすると、PowerPoint の機能を有効にする必要があります。</span><span class="sxs-lookup"><span data-stu-id="dde2c-929">How it works:  Once paired, you'll need to enable the feature in PowerPoint.</span></span> <span data-ttu-id="dde2c-930">F5 キーを押すか、[スライド ショー] > [最初から] を選択してプレゼンテーションを開始します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-930">Start a presentation by pressing F5 or selecting Slide Show > From Beginning.</span></span>  <span data-ttu-id="dde2c-931">スライドショーでは、スライドを右クリックし、Surface Earbuds の設定で、[ジェスチャを使用してプレゼンテーションを制御] を選択します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-931">In Slide Show, right click on the slide and under Surface Earbuds Settings choose Use Gestures to Control Presentation.</span></span>  <span data-ttu-id="dde2c-932">この設定は、今後作成するすべてのプレゼンテーションに記録されます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-932">This setting will be remembered for all future presentations.</span></span> <span data-ttu-id="dde2c-933">スライド ショー モードで左イヤホンを使用して前後にスワイプし、プレゼンテーションをナビゲートできます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-933">You can now can swipe forward and backward on the left earbud to navigate your presentations in Slide Show mode.</span></span>  <span data-ttu-id="dde2c-934">ダブルタップして、埋め込まれたビデオを再生または一時停止します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-934">Double tap to play or pause embedded videos.</span></span>  <span data-ttu-id="dde2c-935">重要: ジェスチャーを使用してプレゼンテーションを制御するには、Windows 10 の Surface Audio アプリで Surface Earbuds をペアリングする必要があります。</span><span class="sxs-lookup"><span data-stu-id="dde2c-935">Important: You must pair your Surface Earbuds in the Surface Audio app for Windows 10 in order to use gestures to control presentations.</span></span> <span data-ttu-id="dde2c-936">Windows 10 で Surface Audio アプリを使い始める方法については、こちらをご覧ください。</span><span class="sxs-lookup"><span data-stu-id="dde2c-936">Instructions for getting started with the Surface Audio app on Windows 10 are available here.</span></span> [<span data-ttu-id="dde2c-937">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-937">Learn more</span></span>](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
 
-### <a name="teams"></a><span data-ttu-id="3f2b2-924">Teams</span><span class="sxs-lookup"><span data-stu-id="3f2b2-924">Teams</span></span>
+### <a name="teams"></a><span data-ttu-id="dde2c-938">Teams</span><span class="sxs-lookup"><span data-stu-id="dde2c-938">Teams</span></span>
 
-- <span data-ttu-id="3f2b2-925">**Teams 会議でのビデオ レイアウトの変更:** 近日中に、Teams 会議中に同時に表示できる参加者の数は、4名から9名に増加します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-925">**Changes to video layout in Teams meetings:** Soon, the number of participants that can be viewed simultaneously during a Teams meeting will increase from 4 to 9.</span></span>
+- <span data-ttu-id="dde2c-939">**Teams 会議でのビデオ レイアウトの変更:** 近日中に、Teams 会議中に同時に表示できる参加者の数は、4名から9名に増加します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-939">**Changes to video layout in Teams meetings:** Soon, the number of participants that can be viewed simultaneously during a Teams meeting will increase from 4 to 9.</span></span>
 
-- <span data-ttu-id="3f2b2-926">**[ライブイベント] にシステム オーディオを含める**: ライブ イベントの発表者やプロデューサーは、ライブ イベント中にデスクトップまたはウィンドウ画面を共有するときに、システム オーディオを含めることができるようになりました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-926">**Include system audio in live events:** Presenters and producers in live events can now include system audio when sharing a desktop or window screen during the live event.</span></span> <span data-ttu-id="3f2b2-927">これにより、共有するコンテンツのオーディオ部分をユーザーが聞くことができます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-927">This will allow your users to hear any audio part of the content you are sharing.</span></span>
+- <span data-ttu-id="dde2c-940">**[ライブイベント] にシステム オーディオを含める**: ライブ イベントの発表者やプロデューサーは、ライブ イベント中にデスクトップまたはウィンドウ画面を共有するときに、システム オーディオを含めることができるようになりました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-940">**Include system audio in live events:** Presenters and producers in live events can now include system audio when sharing a desktop or window screen during the live event.</span></span> <span data-ttu-id="dde2c-941">これにより、共有するコンテンツのオーディオ部分をユーザーが聞くことができます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-941">This will allow your users to hear any audio part of the content you are sharing.</span></span>
 
-- <span data-ttu-id="3f2b2-928">[**ダイヤルイン ユーザーによるロビーのバイパスを許可する :**] この設定では、スマートフォンでダイヤル インするユーザーが会議に直接参加するのか、[ユーザーの参加を自動的に許可する] の設定に関わらずロビーで待機するのかを制御します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-928">**Enable organizers to change lobby settings for dial-in participants:** This setting controls whether people who dial in by phone join the meeting directly or wait in the lobby regardless of the Automatically admit people setting.</span></span>
+- <span data-ttu-id="dde2c-942">[**ダイヤルイン ユーザーによるロビーのバイパスを許可する :**] この設定では、スマートフォンでダイヤル インするユーザーが会議に直接参加するのか、[ユーザーの参加を自動的に許可する] の設定に関わらずロビーで待機するのかを制御します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-942">**Enable organizers to change lobby settings for dial-in participants:** This setting controls whether people who dial in by phone join the meeting directly or wait in the lobby regardless of the Automatically admit people setting.</span></span>
 
-- <span data-ttu-id="3f2b2-929">**会議で挙手しましょう:** ユーザーは会議で仮想の手を上げることができるようになりました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-929">**Raise Your Hand in Meetings:** Users can now raise a virtual hand in a meeting!</span></span> <span data-ttu-id="3f2b2-930">他のユーザーは、会議のステージで参加者名簿の自分の名前の横で挙手しているのが表示されるのを見ることができます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-930">Other participants will see your raised hand next to your name in the meeting stage and next to your name in the roster.</span></span>
+- <span data-ttu-id="dde2c-943">**会議で挙手しましょう:** ユーザーは会議で仮想の手を上げることができるようになりました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-943">**Raise Your Hand in Meetings:** Users can now raise a virtual hand in a meeting!</span></span> <span data-ttu-id="dde2c-944">他のユーザーは、会議のステージで参加者名簿の自分の名前の横で挙手しているのが表示されるのを見ることができます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-944">Other participants will see your raised hand next to your name in the meeting stage and next to your name in the roster.</span></span>
 
-- <span data-ttu-id="3f2b2-931">**ビデオ会議の背景をカスタマイズ:** ビデオ会議を実施しているときに、使用する静的な背景画像を選択できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-931">**Customize meeting video backgrounds:** When you are meeting with video, you now have the choice of different static background images to use.</span></span> <span data-ttu-id="3f2b2-932">この操作により、実際に座っている場所の背景ではない、選択した画像が表示されます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-932">This will let you show this image and not the actual background of where you are sitting.</span></span>
+- <span data-ttu-id="dde2c-945">**ビデオ会議の背景をカスタマイズ:** ビデオ会議を実施しているときに、使用する静的な背景画像を選択できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-945">**Customize meeting video backgrounds:** When you are meeting with video, you now have the choice of different static background images to use.</span></span> <span data-ttu-id="dde2c-946">この操作により、実際に座っている場所の背景ではない、選択した画像が表示されます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-946">This will let you show this image and not the actual background of where you are sitting.</span></span>
 
-- <span data-ttu-id="3f2b2-933">**チャットにユーザーを追加する:**、最大350人のユーザーを1つのチャットスレッドに追加できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-933">**Add more people to chat:** We made it possible to now add up to 350 people to a single chat thread.</span></span>
+- <span data-ttu-id="dde2c-947">**チャットにユーザーを追加する:**、最大350人のユーザーを1つのチャットスレッドに追加できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-947">**Add more people to chat:** We made it possible to now add up to 350 people to a single chat thread.</span></span>
 
-- <span data-ttu-id="3f2b2-934">**アクティビティ フィードの設定ギア**: ユーザーは、[設定] ギアを使用して、フィードの左側のレールから、アクティビティ フィードと通知の設定に直接アクセスできるようになりました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-934">**Settings Gear on your Activity Feed:** Users can now directly access activity feed and notification setting from the feed left rail by the means of a settings gear.</span></span>
+- <span data-ttu-id="dde2c-948">**アクティビティ フィードの設定ギア**: ユーザーは、[設定] ギアを使用して、フィードの左側のレールから、アクティビティ フィードと通知の設定に直接アクセスできるようになりました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-948">**Settings Gear on your Activity Feed:** Users can now directly access activity feed and notification setting from the feed left rail by the means of a settings gear.</span></span>
 
-- <span data-ttu-id="3f2b2-935">**進行中の Teams 会議内から会議のオプションに簡単にアクセス可能:** 会議の開催者は、参加者ウィンドウに直接アクセスできるリンクを提供することで、会議の開催者が発表者やロビーの設定をすばやく簡単に変更することができます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-935">**Easily access meeting options from within a Teams meeting in progress:** We are making it easier for meeting organizers to quickly and easily change their presenter and lobby settings once a Teams meeting starts by providing an easy to access link directly in the participants pane.</span></span> <span data-ttu-id="3f2b2-936">この新機能は、予定されている、または 「今から会議」 の会議に使用できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-936">This new functionality will be present for both scheduled and “Meet Now” meetings.</span></span>
+- <span data-ttu-id="dde2c-949">**進行中の Teams 会議内から会議のオプションに簡単にアクセス可能:** 会議の開催者は、参加者ウィンドウに直接アクセスできるリンクを提供することで、会議の開催者が発表者やロビーの設定をすばやく簡単に変更することができます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-949">**Easily access meeting options from within a Teams meeting in progress:** We are making it easier for meeting organizers to quickly and easily change their presenter and lobby settings once a Teams meeting starts by providing an easy to access link directly in the participants pane.</span></span> <span data-ttu-id="dde2c-950">この新機能は、予定されている、または 「今から会議」 の会議に使用できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-950">This new functionality will be present for both scheduled and “Meet Now” meetings.</span></span>
 
-- <span data-ttu-id="3f2b2-937">**チームとチャネルの分析 :** チームの分析に加えて、チャネル レベルのメトリックスやインサイトを表示することもできます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-937">**Team and channel analytics:** In addition to team analytics, now you can also view channel level metrics and insights.</span></span> <span data-ttu-id="3f2b2-938">また、より長期間にわたってデータを分析できるように、期間が90日に延長されました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-938">We've also enhanced the time period to 90 days so you can analyze data for longer periods.</span></span> <span data-ttu-id="3f2b2-939">それ以外に、このリリースには、チームやチャネルの投稿、返信、会議の数についての新しいメトリックスやグラフも含まれます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-939">Apart from that, this release also includes new metrics and charts around count of posts, replies and meetings for a team or channel.</span></span>
+- <span data-ttu-id="dde2c-951">**チームとチャネルの分析 :** チームの分析に加えて、チャネル レベルのメトリックスやインサイトを表示することもできます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-951">**Team and channel analytics:** In addition to team analytics, now you can also view channel level metrics and insights.</span></span> <span data-ttu-id="dde2c-952">また、より長期間にわたってデータを分析できるように、期間が90日に延長されました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-952">We've also enhanced the time period to 90 days so you can analyze data for longer periods.</span></span> <span data-ttu-id="dde2c-953">それ以外に、このリリースには、チームやチャネルの投稿、返信、会議の数についての新しいメトリックスやグラフも含まれます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-953">Apart from that, this release also includes new metrics and charts around count of posts, replies and meetings for a team or channel.</span></span>
 
-- <span data-ttu-id="3f2b2-940">**入退場のアナウンス:** 会議の開催者が会議の入退場アナウンスのオン / オフを切り替えできる機能を追加しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-940">**Entry/exit announcements:** We added this feature that lets meeting organizers have the ability to turn on or off entry and exit announcements for a meeting.</span></span>
+- <span data-ttu-id="dde2c-954">**入退場のアナウンス:** 会議の開催者が会議の入退場アナウンスのオン / オフを切り替えできる機能を追加しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-954">**Entry/exit announcements:** We added this feature that lets meeting organizers have the ability to turn on or off entry and exit announcements for a meeting.</span></span>
 
-### <a name="word"></a><span data-ttu-id="3f2b2-941">Word</span><span class="sxs-lookup"><span data-stu-id="3f2b2-941">Word</span></span>
+### <a name="word"></a><span data-ttu-id="dde2c-955">Word</span><span class="sxs-lookup"><span data-stu-id="dde2c-955">Word</span></span>
 
-- <span data-ttu-id="3f2b2-942">**Wordを終了せずに頭字語をデコードする:** Word で頭字語が見つかった場合、他のユーザーによるその使用方法に基づいく定義が示されます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-942">**Decode acronyms without leaving Word:** When you encounter an acronym, Word will try to define it based on how others use it.</span></span>
+- <span data-ttu-id="dde2c-956">**Wordを終了せずに頭字語をデコードする:** Word で頭字語が見つかった場合、他のユーザーによるその使用方法に基づいく定義が示されます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-956">**Decode acronyms without leaving Word:** When you encounter an acronym, Word will try to define it based on how others use it.</span></span>
 
-- <span data-ttu-id="3f2b2-943">**アニメーション Gif を使用してストーリーを伝える :** Office エディターでアニメーション Gif がサポートされるようになりました。これにより、さらに目を引くドキュメントを作成できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-943">**Tell your stories with animated GIFs:** Animated GIFs are now supported in the Office editor - your documents just got snazzier</span></span>
+- <span data-ttu-id="dde2c-957">**アニメーション Gif を使用してストーリーを伝える :** Office エディターでアニメーション Gif がサポートされるようになりました。これにより、さらに目を引くドキュメントを作成できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-957">**Tell your stories with animated GIFs:** Animated GIFs are now supported in the Office editor - your documents just got snazzier</span></span>
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -1526,141 +1559,141 @@ ms.locfileid: "50455773"
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-946">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-946">Resolved issues</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-960">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-960">Resolved issues</span></span>
 
-### <a name="excel"></a><span data-ttu-id="3f2b2-947">Excel</span><span class="sxs-lookup"><span data-stu-id="3f2b2-947">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="dde2c-961">Excel</span><span class="sxs-lookup"><span data-stu-id="dde2c-961">Excel</span></span>
 
-- <span data-ttu-id="3f2b2-948">Excel ウィンドウが Teams と共有されているときに、Ctrl キーと Shift キーを押しながら方向キーを押した後、Excel が応答しなくなる可能性がある問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-948">Fixed an issue where Excel could become unresponsive after using Ctrl+Shift+Arrow keys to scroll when the Excel window is shared through Teams.</span></span>
+- <span data-ttu-id="dde2c-962">Excel ウィンドウが Teams と共有されているときに、Ctrl キーと Shift キーを押しながら方向キーを押した後、Excel が応答しなくなる可能性がある問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-962">Fixed an issue where Excel could become unresponsive after using Ctrl+Shift+Arrow keys to scroll when the Excel window is shared through Teams.</span></span>
 
-- <span data-ttu-id="3f2b2-949">同じブック内の場所へのハイパーリンクをクリックすると、ブックが非表示になることがあります。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-949">In some cases, clicking a hyperlink to a place within the same workbook will cause the workbook to be hidden.</span></span>
+- <span data-ttu-id="dde2c-963">同じブック内の場所へのハイパーリンクをクリックすると、ブックが非表示になることがあります。</span><span class="sxs-lookup"><span data-stu-id="dde2c-963">In some cases, clicking a hyperlink to a place within the same workbook will cause the workbook to be hidden.</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="3f2b2-950">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-950">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-964">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-964">Outlook</span></span>
 
-- <span data-ttu-id="3f2b2-951">CLP の監査イベントで、返信/転送ラベルの問題に対応しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-951">Addressed an issue with the clp auditing event for the reply/forward label.</span></span>
+- <span data-ttu-id="dde2c-965">CLP の監査イベントで、返信/転送ラベルの問題に対応しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-965">Addressed an issue with the clp auditing event for the reply/forward label.</span></span>
 
-- <span data-ttu-id="3f2b2-952">Windows 10 サーバー バージョンのユーザーに「アンチウイルスの状態が無効です」という警告が表示される問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-952">Addressed an issue that caused users of Windows 10 server versions to see the warning "Antivirus status: Invalid".</span></span> <span data-ttu-id="3f2b2-953">このバージョンの Windows はウイルス検出をサポートしていますが、ウイルス対策が正常にインストールされてもウイルス対策ソフトウェアが見つかりませんでした。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-953">This version of Windows supports antivirus detection, but no antivirus was found despite having anti virus correctly installed.</span></span>
+- <span data-ttu-id="dde2c-966">Windows 10 サーバー バージョンのユーザーに「アンチウイルスの状態が無効です」という警告が表示される問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-966">Addressed an issue that caused users of Windows 10 server versions to see the warning "Antivirus status: Invalid".</span></span> <span data-ttu-id="dde2c-967">このバージョンの Windows はウイルス検出をサポートしていますが、ウイルス対策が正常にインストールされてもウイルス対策ソフトウェアが見つかりませんでした。</span><span class="sxs-lookup"><span data-stu-id="dde2c-967">This version of Windows supports antivirus detection, but no antivirus was found despite having anti virus correctly installed.</span></span>
 
-- <span data-ttu-id="3f2b2-954">ユーザーが管理者通知からフィードバックを送信する場合にクラッシュが発生する問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-954">Addressed an issue that caused users to experience a crash when submitting feedback from an Admin Notification.</span></span>
+- <span data-ttu-id="dde2c-968">ユーザーが管理者通知からフィードバックを送信する場合にクラッシュが発生する問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-968">Addressed an issue that caused users to experience a crash when submitting feedback from an Admin Notification.</span></span>
 
-### <a name="skype"></a><span data-ttu-id="3f2b2-955">Skype</span><span class="sxs-lookup"><span data-stu-id="3f2b2-955">Skype</span></span>
+### <a name="skype"></a><span data-ttu-id="dde2c-969">Skype</span><span class="sxs-lookup"><span data-stu-id="dde2c-969">Skype</span></span>
 
-- <span data-ttu-id="3f2b2-956">ユーザーが Teams Only に移動するポリシーを与えられた場合は、Skype for Business Outlook アドインを使用して会議をスケジュールできます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-956">When a user is given a policy that moves them to Teams Only, they were still able to use the Skype for Business Outlook add-in to schedule meetings.</span></span> <span data-ttu-id="3f2b2-957">この更新プログラムを適用すると、クライアントは Teams Only を対象としていることを示すポリシーをユーザーが読んでから会議参加のみのモードに入った後に、Skype for Business 会議のスケジュールを設定できなくなります。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-957">After this update, you will no longer be able to schedule Skype for Business meetings after the client reads the policy indicating the user is Teams Only, and enters meeting join only mode.</span></span> <span data-ttu-id="3f2b2-958">また、skype for business Outlook アドインは、Skype for business クライアントが 「会議の参加のみ」 モードであることを確認した場合に起動した場合、自動的にアクティブ化されることはありません。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-958">Additionally the Skype for Business Outlook Add-in will not activate itself while starting up if it sees the Skype for Business client is in meeting join only mode.</span></span>
+- <span data-ttu-id="dde2c-970">ユーザーが Teams Only に移動するポリシーを与えられた場合は、Skype for Business Outlook アドインを使用して会議をスケジュールできます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-970">When a user is given a policy that moves them to Teams Only, they were still able to use the Skype for Business Outlook add-in to schedule meetings.</span></span> <span data-ttu-id="dde2c-971">この更新プログラムを適用すると、クライアントは Teams Only を対象としていることを示すポリシーをユーザーが読んでから会議参加のみのモードに入った後に、Skype for Business 会議のスケジュールを設定できなくなります。</span><span class="sxs-lookup"><span data-stu-id="dde2c-971">After this update, you will no longer be able to schedule Skype for Business meetings after the client reads the policy indicating the user is Teams Only, and enters meeting join only mode.</span></span> <span data-ttu-id="dde2c-972">また、skype for business Outlook アドインは、Skype for business クライアントが 「会議の参加のみ」 モードであることを確認した場合に起動した場合、自動的にアクティブ化されることはありません。</span><span class="sxs-lookup"><span data-stu-id="dde2c-972">Additionally the Skype for Business Outlook Add-in will not activate itself while starting up if it sees the Skype for Business client is in meeting join only mode.</span></span>
 
-### <a name="office-suite"></a><span data-ttu-id="3f2b2-959">Office スイート</span><span class="sxs-lookup"><span data-stu-id="3f2b2-959">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="dde2c-973">Office スイート</span><span class="sxs-lookup"><span data-stu-id="dde2c-973">Office Suite</span></span>
 
-- <span data-ttu-id="3f2b2-960">この更新プログラムを適用すると、Microsoft Office の Visual Basic for Applications で、ライブラリ名またはライブラリ パスに DBCS 文字を含むコード ライブラリへの参照が含まれている特定の VBA プロジェクトが、読み込み時に破損していると Office アプリケーションで表示される問題が修正されます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-960">This update fixes an issue in Visual Basic for Applications in Microsoft Office where certain VBA projects that contain references to code libraries with DBCS characters in the library name or library path would be viewed by the Office application as corrupt on load.</span></span>
+- <span data-ttu-id="dde2c-974">この更新プログラムを適用すると、Microsoft Office の Visual Basic for Applications で、ライブラリ名またはライブラリ パスに DBCS 文字を含むコード ライブラリへの参照が含まれている特定の VBA プロジェクトが、読み込み時に破損していると Office アプリケーションで表示される問題が修正されます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-974">This update fixes an issue in Visual Basic for Applications in Microsoft Office where certain VBA projects that contain references to code libraries with DBCS characters in the library name or library path would be viewed by the Office application as corrupt on load.</span></span>
 
-- <span data-ttu-id="3f2b2-961">この更新プログラムでは、Microsoft Office で PATH 環境変数で指定した場所を検索することによって参照される可能性がある Visual Basic for Applications プロジェクトが実行時に正しく検出されず、VBA ランタイムエラーが発生するという問題が修正されます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-961">This update fixes an issue in Microsoft Office where Visual Basic for Applications projects with references that are expected to be found by searching locations specified in the PATH environment variable may not be found properly at runtime, leading to VBA runtime errors.</span></span>
+- <span data-ttu-id="dde2c-975">この更新プログラムでは、Microsoft Office で PATH 環境変数で指定した場所を検索することによって参照される可能性がある Visual Basic for Applications プロジェクトが実行時に正しく検出されず、VBA ランタイムエラーが発生するという問題が修正されます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-975">This update fixes an issue in Microsoft Office where Visual Basic for Applications projects with references that are expected to be found by searching locations specified in the PATH environment variable may not be found properly at runtime, leading to VBA runtime errors.</span></span>
 
-- <span data-ttu-id="3f2b2-962">HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth のレジストリ キーが0に設定されている場合、アドインがアクティブになり、Windows で Office ホストがクラッシュしました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-962">The office host was crashing in windows, when an add-in is being activated while the registry key HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth is set to zero.</span></span> <span data-ttu-id="3f2b2-963">この変更により、この問題は修正されます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-963">This change would fix this issue.</span></span>
+- <span data-ttu-id="dde2c-976">HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth のレジストリ キーが0に設定されている場合、アドインがアクティブになり、Windows で Office ホストがクラッシュしました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-976">The office host was crashing in windows, when an add-in is being activated while the registry key HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth is set to zero.</span></span> <span data-ttu-id="dde2c-977">この変更により、この問題は修正されます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-977">This change would fix this issue.</span></span>
 
 
 
 [//]: # (バグの詳細コンテンツ エンドを削除しないでください)
 
-## <a name="version-2004-may-21"></a><span data-ttu-id="3f2b2-965">バージョン 2004: 5 月 21 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-965">Version 2004: May 21</span></span>
-<span data-ttu-id="3f2b2-966">*バージョン 2004 (ビルド 12730.20352)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-966">*Version 2004 (Build 12730.20352)*</span></span>
+## <a name="version-2004-may-21"></a><span data-ttu-id="dde2c-979">バージョン 2004: 5 月 21 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-979">Version 2004: May 21</span></span>
+<span data-ttu-id="dde2c-980">*バージョン 2004 (ビルド 12730.20352)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-980">*Version 2004 (Build 12730.20352)*</span></span>
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-968">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-968">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="3f2b2-969">Excel</span><span class="sxs-lookup"><span data-stu-id="3f2b2-969">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-982">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-982">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="dde2c-983">Excel</span><span class="sxs-lookup"><span data-stu-id="dde2c-983">Excel</span></span>
 
-- <span data-ttu-id="3f2b2-970">ファイル パスが長すぎる場合にファイルをもう一度開くと、外部リンクが機能しなくなった問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-970">Fixed an issue where the external link stops working after the file is reopened if the file path is too long.</span></span>
-
-
-### <a name="outlook"></a><span data-ttu-id="3f2b2-971">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-971">Outlook</span></span>
-
-- <span data-ttu-id="3f2b2-972">ユーザーが管理者通知からフィードバックを送信する場合にクラッシュが発生する問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-972">Addressed an issue that caused users to experience a crash when submitting feedback from an Admin Notification.</span></span>
+- <span data-ttu-id="dde2c-984">ファイル パスが長すぎる場合にファイルをもう一度開くと、外部リンクが機能しなくなった問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-984">Fixed an issue where the external link stops working after the file is reopened if the file path is too long.</span></span>
 
 
-### <a name="office-suite"></a><span data-ttu-id="3f2b2-973">Office スイート</span><span class="sxs-lookup"><span data-stu-id="3f2b2-973">Office Suite</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-985">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-985">Outlook</span></span>
 
-- <span data-ttu-id="3f2b2-974">クイック実行に関する問題が修正され、最新のビルドへの更新プログラムに失敗することがあった問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-974">Fixed a Click-to-Run issue which was resulting in occasional update failures to the latest builds.</span></span>
+- <span data-ttu-id="dde2c-986">ユーザーが管理者通知からフィードバックを送信する場合にクラッシュが発生する問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-986">Addressed an issue that caused users to experience a crash when submitting feedback from an Admin Notification.</span></span>
 
-- <span data-ttu-id="3f2b2-975">Microsoft Office で、PATH 環境変数で指定した場所を検索すれば見つかるはずの参照を含む Visual Basic for Applications プロジェクトが実行時に正しく検出されず、VBA のランタイム エラーになる問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-975">Fixed an issue in Microsoft Office where Visual Basic for Applications projects with references that are expected to be found by searching locations specified in the PATH environment variable may not be found properly at runtime, leading to VBA runtime errors.</span></span>
+
+### <a name="office-suite"></a><span data-ttu-id="dde2c-987">Office スイート</span><span class="sxs-lookup"><span data-stu-id="dde2c-987">Office Suite</span></span>
+
+- <span data-ttu-id="dde2c-988">クイック実行に関する問題が修正され、最新のビルドへの更新プログラムに失敗することがあった問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-988">Fixed a Click-to-Run issue which was resulting in occasional update failures to the latest builds.</span></span>
+
+- <span data-ttu-id="dde2c-989">Microsoft Office で、PATH 環境変数で指定した場所を検索すれば見つかるはずの参照を含む Visual Basic for Applications プロジェクトが実行時に正しく検出されず、VBA のランタイム エラーになる問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-989">Fixed an issue in Microsoft Office where Visual Basic for Applications projects with references that are expected to be found by searching locations specified in the PATH environment variable may not be found properly at runtime, leading to VBA runtime errors.</span></span>
 
 
 
 [//]: # (バグの詳細コンテンツ エンドを削除しないでください)
 
-## <a name="version-2004-may-12"></a><span data-ttu-id="3f2b2-977">バージョン 2004: 5 月 12 月</span><span class="sxs-lookup"><span data-stu-id="3f2b2-977">Version 2004: May 12</span></span>
-<span data-ttu-id="3f2b2-978">*バージョン 2004 (ビルド 12730.20270)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-978">*Version 2004 (Build 12730.20270)*</span></span>
+## <a name="version-2004-may-12"></a><span data-ttu-id="dde2c-991">バージョン 2004: 5 月 12 月</span><span class="sxs-lookup"><span data-stu-id="dde2c-991">Version 2004: May 12</span></span>
+<span data-ttu-id="dde2c-992">*バージョン 2004 (ビルド 12730.20270)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-992">*Version 2004 (Build 12730.20270)*</span></span>
 
-<span data-ttu-id="3f2b2-979">セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="3f2b2-979">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
+<span data-ttu-id="dde2c-993">セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="dde2c-993">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-981">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-981">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="3f2b2-982">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-982">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-995">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-995">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-996">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-996">Outlook</span></span>
 
-- <span data-ttu-id="3f2b2-983">ユーザーがトースト通知を表示するときにクラッシュする問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-983">Addresses an issue that caused users to experience a crash when displaying toast notifications.</span></span>
+- <span data-ttu-id="dde2c-997">ユーザーがトースト通知を表示するときにクラッシュする問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-997">Addresses an issue that caused users to experience a crash when displaying toast notifications.</span></span>
 
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2004-may-04"></a><span data-ttu-id="3f2b2-985">バージョン 2004: 5 月 4 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-985">Version 2004: May 04</span></span>
-<span data-ttu-id="3f2b2-986">*バージョン 2004 (ビルド 12730.20250)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-986">*Version 2004 (Build 12730.20250)*</span></span>
+## <a name="version-2004-may-04"></a><span data-ttu-id="dde2c-999">バージョン 2004: 5 月 4 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-999">Version 2004: May 04</span></span>
+<span data-ttu-id="dde2c-1000">*バージョン 2004 (ビルド 12730.20250)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-1000">*Version 2004 (Build 12730.20250)*</span></span>
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-988">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-988">Resolved issues</span></span>
-### <a name="office-suite"></a><span data-ttu-id="3f2b2-989">Office スイート</span><span class="sxs-lookup"><span data-stu-id="3f2b2-989">Office Suite</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-1002">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-1002">Resolved issues</span></span>
+### <a name="office-suite"></a><span data-ttu-id="dde2c-1003">Office スイート</span><span class="sxs-lookup"><span data-stu-id="dde2c-1003">Office Suite</span></span>
 
-- <span data-ttu-id="3f2b2-990">この更新プログラムを適用すると、Microsoft Office の Visual Basic for Applications で、ライブラリ名またはライブラリ パスに DBCS 文字を含むコード ライブラリへの参照が含まれている特定の VBA プロジェクトが、読み込み時に破損していると Office アプリケーションで表示される問題が修正されます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-990">This update fixes an issue in Visual Basic for Applications in Microsoft Office where certain VBA projects that contain references to code libraries with DBCS characters in the library name or library path would be viewed by the Office application as corrupt on load.</span></span>
+- <span data-ttu-id="dde2c-1004">この更新プログラムを適用すると、Microsoft Office の Visual Basic for Applications で、ライブラリ名またはライブラリ パスに DBCS 文字を含むコード ライブラリへの参照が含まれている特定の VBA プロジェクトが、読み込み時に破損していると Office アプリケーションで表示される問題が修正されます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1004">This update fixes an issue in Visual Basic for Applications in Microsoft Office where certain VBA projects that contain references to code libraries with DBCS characters in the library name or library path would be viewed by the Office application as corrupt on load.</span></span>
 
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2004-april-29"></a><span data-ttu-id="3f2b2-992">バージョン 2004: 4 月 29 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-992">Version 2004: April 29</span></span>
-<span data-ttu-id="3f2b2-993">*バージョン 2004 (ビルド 12730.20236)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-993">*Version 2004 (Build 12730.20236)*</span></span>
+## <a name="version-2004-april-29"></a><span data-ttu-id="dde2c-1006">バージョン 2004: 4 月 29 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-1006">Version 2004: April 29</span></span>
+<span data-ttu-id="dde2c-1007">*バージョン 2004 (ビルド 12730.20236)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-1007">*Version 2004 (Build 12730.20236)*</span></span>
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="feature-updates"></a><span data-ttu-id="3f2b2-995">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="3f2b2-995">Feature updates</span></span>
-### <a name="access"></a><span data-ttu-id="3f2b2-996">Access</span><span class="sxs-lookup"><span data-stu-id="3f2b2-996">Access</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="dde2c-1009">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="dde2c-1009">Feature updates</span></span>
+### <a name="access"></a><span data-ttu-id="dde2c-1010">Access</span><span class="sxs-lookup"><span data-stu-id="dde2c-1010">Access</span></span>
 
-- <span data-ttu-id="3f2b2-997">**クエリ デザイナー、SQL ビュー、およびリレーションシップ ウィンドウでの作業効率の向上:** テーブルを右クリックして、テーブルを開き、デザインし、サイズを変更し、非表示にします。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-997">**Be more productive working in Query Designer, SQL view, and the Relationships window:** Right-click a table to open, design, size, and hide it.</span></span> <span data-ttu-id="3f2b2-998">SQL ビューでテキストを検索および置換します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-998">Search and replace text in SQL View.</span></span> <span data-ttu-id="3f2b2-999">リレーションシップ ウィンドウ内の複数のテーブルを選択します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-999">Select multiple tables in the Relationships window.</span></span>
+- <span data-ttu-id="dde2c-1011">**クエリ デザイナー、SQL ビュー、およびリレーションシップ ウィンドウでの作業効率の向上:** テーブルを右クリックして、テーブルを開き、デザインし、サイズを変更し、非表示にします。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1011">**Be more productive working in Query Designer, SQL view, and the Relationships window:** Right-click a table to open, design, size, and hide it.</span></span> <span data-ttu-id="dde2c-1012">SQL ビューでテキストを検索および置換します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1012">Search and replace text in SQL View.</span></span> <span data-ttu-id="dde2c-1013">リレーションシップ ウィンドウ内の複数のテーブルを選択します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1013">Select multiple tables in the Relationships window.</span></span>
 
-- <span data-ttu-id="3f2b2-1000">**数回クリックするだけで表を追加する:** [テーブルの追加] 作業ウィンドウを使用すると、作業中も開いたまま、リレーションシップやクエリにテーブルを追加できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1000">**Add tables with fewer clicks:** Use the Add Tables task pane, which stays open while you work, to add tables to relationships and queries.</span></span> [<span data-ttu-id="3f2b2-1001">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1001">Learn more</span></span>](https://support.office.com/article/56eb7df2-8a52-4e90-a7e0-8f891a5c56bd)
+- <span data-ttu-id="dde2c-1014">**数回クリックするだけで表を追加する:** [テーブルの追加] 作業ウィンドウを使用すると、作業中も開いたまま、リレーションシップやクエリにテーブルを追加できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1014">**Add tables with fewer clicks:** Use the Add Tables task pane, which stays open while you work, to add tables to relationships and queries.</span></span> [<span data-ttu-id="dde2c-1015">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-1015">Learn more</span></span>](https://support.office.com/article/56eb7df2-8a52-4e90-a7e0-8f891a5c56bd)
 
 
-### <a name="excel"></a><span data-ttu-id="3f2b2-1002">Excel</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1002">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="dde2c-1016">Excel</span><span class="sxs-lookup"><span data-stu-id="dde2c-1016">Excel</span></span>
 
-- <span data-ttu-id="3f2b2-1003">**Facebook コネクタのサポート終了:** 2020 年 4 月以降、Excel では Facebook コネクタを使用する外部データ接続がサポートされなくなります。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1003">**Facebook connector support is ending:** Starting in April 2020, Excel will no longer support external data connections that use the Facebook connector.</span></span>
+- <span data-ttu-id="dde2c-1017">**Facebook コネクタのサポート終了:** 2020 年 4 月以降、Excel では Facebook コネクタを使用する外部データ接続がサポートされなくなります。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1017">**Facebook connector support is ending:** Starting in April 2020, Excel will no longer support external data connections that use the Facebook connector.</span></span>
 
-- <span data-ttu-id="3f2b2-1004">**質問がある場合のExcel への質問:** Excel のアイデアを使用すると、データについて質問をすることができます。数式の記述に時間を費やす必要はありません(英語のみ使用可能)。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1004">**Have a question? Ask Excel:** Now Excel Ideas allows you to ask questions about your data - no need to spend time writing formulas (available in English only).</span></span> [<span data-ttu-id="3f2b2-1005">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1005">Learn more</span></span>](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+- <span data-ttu-id="dde2c-1018">**質問がある場合のExcel への質問:** Excel のアイデアを使用すると、データについて質問をすることができます。数式の記述に時間を費やす必要はありません(英語のみ使用可能)。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1018">**Have a question? Ask Excel:** Now Excel Ideas allows you to ask questions about your data - no need to spend time writing formulas (available in English only).</span></span> [<span data-ttu-id="dde2c-1019">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-1019">Learn more</span></span>](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
-- <span data-ttu-id="3f2b2-1006">**ブックの見映えを良くする新しい画像:** 何千ものロイヤリティフリーの画像、アイコン、ステッカーが用意されており、これらをブックで使用できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1006">**New images to bring your workbooks to life:** Thousands of royalty-free stock images, icons, and stickers you can use in your workbooks.</span></span> <span data-ttu-id="3f2b2-1007">開始するには、[挿入] > [画像] > [ストック画像] の順に選択します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1007">Go to Insert > Pictures > Stock Images to get started.</span></span> [<span data-ttu-id="3f2b2-1008">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1008">Learn more</span></span>](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
+- <span data-ttu-id="dde2c-1020">**ブックの見映えを良くする新しい画像:** 何千ものロイヤリティフリーの画像、アイコン、ステッカーが用意されており、これらをブックで使用できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1020">**New images to bring your workbooks to life:** Thousands of royalty-free stock images, icons, and stickers you can use in your workbooks.</span></span> <span data-ttu-id="dde2c-1021">開始するには、[挿入] > [画像] > [ストック画像] の順に選択します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1021">Go to Insert > Pictures > Stock Images to get started.</span></span> [<span data-ttu-id="dde2c-1022">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-1022">Learn more</span></span>](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
 
-### <a name="outlook"></a><span data-ttu-id="3f2b2-1009">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1009">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-1023">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-1023">Outlook</span></span>
 
-- <span data-ttu-id="3f2b2-1010">**受信トレイを離れずに会議に参加する:** オンライン会議に参加するために、予定表に切り替える必要はありません。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1010">**Join meetings without leaving your inbox:** No need to switch to your calendar to join online meetings.</span></span> <span data-ttu-id="3f2b2-1011">[To Do] ウィンドウに固定された予定表を使用して、ワンクリックで任意の会議に参加します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1011">With the Calendar pinned to the To-Do pane, join any meeting with just one click.</span></span> [<span data-ttu-id="3f2b2-1012">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1012">Learn more</span></span>](https://support.office.com/article/d8baa9d5-0645-41b8-9f36-b498a6c36064 )
+- <span data-ttu-id="dde2c-1024">**受信トレイを離れずに会議に参加する:** オンライン会議に参加するために、予定表に切り替える必要はありません。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1024">**Join meetings without leaving your inbox:** No need to switch to your calendar to join online meetings.</span></span> <span data-ttu-id="dde2c-1025">[To Do] ウィンドウに固定された予定表を使用して、ワンクリックで任意の会議に参加します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1025">With the Calendar pinned to the To-Do pane, join any meeting with just one click.</span></span> [<span data-ttu-id="dde2c-1026">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-1026">Learn more</span></span>](https://support.office.com/article/d8baa9d5-0645-41b8-9f36-b498a6c36064 )
 
-- <span data-ttu-id="3f2b2-1013">**メッセージの見映えを良くする新しい画像:** 何千ものロイヤリティフリーの画像、アイコン、ステッカーが用意されており、これらをメール メッセージで使用できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1013">**New images to bring your messages to life:** Thousands of royalty-free stock images, icons, and stickers you can use in your email messages.</span></span> <span data-ttu-id="3f2b2-1014">開始するには、[挿入] > [画像] > [ストック画像] の順に選択します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1014">Go to Insert > Pictures > Stock Images to get started.</span></span> [<span data-ttu-id="3f2b2-1015">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1015">Learn more</span></span>](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
+- <span data-ttu-id="dde2c-1027">**メッセージの見映えを良くする新しい画像:** 何千ものロイヤリティフリーの画像、アイコン、ステッカーが用意されており、これらをメール メッセージで使用できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1027">**New images to bring your messages to life:** Thousands of royalty-free stock images, icons, and stickers you can use in your email messages.</span></span> <span data-ttu-id="dde2c-1028">開始するには、[挿入] > [画像] > [ストック画像] の順に選択します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1028">Go to Insert > Pictures > Stock Images to get started.</span></span> [<span data-ttu-id="dde2c-1029">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-1029">Learn more</span></span>](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
 
-- <span data-ttu-id="3f2b2-1016">**定期的な会議の場所の提案サポート:** 定期的な会議のスケジュールで会議室を検索します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1016">**Location suggestion support for recurring meeting:** Search for conference rooms with scheduling recurring meetings.</span></span>
+- <span data-ttu-id="dde2c-1030">**定期的な会議の場所の提案サポート:** 定期的な会議のスケジュールで会議室を検索します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1030">**Location suggestion support for recurring meeting:** Search for conference rooms with scheduling recurring meetings.</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="3f2b2-1017">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1017">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="dde2c-1031">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="dde2c-1031">PowerPoint</span></span>
 
-- <span data-ttu-id="3f2b2-1018">**スライド ショーの実行中にスライドを更新する:** プレゼンテーション中に他の作成者が変更したスライドを更新します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1018">**Update slides during slide show:** Update slides changed by other authors during your presentation.</span></span>
+- <span data-ttu-id="dde2c-1032">**スライド ショーの実行中にスライドを更新する:** プレゼンテーション中に他の作成者が変更したスライドを更新します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1032">**Update slides during slide show:** Update slides changed by other authors during your presentation.</span></span>
 
-- <span data-ttu-id="3f2b2-1019">**スライドの見映えを良くする新しい画像:** 何千ものロイヤリティフリーの画像、アイコン、ステッカーが用意されており、これらをプレゼンテーションで使用できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1019">**New images to bring your slides to life:** Thousands of royalty-free stock images, icons, and stickers you can use in your presentations.</span></span> <span data-ttu-id="3f2b2-1020">開始するには、[挿入] > [画像] > [ストック画像] の順に選択します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1020">Go to Insert > Pictures > Stock Images to get started.</span></span> [<span data-ttu-id="3f2b2-1021">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1021">Learn more</span></span>](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
+- <span data-ttu-id="dde2c-1033">**スライドの見映えを良くする新しい画像:** 何千ものロイヤリティフリーの画像、アイコン、ステッカーが用意されており、これらをプレゼンテーションで使用できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1033">**New images to bring your slides to life:** Thousands of royalty-free stock images, icons, and stickers you can use in your presentations.</span></span> <span data-ttu-id="dde2c-1034">開始するには、[挿入] > [画像] > [ストック画像] の順に選択します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1034">Go to Insert > Pictures > Stock Images to get started.</span></span> [<span data-ttu-id="dde2c-1035">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-1035">Learn more</span></span>](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
 
-### <a name="teams"></a><span data-ttu-id="3f2b2-1022">Teams</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1022">Teams</span></span>
+### <a name="teams"></a><span data-ttu-id="dde2c-1036">Teams</span><span class="sxs-lookup"><span data-stu-id="dde2c-1036">Teams</span></span>
 
-- <span data-ttu-id="3f2b2-1023">**Teams の予定表の改善:** 予定表の項目を右クリックすると、出欠確認のオプションを表示したり、会議の参加者とのチャットを開始したり、会議開始時にすぐにその会議に参加したりすることができます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1023">**Improvements to the Teams calendar:** Right-click an item in your calendar to pull up RSVP options, start a chat with meeting participants, or quickly join a meeting when it starts.</span></span> <span data-ttu-id="3f2b2-1024">また、イベントのスケジュール設定のフォームも改善されています。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1024">We've also made improvements to the event scheduling form.</span></span>
+- <span data-ttu-id="dde2c-1037">**Teams の予定表の改善:** 予定表の項目を右クリックすると、出欠確認のオプションを表示したり、会議の参加者とのチャットを開始したり、会議開始時にすぐにその会議に参加したりすることができます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1037">**Improvements to the Teams calendar:** Right-click an item in your calendar to pull up RSVP options, start a chat with meeting participants, or quickly join a meeting when it starts.</span></span> <span data-ttu-id="dde2c-1038">また、イベントのスケジュール設定のフォームも改善されています。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1038">We've also made improvements to the event scheduling form.</span></span>
 
-- <span data-ttu-id="3f2b2-1025">**ユーザーへのタグ付け:** タグを作成してユーザーに割り当てて、グループ、役割、部署などに @mention を付けることができます。チームの所有者はぜひお試しください。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1025">**Tag, you're it!:** Create tags and assign people to them so you can @mention a group, role, department, etc. Team owners, try it out for yourselves.</span></span> <span data-ttu-id="3f2b2-1026">チームに移動し、[その他のオプション]、[タグの管理] の順に選択します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1026">Go to a team, select More options, Manage tags.</span></span>
+- <span data-ttu-id="dde2c-1039">**ユーザーへのタグ付け:** タグを作成してユーザーに割り当てて、グループ、役割、部署などに @mention を付けることができます。チームの所有者はぜひお試しください。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1039">**Tag, you're it!:** Create tags and assign people to them so you can @mention a group, role, department, etc. Team owners, try it out for yourselves.</span></span> <span data-ttu-id="dde2c-1040">チームに移動し、[その他のオプション]、[タグの管理] の順に選択します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1040">Go to a team, select More options, Manage tags.</span></span>
 
-### <a name="word"></a><span data-ttu-id="3f2b2-1027">Word</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1027">Word</span></span>
+### <a name="word"></a><span data-ttu-id="dde2c-1041">Word</span><span class="sxs-lookup"><span data-stu-id="dde2c-1041">Word</span></span>
 
-- <span data-ttu-id="3f2b2-1028">**ツールの使いやすさを維持:** [描画] ツールボックスには、テキストにインク ジェスチャを追加できるインテリジェント ペンが用意されています。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1028">**Keep your tools handy:** In your drawing toolbox, find the intelligent pen that allows you to add ink gestures to text.</span></span> [<span data-ttu-id="3f2b2-1029">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1029">Learn more</span></span>](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
+- <span data-ttu-id="dde2c-1042">**ツールの使いやすさを維持:** [描画] ツールボックスには、テキストにインク ジェスチャを追加できるインテリジェント ペンが用意されています。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1042">**Keep your tools handy:** In your drawing toolbox, find the intelligent pen that allows you to add ink gestures to text.</span></span> [<span data-ttu-id="dde2c-1043">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-1043">Learn more</span></span>](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
 
-- <span data-ttu-id="3f2b2-1030">**ドキュメントの見映えを良くする新しい画像:** 何千ものロイヤリティフリーの画像、アイコン、ステッカーが用意されており、これらをドキュメントで使用できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1030">**New images to bring your documents to life:** Thousands of royalty-free stock images, icons, and stickers you can use in your documents.</span></span> <span data-ttu-id="3f2b2-1031">開始するには、[挿入] > [画像] > [ストック画像] の順に選択します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1031">Go to Insert > Pictures > Stock Images to get started.</span></span> [<span data-ttu-id="3f2b2-1032">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1032">Learn more</span></span>](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
+- <span data-ttu-id="dde2c-1044">**ドキュメントの見映えを良くする新しい画像:** 何千ものロイヤリティフリーの画像、アイコン、ステッカーが用意されており、これらをドキュメントで使用できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1044">**New images to bring your documents to life:** Thousands of royalty-free stock images, icons, and stickers you can use in your documents.</span></span> <span data-ttu-id="dde2c-1045">開始するには、[挿入] > [画像] > [ストック画像] の順に選択します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1045">Go to Insert > Pictures > Stock Images to get started.</span></span> [<span data-ttu-id="dde2c-1046">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-1046">Learn more</span></span>](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -1669,124 +1702,124 @@ ms.locfileid: "50455773"
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-1035">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1035">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="3f2b2-1036">Excel</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1036">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-1049">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-1049">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="dde2c-1050">Excel</span><span class="sxs-lookup"><span data-stu-id="dde2c-1050">Excel</span></span>
 
-- <span data-ttu-id="3f2b2-1037">Excel 2016 でデジタル署名を使用して保存したブックを現在のバージョンの Excel で開くと、署名が無効になる可能性があります。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1037">Workbooks saved with a digital signature in Excel 2016 could have the signature invalidated upon opening in the current version of Excel.</span></span>
+- <span data-ttu-id="dde2c-1051">Excel 2016 でデジタル署名を使用して保存したブックを現在のバージョンの Excel で開くと、署名が無効になる可能性があります。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1051">Workbooks saved with a digital signature in Excel 2016 could have the signature invalidated upon opening in the current version of Excel.</span></span>
 
-- <span data-ttu-id="3f2b2-1038">ピボットテーブルを含むシートをコピーした後、Excel がクラッシュする場合があるという問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1038">Fixed an issue which would cause Excel to crash in some cases after copying a sheet containing a PivotTable.</span></span>
+- <span data-ttu-id="dde2c-1052">ピボットテーブルを含むシートをコピーした後、Excel がクラッシュする場合があるという問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1052">Fixed an issue which would cause Excel to crash in some cases after copying a sheet containing a PivotTable.</span></span>
 
-- <span data-ttu-id="3f2b2-1039">Application.Evaluate (VBA) が、ユーザー定義関数では動作しない場合がありました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1039">Application.Evaluate (VBA) was not working for User-defined functions in some cases.</span></span>
+- <span data-ttu-id="dde2c-1053">Application.Evaluate (VBA) が、ユーザー定義関数では動作しない場合がありました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1053">Application.Evaluate (VBA) was not working for User-defined functions in some cases.</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="3f2b2-1040">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1040">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-1054">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-1054">Outlook</span></span>
 
-- <span data-ttu-id="3f2b2-1041">フォルダー ウィンドウの幅が予期せず変更される問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1041">Addressed an issue that caused the width of the folder pane to change unexpectedly.</span></span>
-
-
-- <span data-ttu-id="3f2b2-1042">Windows の一部のビルドで Outlook がクラッシュする問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1042">Addressed an issue that caused Outlook to crash on some builds of Windows.</span></span>
+- <span data-ttu-id="dde2c-1055">フォルダー ウィンドウの幅が予期せず変更される問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1055">Addressed an issue that caused the width of the folder pane to change unexpectedly.</span></span>
 
 
-- <span data-ttu-id="3f2b2-1043">Windows の更新後に、ローカルに保存された .msg または .oft ファイルを開くと Outlook がクラッシュする問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1043">Addressed an issue that caused Outlook to crash when opening .msg or .oft files that were saved locally after a Windows update.</span></span>
+- <span data-ttu-id="dde2c-1056">Windows の一部のビルドで Outlook がクラッシュする問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1056">Addressed an issue that caused Outlook to crash on some builds of Windows.</span></span>
 
 
-- <span data-ttu-id="3f2b2-1044">Windows の一部のビルドで Outlook がクラッシュする問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1044">Addressed an issue that caused Outlook to crash on some builds of Windows.</span></span>
+- <span data-ttu-id="dde2c-1057">Windows の更新後に、ローカルに保存された .msg または .oft ファイルを開くと Outlook がクラッシュする問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1057">Addressed an issue that caused Outlook to crash when opening .msg or .oft files that were saved locally after a Windows update.</span></span>
 
 
-- <span data-ttu-id="3f2b2-1045">Outlook の終了中に応答が停止するする問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1045">Addressed an issue that caused users to experience a hang while exiting Outlook.</span></span>
+- <span data-ttu-id="dde2c-1058">Windows の一部のビルドで Outlook がクラッシュする問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1058">Addressed an issue that caused Outlook to crash on some builds of Windows.</span></span>
 
 
-### <a name="project"></a><span data-ttu-id="3f2b2-1046">Project</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1046">Project</span></span>
-
-- <span data-ttu-id="3f2b2-1047">フォーム ビュー内で先行処理/後続処理データが編集されると、余分の ProjectBeforeTaskChange イベントが発生します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1047">When Predecessor/Successor data is edited within a Form view, an extra ProjectBeforeTaskChange event is fired.</span></span>
+- <span data-ttu-id="dde2c-1059">Outlook の終了中に応答が停止するする問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1059">Addressed an issue that caused users to experience a hang while exiting Outlook.</span></span>
 
 
-- <span data-ttu-id="3f2b2-1048">Project Web App に接続されている Project を使用していて小数点の記号がカンマの場合に、依存関係のタイム ラグを生じさせようとすると TaskDependencies Add メソッドが失敗する問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1048">Fixed an issue where if you are using Project connected to Project Web App and the decimal separator is a comma, the TaskDependencies Add method fails when you try to add lag to a dependency.</span></span>
+### <a name="project"></a><span data-ttu-id="dde2c-1060">Project</span><span class="sxs-lookup"><span data-stu-id="dde2c-1060">Project</span></span>
 
-### <a name="office-suite"></a><span data-ttu-id="3f2b2-1049">Office スイート</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1049">Office Suite</span></span>
+- <span data-ttu-id="dde2c-1061">フォーム ビュー内で先行処理/後続処理データが編集されると、余分の ProjectBeforeTaskChange イベントが発生します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1061">When Predecessor/Successor data is edited within a Form view, an extra ProjectBeforeTaskChange event is fired.</span></span>
 
-- <span data-ttu-id="3f2b2-1050">アクセスの制限と、パスワードによるファイルの保護が同時に行えないというエラーを解決しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1050">Resolved an error which occurs preventing both restricting access and protecting files with a password simultaneously.</span></span>
+
+- <span data-ttu-id="dde2c-1062">Project Web App に接続されている Project を使用していて小数点の記号がカンマの場合に、依存関係のタイム ラグを生じさせようとすると TaskDependencies Add メソッドが失敗する問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1062">Fixed an issue where if you are using Project connected to Project Web App and the decimal separator is a comma, the TaskDependencies Add method fails when you try to add lag to a dependency.</span></span>
+
+### <a name="office-suite"></a><span data-ttu-id="dde2c-1063">Office スイート</span><span class="sxs-lookup"><span data-stu-id="dde2c-1063">Office Suite</span></span>
+
+- <span data-ttu-id="dde2c-1064">アクセスの制限と、パスワードによるファイルの保護が同時に行えないというエラーを解決しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1064">Resolved an error which occurs preventing both restricting access and protecting files with a password simultaneously.</span></span>
 
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2003-april-15"></a><span data-ttu-id="3f2b2-1052">バージョン 2003: 4 月 15 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1052">Version 2003: April 15</span></span>
-<span data-ttu-id="3f2b2-1053">*バージョン 2003 (ビルド 12624.20466)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1053">*Version 2003 (Build 12624.20466)*</span></span>
-* <span data-ttu-id="3f2b2-1054">さまざまなバグとパフォーマンスの修正。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1054">Various bugs and performance fixes.</span></span>
+## <a name="version-2003-april-15"></a><span data-ttu-id="dde2c-1066">バージョン 2003: 4 月 15 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-1066">Version 2003: April 15</span></span>
+<span data-ttu-id="dde2c-1067">*バージョン 2003 (ビルド 12624.20466)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-1067">*Version 2003 (Build 12624.20466)*</span></span>
+* <span data-ttu-id="dde2c-1068">さまざまなバグとパフォーマンスの修正。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1068">Various bugs and performance fixes.</span></span>
 
-## <a name="version-2003-april-14"></a><span data-ttu-id="3f2b2-1055">バージョン 2003: 4 月 14 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1055">Version 2003: April 14</span></span>
-<span data-ttu-id="3f2b2-1056">*バージョン 2003 (ビルド 12624.20442)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1056">*Version 2003 (Build 12624.20442)*</span></span>
+## <a name="version-2003-april-14"></a><span data-ttu-id="dde2c-1069">バージョン 2003: 4 月 14 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-1069">Version 2003: April 14</span></span>
+<span data-ttu-id="dde2c-1070">*バージョン 2003 (ビルド 12624.20442)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-1070">*Version 2003 (Build 12624.20442)*</span></span>
 
-<span data-ttu-id="3f2b2-1057">セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1057">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
+<span data-ttu-id="dde2c-1071">セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="dde2c-1071">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-1059">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1059">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="3f2b2-1060">Excel</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1060">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-1073">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-1073">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="dde2c-1074">Excel</span><span class="sxs-lookup"><span data-stu-id="dde2c-1074">Excel</span></span>
 
-- <span data-ttu-id="3f2b2-1061">Application.Evaluate (VBA) が、ユーザー定義関数では動作しない場合がありました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1061">Application.Evaluate (VBA) was not working for User-defined functions in some cases.</span></span>
+- <span data-ttu-id="dde2c-1075">Application.Evaluate (VBA) が、ユーザー定義関数では動作しない場合がありました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1075">Application.Evaluate (VBA) was not working for User-defined functions in some cases.</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="3f2b2-1062">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1062">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-1076">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-1076">Outlook</span></span>
 
-- <span data-ttu-id="3f2b2-1063">マウスで X ボタンを使用しているときにクラッシュが生じる原因となっていた問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1063">Addressed an issue that caused users to occasionally experience a crash when using the "X" button on their mouse.</span></span>
+- <span data-ttu-id="dde2c-1077">マウスで X ボタンを使用しているときにクラッシュが生じる原因となっていた問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1077">Addressed an issue that caused users to occasionally experience a crash when using the "X" button on their mouse.</span></span>
 
-### <a name="project"></a><span data-ttu-id="3f2b2-1064">Project</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1064">Project</span></span>
+### <a name="project"></a><span data-ttu-id="dde2c-1078">Project</span><span class="sxs-lookup"><span data-stu-id="dde2c-1078">Project</span></span>
 
-- <span data-ttu-id="3f2b2-1065">フォーム ビュー内で先行処理/後続処理データが編集されると、余分の ProjectBeforeTaskChange イベントが発生します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1065">When Predecessor/Successor data is edited within a Form view, an extra ProjectBeforeTaskChange event is fired.</span></span>
+- <span data-ttu-id="dde2c-1079">フォーム ビュー内で先行処理/後続処理データが編集されると、余分の ProjectBeforeTaskChange イベントが発生します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1079">When Predecessor/Successor data is edited within a Form view, an extra ProjectBeforeTaskChange event is fired.</span></span>
 
-### <a name="word"></a><span data-ttu-id="3f2b2-1066">Word</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1066">Word</span></span>
+### <a name="word"></a><span data-ttu-id="dde2c-1080">Word</span><span class="sxs-lookup"><span data-stu-id="dde2c-1080">Word</span></span>
 
-- <span data-ttu-id="3f2b2-1067">マウスで X ボタンを使用しているときにクラッシュが生じる原因となっていた問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1067">Addressed an issue that caused users to occasionally experience a crash when using the "X" button on their mouse.</span></span>
+- <span data-ttu-id="dde2c-1081">マウスで X ボタンを使用しているときにクラッシュが生じる原因となっていた問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1081">Addressed an issue that caused users to occasionally experience a crash when using the "X" button on their mouse.</span></span>
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2003-march-31"></a><span data-ttu-id="3f2b2-1069">バージョン 2003: 3 月 31 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1069">Version 2003: March 31</span></span>
-<span data-ttu-id="3f2b2-1070">*バージョン 2003 (ビルド 12624.20382)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1070">*Version 2003 (Build 12624.20382)*</span></span>
+## <a name="version-2003-march-31"></a><span data-ttu-id="dde2c-1083">バージョン 2003: 3 月 31 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-1083">Version 2003: March 31</span></span>
+<span data-ttu-id="dde2c-1084">*バージョン 2003 (ビルド 12624.20382)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-1084">*Version 2003 (Build 12624.20382)*</span></span>
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-1072">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1072">Resolved issues</span></span>
-### <a name="onenote"></a><span data-ttu-id="3f2b2-1073">OneNote</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1073">OneNote</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-1086">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-1086">Resolved issues</span></span>
+### <a name="onenote"></a><span data-ttu-id="dde2c-1087">OneNote</span><span class="sxs-lookup"><span data-stu-id="dde2c-1087">OneNote</span></span>
 
-- <span data-ttu-id="3f2b2-1074">全世界でサービス使用量が高まった際に、同期とサービスの可用性を改善できる、Microsoft OneNote の一時的な調整に関して、情報バーを介してユーザーに通知します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1074">Inform users through the InfoBar about temporary adjustments in Microsoft OneNote that will help improve sync and service availability during high worldwide usage.</span></span>
+- <span data-ttu-id="dde2c-1088">全世界でサービス使用量が高まった際に、同期とサービスの可用性を改善できる、Microsoft OneNote の一時的な調整に関して、情報バーを介してユーザーに通知します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1088">Inform users through the InfoBar about temporary adjustments in Microsoft OneNote that will help improve sync and service availability during high worldwide usage.</span></span>
 
-### <a name="project"></a><span data-ttu-id="3f2b2-1075">Project</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1075">Project</span></span>
+### <a name="project"></a><span data-ttu-id="dde2c-1089">Project</span><span class="sxs-lookup"><span data-stu-id="dde2c-1089">Project</span></span>
 
-- <span data-ttu-id="3f2b2-1076">実績作業時間の保護設定を有効にしているときに、ユーザーがタイムフェーズの基準作業時間を入力できない問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1076">Fixed an issue where the user couldn't enter time-phased Baseline Work when the setting to protect actual work is on.</span></span>
+- <span data-ttu-id="dde2c-1090">実績作業時間の保護設定を有効にしているときに、ユーザーがタイムフェーズの基準作業時間を入力できない問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1090">Fixed an issue where the user couldn't enter time-phased Baseline Work when the setting to protect actual work is on.</span></span>
 
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2003-march-25"></a><span data-ttu-id="3f2b2-1078">バージョン 2003: 3 月 25 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1078">Version 2003: March 25</span></span>
-<span data-ttu-id="3f2b2-1079">*バージョン 2003 (ビルド 12624.20320)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1079">*Version 2003 (Build 12624.20320)*</span></span>
+## <a name="version-2003-march-25"></a><span data-ttu-id="dde2c-1092">バージョン 2003: 3 月 25 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-1092">Version 2003: March 25</span></span>
+<span data-ttu-id="dde2c-1093">*バージョン 2003 (ビルド 12624.20320)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-1093">*Version 2003 (Build 12624.20320)*</span></span>
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="feature-updates"></a><span data-ttu-id="3f2b2-1081">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1081">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="3f2b2-1082">Excel</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1082">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="dde2c-1095">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="dde2c-1095">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="dde2c-1096">Excel</span><span class="sxs-lookup"><span data-stu-id="dde2c-1096">Excel</span></span>
 
-- <span data-ttu-id="3f2b2-1083">**お気に入りの Excel 関数が速くなりました：** SUMIFS、AVERAGEIFS、COUNTIFS、MAXIFS、および MINIFS 関数がこれまでよりもはるかに高速になりました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1083">**Your favorite Excel functions just got faster:** The SUMIFS, AVERAGEIFS, COUNTIFS, MAXIFS, and MINIFS functions are much faster than ever before.</span></span> <span data-ttu-id="3f2b2-1084">もっと素早く一番下に移動します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1084">Get to the bottom line more quickly.</span></span> <span data-ttu-id="3f2b2-1085">今すぐお試しください。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1085">Try one now.</span></span>
+- <span data-ttu-id="dde2c-1097">**お気に入りの Excel 関数が速くなりました：** SUMIFS、AVERAGEIFS、COUNTIFS、MAXIFS、および MINIFS 関数がこれまでよりもはるかに高速になりました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1097">**Your favorite Excel functions just got faster:** The SUMIFS, AVERAGEIFS, COUNTIFS, MAXIFS, and MINIFS functions are much faster than ever before.</span></span> <span data-ttu-id="dde2c-1098">もっと素早く一番下に移動します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1098">Get to the bottom line more quickly.</span></span> <span data-ttu-id="dde2c-1099">今すぐお試しください。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1099">Try one now.</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="3f2b2-1086">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1086">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-1100">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-1100">Outlook</span></span>
 
-- <span data-ttu-id="3f2b2-1087">**所有しているグループにメールをドラッグ:** メッセージや会話を受信トレイからドラッグして移動し、コピーします。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1087">**Drag email to a group you own:** Move and copy messages and conversations by dragging them from your inbox.</span></span> <span data-ttu-id="3f2b2-1088">ドラッグしたメッセージは、すべてのグループ メンバーと共有されます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1088">Messages you drag will be shared with all group members.</span></span>
+- <span data-ttu-id="dde2c-1101">**所有しているグループにメールをドラッグ:** メッセージや会話を受信トレイからドラッグして移動し、コピーします。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1101">**Drag email to a group you own:** Move and copy messages and conversations by dragging them from your inbox.</span></span> <span data-ttu-id="dde2c-1102">ドラッグしたメッセージは、すべてのグループ メンバーと共有されます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1102">Messages you drag will be shared with all group members.</span></span>
 
-- <span data-ttu-id="3f2b2-1089">**キャプティブ WiFi ネットワークの新しいエクスペリエンス**: サインインに Web ページを必要とする WiFi ネットワークに参加したことはありませんか ?</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1089">**New experience for captive wifi networks:** Have you ever joined a wifi network that required a web page to sign in with?</span></span> <span data-ttu-id="3f2b2-1090">Outlook はこれを検出し、接続を支援します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1090">Outlook now detects this and helps you get connected.</span></span>
+- <span data-ttu-id="dde2c-1103">**キャプティブ WiFi ネットワークの新しいエクスペリエンス**: サインインに Web ページを必要とする WiFi ネットワークに参加したことはありませんか ?</span><span class="sxs-lookup"><span data-stu-id="dde2c-1103">**New experience for captive wifi networks:** Have you ever joined a wifi network that required a web page to sign in with?</span></span> <span data-ttu-id="dde2c-1104">Outlook はこれを検出し、接続を支援します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1104">Outlook now detects this and helps you get connected.</span></span>
 
-###<a name="powerpoint"></a><span data-ttu-id="3f2b2-1091">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1091">PowerPoint</span></span>
+###<a name="powerpoint"></a><span data-ttu-id="dde2c-1105">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="dde2c-1105">PowerPoint</span></span>
 
-- <span data-ttu-id="3f2b2-1092">**コメント:** PowerPoint の新しいコメント機能により、ドキュメントにコメントをすばやく簡単に見つけて追加できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1092">**Comments:** The new commenting experience in PowerPoint allows you to quickly and easily discover and add comments to your documents.</span></span> <span data-ttu-id="3f2b2-1093">コメントの固定、解決、タスク、改善された通知などの新機能を使用して、コラボレーションワークフローを最新のものにします。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1093">Modernize your collaboration workflows with new features like comment anchoring, resolve, tasks, improved mention notifications, and much more.</span></span>
+- <span data-ttu-id="dde2c-1106">**コメント:** PowerPoint の新しいコメント機能により、ドキュメントにコメントをすばやく簡単に見つけて追加できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1106">**Comments:** The new commenting experience in PowerPoint allows you to quickly and easily discover and add comments to your documents.</span></span> <span data-ttu-id="dde2c-1107">コメントの固定、解決、タスク、改善された通知などの新機能を使用して、コラボレーションワークフローを最新のものにします。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1107">Modernize your collaboration workflows with new features like comment anchoring, resolve, tasks, improved mention notifications, and much more.</span></span>
 
-### <a name="word"></a><span data-ttu-id="3f2b2-1094">Word</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1094">Word</span></span>
+### <a name="word"></a><span data-ttu-id="dde2c-1108">Word</span><span class="sxs-lookup"><span data-stu-id="dde2c-1108">Word</span></span>
 
-- <span data-ttu-id="3f2b2-1095">**他のユーザーがすばやく変更を確認する:** 共同編集の改善とは、これまでになく迅速に、共同作業者がユーザーによる変更を確認できることを意味します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1095">**Others see your changes quickly:** Co-authoring improvements mean your collaborators can see your changes faster than ever before.</span></span>
+- <span data-ttu-id="dde2c-1109">**他のユーザーがすばやく変更を確認する:** 共同編集の改善とは、これまでになく迅速に、共同作業者がユーザーによる変更を確認できることを意味します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1109">**Others see your changes quickly:** Co-authoring improvements mean your collaborators can see your changes faster than ever before.</span></span>
 
-### <a name="office-suite"></a><span data-ttu-id="3f2b2-1096">Office スイート</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1096">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="dde2c-1110">Office スイート</span><span class="sxs-lookup"><span data-stu-id="dde2c-1110">Office Suite</span></span>
 
-- <span data-ttu-id="3f2b2-1097">**秘密度ラベル:** カスタム アクセス許可を求められるように組織で構成された秘密度ラベルを適用できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1097">**Sensitivity labels:** You can now apply a sensitivity label that your organization has configured to prompt you for custom permissions.</span></span>
+- <span data-ttu-id="dde2c-1111">**秘密度ラベル:** カスタム アクセス許可を求められるように組織で構成された秘密度ラベルを適用できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1111">**Sensitivity labels:** You can now apply a sensitivity label that your organization has configured to prompt you for custom permissions.</span></span>
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -1795,54 +1828,54 @@ ms.locfileid: "50455773"
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-1100">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1100">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="3f2b2-1101">Excel</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1101">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-1114">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-1114">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="dde2c-1115">Excel</span><span class="sxs-lookup"><span data-stu-id="dde2c-1115">Excel</span></span>
 
-- <span data-ttu-id="3f2b2-1102">Word または PowerPoint に埋め込まれたブックをもう一度開くと、場合によっては Excel がクラッシュする可能性があります。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1102">Excel would crash in certain cases when re-opening a workbook embedded in Word or PowerPoint.</span></span>
+- <span data-ttu-id="dde2c-1116">Word または PowerPoint に埋め込まれたブックをもう一度開くと、場合によっては Excel がクラッシュする可能性があります。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1116">Excel would crash in certain cases when re-opening a workbook embedded in Word or PowerPoint.</span></span>
 
-- <span data-ttu-id="3f2b2-1103">ソース ブックが閉じていると、外部リンクが塗りつぶし時に更新されない問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1103">Addressed an issue where external links don't update on fill if the source book is closed.</span></span>
+- <span data-ttu-id="dde2c-1117">ソース ブックが閉じていると、外部リンクが塗りつぶし時に更新されない問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1117">Addressed an issue where external links don't update on fill if the source book is closed.</span></span>
 
-- <span data-ttu-id="3f2b2-1104">テンプレートからグラフを作成するときに発生するパフォーマンスの問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1104">Addressed a performance issue when creating charts from templates.</span></span>
+- <span data-ttu-id="dde2c-1118">テンプレートからグラフを作成するときに発生するパフォーマンスの問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1118">Addressed a performance issue when creating charts from templates.</span></span>
 
-### <a name="onenote"></a><span data-ttu-id="3f2b2-1105">OneNote</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1105">OneNote</span></span>
+### <a name="onenote"></a><span data-ttu-id="dde2c-1119">OneNote</span><span class="sxs-lookup"><span data-stu-id="dde2c-1119">OneNote</span></span>
 
-- <span data-ttu-id="3f2b2-1106">新しい埋め込み添付ファイルの最大許容サイズを一時的に 50 MB に削減することにより、同期とサービスの安定性が改善されました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1106">Improved sync and service stability by temporarily reducing the maximum allowable size of new embedded attachments to 50MB.</span></span> <span data-ttu-id="3f2b2-1107">この制限を超えるファイルの場合、ユーザーは OneDrive にファイルをアップロードして、OneNote にリンクを挿入することができます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1107">For files that exceed this limit, users will have the option of uploading the file to OneDrive and inserting a link into OneNote.</span></span>
+- <span data-ttu-id="dde2c-1120">新しい埋め込み添付ファイルの最大許容サイズを一時的に 50 MB に削減することにより、同期とサービスの安定性が改善されました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1120">Improved sync and service stability by temporarily reducing the maximum allowable size of new embedded attachments to 50MB.</span></span> <span data-ttu-id="dde2c-1121">この制限を超えるファイルの場合、ユーザーは OneDrive にファイルをアップロードして、OneNote にリンクを挿入することができます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1121">For files that exceed this limit, users will have the option of uploading the file to OneDrive and inserting a link into OneNote.</span></span>
 
-- <span data-ttu-id="3f2b2-1108">OneNote 2016 で同期頻度を一時的に調整することで、同期およびサービスの安定性が改善されました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1108">Improved sync and service stability by temporarily adjusting sync frequency in OneNote 2016.</span></span>
+- <span data-ttu-id="dde2c-1122">OneNote 2016 で同期頻度を一時的に調整することで、同期およびサービスの安定性が改善されました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1122">Improved sync and service stability by temporarily adjusting sync frequency in OneNote 2016.</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="3f2b2-1109">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1109">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-1123">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-1123">Outlook</span></span>
 
-- <span data-ttu-id="3f2b2-1110">終了後にタスク マネージャーに Outlook プロセスが残っているという問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1110">Addressed an issue that caused users to see the Outlook process lingering in task manager after exiting.</span></span>
+- <span data-ttu-id="dde2c-1124">終了後にタスク マネージャーに Outlook プロセスが残っているという問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1124">Addressed an issue that caused users to see the Outlook process lingering in task manager after exiting.</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="3f2b2-1111">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1111">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="dde2c-1125">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="dde2c-1125">PowerPoint</span></span>
 
-- <span data-ttu-id="3f2b2-1112">コピーと貼り付けのシナリオを改善しました。PowerPoint スライドでの図形のコピーと、ループ内の他のスライドへの貼り付けが例外で失敗する場合があります。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1112">Improved a copy-paste scenario: Copying the Shape in powerpoint slide and paste it in other slide in a loop might fail with exception.</span></span>
+- <span data-ttu-id="dde2c-1126">コピーと貼り付けのシナリオを改善しました。PowerPoint スライドでの図形のコピーと、ループ内の他のスライドへの貼り付けが例外で失敗する場合があります。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1126">Improved a copy-paste scenario: Copying the Shape in powerpoint slide and paste it in other slide in a loop might fail with exception.</span></span>
 
 
-### <a name="project"></a><span data-ttu-id="3f2b2-1113">Project</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1113">Project</span></span>
+### <a name="project"></a><span data-ttu-id="dde2c-1127">Project</span><span class="sxs-lookup"><span data-stu-id="dde2c-1127">Project</span></span>
 
-- <span data-ttu-id="3f2b2-1114">[無効化] ボタンを介してタスクが非アクティブ化/アクティブ化された場合に、ProjectBeforeTaskChange イベントが検出しない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1114">Fixed an issue where the ProjectBeforeTaskChange event does not detect when a task has been inactivated/activated via the Inactivate button.</span></span>
+- <span data-ttu-id="dde2c-1128">[無効化] ボタンを介してタスクが非アクティブ化/アクティブ化された場合に、ProjectBeforeTaskChange イベントが検出しない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1128">Fixed an issue where the ProjectBeforeTaskChange event does not detect when a task has been inactivated/activated via the Inactivate button.</span></span>
 
-- <span data-ttu-id="3f2b2-1115">以前のバージョンの Project で作成したプロジェクトを保存すると、Project がクラッシュする場合があるという問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1115">Fixed an issue where Project may crash when saving projects created with older versions of Project.</span></span>
+- <span data-ttu-id="dde2c-1129">以前のバージョンの Project で作成したプロジェクトを保存すると、Project がクラッシュする場合があるという問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1129">Fixed an issue where Project may crash when saving projects created with older versions of Project.</span></span>
 
-- <span data-ttu-id="3f2b2-1116">タスクを完了とマークした後に、タスクの達成率が 100% 完了より小さい値に誤って変更される問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1116">Fixed an issue where task percent complete was incorrectly changing to a value less than 100% complete after it was marked complete.</span></span>
+- <span data-ttu-id="dde2c-1130">タスクを完了とマークした後に、タスクの達成率が 100% 完了より小さい値に誤って変更される問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1130">Fixed an issue where task percent complete was incorrectly changing to a value less than 100% complete after it was marked complete.</span></span>
 
-- <span data-ttu-id="3f2b2-1117">サマリー タスクの日付の計算に常に誤りが発生する問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1117">Fixed an issue where summary task dates weren't always getting calculated correctly.</span></span>
+- <span data-ttu-id="dde2c-1131">サマリー タスクの日付の計算に常に誤りが発生する問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1131">Fixed an issue where summary task dates weren't always getting calculated correctly.</span></span>
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2002-march-10"></a><span data-ttu-id="3f2b2-1119">バージョン 2002: 3 月 10 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1119">Version 2002: March 10</span></span>
-<span data-ttu-id="3f2b2-1120">*バージョン 2002 (ビルド 12527.20278)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1120">*Version 2002 (Build 12527.20278)*</span></span>
+## <a name="version-2002-march-10"></a><span data-ttu-id="dde2c-1133">バージョン 2002: 3 月 10 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-1133">Version 2002: March 10</span></span>
+<span data-ttu-id="dde2c-1134">*バージョン 2002 (ビルド 12527.20278)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-1134">*Version 2002 (Build 12527.20278)*</span></span>
 
-<span data-ttu-id="3f2b2-1121">セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1121">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
+<span data-ttu-id="dde2c-1135">セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="dde2c-1135">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="feature-updates"></a><span data-ttu-id="3f2b2-1123">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1123">Feature updates</span></span>
-### <a name="powerpoint"></a><span data-ttu-id="3f2b2-1124">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1124">PowerPoint</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="dde2c-1137">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="dde2c-1137">Feature updates</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="dde2c-1138">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="dde2c-1138">PowerPoint</span></span>
 
-- <span data-ttu-id="3f2b2-1125">**スライドへのリンク:** 同僚にスライド デッキへの投稿を依頼し、ヘルプが必要なスライド上で直接開始します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1125">**Link to a slide:** Ask a colleague to contribute to your slide deck, and start them directly on the slide you need help with.</span></span>
+- <span data-ttu-id="dde2c-1139">**スライドへのリンク:** 同僚にスライド デッキへの投稿を依頼し、ヘルプが必要なスライド上で直接開始します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1139">**Link to a slide:** Ask a colleague to contribute to your slide deck, and start them directly on the slide you need help with.</span></span>
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
 
@@ -1851,40 +1884,40 @@ ms.locfileid: "50455773"
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-1128">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1128">Resolved issues</span></span>
-### <a name="project"></a><span data-ttu-id="3f2b2-1129">Project</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1129">Project</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-1142">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-1142">Resolved issues</span></span>
+### <a name="project"></a><span data-ttu-id="dde2c-1143">Project</span><span class="sxs-lookup"><span data-stu-id="dde2c-1143">Project</span></span>
 
-- <span data-ttu-id="3f2b2-1130">OnUndoOrRedo イベントが、OpenUndoTransaction メソッドを最初に実行しないと起動しないという問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1130">Fixed an issue where the OnUndoOrRedo event doesn't fire without first running the OpenUndoTransaction method.</span></span>
+- <span data-ttu-id="dde2c-1144">OnUndoOrRedo イベントが、OpenUndoTransaction メソッドを最初に実行しないと起動しないという問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1144">Fixed an issue where the OnUndoOrRedo event doesn't fire without first running the OpenUndoTransaction method.</span></span>
 
 
 
 [//]: # (バグの詳細コンテンツ エンドを削除しないでください)
 
-## <a name="version-2002-march-01"></a><span data-ttu-id="3f2b2-1132">バージョン 2002: 3 月 1 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1132">Version 2002: March 01</span></span>
-<span data-ttu-id="3f2b2-1133">*バージョン 2002 (ビルド 12527.20242)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1133">*Version 2002 (Build 12527.20242)*</span></span>
+## <a name="version-2002-march-01"></a><span data-ttu-id="dde2c-1146">バージョン 2002: 3 月 1 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-1146">Version 2002: March 01</span></span>
+<span data-ttu-id="dde2c-1147">*バージョン 2002 (ビルド 12527.20242)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-1147">*Version 2002 (Build 12527.20242)*</span></span>
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-1135">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1135">Resolved issues</span></span>
-### <a name="outlook"></a><span data-ttu-id="3f2b2-1136">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1136">Outlook</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-1149">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-1149">Resolved issues</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-1150">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-1150">Outlook</span></span>
 
-- <span data-ttu-id="3f2b2-1137">サードパーティ製アプリケーションがメールを送信できない原因となった問題に対処します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1137">Addresses an issue that caused third party applications to be unable to send email.</span></span>
+- <span data-ttu-id="dde2c-1151">サードパーティ製アプリケーションがメールを送信できない原因となった問題に対処します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1151">Addresses an issue that caused third party applications to be unable to send email.</span></span>
 
 
 
 [//]: # (バグの詳細コンテンツ エンドを削除しないでください)
 
-## <a name="version-2002-february-25"></a><span data-ttu-id="3f2b2-1139">バージョン 2002: 2 月 25 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1139">Version 2002: February 25</span></span>
-<span data-ttu-id="3f2b2-1140">*バージョン 2002 (ビルド 12527.20194)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1140">*Version 2002 (Build 12527.20194)*</span></span>
+## <a name="version-2002-february-25"></a><span data-ttu-id="dde2c-1153">バージョン 2002: 2 月 25 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-1153">Version 2002: February 25</span></span>
+<span data-ttu-id="dde2c-1154">*バージョン 2002 (ビルド 12527.20194)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-1154">*Version 2002 (Build 12527.20194)*</span></span>
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="feature-updates"></a><span data-ttu-id="3f2b2-1142">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1142">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="3f2b2-1143">Excel</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1143">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="dde2c-1156">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="dde2c-1156">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="dde2c-1157">Excel</span><span class="sxs-lookup"><span data-stu-id="dde2c-1157">Excel</span></span>
 
-- <span data-ttu-id="3f2b2-1144">**ブックの統計情報:** セル、数式、グラフ、テーブル...これらをお客様に代わってカウントします。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1144">**Workbook Statistics:** Cells, formulas, charts, tables... We count them so you don't have to.</span></span>
+- <span data-ttu-id="dde2c-1158">**ブックの統計情報:** セル、数式、グラフ、テーブル...これらをお客様に代わってカウントします。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1158">**Workbook Statistics:** Cells, formulas, charts, tables... We count them so you don't have to.</span></span>
 
-- <span data-ttu-id="3f2b2-1145">**クエリ エディターでのデータ プロファイリング**: 列のデータを一目で分析し、エラーと空の値を識別し、配布ヒストグラムなどを確認します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1145">**Data Profiling in Query Editor:** Get at-a-glance analysis of the data in your columns, identify error and empty values, see distribution histograms and more.</span></span>
+- <span data-ttu-id="dde2c-1159">**クエリ エディターでのデータ プロファイリング**: 列のデータを一目で分析し、エラーと空の値を識別し、配布ヒストグラムなどを確認します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1159">**Data Profiling in Query Editor:** Get at-a-glance analysis of the data in your columns, identify error and empty values, see distribution histograms and more.</span></span>
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -1893,99 +1926,99 @@ ms.locfileid: "50455773"
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-1148">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1148">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="3f2b2-1149">Excel</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1149">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-1162">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-1162">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="dde2c-1163">Excel</span><span class="sxs-lookup"><span data-stu-id="dde2c-1163">Excel</span></span>
 
-- <span data-ttu-id="3f2b2-1150">CUBEVALUE 関数が間違った結果を返すことがある問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1150">Fixed an issue where CUBEVALUE functions would sometimes return an incorrect result.</span></span>
+- <span data-ttu-id="dde2c-1164">CUBEVALUE 関数が間違った結果を返すことがある問題が修正されました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1164">Fixed an issue where CUBEVALUE functions would sometimes return an incorrect result.</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="3f2b2-1151">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1151">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-1165">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-1165">Outlook</span></span>
 
-- <span data-ttu-id="3f2b2-1152">会議の [場所] フィールドにあるコンマがセミコロンになる問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1152">Addresses an issue that caused commas in the location field of a meeting to turn into semicolons.</span></span>
+- <span data-ttu-id="dde2c-1166">会議の [場所] フィールドにあるコンマがセミコロンになる問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1166">Addresses an issue that caused commas in the location field of a meeting to turn into semicolons.</span></span>
 
-- <span data-ttu-id="3f2b2-1153">複数のウィンドウで同じアイテムを表示するとクラッシュする場合がある問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1153">Addresses an issue that could result in a crash when viewing the same item in multiple windows.</span></span>
+- <span data-ttu-id="dde2c-1167">複数のウィンドウで同じアイテムを表示するとクラッシュする場合がある問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1167">Addresses an issue that could result in a crash when viewing the same item in multiple windows.</span></span>
 
-- <span data-ttu-id="3f2b2-1154">フラグ付きアイテムの強調表示を無効にするオプションが一部のシナリオで無視される問題に対処します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1154">Addresses an issue that caused the option to disable flagged item highlighting to fail to be respected in some scenarios.</span></span>
+- <span data-ttu-id="dde2c-1168">フラグ付きアイテムの強調表示を無効にするオプションが一部のシナリオで無視される問題に対処します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1168">Addresses an issue that caused the option to disable flagged item highlighting to fail to be respected in some scenarios.</span></span>
 
-- <span data-ttu-id="3f2b2-1155">同期のスライダーが小さい設定に設定されている場合でも、Outlook で予期せずすべてのメールが同期される問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1155">Addresses an issue that caused Outlook to unexpectedly sync all mail even when the sync slider is set to a smaller setting.</span></span>
-
-
-- <span data-ttu-id="3f2b2-1156">黒のテーマを持つユーザーが [差出人] ドロップダウンを表示すると、白色の背景に白いテキストが表示される問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1156">Addresses an issue that caused users with Black Theme to see the "From" dropdown show white text on a white background.</span></span>
+- <span data-ttu-id="dde2c-1169">同期のスライダーが小さい設定に設定されている場合でも、Outlook で予期せずすべてのメールが同期される問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1169">Addresses an issue that caused Outlook to unexpectedly sync all mail even when the sync slider is set to a smaller setting.</span></span>
 
 
-- <span data-ttu-id="3f2b2-1157">この変更により、メッセージ ヘッダーに複数行の件名を表示できる機能が復元されます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1157">This change restores the ability to view multi-line subjects in the message header.</span></span>
+- <span data-ttu-id="dde2c-1170">黒のテーマを持つユーザーが [差出人] ドロップダウンを表示すると、白色の背景に白いテキストが表示される問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1170">Addresses an issue that caused users with Black Theme to see the "From" dropdown show white text on a white background.</span></span>
+
+
+- <span data-ttu-id="dde2c-1171">この変更により、メッセージ ヘッダーに複数行の件名を表示できる機能が復元されます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1171">This change restores the ability to view multi-line subjects in the message header.</span></span>
 
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2001-february-19"></a><span data-ttu-id="3f2b2-1159">バージョン 2001: 2 月 19 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1159">Version 2001: February 19</span></span>
-<span data-ttu-id="3f2b2-1160">*バージョン 2001 (ビルド 12430.20288)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1160">*Version 2001 (Build 12430.20288)*</span></span>
-* <span data-ttu-id="3f2b2-1161">さまざまなバグとパフォーマンスの修正。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1161">Various bugs and performance fixes.</span></span>
+## <a name="version-2001-february-19"></a><span data-ttu-id="dde2c-1173">バージョン 2001: 2 月 19 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-1173">Version 2001: February 19</span></span>
+<span data-ttu-id="dde2c-1174">*バージョン 2001 (ビルド 12430.20288)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-1174">*Version 2001 (Build 12430.20288)*</span></span>
+* <span data-ttu-id="dde2c-1175">さまざまなバグとパフォーマンスの修正。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1175">Various bugs and performance fixes.</span></span>
 
-## <a name="version-2001-february-11"></a><span data-ttu-id="3f2b2-1162">バージョン 2001: 2 月 11 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1162">Version 2001: February 11</span></span>
-<span data-ttu-id="3f2b2-1163">*バージョン 2001 (ビルド 12430.20264)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1163">*Version 2001 (Build 12430.20264)*</span></span>
+## <a name="version-2001-february-11"></a><span data-ttu-id="dde2c-1176">バージョン 2001: 2 月 11 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-1176">Version 2001: February 11</span></span>
+<span data-ttu-id="dde2c-1177">*バージョン 2001 (ビルド 12430.20264)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-1177">*Version 2001 (Build 12430.20264)*</span></span>
 
-<span data-ttu-id="3f2b2-1164">セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1164">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
+<span data-ttu-id="dde2c-1178">セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="dde2c-1178">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-1166">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1166">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="3f2b2-1167">Access</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1167">Access</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-1180">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-1180">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="dde2c-1181">Access</span><span class="sxs-lookup"><span data-stu-id="dde2c-1181">Access</span></span>
 
-- <span data-ttu-id="3f2b2-1168">Access テンプレートは、データベース内の添付ファイル列のエラーを発生させることがなくなりました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1168">Access templates should no longer cause attachment columns to fail within a database.</span></span> <span data-ttu-id="3f2b2-1169">テンプレートのインスタンス化後に、データベースに添付ファイル フィールドを追加できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1169">After instantiating a template, you should now be able to add an attachment field to your database.</span></span>
+- <span data-ttu-id="dde2c-1182">Access テンプレートは、データベース内の添付ファイル列のエラーを発生させることがなくなりました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1182">Access templates should no longer cause attachment columns to fail within a database.</span></span> <span data-ttu-id="dde2c-1183">テンプレートのインスタンス化後に、データベースに添付ファイル フィールドを追加できるようになりました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1183">After instantiating a template, you should now be able to add an attachment field to your database.</span></span>
 
-### <a name="excel"></a><span data-ttu-id="3f2b2-1170">Excel</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1170">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="dde2c-1184">Excel</span><span class="sxs-lookup"><span data-stu-id="dde2c-1184">Excel</span></span>
 
-- <span data-ttu-id="3f2b2-1171">コンテキスト メニューのコメント コマンドが表示されない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1171">Fixed an issue where comment commands in the context menu were not being displayed.</span></span>
+- <span data-ttu-id="dde2c-1185">コンテキスト メニューのコメント コマンドが表示されない問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1185">Fixed an issue where comment commands in the context menu were not being displayed.</span></span>
 
-- <span data-ttu-id="3f2b2-1172">スピル配列が含まれるセルで区切り位置を指定するとクラッシュが発生することがある問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1172">Fixed an issue that caused some users to experience crashes when converting text to columns with cells that have a spilling array.</span></span>
-
-
-### <a name="outlook"></a><span data-ttu-id="3f2b2-1173">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1173">Outlook</span></span>
-
-- <span data-ttu-id="3f2b2-1174">無効な差出人アドレスを指定するとクラッシュが発生する問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1174">Addresses an issue that caused users to experience a crash when specifying an invalid From address.</span></span>
+- <span data-ttu-id="dde2c-1186">スピル配列が含まれるセルで区切り位置を指定するとクラッシュが発生することがある問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1186">Fixed an issue that caused some users to experience crashes when converting text to columns with cells that have a spilling array.</span></span>
 
 
-- <span data-ttu-id="3f2b2-1175">ユーザーがアカウントのセットアップをキャンセルするときにクラッシュする問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1175">Addresses an issue that caused users to experience a crash when canceling account setup.</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-1187">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-1187">Outlook</span></span>
+
+- <span data-ttu-id="dde2c-1188">無効な差出人アドレスを指定するとクラッシュが発生する問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1188">Addresses an issue that caused users to experience a crash when specifying an invalid From address.</span></span>
 
 
-### <a name="project"></a><span data-ttu-id="3f2b2-1176">Project</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1176">Project</span></span>
-
-- <span data-ttu-id="3f2b2-1177">作業時間固定タイプの達成率 100% のタスクで、達成率が誤って 100% 未満に計算される問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1177">Fixed an issue where 100% tasks of type fixed duration may wrongly have their % complete calculated at less than 100% complete.</span></span>
+- <span data-ttu-id="dde2c-1189">ユーザーがアカウントのセットアップをキャンセルするときにクラッシュする問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1189">Addresses an issue that caused users to experience a crash when canceling account setup.</span></span>
 
 
-### <a name="office-suite"></a><span data-ttu-id="3f2b2-1178">Office スイート</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1178">Office Suite</span></span>
+### <a name="project"></a><span data-ttu-id="dde2c-1190">Project</span><span class="sxs-lookup"><span data-stu-id="dde2c-1190">Project</span></span>
 
-- <span data-ttu-id="3f2b2-1179">この変更では、Intel Integrated GPU を使用するグラフィック アダプターに関して報告された問題に対処します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1179">This change addresses reported problems with graphics adaptors that leverage the Intel Integrated GPU.</span></span>
+- <span data-ttu-id="dde2c-1191">作業時間固定タイプの達成率 100% のタスクで、達成率が誤って 100% 未満に計算される問題を修正しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1191">Fixed an issue where 100% tasks of type fixed duration may wrongly have their % complete calculated at less than 100% complete.</span></span>
+
+
+### <a name="office-suite"></a><span data-ttu-id="dde2c-1192">Office スイート</span><span class="sxs-lookup"><span data-stu-id="dde2c-1192">Office Suite</span></span>
+
+- <span data-ttu-id="dde2c-1193">この変更では、Intel Integrated GPU を使用するグラフィック アダプターに関して報告された問題に対処します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1193">This change addresses reported problems with graphics adaptors that leverage the Intel Integrated GPU.</span></span>
 
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2001-january-30"></a><span data-ttu-id="3f2b2-1181">バージョン 2001: 1 月 30 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1181">Version 2001: January 30</span></span>
-<span data-ttu-id="3f2b2-1182">*バージョン 2001 (ビルド 12430.20184)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1182">*Version 2001 (Build 12430.20184)*</span></span>
+## <a name="version-2001-january-30"></a><span data-ttu-id="dde2c-1195">バージョン 2001: 1 月 30 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-1195">Version 2001: January 30</span></span>
+<span data-ttu-id="dde2c-1196">*バージョン 2001 (ビルド 12430.20184)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-1196">*Version 2001 (Build 12430.20184)*</span></span>
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="feature-updates"></a><span data-ttu-id="3f2b2-1184">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1184">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="3f2b2-1185">Excel</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1185">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="dde2c-1198">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="dde2c-1198">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="dde2c-1199">Excel</span><span class="sxs-lookup"><span data-stu-id="dde2c-1199">Excel</span></span>
 
-- <span data-ttu-id="3f2b2-1186">**すぐに読んで返信する**: ブックを開かずに、メールからコメントやメンションに直接返信します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1186">**Read and reply on the fly:** Respond to comments and mentions right from email without opening the workbook.</span></span>
+- <span data-ttu-id="dde2c-1200">**すぐに読んで返信する**: ブックを開かずに、メールからコメントやメンションに直接返信します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1200">**Read and reply on the fly:** Respond to comments and mentions right from email without opening the workbook.</span></span>
 
-- <span data-ttu-id="3f2b2-1187">**左を見て、右を見て... XLOOKUP をご利用いただけます!** XLOOKUP を使えば、表や範囲内で必要なものは何でも見つけられます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1187">**Look left, look right… XLOOKUP is here!:** Row by row, find anything you need in a table or range with XLOOKUP.</span></span> [<span data-ttu-id="3f2b2-1188">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1188">Learn more</span></span>](https://support.office.com/article/b7fd680e-6d10-43e6-84f9-88eae8bf5929)
+- <span data-ttu-id="dde2c-1201">**左を見て、右を見て... XLOOKUP をご利用いただけます!** XLOOKUP を使えば、表や範囲内で必要なものは何でも見つけられます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1201">**Look left, look right… XLOOKUP is here!:** Row by row, find anything you need in a table or range with XLOOKUP.</span></span> [<span data-ttu-id="dde2c-1202">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-1202">Learn more</span></span>](https://support.office.com/article/b7fd680e-6d10-43e6-84f9-88eae8bf5929)
 
-### <a name="outlook"></a><span data-ttu-id="3f2b2-1189">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1189">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-1203">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-1203">Outlook</span></span>
 
-- <span data-ttu-id="3f2b2-1190">**高度なグループ メールの設定:** この機能は、グループ ユーザーが受信トレイで受信/フォローするメールまたはイベントを、カスタマイズするのに役立ちます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1190">**Advanced group email settings:** This feature helps groups users to customize which emails or events to receive/follow in their inbox.</span></span>
+- <span data-ttu-id="dde2c-1204">**高度なグループ メールの設定:** この機能は、グループ ユーザーが受信トレイで受信/フォローするメールまたはイベントを、カスタマイズするのに役立ちます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1204">**Advanced group email settings:** This feature helps groups users to customize which emails or events to receive/follow in their inbox.</span></span>
 
-- <span data-ttu-id="3f2b2-1191">**グループの名前付けポリシー**: グループの名前付けポリシーを使用すると、IT 管理者は組織内のユーザーが作成するグループの名前の標準化と管理を行えます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1191">**Groups Naming policy:** A group naming policy enables the IT admin to standardize and manage the names of groups created by users in the organization.</span></span> <span data-ttu-id="3f2b2-1192">管理者は、グループが作成される際に特定のプレフィックスとサフィックスをグループ名に追加することを要求できます。また、特定の単語の使用を禁止できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1192">The admin can require a specific prefix and suffix be added to the name for a group when it's created, and can block specific words from being used.</span></span> <span data-ttu-id="3f2b2-1193">これにより、グループ名での不適切な単語の使用を最小限に抑えられる他、ディレクトリ内のグループ名の記載を IT 管理者が管理できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1193">This helps minimize the use of inappropriate words in group names as well as IT manage the representation of groups in their directory.</span></span> <span data-ttu-id="3f2b2-1194">また、名前付けポリシーを使用することで、チーム サイトを展開する組織は、チーム サイトを部署ごとに分類できるようにもなります。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1194">Naming Policy also helps organizations that deploy team sites to categorize them based on department.</span></span>
+- <span data-ttu-id="dde2c-1205">**グループの名前付けポリシー**: グループの名前付けポリシーを使用すると、IT 管理者は組織内のユーザーが作成するグループの名前の標準化と管理を行えます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1205">**Groups Naming policy:** A group naming policy enables the IT admin to standardize and manage the names of groups created by users in the organization.</span></span> <span data-ttu-id="dde2c-1206">管理者は、グループが作成される際に特定のプレフィックスとサフィックスをグループ名に追加することを要求できます。また、特定の単語の使用を禁止できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1206">The admin can require a specific prefix and suffix be added to the name for a group when it's created, and can block specific words from being used.</span></span> <span data-ttu-id="dde2c-1207">これにより、グループ名での不適切な単語の使用を最小限に抑えられる他、ディレクトリ内のグループ名の記載を IT 管理者が管理できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1207">This helps minimize the use of inappropriate words in group names as well as IT manage the representation of groups in their directory.</span></span> <span data-ttu-id="dde2c-1208">また、名前付けポリシーを使用することで、チーム サイトを展開する組織は、チーム サイトを部署ごとに分類できるようにもなります。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1208">Naming Policy also helps organizations that deploy team sites to categorize them based on department.</span></span>
 
-### <a name="word"></a><span data-ttu-id="3f2b2-1195">Word</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1195">Word</span></span>
+### <a name="word"></a><span data-ttu-id="dde2c-1209">Word</span><span class="sxs-lookup"><span data-stu-id="dde2c-1209">Word</span></span>
 
-- <span data-ttu-id="3f2b2-1196">**より安全なビデオ エクスペリエンス:** セキュリティの強化は、より安全なオンライン ビデオ エクスペリエンスを意味します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1196">**A more secure video experience:** Security enhancements mean a safer online video experience for you.</span></span> [<span data-ttu-id="3f2b2-1197">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1197">Learn more</span></span>](https://support.office.com/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
+- <span data-ttu-id="dde2c-1210">**より安全なビデオ エクスペリエンス:** セキュリティの強化は、より安全なオンライン ビデオ エクスペリエンスを意味します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1210">**A more secure video experience:** Security enhancements mean a safer online video experience for you.</span></span> [<span data-ttu-id="dde2c-1211">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-1211">Learn more</span></span>](https://support.office.com/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
 
-- <span data-ttu-id="3f2b2-1198">**インクのなげなわ:** [描画] タブのなげなわツールを使用すると、インクで描かれたオブジェクトを選択できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1198">**Lasso your ink:** The Lasso tool on the Draw tab helps you select objects drawn with ink.</span></span> <span data-ttu-id="3f2b2-1199">個別のストロークまたは文字全体を選択できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1199">Select individual strokes, or whole words.</span></span> [<span data-ttu-id="3f2b2-1200">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1200">Learn more</span></span>](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- <span data-ttu-id="dde2c-1212">**インクのなげなわ:** [描画] タブのなげなわツールを使用すると、インクで描かれたオブジェクトを選択できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1212">**Lasso your ink:** The Lasso tool on the Draw tab helps you select objects drawn with ink.</span></span> <span data-ttu-id="dde2c-1213">個別のストロークまたは文字全体を選択できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1213">Select individual strokes, or whole words.</span></span> [<span data-ttu-id="dde2c-1214">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-1214">Learn more</span></span>](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 
 
@@ -1998,62 +2031,62 @@ ms.locfileid: "50455773"
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-1203">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1203">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="3f2b2-1204">Access</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1204">Access</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-1217">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-1217">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="dde2c-1218">Access</span><span class="sxs-lookup"><span data-stu-id="dde2c-1218">Access</span></span>
 
-- <span data-ttu-id="3f2b2-1205">この更新プログラムでは、ADODB を使用する問題を修正します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1205">This update fixes an issue where using an ADODB.</span></span> <span data-ttu-id="3f2b2-1206">VB コードのれコーター オブジェクトがエラーを誤って報告することがあります。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1206">Recorder object in VB code may incorrectly report an error.</span></span>
-
-
-- <span data-ttu-id="3f2b2-1207">この更新プログラムでは、Microsoft Access がリンクされた SQL Server テーブル内の ID 列を識別できない原因となり、行が削除されたと誤って報告される原因となる問題が修正されます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1207">This update fixes an issue that can cause Microsoft Access to fail to identify an Identity Column in a linked SQL Server table, which can cause rows to be reported as deleted incorrectly.</span></span>
+- <span data-ttu-id="dde2c-1219">この更新プログラムでは、ADODB を使用する問題を修正します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1219">This update fixes an issue where using an ADODB.</span></span> <span data-ttu-id="dde2c-1220">VB コードのれコーター オブジェクトがエラーを誤って報告することがあります。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1220">Recorder object in VB code may incorrectly report an error.</span></span>
 
 
-### <a name="excel"></a><span data-ttu-id="3f2b2-1208">Excel</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1208">Excel</span></span>
-
-- <span data-ttu-id="3f2b2-1209">署名の名前を変更したときにクラッシュする原因となった問題に対処します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1209">Addresses an issue that caused users to experience crashes when renaming a signature.</span></span>
+- <span data-ttu-id="dde2c-1221">この更新プログラムでは、Microsoft Access がリンクされた SQL Server テーブル内の ID 列を識別できない原因となり、行が削除されたと誤って報告される原因となる問題が修正されます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1221">This update fixes an issue that can cause Microsoft Access to fail to identify an Identity Column in a linked SQL Server table, which can cause rows to be reported as deleted incorrectly.</span></span>
 
 
-### <a name="outlook"></a><span data-ttu-id="3f2b2-1210">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1210">Outlook</span></span>
+### <a name="excel"></a><span data-ttu-id="dde2c-1222">Excel</span><span class="sxs-lookup"><span data-stu-id="dde2c-1222">Excel</span></span>
 
-- <span data-ttu-id="3f2b2-1211">署名の名前を変更したときにクラッシュする原因となった問題に対処します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1211">Addresses an issue that caused users to experience crashes when renaming a signature.</span></span>
+- <span data-ttu-id="dde2c-1223">署名の名前を変更したときにクラッシュする原因となった問題に対処します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1223">Addresses an issue that caused users to experience crashes when renaming a signature.</span></span>
+
+
+### <a name="outlook"></a><span data-ttu-id="dde2c-1224">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-1224">Outlook</span></span>
+
+- <span data-ttu-id="dde2c-1225">署名の名前を変更したときにクラッシュする原因となった問題に対処します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1225">Addresses an issue that caused users to experience crashes when renaming a signature.</span></span>
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-1912-january-22"></a><span data-ttu-id="3f2b2-1213">バージョン 1912: 1 月 22 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1213">Version 1912: January 22</span></span>
-<span data-ttu-id="3f2b2-1214">*バージョン 1912 (ビルド 12325.20344)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1214">*Version 1912 (Build 12325.20344)*</span></span>
+## <a name="version-1912-january-22"></a><span data-ttu-id="dde2c-1227">バージョン 1912: 1 月 22 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-1227">Version 1912: January 22</span></span>
+<span data-ttu-id="dde2c-1228">*バージョン 1912 (ビルド 12325.20344)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-1228">*Version 1912 (Build 12325.20344)*</span></span>
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-1216">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1216">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="3f2b2-1217">Access</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1217">Access</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-1230">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-1230">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="dde2c-1231">Access</span><span class="sxs-lookup"><span data-stu-id="dde2c-1231">Access</span></span>
 
-- <span data-ttu-id="3f2b2-1218">この更新プログラムでは、Microsoft Access がリンクされた SQL Server テーブル内の ID 列を識別できない原因となり、行が削除されたと誤って報告される原因となる問題が修正されます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1218">This update fixes an issue that can cause Microsoft Access to fail to identify an Identity Column in a linked SQL Server table, which can cause rows to be reported as deleted incorrectly.</span></span>
+- <span data-ttu-id="dde2c-1232">この更新プログラムでは、Microsoft Access がリンクされた SQL Server テーブル内の ID 列を識別できない原因となり、行が削除されたと誤って報告される原因となる問題が修正されます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1232">This update fixes an issue that can cause Microsoft Access to fail to identify an Identity Column in a linked SQL Server table, which can cause rows to be reported as deleted incorrectly.</span></span>
 
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-1912-january-14"></a><span data-ttu-id="3f2b2-1220">バージョン 1912: 1 月 14 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1220">Version 1912: January 14</span></span>
-<span data-ttu-id="3f2b2-1221">*バージョン 1912 (ビルド 12325.20298)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1221">*Version 1912 (Build 12325.20298)*</span></span>
+## <a name="version-1912-january-14"></a><span data-ttu-id="dde2c-1234">バージョン 1912: 1 月 14 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-1234">Version 1912: January 14</span></span>
+<span data-ttu-id="dde2c-1235">*バージョン 1912 (ビルド 12325.20298)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-1235">*Version 1912 (Build 12325.20298)*</span></span>
 
-<span data-ttu-id="3f2b2-1222">セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1222">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
+<span data-ttu-id="dde2c-1236">セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span><span class="sxs-lookup"><span data-stu-id="dde2c-1236">Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)</span></span>
 
-## <a name="version-1912-january-08"></a><span data-ttu-id="3f2b2-1223">バージョン 1912: 1 月 8 日</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1223">Version 1912: January 08</span></span>
-<span data-ttu-id="3f2b2-1224">*バージョン 1912 (ビルド 12325.20288)*</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1224">*Version 1912 (Build 12325.20288)*</span></span>
+## <a name="version-1912-january-08"></a><span data-ttu-id="dde2c-1237">バージョン 1912: 1 月 8 日</span><span class="sxs-lookup"><span data-stu-id="dde2c-1237">Version 1912: January 08</span></span>
+<span data-ttu-id="dde2c-1238">*バージョン 1912 (ビルド 12325.20288)*</span><span class="sxs-lookup"><span data-stu-id="dde2c-1238">*Version 1912 (Build 12325.20288)*</span></span>
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="feature-updates"></a><span data-ttu-id="3f2b2-1226">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1226">Feature updates</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="dde2c-1240">機能の更新プログラム</span><span class="sxs-lookup"><span data-stu-id="dde2c-1240">Feature updates</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="3f2b2-1227">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1227">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-1241">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-1241">Outlook</span></span>
 
-- <span data-ttu-id="3f2b2-1228">**アクセシビリティ対応のメールを最も必要としている人に送信する:** Outlook では、メールのヒントが表示され、アクセシビリティ対応のコンテンツを必要とするユーザーに送信するときに、コンテンツがアクセシビリティ対応であることを確認できます</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1228">**Send accessible mail to those who need it most:** Outlook will display a mail tip to help you ensure that your content is accessible when sending to a user who prefers accessible content</span></span>
+- <span data-ttu-id="dde2c-1242">**アクセシビリティ対応のメールを最も必要としている人に送信する:** Outlook では、メールのヒントが表示され、アクセシビリティ対応のコンテンツを必要とするユーザーに送信するときに、コンテンツがアクセシビリティ対応であることを確認できます</span><span class="sxs-lookup"><span data-stu-id="dde2c-1242">**Send accessible mail to those who need it most:** Outlook will display a mail tip to help you ensure that your content is accessible when sending to a user who prefers accessible content</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="3f2b2-1229">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1229">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="dde2c-1243">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="dde2c-1243">PowerPoint</span></span>
 
-- <span data-ttu-id="3f2b2-1230">**プレゼンテーションの最適化:** アクセシビリティ チェックを使用すると、スクリーン リーダーを考慮に入れて、スライド上のオブジェクトを配置することができます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1230">**Optimize your presentation for all:** Accessibility Checker helps you arrange objects on your slides with screen readers in mind.</span></span>
+- <span data-ttu-id="dde2c-1244">**プレゼンテーションの最適化:** アクセシビリティ チェックを使用すると、スクリーン リーダーを考慮に入れて、スライド上のオブジェクトを配置することができます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1244">**Optimize your presentation for all:** Accessibility Checker helps you arrange objects on your slides with screen readers in mind.</span></span>
 
-- <span data-ttu-id="3f2b2-1231">**簡単な GIF:** 1 つのスライド、1 つのフレーム。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1231">**GIFs in a jiffy:** One slide, one frame.</span></span> <span data-ttu-id="3f2b2-1232">PowerPoint でループ GIF を簡単に作成できます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1232">Easily create looping GIFs in PowerPoint.</span></span> [<span data-ttu-id="3f2b2-1233">詳細情報</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1233">Learn more</span></span>](https://support.office.com/ja-JP/article/a598753e-92de-4f1b-8393-714db4d334b4)
+- <span data-ttu-id="dde2c-1245">**簡単な GIF:** 1 つのスライド、1 つのフレーム。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1245">**GIFs in a jiffy:** One slide, one frame.</span></span> <span data-ttu-id="dde2c-1246">PowerPoint でループ GIF を簡単に作成できます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1246">Easily create looping GIFs in PowerPoint.</span></span> [<span data-ttu-id="dde2c-1247">詳細情報</span><span class="sxs-lookup"><span data-stu-id="dde2c-1247">Learn more</span></span>](https://support.office.com/ja-JP/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
 
@@ -2061,36 +2094,37 @@ ms.locfileid: "50455773"
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
-### <a name="resolved-issues"></a><span data-ttu-id="3f2b2-1236">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1236">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="3f2b2-1237">Excel</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1237">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="dde2c-1250">解決済みの問題</span><span class="sxs-lookup"><span data-stu-id="dde2c-1250">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="dde2c-1251">Excel</span><span class="sxs-lookup"><span data-stu-id="dde2c-1251">Excel</span></span>
 
-- <span data-ttu-id="3f2b2-1238">この変更は、ソフトウェア レンダリングを活用することにより、特定の Intel グラフィック ドライバーの問題を回避します。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1238">This change circumvents a problem with certain Intel graphics drivers by leveraging software rendering.</span></span>
+- <span data-ttu-id="dde2c-1252">この変更は、ソフトウェア レンダリングを活用することにより、特定の Intel グラフィック ドライバーの問題を回避します。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1252">This change circumvents a problem with certain Intel graphics drivers by leveraging software rendering.</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="3f2b2-1239">Outlook</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1239">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="dde2c-1253">Outlook</span><span class="sxs-lookup"><span data-stu-id="dde2c-1253">Outlook</span></span>
 
-- <span data-ttu-id="3f2b2-1240">会議をクリアした後、会議の場所が予期せずに会議に追加される問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1240">Addressed an issue that caused the location of a meeting to get added back to the meeting unexpectedly after clearing it.</span></span>
+- <span data-ttu-id="dde2c-1254">会議をクリアした後、会議の場所が予期せずに会議に追加される問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1254">Addressed an issue that caused the location of a meeting to get added back to the meeting unexpectedly after clearing it.</span></span>
 
-- <span data-ttu-id="3f2b2-1241">キーボード ショートカットを使用してメールボックス フォルダーを操作すると、ユーザーに顕著な遅延が発生する問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1241">Addressed an issue that caused users to see a noticeable delay when interacting with their mailbox folders through keyboard shortcuts.</span></span>
+- <span data-ttu-id="dde2c-1255">キーボード ショートカットを使用してメールボックス フォルダーを操作すると、ユーザーに顕著な遅延が発生する問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1255">Addressed an issue that caused users to see a noticeable delay when interacting with their mailbox folders through keyboard shortcuts.</span></span>
 
-- <span data-ttu-id="3f2b2-1242">状況によっては、表示された SMTP アドレスと一致しないアドレスに送信されたメールがユーザーに表示される問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1242">Addressed an issue that caused users to see emails sent to an address that did not match the displayed SMTP address in some circumstances.</span></span>
+- <span data-ttu-id="dde2c-1256">状況によっては、表示された SMTP アドレスと一致しないアドレスに送信されたメールがユーザーに表示される問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1256">Addressed an issue that caused users to see emails sent to an address that did not match the displayed SMTP address in some circumstances.</span></span>
 
-- <span data-ttu-id="3f2b2-1243">ユーザーがクラウド設定を取得する際に Outlook がフリーズする問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1243">Addressed an issue that caused users to experience hangs in Outlook when retrieving Cloud Settings.</span></span>
+- <span data-ttu-id="dde2c-1257">ユーザーがクラウド設定を取得する際に Outlook がフリーズする問題に対処しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1257">Addressed an issue that caused users to experience hangs in Outlook when retrieving Cloud Settings.</span></span>
 
-### <a name="word"></a><span data-ttu-id="3f2b2-1244">Word</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1244">Word</span></span>
+### <a name="word"></a><span data-ttu-id="dde2c-1258">Word</span><span class="sxs-lookup"><span data-stu-id="dde2c-1258">Word</span></span>
 
-- <span data-ttu-id="3f2b2-1245">文書パーツ オーガナイザーに 「スタイル、文書パーツを変更しました」 という無効なアラートが表示される場合があります。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1245">Building blocks organizer may display an invalid alert: "You have modified styles, building blocks".</span></span>
+- <span data-ttu-id="dde2c-1259">文書パーツ オーガナイザーに 「スタイル、文書パーツを変更しました」 という無効なアラートが表示される場合があります。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1259">Building blocks organizer may display an invalid alert: "You have modified styles, building blocks".</span></span>
 
-### <a name="office-suite"></a><span data-ttu-id="3f2b2-1246">Office スイート</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1246">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="dde2c-1260">Office スイート</span><span class="sxs-lookup"><span data-stu-id="dde2c-1260">Office Suite</span></span>
 
-- <span data-ttu-id="3f2b2-1247">Office の更新プログラムが、意図したソース (ローカル共有、ネットワーク共有、構成マネージャー
-で提供される場所など) からではなく、予期せずに Office CDN からファイルをダウンロードする場合がある問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1247">Resolved an issue where Office updates may have unexpectedly downloaded files from the Office CDN instead of the intended source, such as a local or network share, or Configuration Manager-provided location.</span></span>
+- <span data-ttu-id="dde2c-1261">Office の更新プログラムが、意図したソース (ローカル共有、ネットワーク共有、構成マネージャー
+で提供される場所など) からではなく、予期せずに Office CDN からファイルをダウンロードする場合がある問題を解決しました。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1261">Resolved an issue where Office updates may have unexpectedly downloaded files from the Office CDN instead of the intended source, such as a local or network share, or Configuration Manager-provided location.</span></span>
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 > [!NOTE]
-> <span data-ttu-id="3f2b2-1249">Office の使用で問題がある場合は、[Microsoft の回答フォーラム](https://answers.microsoft.com/)に関するページまたは「[Microsoft Tech Community](https://techcommunity.microsoft.com/)」に質問を投稿するか、[サポート](https://support.microsoft.com/contactus)に問い合わせてサポートを受けることができます。</span><span class="sxs-lookup"><span data-stu-id="3f2b2-1249">If you need help with an issue with using Office, we recommend that you post your question on [Microsoft's Answers forum](https://answers.microsoft.com/) or [Tech Community](https://techcommunity.microsoft.com/), or you can contact [support](https://support.microsoft.com/contactus).</span></span>
+> <span data-ttu-id="dde2c-1263">Office の使用で問題がある場合は、[Microsoft の回答フォーラム](https://answers.microsoft.com/)に関するページまたは「[Microsoft Tech Community](https://techcommunity.microsoft.com/)」に質問を投稿するか、[サポート](https://support.microsoft.com/contactus)に問い合わせてサポートを受けることができます。</span><span class="sxs-lookup"><span data-stu-id="dde2c-1263">If you need help with an issue with using Office, we recommend that you post your question on [Microsoft's Answers forum](https://answers.microsoft.com/) or [Tech Community](https://techcommunity.microsoft.com/), or you can contact [support](https://support.microsoft.com/contactus).</span></span>
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|CC|Production| |16.0.13801.20294|version-2102-march-09|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20266|version-2102-march-01|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20448|version-2101-january-16|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20380|version-2101-february-09|)
@@ -2100,5 +2134,4 @@ ms.locfileid: "50455773"
 [//]: # (|Win32|CC|Production| |16.0.13530.20316|version-2012-january-05|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20404|version-2011-december-21|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20332|version-2011-december-08|)
-[//]: # (|Win32|CC|Production| |16.0.13426.20308|version-2011-december-02|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)
