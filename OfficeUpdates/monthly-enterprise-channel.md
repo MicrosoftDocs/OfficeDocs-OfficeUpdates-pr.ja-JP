@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の月次エンタープライズ チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 98d9d851ca126b816185e4eb2f1b9d5237ac1ec9
-ms.sourcegitcommit: f67e9486398c358b4572720dc700aa98e3c0414f
+ms.openlocfilehash: e3ad3bb5d2265b8aa56346e87c1a835d52c6e579
+ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50455783"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50595571"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>2020 年の月次エンタープライズ チャネル リリースのリリース ノート
 
@@ -26,6 +26,70 @@ ms.locfileid: "50455783"
 [//]: # (削除しないでください)
 
 
+
+## <a name="version-2101-march-09"></a>バージョン 2101: 3 月 9 日
+*バージョン 2101 (ビルド 13628.20528)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- 特定の Windows セキュリティのエクスプロイト保護設定 (SimExec、CallerCheck) を使用している場合に、Excel の起動に失敗したり、予期せず終了したりしてしまう問題を修正しました。
+
+
+### <a name="outlook"></a>Outlook
+
+- [暗号化のみ] オプションを使用して送信されたメールの暗号化アイコンが表示されない問題を修正しました。
+
+
+- ユーザーがデジタル署名のオプションのチェックを外した後も、メールがデジタル署名されたものとして送信される問題を修正しました。
+
+
+- OWA に既定の正しい署名が表示されない問題を修正しました。
+
+
+- クラウド設定のユーザーが設定を更新するときにハングする問題を修正しました。
+
+
+- ユーザーが Outlook で検索しているときに、アプリが予期せず閉じることがある問題を修正しました。
+
+
+- プロファイルに大きな階層がある共有メールボックスまたは代理メールボックスを持つユーザーがハングする原因となる問題を修正しました。
+
+
+- 特定の検索シナリオで Outlook が予期せず終了するという一部のユーザーの問題が修正されました。
+
+
+### <a name="project"></a>Project
+
+- コスト型リソースがマイルストーン タスクに割り当てられたとき、基準コストが正しくロールアップされないという問題が修正されました。
+
+
+- チーム プランナー ビューのタスクに枠が表示されない問題を修正しました。
+
+
+- チーム プランナー ビューのタスクでドラッグ アンド ドロップが機能しない問題を修正しました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- メディア コントローラーのイベント通知に関連する問題を修正します。
+
+
+- メディア プレーヤー エンジンのタイミングに関連する問題を修正します。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2012-march-09"></a>バージョン 2012: 3 月 9 日
+*バージョン 2012 (ビルド 13530.20628)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-2012-february-09"></a>バージョン 2012: 2 月 9 日
 *バージョン 2012 (ビルド 13530.20528)*
@@ -1388,6 +1452,7 @@ ms.locfileid: "50455783"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13628.20528|version-2101-march-09|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13530.20528|version-2012-february-09|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13426.20526|version-2011-january-12|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13328.20478|version-2010-december-08|)

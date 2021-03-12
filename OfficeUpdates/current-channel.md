@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の月次チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: ae1c321ef15541e632da9e7e9d84c364f57c6858
-ms.sourcegitcommit: f67e9486398c358b4572720dc700aa98e3c0414f
+ms.openlocfilehash: 95b197a91dda728899ddebc6825fcd042180e805
+ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50455773"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50595651"
 ---
 # <a name="release-notes-for-current-channel"></a>現在のチャネルのリリース ノート
 
@@ -32,6 +32,39 @@ ms.locfileid: "50455773"
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2102-march-09"></a>バージョン 2102: 3 月 9 日
+*バージョン 2102 (ビルド 13801.20294)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- Outlook を再起動するまで、新しく追加された予定表がナビゲーション ウィンドウに表示されないという問題を修正しました。
+
+
+### <a name="word"></a>Word
+
+- 3D 効果のあるアイコンと SVG グラフィックに適用される色の問題を修正しました。
+
+
+- 段落をスキップする可能性があるナレーターの問題を修正しました。
+
+
+- リッチ テキスト コンテンツ コントロールの問題を修正しました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- 数式を含むテキスト内でナレーターを使用すると発生する可能性がある問題を修正しました。
 
 
 
@@ -2091,6 +2124,7 @@ ms.locfileid: "50455773"
 > Office の使用で問題がある場合は、[Microsoft の回答フォーラム](https://answers.microsoft.com/)に関するページまたは「[Microsoft Tech Community](https://techcommunity.microsoft.com/)」に質問を投稿するか、[サポート](https://support.microsoft.com/contactus)に問い合わせてサポートを受けることができます。
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|CC|Production| |16.0.13801.20294|version-2102-march-09|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20266|version-2102-march-01|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20448|version-2101-january-16|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20380|version-2101-february-09|)
@@ -2100,5 +2134,4 @@ ms.locfileid: "50455773"
 [//]: # (|Win32|CC|Production| |16.0.13530.20316|version-2012-january-05|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20404|version-2011-december-21|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20332|version-2011-december-08|)
-[//]: # (|Win32|CC|Production| |16.0.13426.20308|version-2011-december-02|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)

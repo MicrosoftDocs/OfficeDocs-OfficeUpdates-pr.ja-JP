@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の半期チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 6b50195e2e84292b0b4b1e259254592f2c4a591b
-ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
+ms.openlocfilehash: 9e642912dd77ac1e61683ce3021a2d5ee2c5ec56
+ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50173656"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50595691"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>半期エンタープライズ チャネルのリリース ノート
 
@@ -28,7 +28,47 @@ ms.locfileid: "50173656"
 >- 半期エンタープライズ チャネルのユーザーが Office ポータルから Microsoft 365 Apps をダウンロードして Windows 10 にインストールすると、既定で OneNote 2016 が含まれるようになります。
 
 
-[//]: # (バグの詳細コンテンツ エンドを削除しないでください)
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2008-march-09"></a>バージョン 2008: 3 月 9 日
+*バージョン 2008 (ビルド 13127.21348)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- グラフでデータ系列を選択した後に Excel が応答を停止する問題を修正しました。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- ドキュメントの保存に失敗した場合にアプリケーションが予期せず終了してしまう可能性がある問題を修正しました。
+
+
+- 場合によって、デザイン アイデアを選択するとプレゼンテーションのデータ分類ラベルが削除される問題に対処しました
+
+
+### <a name="word"></a>Word
+
+- ドキュメントの保存に失敗した場合にアプリケーションが予期せず終了してしまう可能性がある問題を修正しました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- Skype for Business メッセージのコピー/貼り付けで、「コンテンツの貼り付け時に問題が発生しました」というダイアログが表示される問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2002-march-09"></a>バージョン 2002: 3 月 9 日
+*バージョン 2002 (ビルド 12527.21686)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-2008-february-09"></a>バージョン 2008: 2 月 9 日
 *バージョン 2008 (ビルド 13127.21216)*
@@ -2650,6 +2690,7 @@ ms.locfileid: "50173656"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|DC|Production| |16.0.13127.21348|version-2008-march-09|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21216|version-2008-february-09|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21064|version-2008-january-12|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21416|バージョン-2002-12 月-08|)

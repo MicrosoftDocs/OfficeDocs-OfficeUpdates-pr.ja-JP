@@ -1,5 +1,5 @@
 ---
-title: 2017での半期チャネル (対象指定) リリースのリリースノート
+title: 2017 Semi-Annual チャネル (ターゲット) リリースのリリース ノート
 ms.author: anankani
 author: andymosten
 manager: anankani
@@ -9,24 +9,24 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: Office 365 ProPlus 用の半期チャネル (対象指定) リリースのリリースノートを IT 担当者に提供します (2017)
-ms.openlocfilehash: 44f6c4b86f88419f97bee4e89b99b5a4a46133c9
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+description: 2017 年の 365 ProPlus Semi-Annualチャネル (ターゲット) リリースのリリース ノートを IT Office提供
+ms.openlocfilehash: 51a272f29ba9e68682285cb1de05e3964340d0f2
+ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48370095"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50735172"
 ---
-# <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2017"></a>2017での半期チャネル (対象指定) リリースのリリースノート
+# <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2017"></a>2017 Semi-Annual チャネル (ターゲット) リリースのリリース ノート
 
-これらのリリースノートには、2017で Office 365 ProPlus の半期チャネル (対象指定) 更新プログラムに含まれる新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムに関する情報が記載されています。
+これらのリリース ノートには、2017 年の Semi-Annual チャネル (ターゲット) 更新プログラム (Office 365 ProPlus) に含まれる新機能、セキュリティ更新プログラム、およびセキュリティ以外の更新プログラムに関する情報が提供されています。
  
 > [!NOTE]
 > - また、Visio Pro for Office 365 および Project Online デスクトップ クライアントの新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムについても説明しています。
 > - ここに記載されている情報は、Business Premium など一部の Office 365 プランに付属する Office のバージョンの、Office 365 Business にも該当します。
-> - 半期チャネル (対象指定) は、2017年9月より前に段階的提供チャネルの最初のリリースという名前でした。
+> - Semi-Annualチャネル (ターゲット) は、2017 年 9 月より前の遅延チャネルのファースト リリースと命名されました。
 
-## <a name="version-1708-december-12"></a>バージョン 1708:12 月12日
+## <a name="version-1708-december-12"></a>バージョン 1708: 12 月 12 日
 *バージョン 1708 (ビルド 8431.2131)*
 
  ### <a name="excel-security-updates"></a>Excel: セキュリティの更新
@@ -52,7 +52,7 @@ ms.locfileid: "48370095"
 
 
 
-## <a name="version-1708-november-14"></a>バージョン 1708:11 月14日
+## <a name="version-1708-november-14"></a>バージョン 1708: 11 月 14 日
 *バージョン 1708 (ビルド 8431.2110)*
 
 ### <a name="access-non-security-updates"></a>Access: セキュリティ以外の更新プログラム
@@ -105,7 +105,7 @@ ms.locfileid: "48370095"
 
 
 
-## <a name="version-1708-october-10"></a>バージョン 1708:10 月10日
+## <a name="version-1708-october-10"></a>バージョン 1708: 10 月 10 日
 *バージョン 1708 (ビルド 8431.2107)*
 
 ### <a name="access-non-security-updates"></a>Access: セキュリティ以外の更新プログラム
@@ -151,7 +151,7 @@ ms.locfileid: "48370095"
 
 
 
-## <a name="version-1708-september-12"></a>バージョン 1708: 9 月12日
+## <a name="version-1708-september-12"></a>バージョン 1708: 9 月 12 日
 *バージョン 1708 (ビルド 8431.2079)*
 
 ### <a name="access-feature-updates"></a>Access: 機能の更新
@@ -194,7 +194,7 @@ ms.locfileid: "48370095"
 -   **新しいアカウントの構成:** 新しいウィザードによる新しいアカウントの設定では、手動の手順が少なくなりました。
 -   **リンクの添付ダイアログ:** リボンの [ファイルの添付] を使ってリンクを添付する場合、リンクとして追加するのか、添付ファイルとして追加するのかを選ぶことができます。このダイアログを毎回表示しないようにするには、[ファイル] \> [オプション] \> [全般] の順に移動して、[添付ファイルのオプション] でリンクの添付方法を指定します。
 -   **オンプレミスの添付ファイルのサポート:** オンプレミスの SharePoint Server からのファイルは最近使用したファイルとして [メッセージ] \> [添付ファイル] に表示され、オンプレミスの OneDrive for Business および SharePoint チーム サイトは [添付ファイル] \> [Web 上の場所を参照] に表示され、ローカル ファイルはオンプレミスの OneDrive for Business サイトにアップロードすることができます。
--   **グループのビジネスの分類:**  グループを作成または編集するとき、テナント管理者によって定義されたビジネスの分類レベル (例: 社外秘) を割り当てることができ、その分類はグループ ヘッダーに表示されます。
+-   **グループのビジネスの分類:**  グループを作成または編集するとき、テナント管理者によって定義されたビジネスの分類レベル (例: 社外秘) を割り当てることができ、その分類はグループ ヘッダーに表示されます。
 -   **Office 365 のグループへのゲスト アクセス:** 組織外のユーザーにグループ会話、ファイル、予定表への招待、グループ ノートブックへのアクセス権を付与し、共同作業を行います。 [詳細情報](https://support.office.com/article/bfc7a840-868f-4fd6-a390-f347bf51aff6)
 -   **操作可能なメッセージ:** 開発者は、ユーザーが外部の Web サイトまたは別のアプリに切り替えずに、Outlook から単純なアクションまたはクイック アクションを簡単に実行できるようにするメッセージを作成できます。[詳細情報](https://dev.office.com/blogs/create-more-engaging-conversations-with-new-actionable-messages-updates-announced-at-microsoft-build)
 
@@ -248,7 +248,7 @@ ms.locfileid: "48370095"
 -   [CVE-2017-8696](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8696): Microsoft Graphics コンポーネントのリモート コード実行
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: セキュリティ以外の更新プログラム
--   特定のポートがブロックされているか、IP がホワイトリストに登録されていない場合に、ユーザーが会議に参加できない理由を説明するダイアログを追加します。
+-   特定のポートがブロックされている場合、または AP が許可されていない場合に、ユーザーが会議に参加できない理由を説明するダイアログを追加します。
 -   IM 会話タブをクリックすると、常設チャット ルームの未読メッセージが既読としてマークされる問題を修正します。
 -   IM トーストを受信するときに数秒の遅延が生じる問題を修正します。
 -   Exchange との同期が無効である場合に、AD の連絡先で連絡先の名前の代わりに電話番号が表示される問題を修正します。
@@ -273,7 +273,7 @@ ms.locfileid: "48370095"
 -   会議に正常に参加するまで、空の会話ウィンドウが表示されないという問題を修正します。
 -   タイトル フィールドが空の場合、連絡先カードの部署フィールドの情報が検索結果で空になるという問題を修正します。
 -   ファイアウォール ルールにより、オンプレミスからオンラインに移行したユーザーについてサインインが失敗する問題を修正します。
--   ユーザーが LyncAutoD を実行して外部ネットワーク上のクライアントにサインインすると、クライアントが OAuthUsed レジストリ キーを false にリセットするという問題を修正するための新しい DWORD レジストリ キーを追加します。 この問題を解決するには、EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket の [HKEY \_ CURRENT \_ USER \\ Software \\ Microsoft \\ Office \\ 16.0 \\ Lync \\ \<SipID\> ] の下の値を1に設定します。
+-   ユーザーが LyncAutoD を実行して外部ネットワーク上のクライアントにサインインすると、クライアントが OAuthUsed レジストリ キーを false にリセットするという問題を修正するための新しい DWORD レジストリ キーを追加します。 問題を修正するには、HKEY\_CURRENT\_USER\\Software\\Microsoft\\Office\\16.0\\Lync\\\<SipID\> の下の EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket の値を 1 に設定します。
 
 ### <a name="visio-feature-updates"></a>Visio: 機能の更新
 -   **Excel データから図を作成します。** 新しいデータ ビジュアライザーのテンプレートを使用して、Excel データから基本フローチャートまたは部門連係フローチャートを自動的に作成します。 [詳細情報](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
@@ -313,7 +313,7 @@ ms.locfileid: "48370095"
 
 
 
-## <a name="version-1705-august-8"></a>バージョン 1705: 8 月8日
+## <a name="version-1705-august-8"></a>バージョン 1705: 8 月 8 日
 *バージョン 1705 (ビルド 8201.2171)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
@@ -325,7 +325,7 @@ ms.locfileid: "48370095"
 
 
 
-## <a name="version-1705-july-27"></a>バージョン 1705: 7 月27日
+## <a name="version-1705-july-27"></a>バージョン 1705: 7 月 27 日
 *バージョン 1705 (ビルド 8201.2158)*
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
@@ -346,7 +346,7 @@ ms.locfileid: "48370095"
 
 
 
-## <a name="version-1705-july-13"></a>バージョン 1705: 7 月13日
+## <a name="version-1705-july-13"></a>バージョン 1705: 7 月 13 日
 *バージョン 1705 (ビルド 8201.2136)*
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
@@ -375,12 +375,12 @@ ms.locfileid: "48370095"
 -   [CVE-2017-8570](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570): Microsoft Office のリモート コード実行の脆弱性
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
--   構成マネージャーを使用しているときに、Office 2013 の無人アップグレードが Office 2016 に失敗する原因となる問題を修正します。
+-   Configuration Manager を使用すると、2016 Office 2013 2016 Office無人アップグレードが失敗する問題を修正します。
 -   ストアから企業のカタログに展開された従来のアドインが読み込まれない問題の修正。
 
 
 
-## <a name="version-1705-june-13"></a>バージョン 1705: 6 月13日
+## <a name="version-1705-june-13"></a>バージョン 1705: 6 月 13 日
 *バージョン 1705 (ビルド 8201.2102)*
 
 ### <a name="access-feature-updates"></a>Access: 機能の更新
@@ -388,7 +388,7 @@ ms.locfileid: "48370095"
 -   **大きい数値 (bigint) のサポート:** Access テーブルで大きい数値データ型を使用して、大きい数値を計算したり、SQL Server の bigint などの同等のデータ型を使用する外部データベースへの関連付けや外部データベースからのインポートを行ったりします。 [詳細情報](https://blogs.office.com/2017/03/06/new-in-access-2016-large-number-bigint-support/)
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
--   **Windows 情報保護 (WIP) のサポート:**   Excel はなりアプリで、企業データと個人データを区別し、構成されたポリシーに基づいて保護する対象を正確に判断することができます。  [詳細情報](https://aka.ms/wiptechnet)
+-   **Windows Information Protection (WIP) のサポート:**   現在、Excel は対応アプリになり、企業データと個人データを区別し、構成されているポリシーに基づいてどれを保護するかを判断します。  [詳細情報](https://aka.ms/wiptechnet)
 -   **取得と変換の機能強化:** クエリ エディターで、サンプルの値を入力して、新しい列を作成します。入力すると、Excel で必要な変換が検出され、新しい列のプレビューが表示されます。
 -   **最近使ったリンクの挿入:** 最近使ったクラウドベースのファイルまたは Web サイトへのハイパーリンクを付け、スクリーン リーダーを使用する人にわかりやすい表示名を付けることが簡単にできるようになりました。 [詳細情報](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **既定のピボットテーブルのレイアウトをカスタマイズする:** ピボットテーブルを好きなように設定し、新しいピボットテーブルを作成するときはいつもそのレイアウトで始めるようにします。 [詳細情報](https://support.office.com/article/efd8569c-f07a-43c1-9db2-4f2912a0f94e)
@@ -402,7 +402,7 @@ ms.locfileid: "48370095"
 -   **ペンを使ったオブジェクトの選択や変更:** デジタル ペンでオブジェクト ハンドルをつかみ、サイズ変更、回転、移動などを行います。
 -   **マップ グラフ:** 異なる地理的領域間で値を比較し、カテゴリを表示します。 [詳細情報](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 -   **SVG 画像:** ブックにスケーラブル ベクター グラフィックス (SVG) を挿入して編集します。 [詳細情報](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **挿入アイコン:**  [図の挿入] アイコンを使用して、スケーラブルベクターグラフィックス (SVG) ファイルの標準ライブラリからアイコンを使用 \> \> します。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **アイコンの挿入:** [挿入] \> [イラスト] \> [アイコン] の順に移動して、スケーラブル ベクター グラフィックス (SVG) ファイルの標準ライブラリのアイコンを使用します。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **最近使用したフォルダーへの保存:** [ファイル] \> [名前を付けて保存] の順に移動し、[最近使用した項目] タブを使用して、最近使用したフォルダーにブックを保存します。
 -   **アクセシビリティ機能の向上:** ブックの読み取りと編集に、キーボード、ナレーター、その他の支援技術を使用するためのサポートが改善されました。[詳細情報](https://support.office.com/article/51fcb17a-b15b-4b13-ae04-d4f38ece3f78)
 
@@ -429,7 +429,7 @@ ms.locfileid: "48370095"
 -   段落が多数表示されている場合、OneNote キャンバスでコンテンツまたは更新プログラムが非表示になる問題を修正します。
 
 ### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
--   **Windows 情報保護 (WIP) のサポート:**   Outlook は現在、なりアプリであり、企業データと個人データを区別し、構成されたポリシーに基づいて保護する対象を正確に判断することができます。  [詳細情報](https://aka.ms/wiptechnet)
+-   **Windows Information Protection (WIP) のサポート:**   現在、Outlook は対応アプリになり、企業データと個人データを区別し、構成されているポリシーに基づいてどれを保護するかを判断します。  [詳細情報](https://aka.ms/wiptechnet)
 -   **最近使ったリンクの挿入:** 最近使ったクラウドベースのファイルまたは Web サイトへのハイパーリンクを付け、スクリーン リーダーを使用する人にわかりやすい表示名を付けることができるようになりました。 [詳細情報](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **Dubai フォント:** 西ヨーロッパ言語とアラビア文字を使用する主要言語の両方に対応しているフォント ファミリ。 [詳細情報](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **背景の削除:** 自由形式の描画ツールを使用して、画像の背景を削除します。
@@ -437,7 +437,7 @@ ms.locfileid: "48370095"
 -   **添付ファイルに対するアクセス許可の設定:** OneDrive または SharePoint の添付ファイルに関して、ユーザーは、組織内または組織外の受信者に添付ファイルに対する読み取りまたは編集のアクセス許可を付与するかどうかを設定できます。
 -   **ピン留め可能な作業ウィンドウ:** メールボックス内のメッセージ間の切り替え中に、アドインの作業ウィンドウを開いたままにします。 [詳細情報](https://blogs.msdn.microsoft.com/exchangedev/2017/01/26/pinnable-taskpane-in-outlook-2016/)
 -   **SVG 画像:** 電子メールにスケーラブル ベクター グラフィックス (SVG) を挿入して編集します。 [詳細情報](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **挿入アイコン:**  [図の挿入] アイコンを使用して、スケーラブルベクターグラフィックス (SVG) ファイルの標準ライブラリからアイコンを使用 \> \> します。  [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **アイコンの挿入:** [挿入] \> [イラスト] \> [アイコン] の順に移動して、スケーラブル ベクター グラフィックス (SVG) ファイルの標準ライブラリのアイコンを使用します。  [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム
 -   [CVE-2017-0106](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0106): Microsoft Outlook のリモート コード実行の脆弱性
@@ -454,14 +454,14 @@ ms.locfileid: "48370095"
 -   高 DPI を使用するコンピューターから送信されるメッセージ内の画像が真っ暗になる問題を修正します。
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新
--   **Windows 情報保護 (WIP) のサポート:**   PowerPoint はなりアプリで、企業データと個人データを区別し、構成されたポリシーに基づいて保護する対象を正確に判断することができます。  [詳細情報](https://aka.ms/wiptechnet)
+-   **Windows Information Protection (WIP) のサポート:**   現在、PowerPoint は対応アプリになり、企業データと個人データを区別し、構成されているポリシーに基づいてどれを保護するかを判断します。 [詳細](https://aka.ms/wiptechnet)
 -   **最近使ったリンクの挿入:** 最近使ったクラウドベースのファイルまたは Web サイトへのハイパーリンクを付け、スクリーン リーダーを使用する人にわかりやすい表示名を付けることができるようになりました。 [詳細情報](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **アドインの一元展開**: 管理者は、Office 365 の管理センターからユーザーまたはグループに対してアドインを展開し更新することができます。 [詳細情報](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
 -   **Dubai フォント:** 西ヨーロッパ言語とアラビア文字を使用する主要言語の両方に対応しているフォント ファミリ。 [詳細情報](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **背景の削除:** 自由形式の描画ツールを使用して、画像の背景を削除します。
 -   **SVG 画像:** プレゼンテーションにスケーラブル ベクター グラフィックス (SVG) を挿入して編集します。 [詳細情報](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **挿入アイコン:**  [図の挿入] アイコンを使用して、スケーラブルベクターグラフィックス (SVG) ファイルの標準ライブラリからアイコンを使用 \> \> します。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
--   **共同編集時のリアルタイム入力:** 他のユーザーがプレゼンテーションで作業している場所を確認し、入力した変更を表示します。 [詳細情報](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
+-   **アイコンの挿入:** [挿入] \> [イラスト] \> [アイコン] の順に移動して、スケーラブル ベクター グラフィックス (SVG) ファイルの標準ライブラリのアイコンを使用します。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **共同編集時のリアルタイム入力:** プレゼンテーションで他のユーザーが作業している場所を確認し、入力時に変更を表示します。 [詳細情報](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **最近使用したフォルダーへの保存:** [ファイル] \> [名前を付けて保存] の順に移動し、[最近使った項目] タブを使用して、最近使用したフォルダーにプレゼンテーションを保存します。
 -   **正確なインク図形の作成:** セグメント消しゴムをドラッグして、線のぎりぎりまで余分なインクを削除します。
 -   **ペンを使ったオブジェクトの選択と操作:** デジタル ペンを使ってオブジェクト ハンドルをつかみ、オブジェクトの移動、サイズ変更、回転を行うか、サポートされているペン ボタンを使って、インクのなげなわ選択を行います。
@@ -473,7 +473,7 @@ ms.locfileid: "48370095"
 
 ### <a name="project-feature-updates"></a>Project: 機能の更新
 -   **先行タスクを簡単に設定できるドロップダウン:** ガント チャートのドロップダウンを使用して、どの先行タスクまたは後続タスクをタスクにリンクさせるかを選択します。
--   **タスクサマリー名:**  タスクのサマリータスクの名前を示す読み取り専用のタスクフィールドです。  
+-   **Task Summary Name:**  Read-only task field that shows the name of the task’s summary task.  
 
 ### <a name="project-non-security-updates"></a>Project: セキュリティ以外の更新プログラム
 -   Project Online で各エンタープライズ プロジェクト テンプレート (EPT) がプロジェクト サイトの独自の URL を持つようになり、[プロジェクト サイトの作成] ダイアログがサイトの正しい場所を示すように修正されます。
@@ -515,7 +515,7 @@ ms.locfileid: "48370095"
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: 機能の更新
 -   **リンクの挿入:** IM およびグループ チャットにリンクを追加し、そのリンクを示すために完全な URL の代わりにわかりやすいテキストを指定します。
 -   **画面共有の通知:** IM の会話で画面を共有しているとき、または会議が終了した後に画面共有が継続されているときに、会話ウィンドウに通知が表示されます。この通知は、画面を共有していること、および [共有を停止] ボタンで簡単に共有を停止できることを示します。
--   **Windows Information Protection (WIP) のサポート:** Skype for Business は現在、WIP でのみ動作するアプリとしてサポートされています。Skype を許可されたアプリの一覧に追加すると、個人データが処理されないことが Windows に示されます。Windows は、Skype for Business の代わりにデータを保護します。  [詳細情報](https://aka.ms/wiptechnet)
+-   **Windows Information Protection (WIP) のサポート:** Skype for Business は現在、WIP でのみ動作するアプリとしてサポートされています。Skype を許可されたアプリの一覧に追加すると、個人データが処理されないことが Windows に示されます。Windows では Skype for Business に代わってデータが保護されます。 [詳細情報](https://aka.ms/wiptechnet)
 -   **パスワードのリセット オプション:** ユーザーがサインインに少なくとも 1 回失敗すると、サインイン ウィンドウにリセット ボタンのリンクが表示されます。
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: セキュリティ更新プログラム
@@ -564,15 +564,15 @@ ms.locfileid: "48370095"
 -   **スライド スニペット:** Visio 図面のスニペットを取得し、PowerPoint のスライドとしてエクスポートします。 [詳細情報](https://support.office.com/article/e7da404b-4208-49d1-9518-6fe1a4723657)
 
 ### <a name="word-feature-updates"></a>Word: 機能の更新
--   **Windows 情報保護 (WIP) のサポート:**   Word はなりアプリで、企業データと個人データを区別し、構成されたポリシーに基づいて保護する対象を正確に判断することができます。  [詳細情報](https://aka.ms/wiptechnet)
+-   **Windows Information Protection (WIP) のサポート:**  現在、Word は対応アプリになり、企業データと個人データを区別し、構成されているポリシーに基づいてどれを保護するかを判断します。  [詳細情報](https://aka.ms/wiptechnet)
 -   **最近使ったリンクの挿入:** 最近使ったクラウドベースのファイルまたは Web サイトへのハイパーリンクを付け、スクリーン リーダーを使用する人にわかりやすい表示名を付けることができるようになりました。 [詳細情報](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
--   アドイン**の一元展開**: 管理者は、Office 365 管理センターからユーザーまたはグループにアドインを展開し、更新することができます。  [詳細情報](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
+-   **アドインの一元展開**: 管理者は、Office 365 の管理センターからユーザーまたはグループに対してアドインを展開し更新することができます。  [詳細情報](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
 -   **Dubai フォント:** 西ヨーロッパ言語とアラビア文字を使用する主要言語の両方に対応しているフォント ファミリ。 [詳細情報](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **背景の削除:** 自由形式の描画ツールを使用して、画像の背景を削除します。
 -   **並べて表示:** 印刷レイアウト表示で、積み重ねられた紙のように横にスライドさせてページを移動します。 [詳細情報](https://support.office.com/article/21bfd0ff-0e1f-4c43-b188-8b36dfe6dcf4)
 -   **ペンを使ったオブジェクトの選択や変更:** デジタル ペンでオブジェクト ハンドルをつかみ、サイズ変更、回転、移動などを行います。
 -   **SVG 画像:** ドキュメントにスケーラブル ベクター グラフィックス (SVG) を挿入して編集します。 [詳細情報](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **挿入アイコン:**  [図の挿入] アイコンを使用して、スケーラブルベクターグラフィックス (SVG) ファイルの標準ライブラリからアイコンを使用 \> \> します。  [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **アイコンの挿入:** [挿入] \> [イラスト] \> [アイコン] の順に移動して、スケーラブル ベクター グラフィックス (SVG) ファイルの標準ライブラリのアイコンを使用します。  [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **最近使用したフォルダーへの保存:** [ファイル] \> [名前を付けて保存] の順に移動し、[最近使用した項目] タブを使用して、最近使用したフォルダーにドキュメントを保存します。
 -   **学習ツールでの閲覧機能の向上:** 閲覧モードでの新しいコマンドにより、文字間隔の調整、音節間の区切りの表示、およびドキュメントを音声で読み上げる際に各単語の強調表示が行われ、読み上げのスキルが向上しました。 [詳細情報](https://support.office.com/article/29efa413-e2da-4cac-b2a5-2defc6d34fd9)
 -   **図形の認識:** [描画] \> [図形に変換] を使って、描画を自動的に図形に変換します。 [詳細情報](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
@@ -581,8 +581,8 @@ ms.locfileid: "48370095"
 -   マイクロソフト セキュリティ情報 [MS17-014](https://technet.microsoft.com/library/security/ms17-014): Microsoft Office のセキュリティ更新プログラム (3217868)
 -   [CVE-2017-0254](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0254): Microsoft Office のメモリ破損の脆弱性
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): Microsoft Office のリモート コード実行の脆弱性
--   [CVE-2017-0292](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0292): Windows PDF のリモート コード実行の脆弱性 
--   [CVE-2017-8509](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8509): Microsoft Office のリモート コード実行の脆弱性  
+-   [CVE-2017-0292](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0292): Windows PDF のリモート コード実行の脆弱性 
+-   [CVE-2017-8509](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8509): Microsoft Office のリモート コード実行の脆弱性  
 
 ### <a name="word-non-security-updates"></a>Word: セキュリティ以外の更新プログラム
 -   ユーザーが PST ファイルを検索できないという問題を修正します。
@@ -599,7 +599,7 @@ ms.locfileid: "48370095"
 
 
 
-## <a name="version-1701-may-9"></a>バージョン 1701: 5 月9日
+## <a name="version-1701-may-9"></a>バージョン 1701: 5 月 9 日
 *バージョン 1701 (ビルド 7766.2084)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
@@ -625,7 +625,7 @@ ms.locfileid: "48370095"
 
 
 
-## <a name="version-1701-april-11"></a>バージョン 1701: 4 月11日
+## <a name="version-1701-april-11"></a>バージョン 1701: 4 月 11 日
 *バージョン 1701 (ビルド 7766.2076)*
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
@@ -649,7 +649,7 @@ ms.locfileid: "48370095"
 
 
 
-## <a name="version-1701-march-14"></a>バージョン 1701: 3 月14日
+## <a name="version-1701-march-14"></a>バージョン 1701: 3 月 14 日
 *バージョン 1701 (ビルド 7766.2071)*
 
 ### <a name="access-non-security-updates"></a>Access: セキュリティ以外の更新プログラム
@@ -688,7 +688,7 @@ ms.locfileid: "48370095"
 
 
 
-## <a name="version-1701-february-22"></a>バージョン 1701: 2 月22日
+## <a name="version-1701-february-22"></a>バージョン 1701: 2 月 22 日
 *バージョン 1701 (ビルド 7766.2060)*
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
@@ -789,7 +789,7 @@ ms.locfileid: "48370095"
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: 機能の更新
 -   **Windows の通知スタイル:** 着信と会話の通知の外観を変更します。 [詳細情報](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/New-Skype-for-Business-2016-on-Windows-Notifications-look-and/ba-p/39885)
--   **提案転送:** 通話内から、そのユーザーに通話を転送する前に、IM または通話を使用して他のユーザーと連絡を行います。 [詳細情報](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
+-   **コンサルティング転送:** 呼び出しの中から、IM を介して別のユーザーに相談するか、そのユーザーに通話を転送する前に呼び出しを行います。 [詳細情報](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
 -   **マイク通知:** オペレーティング システムでマイクがミュート状態の場合、またはマイクが音声を受信していない場合は、会話ウィンドウに通知を表示します。
 -   **[自分の番号] の無効化:** DisableDisplayMyNumber レジストリ エントリを使用して、ダイヤル パッドの下の “自分の番号” を無効にします。
 
@@ -820,7 +820,7 @@ ms.locfileid: "48370095"
 -   Polycom CX100 デバイスを使用している場合に、発信でマイクが検出されないという問題を修正します。
 -   IM メッセージで \\\\サーバー名またはファイル:// などのリンクを選択すると、対象の場所が開くのではなくエラー メッセージが表示されるという問題を修正します。
 -   場所に基づいたルーティングを使用する仮想デスクトップ インフラストラクチャ (VDI) 環境で、サーバーがユーザーの場所では PSTN 通話を行えないと判断し、PSTN 通話の発信/受信を行えないという問題を修正します。
--   不在着信したメッセージに対して送信された電子メールの件名を変更します。ユーザーの状態が [応答不可] または [表示しない] に設定されている場合、"不在着信した会話は、 \<name\> \<Name\> Skype for business でメッセージを送信しました" ということです。
+-   ユーザーの状態が [通知しない] または [表示しない] に設定されている場合に、メッセージが見つからない場合に送信されるメールの件名を [会話の欠落] から [Skype for Business でメッセージを送信しました] に変更 \<name\> \<Name\> します。
 -   全数調査データの一環としてデバイスに初めてサインインしたときのタイムスタンプの [キャプチャを開始します。](https://docs.microsoft.com/skypeforbusiness/legal-and-regulatory/data-collection-practices) サインインの信頼性の傾向を特定するのに役立ちます。
 -   Windows 10 バージョン 1607 (Anniversary Update とも呼ばれる) の特定のモニター構成で、セカンダリ モニターを共有するオプションが表示されない問題を修正します。
 -   共有先がサード パーティ製の RDP 実装を使用している場合に共有コンテンツにズームすると、Skype for Business がクラッシュする問題を修正します。
@@ -909,14 +909,14 @@ ms.locfileid: "48370095"
 -   Office ドキュメントに SVG 画像を挿入し、その後ドキュメントを保存してから再び開くと、SVG 画像が表示されなくなるという問題を修正します。
 -   Fix an issue where Office shows the following error message during activation for non-English users: "The maximum length of the product key is 25 characters."
 -   フレームの Z オーダーが機能しなくなる、または正しく表示されなくなる可能性のある VBA フォームに関する問題を修正します。
--   Configuration Manager によってトリガーされるの更新プログラムによって、レジストリの UpdateChannel 設定が有効な更新プログラムチャネルではないものに変更されるという問題を修正します。
+-   Configuration Manager によってトリグされた更新プログラムが、レジストリの UpdateChannel 設定を有効な更新チャネルではない更新プログラムに変更する問題を修正します。
 
 
 
-## <a name="version-1609-january-10"></a>バージョン 1609: 1 月10日
+## <a name="version-1609-january-10"></a>バージョン 1609: 1 月 10 日
 *バージョン 1609 (ビルド 7369.2102)*
 
-注: 「Microsoft セキュリティ情報 [MS17-002](https://technet.microsoft.com/library/security/ms17-002) 」に記載されているセキュリティ更新プログラムは、このチャネルリリースの Word のバージョンには適用されません。
+注: Microsoft Security Bulletin [MS17-002](https://technet.microsoft.com/library/security/ms17-002) で説明されているセキュリティ更新プログラムは、このチャネル リリースの Word のバージョンには適用されません。
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
 -   [メジャーの編集] ダイアログ ボックスを使用すると Excel がクラッシュする問題を修正します。

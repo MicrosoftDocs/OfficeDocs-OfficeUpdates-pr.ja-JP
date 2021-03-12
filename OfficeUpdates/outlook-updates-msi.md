@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 永続的なバージョンの Outlook 2016、Outlook 2013、Outlook 2010 の最新の更新プログラムに関する情報へのリンクを IT 技術者に提供します
-ms.openlocfilehash: a5a93fe9f382690a37f053452d112a91a5bb8a60
-ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
+ms.openlocfilehash: 8d3541747f9a650c1cb45121dcfcaac6dbabc53f
+ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50173766"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50595541"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Windows インストーラー (MSI) を使用しているバージョンの Outlook の最新の更新プログラム
 
@@ -43,13 +43,13 @@ Microsoft 365 と使用しているオンプレミス環境との Outlook の互
 
 |**最新の Service Pack (SP)**|**最低限必要な更新プログラム**|**最新のパブリック更新プログラム (PU)**|
 |:-----|:-----|:-----|
-|該当なし  <br/> |2016 年 3 月 PU <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |2021 年 2 月 PU <br/>[KB4493190](https://support.microsoft.com/help/4493190) 
+|該当なし  <br/> |2016 年 3 月 PU <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |2021 年 3 月 PU <br/>[KB4493226](https://support.microsoft.com/help/4493226) 
 
 ## <a name="outlook-2013-updates"></a>Outlook 2013 更新プログラム
 
 |**最新の Service Pack (SP)**|**最低限必要な更新プログラム**|**最新のパブリック更新プログラム (PU)**|
 |:-----|:-----|:-----|
-|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |2015 年 12 月 PU <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |2020年12月 PU <br/>[KB4486732 ](https://support.microsoft.com/help/4486732 )  |
+|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |2015 年 12 月 PU <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |2021 年 3 月 PU <br/>[KB4493174](https://support.microsoft.com/help/4493174 )  |
    
 ## <a name="outlook-2010-updates"></a>Outlook 2010 更新プログラム
 > [!IMPORTANT]

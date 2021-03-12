@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft Officeセキュリティ更新プログラムのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 51cdd72d39d45d67069dde69bf3a0d5cf4bd90e6
-ms.sourcegitcommit: b015407aa6693d879f11025b40a7b45424753f99
+ms.openlocfilehash: f260cdf331ad730f8fade30fc64e76fa79a5df58
+ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50177939"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50595561"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Microsoft Office セキュリティ更新プログラムのリリース ノート
 
@@ -31,6 +31,44 @@ ms.locfileid: "50177939"
  
 
 [//]: # (上の行は間隔を空けるために使用されているので、削除しないでください。)  
+
+## <a name="march-09-2021"></a>2021 年 3 月 9 日
+最新チャネル: バージョン 2102 (ビルド 13801.20294)  
+月次エンタープライズ チャネル: バージョン 2101 (ビルド 13628.20528)  
+月次エンタープライズ チャネル: バージョン 2012 (ビルド 13530.20628)  
+半期エンタープライズ チャネル (プレビュー): バージョン 2102 (ビルド 13801.20294)  
+半期エンタープライズ チャネル (プレビュー): バージョン 2008 (ビルド 13127.21348)  
+半期エンタープライズ チャネル: バージョン 2002 (ビルド 12527.21686)  
+Windows 7 上の Microsoft 365 Apps: バージョン 2002 (ビルド 12527.21686)  
+Office 2019 リテール版: バージョン 2102 (ビルド 13801.20294)  
+Office 2016 リテール版: バージョン 2102 (ビルド 13801.20294)  
+Office 2019 ボリューム ライセンス: バージョン 1808 (ビルド 10372.20060)  
+
+[//]: # (セキュリティの詳細コンテンツを削除しないでください。開始)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-27054](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2021-27054)
+-   [CVE-2021-27057](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2021-27057)
+-   [CVE-2021-27053](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2021-27053)
+
+### <a name="powerpoint"></a>PowerPoint
+
+-   [CVE-2021-27056](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2021-27056)
+
+### <a name="visio"></a>Visio
+
+-   [CVE-2021-27055](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2021-27055)
+
+### <a name="office-suite"></a>Office スイート
+
+-   [CVE-2021-27058](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2021-27058)
+-   [CVE-2021-24108](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2021-24108)
+
+[//]: # (セキュリティの詳細コンテンツを削除しないでください。終了)
+
+
 
 ## <a name="february-09-2021"></a>2021 年 2 月 9 日
 現在のチャネル: バージョン 2101 (ビルド 13628.20380)  
