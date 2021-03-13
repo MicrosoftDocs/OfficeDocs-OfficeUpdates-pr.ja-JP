@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の月次エンタープライズ チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: e3ad3bb5d2265b8aa56346e87c1a835d52c6e579
-ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
+ms.openlocfilehash: 729d6b9bd7d549522386c8f2b11c4d3b6761d117
+ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50595571"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50735192"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>2020 年の月次エンタープライズ チャネル リリースのリリース ノート
 
@@ -122,6 +122,8 @@ ms.locfileid: "50595571"
 
 - **すべてのオンライン会議:** 予定表設定を更新して、既定で Teams 会議を作成するすべての会議を作成します。これにより、Teams 会議オプションをクリックする必要がなくなります。
 
+- **新しい会議室の検索機能:** これまでと違うさまざまな機能で会議室を検索できます。
+
 ### <a name="powerpoint"></a>PowerPoint
 
 - **SVG クリップボードのサポート:** Office からサードパーティのアプリに SVG コンテンツを貼り付けることができるようになりました。 [詳細情報](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/svg-content-office-third-party-apps)の詳細情報をご覧ください
@@ -129,6 +131,10 @@ ms.locfileid: "50595571"
 - **秘密度ラベル監査ログ:** ユーザーが、ドキュメントやメールで秘密度ラベルを適用、変更、削除すると、管理者は、その情報を Microsoft 365 監査ログで使用できるようになります。
 
 - **政府機関のお客様: ドキュメントおよびメールに秘密度ラベルを適用する:** GCC および GCC-H 環境のお客様は、秘密度のラベル付け機能を利用できるようになりました。 [詳細情報](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+### <a name="visio"></a>Visio
+
+- **新しい Azure ステンシルと図形:** 最新の Azure 図を作成するために、多くのステンシルを追加しました。 [詳細情報](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 
 ### <a name="word"></a>Word
 
@@ -241,6 +247,7 @@ ms.locfileid: "50595571"
 
 - **Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。 [ファイル] > [アカウント] の順に移動し、[Office テーマ] ドロップダウンで [システム設定を使用する] を選択します。 [詳細情報](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
+
 ### <a name="powerpoint"></a>PowerPoint
 
 - **ビデオ ライブラリ:** アプリ内で利用可能な、質の良い無料のビデオ フッテージのライブラリを使用してドキュメントの質を高めます。
@@ -348,6 +355,11 @@ ms.locfileid: "50595571"
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2010-january-12"></a>バージョン 2010: 1 月 12 日
+*バージョン 2010 (ビルド 13328.20550)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-2010-december-08"></a>バージョン 2010: 12 月 08 日
 *バージョン 2010 (ビルド 13328.20478)*
@@ -657,6 +669,8 @@ ms.locfileid: "50595571"
 - **PDF に接続:** PDF からデータに接続、インポート、更新します。 [詳細情報](https://support.office.com/article/be4330b3-5356-486c-a168-b68e9e616f5a)
 
 - **図形を画像として保存する:** 簡単なクリック操作で図形、アイコン、その他のオブジェクトを画像ファイルとして保存し、別の場所で再利用することができます。 [詳細情報](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+- **Excel で洗練された Visio 図を作成する:** ワークシートにデータを入力して、フロー チャートまたは組織図を作成します。 [詳細情報](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 ### <a name="outlook"></a>Outlook
 

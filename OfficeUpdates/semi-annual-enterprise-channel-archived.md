@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の半期チャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: 9947b1ffc822b5f9fd578bb991cb1b5898c2a560
-ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
+ms.openlocfilehash: ac826a441d961f8215a9d6f088fe7e5429ff8425
+ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49760746"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50735211"
 ---
 # <a name="archived-release-notes-for-semi-annual-enterprise-channel"></a>半期エンタープライズ チャネルのアーカイブ済みリリース ノート
 
@@ -380,7 +380,7 @@ ms.locfileid: "49760746"
 - 顧客の連絡先カード上の画像の読み込み中にクラッシュが発生する原因となった問題に対処します。
 - 一部の顧客がOffice アプリケーションの起動時にクラッシュするという問題に対処します。
 - システムタスクバーを画面の左または上に置いたときにウィンドウが正しい場所に表示されない問題を修正しました。
-- 移行されたアイテムの一部のフィールドをお客様が編集できなくなる問題が解決されました。
+- 移行されたアイテムの一部のフィールドを顧客が編集できない問題が解決されました。
 
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: セキュリティ以外の更新プログラム
@@ -719,7 +719,8 @@ ms.locfileid: "49760746"
 
 ### <a name="office-suite-security-update"></a>Office スイート: セキュリティ更新プログラム
 
-- **セキュリティ上の理由から、Office での Flash、Silverlight、および Shockwave のコントロールのアクティブ化がブロックされる:** セキュリティ上の理由から、Windows 上の Microsoft Office for Office 365 の新しいビルドでは、Flash、Silverlight、および Shockwave のコントロールのアクティブ化がブロックされます。詳細については、[こちら](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)および [こちら](https://support.office.com/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1)をご覧ください。
+- 
+  **セキュリティ上の理由から、Office での Flash、Silverlight、および Shockwave のコントロールのアクティブ化がブロックされる:** セキュリティ上の理由から、Windows 上の Microsoft Office for Office 365 の新しいビルドでは、Flash、Silverlight、および Shockwave のコントロールのアクティブ化がブロックされます。詳細については、[こちら](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)および[こちら](https://support.office.com/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1)をご覧ください。
  
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 - 特定のシナリオで更新プログラムのインストールが長くかかる原因となった問題を修正しました。
@@ -1600,7 +1601,7 @@ ms.locfileid: "49760746"
 -   [CVE-2017-8696](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2017-8696): Microsoft Graphics コンポーネントのリモート コード実行
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: セキュリティ以外の更新プログラム
--   特定のポートがブロックされているか、IP がホワイトリストに登録されていない場合に、ユーザーが会議に参加できない理由を説明するダイアログを追加します。
+-   特定のポートがブロックされているか、IP が許可されていない場合に、ユーザーが会議に参加できない理由を説明するダイアログを追加します。
 -   IM 会話タブをクリックすると、常設チャット ルームの未読メッセージが既読としてマークされる問題を修正します。
 -   IM トーストを受信するときに数秒の遅延が生じる問題を修正します。
 -   Exchange との同期が無効である場合に、AD の連絡先で連絡先の名前の代わりに電話番号が表示される問題を修正します。

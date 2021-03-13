@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の月次チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 95b197a91dda728899ddebc6825fcd042180e805
-ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
+ms.openlocfilehash: f6d99e8a1f14403d96f481db795362c56448c8bc
+ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50595651"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50735162"
 ---
 # <a name="release-notes-for-current-channel"></a>現在のチャネルのリリース ノート
 
@@ -88,7 +88,8 @@ ms.locfileid: "50595651"
 
 - **更新された連絡先リスト ビュー:** 連絡先リストにメール アドレスと更新された写真とテキストのサイズが表示されるようになりました。
 
-- **組み込みの翻訳機能を使用して、言語の壁を取り除く:** 翻訳用のアドインは必要なくなりました。 メッセージを右クリックすると、特定の単語、語句、またはメッセージ全体を翻訳できます。 [詳細情報](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
+- **組み込みの翻訳機能を使用して、言語の壁を取り除く:** 翻訳用のアドインは必要なくなりました。 これで、Outlook で Intelligent Translator を使用できます。 別の言語のメールを受信した場合、Outlook でそのメールを既定の言語に翻訳するかどうかを確認するメッセージが、メッセージ上部に表示されます。
+また、右クリックすると、特定の単語、語句、またはメッセージ全体を翻訳できます。 [詳細情報](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -344,9 +345,15 @@ ms.locfileid: "50595651"
 
 - **クラウドでの Outlook の設定** [自動応答]、[優先受信トレイ]、[プライバシー] などの Outlook for Windows の設定を選択し、任意の PC でアクセスできるようにします。
 
+- **新しい会議室の検索機能:** これまでと違うさまざまな機能で会議室を検索できます。
+
 ### <a name="powerpoint"></a>PowerPoint
 
 - **プレゼンター コーチでプレゼンテーションのリハーサルを行う:** 話す速度、ピッチ、つなぎ語、機微な表現など、聴衆の関心を引きつけておくのに役立つ内容についてフィードバックを受けます。 [詳細情報](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
+
+### <a name="visio"></a>Visio
+
+- **新しい Azure ステンシルと図形:** 最新の Azure 図を作成するために、多くのステンシルを追加しました。 [詳細情報](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -964,6 +971,8 @@ ms.locfileid: "50595651"
 ### <a name="excel"></a>Excel
 
 - **固定フォルダーに保存する:** フォルダーをピン留めすると、Office ファイルの保存が簡単になります。 ユーザーは新しいファイルが保存されるときに使用可能なフォルダーをより詳細に制御したいとのフィードバックを受けました。 新しい機能が追加されました。 [保存] ダイアログ ボックスでフォルダーをピン留めできます。 この新しい機能により、Word、Excel、PowerPoint のファイルを簡単に保存できます。 [詳細情報](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />[ブログの投稿](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)の詳細情報をご覧ください
+
+- **Excel で洗練された Visio 図を作成する:** ワークシートにデータを入力して、フロー チャートまたは組織図を作成します。 [詳細情報](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 ### <a name="outlook"></a>Outlook
 

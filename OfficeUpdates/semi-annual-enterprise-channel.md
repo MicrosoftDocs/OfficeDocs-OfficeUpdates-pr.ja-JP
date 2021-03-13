@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の半期チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 9e642912dd77ac1e61683ce3021a2d5ee2c5ec56
-ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
+ms.openlocfilehash: 99828dc0f08c9fb065a92620acee2a1b5e856b9e
+ms.sourcegitcommit: d7b61837c922993e563c83df547d865c6715517b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50595691"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "50741650"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>半期エンタープライズ チャネルのリリース ノート
 
@@ -190,7 +190,7 @@ ms.locfileid: "50595691"
 
 - **所有しているグループにメールをドラッグ:** メッセージや会話を受信トレイからドラッグして移動し、コピーします。 ドラッグしたメッセージは、すべてのグループ メンバーと共有されます。<br />[ブログの投稿](https://blog-insider.office.com/2020/03/02/drag-messages-from-your-personal-inbox-to-the-group-mailbox/)の詳細情報をご覧ください
 
-- **受信トレイを離れずに会議に参加する:** オンライン会議に参加するために、予定表に切り替える必要はありません。 [To Do] ウィンドウに固定された予定表を使用して、ワンクリックで任意の会議に参加します。 [詳細情報](https://support.office.com/article/d8baa9d5-0645-41b8-9f36-b498a6c36064 )
+- **受信トレイを離れずに会議に参加する:** オンライン会議に参加するために、予定表に切り替える必要はありません。 予定表を To Do ウィンドウに固定すると、Exchange Server 2019 または Exchange Online でホストされているユーザー アカウントは、ワンクリックで任意の会議に参加できます。 [詳細情報](https://support.office.com/article/d8baa9d5-0645-41b8-9f36-b498a6c36064 )
 
 - **キャプティブ WiFi ネットワークの新しいエクスペリエンス**: サインインに Web ページを必要とする WiFi ネットワークに参加したことはありませんか ? Outlook はこれを検出し、接続を支援します。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/outlook-on-public-wi-fi-networks-just-got-easier)の詳細情報をご覧ください
 
