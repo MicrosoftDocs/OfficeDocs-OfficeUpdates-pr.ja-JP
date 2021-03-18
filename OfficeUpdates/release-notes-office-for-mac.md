@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Microsoft 365 Apps サブスクライバー向け Office for Mac のリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: e671d6d2520edde125287179c49c1556914b3ab8
-ms.sourcegitcommit: 75e6b1f2f564b32969be80e0594e8055a2c4f34c
+ms.openlocfilehash: 556b790add09ff23d2a3c885ddd6c0a49e534a02
+ms.sourcegitcommit: 39d26fb1a6f01b0a2da9c33530de5479fbac1084
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50425745"
+ms.lasthandoff: 03/17/2021
+ms.locfileid: "50837525"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac のリリース ノート
 
@@ -53,6 +53,45 @@ Microsoft 365 サブスクリプションに付属する Office for Mac は、�
 
 
 
+
+
+
+## <a name="march-16-2021"></a>2021 年 3 月 16 日
+*バージョン16.47 (ビルド 21031401)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="excel"></a>Excel
+
+- **複数のシートを同時に再表示する:** 一度に再表示できるのが、1枚のシートだけではなくなりました。複数の非表示シートを一度に表示します。 [詳細情報](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+
+- **Excel のデータ型を使用して Power BI から組織のデータを取得する:** Excel のデータ型を使用して、組織からデータを挿入できます。 ブックのセルを変換して追加情報を取得し、必要なときにいつでもデータを更新します。
+
+### <a name="powerpoint-mac"></a>PowerPoint Mac
+
+- **新しく強化されたスライド ショーの記録を使用してプレゼンテーションを記録する:** スライド ショーの記録の機能により、発表者のビデオ、インク、レーザー ポインターの記録がサポートされるようになりました。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/record-slide-show-updates-powerpoint-mac)の詳細情報をご覧ください
+
+### <a name="word"></a>Word
+
+- **音声コマンドでドキュメントをディクテーションする:** 新しいディクテーション ツール バー、音声コマンド、および自動句読点の機能により、音声で素早く、簡単にコンテンツの作成が行えます。 [詳細情報](https://support.office.com/article/3876e05f-3fcc-418f-b8ab-db7ce0d11d3c)
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+
+[//]: # (セキュリティの詳細コンテンツを削除しないでください。開始)
+
+
+### <a name="security-updates"></a>セキュリティ更新プログラム
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-27054](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2021-27054)
+-   [CVE-2021-27057](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2021-27057)
+
+[//]: # (セキュリティの詳細コンテンツを削除しないでください。終了)
 
 ## <a name="february-16-2021"></a>2021 年 2 月 16 日
 *バージョン 16.46 (ビルド 21021202)*
