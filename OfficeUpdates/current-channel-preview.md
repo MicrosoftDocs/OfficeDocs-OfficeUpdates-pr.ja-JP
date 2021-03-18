@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに新機能、修正プログラム、または既知の問題の最新リストを提供します
-ms.openlocfilehash: 64fa879f8279057f7e768c6743568516cb8046dc
-ms.sourcegitcommit: d7b61837c922993e563c83df547d865c6715517b
+ms.openlocfilehash: f2b162d7f9195efb4ad58d37ce15642307b5696b
+ms.sourcegitcommit: f17a5deca413fadd5cd18bca76e9d4e740715a07
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50741640"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "50829231"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 向けリリース ノートの最新チャネル (プレビュー)
 
@@ -28,6 +28,38 @@ ms.locfileid: "50741640"
 > - Microsoft Teams の機能は、リリース頻度が高いため、最新チャネル プレビュー版とは異なる場合があります。
 
 [//]: # (削除しないでください)
+
+## <a name="version-2103-march-15"></a>バージョン 2103: 3 月 15 日
+*バージョン 2103 (ビルド 13901.20170)*
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="project"></a>Project
+
+- 終了時に Visio が動作を停止する問題を修正しました。
+
+
+### <a name="visio"></a>Visio
+
+- 終了時に Visio が動作を停止する問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2103-march-12"></a>バージョン 2103: 3 月 12 日
+*バージョン 2103 (ビルド 13901.20148)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="teams"></a>Teams
+
+- **外出中の状態** 勤務時間外や休暇中のため、チャット メッセージに返信できないことを他のユーザーに知らせるメッセージを設定します。 "外出中の状態"は、Outlook カレンダーの自動応答とも同期されます。
+
+[//]: # (削除しないでください)
+
 
 ## <a name="version-2103-march-11"></a>バージョン 2103: 3 月 11 日
 *バージョン 2103 (ビルド 13901.20148)*
