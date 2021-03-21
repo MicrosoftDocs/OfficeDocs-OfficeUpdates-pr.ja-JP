@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT プロフェッショナルに、Microsoft AutoUpdate (MAU) のリリース履歴を提供します
-ms.openlocfilehash: 3ce9f8f366510103d47ae34dad4dffa060d5dccd
-ms.sourcegitcommit: ab151c4f3172c007249a556fa02854b0765d24b9
+ms.openlocfilehash: be0b124f22f53cb26742242ac48a62adf75d93f7
+ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50421372"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902202"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) のリリース履歴
  
@@ -29,6 +29,22 @@ ms.locfileid: "50421372"
 > - Microsoft AutoUpdate は、Microsoft のさまざまな Mac 製品への更新プログラムを提供します。そのため、Office for Mac を実行していない場合でも、Microsoft AutoUpdate を更新する通知が表示される場合があります。
 
 リリース ノートを確認するには、「[リリース ノート](release-notes-office-for-mac.md)」を参照してください。<br/><br/>
+
+## <a name="march-2021-release"></a>2021 年 3 月リリース
+
+**リリース日:** 2021 年 3 月 17 日
+
+*Microsoft AutoUpdate 4.33*
+
+**バグの修正と強化された機能:**
+- MAU が更新プログラムをチェックしている際の MAU GUI の [チェック中] ボタンが無効になりました。
+- "更新は既に進行中です" というメッセージに追加情報が表示されるようになりました。
+- 更新プログラムのダウンロード中に、MAU UI に正確な更新サイズが表示されます。
+- MAU は、Rosetta を使用することなく M1 を搭載した macOS デバイスにインストールできるようになりました。
+
+[Microsoft AutoUpdate 4.33 パッケージをダウンロードする](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.33.21031401_Updater.pkg)<br/>
+<br/>
+**SHA-256 ハッシュ:** 8B851FD35B8172AB3220592E68ABCD6C302A55336FD7E9F8B5511683B372E7E1
 
 ## <a name="february-2021-release"></a>2021 年 2 月リリース
 
@@ -178,8 +194,8 @@ E81CEADF900A0C7E7D593720D08146DBC1C55868D5B21C7E7A175AA36DFE0178
 **バグの修正と強化された機能:**
 - アプリの終了を検出し、"アプリを開く" に関して表示されたダイアログを自動的に削除します。
 - 4 月のリリースで導入された、自動更新をオフにしているユーザーに Microsoft AutoUpdate UI が週に 1 回だけ表示される機能が元に戻されました。
-- 更新プログラムをダウンロードした後、インストールを開始する前に Update Assitant が終了する問題が修正されました。
-- ユーザー通知が保留になっているときに、長期間経過しても Update Assistant が終了しないという問題が修正されました。
+- 更新プログラムをダウンロードした後、インストールを開始する前に、更新アシスタントが予期せず終了する問題が修正されました。
+- ユーザー通知の保留が長時間続いた後、更新アシスタントが終了しないという問題が修正されました。
 - インストール後に MAU UI が再度開いた (または再度開かなかった) 問題が修正されました。 MAU UI 自体から更新プログラムを開始した場合、またはユーザーが (Finder、Terminal などを経由して) 明示的に更新プログラムを開始した場合は、インストール後に UI が開きます。
 
 **SHA-256 ハッシュ:**
