@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Microsoft 365 Apps サブスクライバー向け Office for Mac のリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 556b790add09ff23d2a3c885ddd6c0a49e534a02
-ms.sourcegitcommit: 39d26fb1a6f01b0a2da9c33530de5479fbac1084
+ms.openlocfilehash: d62ae78e877444b44b16b7107a1417ad2c68b286
+ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2021
-ms.locfileid: "50837525"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902196"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac のリリース ノート
 
@@ -68,7 +68,7 @@ Microsoft 365 サブスクリプションに付属する Office for Mac は、�
 
 - **Excel のデータ型を使用して Power BI から組織のデータを取得する:** Excel のデータ型を使用して、組織からデータを挿入できます。 ブックのセルを変換して追加情報を取得し、必要なときにいつでもデータを更新します。
 
-### <a name="powerpoint-mac"></a>PowerPoint Mac
+### <a name="powerpoint"></a>PowerPoint
 
 - **新しく強化されたスライド ショーの記録を使用してプレゼンテーションを記録する:** スライド ショーの記録の機能により、発表者のビデオ、インク、レーザー ポインターの記録がサポートされるようになりました。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/record-slide-show-updates-powerpoint-mac)の詳細情報をご覧ください
 

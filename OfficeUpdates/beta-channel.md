@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 2fccb4fde69a5755ca114baf6536ed0e8722f426
-ms.sourcegitcommit: 8491216d5901156e5e158f6eac33141882c53e8f
+ms.openlocfilehash: de8740891378ab34cb7944fff94aaf204d27e43c
+ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50756263"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902142"
 ---
 # <a name="release-notes-for-beta-channel"></a>ベータ チャネルのリリース ノート
 
@@ -30,6 +30,36 @@ ms.locfileid: "50756263"
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2104-march-19"></a>バージョン 2104: 3 月 19 日
+*バージョン 2104 (ビルド 13913.20000)*
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="access"></a>Access
+
+- SQL Server パススルー クエリを実行すると、"無効なカーソル状態" があったことを示すエラー メッセージが表示されることがある問題がこの変更により修正されます。
+
+
+### <a name="excel"></a>Excel
+
+- 保護されたシートに数式として貼り付けることができない問題を修正しました。
+
+
+### <a name="project"></a>Project
+
+- 日付の形式が W4/4 の場合、日付の選択に間違った日と年が表示されることがある問題を修正しました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- Office での GDI + LineJoinMiterClipped のサポートに関する問題を修正します。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2104-march-12"></a>バージョン 2104: 3 月 12 日
 *バージョン 2104 (ビルド 13906.20000)*
@@ -2706,6 +2736,7 @@ ms.locfileid: "50756263"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13913.20000|version-2104-march-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13906.20000|version-2104-march-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13901.20036|version-2103-march-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13819.20006|version-2103-february-26|)
@@ -2715,5 +2746,4 @@ ms.locfileid: "50756263"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13721.20008|version-2102-january-29|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13714.20000|version-2102-january-22|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13707.20008|version-2102-january-15|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13704.20000|version-2102-january-08|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)
