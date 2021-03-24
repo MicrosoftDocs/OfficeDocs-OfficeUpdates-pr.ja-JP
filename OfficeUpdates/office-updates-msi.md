@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 永続的なバージョンの Office 2016、Office 2013、Office 2010 の最新の更新プログラムの情報へのリンクを IT 技術者に提供します
-ms.openlocfilehash: 39d497c714588d5ca31e8c4fbf8e3157545b4e90
-ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
+ms.openlocfilehash: a0bc255deaf46ffab63899468deaab9289689d47
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50595501"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169696"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Windows インストーラー (MSI) を使用しているバージョンの Office の最新の更新プログラム
 
@@ -41,7 +41,7 @@ ms.locfileid: "50595501"
    
 ## <a name="office-2010-updates"></a>Office 2010 の更新プログラム
 > [!IMPORTANT]
-> Office 2010 のサポートは、2020 年 10 月 13 日に終了しました。 Office 2010 環境のアップグレードをまだ開始していない場合は、今すぐ開始することをお勧めします。 詳細については、[Office 2010 のサポート終了ロードマップ](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap)を参照してください。 
+> Office 2010 のサポートは、2020 年 10 月 13 日に終了しました。 Office 2010 環境のアップグレードをまだ開始していない場合は、今すぐ開始することをお勧めします。 詳細については、[Office 2010 のサポート終了ロードマップ](/DeployOffice/office-2010-end-support-roadmap)を参照してください。 
 
 |**バージョンと製品**|**最新の Service Pack (SP)**|**最新のパブリック更新プログラム (PU)**|
 |:-----|:-----|:-----|:-----|

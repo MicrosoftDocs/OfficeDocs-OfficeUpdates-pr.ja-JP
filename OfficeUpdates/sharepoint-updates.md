@@ -13,12 +13,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: SharePoint Server 2016、SharePoint 2013、および SharePoint 2010 の更新プログラムを 1 か所で検索および管理できます。このページのリンクを使用して、更新プログラムに関する詳細な情報を取得し、更新プログラムをダウンロードしてください。
-ms.openlocfilehash: e9187ff0773046586409e63904b3be303dc4f222
-ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
+ms.openlocfilehash: ebcdf333a3c9a8cd934508a51159eaa7cb2a278c
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50595671"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170246"
 ---
 # <a name="sharepoint-updates"></a>SharePoint 更新プログラム
 
@@ -323,20 +323,20 @@ SharePoint 更新プログラムだけでなく、SharePoint が依存してい�
 - SharePoint での Windows Server AppFabric
   
   - [AppFabric](https://msdn.microsoft.com/library/aa139641.aspx)
-  - [SharePoint での AppFabric に関する主な概念](https://blogs.msdn.microsoft.com/besidethepoint/2013/03/27/appfabric-caching-and-sharepoint-concepts-and-examples-part-1/)
-  - [AppFabric の更新プログラム](https://blogs.msdn.microsoft.com/distributedservices/2014/02/26/how-to-update-windows-server-appfabric-1-1-with-cumulative-update-packages/)
+  - [SharePoint での AppFabric に関する主な概念](/archive/blogs/besidethepoint/appfabric-caching-and-sharepoint-concepts-and-examples-part-1)
+  - [AppFabric の更新プログラム](/archive/blogs/distributedservices/how-to-update-windows-server-appfabric-1-1-with-cumulative-update-packages)
   
 - Sharepoint でのワークフロー管理 
   
-  - [SharePoint Server のワークフローのインストールと構成](https://docs.microsoft.com/SharePoint/governance/install-and-configure-workflow-for-sharepoint-server)
-  - [ワークフロー マネージャーの更新プログラム](https://blogs.msdn.microsoft.com/workflowteam/)
+  - [SharePoint Server のワークフローのインストールと構成](/SharePoint/governance/install-and-configure-workflow-for-sharepoint-server)
+  - [ワークフロー マネージャーの更新プログラム](/archive/blogs/workflowteam/)
    
 
 ## <a name="related-topics"></a>関連項目
 
-- [SharePoint Server 2019 のソフトウェア更新プログラムをインストールする](https://docs.microsoft.com/SharePoint/upgrade-and-update/deploy-updates-for-sharepoint-server-2016)
-- [ソフトウェア更新プログラムをインストールする (SharePoint Server 2016)](https://docs.microsoft.com/SharePoint/upgrade-and-update/install-a-software-update)
-- [SharePoint Server 2013 のソフトウェア更新の概要](https://docs.microsoft.com/SharePoint/upgrade-and-update/software-updates-overview-for-sharepoint-server-2013)
-- [SharePoint Server 2013 のソフトウェア更新プログラムを展開するために準備する](https://docs.microsoft.com/SharePoint/upgrade-and-update/prepare-to-deploy-software-updates)
-- [Exchange Server 更新プログラム](https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates)
+- [SharePoint Server 2019 のソフトウェア更新プログラムをインストールする](/SharePoint/upgrade-and-update/deploy-updates-for-sharepoint-server-2016)
+- [ソフトウェア更新プログラムをインストールする (SharePoint Server 2016)](/SharePoint/upgrade-and-update/install-a-software-update)
+- [SharePoint Server 2013 のソフトウェア更新の概要](/SharePoint/upgrade-and-update/software-updates-overview-for-sharepoint-server-2013)
+- [SharePoint Server 2013 のソフトウェア更新プログラムを展開するために準備する](/SharePoint/upgrade-and-update/prepare-to-deploy-software-updates)
+- [Exchange Server 更新プログラム](/Exchange/new-features/build-numbers-and-release-dates)
 - [Project Server の更新プログラム](project-server-updates.md)

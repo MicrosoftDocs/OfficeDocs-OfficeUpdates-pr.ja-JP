@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 永続的なバージョンの Outlook 2016、Outlook 2013、Outlook 2010 の最新の更新プログラムに関する情報へのリンクを IT 技術者に提供します
-ms.openlocfilehash: 8d3541747f9a650c1cb45121dcfcaac6dbabc53f
-ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
+ms.openlocfilehash: a5ff9d2142b1aefb64f40ad4a775ef4cf07919b4
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50595541"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169736"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Windows インストーラー (MSI) を使用しているバージョンの Outlook の最新の更新プログラム
 
@@ -32,11 +32,11 @@ Microsoft 365 と使用しているオンプレミス環境との Outlook の互
     
 - Exchange のオンプレミス展開の場合、ご使用の Outlook バージョンのシステム要件に従います。
     
-  - [Exchange 2016 のシステム要件](https://docs.microsoft.com/Exchange/plan-and-deploy/system-requirements)
+  - [Exchange 2016 のシステム要件](/Exchange/plan-and-deploy/system-requirements)
     
-  - [Exchange 2013 のシステム要件](https://docs.microsoft.com/exchange/exchange-2013-system-requirements-exchange-2013-help)
+  - [Exchange 2013 のシステム要件](/exchange/exchange-2013-system-requirements-exchange-2013-help)
     
-  - [Exchange 2010 のシステム要件](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/aa996719(v=exchg.141))
+  - [Exchange 2010 のシステム要件](/previous-versions/office/exchange-server-2010/aa996719(v=exchg.141))
 
    
 ## <a name="outlook-2016-updates"></a>Outlook 2016 更新プログラム
@@ -53,10 +53,8 @@ Microsoft 365 と使用しているオンプレミス環境との Outlook の互
    
 ## <a name="outlook-2010-updates"></a>Outlook 2010 更新プログラム
 > [!IMPORTANT]
-> Office 2010 のサポートは、2020 年 10 月 13 日に終了しました。 Office 2010 環境のアップグレードをまだ開始していない場合は、今すぐ開始することをお勧めします。 詳細については、[Office 2010 のサポート終了ロードマップ](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap)を参照してください。
+> Office 2010 のサポートは、2020 年 10 月 13 日に終了しました。 Office 2010 環境のアップグレードをまだ開始していない場合は、今すぐ開始することをお勧めします。 詳細については、[Office 2010 のサポート終了ロードマップ](/DeployOffice/office-2010-end-support-roadmap)を参照してください。
 
 |**最新の Service Pack (SP)**|**最低限必要な更新プログラム**|**最新のパブリック更新プログラム (PU)**|
 |:-----|:-----|:-----|
 |SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |2015 年 10 月 PU <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  MAPI/HTTP 用の Office 2010 の 2015 年 4 月 PU <br/> [KB2956191](https://support.microsoft.com/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |2020年12月 PU <br/>[KB4486742](https://support.microsoft.com/help/4486742) <br><br><br><br/>|
-   
-

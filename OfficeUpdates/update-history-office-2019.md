@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: クイック実行 (C2R) を使用する永続的なバージョンの Office 2016 および 2019 の更新履歴を IT 技術者に提供します
-ms.openlocfilehash: 32c769a8c7c365dd1562fb89cc1d628968e0dbfb
-ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
+ms.openlocfilehash: 5c6326711323caf1e4eb170bd0d636fff5e2eb40
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902182"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169486"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R および Office 2019 の更新履歴
 
@@ -35,8 +35,8 @@ Microsoft は、Office 2016 のクイック実行 (C2R) バージョンおよび
 
 
  > [!NOTE]
-> - 2020年8月11日から、Office 2016 および2019のセキュリティ更新プログラム (CVE の記事) は、このページではなく、 [[セキュリティの更新ページ](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)]に表示されます。 
-> - Office 2016 および 2019 は、[修正されたライフサイクル ポリシー](https://docs.microsoft.com/lifecycle/policies/fixed)でサポートされています。 以下にリストされている最新のボリューム ライセンスおよびリテール リリースのみがサポートされています。
+> - 2020年8月11日から、Office 2016 および2019のセキュリティ更新プログラム (CVE の記事) は、このページではなく、 [[セキュリティの更新ページ](./microsoft365-apps-security-updates.md)]に表示されます。 
+> - Office 2016 および 2019 は、[修正されたライフサイクル ポリシー](/lifecycle/policies/fixed)でサポートされています。 以下にリストされている最新のボリューム ライセンスおよびリテール リリースのみがサポートされています。
 
 
 ## <a name="volume-licensed-versions-of-office-2019"></a>ボリューム ライセンス版の Office 2019
@@ -153,9 +153,3 @@ Microsoft は、Office 2016 のクイック実行 (C2R) バージョンおよび
 
 
 </details>
-
-
-
-
-
-

@@ -12,12 +12,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: Project Server 2013 と Project Server 2010 の更新プログラムを 1 か所で検索および管理できます。このページのリンクを使用して、更新プログラムに関する詳細な情報を取得し、更新プログラムをダウンロードしてください。
-ms.openlocfilehash: c37a6eeae3dc6472a800151ae7d78c3e6dabbca2
-ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
+ms.openlocfilehash: ae21395ff12335149db9fe351dc516549143ce52
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50595521"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170156"
 ---
 # <a name="project-server-updates"></a>Project Server の更新プログラム
 
@@ -260,5 +260,5 @@ ms.locfileid: "50595521"
 
 ## <a name="related-topics"></a>関連項目
 
-- [Exchange Server 更新プログラム](https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates)
+- [Exchange Server 更新プログラム](/Exchange/new-features/build-numbers-and-release-dates)
 - [SharePoint 更新プログラム](sharepoint-updates.md)
