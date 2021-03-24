@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の月次チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 95d8c91b0456919fc32bdfe5482d1be830b86c06
-ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
+ms.openlocfilehash: 901b51893436270a39d6977eaa6c9f5ffcdc643e
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902172"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169946"
 ---
 # <a name="release-notes-for-current-channel"></a>現在のチャネルのリリース ノート
 
 このリリース ノートには、現在のチャネルの更新プログラムに含まれる新機能と、セキュリティ以外の更新プログラムに関する情報が記載されています。対象となるのは、Microsoft 365 Apps for enterprise、Microsoft 365 Apps for business、および Project と Visio のデスクトップ アプリのサブスクリプション版です。
 
 > [!IMPORTANT]
-> 現在、Microsoft 365 Apps の更新プログラム チャネルに、新しい更新プログラム チャネル (月次エンタープライズ チャネル) の追加や既存の更新プログラム チャネル名の変更など、いくつかの変更を進めています。 詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2127441)を参照してください。
+> 現在、Microsoft 365 Apps の更新プログラム チャネルに、新しい更新プログラム チャネル (月次エンタープライズ チャネル) の追加や既存の更新プログラム チャネル名の変更など、いくつかの変更を進めています。 詳細については、[こちらの記事](/DeployOffice/update-channels-changes)を参照してください。
 
  > [!NOTE]
 >
@@ -76,7 +76,7 @@ ms.locfileid: "50902172"
 ## <a name="version-2102-march-09"></a>バージョン 2102: 3 月 9 日
 *バージョン 2102 (ビルド 13801.20294)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -155,7 +155,7 @@ ms.locfileid: "50902172"
 
 ### <a name="word"></a>Word
 
-- **ワンクリック ライティング候補:** ワンクリックでライティング候補を適用できます。 更新されたエディターウィンドウを使って、候補間を簡単に移動できます。 [詳細情報](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/microsoft-editor-gets-an-upgrade)の詳細情報をご覧ください
+- **ワンクリック ライティング候補:** ワンクリックでライティング候補を適用できます。 更新されたエディターウィンドウを使って、候補間を簡単に移動できます。 [詳細情報](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />[ブログの投稿](https://insider.office.com/en-us/blog/microsoft-editor-gets-an-upgrade)の詳細情報をご覧ください
 
 - **ユーザーに機密ラベルの適用を要求する:** 組織のポリシーで要求されている場合、ユーザーは機密ラベルを適用するように求められます。
 
@@ -233,7 +233,7 @@ ms.locfileid: "50902172"
 ## <a name="version-2101-february-09"></a>バージョン 2101: 2 月 9 日
 *バージョン 2101 (ビルド 13628.20380)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -263,7 +263,7 @@ ms.locfileid: "50902172"
 
 - **M365 の管理者に機密度ラベルに関する監査データを送信する** : ユーザーがドキュメントやメールに機密度ラベルを適用、変更、または削除したときに、Office は M365 監査バックエンドに監査データを送信し管理者の目に入れるようにします。 これは、管理者のためのサイレント機能 (UI なし) です。
 
-- **政府機関のお客様: ドキュメントおよびメールに秘密度ラベルを適用する:** GCC および GCC-H 環境のお客様は、秘密度のラベル付け機能を利用できるようになりました。 [詳細情報](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府機関のお客様: ドキュメントおよびメールに秘密度ラベルを適用する:** GCC および GCC-H 環境のお客様は、秘密度のラベル付け機能を利用できるようになりました。 [詳細情報](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="outlook"></a>Outlook
 
@@ -275,19 +275,19 @@ ms.locfileid: "50902172"
 
 - **M365 の管理者に機密度ラベルに関する監査データを送信する** : ユーザーがドキュメントやメールに機密度ラベルを適用、変更、または削除したときに、Office は M365 監査バックエンドに監査データを送信し管理者の目に入れるようにします。 これは、管理者のためのサイレント機能 (UI なし) です。
 
-- **政府機関のお客様: ドキュメントおよびメールに秘密度ラベルを適用する:** GCC および GCC-H 環境のお客様は、秘密度のラベル付け機能を利用できるようになりました。 [詳細情報](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府機関のお客様: ドキュメントおよびメールに秘密度ラベルを適用する:** GCC および GCC-H 環境のお客様は、秘密度のラベル付け機能を利用できるようになりました。 [詳細情報](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="powerpoint"></a>PowerPoint
 
 - **M365 の管理者に機密度ラベルに関する監査データを送信する** : ユーザーがドキュメントやメールに機密度ラベルを適用、変更、または削除したときに、Office は M365 監査バックエンドに監査データを送信し管理者の目に入れるようにします。 これは、管理者のためのサイレント機能 (UI なし) です。
 
-- **政府機関のお客様: ドキュメントおよびメールに秘密度ラベルを適用する:** GCC および GCC-H 環境のお客様は、秘密度のラベル付け機能を利用できるようになりました。 [詳細情報](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府機関のお客様: ドキュメントおよびメールに秘密度ラベルを適用する:** GCC および GCC-H 環境のお客様は、秘密度のラベル付け機能を利用できるようになりました。 [詳細情報](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="word"></a>Word
 
 - **M365 の管理者に機密度ラベルに関する監査データを送信する** : ユーザーがドキュメントやメールに機密度ラベルを適用、変更、または削除したときに、Office は M365 監査バックエンドに監査データを送信し管理者の目に入れるようにします。 これは、管理者のためのサイレント機能 (UI なし) です。
 
-- **政府機関のお客様: ドキュメントおよびメールに秘密度ラベルを適用する:** GCC および GCC-H 環境のお客様は、秘密度のラベル付け機能を利用できるようになりました。 [詳細情報](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府機関のお客様: ドキュメントおよびメールに秘密度ラベルを適用する:** GCC および GCC-H 環境のお客様は、秘密度のラベル付け機能を利用できるようになりました。 [詳細情報](/microsoft-365/compliance/sensitivity-labels)
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -352,7 +352,7 @@ ms.locfileid: "50902172"
 ## <a name="version-2012-january-12"></a>バージョン 2012: 1 月 12 日
 *バージョン 2012 (ビルド 13530.20376)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -465,7 +465,7 @@ ms.locfileid: "50902172"
 ## <a name="version-2011-december-08"></a>バージョン 2011: 12 月 08 日
 *バージョン 2011 (ビルド 13426.20332)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -563,9 +563,9 @@ ms.locfileid: "50902172"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **SVG クリップボードのサポート:** Office からサードパーティのアプリに SVG コンテンツを貼り付けることができるようになりました。 [詳細情報](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/svg-content-office-third-party-apps)の詳細情報をご覧ください
+- **SVG クリップボードのサポート:** Office からサードパーティのアプリに SVG コンテンツを貼り付けることができるようになりました。 [詳細情報](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />[ブログの投稿](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)の詳細情報をご覧ください
 
-- **透過背景の GIF を作成する**: アニメーション GIF にエクスポートする場合、新しいオプションを使用して背景を透明にすることができます。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/export-animated-gifs-transparent-backgrounds)の詳細情報をご覧ください
+- **透過背景の GIF を作成する**: アニメーション GIF にエクスポートする場合、新しいオプションを使用して背景を透明にすることができます。<br />[ブログの投稿](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)の詳細情報をご覧ください
 
 - **Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。 [ファイル] > [アカウント] の順に移動し、[Office テーマ] ドロップダウンで [システム設定を使用する] を選択します。 [詳細情報](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -667,7 +667,7 @@ ms.locfileid: "50902172"
 ## <a name="version-2010-november-10"></a>バージョン 2010: 11 月 10 日
 *バージョン 2010 (ビルド 13328.20356)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -700,19 +700,19 @@ ms.locfileid: "50902172"
 
 - **Power Query を使用してデータ型を作成する:** Power Query を使用してあらゆるデータ ソースから豊富なデータ型を作成します。 [詳細情報](https://support.office.com/article/a465a3b7-3d37-4eb1-a59c-bd3163315308)<br />[ブログの投稿](https://techcommunity.microsoft.com/t5/excel-blog/announcing-power-query-data-types/ba-p/1782903)の詳細情報をご覧ください
 
-- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
+- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
 
 - **アクション ペンを使用してすばやく編集する:** アクション ペンを使用すると、セルに直接手書きで書き込み、自動的に Excel データに変換されるインクでデータを書き留めることができます。
 
 ### <a name="outlook"></a>Outlook
 
-- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
+- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
 
-- **文章校正による支援:** Outlook では、入力中に文章校正のエラーが表示されます。シングル クリックで候補を適用できます。 [詳細情報](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/grammar-and-style-suggestions-available-in-outlook)の詳細情報をご覧ください
+- **文章校正による支援:** Outlook では、入力中に文章校正のエラーが表示されます。シングル クリックで候補を適用できます。 [詳細情報](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />[ブログの投稿](https://insider.office.com/en-us/blog/grammar-and-style-suggestions-available-in-outlook)の詳細情報をご覧ください
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
+- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
 
 ### <a name="teams"></a>Teams
 
@@ -726,7 +726,7 @@ ms.locfileid: "50902172"
 
 ### <a name="word"></a>Word
 
-- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
+- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -814,7 +814,7 @@ ms.locfileid: "50902172"
 ## <a name="version-2009-october-13"></a>バージョン2009: 10 月 13 日
 *バージョン2009 (ビルド 13231.20390)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -880,7 +880,7 @@ ms.locfileid: "50902172"
 
 ### <a name="teams"></a>Teams
 
-- **Microsoft Teams でファイルを共有:** [詳細情報](https://docs.microsoft.com/MicrosoftTeams/sharing-files-in-teams)
+- **Microsoft Teams でファイルを共有:** [詳細情報](/MicrosoftTeams/sharing-files-in-teams)
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -1149,7 +1149,7 @@ ms.locfileid: "50902172"
 ## <a name="version-2007-august-11"></a>バージョン 2007: 8 月 11 日
 *バージョン 2007 (ビルド 13029.20344)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -1300,7 +1300,7 @@ ms.locfileid: "50902172"
 ## <a name="version-2006-july-14"></a>バージョン 2006: 7 月 14 日
 *バージョン 2006 (ビルド 13001.20384)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -1494,7 +1494,7 @@ ms.locfileid: "50902172"
 ## <a name="version-2005-june-09"></a>バージョン 2005: 6月 9 日
 *バージョン 2005 (ビルド 12827.20336)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 ### <a name="feature-updates"></a>機能の更新プログラム
 ### <a name="excel"></a>Excel
@@ -1665,7 +1665,7 @@ ms.locfileid: "50902172"
 ## <a name="version-2004-may-12"></a>バージョン 2004: 5 月 12 月
 *バージョン 2004 (ビルド 12730.20270)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -1795,7 +1795,7 @@ ms.locfileid: "50902172"
 ## <a name="version-2003-april-14"></a>バージョン 2003: 4 月 14 日
 *バージョン 2003 (ビルド 12624.20442)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -1913,7 +1913,7 @@ ms.locfileid: "50902172"
 ## <a name="version-2002-march-10"></a>バージョン 2002: 3 月 10 日
 *バージョン 2002 (ビルド 12527.20278)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
@@ -2003,7 +2003,7 @@ ms.locfileid: "50902172"
 ## <a name="version-2001-february-11"></a>バージョン 2001: 2 月 11 日
 *バージョン 2001 (ビルド 12430.20264)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -2114,7 +2114,7 @@ ms.locfileid: "50902172"
 ## <a name="version-1912-january-14"></a>バージョン 1912: 1 月 14 日
 *バージョン 1912 (ビルド 12325.20298)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-1912-january-08"></a>バージョン 1912: 1 月 8 日
 *バージョン 1912 (ビルド 12325.20288)*
@@ -2131,7 +2131,7 @@ ms.locfileid: "50902172"
 
 - **プレゼンテーションの最適化:** アクセシビリティ チェックを使用すると、スクリーン リーダーを考慮に入れて、スライド上のオブジェクトを配置することができます。
 
-- **簡単な GIF:** 1 つのスライド、1 つのフレーム。 PowerPoint でループ GIF を簡単に作成できます。 [詳細情報](https://support.office.com/ja-JP/article/a598753e-92de-4f1b-8393-714db4d334b4)
+- **簡単な GIF:** 1 つのスライド、1 つのフレーム。 PowerPoint でループ GIF を簡単に作成できます。 [詳細情報](https://support.office.com/en-us/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
 

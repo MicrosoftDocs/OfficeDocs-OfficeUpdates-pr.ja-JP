@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Windows 7 用の Microsoft 365 アプリの更新履歴に関するリリース ノートを提供
-ms.openlocfilehash: a2815cc08784277532f16a1e5d4f81aa491edfb4
-ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
+ms.openlocfilehash: 06a5467d0ea72650d5696f56ba637e385d6be4f2
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50595461"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170166"
 ---
 # <a name="update-history-for-microsoft-365-apps-on-windows-7"></a>Windows 7 用の Microsoft 365 アプリの更新履歴 
 
  > [!NOTE]
 >
 >- Windows 7 のサポートは 2020 年 1 月 14 日に終了します。 [詳細情報](https://www.microsoft.com/microsoft-365/windows/end-of-windows-7-support)
->- Microsoft 365 アプリは Windows 7 でサポートされなくなりましたが、2023 年 1 月まで引き続きセキュリティ更新プログラムは入手できます。 詳細については、[Widows 7 のサポート終了と Microsoft 365 アプリ](https://docs.microsoft.com/DeployOffice/endofsupport/windows-7-support)を参照してください。
+>- Microsoft 365 アプリは Windows 7 でサポートされなくなりましたが、2023 年 1 月まで引き続きセキュリティ更新プログラムは入手できます。 詳細については、[Widows 7 のサポート終了と Microsoft 365 アプリ](/DeployOffice/endofsupport/windows-7-support)を参照してください。
 >- Windows 7 で Office を実行しているホーム ユーザーである場合は、「[Windows 7 のサポート終了および Office](https://support.microsoft.com/office/78f20fab-b57b-44d7-8368-06a8493f3cb9)」を参照してください。
 
 バージョン 2002 は、Windows 7 を実行しているデバイスで使用できる Microsoft 365 アプリの最後のバージョンです。 バージョン 2002 は、Microsoft 365 Apps のすべての更新チャネルで利用できます。
@@ -32,7 +32,7 @@ ms.locfileid: "50595461"
 
 毎月第 2 火曜日に、必要に応じて、バージョン 2002 の新しいビルドとセキュリティ更新プログラムがリリースされます。 セキュリティ更新プログラム、またはのバージョン 2002 のリストについては、「[Microsoft Office セキュリティ更新プログラムのリリース ノート](microsoft365-apps-security-updates.md)」をご覧ください。
 
-Microsoft Endpoint Configuration Manager を使用して更新を管理する場合は、「[更新に Configuration Manager を使用する場合のガイダンス](https://docs.microsoft.com/deployoffice/endofsupport/windows-7-support#guidance-when-using-configuration-manager-for-updates)」を参照してください。
+Microsoft Endpoint Configuration Manager を使用して更新を管理する場合は、「[更新に Configuration Manager を使用する場合のガイダンス](/deployoffice/endofsupport/windows-7-support#guidance-when-using-configuration-manager-for-updates)」を参照してください。
 
 
 ## <a name="update-history"></a>更新履歴

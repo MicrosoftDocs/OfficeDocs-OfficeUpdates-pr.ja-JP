@@ -10,18 +10,18 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT 担当者に対して、最新リリースの Microsoft 365 Apps の一覧をそれぞれの更新プログラム チャネルごとに、リリース ノートへのリンクと更新履歴を含めて提供します
-ms.openlocfilehash: 40c9a96422c9e608e6b847fbe4e2d220f4f407ab
-ms.sourcegitcommit: 1404eb977e0bc5d5de5a89c713eae9f32fdc877f
+ms.openlocfilehash: a3122186a3b7e78b58437532b2d89bf99b8f0b61
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "49780675"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170146"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps の更新プログラムに関するリリース情報
 
 
 > [!IMPORTANT]
-> バージョン 2004 以降の Office 365 ProPlus は Microsoft 365 Apps for enterprise に名前が変更されています。 詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2123420)を参照してください。 Microsoft のドキュメントでは通常、Microsoft 365 Apps として扱います。
+> バージョン 2004 以降の Office 365 ProPlus は Microsoft 365 Apps for enterprise に名前が変更されています。 詳細については、[こちらの記事](/deployoffice/name-change)を参照してください。 Microsoft のドキュメントでは通常、Microsoft 365 Apps として扱います。
 
 
 ## <a name="security-updates-for-microsoft-365-apps-releases"></a>Microsoft 365 Apps リリースのセキュリティ更新プログラム
@@ -64,12 +64,12 @@ Office for Mac の更新プログラム (Microsoft 365 Apps が含まれる Micr
 
 ## <a name="related-topics"></a>関連項目
 
-- [Microsoft 365 Apps 用更新プログラム チャネルの概要](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
-- [Office の展開](https://docs.microsoft.com/deployoffice/)
+- [Microsoft 365 Apps 用更新プログラム チャネルの概要](/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Office の展開](/deployoffice/)
 - [Microsoft 365 Apps の新機能](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
 - [Microsoft 365 Apps のロードマップ](https://products.office.com/business/office-365-roadmap)
 - [Microsoft 365 Apps のメッセージ センターの概要](https://support.office.com/article/38fb3333-bfcc-4340-a37b-deda509c2093)
-- [Windows 10 のリリース情報](https://aka.ms/windows/releaseinfo)
+- [Windows 10 のリリース情報](/windows/release-health/release-information)
 - [Microsoft セキュリティ更新ガイド](https://portal.msrc.microsoft.com/)
 
 > [!NOTE]

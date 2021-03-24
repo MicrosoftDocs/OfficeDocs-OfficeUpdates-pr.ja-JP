@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 2017 年の 365 ProPlus の月次チャネル Officeリリース ノートを IT プロに提供
-ms.openlocfilehash: a41d4c959b108995e0a4d1d8601cf1635b2c594d
-ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
+ms.openlocfilehash: c8e653782d812013ce6eb9791977d6f52c908c1f
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735202"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169816"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>2017 年の月次チャネル リリースのリリース ノート
 
@@ -323,7 +323,7 @@ ms.locfileid: "50735202"
 -   **危険な拡張子をブロック:** リスクが高いとみなされ、OLE パッケージ オブジェクトとして埋め込まれている拡張子は、既定ではアクティブ化されないようにブロックされています。たとえば、.exe、.vbs、.js などがこれに該当します。[詳細情報](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: セキュリティ以外の更新プログラム
--   特定のポートがブロックされている場合、または AP が許可されていない場合に、ユーザーが会議に参加できない理由を説明するダイアログを追加します。
+-   特定のポートがブロックされているか、IP が許可されていない場合に、ユーザーが会議に参加できない理由を説明するダイアログを追加します。
 -   IM 会話タブをクリックすると、常設チャット ルームの未読メッセージが既読としてマークされる問題を修正します。
 -   IM トーストを受信するときに数秒の遅延が生じる問題を修正します。
 -   Exchange との同期が無効である場合に、AD の連絡先で連絡先の名前の代わりに電話番号が表示される問題を修正します。
@@ -601,22 +601,22 @@ ms.locfileid: "50735202"
 -   **クエリの共有**: すべてのクエリの定義を Office データベース接続 (ODC) ファイルにエクスポートし、複数のブックで、または他のユーザーと共有します。
 -   **データの読み込み** クエリのデータをピボットテーブルまたはピボットグラフに直接読み込みます。データ モデルにデータを保存する必要はありません。
 -   **取得と変換の機能強化:** クエリ エディターで、サンプルの値を入力して、新しい列を作成します。入力すると、Excel で必要な変換が検出され、新しい列のプレビューが表示されます。
--   **Windows Information Protection (WIP) のサポート:**   現在、Excel は対応アプリになり、企業データと個人データを区別し、構成されているポリシーに基づいてどれを保護するかを判断します。  [詳細情報](https://aka.ms/wiptechnet)
+-   **Windows Information Protection (WIP) のサポート:**   現在、Excel は対応アプリになり、企業データと個人データを区別し、構成されているポリシーに基づいてどれを保護するかを判断します。  [詳細情報](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
 -   グループ化したワークシートで、結合と中央揃えが機能しない問題を修正します。
 
 ### <a name="onenote-feature-updates"></a>OneNote: 機能の更新
--   **Windows Information Protection (WIP) のサポート:** 現在、OneNote は対応アプリになり、企業データと個人データを区別し、構成されているポリシーに基づいてどれを保護するかを判断します。 [詳細情報](https://aka.ms/wiptechnet)
+-   **Windows Information Protection (WIP) のサポート:** 現在、OneNote は対応アプリになり、企業データと個人データを区別し、構成されているポリシーに基づいてどれを保護するかを判断します。 [詳細情報](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 
 ### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
--   **Windows Information Protection (WIP) のサポート:** 現在、Outlook は対応アプリになり、企業データと個人データを区別し、構成されているポリシーに基づいてどれを保護するかを判断します。 [詳細情報](https://aka.ms/wiptechnet)
+-   **Windows Information Protection (WIP) のサポート:** 現在、Outlook は対応アプリになり、企業データと個人データを区別し、構成されているポリシーに基づいてどれを保護するかを判断します。 [詳細情報](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 -   **リンクの添付ダイアログ:** リボンの [ファイルの添付] を使ってリンクを添付する場合、リンクとして追加するのか、添付ファイルとして追加するのかを選ぶことができます。このダイアログを毎回表示しないようにするには、[ファイル] \> [オプション] \> [全般] の順に移動して、[添付ファイルのオプション] でリンクの添付方法を指定します。
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新
 -   **ビデオのクローズド キャプション:** アクセシビリティを高めるため、ビデオにクローズド キャプションを追加します。 [詳細情報](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
 -   **デザイナーの機能強化:** デザイナーが、スライドに追加されたグラフのデザイン アイデアを提案するようになりました。
--   **Windows Information Protection (WIP) のサポート:**   現在、PowerPoint は対応アプリになり、企業データと個人データを区別し、構成されているポリシーに基づいてどれを保護するかを判断します。 [詳細](https://aka.ms/wiptechnet)
+-   **Windows Information Protection (WIP) のサポート:**   現在、PowerPoint は対応アプリになり、企業データと個人データを区別し、構成されているポリシーに基づいてどれを保護するかを判断します。 [詳細](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 
 ### <a name="project-non-security-updates"></a>Project: セキュリティ以外の更新プログラム
 -   Project Online で各エンタープライズ プロジェクト テンプレート (EPT) がプロジェクト サイトの独自の URL を持つようになり、[プロジェクト サイトの作成] ダイアログがサイトの正しい場所を示すように修正されます。
@@ -631,7 +631,7 @@ ms.locfileid: "50735202"
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: 機能の更新
 -   **リンクの挿入:** IM およびグループ チャットにリンクを追加し、そのリンクを示すために完全な URL の代わりにわかりやすいテキストを指定します。
 -   **画面共有の通知:** IM の会話で画面を共有しているとき、または会議が終了した後に画面共有が継続されているときに、会話ウィンドウに通知が表示されます。この通知は、画面を共有していること、および [共有を停止] ボタンで簡単に共有を停止できることを示します。
--   **Windows Information Protection (WIP) のサポート:** Skype for Business は現在、WIP でのみ動作するアプリとしてサポートされています。Skype を許可されたアプリの一覧に追加すると、個人データが処理されないことが Windows に示されます。Windows では Skype for Business に代わってデータが保護されます。 [詳細情報](https://aka.ms/wiptechnet)
+-   **Windows Information Protection (WIP) のサポート:** Skype for Business は現在、WIP でのみ動作するアプリとしてサポートされています。Skype を許可されたアプリの一覧に追加すると、個人データが処理されないことが Windows に示されます。Windows では Skype for Business に代わってデータが保護されます。 [詳細情報](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: セキュリティ以外の更新プログラム
 -   ポリシーで音声が無効になっているユーザーへの呼び出し試行メッセージを、「通話を完了することができません」から「IT 管理者がオーディオを制限しているため通話することができません。インスタント メッセージや電子メールを使用して、IT 管理者にご確認ください。」に変更します。
@@ -646,7 +646,7 @@ ms.locfileid: "50735202"
 ### <a name="word-feature-updates"></a>Word: 機能の更新
 -   **強化された [エディター] ウィンドウでの文書作成支援:** [エディター] ウィンドウは、高度なスペル チェック、文章校正、文章のスタイルの推奨に使用します。支援技術の高度なサポートにより、アクセスできるように作成されています。
 -   **代替テキストの作成:** クラウドベースのサービスによって、ドキュメントの画像に対して代替テキストが自動で生成されます。
--   **Windows Information Protection (WIP) のサポート:**  現在、Word は対応アプリになり、企業データと個人データを区別し、構成されているポリシーに基づいてどれを保護するかを判断します。  [詳細情報](https://aka.ms/wiptechnet)
+-   **Windows Information Protection (WIP) のサポート:**  現在、Word は対応アプリになり、企業データと個人データを区別し、構成されているポリシーに基づいてどれを保護するかを判断します。  [詳細情報](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 
 ## <a name="version-1704-june-1"></a>バージョン 1704: 6 月 1 日
 *バージョン 1704 (ビルド 8067.2157)*
@@ -821,13 +821,13 @@ ms.locfileid: "50735202"
 *バージョン 1702 (ビルド 7870.2024)*
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティの更新
--   マイクロソフト セキュリティ情報 [MS17-014](https://technet.microsoft.com/library/security/ms17-014): Microsoft Office のセキュリティ更新プログラム (3217868)
+-   マイクロソフト セキュリティ情報 [MS17-014](/security-updates/SecurityBulletins/2017/ms17-014): Microsoft Office のセキュリティ更新プログラム (3217868)
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS17-013](https://technet.microsoft.com/library/security/ms17-013): Microsoft グラフィック コンポーネントのセキュリティ更新プログラム (4013075)
+-   マイクロソフト セキュリティ情報 [MS17-013](/security-updates/SecurityBulletins/2017/ms17-013): Microsoft グラフィック コンポーネントのセキュリティ更新プログラム (4013075)
 
 ### <a name="word-security-updates"></a>Word: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS17-014](https://technet.microsoft.com/library/security/ms17-014): Microsoft Office のセキュリティ更新プログラム (3217868)
+-   マイクロソフト セキュリティ情報 [MS17-014](/security-updates/SecurityBulletins/2017/ms17-014): Microsoft Office のセキュリティ更新プログラム (3217868)
 
 
 
@@ -1007,7 +1007,7 @@ ms.locfileid: "50735202"
 -   ページより大きい画像を印刷すると OneNote がクラッシュする問題を修正します。
 
 ### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
--   **ピン留め可能な作業ウィンドウ:** メールボックス内のメッセージ間の切り替え中に、アドインの作業ウィンドウを開いたままにします。 [詳細情報](https://blogs.msdn.microsoft.com/exchangedev/2017/01/26/pinnable-taskpane-in-outlook-2016/)
+-   **ピン留め可能な作業ウィンドウ:** メールボックス内のメッセージ間の切り替え中に、アドインの作業ウィンドウを開いたままにします。 [詳細情報](/archive/blogs/exchangedev/pinnable-taskpane-in-outlook-2016)
 
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
 -   特定のスレッドの添付ファイル一覧にある添付ファイルを右クリックすると、該当するメニュー項目だけでなく、すべてのコンテキスト メニューが表示されるという問題を修正します。
@@ -1044,7 +1044,7 @@ ms.locfileid: "50735202"
 -   IM メッセージで \\\\サーバー名またはファイル:// などのリンクを選択すると、対象の場所が開くのではなくエラー メッセージが表示されるという問題を修正します。
 -   場所に基づいたルーティングを使用する仮想デスクトップ インフラストラクチャ (VDI) 環境で、サーバーがユーザーの場所では PSTN 通話を行えないと判断し、PSTN 通話の発信/受信を行えないという問題を修正します。
 -   ユーザーの状態が [通知しない] または [表示しない] に設定されている場合に、メッセージが見つからない場合に送信されるメールの件名を [会話の欠落] から [Skype for Business でメッセージを送信しました] に変更 \<name\> \<Name\> します。
--   全数調査データの一環としてデバイスに初めてサインインしたときのタイムスタンプの [キャプチャを開始します。](https://docs.microsoft.com/skypeforbusiness/legal-and-regulatory/data-collection-practices) サインインの信頼性の傾向を特定するのに役立ちます。
+-   全数調査データの一環としてデバイスに初めてサインインしたときのタイムスタンプの [キャプチャを開始します。](/skypeforbusiness/legal-and-regulatory/data-collection-practices) サインインの信頼性の傾向を特定するのに役立ちます。
 
 ### <a name="visio-feature-updates"></a>Visio: 機能の更新
 -   **アクセシビリティ機能の向上:** キーボード、ナレーター、その他の支援技術を使用して図形を扱ったり、他の対象を編集したりするなどのサポートが改善されました。
@@ -1065,7 +1065,7 @@ ms.locfileid: "50735202"
 ## <a name="version-1611-january-4"></a>バージョン 1611: 1 月 4 日
 *バージョン 1611 (ビルド 7571.2109)*
 
-注: Microsoft Security Bulletin [MS17-002](https://technet.microsoft.com/library/security/ms17-002) で説明されているセキュリティ更新プログラムは、このチャネル リリースの Word のバージョンには適用されません。
+注: Microsoft Security Bulletin [MS17-002](/security-updates/SecurityBulletins/2017/ms17-002) で説明されているセキュリティ更新プログラムは、このチャネル リリースの Word のバージョンには適用されません。
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
 -   CSV または CSV UTF-8 として保存する際にテキストや二重引用符を含んだセルの値が正しくエクスポートされない問題を修正します。

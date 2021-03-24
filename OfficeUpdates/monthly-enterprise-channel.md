@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の月次エンタープライズ チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 729d6b9bd7d549522386c8f2b11c4d3b6761d117
-ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
+ms.openlocfilehash: 34bbcb4700033ba2668b9766d053362424dcf356
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735192"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169726"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>2020 年の月次エンタープライズ チャネル リリースのリリース ノート
 
 このリリース ノートには、2020 年の月次エンタープライズ チャネルの更新プログラムに含まれる新機能と、セキュリティ以外の更新プログラムに関する情報が記載されています。対象となるのは、Microsoft 365 Apps for enterprise、Microsoft 365 Apps for business、および Project と Visio のデスクトップ アプリのサブスクリプション版です。
 
 > [!IMPORTANT]
-> Microsoft 365 アプリの更新チャネルの更新プログラムチャネルに、新しい更新チャネル (月間エンタープライズ チャネル) の追加や、既存の更新プログラムチャネルの名前の変更など、いくつかの変更を行っています。 詳細については、[こちらの記事を参照](https://go.microsoft.com/fwlink/p/?linkid=2127441)をご覧ください。
+> Microsoft 365 アプリの更新チャネルの更新プログラムチャネルに、新しい更新チャネル (月間エンタープライズ チャネル) の追加や、既存の更新プログラムチャネルの名前の変更など、いくつかの変更を行っています。 詳細については、[こちらの記事を参照](/DeployOffice/update-channels-changes)をご覧ください。
 
 [//]: # (削除しないでください)
 
@@ -30,7 +30,7 @@ ms.locfileid: "50735192"
 ## <a name="version-2101-march-09"></a>バージョン 2101: 3 月 9 日
 *バージョン 2101 (ビルド 13628.20528)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -89,12 +89,12 @@ ms.locfileid: "50735192"
 ## <a name="version-2012-march-09"></a>バージョン 2012: 3 月 9 日
 *バージョン 2012 (ビルド 13530.20628)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2012-february-09"></a>バージョン 2012: 2 月 9 日
 *バージョン 2012 (ビルド 13530.20528)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
@@ -106,7 +106,7 @@ ms.locfileid: "50735192"
 
 - **秘密度ラベル監査ログ:** ユーザーが、ドキュメントやメールで秘密度ラベルを適用、変更、削除すると、管理者は、その情報を Microsoft 365 監査ログで使用できるようになります。
 
-- **政府機関のお客様: ドキュメントおよびメールに秘密度ラベルを適用する:** GCC および GCC-H 環境のお客様は、秘密度のラベル付け機能を利用できるようになりました。 [詳細情報](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府機関のお客様: ドキュメントおよびメールに秘密度ラベルを適用する:** GCC および GCC-H 環境のお客様は、秘密度のラベル付け機能を利用できるようになりました。 [詳細情報](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="outlook"></a>Outlook
 
@@ -118,7 +118,7 @@ ms.locfileid: "50735192"
 
 - **すべてのオンライン会議:** 予定表設定を更新して、既定で Teams 会議を作成するすべての会議を作成します。これにより、Teams 会議オプションをクリックする必要がなくなります。
 
-- **政府機関のお客様: ドキュメントおよびメールに秘密度ラベルを適用する:** GCC および GCC-H 環境のお客様は、秘密度のラベル付け機能を利用できるようになりました。 [詳細情報](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府機関のお客様: ドキュメントおよびメールに秘密度ラベルを適用する:** GCC および GCC-H 環境のお客様は、秘密度のラベル付け機能を利用できるようになりました。 [詳細情報](/microsoft-365/compliance/sensitivity-labels)
 
 - **すべてのオンライン会議:** 予定表設定を更新して、既定で Teams 会議を作成するすべての会議を作成します。これにより、Teams 会議オプションをクリックする必要がなくなります。
 
@@ -126,11 +126,11 @@ ms.locfileid: "50735192"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **SVG クリップボードのサポート:** Office からサードパーティのアプリに SVG コンテンツを貼り付けることができるようになりました。 [詳細情報](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/svg-content-office-third-party-apps)の詳細情報をご覧ください
+- **SVG クリップボードのサポート:** Office からサードパーティのアプリに SVG コンテンツを貼り付けることができるようになりました。 [詳細情報](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />[ブログの投稿](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)の詳細情報をご覧ください
 
 - **秘密度ラベル監査ログ:** ユーザーが、ドキュメントやメールで秘密度ラベルを適用、変更、削除すると、管理者は、その情報を Microsoft 365 監査ログで使用できるようになります。
 
-- **政府機関のお客様: ドキュメントおよびメールに秘密度ラベルを適用する:** GCC および GCC-H 環境のお客様は、秘密度のラベル付け機能を利用できるようになりました。 [詳細情報](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府機関のお客様: ドキュメントおよびメールに秘密度ラベルを適用する:** GCC および GCC-H 環境のお客様は、秘密度のラベル付け機能を利用できるようになりました。 [詳細情報](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="visio"></a>Visio
 
@@ -142,7 +142,7 @@ ms.locfileid: "50735192"
 
 - **秘密度ラベル監査ログ:** ユーザーが、ドキュメントやメールで秘密度ラベルを適用、変更、削除すると、管理者は、その情報を Microsoft 365 監査ログで使用できるようになります。
 
-- **政府機関のお客様: ドキュメントおよびメールに秘密度ラベルを適用する:** GCC および GCC-H 環境のお客様は、秘密度のラベル付け機能を利用できるようになりました。 [詳細情報](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府機関のお客様: ドキュメントおよびメールに秘密度ラベルを適用する:** GCC および GCC-H 環境のお客様は、秘密度のラベル付け機能を利用できるようになりました。 [詳細情報](/microsoft-365/compliance/sensitivity-labels)
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -214,12 +214,12 @@ ms.locfileid: "50735192"
 ## <a name="version-2011-february-09"></a>バージョン 2011: 2 月 9 日
 *バージョン 2011 (ビルド 13426.20658)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2011-january-12"></a>バージョン 2011: 1 月 12 日
 *バージョン 2011 (ビルド 13426.20526)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
@@ -359,12 +359,12 @@ ms.locfileid: "50735192"
 ## <a name="version-2010-january-12"></a>バージョン 2010: 1 月 12 日
 *バージョン 2010 (ビルド 13328.20550)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2010-december-08"></a>バージョン 2010: 12 月 08 日
 *バージョン 2010 (ビルド 13328.20478)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
@@ -384,7 +384,7 @@ ms.locfileid: "50735192"
 
 - **アニメーション GIF を範囲内でエクスポートする**: アニメーション GIF にエクスポートするときにスライドの範囲を選択します
 
-- **透過背景の GIF を作成する**: アニメーション GIF にエクスポートする場合、新しいオプションを使用して背景を透明にすることができます。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/export-animated-gifs-transparent-backgrounds)の詳細情報をご覧ください
+- **透過背景の GIF を作成する**: アニメーション GIF にエクスポートする場合、新しいオプションを使用して背景を透明にすることができます。<br />[ブログの投稿](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)の詳細情報をご覧ください
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -483,12 +483,12 @@ ms.locfileid: "50735192"
 ## <a name="version-2009-december-08"></a>バージョン 2009: 12 月 08 日
 *バージョン 2009 (ビルド 13231.20620)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2009-november-10"></a>バージョン 2009: 11 月 10 日
 *バージョン2009 (ビルド 13231.20514)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
@@ -581,7 +581,7 @@ ms.locfileid: "50735192"
 ## <a name="version-2008-november-10"></a>バージョン 2008: 11 月 10 日
 *バージョン 2008 (ビルド 13127.20760)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -629,8 +629,7 @@ ms.locfileid: "50735192"
 - ユーザーが代理人に編集者権限を付与できなくなる問題を修正しました。
 
 
-- オプションの接続エクスペリエンスが Web アドインの読み込みをブロックする問題を修正しました。<br />
-  [ブログの投稿](https://developer.microsoft.com/ja-JP/office/blogs/outlook-add-ins-and-optional-connected-experiences/)の詳細情報をご覧ください
+- オプションの接続エクスペリエンスが Web アドインの読み込みをブロックする問題を修正しました。<br />[ブログの投稿](https://developer.microsoft.com/en-us/office/blogs/outlook-add-ins-and-optional-connected-experiences/)の詳細情報をご覧ください
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -654,7 +653,7 @@ ms.locfileid: "50735192"
 ## <a name="version-2008-october-13"></a>バージョン 2008: 10 月 13 日
 *バージョン 2008 (Build 13127.20638)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
@@ -843,7 +842,7 @@ ms.locfileid: "50735192"
 ## <a name="version-2007-october-13"></a>バージョン 2007: 10 月 13 日
 *バージョン 2007 (ビルド 13029.20708)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -860,7 +859,7 @@ ms.locfileid: "50735192"
 ## <a name="version-2007-september-08"></a>バージョン 2007: 9 月 08 日
 *バージョン 2007 (ビルド 13029.20534)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
@@ -969,12 +968,12 @@ ms.locfileid: "50735192"
 ## <a name="version-2006-september-08"></a>バージョン 2006: 9 月 08 日
 *バージョン 2006 (ビルド13001.20648)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2006-august-11"></a>バージョン 2006: 8 月 11 日
 *バージョン 2006 (ビルド 13001.20520)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
@@ -1077,12 +1076,12 @@ ms.locfileid: "50735192"
 ## <a name="version-2005-august-11"></a>バージョン 2005: 8 月 11 日
 *バージョン 2005 (ビルド 12827.20656)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2005-july-14"></a>バージョン 2005: 7 月 14 日
 *バージョン 2005 (ビルド 12827.20538)*
 
-セキュリティ更新プログラムのリストは[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムのリストは[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
@@ -1180,12 +1179,12 @@ ms.locfileid: "50735192"
 ## <a name="version-2004-july-14"></a>バージョン 2004: 7 月 14 日
 *バージョン 2004 (ビルド 12730.20602)*
 
-セキュリティ更新プログラムのリストは[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムのリストは[こちら](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2004-june-09"></a>バージョン 2004: 6月 09 日
 *バージョン 2004 (ビルド 12730.20430)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
@@ -1290,7 +1289,7 @@ ms.locfileid: "50735192"
 ## <a name="version-2003-june-09"></a>バージョン 2003: 6月 9 日
 *バージョン 2003 (ビルド 12624.20708)*
 
-セキュリティ更新プログラムのリストは[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムのリストは[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -1305,7 +1304,7 @@ ms.locfileid: "50735192"
 ## <a name="version-2003-may-12"></a>バージョン 2003: 5 月12 月
 *バージョン 2003 (ビルド 12624.20588)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)

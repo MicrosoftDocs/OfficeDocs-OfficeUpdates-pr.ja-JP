@@ -48,14 +48,14 @@
 ## [Office セキュリティ以外の更新プログラム (MSI)](office-MSI-non-security-updates.md)
 ## [Office 2016 .msp ファイル (MSI)](msp-files-office-2016.md)
 ## [Office 2013 .msp ファイル (MSI)](msp-files-office-2013.md)
-## [Skype for Business の更新プログラム (MSI)](https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates)
+## [Skype for Business の更新プログラム (MSI)](/SkypeForBusiness/sfb-client-updates)
 
 # Office Server 製品
-## [Exchange Server 更新プログラム](https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates)
+## [Exchange Server 更新プログラム](/Exchange/new-features/build-numbers-and-release-dates)
 ## [Project Server の更新プログラム](project-server-updates.md)
 ## [SharePoint 更新プログラム](sharepoint-updates.md)
-## [Skype for Business Server 更新プログラム](https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates)
+## [Skype for Business Server 更新プログラム](/SkypeForBusiness/sfb-server-updates)
 
 # 関連リンク
-## [Windows 10 のリリース](https://aka.ms/windows/releaseinfo)
+## [Windows 10 のリリース](/windows/release-health/release-information)
 ## [Microsoft のライフサイクル ポリシー](https://support.microsoft.com/lifecycle)

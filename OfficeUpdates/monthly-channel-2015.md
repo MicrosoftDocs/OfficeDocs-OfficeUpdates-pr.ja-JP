@@ -1,5 +1,5 @@
 ---
-title: 2015の月次チャネルリリースのリリースノート
+title: 2015 年の月次チャネル リリースのリリース ノート
 ms.author: anankani
 author: andymosten
 manager: anankani
@@ -9,28 +9,28 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: IT プロフェッショナルに、Office 365 ProPlus の月次チャネルリリースのリリースノートを2015で提供します。
-ms.openlocfilehash: 29e4500dafb8fe95569608b0dca148a03c182a6b
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+description: 2015 年の 365 ProPlus の月次チャネル リリースのリリース Office IT プロに提供
+ms.openlocfilehash: 21afefcf714dcdd67d193b74b2e9f7d69f64c0c9
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48369915"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169886"
 ---
-# <a name="release-notes-for-monthly-channel-releases-in-2015"></a>2015の月次チャネルリリースのリリースノート
+# <a name="release-notes-for-monthly-channel-releases-in-2015"></a>2015 年の月次チャネル リリースのリリース ノート
 
-これらのリリースノートでは、2015の Office 365 ProPlus への月次チャネル更新に含まれる新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムについて説明します。
+これらのリリース ノートでは、2015 年の Office 365 ProPlus の月次チャネル更新プログラムに含まれる新機能、セキュリティ更新プログラム、およびセキュリティ以外の更新プログラムに関する情報を提供します。
  
 > [!NOTE]
 > - また、Visio Pro for Office 365 および Project Online デスクトップ クライアントの新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムについても説明しています。
 > - ここに記載されている情報は、Business Premium など一部の Office 365 プランに付属する Office のバージョンの、Office 365 Business にも該当します。
-> - 月次チャネルは、2017年9月より前に Current Channel という名前が付けられました。
+> - 月次チャネルは、2017 年 9 月より前に現在のチャネルと名付けされました。
 
-## <a name="version-1511-december-11"></a>バージョン 1511:12 月11日
+## <a name="version-1511-december-11"></a>バージョン 1511: 12 月 11 日
 *バージョン 1511 (ビルド 6366.2036)*
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
--   **BI テンプレート:** Excel のビジネスインテリジェンス (BI) 機能を活用する3つの新しいテンプレート: [Calendar Insights](https://support.office.com/article/7edbeb88-99ca-403f-a394-7e957d3d3f40)、 [Stock Analysis](https://support.office.com/article/f65e62ac-7af6-4cc6-98f3-f68b147ed65d)、 [My Cashflow](https://support.office.com/article/215e9e2e-5813-41ad-a9ef-a0c0874841bb)
+-   **BI テンプレート:** Excel のビジネス インテリジェンス (BI) 機能を活用する 3 つの新しいテンプレート: [Calendar Insights](https://support.office.com/article/7edbeb88-99ca-403f-a394-7e957d3d3f40) [、Stock Analysis](https://support.office.com/article/f65e62ac-7af6-4cc6-98f3-f68b147ed65d) [、My Cashflow](https://support.office.com/article/215e9e2e-5813-41ad-a9ef-a0c0874841bb)
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
 -   日付 (詳細) の数値で書式設定されたセルのフィル ハンドルをドラッグすると Excel がクラッシュするという問題の修正。
@@ -55,7 +55,7 @@ ms.locfileid: "48369915"
 -   **変形の移行:** スライド間のシームレスな移行を生み出し、プレゼンテーションにモーションを表示して概念や情報をより効果的に伝えます。 [詳細情報](https://support.office.com/article/8dd1c7b2-b935-44f5-a74c-741d8d9244ea)
 -   **PowerPoint デザイナー:** ユーザーのコンテンツを取得し、さまざまなアイデアを自動的に生成できる新しいサービス。ユーザーはそこからアイデアを選択して、スライドの出来栄えをより良いものにできます。 [詳細情報](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-    このサービスには、インターネット接続が必要です。 この機能を無効にするには、 [最新のグループポリシー管理用テンプレートファイルを使用](https://www.microsoft.com/download/details.aspx?id=49030) して、[PowerPoint Designer のオプション] の設定を有効にします。 このポリシー設定は、ユーザー構成\\管理用テンプレート\\Microsoft Office 2016\\ツール | オプション | 全般 | サービス オプション…\\PowerPoint デザイナーにあります。
+    このサービスには、インターネット接続が必要です。 この機能を無効にするには、最新のグループ ポリシー管理 [用テンプレート](https://www.microsoft.com/download/details.aspx?id=49030) ファイルを使用し、[PowerPoint Designer Options] 設定を有効にします。 このポリシー設定は、ユーザー構成\\管理用テンプレート\\Microsoft Office 2016\\ツール | オプション | 全般 | サービス オプション…\\PowerPoint デザイナーにあります。
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: セキュリティ以外の更新プログラム
 -   発表者ツールのスライド ショー ビューにアニメーションを含む SmartArt が想定されている順番で表示されないという問題の修正。
@@ -69,7 +69,7 @@ ms.locfileid: "48369915"
 
 ### <a name="office-suite-feature-updates"></a>Office スイート: 機能の更新
 -   **送信形式オプション**: Word または PowerPoint で、[共有] ウィンドウから添付ファイルまたは PDF のいずれかとしてドキュメントを送信します。
--   **画像 API の挿入**: 共通 office.js ライブラリの [document.setSelectedDataAsync メソッド](https://msdn.microsoft.com/library/office/fp142145.aspx)を使用して、Word、Excel、PowerPoint に画像を挿入します。 Word JavaScript API には、insertInlinePictureFromBase64 () と呼ばれるホスト固有のメソッドが用意されており、 [本文](https://msdn.microsoft.com/library/office/mt598674.aspx)、 [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx)、 [段落](https://msdn.microsoft.com/library/office/mt598682.aspx)、および Range オブジェクトにインライン画像を設定します。
+-   **画像 API の挿入**: 共通 office.js ライブラリの [document.setSelectedDataAsync メソッド](/javascript/api/office/office.document)を使用して、Word、Excel、PowerPoint に画像を挿入します。 Word JavaScript API は、insertInlinePictureFromBase64() と呼ばれるホスト固有のメソッドを提供し、Body[](/javascript/api/word/word.paragraph)[オブジェクト](/office/dev/add-ins/reference/overview/word-add-ins-reference-overview)[、ContentControl](/javascript/api/word/word.contentcontrol)オブジェクト、Paragraph オブジェクト、Range オブジェクトにインラインピクチャを設定します。
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 -   [開く] または [名前を付けて保存] を行うときに表示される更新日時の情報が一部見えないという問題の修正。
@@ -82,7 +82,7 @@ ms.locfileid: "48369915"
 -   Office プレインストール キットを監査モードで実行している Windows 7 OEM コンピューターで Office 2016 にアップグレードすると、ライセンス認証時にエラー 0x80070005 が発生するという問題の修正。
 
 
-## <a name="version-1509-december-8"></a>バージョン 1509:12 月8日
+## <a name="version-1509-december-8"></a>バージョン 1509: 12 月 8 日
 *バージョン 1509 (ビルド 6001.1043)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: セキュリティ以外の更新プログラム
@@ -92,14 +92,14 @@ ms.locfileid: "48369915"
 -   複数の段落にまたがっているブックマークを作成しても、そのメールを受信して [移動] を使用するとブックマークの最初の段落のみが選ばれているという問題の修正。
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS15-128](https://go.microsoft.com/fwlink/?LinkId=690559): リモートでのコード実行に対応する Microsoft Graphics コンポーネント用のセキュリティ更新プログラム (3104503)
+-   マイクロソフト セキュリティ情報 [MS15-128](/security-updates/SecurityBulletins/2015/ms15-128): リモートでのコード実行に対応する Microsoft Graphics コンポーネント用のセキュリティ更新プログラム (3104503)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: セキュリティ以外の更新プログラム
 -   アプリ共有セッションが特にトラフィックの集中時に失敗するという問題の修正。
 -   Office 2016 のインストール後に最初に起動するアプリが Skype for Business であった場合に、Skype for Business が クラッシュするという問題の修正。
 
 ### <a name="word-security-updates"></a>Word: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS15-131](https://go.microsoft.com/fwlink/?LinkId=699410): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3116111)
+-   マイクロソフト セキュリティ情報 [MS15-131](/security-updates/SecurityBulletins/2015/ms15-131): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3116111)
 
 ### <a name="word-non-security-updates"></a>Word: セキュリティ以外の更新プログラム
 -   使用するフォントによっては、改行なしハイフンが四角形として表示されるという問題の修正。
@@ -111,14 +111,14 @@ ms.locfileid: "48369915"
 
 
 
-## <a name="version-1509-november-10"></a>バージョン 1509:11 月10日
+## <a name="version-1509-november-10"></a>バージョン 1509: 11 月 10 日
 *バージョン 1509 (ビルド 6001.1038)*
 
 ### <a name="access-security-updates"></a>Access: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS15-116](https://technet.microsoft.com/library/security/ms15-116): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3104540)
+-   マイクロソフト セキュリティ情報 [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3104540)
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティの更新
--   マイクロソフト セキュリティ情報 [MS15-116](https://technet.microsoft.com/library/security/ms15-116): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3104540)
+-   マイクロソフト セキュリティ情報 [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3104540)
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
 -   クエリ作成用マクロを記録するとコンパイル エラーになるという問題の修正。
@@ -131,23 +131,23 @@ ms.locfileid: "48369915"
 -   [ファイル] \> [アカウント] \> [Excel について] の Dotlesscss の URL の更新。
 
 ### <a name="onenote-security-updates"></a>OneNote: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS15-116](https://technet.microsoft.com/library/security/ms15-116): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3104540)
+-   マイクロソフト セキュリティ情報 [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3104540)
 
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
 -   Outlook にテキストを貼り付ける場合、貼り付けるテキストのサイズがウィンドウの高さを超えるとテキスト全体が表示されないという問題の修正。
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS15-116](https://technet.microsoft.com/library/security/ms15-116): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3104540)
+-   マイクロソフト セキュリティ情報 [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3104540)
 
 ### <a name="project-security-updates"></a>Project: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS15-116](https://technet.microsoft.com/library/security/ms15-116): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3104540)
+-   マイクロソフト セキュリティ情報 [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3104540)
 
 ### <a name="publisher-security-updates"></a>Publisher: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS15-116](https://technet.microsoft.com/library/security/ms15-116): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3104540)
+-   マイクロソフト セキュリティ情報 [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3104540)
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS15-116](https://technet.microsoft.com/library/security/ms15-116): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3104540)
--   マイクロソフト セキュリティ情報 [MS15-123](https://technet.microsoft.com/library/security/ms15-123): 情報漏えいに対処する Skype for Business および Microsoft Lync 用のセキュリティ更新プログラム (3105872)
+-   マイクロソフト セキュリティ情報 [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3104540)
+-   マイクロソフト セキュリティ情報 [MS15-123](/security-updates/SecurityBulletins/2015/ms15-123): 情報漏えいに対処する Skype for Business および Microsoft Lync 用のセキュリティ更新プログラム (3105872)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: セキュリティ以外の更新プログラム
 -   2 つの入力用マイクがあるデバイス上におけるオーディオ ノイズの問題の修正。
@@ -157,10 +157,10 @@ ms.locfileid: "48369915"
 -   送信および受信の両方のネットワークの問題がある場合にユーザーに表示される通知に関する問題の修正。
 
 ### <a name="visio-security-updates"></a>Visio: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS15-116](https://technet.microsoft.com/library/security/ms15-116): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3104540)
+-   マイクロソフト セキュリティ情報 [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3104540)
 
 ### <a name="word-security-updates"></a>Word: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS15-116](https://technet.microsoft.com/library/security/ms15-116): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3104540)
+-   マイクロソフト セキュリティ情報 [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3104540)
 
 ### <a name="word-non-security-updates"></a>Word: セキュリティ以外の更新プログラム
 -   脚注が [ページごとに振り直し] に設定されているドキュメントをバックグラウンドで印刷すると、脚注の番号が、Word 上で表示される番号と、印刷される番号で異なるという問題の修正。
@@ -169,7 +169,7 @@ ms.locfileid: "48369915"
 -   表を Outlook の HTML メールに配置し、ウィンドウのサイズを変更すると、表が正しく表示されないという書式設定の問題の修正。
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS15-116](https://technet.microsoft.com/library/security/ms15-116): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3104540)
+-   マイクロソフト セキュリティ情報 [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3104540)
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 -   SharePoint Online からファイルをユーザーが開こうとすると、繰り返しサインインを求めるプロンプトが表示されるという問題の修正。
@@ -180,7 +180,7 @@ ms.locfileid: "48369915"
 
 
 
-## <a name="version-1509-october-21"></a>バージョン 1509:10 月21日
+## <a name="version-1509-october-21"></a>バージョン 1509: 10 月 21 日
 *バージョン 1509 (ビルド 6001.1034)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: セキュリティ以外の更新プログラム
@@ -223,7 +223,7 @@ ms.locfileid: "48369915"
 
 
 
-## <a name="version-1509-october-5"></a>バージョン 1509:10 月5日
+## <a name="version-1509-october-5"></a>バージョン 1509: 10 月 5 日
 *バージョン 1509 (ビルド 4229.1029)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: セキュリティ以外の更新プログラム
@@ -248,21 +248,21 @@ ms.locfileid: "48369915"
 
 
 
-## <a name="version-1509-september-22"></a>バージョン 1509: 9 月22日
+## <a name="version-1509-september-22"></a>バージョン 1509: 9 月 22 日
 *バージョン 1509 (ビルド 4229.1024)*
 
 このチャネルの最初のリリースです。Office 2016 アプリケーションが利用可能な最初のリリースです。
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS15-099](https://technet.microsoft.com/library/security/ms15-099): Microsoft Office の脆弱性により、リモートでコードが実行される (3089664)
--   マイクロソフト セキュリティ情報 [MS15-110](https://technet.microsoft.com/library/security/ms15-110): リモートでのコード実行に対処する Microsoft Office 用のセキュリティ更新プログラム (3096440)
+-   マイクロソフト セキュリティ情報 [MS15-099](/security-updates/SecurityBulletins/2015/ms15-099): Microsoft Office の脆弱性により、リモートでコードが実行される (3089664)
+-   マイクロソフト セキュリティ情報 [MS15-110](/security-updates/SecurityBulletins/2015/ms15-110): リモートでのコード実行に対処する Microsoft Office 用のセキュリティ更新プログラム (3096440)
 
 ### <a name="visio-security-updates"></a>Visio: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS15-081](https://technet.microsoft.com/library/security/ms15-081): Microsoft Office の脆弱性により、リモートでコードが実行される (3080790)
+-   マイクロソフト セキュリティ情報 [MS15-081](/security-updates/SecurityBulletins/2015/ms15-081): Microsoft Office の脆弱性により、リモートでコードが実行される (3080790)
 
 ### <a name="word-security-updates"></a>Word: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS15-081](https://technet.microsoft.com/library/security/ms15-081): Microsoft Office の脆弱性により、リモートでコードが実行される (3080790)
+-   マイクロソフト セキュリティ情報 [MS15-081](/security-updates/SecurityBulletins/2015/ms15-081): Microsoft Office の脆弱性により、リモートでコードが実行される (3080790)
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS15-081](https://technet.microsoft.com/library/security/ms15-081): Microsoft Office の脆弱性により、リモートでコードが実行される (3080790)
--   マイクロソフト セキュリティ情報 [MS15-099](https://technet.microsoft.com/library/security/ms15-099): Microsoft Office の脆弱性により、リモートでコードが実行される (3089664)
+-   マイクロソフト セキュリティ情報 [MS15-081](/security-updates/SecurityBulletins/2015/ms15-081): Microsoft Office の脆弱性により、リモートでコードが実行される (3080790)
+-   マイクロソフト セキュリティ情報 [MS15-099](/security-updates/SecurityBulletins/2015/ms15-099): Microsoft Office の脆弱性により、リモートでコードが実行される (3089664)

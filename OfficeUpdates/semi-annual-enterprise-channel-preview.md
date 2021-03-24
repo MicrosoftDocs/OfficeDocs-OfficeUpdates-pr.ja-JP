@@ -9,25 +9,25 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の半期チャネル リリース (対象指定) のリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: d6ea5c4806d3c330611aada74259db7dc19e9c11
-ms.sourcegitcommit: b4c16b3045c41fc0b5f0b2cb964eebdf57e417cc
+ms.openlocfilehash: a99f40b0eb74c4a97ae4aeb77af7d3632d5b563c
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50603017"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170216"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>半期エンタープライズ チャネル (プレビュー) のリリース ノート
 
 このリリース ノートには、半期エンタープライズ チャネル (プレビュー) の更新プログラムに含まれる新機能と、セキュリティ以外の更新プログラムに関する情報が記載されています。対象となるのは、Microsoft 365 Apps for enterprise、Microsoft 365 Apps for business、および Project と Visio のデスクトップ アプリのサブスクリプション版です。
 
 > [!IMPORTANT]
-> 現在、Microsoft 365 Apps の更新プログラム チャネルに、新しい更新プログラム チャネル (月次エンタープライズ チャネル) の追加や既存の更新プログラム チャネル名の変更など、いくつかの変更を進めています。 詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2127441)を参照してください。
+> 現在、Microsoft 365 Apps の更新プログラム チャネルに、新しい更新プログラム チャネル (月次エンタープライズ チャネル) の追加や既存の更新プログラム チャネル名の変更など、いくつかの変更を進めています。 詳細については、[こちらの記事](/DeployOffice/update-channels-changes)を参照してください。
 
 
 ## <a name="version-2102-march-09"></a>バージョン 2102: 3 月 9 日
 *バージョン 2102 (ビルド 13801.20294)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
@@ -45,7 +45,7 @@ ms.locfileid: "50603017"
 
 - **データ型を使用して Power BI から組織データを取得する:** Power BI からの Excel データ型が Office 365、Microsoft 365、Power BI Pro サービス プランを使用する組織の Insider に展開されるようになりました。 必要な情報を入手し、簡単に更新することは、多くの日常のワークフローに欠かせません。 Excel のデータ型として、Power BI から会社または組織の情報へのアクセスを提供し、スプレッドシートにリンクされた情報を取り込む機能を拡張します。 [詳細情報](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />[ブログの投稿](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)の詳細情報をご覧ください
 
-- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
+- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
 
 - **Excel で洗練された Visio 図面を作成する:** ワークシートのデータからフローチャートや組織図などのデータ駆動型の図面を作成。 [詳細情報](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
@@ -57,13 +57,13 @@ ms.locfileid: "50603017"
 
 - **クイック投票を使用して、Outlook で投票を作成:** 簡単に投票を作成し、票を収集して、メールに結果を表示します。[詳細情報](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
 
-- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
+- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
 
 - **新しい会議室の検索機能:** これまでと違うさまざまな機能で会議室を検索できます。
 
 - **普段使う言葉で検索:** 「先週の獣医の予約」といったように、普段使うような言葉で検索をフィルタリングして絞り込みます。 
 
-- **以前の Outlook セッションからアイテムを素早く再開するオプション:** 以前の Outlook セッションからアイテムを素早く再開するためのオプションが追加されました。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/automatically-restore-windows-in-outlook)の詳細情報をご覧ください
+- **以前の Outlook セッションからアイテムを素早く再開するオプション:** 以前の Outlook セッションからアイテムを素早く再開するためのオプションが追加されました。<br />[ブログの投稿](https://insider.office.com/en-us/blog/automatically-restore-windows-in-outlook)の詳細情報をご覧ください
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -71,7 +71,7 @@ ms.locfileid: "50603017"
 
 - **固定フォルダーに保存する:** フォルダーをピン留めすると、Office ファイルの保存が簡単になります。  ユーザーは新しいファイルが保存されるときに使用可能なフォルダーをより詳細に制御したいとのフィードバックを受けました。 新しい機能が追加されました。 [保存] ダイアログ ボックスでフォルダーをピン留めできます。 この新しい機能により、Word、Excel、PowerPoint のファイルを簡単に保存できます。 [詳細情報](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />[ブログの投稿](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)の詳細情報をご覧ください
 
-- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
+- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
 
 ### <a name="visio"></a>Visio
 
@@ -85,7 +85,7 @@ ms.locfileid: "50603017"
 
 - **固定フォルダーに保存する:** フォルダーをピン留めすると、Office ファイルの保存が簡単になります。  ユーザーは新しいファイルが保存されるときに使用可能なフォルダーをより詳細に制御したいとのフィードバックを受けました。 新しい機能が追加されました。 [保存] ダイアログ ボックスでフォルダーをピン留めできます。 この新しい機能により、Word、Excel、PowerPoint のファイルを簡単に保存できます。 [詳細情報](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />[ブログの投稿](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)の詳細情報をご覧ください
 
-- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
+- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
 
 ### <a name="office-suite"></a>Office スイート
 
@@ -409,7 +409,7 @@ ms.locfileid: "50603017"
 ## <a name="version-2008-february-09"></a>バージョン 2008: 2 月 9 日
 *バージョン 2008 (ビルド 13127.21216)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -470,7 +470,7 @@ ms.locfileid: "50603017"
 ## <a name="version-2008-january-12"></a>バージョン 2008: 1 月 12 日
 *バージョン 2008 (ビルド 13127.21064)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -542,7 +542,7 @@ ms.locfileid: "50603017"
 ## <a name="version-2008-december-08"></a>バージョン 2008: 12 月 08 日
 *バージョン 2008 (ビルド 13127.20910)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -643,7 +643,7 @@ ms.locfileid: "50603017"
 ## <a name="version-2008-november-10"></a>バージョン 2008: 11 月 10 日
 *バージョン 2008 (ビルド 13127.20760)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -691,8 +691,7 @@ ms.locfileid: "50603017"
 
 - 返信または転送時に中国語メッセージのヘッダーが文字化けする問題を修正しました。
 
-- オプションの接続エクスペリエンスが Web アドインの読み込みをブロックする問題を修正しました。  <br />
-  [ブログの投稿](https://developer.microsoft.com/ja-JP/office/blogs/outlook-add-ins-and-optional-connected-experiences/)の詳細情報をご覧ください
+- オプションの接続エクスペリエンスが Web アドインの読み込みをブロックする問題を修正しました。  <br />[ブログの投稿](https://developer.microsoft.com/en-us/office/blogs/outlook-add-ins-and-optional-connected-experiences/)の詳細情報をご覧ください
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -713,7 +712,7 @@ ms.locfileid: "50603017"
 ## <a name="version-2008-october-13"></a>バージョン 2008: 10 月 13 日
 *バージョン 2008 (Build 13127.20638)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -792,7 +791,7 @@ ms.locfileid: "50603017"
 ## <a name="version-2008-september-08"></a>バージョン 2008: 9 月 08 日
 *バージョン 2008(ビルド13127.20408)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
@@ -830,7 +829,7 @@ ms.locfileid: "50603017"
 
 - **受信トレイを離れずに会議に参加する:** オンライン会議に参加するために、予定表に切り替える必要はありません。 [To Do] ウィンドウに固定された予定表を使用して、ワンクリックで任意の会議に参加します。 [詳細情報](https://support.office.com/article/d8baa9d5-0645-41b8-9f36-b498a6c36064 )
 
-- **キャプティブ WiFi ネットワークの新しいエクスペリエンス**: サインインに Web ページを必要とする WiFi ネットワークに参加したことはありませんか ? Outlook はこれを検出し、接続を支援します。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/outlook-on-public-wi-fi-networks-just-got-easier)の詳細情報をご覧ください
+- **キャプティブ WiFi ネットワークの新しいエクスペリエンス**: サインインに Web ページを必要とする WiFi ネットワークに参加したことはありませんか ? Outlook はこれを検出し、接続を支援します。<br />[ブログの投稿](https://insider.office.com/en-us/blog/outlook-on-public-wi-fi-networks-just-got-easier)の詳細情報をご覧ください
 
 - **人物を検索するときにメールの候補を取得する:** [検索] ボックスに人の名前を入力すると、最も関連性の高いメール メッセージが検索候補に含まれます。 [詳細情報](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
@@ -1138,7 +1137,7 @@ ms.locfileid: "50603017"
 ## <a name="version-2002-august-11"></a>バージョン 2002: 8 月 11 日
 *バージョン 2002 (ビルド 12527.20988)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -1175,7 +1174,7 @@ ms.locfileid: "50603017"
 ## <a name="version-2002-july-14"></a>バージョン 2002: 7 月 14 日
 *バージョン 2002 (ビルド 12527.20880)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -1246,7 +1245,7 @@ ms.locfileid: "50603017"
 ## <a name="version-2002-june-09"></a>バージョン 2002: 6 月 9 日
 *バージョン 2002 (ビルド 12527.20720)*
 
-セキュリティ更新プログラムのリストは[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムのリストは[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -1296,7 +1295,7 @@ ms.locfileid: "50603017"
 ## <a name="version-2002-may-12"></a>バージョン 2002: 5 月 12 日
 *バージョン 2002 (ビルド 12527.20612)*
 
-セキュリティ更新プログラムのリストは[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムのリストは[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -1390,7 +1389,7 @@ ms.locfileid: "50603017"
 ## <a name="version-2002-april-14"></a>バージョン 2002: 4 月 14 日
 *バージョン 2002 (ビルド 12527.20442)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 ### <a name="feature-updates"></a>機能の更新プログラム
@@ -1398,8 +1397,7 @@ ms.locfileid: "50603017"
 
 - **複数の値を返す式を入力する:** 複数の値を返す式を素早く入力できるようになりました。隣接するセルに自動的に入力されます。 [詳細情報](https://support.microsoft.com/en-us/office/new-array-functions-003df6c7-1dcb-4388-8e2e-0fe77a0887bc?ui=en-us&rs=en-us&ad=us)
 - **6 つの強力な機能:** スプレッドシートを強化する 6 つの新しい関数が追加されました。FILTER、SORT、SORTBY、UNIQUE、SEQUENCE、RANDARRAY です。  [詳細情報](https://support.microsoft.com/en-us/office/easier-array-formulas-5c2c9cbb-def8-409a-b380-2fbf91b20aa3?ui=en-us&rs=en-us&ad=us)
-- **左を見て、右を見て... XLOOKUP をご利用いただけます!** XLOOKUP を使えば、表や範囲内で必要なものは何でも見つけられます。  
-  [詳細情報](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)
+- **左を見て、右を見て... XLOOKUP をご利用いただけます!** XLOOKUP を使えば、表や範囲内で必要なものは何でも見つけられます。  [詳細情報](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
@@ -1459,7 +1457,7 @@ ms.locfileid: "50603017"
 ## <a name="version-2002-march-10"></a>バージョン 2002: 3 月 10 日
 *バージョン 2002 (ビルド 12527.20278)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
@@ -1772,7 +1770,7 @@ ms.locfileid: "50603017"
 ## <a name="version-1908-february-11"></a>バージョン 1908: 2 月 11 日
 *バージョン 1908 (ビルド 11929.20606)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -1821,7 +1819,7 @@ ms.locfileid: "50603017"
 
 - PowerPoint の初回起動時に、信頼されていないアドインに対してセキュリティ警告メッセージ バーが表示されない問題を修正しました。
 
-### <a name="project"></a>Project
+### <a name="project"></a>プロジェクト
 
 - 基本カレンダーが変更されたときにリソース カレンダーが更新されないために、実際の作業がタイムシートとプロジェクト計画の間で異なる場合があるという問題を修正しました。
 
@@ -1840,7 +1838,7 @@ ms.locfileid: "50603017"
 ## <a name="version-1908-january-14"></a>バージョン 1908: 1 月 14 日
 *バージョン 1908 (ビルド 11929.20562)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT プロフェッショナルに、Microsoft AutoUpdate (MAU) のリリース履歴を提供します
-ms.openlocfilehash: be0b124f22f53cb26742242ac48a62adf75d93f7
-ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
+ms.openlocfilehash: c9d16f2c221612969ec5a7cfb08c2022d287ea7c
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902202"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169716"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) のリリース履歴
  
@@ -262,7 +262,7 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 - SSD 搭載の macOS マシンの場合、更新はより高速で行われ、更新によるアプリのダウンタイムはごくわずかになります。
 
 
-[CVE-2020-0984](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0984) をご覧ください。
+[CVE-2020-0984](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0984) をご覧ください。
 
 **SHA-256 ハッシュ:**
 
@@ -393,7 +393,7 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
  **機能の更新プログラム:**
 
 - MAU のプライバシーの変更: コンプライアンスの一環として、必要なデータ収集に関する通知がエンド ユーザーに表示されます。
-- MAU 更新期限: Mac 管理者は、Mac ユーザー全員に更新を適用するために、MAU 内で期限を設定できるようになりました。 [詳細情報](https://docs.microsoft.com/deployoffice/mac/mau-deadline)
+- MAU 更新期限: Mac 管理者は、Mac ユーザー全員に更新を適用するために、MAU 内で期限を設定できるようになりました。 [詳細情報](/deployoffice/mac/mau-deadline)
 - さまざまなバグとパフォーマンスの修正。
 
 **SHA-256 ハッシュ:**
@@ -440,7 +440,7 @@ ABCC7D58DA7DB1B8B24B9B1BE6B1DB93BDC97AE487EFB615EC5695B9E1CC0FC9
  **機能の更新プログラム:**
 
 - MAU のプライバシーの変更: コンプライアンスの一環として、必要なデータ収集に関する通知がエンド ユーザーに表示されます。
-- MAU 更新期限: Mac 管理者は、Mac ユーザー全員に更新を適用するために、MAU 内で期限を設定できるようになりました。 [詳細情報](https://docs.microsoft.com/deployoffice/mac/mau-deadline)
+- MAU 更新期限: Mac 管理者は、Mac ユーザー全員に更新を適用するために、MAU 内で期限を設定できるようになりました。 [詳細情報](/deployoffice/mac/mau-deadline)
 - さまざまなバグとパフォーマンスの修正。
 
 **SHA-256 ハッシュ:**
@@ -512,4 +512,4 @@ FF676870D5B3521202095810B85DEF36538B59E00AEA44A2ED0D7EA8B3B99D6C
 ## <a name="related-articles"></a>関連記事
 
 - [Office for Mac の更新履歴](update-history-office-for-mac.md)
-- [Office for Mac のリリース ノート](release-notes-office-for-mac.md) 
+- [Office for Mac のリリース ノート](release-notes-office-for-mac.md)

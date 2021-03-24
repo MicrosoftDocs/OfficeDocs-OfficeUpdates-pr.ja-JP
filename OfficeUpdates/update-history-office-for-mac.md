@@ -9,20 +9,20 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT プロフェッショナルに、office for Mac の最新更新プログラムに関する情報を提供します。それには、ダウンロード パッケージへのリンク、更新履歴が含まれます
-ms.openlocfilehash: dcb932bcb6a15b27b8340c6451f24812418807cf
-ms.sourcegitcommit: 39d26fb1a6f01b0a2da9c33530de5479fbac1084
+ms.openlocfilehash: d9ec4db6eb877e99ee3c7758f4050512b51bb669
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/17/2021
-ms.locfileid: "50837495"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170176"
 ---
 # <a name="update-history-for-office-for-mac"></a>Office for Mac の更新履歴
   
 Microsoft 365 サブスクリプションに付属する Office for Mac は、新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムを提供するために定期的に更新されます。次に示す情報は、組織内のユーザーに Office for Mac を展開する IT 担当者を主な対象としています。
 
 > [!NOTE]
-> - バージョン 16.21 以降、Office スイートのインストール パッケージを使用している場合、***新規*** インストールであれば、既定で Microsoft Teams がインストールされます。詳細については、「[Mac 上の Microsoft Teams のインストール](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac)」を参照してください。  
-> - セキュリティ上の理由から、Microsoft では SHA-1 は使用されなくなりました。[詳細情報](https://docs.microsoft.com/security-updates/SecurityAdvisories/2017/4010323)
+> - バージョン 16.21 以降、Office スイートのインストール パッケージを使用している場合、***新規*** インストールであれば、既定で Microsoft Teams がインストールされます。詳細については、「[Mac 上の Microsoft Teams のインストール](/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac)」を参照してください。  
+> - セキュリティ上の理由から、Microsoft では SHA-1 は使用されなくなりました。[詳細情報](/security-updates/SecurityAdvisories/2017/4010323)
 > - 2018 年 9 月の 16.17 リリース以降では、この情報は、Office 2019 for Mac にも該当します。これは、小売店またはボリューム ライセンス契約によって 1 回限りの購入で使用できる Office for Mac のバージョンです。
 > - 指定されたリリースの Office for Mac に含まれる機能、セキュリティ更新プログラム、およびセキュリティ以外の更新プログラムの詳細については、「[Office for Mac のリリース ノート](release-notes-office-for-mac.md)」をご覧ください。
 > - 新規リリースをより早く利用するには、[Office Insider](https://support.office.com/article/f4208185-b63a-4b68-9c7a-9a32d2411c16#ID0EAACAAA=Mac) プログラムにご参加ください。

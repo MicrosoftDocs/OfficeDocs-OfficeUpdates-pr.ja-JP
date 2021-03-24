@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: de8740891378ab34cb7944fff94aaf204d27e43c
-ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
+ms.openlocfilehash: f8d234b83d6b08b1f6fd15630055bb150441322b
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902142"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169956"
 ---
 # <a name="release-notes-for-beta-channel"></a>ベータ チャネルのリリース ノート
 
 この記事には、Windows デスクトップ向け Word、Excel、PowerPoint、Outlook、Access、Project のベータ チャネル ビルドのリリース ノートが含まれています。 Microsoft では、毎週、皆様にお知らせしたい魅力的な新機能、重要な修正プログラム、重大な問題に関する情報を提供しています。 多くの場合、機能 (場合によっては修正プログラムも) は、特定の期間にわたってベータ チャネルにロールアウトされます。 これにより、Microsoft では、より広範な対象ユーザーに機能をリリースする前に、作業がスムーズに行われていることを確認できます。 以下に示すものが表示されない場合でも、最終的には入手できますのでご安心ください。  
 
 > [!IMPORTANT]
-> 現在、Microsoft 365 Apps の更新プログラム チャネルに、新しい更新プログラム チャネル (月次エンタープライズ チャネル) の追加や既存の更新プログラム チャネル名の変更など、いくつかの変更を進めています。 詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2127441)を参照してください。
+> 現在、Microsoft 365 Apps の更新プログラム チャネルに、新しい更新プログラム チャネル (月次エンタープライズ チャネル) の追加や既存の更新プログラム チャネル名の変更など、いくつかの変更を進めています。 詳細については、[こちらの記事](/DeployOffice/update-channels-changes)を参照してください。
 
 > [!NOTE]
 > - リリース ノートは毎週投稿され、場合により複数のビルドのコンパイルになります。
@@ -387,19 +387,19 @@ ms.locfileid: "50902142"
 ### <a name="feature-updates"></a>機能の更新プログラム
 ### <a name="excel"></a>Excel
 
-- **政府機関のお客様: ドキュメントおよびメールに秘密度ラベルを適用する:** GCC および GCC-H 環境のお客様は、秘密度のラベル付け機能を利用できるようになりました。 [詳細情報](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府機関のお客様: ドキュメントおよびメールに秘密度ラベルを適用する:** GCC および GCC-H 環境のお客様は、秘密度のラベル付け機能を利用できるようになりました。 [詳細情報](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="outlook"></a>Outlook
 
-- **政府機関のお客様: ドキュメントおよびメールに秘密度ラベルを適用する:** GCC および GCC-H 環境のお客様は、秘密度のラベル付け機能を利用できるようになりました。 [詳細情報](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府機関のお客様: ドキュメントおよびメールに秘密度ラベルを適用する:** GCC および GCC-H 環境のお客様は、秘密度のラベル付け機能を利用できるようになりました。 [詳細情報](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **政府機関のお客様: ドキュメントおよびメールに秘密度ラベルを適用する:** GCC および GCC-H 環境のお客様は、秘密度のラベル付け機能を利用できるようになりました。 [詳細情報](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府機関のお客様: ドキュメントおよびメールに秘密度ラベルを適用する:** GCC および GCC-H 環境のお客様は、秘密度のラベル付け機能を利用できるようになりました。 [詳細情報](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="word"></a>Word
 
-- **政府機関のお客様: ドキュメントおよびメールに秘密度ラベルを適用する:** GCC および GCC-H 環境のお客様は、秘密度のラベル付け機能を利用できるようになりました。 [詳細情報](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府機関のお客様: ドキュメントおよびメールに秘密度ラベルを適用する:** GCC および GCC-H 環境のお客様は、秘密度のラベル付け機能を利用できるようになりました。 [詳細情報](/microsoft-365/compliance/sensitivity-labels)
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -675,7 +675,7 @@ ms.locfileid: "50902142"
 
 ### <a name="word"></a>Word
 
-- **最新のコメントによる共同作業の向上:** オブジェクトにコメントを追加したり、同僚に @mention したり、コメント スレッドを解決して共同作業を効率化できます。 [詳細情報](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/modern-commenting-in-word)の詳細情報をご覧ください
+- **最新のコメントによる共同作業の向上:** オブジェクトにコメントを追加したり、同僚に @mention したり、コメント スレッドを解決して共同作業を効率化できます。 [詳細情報](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)<br />[ブログの投稿](https://insider.office.com/en-us/blog/modern-commenting-in-word)の詳細情報をご覧ください
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -1618,19 +1618,19 @@ ms.locfileid: "50902142"
 ### <a name="feature-updates"></a>機能の更新プログラム
 ### <a name="excel"></a>Excel
 
-- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
+- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
 
 ### <a name="outlook"></a>Outlook
 
-- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
+- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
+- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
 
 ### <a name="word"></a>Word
 
-- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
+- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
 
@@ -2478,13 +2478,13 @@ ms.locfileid: "50902142"
 ### <a name="feature-updates"></a>機能の更新プログラム
 
 ### <a name="excel"></a>Excel
-- **秘密度ラベル**: カスタム アクセス許可を求められるように組織で構成された秘密度ラベルを適用できるようになりました。 [詳細情報](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **秘密度ラベル**: カスタム アクセス許可を求められるように組織で構成された秘密度ラベルを適用できるようになりました。 [詳細情報](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
 
 ### <a name="powerpoint"></a>PowerPoint
-- **秘密度ラベル**: カスタム アクセス許可を求められるように組織で構成された秘密度ラベルを適用できるようになりました。 [詳細情報](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **秘密度ラベル**: カスタム アクセス許可を求められるように組織で構成された秘密度ラベルを適用できるようになりました。 [詳細情報](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
 
 ### <a name="word"></a>Word
-- **秘密度ラベル**: カスタム アクセス許可を求められるように組織で構成された秘密度ラベルを適用できるようになりました。 [詳細情報](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **秘密度ラベル**: カスタム アクセス許可を求められるように組織で構成された秘密度ラベルを適用できるようになりました。 [詳細情報](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
 

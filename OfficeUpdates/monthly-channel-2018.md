@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の 2018 年の毎月のチャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: bcf8417d7dfe8796f3e67e6cf1950320e5c9019a
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+ms.openlocfilehash: d4cca950f63a31f9f57583c62781893bf6e6fbf3
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48369895"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169786"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018 年の毎月のチャネル リリースのリリース ノート
 
@@ -426,7 +426,7 @@ ms.locfileid: "48369895"
 -   **メールの聞き取り:** Outlook でメールを読み上げることができるようになりました。読み上げと同時にテキストが強調表示されます。[詳細情報](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
 -   **アラームを見落とさない:** 作業中のウィンドウ上にポップアップ表示されるように、アラームを設定できます。設定しない場合でも、Outlook がタスク バーで点滅してユーザーの注意を引きます。[詳細情報](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 -   **削除済みアイテムを開封済みに:** 削除したメッセージすべてを開封済みとして設定できるようになりました。[ファイル] \> [オプション] \> [メール] \> [その他] の順に移動して、オプトインします。
--   **暗号化オプション:** Office 365 Message Encryption ユーザーは、メッセージを暗号化して、組織内外の任意のユーザーに送信できます。暗号化オプションは、メッセージ作成時に [オプション] \> [アクセス許可] に表示されます。 [詳細情報](https://aka.ms/omeoverview)
+-   **暗号化オプション:** Office 365 Message Encryption ユーザーは、メッセージを暗号化して、組織内外の任意のユーザーに送信できます。暗号化オプションは、メッセージ作成時に [オプション] \> [アクセス許可] に表示されます。 [詳細情報](/microsoft-365/compliance/ome)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新
 -   **手書き内容の変換:** フリーハンドのメモや描画を読みやすいテキストや整った図形に変換して、洗練されたプレゼンテーションを作成します。 [詳細情報](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
@@ -460,7 +460,7 @@ ms.locfileid: "48369895"
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950): Microsoft Office の情報漏えいの脆弱性
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026): Microsoft Office のリモート コード実行の脆弱性
 -   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030): Microsoft Office のリモート コード実行の脆弱性
--   **セキュリティ上の理由から、Office での Flash、Silverlight、および Shockwave のコントロールのアクティブ化がブロックされる:** セキュリティ上の理由から、Windows 上の Microsoft Office for Office 365 の新しいビルドでは、Flash、Silverlight、および Shockwave のコントロールのアクティブ化がブロックされます。詳細については、[こちら](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)および[こちら](https://support.office.com/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1)をご覧ください。
+-   **セキュリティ上の理由から、Office での Flash、Silverlight、および Shockwave のコントロールのアクティブ化がブロックされる:** セキュリティ上の理由から、Windows 上の Microsoft Office for Office 365 の新しいビルドでは、Flash、Silverlight、および Shockwave のコントロールのアクティブ化がブロックされます。詳細については、[こちら](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)および [こちら](https://support.office.com/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1)をご覧ください。
 
 ## <a name="version-1803-march-27"></a>バージョン 1803: 3 月 27 日
 *バージョン 1803 (ビルド 9126.2116)*
@@ -601,7 +601,7 @@ ms.locfileid: "48369895"
 -   着信の PSTN 呼び出しのトースト UI に通話の転送ボタンを追加します。
 -   ChatDefaultClient と CallDefaultClient がチームに設定されているとき、通話とチャットがチームに送信されていることをユーザーに通知します。
 -   会議に参加しておらず、Skype for Business で無効になっており、会議参加エクスペリエンスが [Native Limited Client] に設定されているユーザーの場合、ユーザーのプレゼンスは [オフライン] と表示されます。
--   Skype for Business が通知エリアに最小化されているときに、[開く] および [終了] 以外のすべてのオプションを無効にします。 
+-   Skype for Business が通知エリアに最小化されているときに、[開く] および [終了] 以外のすべてのオプションを無効にします。 
 -   Aries の電話と RedirectClient とのペアリングが有効である場合、新しい通話と会話を表示しません。
 -   日付形式が US 形式 (mm/dd/yy) 以外の場合、日付を使った PChat のメッセージの検索が失敗する問題を修正します。
 -   EnableExternalP2PFileTransfer ポリシーが false に設定されている場合でも、ユーザーが引き続き会議にファイルを添付できる問題を修正します。

@@ -9,24 +9,24 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT 担当者に、日付ごとに整理した Microsoft 365 Apps のリリースすべての一覧を、リリース ノートへのリンクを含めて提供します
-ms.openlocfilehash: d993a73632974765870844af68ecb0d0591e9f36
-ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
+ms.openlocfilehash: c1e99728c8928e7f014f46fc5598102f8f92f72d
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902152"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170206"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 Apps の更新履歴 (日付別の一覧)
 
 この記事に記載されているバージョンとビルド番号は、Microsoft 365 Apps for enterprise、Microsoft 365 Apps for business、および Project と Visio のデスクトップ アプリのサブスクリプション版に適用されます。
 
 > [!IMPORTANT]
-> - 現在、Microsoft 365 Apps の更新プログラム チャネルに、新しい更新プログラム チャネル (月次エンタープライズ チャネル) の追加や既存の更新プログラム チャネル名の変更など、いくつかの変更を進めています。 詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2127441)を参照してください。
-> - バージョン 2004 以降の Office 365 ProPlus は Microsoft 365 Apps for enterprise に名前が変更されています。 詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2123420)を参照してください。 Microsoft のドキュメントでは通常、Microsoft 365 Apps として扱います。
+> - 現在、Microsoft 365 Apps の更新プログラム チャネルに、新しい更新プログラム チャネル (月次エンタープライズ チャネル) の追加や既存の更新プログラム チャネル名の変更など、いくつかの変更を進めています。 詳細については、[こちらの記事](/DeployOffice/update-channels-changes)を参照してください。
+> - バージョン 2004 以降の Office 365 ProPlus は Microsoft 365 Apps for enterprise に名前が変更されています。 詳細については、[こちらの記事](/deployoffice/name-change)を参照してください。 Microsoft のドキュメントでは通常、Microsoft 365 Apps として扱います。
 
 > [!NOTE]
 > - この表ではリリース日付順に表示され、最新リリース日が最初に示されています。
-> - 更新プログラム チャネルの詳細については、「[Microsoft 365 Apps 用更新プログラム チャネルの概要](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)」を参照してください。
+> - 更新プログラム チャネルの詳細については、「[Microsoft 365 Apps 用更新プログラム チャネルの概要](/DeployOffice/overview-of-update-channels-for-office-365-proplus)」を参照してください。
 
 次の表では、サポートされているバージョンと最新のビルド番号を更新プログラム チャネルごとに記載しています。 リリース日は、最新のビルドがいつリリースされたかを示します。
 
@@ -45,7 +45,7 @@ ms.locfileid: "50902152"
 
 [//]: # (EOSTABLEEND)
 
-以前のリリースの Microsoft 365 Apps から最新の現在のリリースへ更新する場合のおおよそのダウンロード サイズについて詳しくは、「[Microsoft 365 Apps の更新プログラムのダウンロード サイズ](download-sizes-office365-proplus-updates.md)」をご覧ください。
+以前のリリースの Microsoft 365 Apps から最新の現在のリリースへ更新する場合のおおよそのダウンロード サイズについて詳しくは、「[Microsoft 365 Apps の更新プログラムのダウンロード サイズ](./download-sizes-microsoft365-apps-updates.md)」をご覧ください。
 
 次の表は、更新プログラム チャネルでリリースされた Microsoft 365 アプリの各更新プログラムのバージョン番号とビルド番号のリストです。現在のところ、月次エンタープライズ、半期エンタープライズ (プレビュー)、および半期エンタープライズ チャネルがあります。 それぞれの表の記載項目をクリックすると、該当するリリースのリリース ノートを直接参照することができます。 これらのリリース ノートには、Microsoft 365 Apps の更新プログラムに含まれている機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムに関する情報が記載されています。
 
@@ -139,10 +139,10 @@ ms.locfileid: "50902152"
 |2019|3 月 25 日 |[バージョン 1902 (ビルド 11328.20222)](monthly-channel-archived.md#version-1902-march-25)| | | |
 |2019|3 月 12 日 |[バージョン 1902 (ビルド 11328.20158)](monthly-channel-archived.md#version-1902-march-12)| |[バージョン 1902 (ビルド 11328.20158)](semi-annual-enterprise-channel-preview-archived.md#version-1902-march-12) |[バージョン 1808 (ビルド 10730.20304)](semi-annual-enterprise-channel-archived.md#version-1808-march-12)  <br/> | |
 |2019|3 月 4 日  |[バージョン 1902 (ビルド 11328.20146)](monthly-channel-archived.md#version-1902-march-4)| | | |
-|2019|2 月 12 日 |[バージョン 1901 (ビルド 11231.20174)](monthly-channel-archived.md#version-1901-february-12)| |[バージョン 1808 (ビルド 10730.20280)](semi-annual-enterprise-channel-preview-archived.md#version-1808-february-12) |[バージョン 1808 (ビルド 10730.20280)](semi-annual-enterprise-channel-archived.md#version-1808-february-12)  <br/>  [バージョン 1803 (ビルド 9126.2356)](semi-annual-enterprise-channel-archived.md#version-1803-february-12)  <br/> [バージョン 1708 (ビルド 8431.2372)](office365-proplus-security-updates.md#february-12-2019) |
+|2019|2 月 12 日 |[バージョン 1901 (ビルド 11231.20174)](monthly-channel-archived.md#version-1901-february-12)| |[バージョン 1808 (ビルド 10730.20280)](semi-annual-enterprise-channel-preview-archived.md#version-1808-february-12) |[バージョン 1808 (ビルド 10730.20280)](semi-annual-enterprise-channel-archived.md#version-1808-february-12)  <br/>  [バージョン 1803 (ビルド 9126.2356)](semi-annual-enterprise-channel-archived.md#version-1803-february-12)  <br/> [バージョン 1708 (ビルド 8431.2372)](./microsoft365-apps-security-updates.md#february-12-2019) |
 |2019|1 月 31 日   |[バージョン 1901 (ビルド 11231.20130)](monthly-channel-archived.md#version-1901-january-31)| | | |
 |2019|1 月 14 日   |[バージョン 1812 (ビルド 11126.20266)](monthly-channel-archived.md#version-1812-january-14)| | | |
-|2019|1 月 8 日 |[バージョン 1812 (ビルド 11126.20196)](monthly-channel-archived.md#version-1812-january-8)| |[バージョン 1808 (ビルド 10730.20264)](semi-annual-enterprise-channel-preview-archived.md#version-1808-january-8) |[バージョン 1808 (ビルド 10730.20264)](semi-annual-enterprise-channel-archived.md#version-1808-january-8)  <br/>  [バージョン 1803 (ビルド 9126.2351)](semi-annual-enterprise-channel-archived.md#version-1803-january-8)  <br/> [バージョン 1708 (ビルド 8431.2366)](office365-proplus-security-updates.md#january-8-2019) |
+|2019|1 月 8 日 |[バージョン 1812 (ビルド 11126.20196)](monthly-channel-archived.md#version-1812-january-8)| |[バージョン 1808 (ビルド 10730.20264)](semi-annual-enterprise-channel-preview-archived.md#version-1808-january-8) |[バージョン 1808 (ビルド 10730.20264)](semi-annual-enterprise-channel-archived.md#version-1808-january-8)  <br/>  [バージョン 1803 (ビルド 9126.2351)](semi-annual-enterprise-channel-archived.md#version-1803-january-8)  <br/> [バージョン 1708 (ビルド 8431.2366)](./microsoft365-apps-security-updates.md#january-8-2019) |
 |2019|1 月 3 日   |[バージョン 1812 (ビルド 11126.20188)](monthly-channel-archived.md#version-1812-january-3)| | | |
 |2018|12 月 11 日 |[バージョン 1811 (ビルド 11029.20108)](monthly-channel-2018.md#version-1811-december-11)| |[バージョン 1808 (ビルド 10730.20262)](semi-annual-channel-targeted-2018.md#version-1808-december-11) |[バージョン 1803 (ビルド 9126.2336)](semi-annual-channel-2018.md#version-1803-december-11)  <br/>  [バージョン 1708 (ビルド 8431.2351)](semi-annual-channel-2018.md#version-1708-december-11)   |
 |2018|11 月 27 日   |[バージョン 1811 (ビルド 11029.20079)](monthly-channel-2018.md#version-1811-november-27)| | | |
@@ -225,9 +225,9 @@ ms.locfileid: "50902152"
 
 ## <a name="related-topics"></a>関連項目
 
-- [Microsoft 365 Apps 用更新プログラム チャネルの概要](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
-- [Microsoft 365 Apps の更新プログラムに関するリリース情報](release-notes-office365-proplus.md)
-- [Microsoft 365 Apps の更新プログラムのダウンロード サイズ](download-sizes-office365-proplus-updates.md)
+- [Microsoft 365 Apps 用更新プログラム チャネルの概要](/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Microsoft 365 Apps の更新プログラムに関するリリース情報](./release-notes-microsoft365-apps.md)
+- [Microsoft 365 Apps の更新プログラムのダウンロード サイズ](./download-sizes-microsoft365-apps-updates.md)
 
 > [!NOTE]
 > Office の使用で問題がある場合は、[Microsoft の回答フォーラム](https://answers.microsoft.com/)に関するページまたは「[Microsoft Tech Community](https://techcommunity.microsoft.com/)」に質問を投稿するか、[サポート](https://support.microsoft.com/contactus)に問い合わせてサポートを受けることができます。

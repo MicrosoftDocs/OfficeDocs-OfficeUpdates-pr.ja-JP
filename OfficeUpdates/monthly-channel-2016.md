@@ -1,5 +1,5 @@
 ---
-title: 2016の月次チャネルリリースのリリースノート
+title: 2016 年の月次チャネル リリースのリリース ノート
 ms.author: anankani
 author: andymosten
 manager: anankani
@@ -9,40 +9,40 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: IT プロフェッショナルに、Office 365 ProPlus の月次チャネルリリースのリリースノートを2016で提供します。
-ms.openlocfilehash: 11e672280c3a41e9d73782b13c43d286171de7b1
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+description: 2016 年の 365 ProPlus の月次チャネル Officeリリース ノートを IT プロに提供
+ms.openlocfilehash: 9d51cecc870d48f0e6659dde1c6714d2c49c0e43
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48369925"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169876"
 ---
-# <a name="release-notes-for-monthly-channel-releases-in-2016"></a>2016の月次チャネルリリースのリリースノート
+# <a name="release-notes-for-monthly-channel-releases-in-2016"></a>2016 年の月次チャネル リリースのリリース ノート
 
-これらのリリースノートでは、2016の Office 365 ProPlus への月次チャネル更新に含まれる新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムについて説明します。
+これらのリリース ノートでは、2016 年の Office 365 ProPlus の月次チャネル更新プログラムに含まれる新機能、セキュリティ更新プログラム、およびセキュリティ以外の更新プログラムに関する情報を提供します。
  
 > [!NOTE]
 > - また、Visio Pro for Office 365 および Project Online デスクトップ クライアントの新機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムについても説明しています。
 > - ここに記載されている情報は、Business Premium など一部の Office 365 プランに付属する Office のバージョンの、Office 365 Business にも該当します。
-> - 月次チャネルは、2017年9月より前に Current Channel という名前が付けられました。
+> - 月次チャネルは、2017 年 9 月より前に現在のチャネルと名付けされました。
 
-## <a name="version-1611-december-13"></a>バージョン 1611:12 月13日
+## <a name="version-1611-december-13"></a>バージョン 1611: 12 月 13 日
 *バージョン 1611 (ビルド 7571.2075)*
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティの更新
--   マイクロソフト セキュリティ情報 [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Microsoft Office のセキュリティ更新プログラム (3204068)
+-   マイクロソフト セキュリティ情報 [MS16-148](/security-updates/SecurityBulletins/2016/ms16-148): Microsoft Office のセキュリティ更新プログラム (3204068)
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Microsoft Office のセキュリティ更新プログラム (3204068)
+-   マイクロソフト セキュリティ情報 [MS16-148](/security-updates/SecurityBulletins/2016/ms16-148): Microsoft Office のセキュリティ更新プログラム (3204068)
 
 
-## <a name="version-1611-december-6"></a>バージョン 1611:12 月6日
+## <a name="version-1611-december-6"></a>バージョン 1611: 12 月 6 日
 *バージョン 1611 (ビルド 7571.2072)*
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
 -   **マップ グラフ:** 異なる地理的領域間で値を比較し、カテゴリを表示します。 [詳細情報](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 -   **SVG 画像:** ブックにスケーラブル ベクター グラフィックス (SVG) を挿入して編集します。 [詳細情報](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **挿入アイコン:**  [図の挿入] アイコンを使用して、スケーラブルベクターグラフィックス (SVG) ファイルの標準ライブラリからアイコンを使用 \> \> します。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **アイコンの挿入:** [挿入] \> [イラスト] \> [アイコン] の順に移動して、スケーラブル ベクター グラフィックス (SVG) ファイルの標準ライブラリのアイコンを使用します。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **最近使用したフォルダーへの保存:** [ファイル] \> [名前を付けて保存] の順に移動し、[最近使用した項目] タブを使用して、最近使用したフォルダーにブックを保存します。
 -   **アクセシビリティ機能の向上:** ブックの読み取りと編集に、キーボード、ナレーター、その他の支援技術を使用するためのサポートが改善されました。 [詳細情報](https://support.office.com/article/51fcb17a-b15b-4b13-ae04-d4f38ece3f78)
 
@@ -54,13 +54,13 @@ ms.locfileid: "48369925"
 
 ### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
 -   **SVG 画像:** 電子メールにスケーラブル ベクター グラフィックス (SVG) を挿入して編集します。 [詳細情報](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **挿入アイコン:**  [図の挿入] アイコンを使用して、スケーラブルベクターグラフィックス (SVG) ファイルの標準ライブラリからアイコンを使用 \> \> します。  [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **アイコンの挿入:** [挿入] \> [イラスト] \> [アイコン] の順に移動して、スケーラブル ベクター グラフィックス (SVG) ファイルの標準ライブラリのアイコンを使用します。  [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **タップ:** 組織の関連するドキュメントからコンテンツを探し、再利用します。 [詳細情報](https://support.office.com/article/860118fc-1f61-41f6-922f-40084a284658)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: 機能の更新
 -   **SVG 画像:** プレゼンテーションにスケーラブル ベクター グラフィックス (SVG) を挿入して編集します。 [詳細情報](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **挿入アイコン:**  [図の挿入] アイコンを使用して、スケーラブルベクターグラフィックス (SVG) ファイルの標準ライブラリからアイコンを使用 \> \> します。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
--   **共同編集時のリアルタイム入力:** 他のユーザーがプレゼンテーションで作業している場所を確認し、入力した変更を表示します。 [詳細情報](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
+-   **アイコンの挿入:** [挿入] \> [イラスト] \> [アイコン] の順に移動して、スケーラブル ベクター グラフィックス (SVG) ファイルの標準ライブラリのアイコンを使用します。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **共同編集時のリアルタイム入力:** プレゼンテーションで他のユーザーが作業している場所を確認し、入力時に変更を表示します。 [詳細情報](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **最近使用したフォルダーへの保存:** [ファイル] \> [名前を付けて保存] の順に移動し、[最近使った項目] タブを使用して、最近使用したフォルダーにプレゼンテーションを保存します。
 -   **正確なインク図形の作成:** セグメント消しゴムをドラッグして、線のぎりぎりまで余分なインクを削除します。
 -   **ペンを使ったオブジェクトの選択と操作:** デジタル ペンを使ってオブジェクト ハンドルをつかみ、オブジェクトの移動、サイズ変更、回転を行うか、サポートされているペン ボタンを使って、インクのなげなわ選択を行います。
@@ -81,7 +81,7 @@ ms.locfileid: "48369925"
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: 機能の更新
 
--   **UI を "共有" に更新します。**  UI 要素で "Present" を "共有" に変更します。たとえば、[デスクトップの表示] を "共有画面" に変更し、[プログラムの表示] を [共有ウィンドウ] に変更します。
+-   **UI の [共有] への更新:** [デスクトップの表示] を [画面の共有] に、[プログラムの表示] を [ウィンドウ??の共有] に変更するなど、UI 要素で [表示] を [共有] に変更します。
 -   **[自分の番号] の無効化:** DisableDisplayMyNumber レジストリ エントリを使用して、ダイヤル パッドの下の “自分の番号” を無効にします。
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: セキュリティ以外の更新プログラム
@@ -119,7 +119,7 @@ ms.locfileid: "48369925"
 
 ### <a name="word-feature-updates"></a>Word: 機能の更新
 -   **SVG 画像:** ドキュメントにスケーラブル ベクター グラフィックス (SVG) を挿入して編集します。 [詳細情報](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **挿入アイコン:**  [図の挿入] アイコンを使用して、スケーラブルベクターグラフィックス (SVG) ファイルの標準ライブラリからアイコンを使用 \> \> します。  [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **アイコンの挿入:** [挿入] \> [イラスト] \> [アイコン] の順に移動して、スケーラブル ベクター グラフィックス (SVG) ファイルの標準ライブラリのアイコンを使用します。  [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **最近使用したフォルダーへの保存:** [ファイル] \> [名前を付けて保存] の順に移動し、[最近使用した項目] タブを使用して、最近使用したフォルダーにドキュメントを保存します。
 -   **学習ツールでの閲覧機能の向上:** 閲覧モードでの新しいコマンドにより、文字間隔の調整、音節間の区切りの表示、およびドキュメントを音声で読み上げる際に各単語の強調表示が行われ、読み上げのスキルが向上しました。 [詳細情報](https://support.office.com/article/29efa413-e2da-4cac-b2a5-2defc6d34fd9)
 -   **アクセシビリティ機能の向上:** ドキュメントの読み取りと編集に、キーボード、ナレーター、その他の支援技術を使用するためのサポートが改善されました。 [詳細情報](https://support.office.com/article/69aed572-336e-4722-a97e-23393cc481b2)
@@ -131,11 +131,11 @@ ms.locfileid: "48369925"
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 -   フレームの Z オーダーが機能しなくなる、または正しく表示されなくなる可能性のある VBA フォームに関する問題を修正します。
--   Configuration Manager によってトリガーされるの更新プログラムによって、レジストリの UpdateChannel 設定が有効な更新プログラムチャネルではないものに変更されるという問題を修正します。
+-   Configuration Manager によってトリグされた更新プログラムが、レジストリの UpdateChannel 設定を有効な更新チャネルではない更新プログラムに変更する問題を修正します。
 
 
 
-## <a name="version-1610-november-10"></a>バージョン 1610:11 月10日
+## <a name="version-1610-november-10"></a>バージョン 1610: 11 月 10 日
 *バージョン 1610 (ビルド 7466.2038)*
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
@@ -198,18 +198,18 @@ ms.locfileid: "48369925"
 
 
 
-## <a name="version-1609-november-8"></a>バージョン 1609:11 月8日
+## <a name="version-1609-november-8"></a>バージョン 1609: 11 月 8 日
 *バージョン 1609 (ビルド 7369.2055)*
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティの更新
--   マイクロソフト セキュリティ情報 [MS16-133](https://technet.microsoft.com/library/security/ms16-133): Microsoft Office のセキュリティ更新プログラム (3199168)
+-   マイクロソフト セキュリティ情報 [MS16-133](/security-updates/SecurityBulletins/2016/ms16-133): Microsoft Office のセキュリティ更新プログラム (3199168)
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報[MS16 133](https://technet.microsoft.com/library/security/ms16-133): Microsoft Office (3199168) のセキュリティ更新プログラム
+-   マイクロソフト セキュリティ情報[MS16 133](/security-updates/SecurityBulletins/2016/ms16-133): Microsoft Office (3199168) のセキュリティ更新プログラム
 
 
 
-## <a name="version-1609-november-2"></a>バージョン 1609:11 月2日
+## <a name="version-1609-november-2"></a>バージョン 1609: 11 月 2 日
 *バージョン 1609 (ビルド 7369.2054)*
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
@@ -245,7 +245,7 @@ ms.locfileid: "48369925"
 
 
 
-## <a name="version-1609-october-11"></a>バージョン 1609:10 月11日
+## <a name="version-1609-october-11"></a>バージョン 1609: 10 月 11 日
 *バージョン 1609 (ビルド 7369.2038)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: セキュリティ以外の更新プログラム
@@ -255,14 +255,14 @@ ms.locfileid: "48369925"
 -   添付ファイルを含むメール メッセージをデジタル署名または暗号化すると、添付ファイルの内容が失われる問題を修正します。
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS16-120](https://technet.microsoft.com/library/security/ms16-120): Microsoft グラフィック コンポーネントのセキュリティ更新プログラム (3192884)
+-   マイクロソフト セキュリティ情報 [MS16-120](/security-updates/SecurityBulletins/2016/ms16-120): Microsoft グラフィック コンポーネントのセキュリティ更新プログラム (3192884)
 
 ### <a name="word-security-updates"></a>Word: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS16-121](https://technet.microsoft.com/library/security/ms16-121): Microsoft Office のセキュリティ更新プログラム (3194063)
+-   マイクロソフト セキュリティ情報 [MS16-121](/security-updates/SecurityBulletins/2016/ms16-121): Microsoft Office のセキュリティ更新プログラム (3194063)
 
 
 
-## <a name="version-1609-october-4"></a>バージョン 1609:10 月4日
+## <a name="version-1609-october-4"></a>バージョン 1609: 10 月 4 日
 *バージョン 1609 (ビルド 7369.2024)*
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
@@ -279,7 +279,7 @@ ms.locfileid: "48369925"
 -   タグを検索しているときに、テキスト行の複数のタグのうち最初のタグだけが [タグの要約] パネルに表示される問題を修正します。
 
 ### <a name="outlook-feature-updates"></a>Outlook: 機能の更新
--   ** \@ メンション:** 受信者が、電子メールアイテムまたは予定表アイテムの本文に @ 記号の後にユーザー名を付加することによって、入力またはアクションを要求していることを確認します。 これにより、それらの人は To 行にも自動的に追加されます。 [詳細情報](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
+-   **\@ メンション:** @ 記号の後に、そのユーザーの名前をメールまたは予定表アイテムの本文に含めて、受信者が入力またはアクションを求めらたと知っている必要があります。 これにより、それらの人は To 行にも自動的に追加されます。 [詳細情報](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
 
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
 -   カスタマイズしたひな形を既定のテーマとして使用すると、余分な改行が新しいメール メッセージに追加され、フォントが Calibri に設定される問題を修正します。
@@ -330,7 +330,7 @@ ms.locfileid: "48369925"
 
 
 
-## <a name="version-1608-september-26"></a>バージョン 1608: 9 月26日
+## <a name="version-1608-september-26"></a>バージョン 1608: 9 月 26 日
 *バージョン 1608 (ビルド 7341.2035)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: セキュリティ以外の更新プログラム
@@ -342,7 +342,7 @@ ms.locfileid: "48369925"
 
 
 
-## <a name="version-1608-september-21"></a>バージョン 1608: 9 月21日
+## <a name="version-1608-september-21"></a>バージョン 1608: 9 月 21 日
 *バージョン 1608 (ビルド 7341.2032)*
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
@@ -389,24 +389,24 @@ ms.locfileid: "48369925"
 
 
 
-## <a name="version-1607-september-13"></a>バージョン 1607: 9 月13日
+## <a name="version-1607-september-13"></a>バージョン 1607: 9 月 13 日
 *バージョン 1607 (ビルド 7167.2060)*
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティの更新
--   マイクロソフト セキュリティ情報 [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Microsoft Office のセキュリティ更新プログラム (3185852)
+-   マイクロソフト セキュリティ情報 [MS16-107](/security-updates/SecurityBulletins/2016/ms16-107): Microsoft Office のセキュリティ更新プログラム (3185852)
 
 ### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Microsoft Office のセキュリティ更新プログラム (3185852)
+-   マイクロソフト セキュリティ情報 [MS16-107](/security-updates/SecurityBulletins/2016/ms16-107): Microsoft Office のセキュリティ更新プログラム (3185852)
 
 ### <a name="visio-security-updates"></a>Visio: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Microsoft Office のセキュリティ更新プログラム (3185852)
+-   マイクロソフト セキュリティ情報 [MS16-107](/security-updates/SecurityBulletins/2016/ms16-107): Microsoft Office のセキュリティ更新プログラム (3185852)
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Microsoft Office のセキュリティ更新プログラム (3185852)
+-   マイクロソフト セキュリティ情報 [MS16-107](/security-updates/SecurityBulletins/2016/ms16-107): Microsoft Office のセキュリティ更新プログラム (3185852)
 
 
 
-## <a name="version-1607-september-6"></a>バージョン 1607: 9 月6日
+## <a name="version-1607-september-6"></a>バージョン 1607: 9 月 6 日
 *バージョン 1607 (ビルド 7167.2055)*
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
@@ -414,7 +414,7 @@ ms.locfileid: "48369925"
 
 
 
-## <a name="version-1607-august-31"></a>バージョン 1607: 8 月31日
+## <a name="version-1607-august-31"></a>バージョン 1607: 8 月 31 日
 *バージョン 1607 (ビルド 7167.2047)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
@@ -425,7 +425,7 @@ ms.locfileid: "48369925"
 
 
 
-## <a name="version-1607-august-16"></a>バージョン 1607: 8 月16日
+## <a name="version-1607-august-16"></a>バージョン 1607: 8 月 16 日
 *バージョン 1607 (ビルド 7167.2040)*
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
@@ -465,33 +465,33 @@ ms.locfileid: "48369925"
 
 
 
-## <a name="version-1606-august-9"></a>バージョン 1606: 8 月9日
+## <a name="version-1606-august-9"></a>バージョン 1606: 8 月 9 日
 *バージョン 1606 (ビルド 7070.2036)*
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
 -   最近のセキュリティの更新で発生した問題を修正します。この問題では、ユーザーが信頼できない場所から HTML ファイルを開くと、保護ビューでファイルを開くことができず、代わりにエラーの表示なしでブランク (空の) スクリーンの Excel が開きます。
 
 ### <a name="onenote-security-updates"></a>OneNote: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Microsoft Office のセキュリティ更新プログラム (3177451)
+-   マイクロソフト セキュリティ情報 [MS16-099](/security-updates/SecurityBulletins/2016/ms16-099): Microsoft Office のセキュリティ更新プログラム (3177451)
 
 ### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Microsoft Office のセキュリティ更新プログラム (3177451)
+-   マイクロソフト セキュリティ情報 [MS16-099](/security-updates/SecurityBulletins/2016/ms16-099): Microsoft Office のセキュリティ更新プログラム (3177451)
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS16-097](https://technet.microsoft.com/library/security/ms16-097): Microsoft グラフィック コンポーネントのセキュリティ更新プログラム (3177393)
+-   マイクロソフト セキュリティ情報 [MS16-097](/security-updates/SecurityBulletins/2016/ms16-097): Microsoft グラフィック コンポーネントのセキュリティ更新プログラム (3177393)
 
 ### <a name="visio-non-security-updates"></a>Visio: セキュリティ以外の更新プログラム
 -   リボンの [描画] タブの場所を移動して、[描画] タブの "タッチで描画" 選択肢の場所を移動します。
 
 ### <a name="word-security-updates"></a>Word: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Microsoft Office のセキュリティ更新プログラム (3177451)
+-   マイクロソフト セキュリティ情報 [MS16-099](/security-updates/SecurityBulletins/2016/ms16-099): Microsoft Office のセキュリティ更新プログラム (3177451)
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Microsoft Office のセキュリティ更新プログラム (3177451)
+-   マイクロソフト セキュリティ情報 [MS16-099](/security-updates/SecurityBulletins/2016/ms16-099): Microsoft Office のセキュリティ更新プログラム (3177451)
 
 
 
-## <a name="version-1606-july-26"></a>バージョン 1606: 7 月26日
+## <a name="version-1606-july-26"></a>バージョン 1606: 7 月 26 日
 *バージョン 1606 (ビルド 7070.2033)*
 
 ### <a name="access-non-security-updates"></a>Access: セキュリティ以外の更新プログラム
@@ -510,7 +510,7 @@ ms.locfileid: "48369925"
 
 
 
-## <a name="version-1606-july-20"></a>バージョン 1606: 7 月20日
+## <a name="version-1606-july-20"></a>バージョン 1606: 7 月 20 日
 *バージョン 1606 (ビルド 7070.2028)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: セキュリティ以外の更新プログラム
@@ -525,20 +525,20 @@ ms.locfileid: "48369925"
 
 
 
-## <a name="version-1606-july-12"></a>バージョン 1606: 7 月12日
+## <a name="version-1606-july-12"></a>バージョン 1606: 7 月 12 日
 *バージョン 1606 (ビルド 7070.2026)*
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティの更新
--   マイクロソフト セキュリティ情報 [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Microsoft Office のセキュリティ更新プログラム (3170008)
+-   マイクロソフト セキュリティ情報 [MS16-088](/security-updates/SecurityBulletins/2016/ms16-088): Microsoft Office のセキュリティ更新プログラム (3170008)
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
 -   Excel で、条件によってセルの値の変更がナレーターに通知されない問題を修正します。
 
 ### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Microsoft Office のセキュリティ更新プログラム (3170008)
+-   マイクロソフト セキュリティ情報 [MS16-088](/security-updates/SecurityBulletins/2016/ms16-088): Microsoft Office のセキュリティ更新プログラム (3170008)
 
 ### <a name="word-security-updates"></a>Word: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Microsoft Office のセキュリティ更新プログラム (3170008)
+-   マイクロソフト セキュリティ情報 [MS16-088](/security-updates/SecurityBulletins/2016/ms16-088): Microsoft Office のセキュリティ更新プログラム (3170008)
 
 ### <a name="word-non-security-updates"></a>Word: セキュリティ以外の更新プログラム
 -   フォーム ベース認証を必要とするサーバーでドキュメントを開くと、Word がクラッシュする問題を修正します。
@@ -548,7 +548,7 @@ ms.locfileid: "48369925"
 
 
 
-## <a name="version-1606-july-5"></a>バージョン 1606: 7 月5日
+## <a name="version-1606-july-5"></a>バージョン 1606: 7 月 5 日
 *バージョン 1606 (ビルド 7070.2022)*
 
 ### <a name="access-feature-updates"></a>Access: 機能の更新
@@ -575,7 +575,7 @@ ms.locfileid: "48369925"
 
 
 
-## <a name="version-1605-june-30"></a>バージョン 1605: 6 月30日
+## <a name="version-1605-june-30"></a>バージョン 1605: 6 月 30 日
 *バージョン 1605 (ビルド 6965.2063)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
@@ -597,7 +597,7 @@ ms.locfileid: "48369925"
 
 
 
-## <a name="version-1605-june-14"></a>バージョン 1605: 6 月14日
+## <a name="version-1605-june-14"></a>バージョン 1605: 6 月 14 日
 *バージョン 1605 (ビルド 6965.2058)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: セキュリティ以外の更新プログラム
@@ -615,24 +615,24 @@ ms.locfileid: "48369925"
 -   ユーザーがホワイトボードやノートの共有などの会議機能を使用するときに、エラー メッセージを受信するという問題の修正。 [この問題についての詳細情報](https://support.microsoft.com/kb/3165438)
 
 ### <a name="visio-security-updates"></a>Visio: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS16-070](https://technet.microsoft.com/library/security/ms16-070): Microsoft Office のセキュリティ更新プログラム (3163610)
+-   マイクロソフト セキュリティ情報 [MS16-070](/security-updates/SecurityBulletins/2016/ms16-070): Microsoft Office のセキュリティ更新プログラム (3163610)
 
 ### <a name="word-security-updates"></a>Word: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS16-070](https://technet.microsoft.com/library/security/ms16-070): Microsoft Office のセキュリティ更新プログラム (3163610)
+-   マイクロソフト セキュリティ情報 [MS16-070](/security-updates/SecurityBulletins/2016/ms16-070): Microsoft Office のセキュリティ更新プログラム (3163610)
 
 ### <a name="word-non-security-updates"></a>Word: セキュリティ以外の更新プログラム
 -   SmartArt グラフィックを貼り付けるときに、ユーザーが [元の形式を保持] オプションを選択すると Word がクラッシュするという問題の修正。
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS16-070](https://technet.microsoft.com/library/security/ms16-070): Microsoft Office のセキュリティ更新プログラム (3163610)
+-   マイクロソフト セキュリティ情報 [MS16-070](/security-updates/SecurityBulletins/2016/ms16-070): Microsoft Office のセキュリティ更新プログラム (3163610)
 
 
 
-## <a name="version-1605-june-6"></a>バージョン 1605: 6 月6日
+## <a name="version-1605-june-6"></a>バージョン 1605: 6 月 6 日
 *バージョン 1605 (ビルド 6965.2053)*
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
--   **& 変換の機能強化の取得:** Power Query のデータ変換とデータ接続機能の新機能と強化された機能。 [詳細情報](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
+-   **変換&を取得する:** Power Query の新しいデータ変換機能または改善されたデータ変換機能とデータ接続機能。 [詳細情報](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
 -   [データの入力規則] ドロップダウン リストが破損し、複数のワークシートを含むブックで複製されるという問題の修正。
@@ -678,7 +678,7 @@ ms.locfileid: "48369925"
 
 
 
-## <a name="version-1604-may-23"></a>バージョン 1604: 5 月23日
+## <a name="version-1604-may-23"></a>バージョン 1604: 5 月 23 日
 *バージョン 1604 (ビルド 6868.2067)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
@@ -702,18 +702,18 @@ ms.locfileid: "48369925"
 
 
 
-## <a name="version-1604-may-10"></a>バージョン 1604: 5 月10日
+## <a name="version-1604-may-10"></a>バージョン 1604: 5 月 10 日
 *バージョン 1604 (ビルド 6868.2062)*
 
 ### <a name="word-security-updates"></a>Word: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS16-054](https://technet.microsoft.com/library/security/ms16-054): Microsoft Office のセキュリティ更新プログラム (3155544)
+-   マイクロソフト セキュリティ情報 [MS16-054](/security-updates/SecurityBulletins/2016/ms16-054): Microsoft Office のセキュリティ更新プログラム (3155544)
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS16-054](https://technet.microsoft.com/library/security/ms16-054): Microsoft Office のセキュリティ更新プログラム (3155544)
+-   マイクロソフト セキュリティ情報 [MS16-054](/security-updates/SecurityBulletins/2016/ms16-054): Microsoft Office のセキュリティ更新プログラム (3155544)
 
 
 
-## <a name="version-1604-may-4"></a>バージョン 1604: 5 月4時
+## <a name="version-1604-may-4"></a>バージョン 1604: 5 月 4 日
 *バージョン 1604 (ビルド 6868.2060)*
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
@@ -737,7 +737,7 @@ ms.locfileid: "48369925"
 
 
 
-## <a name="version-1603-april-28"></a>バージョン 1603: 4 月28日
+## <a name="version-1603-april-28"></a>バージョン 1603: 4 月 28 日
 *バージョン 1603 (ビルド 6769.2040)*
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
@@ -746,18 +746,18 @@ ms.locfileid: "48369925"
 
 
 
-## <a name="version-1603-april-12"></a>バージョン 1603: 4 月12日
+## <a name="version-1603-april-12"></a>バージョン 1603: 4 月 12 日
 *バージョン 1603 (ビルド 6769.2017)*
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティの更新
--   マイクロソフト セキュリティ情報 [MS16-042](https://technet.microsoft.com/library/security/ms16-042): Microsoft Office のセキュリティ更新プログラム (3148775)
+-   マイクロソフト セキュリティ情報 [MS16-042](/security-updates/SecurityBulletins/2016/ms16-042): Microsoft Office のセキュリティ更新プログラム (3148775)
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS16-039](https://technet.microsoft.com/library/security/ms16-039): Microsoft グラフィック コンポーネントのセキュリティ更新プログラム (3148522)
+-   マイクロソフト セキュリティ情報 [MS16-039](/security-updates/SecurityBulletins/2016/ms16-039): Microsoft グラフィック コンポーネントのセキュリティ更新プログラム (3148522)
 
 
 
-## <a name="version-1603-april-4"></a>バージョン 1603: 4 月4日
+## <a name="version-1603-april-4"></a>バージョン 1603: 4 月 4 日
 *バージョン 1603 (ビルド 6769.2015)*
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
@@ -785,7 +785,7 @@ ms.locfileid: "48369925"
 
 
 
-## <a name="version-1602-march-24"></a>バージョン 1602: 3 月24日
+## <a name="version-1602-march-24"></a>バージョン 1602: 3 月 24 日
 *バージョン 1602 (ビルド 6741.2021)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
@@ -793,7 +793,7 @@ ms.locfileid: "48369925"
 
 
 
-## <a name="version-1602-march-17"></a>バージョン 1602: 3 月17日
+## <a name="version-1602-march-17"></a>バージョン 1602: 3 月 17 日
 *バージョン 1602 (ビルド 6741.2017)*
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
@@ -834,30 +834,30 @@ ms.locfileid: "48369925"
 
 
 
-## <a name="version-1601-march-4"></a>バージョン 1601: 3 月4日
+## <a name="version-1601-march-4"></a>バージョン 1601: 3 月 4 日
 *バージョン 1601 (ビルド 6568.2036)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
 -   POP3 を使用するよう構成されている場合に、Outlook がメール メッセージをダウンロードした後、サーバー上のすべてのメール メッセージが受信トレイから削除されるという問題の修正。 [この問題についての詳細情報](https://support.microsoft.com/kb/3145116)
--   POP3 を使用するように構成されている場合は、メールメッセージが複数回ダウンロードされ、重複したアイテムが発生するという問題を修正します。 [この問題についての詳細情報](https://support.microsoft.com/kb/3145116)
+-   POP3 を使用するように構成すると、メール メッセージが複数回ダウンロードされ、アイテムが重複する問題を修正します。 [この問題についての詳細情報](https://support.microsoft.com/kb/3145116)
 
 
 
-## <a name="version-1601-march-3"></a>バージョン 1601: 3 月3日
+## <a name="version-1601-march-3"></a>バージョン 1601: 3 月 3 日
 *バージョン 1601 (ビルド 6568.2034)*
 
 ### <a name="word-security-updates"></a>Word: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS16-029](https://technet.microsoft.com/library/security/ms16-029): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3141806)
+-   マイクロソフト セキュリティ情報 [MS16-029](/security-updates/SecurityBulletins/2016/ms16-029): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3141806)
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS16-029](https://technet.microsoft.com/library/security/ms16-029): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3141806)
+-   マイクロソフト セキュリティ情報 [MS16-029](/security-updates/SecurityBulletins/2016/ms16-029): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3141806)
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 -   ユーザーが Adobe Acrobat PDFMaker を使用してファイルを PDF に変換しようとすると、アプリがクラッシュするという問題の修正。
 
 
 
-## <a name="version-1601-february-16"></a>バージョン 1601: 2 月16日
+## <a name="version-1601-february-16"></a>バージョン 1601: 2 月 16 日
 *バージョン 1601 (ビルド 6568.2025)*
 
 ### <a name="excel-feature-updates"></a>Excel: 機能の更新
@@ -913,18 +913,18 @@ ms.locfileid: "48369925"
 
 
 
-## <a name="version-1511-february-9"></a>バージョン 1511: 2 月9日
+## <a name="version-1511-february-9"></a>バージョン 1511: 2 月 9 日
 *バージョン 1511 (ビルド 6366.2068)*
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティの更新
--   マイクロソフト セキュリティ情報 MS [16-015](https://go.microsoft.com/fwlink/?LinkId=722214): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3134226)
+-   マイクロソフト セキュリティ情報 MS [16-015](/security-updates/SecurityBulletins/2016/ms16-015): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3134226)
 
 ### <a name="word-security-updates"></a>Word: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 MS [16-015](https://go.microsoft.com/fwlink/?LinkId=722214): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3134226)
+-   マイクロソフト セキュリティ情報 MS [16-015](/security-updates/SecurityBulletins/2016/ms16-015): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3134226)
 
 
 
-## <a name="version-1511-january-25"></a>バージョン 1511: 1 月25日
+## <a name="version-1511-january-25"></a>バージョン 1511: 1 月 25 日
 *バージョン 1511 (ビルド 6366.2062)*
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
@@ -935,20 +935,20 @@ ms.locfileid: "48369925"
 
 
 
-## <a name="version-1511-january-12"></a>バージョン 1511: 1 月12日
+## <a name="version-1511-january-12"></a>バージョン 1511: 1 月 12 日
 *バージョン 1511 (ビルド 6366.2056)*
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティの更新
--   マイクロソフト セキュリティ情報 [MS16-004](https://go.microsoft.com/fwlink/?LinkId=717998): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3124585)
+-   マイクロソフト セキュリティ情報 [MS16-004](/security-updates/SecurityBulletins/2016/ms16-004): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3124585)
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS16-004](https://go.microsoft.com/fwlink/?LinkId=717998): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3124585)
+-   マイクロソフト セキュリティ情報 [MS16-004](/security-updates/SecurityBulletins/2016/ms16-004): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3124585)
 
 ### <a name="visio-security-updates"></a>Visio: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS16-004](https://go.microsoft.com/fwlink/?LinkId=717998): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3124585)
+-   マイクロソフト セキュリティ情報 [MS16-004](/security-updates/SecurityBulletins/2016/ms16-004): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3124585)
 
 ### <a name="word-security-updates"></a>Word: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS16-004](https://go.microsoft.com/fwlink/?LinkId=717998): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3124585)
+-   マイクロソフト セキュリティ情報 [MS16-004](/security-updates/SecurityBulletins/2016/ms16-004): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3124585)
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
--   マイクロソフト セキュリティ情報 [MS16-004](https://go.microsoft.com/fwlink/?LinkId=717998): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3124585)
+-   マイクロソフト セキュリティ情報 [MS16-004](/security-updates/SecurityBulletins/2016/ms16-004): リモートでのコード実行に対応する Microsoft Office 用のセキュリティ更新プログラム (3124585)

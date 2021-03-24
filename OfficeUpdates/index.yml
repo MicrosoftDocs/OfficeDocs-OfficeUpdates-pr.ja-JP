@@ -12,12 +12,12 @@ metadata:
   author: TimDavenport
   ms.author: andrewmo
   ms.date: 06/18/2020
-  ms.openlocfilehash: 8d6eb89310b8a5ab94b530928f069caadcea6818
-  ms.sourcegitcommit: 1404eb977e0bc5d5de5a89c713eae9f32fdc877f
+  ms.openlocfilehash: eaf433d25fee013316e143f3c1beef45c2ace997
+  ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
   ms.translationtype: HT
   ms.contentlocale: ja-JP
-  ms.lasthandoff: 01/07/2021
-  ms.locfileid: "49780745"
+  ms.lasthandoff: 03/24/2021
+  ms.locfileid: "51170226"
 landingContent:
 - title: Microsoft 365 Apps
   linkLists:
@@ -48,13 +48,13 @@ landingContent:
   - linkListType: overview
     links:
     - text: Exchange Server 更新プログラム
-      url: https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates
+      url: /Exchange/new-features/build-numbers-and-release-dates
     - text: Project Server 更新プログラム
       url: project-server-updates.md
     - text: SharePoint Server 更新プログラム
       url: sharepoint-updates.md
     - text: Skype for Business Server 更新プログラム
-      url: https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates
+      url: /SkypeForBusiness/sfb-server-updates
 - title: Office (永続的ライセンス)
   linkLists:
   - linkListType: overview
@@ -84,7 +84,7 @@ landingContent:
   - linkListType: overview
     links:
     - text: Windows 10 のリリース情報
-      url: https://aka.ms/windows/releaseinfo
+      url: /windows/release-health/release-information
     - text: Microsoft のライフサイクル ポリシー
       url: https://support.microsoft.com/lifecycle
     - text: Microsoft セキュリティ更新ガイド

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus 用の半期チャネル リリースのリリース ノートを IT プロフェッショナルに提供します
-ms.openlocfilehash: ac826a441d961f8215a9d6f088fe7e5429ff8425
-ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
+ms.openlocfilehash: cf40992bf74dab369a53d84162980d4209064986
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735211"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169686"
 ---
 # <a name="archived-release-notes-for-semi-annual-enterprise-channel"></a>半期エンタープライズ チャネルのアーカイブ済みリリース ノート
 
@@ -32,7 +32,7 @@ ms.locfileid: "50735211"
 ## <a name="version-1902-december-10"></a>バージョン 1902: 12 月 10 日
 *バージョン 1902 (ビルド 11328.20492)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -44,7 +44,7 @@ ms.locfileid: "50735211"
 
 ### <a name="outlook"></a>Outlook
 
-- 来年の予定表アイテムに Outlook で間違った時刻が表示される場合があります。 [詳細情報](https://docs.microsoft.com/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
+- 来年の予定表アイテムに Outlook で間違った時刻が表示される場合があります。 [詳細情報](/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
 
 - &quot;不在着信した会話&quot;メッセージのルールを作成しようとするときに、クラッシュを発生させる原因となった問題に対処しました。
 
@@ -58,7 +58,7 @@ ms.locfileid: "50735211"
 ### <a name="resolved-issues"></a>解決済みの問題
 ### <a name="outlook"></a>Outlook
 
-- 来年の予定表アイテムに Outlook で間違った時刻が表示される場合があります。 [詳細情報](https://docs.microsoft.com/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
+- 来年の予定表アイテムに Outlook で間違った時刻が表示される場合があります。 [詳細情報](/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
@@ -96,7 +96,7 @@ ms.locfileid: "50735211"
 ## <a name="version-1902-november-12"></a>バージョン 1902: 11 月 12 日
 *バージョン 1902 (ビルド 11328.20468)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
@@ -131,7 +131,7 @@ ms.locfileid: "50735211"
 ## <a name="version-1808-november-12"></a>バージョン 1808: 11 月 12 日
 *バージョン 1808 (ビルド 10730.20416)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -151,7 +151,7 @@ ms.locfileid: "50735211"
 ## <a name="version-1902-october-08"></a>バージョン 1902: 10 月 8 日
 *バージョン 1902 (ビルド 11328.20438)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
@@ -180,12 +180,12 @@ ms.locfileid: "50735211"
 
 *バージョン 1808 (ビルド 10730.20386)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-1902-september-10"></a>バージョン 1902: 9 月 10 日
 *バージョン 1902 (ビルド 11328.20420)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
@@ -209,7 +209,7 @@ ms.locfileid: "50735211"
 ## <a name="version-1808-september-10"></a>バージョン 1808: 9 月 10 日
 *バージョン 1808 (ビルド 10730.20380)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -222,7 +222,7 @@ ms.locfileid: "50735211"
 ## <a name="version-1902-august-13"></a>バージョン 1902: 8 月 13 日
 *バージョン 1902 (ビルド 11328.20392)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
 - テーブルのフィルター処理ありのスライサーとフィルター処理なしのスライサーの両方に、[フィルターのクリア] アイコンが表示される問題を修正しました。
@@ -244,7 +244,7 @@ ms.locfileid: "50735211"
 ## <a name="version-1808-august-13"></a>バージョン 1808: 8 月 13 日
 *バージョン 1808 (ビルド 10730.20370)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 - 特定のシナリオで Office JavaScript ライブラリ の Setting API が機能しなくなる問題が修正されました ([詳細](https://support.microsoft.com/help/4475551/august-6-2019-update-for-office-2016-kb4475551))
@@ -253,7 +253,7 @@ ms.locfileid: "50735211"
 ## <a name="version-1803-august-13"></a>バージョン 1803: 8 月 13 日
 *バージョン 1803 (ビルド 9126.2432)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 - 特定のシナリオで Office JavaScript ライブラリ の Setting API が機能しなくなる問題を修正しました ([詳細情報](https://support.microsoft.com/help/4475551/august-6-2019-update-for-office-2016-kb4475551))
@@ -261,7 +261,7 @@ ms.locfileid: "50735211"
 
 ## <a name="version-1902-july-09"></a>バージョン 1902: 7 月 9 日
 *バージョン 1902 (ビルド 11328.20368)*
-<br/>セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+<br/>セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 ### <a name="access-feature-updates"></a>Access: 機能の更新
@@ -311,7 +311,7 @@ ms.locfileid: "50735211"
 - **スライドを活気づかせる:** アニメーション 3D グラフィックスを挿入して、鼓動する心臓、周回する惑星、暴れ回るティラノサウルスを画面上に表示できます。 [詳細情報](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
 - **スケッチするだけで自動的に洗練される:** 手書きのテキストや図形が洗練された図表に変更されます。インク ストロークを選ぶだけで機能を利用できます。[詳細情報](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **画像の背後を見えるようにする:** ワークシートに画像を挿入し、既定の設定から選択して、透明度の変化を確認するだけです。[詳細情報](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
-- **Microsoft Stream に公開:** Microsoft Stream を使用して、組織内でより安全にビデオとプレゼンテーションを共有できます。 [詳細情報](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
+- **Microsoft Stream に公開:** Microsoft Stream を使用して、組織内でより安全にビデオとプレゼンテーションを共有できます。 [詳細情報](https://support.office.com/article/C140551F-CB37-4818-B5D4-3E30815C3E83)
 - **4K ビデオにエクスポート:** プレゼンテーションをビデオにエクスポートするときに、4K の解像度がオプションになりました。  [詳細情報](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
 - **フィルターが適用された SVG を挿入する機能:** Office ユーザーは、フィルターが適用された SVG を挿入できるようになりました。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 - **大きなファイルがより速く開くようになりました:** OneDrive または SharePoint に保存されているファイルを開くと、画像、ビデオ、およびその他の大きな要素がバックグラウンドでダウンロードされるようになりました。
@@ -344,7 +344,7 @@ ms.locfileid: "50735211"
 ### <a name="office-suite-feature-updates"></a>Office スイート: 機能の更新
 
 - **Office のサード パーティ アプリケーションでは office.js api を使用した SVG の挿入をサポート:** Office アドインとも呼ばれるサード パーティ アプリケーションで SVG を挿入できるようになりました。ユーザーは、個人の SVG コレクションを Office に結び付けることができます。開発者は、Office.js API を使用してこの機能を利用できます。
-- **Microsoft Teams のインストール:** Microsoft Teams は、Office 365 ProPlus の新規インストールでは既定でインストールされています。 [詳細情報](https://docs.microsoft.com/DeployOffice/teams-install)
+- **Microsoft Teams のインストール:** Microsoft Teams は、Office 365 ProPlus の新規インストールでは既定でインストールされています。 [詳細情報](/DeployOffice/teams-install)
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: 機能の更新
 
@@ -380,7 +380,7 @@ ms.locfileid: "50735211"
 - 顧客の連絡先カード上の画像の読み込み中にクラッシュが発生する原因となった問題に対処します。
 - 一部の顧客がOffice アプリケーションの起動時にクラッシュするという問題に対処します。
 - システムタスクバーを画面の左または上に置いたときにウィンドウが正しい場所に表示されない問題を修正しました。
-- 移行されたアイテムの一部のフィールドを顧客が編集できない問題が解決されました。
+- 移行されたアイテムの一部のフィールドをお客様が編集できなくなる問題が解決されました。
 
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: セキュリティ以外の更新プログラム
@@ -419,7 +419,7 @@ ms.locfileid: "50735211"
  - Windows 10 の多くのユーザーに対して最近のファイル リストがクリアされているように見えた問題を修正しました。
  - 管理者による更新が進行中であっても、エンドユーザーに Office Update のビジネス バーが表示される問題を修正しました。
  - 断続的な空白のサインインプロンプトに関する問題を修正しました。
- - Office の更新プログラムの一部で配信の最適化のピア キャッシュを使用しないという問題が修正されました。 [詳細情報](https://docs.microsoft.com/windows/deployment/update/waas-delivery-optimization)
+ - Office の更新プログラムの一部で配信の最適化のピア キャッシュを使用しないという問題が修正されました。 [詳細情報](/windows/deployment/update/waas-delivery-optimization)
 - Office が Office 展開ツールを使用してインストールされ、大文字/小文字が一致しない場合、製品が削除されたり、アクティブ化されなかったりする可能性があるバグが修正されました。
 - Windows 10（バージョン1803以降）のデバイスで過剰なサインインプロンプトを引き起こしていた問題を修正しました。
 - リンクされた写真をダウンロードするときにハングする原因となる退行を修正しました。
@@ -429,7 +429,7 @@ ms.locfileid: "50735211"
 
 ## <a name="version-1808-july-09"></a>バージョン 1808: 7 月 9 日
 *バージョン 1808 (ビルド 10730.20360)*
-<br/>セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+<br/>セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 ### <a name="word-non-security-updates"></a>Word: セキュリティ以外の更新プログラム
@@ -444,12 +444,12 @@ ms.locfileid: "50735211"
 
 ## <a name="version-1803-july-09"></a>バージョン 1803: 7 月 9 日
 *バージョン 1803 (ビルド 9126.2428)*
-<br/>セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+<br/>セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 ## <a name="version-1808-june-11"></a>バージョン 1808: 6 月 11 日
 *バージョン 1808 (ビルド 10730.20348)*
-<br/>セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+<br/>セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 ### <a name="word-non-security-updates"></a>Word: セキュリティ以外の更新プログラム
  - ファイルをチェックアウトするときの署名の削除に関する問題が修正されました。
@@ -459,7 +459,7 @@ ms.locfileid: "50735211"
 
 ## <a name="version-1803-june-11"></a>バージョン 1803: 6 月 11 日
 *バージョン 1803 (ビルド 9126.2388)*
-<br/>セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 
+<br/>セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md) 
 
 ## <a name="version-1808-may-14"></a>バージョン 1808: 5 月 14 日
 *バージョン 1808 (ビルド 10730.20344)*   
@@ -535,7 +535,7 @@ ms.locfileid: "50735211"
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 
-- [Office 365 の一元展開](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment)を使用して展開したアドインが機能停止して使用できなくなる問題を修正しました。
+- [Office 365 の一元展開](/office/dev/add-ins/publish/centralized-deployment)を使用して展開したアドインが機能停止して使用できなくなる問題を修正しました。
 
 
 ## <a name="version-1803-february-12"></a>バージョン 1803: 2 月 12 日
@@ -568,7 +568,7 @@ ms.locfileid: "50735211"
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 
-- [Office 365 の一元展開](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment)を使用して展開したアドインが機能停止して使用できなくなる問題を修正しました。
+- [Office 365 の一元展開](/office/dev/add-ins/publish/centralized-deployment)を使用して展開したアドインが機能停止して使用できなくなる問題を修正しました。
 
 ## <a name="version-1708-february-12"></a>バージョン 1708: 2 月 12 日
 *バージョン 1708 (ビルド 8431.2372)*
@@ -577,7 +577,7 @@ ms.locfileid: "50735211"
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 
-- [Office 365 の一元展開](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment)を使用して展開したアドインが機能停止して使用できなくなる問題を修正しました。
+- [Office 365 の一元展開](/office/dev/add-ins/publish/centralized-deployment)を使用して展開したアドインが機能停止して使用できなくなる問題を修正しました。
 
 
 ## <a name="version-1808-january-8"></a>バージョン 1808: 1 月 8 日
@@ -741,18 +741,18 @@ ms.locfileid: "50735211"
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム 
 
--   [CVE-2018-8597](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8597): Microsoft Excel のリモート コード実行の脆弱性 
--   [CVE-2018-8598](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8598): Microsoft Excel の情報漏えいの脆弱性 
--   [CVE-2018-8627](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8627): Microsoft Excel の情報漏えいの脆弱性 
--   [CVE-2018-8636](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8636): Microsoft Excel のリモート コード実行の脆弱性 
+-   [CVE-2018-8597](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8597): Microsoft Excel のリモート コード実行の脆弱性 
+-   [CVE-2018-8598](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8598): Microsoft Excel の情報漏えいの脆弱性 
+-   [CVE-2018-8627](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8627): Microsoft Excel の情報漏えいの脆弱性 
+-   [CVE-2018-8636](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8636): Microsoft Excel のリモート コード実行の脆弱性 
 
 ### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム 
 
--   [CVE-2018-8587](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8587): Microsoft Outlook のリモート コード実行の脆弱性 
+-   [CVE-2018-8587](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8587): Microsoft Outlook のリモート コード実行の脆弱性 
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: セキュリティ更新プログラム 
 
--   [CVE-2018-8628](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8628): Microsoft PowerPoint のリモート コード実行の脆弱性 
+-   [CVE-2018-8628](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8628): Microsoft PowerPoint のリモート コード実行の脆弱性 
 
 
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
@@ -769,18 +769,18 @@ ms.locfileid: "50735211"
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム 
 
--   [CVE-2018-8597](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8597): Microsoft Excel のリモート コード実行の脆弱性 
--   [CVE-2018-8598](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8598): Microsoft Excel の情報漏えいの脆弱性 
--   [CVE-2018-8627](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8627): Microsoft Excel の情報漏えいの脆弱性 
--   [CVE-2018-8636](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8636): Microsoft Excel のリモート コード実行の脆弱性 
+-   [CVE-2018-8597](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8597): Microsoft Excel のリモート コード実行の脆弱性 
+-   [CVE-2018-8598](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8598): Microsoft Excel の情報漏えいの脆弱性 
+-   [CVE-2018-8627](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8627): Microsoft Excel の情報漏えいの脆弱性 
+-   [CVE-2018-8636](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8636): Microsoft Excel のリモート コード実行の脆弱性 
 
 ### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム 
 
--   [CVE-2018-8587](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8587): Microsoft Outlook のリモート コード実行の脆弱性 
+-   [CVE-2018-8587](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8587): Microsoft Outlook のリモート コード実行の脆弱性 
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: セキュリティ更新プログラム 
 
--   [CVE-2018-8628](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8628): Microsoft PowerPoint のリモート コード実行の脆弱性 
+-   [CVE-2018-8628](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8628): Microsoft PowerPoint のリモート コード実行の脆弱性 
 
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
 
@@ -794,29 +794,29 @@ ms.locfileid: "50735211"
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
 
--   [CVE-2018-8574](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8574): Microsoft Excel のリモート コード実行の脆弱性 
--   [CVE-2018-8577](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8577): Microsoft Excel のリモート コード実行の脆弱性 
+-   [CVE-2018-8574](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8574): Microsoft Excel のリモート コード実行の脆弱性 
+-   [CVE-2018-8577](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8577): Microsoft Excel のリモート コード実行の脆弱性 
 
 ### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム 
 
--   [CVE-2018-8522](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8522): Microsoft Outlook のリモート コード実行の脆弱性 
--   [CVE-2018-8524](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8524): Microsoft Outlook のリモート コード実行の脆弱性 
--   [CVE-2018-8558](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8558): Microsoft Outlook の情報漏えいの脆弱性 
--   [CVE-2018-8576](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8576): Microsoft Outlook のリモート コード実行の脆弱性 
--   [CVE-2018-8579](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8579): Microsoft Outlook の情報漏えいの脆弱性 
--   [CVE-2018-8582](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8582): Microsoft Outlook のリモート コード実行の脆弱性 
+-   [CVE-2018-8522](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8522): Microsoft Outlook のリモート コード実行の脆弱性 
+-   [CVE-2018-8524](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8524): Microsoft Outlook のリモート コード実行の脆弱性 
+-   [CVE-2018-8558](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8558): Microsoft Outlook の情報漏えいの脆弱性 
+-   [CVE-2018-8576](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8576): Microsoft Outlook のリモート コード実行の脆弱性 
+-   [CVE-2018-8579](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8579): Microsoft Outlook の情報漏えいの脆弱性 
+-   [CVE-2018-8582](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8582): Microsoft Outlook のリモート コード実行の脆弱性 
 
 ### <a name="project-security-updates"></a>Project: セキュリティ更新プログラム 
 
--   [CVE-2018-8575](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8575): Microsoft Project のリモート コード実行の脆弱性 
+-   [CVE-2018-8575](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8575): Microsoft Project のリモート コード実行の脆弱性 
 
 ### <a name="word-security-updates"></a>Word: セキュリティ更新プログラム 
 
--   [CVE-2018-8573](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8573): Microsoft Word のリモート コード実行の脆弱性 
+-   [CVE-2018-8573](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8573): Microsoft Word のリモート コード実行の脆弱性 
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: セキュリティ更新プログラム 
 
--   [CVE-2018-8546](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8546): Microsoft Skype for Business のサービス拒否攻撃の脆弱性 
+-   [CVE-2018-8546](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8546): Microsoft Skype for Business のサービス拒否攻撃の脆弱性 
 
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム 
 
@@ -829,29 +829,29 @@ ms.locfileid: "50735211"
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
 
--   [CVE-2018-8574](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8574): Microsoft Excel のリモート コード実行の脆弱性 
--   [CVE-2018-8577](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8577): Microsoft Excel のリモート コード実行の脆弱性 
+-   [CVE-2018-8574](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8574): Microsoft Excel のリモート コード実行の脆弱性 
+-   [CVE-2018-8577](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8577): Microsoft Excel のリモート コード実行の脆弱性 
 
 ### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム 
 
--   [CVE-2018-8522](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8522): Microsoft Outlook のリモート コード実行の脆弱性 
--   [CVE-2018-8524](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8524): Microsoft Outlook のリモート コード実行の脆弱性 
--   [CVE-2018-8558](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8558): Microsoft Outlook の情報漏えいの脆弱性 
--   [CVE-2018-8576](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8576): Microsoft Outlook のリモート コード実行の脆弱性 
--   [CVE-2018-8579](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8579): Microsoft Outlook の情報漏えいの脆弱性 
--   [CVE-2018-8582](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8582): Microsoft Outlook のリモート コード実行の脆弱性 
+-   [CVE-2018-8522](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8522): Microsoft Outlook のリモート コード実行の脆弱性 
+-   [CVE-2018-8524](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8524): Microsoft Outlook のリモート コード実行の脆弱性 
+-   [CVE-2018-8558](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8558): Microsoft Outlook の情報漏えいの脆弱性 
+-   [CVE-2018-8576](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8576): Microsoft Outlook のリモート コード実行の脆弱性 
+-   [CVE-2018-8579](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8579): Microsoft Outlook の情報漏えいの脆弱性 
+-   [CVE-2018-8582](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8582): Microsoft Outlook のリモート コード実行の脆弱性 
 
 ### <a name="project-security-updates"></a>Project: セキュリティ更新プログラム 
 
--   [CVE-2018-8575](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8575): Microsoft Project のリモート コード実行の脆弱性 
+-   [CVE-2018-8575](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8575): Microsoft Project のリモート コード実行の脆弱性 
 
 ### <a name="word-security-updates"></a>Word: セキュリティ更新プログラム 
 
--   [CVE-2018-8573](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8573): Microsoft Word のリモート コード実行の脆弱性 
+-   [CVE-2018-8573](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8573): Microsoft Word のリモート コード実行の脆弱性 
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: セキュリティ更新プログラム 
 
--   [CVE-2018-8546](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8546): Microsoft Skype for Business のサービス拒否攻撃の脆弱性 
+-   [CVE-2018-8546](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8546): Microsoft Skype for Business のサービス拒否攻撃の脆弱性 
 
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム 
 
@@ -862,20 +862,20 @@ ms.locfileid: "50735211"
 *バージョン 1803 (ビルド 9126.2295)*
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
--   [CVE-2018-8502](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8502): Microsoft Excel のリモート コード実行の脆弱性 
+-   [CVE-2018-8502](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8502): Microsoft Excel のリモート コード実行の脆弱性 
 
 ### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム 
--   [ADV180026](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/ADV180026): Microsoft Office の高度な防御の更新プログラム 
+-   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026): Microsoft Office の高度な防御の更新プログラム 
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: セキュリティ更新プログラム 
--   [CVE-2018-8501](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8501): Microsoft PowerPoint のリモート コード実行の脆弱性
+-   [CVE-2018-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8501): Microsoft PowerPoint のリモート コード実行の脆弱性
 
 ### <a name="word-security-updates"></a>Word: セキュリティ更新プログラム 
--   [CVE-2018-8504](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8504): Microsoft Word のリモート コード実行の脆弱性 
--   [ADV180026](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/ADV180026): Microsoft Office の高度な防御の更新プログラム 
+-   [CVE-2018-8504](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8504): Microsoft Word のリモート コード実行の脆弱性 
+-   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026): Microsoft Office の高度な防御の更新プログラム 
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム 
--   [CVE-2018-8432](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8432): Microsoft グラフィック コンポーネントのリモート コード実行の脆弱性 
+-   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432): Microsoft グラフィック コンポーネントのリモート コード実行の脆弱性 
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 -   アクセシビリティとパフォーマンスの設定でアニメーションをオフにしてもアニメーションが表示されてしまうアプリの問題を修正しました。
@@ -887,34 +887,34 @@ ms.locfileid: "50735211"
 *これは、2018 年 1 月から使用可能になった半期チャネル リリースです。これは、2019 年 3 月まで継続的にサポートされ、セキュリティ更新プログラムを受信します。ただし、新しい半期チャネル リリースが使用可能になりました — バージョン 1803 (ビルド 16.0.9126.2282) — これには、新しい機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムが含まれます。*
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
--   [CVE-2018-8502](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8502): Microsoft Excel のリモート コード実行の脆弱性 
+-   [CVE-2018-8502](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8502): Microsoft Excel のリモート コード実行の脆弱性 
 
 ### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム 
--   [ADV180026](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/ADV180026): Microsoft Office の高度な防御の更新プログラム 
+-   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026): Microsoft Office の高度な防御の更新プログラム 
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: セキュリティ更新プログラム 
--   [CVE-2018-8501](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8501): Microsoft PowerPoint のリモート コード実行の脆弱性
+-   [CVE-2018-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8501): Microsoft PowerPoint のリモート コード実行の脆弱性
 
 ### <a name="word-security-updates"></a>Word: セキュリティ更新プログラム 
--   [CVE-2018-8504](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8504): Microsoft Word のリモート コード実行の脆弱性 
--   [ADV180026](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/ADV180026): Microsoft Office の高度な防御の更新プログラム 
+-   [CVE-2018-8504](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8504): Microsoft Word のリモート コード実行の脆弱性 
+-   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026): Microsoft Office の高度な防御の更新プログラム 
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム 
--   [CVE-2018-8432](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8432): Microsoft グラフィック コンポーネントのリモート コード実行の脆弱性 
+-   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432): Microsoft グラフィック コンポーネントのリモート コード実行の脆弱性 
 
 
 ## <a name="version-1803-september-11"></a>バージョン 1803: 9 月 11 日
 *バージョン 1803 (ビルド 9126.2282)*
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
--   [CVE-2018-8331](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8331): Microsoft Excel のリモート コード実行の脆弱性
--   [CVE-2018-8429](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8429): Microsoft Excel の情報漏えいの脆弱性
+-   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): Microsoft Excel のリモート コード実行の脆弱性
+-   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): Microsoft Excel の情報漏えいの脆弱性
 
 ### <a name="word-security-updates"></a>Word: セキュリティ更新プログラム
--   [CVE-2018-8430](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8430): Windows PDF のリモート コード実行の脆弱性
+-   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430): Windows PDF のリモート コード実行の脆弱性
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
--   [CVE-2018-8332](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8332): Win32k Graphics のリモート コード実行の脆弱性
+-   [CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332): Win32k Graphics のリモート コード実行の脆弱性
 
 
 ## <a name="version-1708-september-11"></a>バージョン 1708: 9 月 11 日
@@ -923,32 +923,32 @@ ms.locfileid: "50735211"
 *これは、2018 年 1 月から使用可能になった半期チャネル リリースです。これは、2019 年 3 月まで継続的にサポートされ、セキュリティ更新プログラムを受信します。ただし、新しい半期チャネル リリースが使用可能になりました — バージョン 1803 (ビルド 16.0.9126.2282) — これには、新しい機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムが含まれます。*
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
--   [CVE-2018-8331](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8331): Microsoft Excel のリモート コード実行の脆弱性
--   [CVE-2018-8429](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8429): Microsoft Excel の情報漏えいの脆弱性
+-   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): Microsoft Excel のリモート コード実行の脆弱性
+-   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): Microsoft Excel の情報漏えいの脆弱性
 
 ### <a name="word-security-updates"></a>Word: セキュリティ更新プログラム
--   [CVE-2018-8430](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8430): Windows PDF のリモート コード実行の脆弱性
+-   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430): Windows PDF のリモート コード実行の脆弱性
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
--   [CVE-2018-8332](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8332): Win32k Graphics のリモート コード実行の脆弱性
+-   [CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332): Win32k Graphics のリモート コード実行の脆弱性
 
 
 ## <a name="version-1803-august-14"></a>バージョン 1803: 8 月 14 日
 *バージョン 1803 (ビルド 9126.2275)*
 
 ### <a name="access-security-updates"></a>Access: セキュリティ更新プログラム
--   [CVE-2018-8312](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8312): Microsoft Access のリモート コード実行の Use After Free 脆弱性
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): Microsoft Access のリモート コード実行の Use After Free 脆弱性
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
--   [CVE-2018-8375](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8375): Microsoft Excel のリモート コード実行の脆弱性 
--   [CVE-2018-8379](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8379): Microsoft Excel のリモート コード実行の脆弱性 
--   [CVE-2018-8382](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8382): Microsoft Excel の情報漏えいの脆弱性 
+-   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): Microsoft Excel のリモート コード実行の脆弱性 
+-   [CVE-2018-8379](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8379): Microsoft Excel のリモート コード実行の脆弱性 
+-   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): Microsoft Excel の情報漏えいの脆弱性 
 
 ### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム
--   [ADV180021](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/ADV180021): Microsoft Office の高度な防御の更新プログラム 
+-   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021): Microsoft Office の高度な防御の更新プログラム 
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
--   [CVE-2018-8378](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8378): Microsoft Office の情報漏えいの脆弱性 
+-   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378): Microsoft Office の情報漏えいの脆弱性 
 
 
 ## <a name="version-1708-august-14"></a>バージョン 1708: 8 月 14 日
@@ -957,26 +957,26 @@ ms.locfileid: "50735211"
 *これは、2018 年 1 月から使用可能になった半期チャネル リリースです。これは、2019 年 3 月まで継続的にサポートされ、セキュリティ更新プログラムを受信します。ただし、新しい半期チャネル リリースが使用可能になりました — バージョン 1803 (ビルド 16.0.9126.2275) — これには、新しい機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムが含まれます。*
 
 ### <a name="access-security-updates"></a>Access: セキュリティ更新プログラム
--   [CVE-2018-8312](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8312): Microsoft Access のリモート コード実行の Use After Free 脆弱性
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): Microsoft Access のリモート コード実行の Use After Free 脆弱性
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
--   [CVE-2018-8375](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8375): Microsoft Excel のリモート コード実行の脆弱性 
--   [CVE-2018-8379](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8379): Microsoft Excel のリモート コード実行の脆弱性 
--   [CVE-2018-8382](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8382): Microsoft Excel の情報漏えいの脆弱性 
+-   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): Microsoft Excel のリモート コード実行の脆弱性 
+-   [CVE-2018-8379](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8379): Microsoft Excel のリモート コード実行の脆弱性 
+-   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): Microsoft Excel の情報漏えいの脆弱性 
 
 ### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム
--   [ADV180021](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/ADV180021): Microsoft Office の高度な防御の更新プログラム 
+-   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021): Microsoft Office の高度な防御の更新プログラム 
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
--   [CVE-2018-8378](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8378): Microsoft Office の情報漏えいの脆弱性 
+-   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378): Microsoft Office の情報漏えいの脆弱性 
 
 
 ## <a name="version-1803-july-10"></a>バージョン 1803: 7 月 10 日
 *バージョン 1803 (ビルド 9126.2259)*
 
 ### <a name="access-security-updates"></a>Access: セキュリティ更新プログラム
--   [CVE-2018-0903](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0903): Microsoft Access のリモート コード実行の脆弱性
--   [CVE-2018-8312](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8312): Microsoft Access のリモート コード実行の Use After Free 脆弱性 
+-   [CVE-2018-0903](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0903): Microsoft Access のリモート コード実行の脆弱性
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): Microsoft Access のリモート コード実行の Use After Free 脆弱性 
 
 ### <a name="access-non-security-updates"></a>Access: セキュリティ以外の更新プログラム
 -   Access ランタイム アプリケーション (.accde ファイル) を開くと、"データベースの形式を認識できません" というエラー メッセージが表示され、アプリケーションが開かない問題を修正します。
@@ -998,21 +998,21 @@ ms.locfileid: "50735211"
 -   **ペンのカスタマイズ:** 手描き入力についてペンと蛍光ペンの個人用設定を選択します。カスタマイズした設定は、お使いのすべての Windows PC でご利用いただけます。
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
--   [CVE-2017-11877](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2017-11877): Microsoft Excel のセキュリティ機能のバイパスの脆弱性
--   [CVE-2017-11878](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2017-11878): Microsoft Excel のメモリ破損の脆弱性
--   [CVE-2017-11884](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2017-11884): Microsoft Office のメモリ破損の脆弱性
--   [CVE-2018-0796](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0796): Microsoft Excel のリモート コード実行の脆弱性
--   [CVE-2018-0841](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0841): Microsoft Excel のリモート コード実行の脆弱性
--   [CVE-2018-0907](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0907): Microsoft Office Excel のセキュリティ機能のバイパス
--   [CVE-2018-1029](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-1029): Microsoft Excel のリモート コード実行の脆弱性
--   [CVE-2018-8147](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8147): Microsoft Excel のリモート コード実行の脆弱性
--   [CVE-2018-8148](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8148): Microsoft Excel のリモート コード実行の脆弱性
--   [CVE-2018-8162](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8162): Microsoft Excel のリモート コード実行の脆弱性 
--   [CVE-2018-8163](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8163): Microsoft Excel の情報漏えいの脆弱性 
--   [CVE-2018-8246](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8246): Microsoft Excel の情報漏えいの脆弱性
--   [CVE-2018-8248](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0907): Microsoft Excel のリモート コード実行の脆弱性
--   [CVE-2018-0907](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0907): Microsoft Office Excel のセキュリティ機能のバイパス
--   [アドバイザリ 170021](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/ADV170021): Microsoft Office 多層防御の更新プログラム
+-   [CVE-2017-11877](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877): Microsoft Excel のセキュリティ機能のバイパスの脆弱性
+-   [CVE-2017-11878](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11878): Microsoft Excel のメモリ破損の脆弱性
+-   [CVE-2017-11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884): Microsoft Office のメモリ破損の脆弱性
+-   [CVE-2018-0796](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0796): Microsoft Excel のリモート コード実行の脆弱性
+-   [CVE-2018-0841](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0841): Microsoft Excel のリモート コード実行の脆弱性
+-   [CVE-2018-0907](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0907): Microsoft Office Excel のセキュリティ機能のバイパス
+-   [CVE-2018-1029](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1029): Microsoft Excel のリモート コード実行の脆弱性
+-   [CVE-2018-8147](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8147): Microsoft Excel のリモート コード実行の脆弱性
+-   [CVE-2018-8148](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8148): Microsoft Excel のリモート コード実行の脆弱性
+-   [CVE-2018-8162](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8162): Microsoft Excel のリモート コード実行の脆弱性 
+-   [CVE-2018-8163](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8163): Microsoft Excel の情報漏えいの脆弱性 
+-   [CVE-2018-8246](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8246): Microsoft Excel の情報漏えいの脆弱性
+-   [CVE-2018-8248](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0907): Microsoft Excel のリモート コード実行の脆弱性
+-   [CVE-2018-0907](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0907): Microsoft Office Excel のセキュリティ機能のバイパス
+-   [アドバイザリ 170021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170021): Microsoft Office 多層防御の更新プログラム
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
 
@@ -1055,14 +1055,14 @@ ms.locfileid: "50735211"
 -   **最も頻繁に使用するグループにすばやくアクセスする:** 一番やりとりの多いグループが、[フォルダー] ウィンドウの [グループ] のリストの先頭に表示されるようになりました。
 
 ### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム
--   [CVE-2017-11939](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2017-11939): Microsoft Office の情報漏えいの脆弱性
--   [CVE-2018-0791](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0791): Microsoft Outlook のリモート コード実行の脆弱性
--   [CVE-2018-0793](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0793): Microsoft Outlook のリモート コード実行の脆弱性
--   [CVE-2018-0850](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0850): Microsoft Outlook 特権の昇格の脆弱性
--   [CVE-2018-0852](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0852): Microsoft Outlook のメモリ破損の脆弱性
--   [CVE-2018-8150](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8150): Microsoft Outlook のセキュリティ機能のバイパスの脆弱性
--   [CVE-2018-8244](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8244): Microsoft Outlook 特権の昇格の脆弱性
--   [CVE-2018-8310](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8310): Microsoft Office 改ざんの脆弱性
+-   [CVE-2017-11939](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11939): Microsoft Office の情報漏えいの脆弱性
+-   [CVE-2018-0791](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0791): Microsoft Outlook のリモート コード実行の脆弱性
+-   [CVE-2018-0793](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0793): Microsoft Outlook のリモート コード実行の脆弱性
+-   [CVE-2018-0850](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0850): Microsoft Outlook 特権の昇格の脆弱性
+-   [CVE-2018-0852](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0852): Microsoft Outlook のメモリ破損の脆弱性
+-   [CVE-2018-8150](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8150): Microsoft Outlook のセキュリティ機能のバイパスの脆弱性
+-   [CVE-2018-8244](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8244): Microsoft Outlook 特権の昇格の脆弱性
+-   [CVE-2018-8310](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8310): Microsoft Office 改ざんの脆弱性
 
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
 -   [送信トレイ] または [送信済みアイテム] フォルダーに切り替えると、Outlook がクラッシュする問題を修正します。
@@ -1099,7 +1099,7 @@ ms.locfileid: "50735211"
 -   **デジタル ルーラー:** タッチ スクリーンを備えたデバイスで、[描画] \> [ルーラー] の順に移動し、ペンや指で直線を描画したり、オブジェクトのセットを配置したりできます。 [詳細情報](https://support.office.com/article/6222c9b4-2fdf-48f7-a3fd-1687fbe2bf84)
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: セキュリティ更新プログラム
--   [CVE-2017-11934](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2017-11934): Microsoft PowerPoint の情報漏えいの脆弱性
+-   [CVE-2017-11934](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11934): Microsoft PowerPoint の情報漏えいの脆弱性
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: セキュリティ以外の更新プログラム
 -   太線罫線を使用する表が正しく表示されない問題が修正されます。
@@ -1222,19 +1222,19 @@ ms.locfileid: "50735211"
 -   **強化された [エディター] ウィンドウでの文書作成支援:** [エディター] ウィンドウは、高度なスペル チェック、文章校正、文章のスタイルの推奨に使用します。支援技術の高度なサポートにより、アクセスできるように作成されています。
 
 ### <a name="word-security-updates"></a>Word: セキュリティ更新プログラム
--   [CVE-2018-0792](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0792): Microsoft Word のリモート コード実行の脆弱性
--   [CVE-2018-0793](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0793): Microsoft Outlook のリモート コード実行の脆弱性
--   [CVE-2018-0794](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0794): Microsoft Word のリモート コード実行の脆弱性
--   [CVE-2018-0798](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0798): Microsoft Office のメモリ破損の脆弱性
--   [CVE-2018-0801](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0801): Microsoft Office のリモート コード実行の脆弱性
--   [CVE-2018-0802](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0802): Microsoft Office のメモリ破損の脆弱性
--   [CVE-2018-0804](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0804): Microsoft Word のリモート コード実行の脆弱性
--   [CVE-2018-0805](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0805): Microsoft Word のリモート コード実行の脆弱性
--   [CVE-2018-0806](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0806): Microsoft Word のリモート コード実行の脆弱性
--   [CVE-2018-0807](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0807): Microsoft Word のリモート コード実行の脆弱性
--   [CVE-2018-0812](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0812): Microsoft Word のメモリ破損の脆弱性
--   [CVE-2018-0919](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0919): Microsoft Office の情報漏えいの脆弱性
--   [アドバイザリ 170020](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/ADV170020): Microsoft Office 多層防御の更新プログラム
+-   [CVE-2018-0792](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0792): Microsoft Word のリモート コード実行の脆弱性
+-   [CVE-2018-0793](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0793): Microsoft Outlook のリモート コード実行の脆弱性
+-   [CVE-2018-0794](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0794): Microsoft Word のリモート コード実行の脆弱性
+-   [CVE-2018-0798](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0798): Microsoft Office のメモリ破損の脆弱性
+-   [CVE-2018-0801](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0801): Microsoft Office のリモート コード実行の脆弱性
+-   [CVE-2018-0802](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0802): Microsoft Office のメモリ破損の脆弱性
+-   [CVE-2018-0804](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0804): Microsoft Word のリモート コード実行の脆弱性
+-   [CVE-2018-0805](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0805): Microsoft Word のリモート コード実行の脆弱性
+-   [CVE-2018-0806](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0806): Microsoft Word のリモート コード実行の脆弱性
+-   [CVE-2018-0807](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0807): Microsoft Word のリモート コード実行の脆弱性
+-   [CVE-2018-0812](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0812): Microsoft Word のメモリ破損の脆弱性
+-   [CVE-2018-0919](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0919): Microsoft Office の情報漏えいの脆弱性
+-   [アドバイザリ 170020](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170020): Microsoft Office 多層防御の更新プログラム
 
 ### <a name="word-non-security-updates"></a>Word: セキュリティ以外の更新プログラム
 -   SharePoint Online からファイルを開くと Word がクラッシュする問題を修正します。
@@ -1248,17 +1248,17 @@ ms.locfileid: "50735211"
 -   ドキュメントで IRM 保護を削除しても保護が削除されない問題を修正します。
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
--   [CVE-2017-11882](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2017-11882): Microsoft Office のメモリ破損の脆弱性
--   [CVE-2018-0795](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0795): Microsoft Office のリモート コード実行の脆弱性
--   [CVE-2018-0851](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0851): Microsoft Office のメモリ破損の脆弱性
--   [CVE-2018-0853](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0853): Microsoft Office の情報漏えいの脆弱性
--   [CVE-2018-0950](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0950): Microsoft Office の情報漏えいの脆弱性
--   [CVE-2018-1026](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-1026): Microsoft Office のリモート コード実行の脆弱性
--   [CVE-2018-1030](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-1030): Microsoft Office のリモート コード実行の脆弱性
--   [CVE-2018-8157](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8157): Microsoft Office のリモート コード実行の脆弱性
--   [CVE-2018-8158](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8158): Microsoft Office のリモート コード実行の脆弱性
--   [CVE-2018-8281](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8281): Microsoft Office のリモート コード実行の脆弱性
--   [アドバイザリ 180003](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/ADV180003): Microsoft Office 多層防御の更新プログラム
+-   [CVE-2017-11882](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11882): Microsoft Office のメモリ破損の脆弱性
+-   [CVE-2018-0795](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0795): Microsoft Office のリモート コード実行の脆弱性
+-   [CVE-2018-0851](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0851): Microsoft Office のメモリ破損の脆弱性
+-   [CVE-2018-0853](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0853): Microsoft Office の情報漏えいの脆弱性
+-   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950): Microsoft Office の情報漏えいの脆弱性
+-   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026): Microsoft Office のリモート コード実行の脆弱性
+-   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030): Microsoft Office のリモート コード実行の脆弱性
+-   [CVE-2018-8157](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8157): Microsoft Office のリモート コード実行の脆弱性
+-   [CVE-2018-8158](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8158): Microsoft Office のリモート コード実行の脆弱性
+-   [CVE-2018-8281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8281): Microsoft Office のリモート コード実行の脆弱性
+-   [アドバイザリ 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003): Microsoft Office 多層防御の更新プログラム
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 -   Office アプリケーションが実行されているクライアントに Configuration Manager を使用して更新プログラムを展開した場合、Office アプリケーションの実行中にデバイスを再起動すると更新プログラムが適用されない問題を修正します。
@@ -1279,24 +1279,24 @@ ms.locfileid: "50735211"
 *これは、2018 年 1 月から使用可能になった半期チャネル リリースです。これは、2019 年 3 月まで継続的にサポートされ、セキュリティ更新プログラムを受信します。ただし、新しい半期チャネル リリースが使用可能になりました — バージョン 1803 (ビルド 9126.2259) — これには、新しい機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムが含まれます。*
 
 ### <a name="access-security-updates"></a>Access: セキュリティ更新プログラム
--   [CVE-2018-8312](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8312): Microsoft Access のリモート コード実行の Use After Free 脆弱性
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): Microsoft Access のリモート コード実行の Use After Free 脆弱性
 
 ### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム
--   [CVE-2018-8310](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8310): Microsoft Office 改ざんの脆弱性
+-   [CVE-2018-8310](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8310): Microsoft Office 改ざんの脆弱性
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
--   [CVE-2018-8281](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8281): Microsoft Office のリモート コード実行の脆弱性
+-   [CVE-2018-8281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8281): Microsoft Office のリモート コード実行の脆弱性
 
 
 ## <a name="version-1708-june-12"></a>バージョン 1708: 6 月 12 日
 *バージョン 1708 (ビルド 8431.2270)*
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
--   [CVE-2018-8246](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8246): Microsoft Excel の情報漏えいの脆弱性
--   [CVE-2018-8248](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8248): Microsoft Excel のリモート コード実行の脆弱性
+-   [CVE-2018-8246](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8246): Microsoft Excel の情報漏えいの脆弱性
+-   [CVE-2018-8248](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8248): Microsoft Excel のリモート コード実行の脆弱性
 
 ### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム
--   [CVE-2018-8244](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8244): Microsoft Outlook 特権の昇格の脆弱性
+-   [CVE-2018-8244](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8244): Microsoft Outlook 特権の昇格の脆弱性
 
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
 -   Windows 7 SP1 のユーザーが最新のグループにメンバーを追加できなかったことの原因の問題を修正します。
@@ -1309,11 +1309,11 @@ ms.locfileid: "50735211"
 *これは、2017 年 9 月から使用可能になった Deferred Channel リリースです。これは、2018 年 7 月まで継続的にサポートされ、セキュリティ更新プログラムを受信します。ただし、新しい半期チャネル リリースが使用可能になりました — バージョン 1708 (ビルド 8431.2270) — これには、新しい機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムが含まれます。*
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
--   [CVE-2018-8246](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8246): Microsoft Excel の情報漏えいの脆弱性
--   [CVE-2018-8248](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8248): Microsoft Excel のリモート コード実行の脆弱性
+-   [CVE-2018-8246](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8246): Microsoft Excel の情報漏えいの脆弱性
+-   [CVE-2018-8248](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8248): Microsoft Excel のリモート コード実行の脆弱性
 
 ### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム
--   [CVE-2018-8244](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8244): Microsoft Outlook 特権の昇格の脆弱性
+-   [CVE-2018-8244](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8244): Microsoft Outlook 特権の昇格の脆弱性
 
 
 
@@ -1321,17 +1321,17 @@ ms.locfileid: "50735211"
 *バージョン 1708 (ビルド 8431.2250)*
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
--   [CVE-2018-8147](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8147): Microsoft Excel のリモート コード実行の脆弱性
--   [CVE-2018-8148](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8148): Microsoft Excel のリモート コード実行の脆弱性
--   [CVE-2018-8162](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8162): Microsoft Excel のリモート コード実行の脆弱性
--   [CVE-2018-8163](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8163): Microsoft Excel の情報漏えいの脆弱性
+-   [CVE-2018-8147](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8147): Microsoft Excel のリモート コード実行の脆弱性
+-   [CVE-2018-8148](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8148): Microsoft Excel のリモート コード実行の脆弱性
+-   [CVE-2018-8162](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8162): Microsoft Excel のリモート コード実行の脆弱性
+-   [CVE-2018-8163](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8163): Microsoft Excel の情報漏えいの脆弱性
 
 ### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム
--   [CVE-2018-8150](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8150): Microsoft Outlook のセキュリティ機能のバイパスの脆弱性
+-   [CVE-2018-8150](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8150): Microsoft Outlook のセキュリティ機能のバイパスの脆弱性
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
--   [CVE-2018-8157](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8157): Microsoft Office のリモート コード実行の脆弱性
--   [CVE-2018-8158](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8158): Microsoft Office のリモート コード実行の脆弱性
+-   [CVE-2018-8157](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8157): Microsoft Office のリモート コード実行の脆弱性
+-   [CVE-2018-8158](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8158): Microsoft Office のリモート コード実行の脆弱性
 
 
 
@@ -1341,17 +1341,17 @@ ms.locfileid: "50735211"
 *これは、2017 年 9 月から使用可能になった Deferred Channel リリースです。これは、2018 年 7 月まで継続的にサポートされ、セキュリティ更新プログラムを受信します。ただし、新しい半期チャネル リリースが使用可能になりました — バージョン 1708 (ビルド 8431.2250) — これには、新しい機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムが含まれます。*
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
--   [CVE-2018-8147](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8147): Microsoft Excel のリモート コード実行の脆弱性
--   [CVE-2018-8148](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8148): Microsoft Excel のリモート コード実行の脆弱性
--   [CVE-2018-8162](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8162): Microsoft Excel のリモート コード実行の脆弱性
--   [CVE-2018-8163](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8163): Microsoft Excel の情報漏えいの脆弱性
+-   [CVE-2018-8147](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8147): Microsoft Excel のリモート コード実行の脆弱性
+-   [CVE-2018-8148](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8148): Microsoft Excel のリモート コード実行の脆弱性
+-   [CVE-2018-8162](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8162): Microsoft Excel のリモート コード実行の脆弱性
+-   [CVE-2018-8163](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8163): Microsoft Excel の情報漏えいの脆弱性
 
 ### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム
--   [CVE-2018-8150](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8150): Microsoft Outlook のセキュリティ機能のバイパスの脆弱性
+-   [CVE-2018-8150](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8150): Microsoft Outlook のセキュリティ機能のバイパスの脆弱性
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
--   [CVE-2018-8157](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8157): Microsoft Office のリモート コード実行の脆弱性
--   [CVE-2018-8158](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8158): Microsoft Office のリモート コード実行の脆弱性
+-   [CVE-2018-8157](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8157): Microsoft Office のリモート コード実行の脆弱性
+-   [CVE-2018-8158](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8158): Microsoft Office のリモート コード実行の脆弱性
 
 
 
@@ -1359,15 +1359,15 @@ ms.locfileid: "50735211"
 *バージョン 1708 (ビルド 8431.2242)*
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
--   [CVE-2018-1029](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-1029): Microsoft Excel のリモート コード実行の脆弱性
+-   [CVE-2018-1029](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1029): Microsoft Excel のリモート コード実行の脆弱性
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: セキュリティ以外の更新プログラム
 -   TLS 1.2 サポートに関連する問題を修正します。
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
--   [CVE-2018-0950](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0950): Microsoft Office の情報漏えいの脆弱性
--   [CVE-2018-1026](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-1026): Microsoft Office のリモート コード実行の脆弱性
--   [CVE-2018-1030](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-1030): Microsoft Office のリモート コード実行の脆弱性
+-   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950): Microsoft Office の情報漏えいの脆弱性
+-   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026): Microsoft Office のリモート コード実行の脆弱性
+-   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030): Microsoft Office のリモート コード実行の脆弱性
 
 
 
@@ -1377,12 +1377,12 @@ ms.locfileid: "50735211"
 *これは、2017 年 9 月から使用可能になった Deferred Channel リリースです。これは、2018 年 7 月まで継続的にサポートされ、セキュリティ更新プログラムを受信します。ただし、新しい半期チャネル リリースが使用可能になりました — バージョン 1708 (ビルド 8431.2242) — これには、新しい機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムが含まれます。*
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
--   [CVE-2018-1029](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-1029): Microsoft Excel のリモート コード実行の脆弱性
+-   [CVE-2018-1029](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1029): Microsoft Excel のリモート コード実行の脆弱性
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
--   [CVE-2018-0950](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0950): Microsoft Office の情報漏えいの脆弱性
--   [CVE-2018-1026](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-1026): Microsoft Office のリモート コード実行の脆弱性
--   [CVE-2018-1030](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-1030): Microsoft Office のリモート コード実行の脆弱性
+-   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950): Microsoft Office の情報漏えいの脆弱性
+-   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026): Microsoft Office のリモート コード実行の脆弱性
+-   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030): Microsoft Office のリモート コード実行の脆弱性
 
 
 
@@ -1390,13 +1390,13 @@ ms.locfileid: "50735211"
 *バージョン 1708 (ビルド 8431.2236)*
 
 ### <a name="access-security-updates"></a>Access: セキュリティ更新プログラム
--   [CVE-2018-0903](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0903): Microsoft Access のリモート コード実行の脆弱性
+-   [CVE-2018-0903](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0903): Microsoft Access のリモート コード実行の脆弱性
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
--   [CVE-2018-0907](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0907): Microsoft Office Excel のセキュリティ機能のバイパス
+-   [CVE-2018-0907](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0907): Microsoft Office Excel のセキュリティ機能のバイパス
 
 ### <a name="word-security-updates"></a>Word: セキュリティ更新プログラム
--   [CVE-2018-0919](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0919): Microsoft Office の情報漏えいの脆弱性
+-   [CVE-2018-0919](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0919): Microsoft Office の情報漏えいの脆弱性
 
 
 
@@ -1406,13 +1406,13 @@ ms.locfileid: "50735211"
 *これは、2017 年 9 月から使用可能になった Deferred Channel リリースです。これは、2018 年 7 月まで継続的にサポートされ、セキュリティ更新プログラムを受信します。ただし、新しい半期チャネル リリースが使用可能になりました — バージョン 1708 (ビルド 8431.2236) — これには、新しい機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムが含まれます。*
 
 ### <a name="access-security-updates"></a>Access: セキュリティ更新プログラム
--   [CVE-2018-0903](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0903): Microsoft Access のリモート コード実行の脆弱性
+-   [CVE-2018-0903](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0903): Microsoft Access のリモート コード実行の脆弱性
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
--   [CVE-2018-0907](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0907): Microsoft Office Excel のセキュリティ機能のバイパス
+-   [CVE-2018-0907](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0907): Microsoft Office Excel のセキュリティ機能のバイパス
 
 ### <a name="word-security-updates"></a>Word: セキュリティ更新プログラム
--   [CVE-2018-0919](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0919): Microsoft Office の情報漏えいの脆弱性
+-   [CVE-2018-0919](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0919): Microsoft Office の情報漏えいの脆弱性
 
 
 
@@ -1423,15 +1423,15 @@ ms.locfileid: "50735211"
 -   複数の項目のフォームを使って、マウス ホイールまたはスクロールバーのつまみを調整してもフォームに表示される項目が変化しないという問題を修正します。
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
--   [CVE-2018-0841](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0841): Microsoft Excel のリモート コード実行の脆弱性
+-   [CVE-2018-0841](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0841): Microsoft Excel のリモート コード実行の脆弱性
 
 ### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム
--   [CVE-2018-0850](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0850): Microsoft Outlook 特権の昇格の脆弱性
--   [CVE-2018-0852](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0852): Microsoft Outlook のメモリ破損の脆弱性
+-   [CVE-2018-0850](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0850): Microsoft Outlook 特権の昇格の脆弱性
+-   [CVE-2018-0852](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0852): Microsoft Outlook のメモリ破損の脆弱性
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
--   [CVE-2018-0851](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0851): Microsoft Office のメモリ破損の脆弱性
--   [CVE-2018-0853](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0853): Microsoft Office の情報漏えいの脆弱性
+-   [CVE-2018-0851](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0851): Microsoft Office のメモリ破損の脆弱性
+-   [CVE-2018-0853](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0853): Microsoft Office の情報漏えいの脆弱性
 
 
 
@@ -1441,15 +1441,15 @@ ms.locfileid: "50735211"
 *これは、2017 年 9 月から使用可能になった Deferred Channel リリースです。これは、2018 年 7 月まで継続的にサポートされ、セキュリティ更新プログラムを受信します。ただし、新しい半期チャネル リリースが使用可能になりました — バージョン 1708 (ビルド 8431.2215) — これには、新しい機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムが含まれます。*
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
--   [CVE-2018-0841](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0841): Microsoft Excel のリモート コード実行の脆弱性
+-   [CVE-2018-0841](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0841): Microsoft Excel のリモート コード実行の脆弱性
 
 ### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム
--   [CVE-2018-0850](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0850): Microsoft Outlook 特権の昇格の脆弱性
--   [CVE-2018-0852](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0852): Microsoft Outlook のメモリ破損の脆弱性
+-   [CVE-2018-0850](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0850): Microsoft Outlook 特権の昇格の脆弱性
+-   [CVE-2018-0852](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0852): Microsoft Outlook のメモリ破損の脆弱性
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
--   [CVE-2018-0851](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0851): Microsoft Office のメモリ破損の脆弱性
--   [CVE-2018-0853](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0853): Microsoft Office の情報漏えいの脆弱性
+-   [CVE-2018-0851](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0851): Microsoft Office のメモリ破損の脆弱性
+-   [CVE-2018-0853](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0853): Microsoft Office の情報漏えいの脆弱性
 
 
 
@@ -1483,16 +1483,16 @@ ms.locfileid: "50735211"
 -   **ペン ボタンでなげなわ選択:** リボンにアクセスすることなく、サポートされているデジタル ペン ボタンを使ってインクのなげなわ選択を行います。
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
--   [CVE-2017-8501](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2017-8501): Microsoft Office のメモリ破損の脆弱性
--   [CVE-2017-8502](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2017-8502): Microsoft Office のメモリ破損の脆弱性
--   [CVE-2017-8631](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2017-8631): Microsoft Office のメモリ破損の脆弱性
--   [CVE-2017-8632](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2017-8632): Microsoft Office のメモリ破損の脆弱性
--   [CVE-2017-11877](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2017-11877): Microsoft Excel のセキュリティ機能のバイパスの脆弱性
--   [CVE-2017-11878](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2017-11878): Microsoft Excel のメモリ破損の脆弱性
--   [CVE-2017-11884](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2017-11884): Microsoft Office のメモリ破損の脆弱性
--   [CVE-2017-11935](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2017-11935): Microsoft Excel のリモート コード実行の脆弱性
--   [CVE-2018-0796](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0796): Microsoft Excel のリモート コード実行の脆弱性
--   [アドバイザリ 170021](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/ADV170021): Microsoft Office 多層防御の更新プログラム
+-   [CVE-2017-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8501): Microsoft Office のメモリ破損の脆弱性
+-   [CVE-2017-8502](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8502): Microsoft Office のメモリ破損の脆弱性
+-   [CVE-2017-8631](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8631): Microsoft Office のメモリ破損の脆弱性
+-   [CVE-2017-8632](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8632): Microsoft Office のメモリ破損の脆弱性
+-   [CVE-2017-11877](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877): Microsoft Excel のセキュリティ機能のバイパスの脆弱性
+-   [CVE-2017-11878](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11878): Microsoft Excel のメモリ破損の脆弱性
+-   [CVE-2017-11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884): Microsoft Office のメモリ破損の脆弱性
+-   [CVE-2017-11935](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11935): Microsoft Excel のリモート コード実行の脆弱性
+-   [CVE-2018-0796](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0796): Microsoft Excel のリモート コード実行の脆弱性
+-   [アドバイザリ 170021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170021): Microsoft Office 多層防御の更新プログラム
 
 ### <a name="excel-non-security-updates"></a>Excel: セキュリティ以外の更新プログラム
 -   ピボットテーブルのプログラムによる作成の後にプログラムによる更新が行われると、Excel がクラッシュする問題を修正します。
@@ -1534,14 +1534,14 @@ ms.locfileid: "50735211"
 -   **操作可能なメッセージ:** 開発者は、ユーザーが外部の Web サイトまたは別のアプリに切り替えずに、Outlook から単純なアクションまたはクイック アクションを簡単に実行できるようにするメッセージを作成できます。[詳細情報](https://dev.office.com/blogs/create-more-engaging-conversations-with-new-actionable-messages-updates-announced-at-microsoft-build)
 
 ### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム
--   [CVE-2017-8571](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2017-8571): Microsoft Office Outlook のセキュリティ機能のバイパスの脆弱性
--   [CVE-2017-8572](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2017-8572): Microsoft Office Outlook の情報漏えいの脆弱性
--   [CVE-2017-8663](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2017-8663): Microsoft Office Outlook のメモリ破損の脆弱性
--   [CVE-2017-11774](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2017-11774): Microsoft Outlook のセキュリティ機能のバイパスの脆弱性
--   [CVE-2017-11776](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2017-11776): Microsoft Outlook の情報漏えいの脆弱性
--   [CVE-2017-11939](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2017-11939): Microsoft Office の情報漏えいの脆弱性
--   [CVE-2018-0791](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0791): Microsoft Outlook のリモート コード実行の脆弱性
--   [CVE-2018-0793](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0793): Microsoft Outlook のリモート コード実行の脆弱性
+-   [CVE-2017-8571](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8571): Microsoft Office Outlook のセキュリティ機能のバイパスの脆弱性
+-   [CVE-2017-8572](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8572): Microsoft Office Outlook の情報漏えいの脆弱性
+-   [CVE-2017-8663](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8663): Microsoft Office Outlook のメモリ破損の脆弱性
+-   [CVE-2017-11774](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11774): Microsoft Outlook のセキュリティ機能のバイパスの脆弱性
+-   [CVE-2017-11776](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11776): Microsoft Outlook の情報漏えいの脆弱性
+-   [CVE-2017-11939](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11939): Microsoft Office の情報漏えいの脆弱性
+-   [CVE-2018-0791](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0791): Microsoft Outlook のリモート コード実行の脆弱性
+-   [CVE-2018-0793](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0793): Microsoft Outlook のリモート コード実行の脆弱性
 
 ### <a name="outlook-non-security-updates"></a>Outlook: セキュリティ以外の更新プログラム
 -   メッセージを削除するときに、メッセージ一覧のフォーカスが予期せず移動する問題を修正します。
@@ -1563,9 +1563,9 @@ ms.locfileid: "50735211"
 -   **共有ファイルの変更:** 共有プレゼンテーションに変更を加えたユーザーを表示し、以前のバージョンを復元します。[詳細情報](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: セキュリティ更新プログラム
--   [CVE-2017-8742](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2017-8742): PowerPoint のリモート コード実行の脆弱性
--   [CVE-2017-8743](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2017-8743): PowerPoint のリモート コード実行の脆弱性
--   [CVE-2017-11934](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2017-11934): Microsoft PowerPoint の情報漏えいの脆弱性
+-   [CVE-2017-8742](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8742): PowerPoint のリモート コード実行の脆弱性
+-   [CVE-2017-8743](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8743): PowerPoint のリモート コード実行の脆弱性
+-   [CVE-2017-11934](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11934): Microsoft PowerPoint の情報漏えいの脆弱性
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: セキュリティ以外の更新プログラム
 -   同期し直したファイルを保存するときに、Office でディスクへの書き込みが失敗しても、OneDrive へのファイルのアップロードは続行されるという問題を修正します。この修正により、ユーザーにエラー メッセージが表示され、アップロードが続行されなくなります。
@@ -1596,9 +1596,9 @@ ms.locfileid: "50735211"
 -   Project ファイルをファイル サーバーから開くときの待ち時間が長い問題を修正して、速く開くようにします。
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: セキュリティ更新プログラム
--   [CVE-2017-8676](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2017-8676): Windows GDI+ の情報漏えいの脆弱性
--   [CVE-2017-8695](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2017-8695): Graphics コンポーネントの情報漏えいの脆弱性
--   [CVE-2017-8696](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2017-8696): Microsoft Graphics コンポーネントのリモート コード実行
+-   [CVE-2017-8676](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8676): Windows GDI+ の情報漏えいの脆弱性
+-   [CVE-2017-8695](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8695): Graphics コンポーネントの情報漏えいの脆弱性
+-   [CVE-2017-8696](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8696): Microsoft Graphics コンポーネントのリモート コード実行
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: セキュリティ以外の更新プログラム
 -   特定のポートがブロックされているか、IP が許可されていない場合に、ユーザーが会議に参加できない理由を説明するダイアログを追加します。
@@ -1643,20 +1643,20 @@ ms.locfileid: "50735211"
 -   **共有ファイルの変更:** 共有ドキュメントに変更を加えたユーザーを表示し、以前のバージョンを復元します。[詳細情報](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
 
 ### <a name="word-security-updates"></a>Word: セキュリティ更新プログラム
--   [CVE-2017-11826](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2017-11826): Microsoft Office のメモリ破損の脆弱性
--   [CVE-2018-0792](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0792): Microsoft Word のリモート コード実行の脆弱性
--   [CVE-2018-0793](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0793): Microsoft Outlook のリモート コード実行の脆弱性
--   [CVE-2018-0794](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0794): Microsoft Word のリモート コード実行の脆弱性
--   [CVE-2018-0798](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0798): Microsoft Office のメモリ破損の脆弱性
--   [CVE-2018-0801](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0801): Microsoft Office のリモート コード実行の脆弱性
--   [CVE-2018-0802](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0802): Microsoft Office のメモリ破損の脆弱性
--   [CVE-2018-0804](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0804): Microsoft Word のリモート コード実行の脆弱性
--   [CVE-2018-0805](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0805): Microsoft Word のリモート コード実行の脆弱性
--   [CVE-2018-0806](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0806): Microsoft Word のリモート コード実行の脆弱性
--   [CVE-2018-0807](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0807): Microsoft Word のリモート コード実行の脆弱性
--   [CVE-2018-0812](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0812): Microsoft Word のメモリ破損の脆弱性
--   [アドバイザリ 170020](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/ADV170020): Microsoft Office 多層防御の更新プログラム
--   [アドバイザリ 170021](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/ADV170021): Microsoft Office 多層防御の更新プログラム
+-   [CVE-2017-11826](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11826): Microsoft Office のメモリ破損の脆弱性
+-   [CVE-2018-0792](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0792): Microsoft Word のリモート コード実行の脆弱性
+-   [CVE-2018-0793](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0793): Microsoft Outlook のリモート コード実行の脆弱性
+-   [CVE-2018-0794](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0794): Microsoft Word のリモート コード実行の脆弱性
+-   [CVE-2018-0798](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0798): Microsoft Office のメモリ破損の脆弱性
+-   [CVE-2018-0801](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0801): Microsoft Office のリモート コード実行の脆弱性
+-   [CVE-2018-0802](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0802): Microsoft Office のメモリ破損の脆弱性
+-   [CVE-2018-0804](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0804): Microsoft Word のリモート コード実行の脆弱性
+-   [CVE-2018-0805](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0805): Microsoft Word のリモート コード実行の脆弱性
+-   [CVE-2018-0806](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0806): Microsoft Word のリモート コード実行の脆弱性
+-   [CVE-2018-0807](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0807): Microsoft Word のリモート コード実行の脆弱性
+-   [CVE-2018-0812](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0812): Microsoft Word のメモリ破損の脆弱性
+-   [アドバイザリ 170020](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170020): Microsoft Office 多層防御の更新プログラム
+-   [アドバイザリ 170021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170021): Microsoft Office 多層防御の更新プログラム
 
 ### <a name="word-non-security-updates"></a>Word: セキュリティ以外の更新プログラム
 -   ユーザーが OneDrive for Business で既存のドキュメントに対して [名前をつけて保存] をしようとしてから、その保存をキャンセルするか、既存の変更をマージしようすると Word がクラッシュする問題を修正します。
@@ -1671,13 +1671,13 @@ ms.locfileid: "50735211"
 -   PDF としてドキュメントを保存すると、バージョン 1.7 の PDF としてドキュメントが保存されます。
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
--   [CVE-2017-8570](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2017-8570): Microsoft Office のリモート コード実行の脆弱性
--   [CVE-2017-8630](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2017-8630): Microsoft Office のメモリ破損の脆弱性
--   [CVE-2017-8744](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2017-8744): Microsoft Office のメモリ破損の脆弱性
--   [CVE-2017-11825](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2017-11825): Microsoft Office のリモート コード実行の脆弱性
--   [CVE-2017-11882](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2017-11882): Microsoft Office のメモリ破損の脆弱性
--   [CVE-2018-0795](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0795): Microsoft Office のリモート コード実行の脆弱性
--   [アドバイザリ 180003](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/ADV180003): Microsoft Office 多層防御の更新プログラム
+-   [CVE-2017-8570](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570): Microsoft Office のリモート コード実行の脆弱性
+-   [CVE-2017-8630](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8630): Microsoft Office のメモリ破損の脆弱性
+-   [CVE-2017-8744](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8744): Microsoft Office のメモリ破損の脆弱性
+-   [CVE-2017-11825](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11825): Microsoft Office のリモート コード実行の脆弱性
+-   [CVE-2017-11882](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11882): Microsoft Office のメモリ破損の脆弱性
+-   [CVE-2018-0795](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0795): Microsoft Office のリモート コード実行の脆弱性
+-   [アドバイザリ 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003): Microsoft Office 多層防御の更新プログラム
 
 ### <a name="office-suite-non-security-updates"></a>Office スイート: セキュリティ以外の更新プログラム
 -   ID がオンプレミスの Active Directory とフェデレーションされている Office 365 Germany プランのドメイン ユーザーに、シングル サインオン (SSO) のサポートを追加します。
@@ -1707,29 +1707,29 @@ ms.locfileid: "50735211"
 *これは、2017 年 9 月から使用可能になった Deferred Channel リリースです。これは、2018 年 7 月まで継続的にサポートされ、セキュリティ更新プログラムを受信します。ただし、新しい半期チャネル リリースが使用可能になりました — バージョン 1708 (ビルド 8431.2153) — これには、新しい機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムが含まれます。*
 
 ### <a name="excel-security-updates"></a>Excel: セキュリティ更新プログラム
--   [CVE-2018-0796](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0796): Microsoft Excel のリモート コード実行の脆弱性
--   [アドバイザリ 170021](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/ADV170021): Microsoft Office 多層防御の更新プログラム
+-   [CVE-2018-0796](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0796): Microsoft Excel のリモート コード実行の脆弱性
+-   [アドバイザリ 170021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170021): Microsoft Office 多層防御の更新プログラム
 
 ### <a name="outlook-security-updates"></a>Outlook: セキュリティ更新プログラム
--   [CVE-2018-0791](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0791): Microsoft Outlook のリモート コード実行の脆弱性
--   [CVE-2018-0793](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0793): Microsoft Outlook のリモート コード実行の脆弱性
+-   [CVE-2018-0791](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0791): Microsoft Outlook のリモート コード実行の脆弱性
+-   [CVE-2018-0793](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0793): Microsoft Outlook のリモート コード実行の脆弱性
 
 ### <a name="word-security-updates"></a>Word: セキュリティ更新プログラム
--   [CVE-2018-0792](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0792): Microsoft Word のリモート コード実行の脆弱性
--   [CVE-2018-0793](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0793): Microsoft Outlook のリモート コード実行の脆弱性
--   [CVE-2018-0794](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0794): Microsoft Word のリモート コード実行の脆弱性
--   [CVE-2018-0798](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0798): Microsoft Office のメモリ破損の脆弱性
--   [CVE-2018-0801](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0801): Microsoft Office のリモート コード実行の脆弱性
--   [CVE-2018-0802](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0802): Microsoft Office のメモリ破損の脆弱性
--   [CVE-2018-0804](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0804): Microsoft Word のリモート コード実行の脆弱性
--   [CVE-2018-0805](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0805): Microsoft Word のリモート コード実行の脆弱性
--   [CVE-2018-0806](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0806): Microsoft Word のリモート コード実行の脆弱性
--   [CVE-2018-0807](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0807): Microsoft Word のリモート コード実行の脆弱性
--   [CVE-2018-0812](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0812): Microsoft Word のメモリ破損の脆弱性
+-   [CVE-2018-0792](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0792): Microsoft Word のリモート コード実行の脆弱性
+-   [CVE-2018-0793](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0793): Microsoft Outlook のリモート コード実行の脆弱性
+-   [CVE-2018-0794](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0794): Microsoft Word のリモート コード実行の脆弱性
+-   [CVE-2018-0798](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0798): Microsoft Office のメモリ破損の脆弱性
+-   [CVE-2018-0801](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0801): Microsoft Office のリモート コード実行の脆弱性
+-   [CVE-2018-0802](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0802): Microsoft Office のメモリ破損の脆弱性
+-   [CVE-2018-0804](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0804): Microsoft Word のリモート コード実行の脆弱性
+-   [CVE-2018-0805](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0805): Microsoft Word のリモート コード実行の脆弱性
+-   [CVE-2018-0806](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0806): Microsoft Word のリモート コード実行の脆弱性
+-   [CVE-2018-0807](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0807): Microsoft Word のリモート コード実行の脆弱性
+-   [CVE-2018-0812](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0812): Microsoft Word のメモリ破損の脆弱性
 
 ### <a name="office-suite-security-updates"></a>Office スイート: セキュリティ更新プログラム
--   [CVE-2018-0795](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-0795): Microsoft Office のリモート コード実行の脆弱性
--   [アドバイザリ 180003](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/ADV180003): Microsoft Office 多層防御の更新プログラム
+-   [CVE-2018-0795](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0795): Microsoft Office のリモート コード実行の脆弱性
+-   [アドバイザリ 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003): Microsoft Office 多層防御の更新プログラム
 
 
 > [!NOTE]

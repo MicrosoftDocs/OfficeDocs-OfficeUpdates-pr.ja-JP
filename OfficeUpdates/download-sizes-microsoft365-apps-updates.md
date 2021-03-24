@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 各チャネルの Microsoft 365 アプリ用更新プログラムのダウンロード サイズの概算に関する情報を IT 技術者に提供します
-ms.openlocfilehash: 3bb4ff52e0a13b05b6e698ae87e59576fb7bfdc9
-ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
+ms.openlocfilehash: 9b2cc9b894417da7e161b97fd273956167e7a2b3
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902162"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169855"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 アプリ用更新プログラムのダウンロード サイズ
 
@@ -26,8 +26,8 @@ ms.locfileid: "50902162"
 
 
 > [!IMPORTANT]
-> - 現在、Microsoft 365 Apps の更新プログラム チャネルに、新しい更新プログラム チャネル (月次エンタープライズ チャネル) の追加や既存の更新プログラム チャネル名の変更など、いくつかの変更を進めています。 詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2127441)を参照してください。
-> - バージョン 2004 以降の Office 365 ProPlus は Microsoft 365 Apps for enterprise に名前が変更されています。 詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2123420)を参照してください。 Microsoft のドキュメントでは通常、Microsoft 365 Apps として言及します。
+> - 現在、Microsoft 365 Apps の更新プログラム チャネルに、新しい更新プログラム チャネル (月次エンタープライズ チャネル) の追加や既存の更新プログラム チャネル名の変更など、いくつかの変更を進めています。 詳細については、[こちらの記事](/DeployOffice/update-channels-changes)を参照してください。
+> - バージョン 2004 以降の Office 365 ProPlus は Microsoft 365 Apps for enterprise に名前が変更されています。 詳細については、[こちらの記事](/deployoffice/name-change)を参照してください。 Microsoft のドキュメントでは通常、Microsoft 365 Apps として言及します。
 
 
 > [!NOTE]
@@ -638,9 +638,9 @@ ms.locfileid: "50902162"
 
 ## <a name="related-topics"></a>関連項目
 
-- [Microsoft 365 Apps 用更新プログラム チャネルの概要](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Microsoft 365 Apps 用更新プログラム チャネルの概要](/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 
-- [Microsoft 365 アプリの更新履歴 (日付別の一覧)](update-history-office365-proplus-by-date.md)
+- [Microsoft 365 アプリの更新履歴 (日付別の一覧)](./update-history-microsoft365-apps-by-date.md)
 
 > [!NOTE]
 > Office の使用で問題がある場合は、[Microsoft の回答フォーラム](https://answers.microsoft.com/)に関するページまたは「[Microsoft Tech Community](https://techcommunity.microsoft.com/)」に質問を投稿するか、[サポート](https://support.microsoft.com/contactus)に問い合わせてサポートを受けることができます。

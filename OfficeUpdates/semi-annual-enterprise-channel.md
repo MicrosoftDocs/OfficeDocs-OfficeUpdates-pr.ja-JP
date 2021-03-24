@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の半期チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 99828dc0f08c9fb065a92620acee2a1b5e856b9e
-ms.sourcegitcommit: d7b61837c922993e563c83df547d865c6715517b
+ms.openlocfilehash: 547700388de93effd6e2d1ced5c5b1d6a570bdc3
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50741650"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169615"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>半期エンタープライズ チャネルのリリース ノート
 
 このリリース ノートには、半期エンタープライズ チャネルの更新プログラムに含まれる新機能と、セキュリティ以外の更新プログラムに関する情報が記載されています。対象となるのは、Microsoft 365 Apps for enterprise、Microsoft 365 Apps for business、および Project と Visio のデスクトップ アプリのサブスクリプション版です。
 
 > [!IMPORTANT]
-> 現在、Microsoft 365 Apps の更新プログラム チャネルに、新しい更新プログラム チャネル (月次エンタープライズ チャネル) の追加や既存の更新プログラム チャネル名の変更など、いくつかの変更を進めています。 詳細については、[こちらの記事](https://go.microsoft.com/fwlink/p/?linkid=2127441)を参照してください。
+> 現在、Microsoft 365 Apps の更新プログラム チャネルに、新しい更新プログラム チャネル (月次エンタープライズ チャネル) の追加や既存の更新プログラム チャネル名の変更など、いくつかの変更を進めています。 詳細については、[こちらの記事](/DeployOffice/update-channels-changes)を参照してください。
 
 > [!NOTE]
 >
@@ -33,7 +33,7 @@ ms.locfileid: "50741650"
 ## <a name="version-2008-march-09"></a>バージョン 2008: 3 月 9 日
 *バージョン 2008 (ビルド 13127.21348)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -68,12 +68,12 @@ ms.locfileid: "50741650"
 ## <a name="version-2002-march-09"></a>バージョン 2002: 3 月 9 日
 *バージョン 2002 (ビルド 12527.21686)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2008-february-09"></a>バージョン 2008: 2 月 9 日
 *バージョン 2008 (ビルド 13127.21216)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -134,7 +134,7 @@ ms.locfileid: "50741650"
 ## <a name="version-2002-february-09"></a>バージョン 2002: 2 月 9 日
 *バージョン 2002 (ビルド 12527.21594)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -151,12 +151,12 @@ ms.locfileid: "50741650"
 ## <a name="version-1908-february-09"></a>バージョン 1908: 2 月 9 日
 *バージョン 1908 (ビルド 11929.21008)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2008-january-12"></a>バージョン 2008: 1 月 12 日
 *バージョン 2008 (ビルド 13127.21064)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
@@ -192,7 +192,7 @@ ms.locfileid: "50741650"
 
 - **受信トレイを離れずに会議に参加する:** オンライン会議に参加するために、予定表に切り替える必要はありません。 予定表を To Do ウィンドウに固定すると、Exchange Server 2019 または Exchange Online でホストされているユーザー アカウントは、ワンクリックで任意の会議に参加できます。 [詳細情報](https://support.office.com/article/d8baa9d5-0645-41b8-9f36-b498a6c36064 )
 
-- **キャプティブ WiFi ネットワークの新しいエクスペリエンス**: サインインに Web ページを必要とする WiFi ネットワークに参加したことはありませんか ? Outlook はこれを検出し、接続を支援します。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/outlook-on-public-wi-fi-networks-just-got-easier)の詳細情報をご覧ください
+- **キャプティブ WiFi ネットワークの新しいエクスペリエンス**: サインインに Web ページを必要とする WiFi ネットワークに参加したことはありませんか ? Outlook はこれを検出し、接続を支援します。<br />[ブログの投稿](https://insider.office.com/en-us/blog/outlook-on-public-wi-fi-networks-just-got-easier)の詳細情報をご覧ください
 
 - **人物を検索するときにメールの候補を取得する:** [検索] ボックスに人の名前を入力すると、最も関連性の高いメール メッセージが検索候補に含まれます。 [詳細情報](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
@@ -839,7 +839,7 @@ ms.locfileid: "50741650"
 ## <a name="version-2002-january-12"></a>バージョン 2002: 1 月 12 日
 *バージョン 2002 (ビルド 12527.21504)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -864,7 +864,7 @@ ms.locfileid: "50741650"
 ## <a name="version-1908-january-12"></a>バージョン 1908: 1 月 12 日
 *バージョン 1908 (ビルド 11929.20994)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -881,7 +881,7 @@ ms.locfileid: "50741650"
 ## <a name="version-2002-december-08"></a>バージョン 2002: 12 月 08 日
 *バージョン 2002 (ビルド 12527.21416)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -925,12 +925,12 @@ ms.locfileid: "50741650"
 ## <a name="version-1908-december-08"></a>バージョン 1908: 12 月 08 日
 *バージョン 1908 (ビルド 11929.20984)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2002-november-10"></a>バージョン 2002: 11 月 10 日
 *バージョン 2002 (ビルド 12527.21330)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -967,12 +967,12 @@ ms.locfileid: "50741650"
 ## <a name="version-1908-november-10"></a>バージョン 1908: 11 月 10 日
 *バージョン 1908 (ビルド 11929.20974)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2002-october-13"></a>バージョン 2002: 10 月 13 日
 *バージョン2002 (ビルド 12527.21236)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -1012,7 +1012,7 @@ ms.locfileid: "50741650"
 ## <a name="version-1908-october-13"></a>バージョン1908: 10 月 13 日
 *バージョン 1908 (ビルド 11929.20966)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -1029,7 +1029,7 @@ ms.locfileid: "50741650"
 ## <a name="version-2002-september-08"></a>バージョン 2002: 9 月 08 日
 *バージョン2002 (ビルド12527.21104)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -1059,12 +1059,12 @@ ms.locfileid: "50741650"
 ## <a name="version-1908-september-08"></a>バージョン 1908: 9 月 08 日
 *バージョン 1908 (ビルド11929.20946)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2002-august-11"></a>バージョン 2002: 8 月 11 日
 *バージョン 2002 (ビルド 12527.20988)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -1099,12 +1099,12 @@ ms.locfileid: "50741650"
 ## <a name="version-1908-august-11"></a>バージョン 1908: 8 月 11 日
 *バージョン 1908 (ビルド 11929.20934)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-1902-august-11"></a>バージョン 1902: 8 月 11 日
 *バージョン 1902 (ビルド 11328.20644)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -1115,7 +1115,7 @@ ms.locfileid: "50741650"
 ## <a name="version-2002-july-14"></a>バージョン 2002: 7 月 14 日
 *バージョン 2002 (ビルド 12527.20880)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
@@ -1631,7 +1631,7 @@ ms.locfileid: "50741650"
 ## <a name="version-1908-july-14"></a>バージョン 1908: 7 月 14 日
 *バージョン 1908 (ビルド 11929.20904)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -1811,7 +1811,7 @@ ms.locfileid: "50741650"
 
 - ユーザーが OST と同期している共有予定表フォルダーに問題があり、これらのフォルダーを操作しようとするとアクセス許可エラーが発生する問題に対処しました。
 
-- Citrix 環境で 30 件を超える予定表を表示したときにクラッシュする原因になった問題に対処します。 以前のバージョンで文書化された個々の [KB については、こちらを参照してください](https://support.microsoft.com/ja-JP/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)
+- Citrix 環境で 30 件を超える予定表を表示したときにクラッシュする原因になった問題に対処します。 以前のバージョンで文書化された個々の [KB については、こちらを参照してください](https://support.microsoft.com/en-us/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)
 
 - SMIME アルゴリズムの選択に関する問題を修正します。
 
@@ -1969,12 +1969,12 @@ ms.locfileid: "50741650"
 ## <a name="version-1902-july-14"></a>バージョン 1902: 7 月 14 日
 *バージョン 1902 (ビルド 11328.20624)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-1908-june-09"></a>バージョン 1908: 6 月 9 日
 *バージョン 1908 (ビルド 11929.20838)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -2002,7 +2002,7 @@ ms.locfileid: "50741650"
 ## <a name="version-1902-june-09"></a>バージョン 1902: 6月 9 日
 *バージョン 1902 (ビルド 11328.20602)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -2021,7 +2021,7 @@ ms.locfileid: "50741650"
 ## <a name="version-1908-may-12"></a>バージョン 1908: 5 月 12 日
 *バージョン 1908 (ビルド 11929.20776)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -2046,7 +2046,7 @@ ms.locfileid: "50741650"
 ## <a name="version-1902-may-12"></a>バージョン 1902: 5 月 12 日
 *バージョン 1902 (ビルド 11328.20586)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -2064,7 +2064,7 @@ ms.locfileid: "50741650"
 ## <a name="version-1908-may-04"></a>バージョン 1908: 5 月 4 日
 *バージョン 1908 (ビルド 11929.20752)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 ### <a name="resolved-issues"></a>解決済みの問題
 ### <a name="outlook"></a>Outlook
@@ -2090,7 +2090,7 @@ ms.locfileid: "50741650"
 ## <a name="version-1908-april-26"></a>バージョン 1908: 4 月 26 日
 *バージョン 1908 (ビルド 11929.20736)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 ### <a name="resolved-issues"></a>解決済みの問題
 ### <a name="excel"></a>Excel
@@ -2112,7 +2112,7 @@ ms.locfileid: "50741650"
 ## <a name="version-1908-april-14"></a>バージョン 1908: 4 月 14 日
 *バージョン 1908 (ビルド 11929.20708)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
@@ -2145,14 +2145,14 @@ ms.locfileid: "50741650"
 ## <a name="version-1902-april-14"></a>バージョン 1902: 4 月 14 日
 *バージョン 1902 (ビルド 11328.20564)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-1908-march-10"></a>バージョン 1908: 3 月 10 日
 *バージョン 1908 (ビルド 11929.20648)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -2186,14 +2186,14 @@ ms.locfileid: "50741650"
 ## <a name="version-1902-march-10"></a>バージョン 1902: 3 月 10 日
 *バージョン 1902 (ビルド 11328.20554)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-1908-february-11"></a>バージョン 1908: 2 月 11 日
 *バージョン 1908 (ビルド 11929.20606)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -2242,7 +2242,7 @@ ms.locfileid: "50741650"
 
 - PowerPoint の初回起動時に、信頼されていないアドインに対してセキュリティ警告メッセージ バーが表示されない問題を修正しました。
 
-### <a name="project"></a>Project
+### <a name="project"></a>プロジェクト
 
 - 基本カレンダーが変更されたときにリソース カレンダーが更新されないために、実際の作業がタイムシートとプロジェクト計画の間で異なる場合があるという問題を修正しました。
 
@@ -2261,7 +2261,7 @@ ms.locfileid: "50741650"
 ## <a name="version-1902-february-11"></a>バージョン 1902: 2 月 11 日
 *バージョン 1902 (ビルド 11328.20526)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -2283,14 +2283,14 @@ ms.locfileid: "50741650"
 ## <a name="version-1808-february-11"></a>バージョン 1808: 2 月 11 日
 *バージョン 1808 (ビルド 10730.20438)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-1908-january-14"></a>バージョン 1908: 1 月 14 日
 *バージョン 1908 (ビルド 11929.20562)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
@@ -2409,11 +2409,11 @@ ms.locfileid: "50741650"
 
 - **変更が発生したときに変更内容を自動的に保存する:** 変更が自動的に保存されるように、ファイルを OneDrive にアップロードしましょう。
 
-- **プライバシー制御**: 診断データとコネクテッド エクスペリエンス用に新しく更新されて、改善された制御。 [詳細情報](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
+- **プライバシー制御**: 診断データとコネクテッド エクスペリエンス用に新しく更新されて、改善された制御。 [詳細情報](/DeployOffice/privacy/overview-privacy-controls?toc=%2fdeployoffice%2ftoc.json)
 
 - **新しい外観を備えた Office のアイコン:** シンプルかつ高性能で、インテリジェントな Office のエクスペリエンスを反映するように、Office のアイコンがリニューアルされました。
 
-- **Microsoft Teams のインストール:** Microsoft Teams は、Office 365 ProPlus の既存のインストールに既定でインストールされています。 [詳細情報](https://docs.microsoft.com/DeployOffice/teams-install)
+- **Microsoft Teams のインストール:** Microsoft Teams は、Office 365 ProPlus の既存のインストールに既定でインストールされています。 [詳細情報](/DeployOffice/teams-install)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
 
@@ -2653,7 +2653,7 @@ ms.locfileid: "50741650"
 ## <a name="version-1902-january-14"></a>バージョン 1902: 1 月 14 日
 *バージョン 1902 (ビルド 11328.20512)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -2681,7 +2681,7 @@ ms.locfileid: "50741650"
 ## <a name="version-1808-january-14"></a>バージョン 1808: 1 月 14 日
 *バージョン 1808 (ビルド 10730.20432)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
