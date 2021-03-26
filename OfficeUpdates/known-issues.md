@@ -9,21 +9,21 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Office 365 ProPlus の既知の問題に関する情報を提供します。
-ms.openlocfilehash: eb771e0584a76f4ab4d506987a6b2379cc7087ee
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+ms.openlocfilehash: f93d43233c448cdc1100fe82e255acbb1fd344f3
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48369945"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169846"
 ---
-# <a name="microsoft-365-apps-known-issues"></a>Microsoft 365 アプリの既知の問題
+# <a name="microsoft-365-apps-known-issues"></a>Microsoft 365 Apps の既知の問題
 
 この既知の問題には、2019 年の月次チャネル、半期チャネル (対象指定)、半期チャネルの更新プログラムに含まれるセキュリティ以外の更新プログラムに関する情報が記載されています。対象となるのは、Microsoft 365 Apps for enterprise、Microsoft 365 Apps for business、および Project と Visio のデスクトップ アプリのサブスクリプション版です。
 
 
 > [!NOTE]
 >- この一覧は包括的ではありません。
->- [解決済み] と表示されているチャネル以外の問題が発生した場合は、間もなく解決することができます。 [詳細情報](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus#BKMK_SAC)
+>- [解決済み] と表示されているチャネル以外の問題が発生した場合は、間もなく解決することができます。 [詳細情報](/DeployOffice/overview-of-update-channels-for-office-365-proplus#BKMK_SAC)
 >- 解決済みの問題は、それぞれのチャネルのページにも記載されています。
 
 <br>

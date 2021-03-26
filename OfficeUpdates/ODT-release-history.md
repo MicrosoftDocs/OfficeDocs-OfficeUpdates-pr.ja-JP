@@ -9,25 +9,32 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: IT プロフェッショナルに、Office 展開ツール (ODT) のリリース履歴を提供します
-ms.openlocfilehash: 9425577c975122e0ebeffcefed1734a9e024fa8c
-ms.sourcegitcommit: ab151c4f3172c007249a556fa02854b0765d24b9
+ms.openlocfilehash: 046054dfb781c3cd19ca6505e5ae5f2f362f6a86
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50421411"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169965"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Office 展開ツールのリリース履歴
 
 Office 展開ツール (ODT) はコマンドライン ツールです。これを使用すると、Microsoft 365 アプリなどのクイック実行バージョンの Office をクライアント コンピューターにダウンロードして展開することができます。 
 
 
-ODT により、Office インストール環境をより詳細に制御できるようになります。 具体的には、インストールする製品や言語の種類、それらの製品の更新方法、インストール操作をユーザーに表示するかどうかを制御できます。 ODT の使用方法については、[Office 展開ツールの概要](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool)を参照してください。
+ODT により、Office インストール環境をより詳細に制御できるようになります。 具体的には、インストールする製品や言語の種類、それらの製品の更新方法、インストール操作をユーザーに表示するかどうかを制御できます。 ODT の使用方法については、[Office 展開ツールの概要](/deployoffice/overview-of-the-office-2016-deployment-tool)を参照してください。
 
  **サポートされているオペレーティング システム**: Windows 10、Windows 8.1、Windows Server 2019、Windows Server 2016 
  
  **インストール方法**: 自己解凍実行ファイルをダウンロードして実行します。このファイルには、Office 展開ツールの実行可能ファイル (setup.exe) およびサンプル構成ファイル (configuration.xml) が含まれています。 
 
 [Office 展開ツールのダウンロード](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+
+## <a name="march-23-2021"></a>2021 年 3 月 23 日
+バージョン 16.0.13801.20360 (setup.exe バージョン 16.0.13801.20340)
+- 今後の Office 製品リリースのサポートに対する変更
+- ARM プラットフォームの信頼性の修正
+
 
 ## <a name="february-25-2021"></a>2021 年 2 月 25 日
 バージョン 16.0.13628.20476 (setup.exe バージョン 16.0.13628.20462)
@@ -104,7 +111,7 @@ ODT により、Office インストール環境をより詳細に制御できる
 バージョン 16.0.12325.20288
 - 複数の言語がインストールされている場合に Office のインストール UI が正しい言語で表示されないことがある問題を修正します
 - 特定の校正ツール パッケージがインストールされていると、Office のインストールが予期せず失敗することがある問題を修正します
-- [Bing 機能での Microsoft Search](https://go.microsoft.com/fwlink/p/?linkid=2109345) の初期展開をオプションで制御するサポートを追加します
+- [Bing 機能での Microsoft Search](/deployoffice/microsoft-search-bing) の初期展開をオプションで制御するサポートを追加します
 
 
 ## <a name="october-31-2019"></a>2019 年 10 月 31 日
