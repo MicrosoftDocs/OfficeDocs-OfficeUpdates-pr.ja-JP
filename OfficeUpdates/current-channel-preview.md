@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに新機能、修正プログラム、または既知の問題の最新リストを提供します
-ms.openlocfilehash: 9034604f61ae18eaa07a1467814fdf160b4f46f6
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: cdc35c55ebcd8526363f524f22d5b8a9ab93d7c6
+ms.sourcegitcommit: 89f767ecc31abe81febd10a4c059cbaa168c6f0e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51169986"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51408050"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 向けリリース ノートの最新チャネル (プレビュー)
 
@@ -28,6 +28,23 @@ ms.locfileid: "51169986"
 > - Microsoft Teams の機能は、リリース頻度が高いため、最新チャネル プレビュー版とは異なる場合があります。
 
 [//]: # (削除しないでください)
+
+## <a name="version-2103-march-28"></a>バージョン 2103: 3 月 28 日
+*バージョン 2103 (ビルド 13901.20306)*
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- フォルダー階層の変更を同期するときに、Outlook が予期せず終了するという一部のユーザーの問題が修正されました。
+
+
+- 一部のユーザーがナビゲーション ウィンドウで予定表のプライマリとセカンダリ カレンダーの切り替え場所を表示する原因となる問題が修正されました。
+
+
+
+[//]: # (BUGDETAILS コンテンツ エンドを削除しないでください)
 
 ## <a name="version-2103-march-22"></a>バージョン 2103: 3 月 22 日
 *バージョン 2103 (ビルド 13901.20230)*
@@ -3407,7 +3424,7 @@ ms.locfileid: "51169986"
 
 - マウスで X ボタンを使用しているときにクラッシュが生じる原因となっていた問題に対処しました。
 
-### <a name="project"></a>プロジェクト
+### <a name="project"></a>Project
 
 - フォーム ビュー内で先行処理/後続処理データが編集されると、余分の ProjectBeforeTaskChangeevent が発生します。
 
