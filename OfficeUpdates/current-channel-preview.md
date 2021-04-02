@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに新機能、修正プログラム、または既知の問題の最新リストを提供します
-ms.openlocfilehash: cdc35c55ebcd8526363f524f22d5b8a9ab93d7c6
-ms.sourcegitcommit: 89f767ecc31abe81febd10a4c059cbaa168c6f0e
+ms.openlocfilehash: 5bd71abc819924012ecbaf37563b24e4e6220f6a
+ms.sourcegitcommit: d108f8a732dfede6326d9726c09c667b5d084131
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51408050"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51440712"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 向けリリース ノートの最新チャネル (プレビュー)
 
@@ -28,6 +28,10 @@ ms.locfileid: "51408050"
 > - Microsoft Teams の機能は、リリース頻度が高いため、最新チャネル プレビュー版とは異なる場合があります。
 
 [//]: # (削除しないでください)
+
+## <a name="version-2103-march-30"></a>バージョン 2103: 3 月 30 日
+*バージョン 2103 (ビルド 13901.20312)*
+* さまざまなバグとパフォーマンスの修正。
 
 ## <a name="version-2103-march-28"></a>バージョン 2103: 3 月 28 日
 *バージョン 2103 (ビルド 13901.20306)*
