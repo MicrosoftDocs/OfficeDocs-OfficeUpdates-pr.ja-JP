@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の月次チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 901b51893436270a39d6977eaa6c9f5ffcdc643e
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: f59693161d58d2e29362214feca8d0f255f84246
+ms.sourcegitcommit: a4a8fb0a7e5be677ac473b3a8dea15cbada5914a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51169946"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "51487251"
 ---
 # <a name="release-notes-for-current-channel"></a>現在のチャネルのリリース ノート
 
@@ -32,6 +32,126 @@ ms.locfileid: "51169946"
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2103-march-30"></a>バージョン 2103: 3 月 30 日
+*バージョン 2103 (ビルド 13901.20312)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="outlook"></a>Outlook
+
+- **メッセージの作成にかかる時間を節約:** Outlook は、メッセージをすばやく作成するのに役立つ提案を作成することを示します。 提案を受け入れるには、Tab キーを使用するだけです。<br />[ブログ記事](https://insider.office.com/ja-JP/blog/text-predictions-in-word-outlook)の詳細情報をご覧ください
+
+- **会議室とワークスペースの新しい予約機能:** 会議室の予約機能が更新され、個々のワークスペースをスケジュールできる機能が追加されました。
+
+- **検索する場所を選択する:** 新しい検索範囲のドロップ ダウン リストを使用すると、検索結果を簡単に変更したり、現在のフォルダーと現在のメールボックスを切り替えることができます。 新しい検索についてフィードバックを提供してくれた皆さんに感謝します。 このデザインと更新プログラムは、お客様のフィードバックを反映しています。
+
+- **人物を検索するときに会議の候補を取得する:** [検索] ボックスに人の名前を入力すると、最も関連性の高いカレンダーの招待状を含むメール メッセージが検索候補に含まれます。
+
+- **Teams で共有:** Outlook からのメッセージを Teams 内のユーザーまたはチャネルと共有します。
+
+- **音声でメッセージの下書きを作成する:** 新しいディクテーション ツールバー、音声コマンド、自動句読点などを使用してメッセージを作成します。
+
+### <a name="teams"></a>Teams
+
+- **会議の反応:** 会議の反応は、会議を操作するための新しい方法です。 参加者はリアクションを送信でき、共有されているコンテンツ、および会議ステージに表示されている場合はリアクションを送信した個人にストリームとして表示されます。
+
+- **Teams 会議での出席者の音声権限の管理の改善:** 会議の発表者および主催者は、手を挙げていなくても出席者がミュートを解除できるようになりました。 以前は、ミュートを解除できなかった (マイクが無効になっている) 会議出席者は、ミュートを解除できるように手を上げる必要がありました。
+
+- **Teams 会議での出席者の音声アクセス許可の管理の改善:** 以前は、会議の発表者または主催者は、会議で出席者のマイクを 1 人づつ無効にすることができませんでした。 主催者または発表者は、「出席者のミュート解除を許可する」をオフに設定することしかできなかったため、すべての出席者のマイクが無効になりました。 この変更により、会議の発表者と主催者は、Teams会議中に個々の出席者がアドホックな方法でミュートを解除するのを防ぐことができます。
+
+- **会議参加者名簿のエクスペリエンスの向上:** ロビー、会議中、発表者、および出席者の参加者セクションのチーム会議での参加者リストの表示方法を変更しています。 各セクションで最大 20 人の参加者が初期ビューに表示され、そのセクション内でさらに多くの参加者をドリルインして表示するオプションがあります。 ロビーについては、全員を会議に参加させる前に、完全なリストを確認できます。 名簿には、会議で最もアクティブな参加者の詳細がアルファベット順に表示されます。 参加者のアクション メニューに変更はありません。
+
+- **名簿から会議参加者を検索する:** ユーザーが名簿の検索ボックスから、会議参加者を検索して、特定の個人が会議に参加しているかどうかを確認できるようになりました。 引き続き会議外の参加者を検索し、会議への参加を要求できます。
+
+- **Outlook から Teams に共有:** Outlook から Teams に共有すると、添付ファイルを含むメール メッセージまたは会話のコピーを Teams のチャットおよびチャネルに送信できます。 Outlook リボンまたはメールのアクション メニューで [Teams に共有] オプションを見つけます。 [Teams に共有] は、Outlook on the Web、Outlook for Windows、および新しい Outlook for Mac プレビューをサポートしています。
+
+- **ブレークアウト ルームのタイマーと部屋の割り当ての保持:** 主催者は、[ブレークアウト ルーム] の設定からブレークアウト ルームのタイマーを設定できるようになりました。 タイマーが切れると、部屋は自動的に閉じられ、参加者はメイン ミーティングに戻ります。 部屋の割り当ての保持により、複数のセッションにわたって部屋の構成と割り当てを保持する機能が提供されます。参加者の再割り当て機能により、主催者は、会議室が開いているときにも、参加した参加者を部屋間およびメイン会議間で移動できるようになります。
+
+- **ファイルへのオフライン アクセス:** インターネットに接続されていない場合でも、ユーザーは以前に開いたファイルにアクセスできるようになりました。
+
+- **PowerPoint ファイルを共有するときのグリッド ビュー:** 会議で PowerPoint ファイルを共有するときに、ユーザーはグリッド ビューを使用してデッキ内のすべてのスライドを表示し、アドホックのスライド ナビゲーションを簡単に行えるようになりました。
+
+### <a name="word"></a>Word
+
+- **音声で文書の下書きを作成する:** 新しいディクテーション ツールバー、音声コマンド、自動句読点を使用して文書の下書きを作成します。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="access"></a>Access
+
+- SQL Server パススルー クエリを実行すると、"無効なカーソル状態" があったことを示すエラー メッセージが表示されることがある問題がこの変更により修正されます。
+
+- 外部アプリケーションがアクセシビリティ インターフェイスを要求した場合、そのインターフェイスが参照を解放するまでシャットダウンできない問題を修正しました。
+
+### <a name="project"></a>Project
+
+- Office リボンで無効にされたコマンドでアイコンがグレー表示され、ダークグレーの Office テーマのテキストが表示されないバグを修正しました。
+
+### <a name="excel"></a>Excel
+
+- Office リボンで無効にされたコマンドでアイコンがグレー表示され、ダークグレーの Office テーマのテキストが表示されないバグを修正しました。
+
+
+### <a name="outlook"></a>Outlook
+
+- フォルダー階層の変更を同期するときに、Outlook が予期せず終了するという一部のユーザーの問題が修正されました。
+
+
+- 一部のユーザーがナビゲーション ウィンドウで予定表のプライマリとセカンダリ カレンダーの切り替え場所を表示する原因となる問題が修正されました。
+
+
+- ユーザーに予想よりも多くの署名が表示される問題を修正しました。
+
+
+- 一部のユーザーがセカンダリ メール アカウントに関連付けられた署名にアクセスできなくなる問題を修正しました。
+
+
+- 新しいデバイスで Outlook を構成した後、クラウド設定機能のユーザーにカスタマイズされた設定が既定の設定で上書きされる問題を修正しました。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Office リボンで無効にされたコマンドでアイコンがグレー表示され、ダークグレーの Office テーマのテキストが表示されないバグを修正しました。
+
+
+### <a name="visio"></a>Visio
+
+- 終了時に Visio が動作を停止する問題を修正しました。
+
+
+### <a name="word"></a>Word
+
+- ドキュメントの共同編集時に、コメント順序が変更されてもアクティブな下書きがクリアされません。
+
+
+- Office リボンで無効にされたコマンドでアイコンがグレー表示され、ダークグレーの Office テーマのテキストが表示されないバグを修正しました。
+
+
+- SVG 画像のコピーと貼り付けの問題を修正しました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- GCC ユーザーのディクテーションが無効になっていたバグを修正しました
+
+
+- Outlook のテキストが透明になり、判読できなくなることがあるバグを修正しました。
+
+
+- セッション 0 で実行されている Office アプリのサポートに関連する信頼性の問題を修正しました。
 
 
 
@@ -155,7 +275,7 @@ ms.locfileid: "51169946"
 
 ### <a name="word"></a>Word
 
-- **ワンクリック ライティング候補:** ワンクリックでライティング候補を適用できます。 更新されたエディターウィンドウを使って、候補間を簡単に移動できます。 [詳細情報](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />[ブログの投稿](https://insider.office.com/en-us/blog/microsoft-editor-gets-an-upgrade)の詳細情報をご覧ください
+- **ワンクリック ライティング候補:** ワンクリックでライティング候補を適用できます。 更新されたエディターウィンドウを使って、候補間を簡単に移動できます。 [詳細情報](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/microsoft-editor-gets-an-upgrade)の詳細情報をご覧ください
 
 - **ユーザーに機密ラベルの適用を要求する:** 組織のポリシーで要求されている場合、ユーザーは機密ラベルを適用するように求められます。
 
@@ -563,9 +683,9 @@ ms.locfileid: "51169946"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **SVG クリップボードのサポート:** Office からサードパーティのアプリに SVG コンテンツを貼り付けることができるようになりました。 [詳細情報](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />[ブログの投稿](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)の詳細情報をご覧ください
+- **SVG クリップボードのサポート:** Office からサードパーティのアプリに SVG コンテンツを貼り付けることができるようになりました。 [詳細情報](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/svg-content-office-third-party-apps)の詳細情報をご覧ください
 
-- **透過背景の GIF を作成する**: アニメーション GIF にエクスポートする場合、新しいオプションを使用して背景を透明にすることができます。<br />[ブログの投稿](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)の詳細情報をご覧ください
+- **透過背景の GIF を作成する**: アニメーション GIF にエクスポートする場合、新しいオプションを使用して背景を透明にすることができます。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/export-animated-gifs-transparent-backgrounds)の詳細情報をご覧ください
 
 - **Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。 [ファイル] > [アカウント] の順に移動し、[Office テーマ] ドロップダウンで [システム設定を使用する] を選択します。 [詳細情報](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -700,19 +820,19 @@ ms.locfileid: "51169946"
 
 - **Power Query を使用してデータ型を作成する:** Power Query を使用してあらゆるデータ ソースから豊富なデータ型を作成します。 [詳細情報](https://support.office.com/article/a465a3b7-3d37-4eb1-a59c-bd3163315308)<br />[ブログの投稿](https://techcommunity.microsoft.com/t5/excel-blog/announcing-power-query-data-types/ba-p/1782903)の詳細情報をご覧ください
 
-- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
+- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
 
 - **アクション ペンを使用してすばやく編集する:** アクション ペンを使用すると、セルに直接手書きで書き込み、自動的に Excel データに変換されるインクでデータを書き留めることができます。
 
 ### <a name="outlook"></a>Outlook
 
-- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
+- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
 
-- **文章校正による支援:** Outlook では、入力中に文章校正のエラーが表示されます。シングル クリックで候補を適用できます。 [詳細情報](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />[ブログの投稿](https://insider.office.com/en-us/blog/grammar-and-style-suggestions-available-in-outlook)の詳細情報をご覧ください
+- **文章校正による支援:** Outlook では、入力中に文章校正のエラーが表示されます。シングル クリックで候補を適用できます。 [詳細情報](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/grammar-and-style-suggestions-available-in-outlook)の詳細情報をご覧ください
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
+- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
 
 ### <a name="teams"></a>Teams
 
@@ -726,7 +846,7 @@ ms.locfileid: "51169946"
 
 ### <a name="word"></a>Word
 
-- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
+- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -2131,7 +2251,7 @@ ms.locfileid: "51169946"
 
 - **プレゼンテーションの最適化:** アクセシビリティ チェックを使用すると、スクリーン リーダーを考慮に入れて、スライド上のオブジェクトを配置することができます。
 
-- **簡単な GIF:** 1 つのスライド、1 つのフレーム。 PowerPoint でループ GIF を簡単に作成できます。 [詳細情報](https://support.office.com/en-us/article/a598753e-92de-4f1b-8393-714db4d334b4)
+- **簡単な GIF:** 1 つのスライド、1 つのフレーム。 PowerPoint でループ GIF を簡単に作成できます。 [詳細情報](https://support.office.com/ja-JP/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
 
@@ -2169,6 +2289,7 @@ ms.locfileid: "51169946"
 > Office の使用で問題がある場合は、[Microsoft の回答フォーラム](https://answers.microsoft.com/)に関するページまたは「[Microsoft Tech Community](https://techcommunity.microsoft.com/)」に質問を投稿するか、[サポート](https://support.microsoft.com/contactus)に問い合わせてサポートを受けることができます。
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|CC|Production| |16.0.13901.20312|version-2103-march-30|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20360|version-2102-march-18|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20294|version-2102-march-09|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20266|version-2102-march-01|)
@@ -2178,5 +2299,4 @@ ms.locfileid: "51169946"
 [//]: # (|Win32|CC|Production| |16.0.13530.20440|version-2012-january-21|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20376|version-2012-january-12|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20316|version-2012-january-05|)
-[//]: # (|Win32|CC|Production| |16.0.13426.20404|version-2011-december-21|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)
