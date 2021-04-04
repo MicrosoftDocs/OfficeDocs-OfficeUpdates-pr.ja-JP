@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに新機能、修正プログラム、または既知の問題の最新リストを提供します
-ms.openlocfilehash: 5bd71abc819924012ecbaf37563b24e4e6220f6a
-ms.sourcegitcommit: d108f8a732dfede6326d9726c09c667b5d084131
+ms.openlocfilehash: 3a4c7fc2424a4a2d0c05beab9a7c874096247029
+ms.sourcegitcommit: 9151363a4105d6d5b3e1cd79ec9e6bc9b6a8e44c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51440712"
+ms.lasthandoff: 04/03/2021
+ms.locfileid: "51582083"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 向けリリース ノートの最新チャネル (プレビュー)
 
@@ -28,6 +28,22 @@ ms.locfileid: "51440712"
 > - Microsoft Teams の機能は、リリース頻度が高いため、最新チャネル プレビュー版とは異なる場合があります。
 
 [//]: # (削除しないでください)
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2103-april-02"></a>バージョン 2103: 4 月 2 日
+*バージョン 2103 (ビルド 13901.20336)*
+* さまざまなバグとパフォーマンスの修正。
+
+## <a name="version-2103-april-1"></a>バージョン 2103: 4 月 1 日
+*バージョン 2103 (ビルド 13901.20148)*
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="teams"></a>Teams
+
+- **日付/時刻形式** この更新により、Teams の日付/時刻形式は Mac および Windows オペレーティング システムの地域設定と一致します。 以前は、Teams はアプリケーションの言語に対応する形式でのみ日付/時刻を表示していました。 オペレーティング システムの予定表の設定に関係なく、グレゴリオ暦のみがサポートされていることに注意することが重要です。 
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2103-march-30"></a>バージョン 2103: 3 月 30 日
 *バージョン 2103 (ビルド 13901.20312)*
@@ -79,27 +95,11 @@ ms.locfileid: "51440712"
 
 - 終了時に Visio が動作を停止する問題を修正しました。
 
-
-
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
-## <a name="version-2103-march-12"></a>バージョン 2103: 3 月 12 日
-*バージョン 2103 (ビルド 13901.20148)*
-
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
-
-### <a name="feature-updates"></a>機能の更新プログラム
-### <a name="teams"></a>Teams
-
-- **外出中の状態** 勤務時間外や休暇中のため、チャット メッセージに返信できないことを他のユーザーに知らせるメッセージを設定します。 "外出中の状態"は、Outlook カレンダーの自動応答とも同期されます。
-
-[//]: # (削除しないでください)
-
-
 ## <a name="version-2103-march-11"></a>バージョン 2103: 3 月 11 日
 *バージョン 2103 (ビルド 13901.20148)*
-
-[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
 ### <a name="feature-updates"></a>機能の更新プログラム
 ### <a name="excel"></a>Excel
@@ -114,6 +114,10 @@ ms.locfileid: "51440712"
 
 - **機密性の高い暗号化されたドキュメントの自動保存と共同編集:** 生産性とセキュリティをトレードオフしないでください。 Microsoft Information Protection により、秘密度ラベルで暗号化されたドキュメントを、暗号化されていないドキュメントと同じように、自動保存して他のユーザーとリアル タイムで共同編集できるようになりました。 テナントのオプトインが必要です (詳細: https://aka.ms/mipcoauth)。
 
+### <a name="teams"></a>Teams
+
+- **外出中の状態** 勤務時間外や休暇中のため、チャット メッセージに返信できないことを他のユーザーに知らせるメッセージを設定します。 "外出中の状態"は、Outlook カレンダーの自動応答とも同期されます。
+
 ### <a name="visio"></a>Visio
 
 - **新しい外観を備えた Office のアイコン:** シンプルかつ高性能で、インテリジェントな Office のエクスペリエンスを反映するように、製品のアイコンがリニューアルされました。 [詳細情報](https://support.office.com/article/a6cdf19a-b2bd-4be1-9515-d74a37aa59bf)
@@ -123,7 +127,6 @@ ms.locfileid: "51440712"
 - **Word 文書のダーク モード:** ダーク モードは、ドキュメントでの作業中に目の疲れを軽減し、光感受性に対応するのに役立ちます。
 
 - **機密性の高い暗号化されたドキュメントの自動保存と共同編集:** 生産性とセキュリティをトレードオフしないでください。 Microsoft Information Protection により、秘密度ラベルで暗号化されたドキュメントを、暗号化されていないドキュメントと同じように、自動保存して他のユーザーとリアル タイムで共同編集できるようになりました。 テナントのオプトインが必要です (詳細: https://aka.ms/mipcoauth)。
-
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
