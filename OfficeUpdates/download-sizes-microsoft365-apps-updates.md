@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 各チャネルの Microsoft 365 アプリ用更新プログラムのダウンロード サイズの概算に関する情報を IT 技術者に提供します
-ms.openlocfilehash: 710af3f6cfb276732812490957d22cd40fd9c737
-ms.sourcegitcommit: 149b8409a33ff4411d296f8668f6da387f84f6bf
+ms.openlocfilehash: fd0201ce7ec5cb64809556c01ed27fabfd461f62
+ms.sourcegitcommit: 94b7247497c7498627f408aa6d08ea32b4af7eb0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "51589879"
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "51645039"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 アプリ用更新プログラムのダウンロード サイズ
 
@@ -35,6 +35,43 @@ ms.locfileid: "51589879"
 > - 過去 4 か月のリリースが記載されています。
 
 [//]: # (削除しないでください)
+
+[//]: # (予測コンテンツを削除しないでください。開始)
+
+## <a name="april-8-2021"></a>2021 年 4 月 8 日
+
+
+### <a name="monthly-enterprise-channel"></a>月次エンタープライズ チャネル
+
+<i>予定されているリリースは、バージョン 2102 (ビルド 13801.20490) です。</i>
+
+|**アップグレード前のリリース**|**リリース日**|**ダウンロード サイズの概算 (MB)**|
+|:-----|:-----|:-----|
+|バージョン 2101 (ビルド 13628.20528) <br/> |2021 年 3 月 9 日 <br/> |190<br/> |
+
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>半期エンタープライズ チャネル (プレビュー)
+
+<i>予定されているリリースは、バージョン 2102 (ビルド 13801.20454) です。</i>
+
+|**アップグレード前のリリース**|**リリース日**|**ダウンロード サイズの概算 (MB)**|
+|:-----|:-----|:-----|
+|バージョン 2102 (ビルド 13801.20294) <br/> |2021 年 3 月 9 日 <br/> |63<br/> |
+|バージョン 2008 (ビルド 13127.21216) <br/> |2021 年 2 月 9 日 <br/> |444<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>半期エンタープライズ チャネル
+
+<i>予定されているリリースは、バージョン 2008 (ビルド 13127.21474) です。</i>
+
+|**アップグレード前のリリース**|**リリース日**|**ダウンロード サイズの概算 (MB)**|
+|:-----|:-----|:-----|
+|バージョン 2008 (ビルド 13127.21348) <br/> |2021 年 3 月 9 日 <br/> |61<br/> |
+|バージョン 2008 (ビルド 13127.21216) <br/> |2021 年 2 月 9 日 <br/> |62<br/> |
+
+
+[//]: # (予測コンテンツを削除しないでください。終了)
 
 ## <a name="april-2-2021"></a>2021 年 4 月 2 日
 
