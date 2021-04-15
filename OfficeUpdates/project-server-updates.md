@@ -12,12 +12,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: Project Server 2013 と Project Server 2010 の更新プログラムを 1 か所で検索および管理できます。このページのリンクを使用して、更新プログラムに関する詳細な情報を取得し、更新プログラムをダウンロードしてください。
-ms.openlocfilehash: ae21395ff12335149db9fe351dc516549143ce52
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: d24a0110d63e71e72ec06d61dcc132fb676043fb
+ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51170156"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51748925"
 ---
 # <a name="project-server-updates"></a>Project Server の更新プログラム
 
@@ -28,6 +28,7 @@ ms.locfileid: "51170156"
 ## <a name="project-server-2013-update-history"></a>Project Server 2013 の更新履歴
 |**リリース日**|**サポート技術情報番号**||
 |:-----|:-----|:-----|
+|2021 年 4 月 <br/>|[KB4504731](https://support.microsoft.com/help/4504731) <br/>|
 |2021 年 3 月 <br/>|[KB4493236](https://support.microsoft.com/help/4493236) <br/>|
 |2021 年 2 月 <br/>|[KB4493207](https://support.microsoft.com/help/4493207) <br/>|
 |2021 年 1 月 <br/>|[KB4493173](https://support.microsoft.com/help/4493173) <br/>|
@@ -182,6 +183,7 @@ ms.locfileid: "51170156"
 
 |**リリース日**|**サポート技術情報番号**||
 |:-----|:-----|:-----|
+|2021 年 4 月 <br/>|[KB4504741](https://support.microsoft.com/help/4504741) <br/>|
 |2021 年 3 月 <br/>|[KB4504704](https://support.microsoft.com/help/4504704) <br/>|
 |2021 年 2 月 <br/>|[KB4493217](https://support.microsoft.com/help/4493217) <br/>|
 |2021 年 1 月 <br/>|[KB4493182](https://support.microsoft.com/help/4493182) <br/>|
