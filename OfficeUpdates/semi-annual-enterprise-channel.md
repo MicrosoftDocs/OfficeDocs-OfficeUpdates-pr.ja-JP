@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の半期チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 547700388de93effd6e2d1ced5c5b1d6a570bdc3
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: 3a6494983603abca6e2dceec2abe3001b07b54a3
+ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51169615"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51748895"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>半期エンタープライズ チャネルのリリース ノート
 
@@ -29,6 +29,49 @@ ms.locfileid: "51169615"
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2008-april-13"></a>バージョン 2008: 4 月 13 日
+*バージョン 2008 (ビルド 13127.21506)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- .xls または .xlt 形式で保存するときに、一部のピボットテーブル形式でブックが破損する問題を修正しました。
+
+
+- ブックを開いたときに予期せずメモが表示される問題を修正しました。
+
+
+### <a name="outlook"></a>Outlook
+
+- プロファイルに大きな階層がある共有メールボックスまたは代理メールボックスを持つユーザーがハングする原因となる問題を修正しました。
+
+
+- メールボックスを同期すると、一部のユーザーに予期しない終了が発生する問題が修正されました。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- ユーザー カードを表示して別のアプリケーションに移動すると、Office アプリケーションが応答しなくなる問題を修正しました。
+
+
+### <a name="word"></a>Word
+
+- Word 文書を保存して開き直すと、組み込みの [秘密度ラベル] ボタンがグレー表示されるという問題が修正されました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2002-april-13"></a>バージョン 2002: 4 月 13 日
+*バージョン 2002 (ビルド 12527.21814)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-2008-march-09"></a>バージョン 2008: 3 月 9 日
 *バージョン 2008 (ビルド 13127.21348)*
@@ -192,7 +235,7 @@ ms.locfileid: "51169615"
 
 - **受信トレイを離れずに会議に参加する:** オンライン会議に参加するために、予定表に切り替える必要はありません。 予定表を To Do ウィンドウに固定すると、Exchange Server 2019 または Exchange Online でホストされているユーザー アカウントは、ワンクリックで任意の会議に参加できます。 [詳細情報](https://support.office.com/article/d8baa9d5-0645-41b8-9f36-b498a6c36064 )
 
-- **キャプティブ WiFi ネットワークの新しいエクスペリエンス**: サインインに Web ページを必要とする WiFi ネットワークに参加したことはありませんか ? Outlook はこれを検出し、接続を支援します。<br />[ブログの投稿](https://insider.office.com/en-us/blog/outlook-on-public-wi-fi-networks-just-got-easier)の詳細情報をご覧ください
+- **キャプティブ WiFi ネットワークの新しいエクスペリエンス**: サインインに Web ページを必要とする WiFi ネットワークに参加したことはありませんか ? Outlook はこれを検出し、接続を支援します。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/outlook-on-public-wi-fi-networks-just-got-easier)の詳細情報をご覧ください
 
 - **人物を検索するときにメールの候補を取得する:** [検索] ボックスに人の名前を入力すると、最も関連性の高いメール メッセージが検索候補に含まれます。 [詳細情報](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
@@ -1811,7 +1854,7 @@ ms.locfileid: "51169615"
 
 - ユーザーが OST と同期している共有予定表フォルダーに問題があり、これらのフォルダーを操作しようとするとアクセス許可エラーが発生する問題に対処しました。
 
-- Citrix 環境で 30 件を超える予定表を表示したときにクラッシュする原因になった問題に対処します。 以前のバージョンで文書化された個々の [KB については、こちらを参照してください](https://support.microsoft.com/en-us/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)
+- Citrix 環境で 30 件を超える予定表を表示したときにクラッシュする原因になった問題に対処します。 以前のバージョンで文書化された個々の [KB については、こちらを参照してください](https://support.microsoft.com/ja-JP/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)
 
 - SMIME アルゴリズムの選択に関する問題を修正します。
 
@@ -2242,7 +2285,7 @@ ms.locfileid: "51169615"
 
 - PowerPoint の初回起動時に、信頼されていないアドインに対してセキュリティ警告メッセージ バーが表示されない問題を修正しました。
 
-### <a name="project"></a>プロジェクト
+### <a name="project"></a>Project
 
 - 基本カレンダーが変更されたときにリソース カレンダーが更新されないために、実際の作業がタイムシートとプロジェクト計画の間で異なる場合があるという問題を修正しました。
 
@@ -2690,6 +2733,7 @@ ms.locfileid: "51169615"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|DC|Production| |16.0.13127.21506|version-2008-april-13|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21348|version-2008-march-09|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21216|version-2008-february-09|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21064|version-2008-january-12|)

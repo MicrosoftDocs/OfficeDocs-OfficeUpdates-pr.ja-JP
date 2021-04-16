@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに新機能、修正プログラム、または既知の問題の最新リストを提供します
-ms.openlocfilehash: 3a4c7fc2424a4a2d0c05beab9a7c874096247029
-ms.sourcegitcommit: 9151363a4105d6d5b3e1cd79ec9e6bc9b6a8e44c
+ms.openlocfilehash: 33c05c859974d8ce27d3c21960b89b4fde20ee4b
+ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/03/2021
-ms.locfileid: "51582083"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749065"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 向けリリース ノートの最新チャネル (プレビュー)
 
@@ -30,6 +30,44 @@ ms.locfileid: "51582083"
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2103-april-10"></a>バージョン 2103: 4 月 10 日
+*バージョン 2103 (ビルド 13901.20400)*
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- 画像を描画するときに、単語内のリソース競合の可能性があるという問題が修正されました。
+
+### <a name="outlook"></a>Outlook
+
+- 予定表を追加すると、ユーザーに "これにはしばらく時間がかかる場合があります" というメッセージが誤って表示される問題が修正されました。
+
+- 新しく追加した予定表で作成された会議の開催者として代理人が表示される問題を修正しました。  この状態の会議は、プリンシパルの予定表に表示されません。
+
+- 画像を描画するときに、単語内のリソース競合の可能性があるという問題が修正されました。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 画像を描画するときに、単語内のリソース競合の可能性があるという問題が修正されました。
+
+### <a name="word"></a>Word
+
+- 画像を描画するときに、単語内のリソース競合の可能性があるという問題が修正されました。
+
+- 印刷プレビュー中に応答がない問題が修正されました。
+
+- ローカルに保存されたファイルの自動保存の吹き出しのテキストを更新します。
+
+### <a name="office-suite"></a>Office スイート
+
+- SyncBacked ファイルをオフラインで開いてから、ファイルを保存する前にアプリでファイルの名前を変更した際にエラーが発生する問題が修正されました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2103-april-02"></a>バージョン 2103: 4 月 2 日
 *バージョン 2103 (ビルド 13901.20336)*

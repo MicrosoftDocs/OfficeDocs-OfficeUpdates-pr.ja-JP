@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT プロフェッショナルに、Microsoft AutoUpdate (MAU) のリリース履歴を提供します
-ms.openlocfilehash: c9d16f2c221612969ec5a7cfb08c2022d287ea7c
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: f2b3bd46a71708c9444265c5dbf33fbe3b9b5cb2
+ms.sourcegitcommit: cf8d286b8fb825e19d8730c011d53e98156b6646
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51169716"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51755409"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) のリリース履歴
  
@@ -30,6 +30,23 @@ ms.locfileid: "51169716"
 
 リリース ノートを確認するには、「[リリース ノート](release-notes-office-for-mac.md)」を参照してください。<br/><br/>
 
+## <a name="april-2021-release"></a>2021 年 4 月リリース。
+
+**リリース日:** 2021 年 4 月 13 日
+
+*Microsoft AutoUpdate 4.34*
+
+**バグの修正と強化された機能:**
+- より繊細な "バッジ通知" は、手動更新モードのユーザーに従来の OS 通知プロンプトではなく、更新の可用性を示す表示になります。
+
+[Microsoft AutoUpdate 4.34 パッケージをダウンロードする](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.34.21041102_Updater.pkg)<br/>
+<br/>
+**SHA-256 ハッシュ:**
+
+98C6821D939A3FA78BE21B11919625A48EAE2A3CC87CB104BF06637D9B850D9C
+
+<br/><br/>
+
 ## <a name="march-2021-release"></a>2021 年 3 月リリース
 
 **リリース日:** 2021 年 3 月 17 日
@@ -44,7 +61,11 @@ ms.locfileid: "51169716"
 
 [Microsoft AutoUpdate 4.33 パッケージをダウンロードする](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.33.21031401_Updater.pkg)<br/>
 <br/>
-**SHA-256 ハッシュ:** 8B851FD35B8172AB3220592E68ABCD6C302A55336FD7E9F8B5511683B372E7E1
+**SHA-256 ハッシュ:**
+
+ 8B851FD35B8172AB3220592E68ABCD6C302A55336FD7E9F8B5511683B372E7E1
+
+<br/><br/>
 
 ## <a name="february-2021-release"></a>2021 年 2 月リリース
 
@@ -63,6 +84,8 @@ ms.locfileid: "51169716"
 **SHA-256 ハッシュ:**
 
 CCB758531B295848620C703957FD8CF3C7F1555C334FB320C4BB682ABA0261D6
+
+<br/><br/>
 
 ## <a name="january-2021-release"></a>2021 年 1 月リリース
 
@@ -262,7 +285,7 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 - SSD 搭載の macOS マシンの場合、更新はより高速で行われ、更新によるアプリのダウンタイムはごくわずかになります。
 
 
-[CVE-2020-0984](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0984) をご覧ください。
+[CVE-2020-0984](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2020-0984) をご覧ください。
 
 **SHA-256 ハッシュ:**
 

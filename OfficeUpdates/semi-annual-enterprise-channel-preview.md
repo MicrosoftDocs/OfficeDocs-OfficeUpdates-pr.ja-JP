@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の半期チャネル リリース (対象指定) のリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 6fdea7518be03546ba6bd761c88634da3b29d071
-ms.sourcegitcommit: 63637fc22e4a2df0000612e8b4d51a29af7fb6e5
+ms.openlocfilehash: d6c48db35445d15503c246506bc7d03da3ca0548
+ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51196736"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51748965"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>半期エンタープライズ チャネル (プレビュー) のリリース ノート
 
@@ -23,6 +23,74 @@ ms.locfileid: "51196736"
 > [!IMPORTANT]
 > 現在、Microsoft 365 Apps の更新プログラム チャネルに、新しい更新プログラム チャネル (月次エンタープライズ チャネル) の追加や既存の更新プログラム チャネル名の変更など、いくつかの変更を進めています。 詳細については、[こちらの記事](/DeployOffice/update-channels-changes)を参照してください。
 
+
+## <a name="version-2102-april-13"></a>バージョン 2102: 4 月 13 日
+*バージョン 2102 (ビルド 13801.20506)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="access"></a>Access
+
+- SQL Server パススルー クエリを実行すると、"無効なカーソル状態" があったことを示すエラー メッセージが表示されることがある問題が修正されました。
+
+
+### <a name="excel"></a>Excel
+
+- Office リボンで無効にされたコマンドでアイコンがグレー表示され、ダークグレーの Office テーマのテキストが表示されない問題を修正しました。
+
+
+- 別のシートのテーブルに行を追加すると、予期せずセルにデータ検証が適用される可能性がある問題を修正しました。
+
+
+- 32 ビット版の Excel で DialogSheets show 関数が動作しない問題を修正しました
+
+
+### <a name="outlook"></a>Outlook
+
+- アイドル状態のときに Outlook がクラッシュする原因となる問題を修正しました。
+
+
+- 新しいデバイスで Outlook を構成した後、クラウド設定機能のユーザーにカスタマイズされた設定が既定の設定で上書きされる問題を修正しました。
+
+
+- ユーザーに予想よりも多くの署名が表示される問題を修正しました。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Office リボンで無効にされたコマンドでアイコンがグレー表示され、ダークグレーの Office テーマのテキストが表示されない問題を修正しました。
+
+
+### <a name="word"></a>Word
+
+- Office リボンで無効にされたコマンドでアイコンがグレー表示され、ダークグレーの Office テーマのテキストが表示されない問題を修正しました。
+
+
+- SVG 画像のコピーと貼り付けの問題を修正しました。
+
+
+- 非表示の段落の最後に入力すると、アプリケーションがハングする可能性がある問題を修正しました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- 以前に開いたファイルを開いたときに、編集内容が保存されていない状態でファイルが削除されたため、ユーザーがファイルを保存できない問題を修正しました。 修正後、ユーザーはファイルが削除されたことを通知するわかりやすいメッセージを受け取ります。したがって、ユーザーは変更を破棄するか、ファイルに名前を付けて保存するかを選択できます。
+
+
+- SyncBacked ファイルをオフラインで開いてから、ファイルを保存する前にアプリでファイルの名前を変更した際にエラーが発生する問題が修正されました。
+
+
+- GCC ユーザーのディクテーションが無効になっていた問題を修正しました
+
+
+- Outlook のテキストが透明になり、判読できなくなることがある問題を修正しました。
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2102-march-09"></a>バージョン 2102: 3 月 9 日
 *バージョン 2102 (ビルド 13801.20294)*
@@ -45,7 +113,7 @@ ms.locfileid: "51196736"
 
 - **データ型を使用して Power BI から組織データを取得する:** Power BI からの Excel データ型が Office 365、Microsoft 365、Power BI Pro サービス プランを使用する組織の Insider に展開されるようになりました。 必要な情報を入手し、簡単に更新することは、多くの日常のワークフローに欠かせません。 Excel のデータ型として、Power BI から会社または組織の情報へのアクセスを提供し、スプレッドシートにリンクされた情報を取り込む機能を拡張します。 [詳細情報](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />[ブログの投稿](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)の詳細情報をご覧ください
 
-- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
+- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
 
 - **Excel で洗練された Visio 図面を作成する:** ワークシートのデータからフローチャートや組織図などのデータ駆動型の図面を作成。 [詳細情報](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
@@ -57,13 +125,13 @@ ms.locfileid: "51196736"
 
 - **クイック投票を使用して、Outlook で投票を作成:** 簡単に投票を作成し、票を収集して、メールに結果を表示します。[詳細情報](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
 
-- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
+- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
 
 - **新しい会議室の検索機能:** これまでと違うさまざまな機能で会議室を検索できます。
 
 - **普段使う言葉で検索:** 「先週の獣医の予約」といったように、普段使うような言葉で検索をフィルタリングして絞り込みます。 
 
-- **以前の Outlook セッションからアイテムを素早く再開するオプション:** 以前の Outlook セッションからアイテムを素早く再開するためのオプションが追加されました。<br />[ブログの投稿](https://insider.office.com/en-us/blog/automatically-restore-windows-in-outlook)の詳細情報をご覧ください
+- **以前の Outlook セッションからアイテムを素早く再開するオプション:** 以前の Outlook セッションからアイテムを素早く再開するためのオプションが追加されました。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/automatically-restore-windows-in-outlook)の詳細情報をご覧ください
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -71,7 +139,7 @@ ms.locfileid: "51196736"
 
 - **固定フォルダーに保存する:** フォルダーをピン留めすると、Office ファイルの保存が簡単になります。  ユーザーは新しいファイルが保存されるときに使用可能なフォルダーをより詳細に制御したいとのフィードバックを受けました。 新しい機能が追加されました。 [保存] ダイアログ ボックスでフォルダーをピン留めできます。 この新しい機能により、Word、Excel、PowerPoint のファイルを簡単に保存できます。 [詳細情報](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />[ブログの投稿](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)の詳細情報をご覧ください
 
-- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
+- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
 
 ### <a name="visio"></a>Visio
 
@@ -83,7 +151,7 @@ ms.locfileid: "51196736"
 
 - **固定フォルダーに保存する:** フォルダーをピン留めすると、Office ファイルの保存が簡単になります。  ユーザーは新しいファイルが保存されるときに使用可能なフォルダーをより詳細に制御したいとのフィードバックを受けました。 新しい機能が追加されました。 [保存] ダイアログ ボックスでフォルダーをピン留めできます。 この新しい機能により、Word、Excel、PowerPoint のファイルを簡単に保存できます。 [詳細情報](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />[ブログの投稿](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)の詳細情報をご覧ください
 
-- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
+- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
 
 ### <a name="office-suite"></a>Office スイート
 
@@ -689,7 +757,8 @@ ms.locfileid: "51196736"
 
 - 返信または転送時に中国語メッセージのヘッダーが文字化けする問題を修正しました。
 
-- オプションの接続エクスペリエンスが Web アドインの読み込みをブロックする問題を修正しました。  <br />[ブログの投稿](https://developer.microsoft.com/en-us/office/blogs/outlook-add-ins-and-optional-connected-experiences/)の詳細情報をご覧ください
+- オプションの接続エクスペリエンスが Web アドインの読み込みをブロックする問題を修正しました。  <br />
+  [ブログの投稿](https://developer.microsoft.com/ja-JP/office/blogs/outlook-add-ins-and-optional-connected-experiences/)の詳細情報をご覧ください
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -827,7 +896,7 @@ ms.locfileid: "51196736"
 
 - **受信トレイを離れずに会議に参加する:** オンライン会議に参加するために、予定表に切り替える必要はありません。 [To Do] ウィンドウに固定された予定表を使用して、ワンクリックで任意の会議に参加します。 [詳細情報](https://support.office.com/article/d8baa9d5-0645-41b8-9f36-b498a6c36064 )
 
-- **キャプティブ WiFi ネットワークの新しいエクスペリエンス**: サインインに Web ページを必要とする WiFi ネットワークに参加したことはありませんか ? Outlook はこれを検出し、接続を支援します。<br />[ブログの投稿](https://insider.office.com/en-us/blog/outlook-on-public-wi-fi-networks-just-got-easier)の詳細情報をご覧ください
+- **キャプティブ WiFi ネットワークの新しいエクスペリエンス**: サインインに Web ページを必要とする WiFi ネットワークに参加したことはありませんか ? Outlook はこれを検出し、接続を支援します。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/outlook-on-public-wi-fi-networks-just-got-easier)の詳細情報をご覧ください
 
 - **人物を検索するときにメールの候補を取得する:** [検索] ボックスに人の名前を入力すると、最も関連性の高いメール メッセージが検索候補に含まれます。 [詳細情報](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
@@ -1395,7 +1464,8 @@ ms.locfileid: "51196736"
 
 - **複数の値を返す式を入力する:** 複数の値を返す式を素早く入力できるようになりました。隣接するセルに自動的に入力されます。 [詳細情報](https://support.microsoft.com/en-us/office/new-array-functions-003df6c7-1dcb-4388-8e2e-0fe77a0887bc?ui=en-us&rs=en-us&ad=us)
 - **6 つの強力な機能:** スプレッドシートを強化する 6 つの新しい関数が追加されました。FILTER、SORT、SORTBY、UNIQUE、SEQUENCE、RANDARRAY です。  [詳細情報](https://support.microsoft.com/en-us/office/easier-array-formulas-5c2c9cbb-def8-409a-b380-2fbf91b20aa3?ui=en-us&rs=en-us&ad=us)
-- **左を見て、右を見て... XLOOKUP をご利用いただけます!** XLOOKUP を使えば、表や範囲内で必要なものは何でも見つけられます。  [詳細情報](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)
+- **左を見て、右を見て... XLOOKUP をご利用いただけます!** XLOOKUP を使えば、表や範囲内で必要なものは何でも見つけられます。  
+  [詳細情報](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
@@ -1817,7 +1887,7 @@ ms.locfileid: "51196736"
 
 - PowerPoint の初回起動時に、信頼されていないアドインに対してセキュリティ警告メッセージ バーが表示されない問題を修正しました。
 
-### <a name="project"></a>プロジェクト
+### <a name="project"></a>Project
 
 - 基本カレンダーが変更されたときにリソース カレンダーが更新されないために、実際の作業がタイムシートとプロジェクト計画の間で異なる場合があるという問題を修正しました。
 
@@ -1877,6 +1947,7 @@ ms.locfileid: "51196736"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|FRDC|Insiders| |16.0.13801.20506|version-2102-april-13|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20294|version-2102-march-09|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.21216|version-2008-february-09|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.21064|version-2008-january-12|)

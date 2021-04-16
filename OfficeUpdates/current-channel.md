@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の月次チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: e7f673d8a3fdee500c117e695103d27f6b3799e9
-ms.sourcegitcommit: 149b8409a33ff4411d296f8668f6da387f84f6bf
+ms.openlocfilehash: 6ee106d57832dbe2584c771f3b8eebc82f79aa97
+ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "51589889"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749085"
 ---
 # <a name="release-notes-for-current-channel"></a>現在のチャネルのリリース ノート
 
@@ -32,6 +32,51 @@ ms.locfileid: "51589889"
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2103-april-13"></a>バージョン 2103: 4 月 13 日
+*バージョン 2103 (ビルド 13901.20400)*
+
+セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- 画像を描画するときに、単語内のリソース競合の可能性があるという問題が修正されました。
+
+
+### <a name="outlook"></a>Outlook
+
+- 予定表を追加すると、ユーザーに "これにはしばらく時間がかかる場合があります" というメッセージが誤って表示される問題が修正されました。
+
+- 新しく追加した予定表で作成された会議の開催者として代理人が表示される問題を修正しました。  この状態の会議は、プリンシパルの予定表に表示されません。
+
+- 画像を描画するときに、単語内のリソース競合の可能性があるという問題が修正されました。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 画像を描画するときに、単語内のリソース競合の可能性があるという問題が修正されました。
+
+
+### <a name="word"></a>Word
+
+- 画像を描画するときに、単語内のリソース競合の可能性があるという問題が修正されました。
+
+- 印刷プレビュー中に応答がない問題が修正されました。
+
+- ローカルに保存されたファイルの自動保存の吹き出しのテキストを更新します。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- SyncBacked ファイルをオフラインで開いてから、ファイルを保存する前にアプリでファイルの名前を変更した際にエラーが発生する問題が修正されました。
 
 
 
@@ -2298,6 +2343,7 @@ ms.locfileid: "51589889"
 > Office の使用で問題がある場合は、[Microsoft の回答フォーラム](https://answers.microsoft.com/)に関するページまたは「[Microsoft Tech Community](https://techcommunity.microsoft.com/)」に質問を投稿するか、[サポート](https://support.microsoft.com/contactus)に問い合わせてサポートを受けることができます。
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|CC|Production| |16.0.13901.20400|version-2103-april-13|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20336|version-2103-april-02|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20312|version-2103-march-30|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20360|version-2102-march-18|)
@@ -2307,5 +2353,4 @@ ms.locfileid: "51589889"
 [//]: # (|Win32|CC|Production| |16.0.13628.20380|version-2101-february-09|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20274|version-2101-january-26|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20440|version-2012-january-21|)
-[//]: # (|Win32|CC|Production| |16.0.13530.20376|version-2012-january-12|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)
