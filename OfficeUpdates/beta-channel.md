@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: faa58be6a03ca68e8ee7bfe625b47c52befab241
-ms.sourcegitcommit: c98d5985df2d2a3079a995b4226f19145430898f
+ms.openlocfilehash: 41de7aa0968dedc82cf1dc9a3e1ebb2421ac53c0
+ms.sourcegitcommit: 674a79c70a4d83b9eddadaa70c56c0c4fb37fb5c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51662331"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "51875728"
 ---
 # <a name="release-notes-for-beta-channel"></a>ベータ チャネルのリリース ノート
 
@@ -30,6 +30,29 @@ ms.locfileid: "51662331"
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2105-april-16"></a>バージョン 2105: 4 月 16 日
+*バージョン 2105 (ビルド 14007.20002)*
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- 64 ビット Windows で 32 ビットの Office を使用すると、Excel がクラッシュする原因となる問題を修正しました。
+
+
+- [ページ設定] ダイアログ ボックスの [ヘッダー/フッター] タブの 2 つのボタンのプロパティが、ナレーターによって誤って読み上げられる問題を修正しました。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- リンクされた図に関する問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2105-april-09"></a>バージョン 2105: 4 月 9 日
 *バージョン 2105 (ビルド 14002.20000)*
@@ -2819,6 +2842,7 @@ ms.locfileid: "51662331"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14007.20002|version-2105-april-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14002.20000|version-2105-april-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13929.20016|version-2104-april-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13919.20002|version-2104-march-26|)
@@ -2828,5 +2852,4 @@ ms.locfileid: "51662331"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13819.20006|version-2103-february-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13811.20002|version-2103-february-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13806.20000|version-2103-february-12|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13801.20004|version-2102-february-05|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)

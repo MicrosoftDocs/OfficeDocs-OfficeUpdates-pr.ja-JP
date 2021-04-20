@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに新機能、修正プログラム、または既知の問題の最新リストを提供します
-ms.openlocfilehash: 33c05c859974d8ce27d3c21960b89b4fde20ee4b
-ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
+ms.openlocfilehash: 13bf5ee8022f586e051a49834c0a758b6e79dd92
+ms.sourcegitcommit: 674a79c70a4d83b9eddadaa70c56c0c4fb37fb5c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749065"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "51875738"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 向けリリース ノートの最新チャネル (プレビュー)
 
@@ -30,6 +30,16 @@ ms.locfileid: "51749065"
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2103-april-13"></a>バージョン 2103: 4 月 13 日
+*バージョン 2103 (ビルド 13901.20400)*
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="teams"></a>Teams
+
+- **動的なビュー** 動的なビューでは、Teams 会議で共有コンテンツとビデオ参加者を自動的に最適化します。 新しいコントロールでは、共有コンテンツと特定の参加者を並べて表示する機能など、好みに合わせてビューをカスタマイズできます。
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2103-april-10"></a>バージョン 2103: 4 月 10 日
 *バージョン 2103 (ビルド 13901.20400)*
@@ -3469,7 +3479,7 @@ ms.locfileid: "51749065"
 
 - マウスで X ボタンを使用しているときにクラッシュが生じる原因となっていた問題に対処しました。
 
-### <a name="project"></a>Project
+### <a name="project"></a>プロジェクト
 
 - フォーム ビュー内で先行処理/後続処理データが編集されると、余分の ProjectBeforeTaskChangeevent が発生します。
 
