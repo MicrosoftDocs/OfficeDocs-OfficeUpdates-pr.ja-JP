@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の月次エンタープライズ チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: a421baae65ac9b6b6858da370b64fe18a11995af
-ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
+ms.openlocfilehash: c1e72418fa6b133775f7a78ca6f243fb61014ef5
+ms.sourcegitcommit: 65c8693187b7f6673343ae1516708df749c19a5a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749175"
+ms.lasthandoff: 04/20/2021
+ms.locfileid: "51900537"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>2020 年の月次エンタープライズ チャネル リリースのリリース ノート
 
@@ -69,8 +69,6 @@ ms.locfileid: "51749175"
 
 - SQL Server パススルー クエリを実行すると、"無効なカーソル状態" があったことを示すエラー メッセージが表示されることがある問題が修正されました。
 
-
-- ユーザーに「無効なカーソル状態」というエラー ダイアログが表示される問題を修正しました。
 
 
 ### <a name="excel"></a>Excel
@@ -153,9 +151,6 @@ ms.locfileid: "51749175"
 
 
 - Outlook のテキストが透明になり、判読できなくなることがある問題を修正しました。
-
-
-- 数式を含むテキスト内でナレーターを使用すると発生する可能性がある問題を修正しました。
 
 
 - 数式を含むテキスト内でナレーターを使用すると発生する可能性がある問題を修正しました。
@@ -296,7 +291,7 @@ ms.locfileid: "51749175"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **SVG クリップボードのサポート:** Office からサードパーティのアプリに SVG コンテンツを貼り付けることができるようになりました。 [詳細情報](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/svg-content-office-third-party-apps)の詳細情報をご覧ください
+- **SVG クリップボードのサポート:** Office からサードパーティのアプリに SVG コンテンツを貼り付けることができるようになりました。 [詳細情報](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />[ブログの投稿](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)の詳細情報をご覧ください
 
 - **秘密度ラベル監査ログ:** ユーザーが、ドキュメントやメールで秘密度ラベルを適用、変更、削除すると、管理者は、その情報を Microsoft 365 監査ログで使用できるようになります。
 
@@ -554,7 +549,7 @@ ms.locfileid: "51749175"
 
 - **アニメーション GIF を範囲内でエクスポートする**: アニメーション GIF にエクスポートするときにスライドの範囲を選択します
 
-- **透過背景の GIF を作成する**: アニメーション GIF にエクスポートする場合、新しいオプションを使用して背景を透明にすることができます。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/export-animated-gifs-transparent-backgrounds)の詳細情報をご覧ください
+- **透過背景の GIF を作成する**: アニメーション GIF にエクスポートする場合、新しいオプションを使用して背景を透明にすることができます。<br />[ブログの投稿](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)の詳細情報をご覧ください
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -799,8 +794,7 @@ ms.locfileid: "51749175"
 - ユーザーが代理人に編集者権限を付与できなくなる問題を修正しました。
 
 
-- オプションの接続エクスペリエンスが Web アドインの読み込みをブロックする問題を修正しました。<br />
-  [ブログの投稿](https://developer.microsoft.com/ja-JP/office/blogs/outlook-add-ins-and-optional-connected-experiences/)の詳細情報をご覧ください
+- オプションの接続エクスペリエンスが Web アドインの読み込みをブロックする問題を修正しました。<br />[ブログの投稿](https://developer.microsoft.com/en-us/office/blogs/outlook-add-ins-and-optional-connected-experiences/)の詳細情報をご覧ください
 
 
 ### <a name="powerpoint"></a>PowerPoint
