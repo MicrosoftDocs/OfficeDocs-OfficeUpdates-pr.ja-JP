@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2020 年の月次チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 6ee106d57832dbe2584c771f3b8eebc82f79aa97
-ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
+ms.openlocfilehash: cd20d279f1134b092d00cedca555d13925894ba3
+ms.sourcegitcommit: 28baeef0385cacaa71288b5d0a00fb37b724b71b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749085"
+ms.lasthandoff: 04/24/2021
+ms.locfileid: "51995764"
 ---
 # <a name="release-notes-for-current-channel"></a>現在のチャネルのリリース ノート
 
@@ -32,6 +32,38 @@ ms.locfileid: "51749085"
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2103-april-23"></a>バージョン 2103: 4 月 23 日
+*バージョン 2103 (ビルド 13901.20462)*
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- Excel の一部のオートメーション アドインの読み込みに失敗する問題が修正されました。
+
+
+### <a name="outlook"></a>Outlook
+
+- Outlook が OWA で構成された優先受信トレイの設定を上書きする問題を修正しました。
+
+
+- 別のユーザーに代わって送信し、グローバル アドレス一覧ではないアドレス ブックに対して解決すると、名前解決が失敗する問題を修正しました。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- リンクされた図に関する問題を修正しました。
+
+
+### <a name="word"></a>Word
+
+- 提供されるテキスト予測の条件を最適化します。
 
 
 
@@ -2343,6 +2375,7 @@ ms.locfileid: "51749085"
 > Office の使用で問題がある場合は、[Microsoft の回答フォーラム](https://answers.microsoft.com/)に関するページまたは「[Microsoft Tech Community](https://techcommunity.microsoft.com/)」に質問を投稿するか、[サポート](https://support.microsoft.com/contactus)に問い合わせてサポートを受けることができます。
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|CC|Production| |16.0.13901.20462|version-2103-april-23|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20400|version-2103-april-13|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20336|version-2103-april-02|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20312|version-2103-march-30|)
@@ -2352,5 +2385,4 @@ ms.locfileid: "51749085"
 [//]: # (|Win32|CC|Production| |16.0.13628.20448|version-2101-january-16|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20380|version-2101-february-09|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20274|version-2101-january-26|)
-[//]: # (|Win32|CC|Production| |16.0.13530.20440|version-2012-january-21|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)
