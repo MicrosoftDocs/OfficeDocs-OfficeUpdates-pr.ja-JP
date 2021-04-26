@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 各チャネルの Microsoft 365 アプリ用更新プログラムのダウンロード サイズの概算に関する情報を IT 技術者に提供します
-ms.openlocfilehash: cfd36039c62847e317eecfd5d66f1b26dfab75b5
-ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
+ms.openlocfilehash: 5d0deee8e9a4aaefc31cedbeb1f4209bd5204c9e
+ms.sourcegitcommit: 28baeef0385cacaa71288b5d0a00fb37b724b71b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749095"
+ms.lasthandoff: 04/24/2021
+ms.locfileid: "51995755"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 アプリ用更新プログラムのダウンロード サイズ
 
@@ -35,6 +35,22 @@ ms.locfileid: "51749095"
 > - 過去 4 か月のリリースが記載されています。
 
 [//]: # (削除しないでください)
+
+## <a name="april-23-2021"></a>2021 年 4 月 23 日
+
+[//]: # (コンテンツを削除しないでください。開始 2021 年 4 月 23 日)
+
+### <a name="current-channel"></a>最新チャネル
+
+最新のリリースはバージョン 2103 (ビルド 13901.20462) です。
+
+|**アップグレード前のリリース**|**リリース日**|**ダウンロード サイズの概算 (MB)**|
+|:-----|:-----|:-----|
+|バージョン 2103 (ビルド 13901.20400) <br/> |2021 年 4 月 13 日 <br/> |53<br/> |
+|バージョン 2103 (ビルド 13901.20336) <br/> |2021 年 4 月 2 日 <br/> |66<br/> |
+
+
+[//]: # (コンテンツを削除しないでください。終了 2021 年 4 月 23 日)
 
 ## <a name="april-13-2021"></a>2021年 4 月 13 日
 
