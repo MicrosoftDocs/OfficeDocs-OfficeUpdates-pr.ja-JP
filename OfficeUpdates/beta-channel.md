@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 41de7aa0968dedc82cf1dc9a3e1ebb2421ac53c0
-ms.sourcegitcommit: 674a79c70a4d83b9eddadaa70c56c0c4fb37fb5c
+ms.openlocfilehash: 3bd18b5fb95701778c948732cc506df182369f21
+ms.sourcegitcommit: 28baeef0385cacaa71288b5d0a00fb37b724b71b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "51875728"
+ms.lasthandoff: 04/24/2021
+ms.locfileid: "51995734"
 ---
 # <a name="release-notes-for-beta-channel"></a>ベータ チャネルのリリース ノート
 
@@ -30,6 +30,57 @@ ms.locfileid: "51875728"
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2105-april-23"></a>バージョン 2105: 4 月 23 日
+*バージョン 2105 (ビルド 14014.20002)*
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="excel"></a>Excel
+
+- **動的配列からのデータのインポート:** 現在のブックの動的配列からデータをインポート、整形、更新できるようになりました。 [詳細情報](https://support.office.com/article/205c6b06-03ba-4151-89a1-87a7eb36e531)
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- 古いバージョンの Excel との下位互換性をサポートするための問題を修正しました。 この問題により、Office 2007 以降の Excel に追加された IFERROR や XLOOKUP などの関数を原因として、最近のバージョンの Excel で保存されたファイルが古いバージョンの Excel で正しく読み込まれない場合があります。
+
+
+- 一部のファイルが保護されたビューで開かない可能性があるという問題を修正しました。
+
+
+- 一部のユーザーに対して、ステータス バーが準備完了状態を表示しないという問題を修正しました。
+
+
+### <a name="outlook"></a>Outlook
+
+- 別のユーザーに代わって送信し、グローバル アドレス一覧ではないアドレス ブックに対して解決すると、名前解決が失敗する問題を修正しました。
+
+
+### <a name="word"></a>Word
+
+- 右から左に記述される言語を使用している場合に、コメントでプレースホルダー テキストがクリップされてしまう問題を修正しました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- Outlook で右から左に記述される言語でメッセージを作成するときに、数字を含んでいるハイパーリンクが壊れてしまう可能性があるという問題を修正しました。
+
+
+- 一部のスケーラベル ベクター グラフィックス (SVG) が正しくレンダリングされないという問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2105-april-16"></a>バージョン 2105: 4 月 16 日
 *バージョン 2105 (ビルド 14007.20002)*
@@ -2842,6 +2893,7 @@ ms.locfileid: "51875728"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14014.20002|version-2105-april-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14007.20002|version-2105-april-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14002.20000|version-2105-april-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13929.20016|version-2104-april-02|)
@@ -2851,5 +2903,4 @@ ms.locfileid: "51875728"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13901.20036|version-2103-march-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13819.20006|version-2103-february-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13811.20002|version-2103-february-19|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13806.20000|version-2103-february-12|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)
