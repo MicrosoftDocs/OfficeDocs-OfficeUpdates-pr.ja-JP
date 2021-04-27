@@ -10,6 +10,7 @@
 
 ## 月次エンタープライズ チャネル
 ### [リリース ノート](monthly-enterprise-channel.md)
+### [リリースノートのアーカイブ](monthly-enterprise-channel-archived.md)
 
 ## 半期エンタープライズ チャネル
 ### [リリース ノート](semi-annual-enterprise-channel.md)
