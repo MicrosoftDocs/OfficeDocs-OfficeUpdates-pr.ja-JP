@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Microsoft 365 Apps サブスクライバー向け Office for Mac のリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: dc4b8459637d0e285d8b5b9e5f40fa3c49aabea2
-ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
+ms.openlocfilehash: fee8802ab607b3b93d0932e6aca5d07eb267f2ba
+ms.sourcegitcommit: 8de8bc2772a282e08ce583dc2b4869f67330febc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749195"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "52079291"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac のリリース ノート
 
@@ -67,6 +67,13 @@ Microsoft 365 サブスクリプションに付属する Office for Mac は、�
 ### <a name="excel"></a>Excel
 
 - **複数のシートを同時に再表示する:** 一度に再表示できるのが、1枚のシートだけではなくなりました。複数の非表示シートを一度に表示します。 [詳細情報](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+
+
+### <a name="msteams"></a>MSTeams
+
+- **動的なビュー:** 動的なビューでは、Teams 会議で共有コンテンツとビデオ参加者を自動的に最適化します。 新しいコントロールでは、共有コンテンツと特定の参加者を並べて表示する機能など、好みに合わせてビューをカスタマイズできます。
+
+- **外出中:** 勤務時間外や休暇中のため、チャット メッセージに返信できないことを他のユーザーに知らせるメッセージを設定します。 外出中の状態は、Outlook カレンダーにある自動応答とも同期されます。
 
 ### <a name="powerpoint"></a>PowerPoint
 
