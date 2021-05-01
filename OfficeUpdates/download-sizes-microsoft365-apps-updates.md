@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 各チャネルの Microsoft 365 アプリ用更新プログラムのダウンロード サイズの概算に関する情報を IT 技術者に提供します
-ms.openlocfilehash: 5d0deee8e9a4aaefc31cedbeb1f4209bd5204c9e
-ms.sourcegitcommit: 28baeef0385cacaa71288b5d0a00fb37b724b71b
+ms.openlocfilehash: e19570304d9f041536626ebe867bd3b8b3226cf4
+ms.sourcegitcommit: c6eee117bae153c1f79ba9ecb419bfab372991bc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/24/2021
-ms.locfileid: "51995755"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "52091856"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 アプリ用更新プログラムのダウンロード サイズ
 
@@ -22,7 +22,7 @@ ms.locfileid: "51995755"
 
 次の表には、Microsoft 365 アプリの以前のリリースから最新のリリースに更新するときのダウンロード サイズの概算が示されています。 実際のダウンロード サイズは異なる場合もありますが、誤差は 50 メガバイト程度です。 以前のリリースから現在のリリースに更新する場合には、ダウンロード サイズがさらに大きくなります。
 
-半期チャネル (対象指定) から半期チャネルなどに、チャネルを切り替える場合には、更新プログラムのサイズは表に記載されているサイズよりもかなり大きくなります。 全体をダウンロードすることになるので、少なくとも 1 GB になります。
+半期チャネル (対象指定) から半期チャネルなどに、チャネルを切り替える場合には、更新プログラムのサイズは表に記載されているサイズよりもかなり大きくなります。全体をダウンロードすることになるので、少なくとも 1 GB になります。
 
 
 > [!IMPORTANT]
@@ -35,6 +35,22 @@ ms.locfileid: "51995755"
 > - 過去 4 か月のリリースが記載されています。
 
 [//]: # (削除しないでください)
+
+## <a name="april-29-2021"></a>2021 年 4 月 29 日
+
+[//]: # (コンテンツを削除しないでください。開始 2021 年 4 月 29 日)
+
+### <a name="current-channel"></a>最新チャネル
+
+最新のリリースはバージョン 2104 (ビルド 13929.20296) です。
+
+|**アップグレード前のリリース**|**リリース日**|**ダウンロード サイズの概算 (MB)**|
+|:-----|:-----|:-----|
+|バージョン 2103 (ビルド 13901.20462) <br/> |2021 年 4 月 23 日 <br/> |167<br/> |
+|バージョン 2103 (ビルド 13901.20400) <br/> |2021 年 4 月 13 日 <br/> |167<br/> |
+
+
+[//]: # (コンテンツを削除しないでください。終了 2021 年 4 月 29 日)
 
 ## <a name="april-23-2021"></a>2021 年 4 月 23 日
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT 担当者に、日付ごとに整理した Microsoft 365 Apps のリリースすべての一覧を、リリース ノートへのリンクを含めて提供します
-ms.openlocfilehash: 31722e81217a1bf079635d1fd3ff8ccaca34b6c9
-ms.sourcegitcommit: 28baeef0385cacaa71288b5d0a00fb37b724b71b
+ms.openlocfilehash: 0a55dc787f393d498ddba627daad2b91bcb789c1
+ms.sourcegitcommit: c6eee117bae153c1f79ba9ecb419bfab372991bc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/24/2021
-ms.locfileid: "51995714"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "52091826"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 Apps の更新履歴 (日付別の一覧)
 
@@ -36,7 +36,7 @@ ms.locfileid: "51995714"
 
 |**チャネル**|**バージョン**|**ビルド**|**リリース日**|**バージョンのサポート期限**|
 |:-----|:-----|:-----|:-----|:-----|
-|最新チャネル<br/>|2103<br/>|13901.20462<br/>|2021 年 4 月 23 日<br/>|バージョン 2104 がリリースされました<br/>|
+|最新チャネル<br/>|2104<br/>|13929.20296<br/>|2021 年 4 月 29 日<br/>|バージョン 2105 がリリースされました<br/>|
 |月次エンタープライズ チャネル<br/>|2102<br/>|13801.20506<br/>|2021年 4 月 13 日<br/>|2021 年 6 月 8 日<br/>|
 |月次エンタープライズ チャネル<br/>|2101<br/>|13628.20664<br/>|2021年 4 月 13 日<br/>|2021 年 5 月 11 日<br/>|
 |半期エンタープライズ チャネル (プレビュー)<br/>|2102<br/>|13801.20506<br/>|2021年 4 月 13 日<br/>|2021 年 9 月 14 日<br/>|
@@ -47,7 +47,7 @@ ms.locfileid: "51995714"
 
 以前のリリースの Microsoft 365 Apps から最新の現在のリリースへ更新する場合のおおよそのダウンロード サイズについて詳しくは、「[Microsoft 365 Apps の更新プログラムのダウンロード サイズ](./download-sizes-microsoft365-apps-updates.md)」をご覧ください。
 
-次の表は、更新プログラム チャネルでリリースされた Microsoft 365 アプリの各更新プログラムのバージョン番号とビルド番号のリストです。現在のところ、月次エンタープライズ、半期エンタープライズ (プレビュー)、および半期エンタープライズ チャネルがあります。 それぞれの表の記載項目をクリックすると、該当するリリースのリリース ノートを直接参照することができます。 これらのリリース ノートには、Microsoft 365 Apps の更新プログラムに含まれている機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムに関する情報が記載されています。
+次の表に、以下のプログラム チャネルでリリースされた Office 365 ProPlus の更新プログラムのバージョン番号とビルド番号の一覧を示します: 現在の月次エンタープライズ、半期エンタープライズ (プレビュー)、および半期エンタープライズ。この表の各項目は、対象リリースのリリース ノートに直接リンクしています。これらのリリース ノートには、Microsoft 365 Apps の更新プログラムに含まれる機能、セキュリティ更新プログラム、セキュリティ以外の更新プログラムに関する情報が含まれます。
 
 ### <a name="version-history"></a>**バージョン履歴**
 
@@ -55,6 +55,7 @@ ms.locfileid: "51995714"
 
 |**Year**|**リリース日**|**最新チャネル**|**月次エンタープライズ チャネル**|**半期エンタープライズ チャネル (プレビュー)**|**半期エンタープライズ チャネル**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2021|4 月 29 日|[バージョン 2104 ビルド 13929.20296)](current-channel.md#version-2104-april-29)| | | |
 |2021|4 月 23 日|[バージョン 2103 (ビルド 13901.20462)](current-channel.md#version-2103-april-23)| | | |
 |2021|4 月 13 日|[バージョン 2103 (ビルド 13901.20400)](current-channel.md#version-2103-april-13)|[バージョン 2102 (ビルド 13801.20506)](monthly-enterprise-channel.md#version-2102-april-13)<br/>[バージョン 2101 (ビルド 13628.20664)](monthly-enterprise-channel.md#version-2101-april-13)|[バージョン 2102 (ビルド 13801.20506)](semi-annual-enterprise-channel-preview.md#version-2102-april-13)|[バージョン 2008 (ビルド 13127.21506)](semi-annual-enterprise-channel.md#version-2008-april-13)<br/>[バージョン 2002 (ビルド 12527.21814)](semi-annual-enterprise-channel.md#version-2002-april-13)|
 |2021 年|4 月 2 日|[バージョン 2103 (ビルド 13901.20336)](current-channel.md#version-2103-april-02)| | | |

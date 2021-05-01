@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Microsoft 365 Apps サブスクライバー向け Office for Mac のリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: fee8802ab607b3b93d0932e6aca5d07eb267f2ba
-ms.sourcegitcommit: 8de8bc2772a282e08ce583dc2b4869f67330febc
+ms.openlocfilehash: feae6e5fbc6d3fd9d969eb0ccea108f9b62b7717
+ms.sourcegitcommit: c6eee117bae153c1f79ba9ecb419bfab372991bc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2021
-ms.locfileid: "52079291"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "52091846"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac のリリース ノート
 
@@ -69,15 +69,15 @@ Microsoft 365 サブスクリプションに付属する Office for Mac は、�
 - **複数のシートを同時に再表示する:** 一度に再表示できるのが、1枚のシートだけではなくなりました。複数の非表示シートを一度に表示します。 [詳細情報](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
 
 
-### <a name="msteams"></a>MSTeams
+### <a name="powerpoint"></a>PowerPoint
+
+- **発表者のコーチでプレゼンテーションのリハーサルを行います。** 発表者のコーチでは、プレゼンテーションのリハーサルを行い、より効果的に視聴者を惹きつけることができます。 これは、ペース、音高、言葉の使用などについてフィードバックを提供します。 [詳細情報](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/presenter-coach-now-in-powerpoint-on-mac)の詳細情報をご覧ください
+
+### <a name="teams"></a>Teams
 
 - **動的なビュー:** 動的なビューでは、Teams 会議で共有コンテンツとビデオ参加者を自動的に最適化します。 新しいコントロールでは、共有コンテンツと特定の参加者を並べて表示する機能など、好みに合わせてビューをカスタマイズできます。
 
 - **外出中:** 勤務時間外や休暇中のため、チャット メッセージに返信できないことを他のユーザーに知らせるメッセージを設定します。 外出中の状態は、Outlook カレンダーにある自動応答とも同期されます。
-
-### <a name="powerpoint"></a>PowerPoint
-
-- **発表者のコーチでプレゼンテーションのリハーサルを行います。** 発表者のコーチでは、プレゼンテーションのリハーサルを行い、より効果的に視聴者を惹きつけることができます。 これは、ペース、音高、言葉の使用などについてフィードバックを提供します。 [詳細情報](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/presenter-coach-now-in-powerpoint-on-mac)の詳細情報をご覧ください
 
 ### <a name="word"></a>Word
 
@@ -963,9 +963,9 @@ Microsoft 365 サブスクリプションに付属する Office for Mac は、�
 
 |**アプリケーション**|**機能の更新プログラム**|**セキュリティ更新プログラム**|**更新プログラム パッケージのダウンロード リンク**|
 |:-----|:-----|:-----|:-----|
-|Word  <br/>|**新しい Office アプリのアイコン:** Office のシンプルで強力、そしてインテリジェントなエクスペリエンスを反映するように、アプリのアイコンを再設計しました。 <br/><br/>**迅速に開始する:** あなたの活動や他のあなたの周りで取り組まれていることに基づいて推奨事項を入手してください。<br/><br/>**文書を活気づかせる:** アニメーション 3D グラフィックスを挿入して、鼓動する心臓、周回する惑星、暴れ回るティラノサウルスをページ上に表示できます。 [詳細情報](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)<br/>|<br/><br/> |[Word の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.24.19041401_Updater.pkg) <br/>|
+|Word  <br/>|**新しい Office アプリのアイコン:** Office のシンプルで強力、そしてインテリジェントなエクスペリエンスを反映するように、アプリのアイコンを再設計しました。 <br/><br/>**迅速に開始する:** あなたの活動や他のあなたの周りで取り組まれていることに基づいて推奨事項を入手してください。<br/><br/>**文書を活気づかせる:** アニメーション 3D グラフィックスを挿入して、鼓動する心臓、周回する惑星、暴れ回るティラノサウルスをページ上に表示できます。[詳細情報](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)<br/>|<br/><br/> |[Word の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.24.19041401_Updater.pkg) <br/>|
 |Excel  <br/>|**新しい Office アプリのアイコン:** Office のシンプルで強力、そしてインテリジェントなエクスペリエンスを反映するように、アプリのアイコンを再設計しました。<br/> <br/>**マクロのすべてのユーザーを呼び出す:** 相対参照を使用してマクロを記録します。 再生時に、記録に使用したセルではなく、アクティブ セルで動作します。 [詳細情報](https://support.office.com/article/f0cac51a-7449-4d6d-bb10-24561edbc785)<br/><br/>**お気に入りのコマンドに簡単にアクセス:** [検索と選択]、[選択範囲に拡大]、[並べて表示] などのよく使用する操作に迅速かつ簡単にアクセスできます。 リボンで選択できます。 [詳細情報](https://support.office.com/article/22db33e7-3e10-4406-9cad-ad9f2ce4f642)<br/><br/>**迅速に開始する:** あなたの活動や他のあなたの周りで取り組まれていることに基づいて推奨事項を入手してください。<br/><br/>**ワークシートを活気づかせる:** アニメーション 3D グラフィックスを挿入して、鼓動する心臓、周回する惑星、暴れ回るティラノサウルスをブック上に表示できます。 [詳細情報](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)|[CVE-2019-0828](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2019-0828): Microsoft Excel のリモートでコードが実行される脆弱性 |[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.24.19041401_Updater.pkg) <br/>|
-|PowerPoint  <br/>|**新しい Office アプリのアイコン:** Office のシンプルで強力、そしてインテリジェントなエクスペリエンスを反映するように、アプリのアイコンを再設計しました。<br/><br/>**迅速に開始する:** あなたの活動や他のあなたの周りで取り組まれていることに基づいて推奨事項を入手してください。<br/><br/>**埋め込みメディアを簡単に保存:** Crtl + クリックだけで、オーディオとビデオを保存できます。 [詳細情報](https://support.office.com/article/F773D119-0FB3-4884-A18A-29573AC97B25)<br/><br/>**スライドを活気づかせる:** アニメーション 3D グラフィックスを挿入して、鼓動する心臓、周回する惑星、暴れ回るティラノサウルスを画面上に表示できます。 [詳細情報](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)| |[PowerPoint の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.24.19041401_Updater.pkg) <br/>|
+|PowerPoint  <br/>|**新しい Office アプリのアイコン:** Office のシンプルで強力、そしてインテリジェントなエクスペリエンスを反映するように、アプリのアイコンを再設計しました。<br/><br/>**迅速に開始する:** あなたの活動や他のあなたの周りで取り組まれていることに基づいて推奨事項を入手してください。<br/><br/>**埋め込みメディアを簡単に保存:** Crtl + クリックだけで、オーディオとビデオを保存できます。 [詳細情報](https://support.office.com/article/F773D119-0FB3-4884-A18A-29573AC97B25)<br/><br/>**スライドが活気のあるものに:** アニメーション 3D グラフィックを挿入して、心臓の鼓動、惑星の軌道、画面を暴れまわる T レックスを表示します。[詳細情報](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)| |[PowerPoint の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.24.19041401_Updater.pkg) <br/>|
 |Outlook  <br/>|**新しい Office アプリのアイコン:** Office のシンプルで強力、そしてインテリジェントなエクスペリエンスを反映するように、アプリのアイコンを再設計しました。 <br/><br/>**セーフリンク:** Advanced Threat Protection (ATP) セーフリンクのサポート。  ||[Outlook の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.24.19041401_Updater.pkg) <br/>|
 |Microsoft Auto Update 4.10<br/>|**クローンでのインストール機能の強化:** SSD デバイスでは、現在使用中のアプリのクローンでアップデートが展開されるため、アップデートによるアプリのダウンタイムが短縮されます。 <br/><br/>**インストールの最適化:** アップデート プロセスで並列化されたクローンが使用されるため、アップデートによるアプリのダウンタイムが短縮されます。|<br/> | [Microsoft AutoUpdate 更新パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.10.19041401_Updater.pkg)<br/>|
 |Office スイート  <br/><br/>| |[CVE-2019-0822](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2019-0822): Microsoft グラフィック コンポーネントのリモート コード実行の脆弱性<br/><br/>|<br/>|
@@ -997,8 +997,8 @@ Microsoft 365 サブスクリプションに付属する Office for Mac は、�
 
 |**アプリケーション**|**機能の更新プログラム**|**セキュリティ更新プログラム**|**更新プログラム パッケージのダウンロード リンク**|
 |:-----|:-----|:-----|:-----|
-|Word  <br/>| **@メンションを使用してユーザーの注意を引く:** コメントで @メンションを使うと、仕事仲間による入力が必要な場合にそのユーザーに知らせることができます。 [詳細情報](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)<br/><br/>**LaTex の数式の編集:** 数式を作成できる LaTeX の数式構文が Word でサポートされるようになりました。 [詳細情報](https://support.office.com/article/2e00618d-b1fd-49d8-8cb4-8d17f25754f8) | |[Word の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.23.19030902_Updater.pkg) <br/>|
-|Excel  <br/>|**@メンションを使用してユーザーの注意を引く:** コメントで @メンションを使うと、仕事仲間による入力が必要な場合にそのユーザーに知らせることができます。 [詳細情報](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)  <br/><br/>**データの詳細を検出する:** 新しい [アイデア] ボタンは、データのパターンを探し、それを使用してカスタマイズされたインテリジェントな提案を作成します。 [詳細情報](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4) |  <br/>  |[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.23.19030902_Updater.pkg) <br/>|
+|Word  <br/>| **@メンションを使用してユーザーの注意を引く:** コメントで @メンションを使うと、仕事仲間によるインプットが必要な場合にそのユーザーに知らせることができます。[詳細情報](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)<br/><br/>**LaTex の数式の編集:** 数式を作成できる LaTeX の数式構文が Word でサポートされるようになりました。 [詳細情報](https://support.office.com/article/2e00618d-b1fd-49d8-8cb4-8d17f25754f8) | |[Word の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.23.19030902_Updater.pkg) <br/>|
+|Excel  <br/>|**@メンションを使用してユーザーの注意を引く:** コメントで @メンションを使うと、仕事仲間によるインプットが必要な場合にそのユーザーに知らせることができます。[詳細情報](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)  <br/><br/>**データの詳細を検出する:** 新しい [アイデア] ボタンは、データのパターンを探し、それを使用してカスタマイズされたインテリジェントな提案を作成します。 [詳細情報](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4) |  <br/>  |[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.23.19030902_Updater.pkg) <br/>|
 |PowerPoint  <br/>| **図の移動がよりスムーズに:** トラックパッドで指を移動させて、画面全体でのインクの流れをご覧ください。 [詳細情報](https://support.office.com/article/bc7f48ff-f152-4ee8-9081-d3121788024f) <br/><br/> | <br/>|[PowerPoint の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.23.19030902_Updater.pkg) <br/>|
 |Outlook  <br/>|  <br/><br/>  ||[Outlook の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.23.19030902_Updater.pkg) <br/>|
 
@@ -1087,7 +1087,7 @@ Microsoft 365 サブスクリプションに付属する Office for Mac は、�
 
 |**アプリケーション**|**機能の更新プログラム**|**セキュリティ更新プログラム**|**更新プログラム パッケージのダウンロード リンク**|
 |:-----|:-----|:-----|:-----|
-|Word  <br/>| **ダーク モードで目に優しい:** 低照度の環境では、濃い色の背景の方が目に優しくなります。macOS Mojave が必要です。<br/><br/>  **テキストの外観を維持する:** フォントを埋め込むことにより、すべてのコンピューターでドキュメントのテキストの外観を同一にします。これは嬉しい機能です。[詳細情報](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/><br/>**文書に埋め込まれたフォントを表示する:** ファイルに埋め込まれているフォントを Mac Word で表示できるようにします。<br/><br/>**フォーカス モードの呼び出し可能なステータス バー:** フォーカスモードで呼び出し可能なステータス バーを使用して、Word での文字カウントやズーム コントロールへのアクセスを簡単に行えます。<br/><br/>**より高機能になったフォーカスモード:** ご要望にお応えいたします。 フォーカス モードが設定した表示倍率で表示され、スクロール中もページ番号が表示されるようになりました。| |[Word の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.20.18120801_Updater.pkg) <br/>|
+|Word  <br/>| **ダーク モードで目に優しい:** 低照度の環境では、濃い色の背景の方が目に優しくなります。macOS Mojave が必要です。<br/><br/>  **テキストの外観を維持する:** フォントを埋め込むことにより、すべてのコンピューターでドキュメントのテキストの外観を同一にします。これは嬉しい機能です。[詳細情報](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/><br/>**文書に埋め込まれたフォントを表示する:** ファイルに埋め込まれているフォントを Mac Word で表示できるようにします。<br/><br/>**フォーカス モードの呼び出し可能なステータス バー:** フォーカスモードで呼び出し可能なステータス バーを使用して、Word での文字カウントやズーム コントロールへのアクセスを簡単に行えます。<br/><br/>**フォーカス モードでさらに実行する:** 了解しました! 設定したズーム レベルでフォーカス モードが開き、スクロール中にページ番号が表示されるようになりました。| |[Word の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.20.18120801_Updater.pkg) <br/>|
 |Excel  <br/>|  **ダーク モードで目に優しい:** 低照度の環境では、濃い色の背景の方が目に優しくなります。macOS Mojave が必要です。<br/><br/> | [CVE-2018-8597](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8597): Microsoft Excel のリモート コード実行の脆弱性 <br/><br/> [CVE-2018-8627](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8627): Microsoft Excel の情報漏えいの脆弱性 |[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.20.18120801_Updater.pkg) <br/>|
 |PowerPoint  <br/>| **ダーク モードで目に優しい:** 低照度の環境では、濃い色の背景の方が目に優しくなります。macOS Mojave が必要です。<br/><br/>  **iPhone から直接 PowerPoint へ:** Apple Continuity Camera を使用して、写真を iPhone からスライドへ挿入します。macOS Mojave が必要です。[詳細情報](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2018-8628): Microsoft PowerPoint のリモート コード実行の脆弱性 <br/>|[PowerPoint の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg) <br/>|
 |Outlook  <br/>|  **ダーク モードで目に優しい:** 低照度の環境では、濃い色の背景の方が目に優しくなります。macOS Mojave が必要です。<br/><br/>  **予定表を共有する:** 家族、友人、同僚と予定表を共有します。Mac、PC、またはクラウド バージョンの Outlook で共有している予定表を開きます。[詳細情報](https://support.office.com/article/365-b576ecc3-0945-4d75-85f1-5efafb8a37b4) <br/><br/> **会議の転送を無効にする:** 出席者が会議を他のユーザーに転送できないようにします。[詳細情報](https://support.office.com/article/8cd354e5-b319-403e-8dd2-88b8ee89b4dd) <br/><br/> **チームを使用して会議に接続する:** リモートのチームと協力する場合。Outlook でチームを使用して、オンライン会議のスケジュールを設定したり、会議に参加します。[詳細情報](https://support.office.com/article/883cc15c-580f-441a-92ea-0992c00a9b0f) <br/><br/>**会議の出席者を確認する:** 予定表に記載された任意の会議やイベントをクリックすると、参加予定者を確認できます。<br/><br/> **3 タイムゾーンを表示する:** タイム ゾーン間で会議をスケジュールする必要がある場合。複数のタイム ゾーンを予定表に追加すると、全員の予定の確認や、全員が参加できる時間の選択が容易になります。[詳細情報](https://support.office.com/article/938d9db9-14ae-4203-ab91-b2d183429382)<br/><br/>  ||[Outlook の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.20.18120801_Updater.pkg) <br/>|
