@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の月次チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 3148b1744d6df9108f2a8beda7ca7c6f160fb5fa
-ms.sourcegitcommit: 8de8bc2772a282e08ce583dc2b4869f67330febc
+ms.openlocfilehash: da560e6b74afa2861304210c9c409510ffee1792
+ms.sourcegitcommit: c6eee117bae153c1f79ba9ecb419bfab372991bc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2021
-ms.locfileid: "52079301"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "52091796"
 ---
 # <a name="release-notes-for-current-channel"></a>現在のチャネルのリリース ノート
 
@@ -37,6 +37,92 @@ ms.locfileid: "52079301"
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
+## <a name="version-2104-april-29"></a>バージョン 2104: 4 月 29 日
+*バージョン 2104 (ビルド 13929.20296)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="excel"></a>Excel
+
+- **リンクされたデータの種類: リアルな生活のリアルなデータ:** 新しいリンクされたデータの種類は、数百のテーマに関する事実やデータを提供し、Excel 上での目標の達成をサポートします。
+
+### <a name="teams"></a>Teams
+
+- **動的なビュー:** 動的なビューでは、Teams 会議で共有コンテンツとビデオ参加者を自動的に最適化します。 新しいコントロールでは、共有コンテンツと特定の参加者を並べて表示する機能など、好みに合わせてビューをカスタマイズできます。
+
+- **外出中:** 勤務時間外や休暇中のため、チャット メッセージに返信できないことを他のユーザーに知らせるメッセージを設定します。 外出中の状態は、Outlook カレンダーにある自動応答とも同期されます。
+
+### <a name="visio"></a>Visio
+
+- **図に適した既製のグラフィック:** アイコン、株の写真画像、ユーザーの切り抜き、ステッカーの大きなライブラリから選び、Visio 図面に追加できます。 [詳細情報](https://support.office.com/article/0ab844a5-289b-47f2-ba92-eeda168bc381)<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/access-illustrations-icons-in-visio)の詳細情報をご覧ください
+
+### <a name="word"></a>Word
+
+- **最新のコメントによる共同作業の向上:** オブジェクトにコメントを追加したり、同僚に @mention したり、コメント スレッドを解決して共同作業を効率化できます。 [詳細情報](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/modern-commenting-in-word)の詳細情報をご覧ください
+
+- **Word 文書のダーク モード:** ダーク モードは、ドキュメントでの作業中に目の疲れを軽減し、光感受性に対応するのに役立ちます。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/try-dark-mode-in-word)の詳細情報をご覧ください
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- Excel の一部のオートメーション アドインを読み込むことができないという問題が修正されました。
+
+
+- 一部のファイルが保護されたビューで開かない可能性があるという問題を修正しました
+
+
+### <a name="outlook"></a>Outlook
+
+- ユーザーの検索時に予期せず終了してしまうという問題を修正しました。
+
+
+- 署名の予期しない消去が発生する問題を修正しました。
+
+
+- 作成中のメッセージが UI フォーカスを失ってしまう可能性がある問題を修正しました。
+
+
+- Outlook が OWA で構成された優先受信トレイの設定を上書きする問題を修正しました。
+
+
+- ユーザーが設定をローミングする場合に応答しなくなってしまうという問題を修正しました。
+
+
+- 別のユーザーに代わって送信し、グローバル アドレス一覧ではないアドレス ブックに対して解決すると、名前解決が無効になってしまうという問題を修正しました。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- リンクされた図に関する問題を修正しました。
+
+
+### <a name="project"></a>Project
+
+- ユーザーがリソースの共有元からプロジェクトを削除できなくなってしまうという問題を修正しました。
+
+
+### <a name="word"></a>Word
+
+- ローカルに保存されたファイルの自動保存の吹き出しのテキストを更新するための問題を修正しました。
+
+
+- 読み取りモードでダークモード テーマを使用するときに、一部の選択テキストが表示されないという問題を修正しました。
+
+
+- OLE オブジェクトの編集に変更を加えました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
 ## <a name="version-2103-april-23"></a>バージョン 2103: 4 月 23 日
 *バージョン 2103 (ビルド 13901.20462)*
 
@@ -45,7 +131,7 @@ ms.locfileid: "52079301"
 ### <a name="resolved-issues"></a>解決済みの問題
 ### <a name="excel"></a>Excel
 
-- 2021 年 4 月のセキュリティ更新プログラムをインストールした後、Excel の自動化アドインが読み込まれません。 最新チャネルにないユーザーに対して提供されている回避策を使用してください [詳細情報](https://support.microsoft.com/ja-JP/office/automation-add-ins-for-excel-are-not-loading-after-installing-april-2021-security-update-8b2927a1-4a24-4ae6-8855-60827b7632fb)。 
+- 2021 年 4 月のセキュリティ更新プログラムをインストールした後、Excel の自動化アドインが読み込まれないという問題を修正しました。 最新チャネルではないユーザーに対して提供されている回避策を使用してください [詳細情報](https://support.microsoft.com/ja-JP/office/automation-add-ins-for-excel-are-not-loading-after-installing-april-2021-security-update-8b2927a1-4a24-4ae6-8855-60827b7632fb)。 
 
 
 ### <a name="outlook"></a>Outlook
@@ -652,6 +738,7 @@ ms.locfileid: "52079301"
 > Office の使用で問題がある場合は、[Microsoft の回答フォーラム](https://answers.microsoft.com/)に関するページまたは「[Microsoft Tech Community](https://techcommunity.microsoft.com/)」に質問を投稿するか、[サポート](https://support.microsoft.com/contactus)に問い合わせてサポートを受けることができます。
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|CC|Production| |16.0.13929.20296|version-2104-april-29|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20462|version-2103-april-23|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20400|version-2103-april-13|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20336|version-2103-april-02|)
@@ -661,5 +748,4 @@ ms.locfileid: "52079301"
 [//]: # (|Win32|CC|Production| |16.0.13801.20266|version-2102-march-01|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20448|version-2101-january-16|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20380|version-2101-february-09|)
-[//]: # (|Win32|CC|Production| |16.0.13628.20274|version-2101-january-26|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)
