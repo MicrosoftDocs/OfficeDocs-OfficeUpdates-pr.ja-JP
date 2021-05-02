@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の月次チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: da560e6b74afa2861304210c9c409510ffee1792
-ms.sourcegitcommit: c6eee117bae153c1f79ba9ecb419bfab372991bc
+ms.openlocfilehash: f187b3f58c9917470fdff4fe0ca2fd87e58fb8f0
+ms.sourcegitcommit: 544a3557e8dc8e332b9132a3219a6ca8e0306d19
 ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 04/30/2021
-ms.locfileid: "52091796"
+ms.locfileid: "52108219"
 ---
 # <a name="release-notes-for-current-channel"></a>現在のチャネルのリリース ノート
 
@@ -106,15 +106,15 @@ ms.locfileid: "52091796"
 
 ### <a name="project"></a>Project
 
-- ユーザーがリソースの共有元からプロジェクトを削除できなくなってしまうという問題を修正しました。
+- ユーザーがリソース共有元からプロジェクトを削除できなくなる問題が修正されました。
 
 
 ### <a name="word"></a>Word
 
-- ローカルに保存されたファイルの自動保存の吹き出しのテキストを更新するための問題を修正しました。
+- ローカルに保存されたファイルの自動保存の吹き出しのテキストを更新する際の問題が修正されました。
 
 
-- 読み取りモードでダークモード テーマを使用するときに、一部の選択テキストが表示されないという問題を修正しました。
+- 読み取りモードでダークモード テーマを使用するときに、一部の選択テキストが表示されないという問題が修正されました。
 
 
 - OLE オブジェクトの編集に変更を加えました。
@@ -131,7 +131,7 @@ ms.locfileid: "52091796"
 ### <a name="resolved-issues"></a>解決済みの問題
 ### <a name="excel"></a>Excel
 
-- 2021 年 4 月のセキュリティ更新プログラムをインストールした後、Excel の自動化アドインが読み込まれないという問題を修正しました。 最新チャネルではないユーザーに対して提供されている回避策を使用してください [詳細情報](https://support.microsoft.com/ja-JP/office/automation-add-ins-for-excel-are-not-loading-after-installing-april-2021-security-update-8b2927a1-4a24-4ae6-8855-60827b7632fb)。 
+- 2021 年 4 月のセキュリティ更新プログラムをインストールした後、Excel の自動化アドインが読み込まれないという問題を修正しました。 最新チャネルにないユーザーに対して提供されている回避策を使用してください [詳細情報](https://support.microsoft.com/ja-JP/office/automation-add-ins-for-excel-are-not-loading-after-installing-april-2021-security-update-8b2927a1-4a24-4ae6-8855-60827b7632fb)。 
 
 
 ### <a name="outlook"></a>Outlook
