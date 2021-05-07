@@ -9,23 +9,26 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 永続的なバージョンの Office 2016、Office 2013、Office 2010 の最新のセキュリティ以外の更新プログラム情報へのリンクを IT 技術者に提供します
-ms.openlocfilehash: e254de1835dfd13550f6614f841777d519529d31
-ms.sourcegitcommit: 515409b0baa38e7da8e00be3b54ea6789755f11b
+ms.openlocfilehash: b87152251bac703f17324a2236d79fb2674e01f6
+ms.sourcegitcommit: e4d02f3245d41beb8a9cfc9e386c1f81d0f5e7a0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "51598118"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52236947"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Windows インストーラー (MSI) を使用しているバージョンの Office の最新のセキュリティ以外の更新プログラム
 
 このページでは、毎月第 1 火曜日にリリースされている Office のセキュリティ以外の更新プログラムを表示しています。
 
 > [!NOTE]
-> - この記事の情報は、Windows インストーラー (MSI) のインストール テクノロジを使用する Office の永続バージョンについてのみ適用されます (例: Office Professional Plus 2016)。
+> - この記事の情報は、Windows インストーラー (MSI) のインストール テクノロジを使用している永続的なバージョンの Office にのみ適用されます。たとえば、Office Professional Plus 2016 です。
 > - この記事の情報は、Microsoft 365 のアプリには適用されません。
 > - Office の更新プログラムをインストールする手順については、「[Office の更新プログラムをインストールする](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)」を参照してください。
 <br/><br/>
 
+## <a name="may-4-2021"></a>2021 年 5 月 4 日
+**Office 2016**<br/>
+Microsoft Office 2016 の更新プログラム ([KB4462117](https://support.microsoft.com/help/4462117)) </br> Skype for Business 2016 の更新プログラム ([KB4493155](https://support.microsoft.com/help/4493155)) </br> Microsoft Outlook 2016 の更新プログラム ([KB5001921](https://support.microsoft.com/help/5001921)) </br> 
 
 ## <a name="april-6-2021"></a>2021 年 4 月 6 日
 **Office 2016**<br/>
@@ -76,14 +79,6 @@ Microsoft Office 2016 の更新プログラム ([KB4486680](https://support.micr
 Microsoft Office 2016 の更新プログラム ([KB4484397](https://support.microsoft.com/help/4484397)) <br/>
 Microsoft Outlook 2016 の更新プログラム ([KB4486720](https://support.microsoft.com/help/4486720)) <br/>
 Microsoft Project 2016 の更新プログラム ([KB4486712](https://support.microsoft.com/help/4486712)) <br/>
-
-
-## <a name="october-6-2020"></a>2020 年 10 月6日
-**Office 2016**<br/>
-Microsoft Office 2016 の更新プログラム ([KB4475584](https://support.microsoft.com/help/4475584))<br/>
-Microsoft Project 2016 の更新プログラム ([KB4484502](https://support.microsoft.com/help/4484502))<br/>
-Microsoft Visio 2016 の更新プログラム ([KB4484333](https://support.microsoft.com/help/4484333))<br/>
-Skype for Business 2016 の更新プログラム ([KB4486669](https://support.microsoft.com/help/4486669))<br/> 
 
 
 </br>

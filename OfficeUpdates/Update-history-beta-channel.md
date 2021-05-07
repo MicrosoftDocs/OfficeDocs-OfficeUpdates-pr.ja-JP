@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Windows デスクトップ用の月次チャンネル Insider ファースト リリースの更新履歴を Insider に提供します
-ms.openlocfilehash: 6079dae053bd17e46381a456ed4793df98b93194
-ms.sourcegitcommit: d6bf34f5a6630f91967f1b3355eba006ecc8fdde
+ms.openlocfilehash: bb76a9d7bea20fc325b2913c83a6e3d9084e2c57
+ms.sourcegitcommit: e4d02f3245d41beb8a9cfc9e386c1f81d0f5e7a0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "52077397"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52236907"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Office ベータ チャネルの更新履歴
 
@@ -31,12 +31,15 @@ Insider の皆様。最新の更新プログラムがインストールされて
 
 ## <a name="office-beta-channel-versions-and-builds"></a>Office ベータ チャネルのバージョンとビルド
 
-Insider レベルに登録している場合は、新機能と改善された機能を含む更新プログラムを頻繁に入手できます。 次のリストは、最近のベータ チャネルのバージョンとビルドの履歴を示しています。**最も新しくリリースされたビルドが最初に表示されています**。 新しいビルドには、以前のビルドに含まれているすべての更新が含まれています。
+If you're enrolled in the Insider level you get frequent updates with new features and improvements. The following list shows a history of recent Beta Channel versions and builds, with **the most recently released build listed first**. New builds contain all the updates contained in previous builds.
 
 リリース ノートを確認するには、「[Windows デスクトップ版 Office のリリース ノート](./beta-channel.md)」を参照してください。
 
 
 [//]: # (削除しないでください)
+
+**2021 年 5 月 4 日**<br/>
+バージョン 2106 (ビルド 14029.20000)<br/>
 
 **2021 年 4 月 28 日**<br/>
 バージョン 2105 (ビルド 14026.20000)<br/>
