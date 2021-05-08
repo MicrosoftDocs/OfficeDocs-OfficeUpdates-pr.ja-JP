@@ -9,17 +9,16 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Windows デスクトップ用の月次チャンネル 対象指定リリースの更新履歴を Insider の皆様に提供します。
-ms.openlocfilehash: c64b0ec90f075b979d9af44e3be044c1b1874caa
-ms.sourcegitcommit: 6094aae42629433b8b7336cb2f6ac3bfa8dab834
+ms.openlocfilehash: 006da8254a332b54fd0cbe875dccf6a7d630ed87
+ms.sourcegitcommit: e4d02f3245d41beb8a9cfc9e386c1f81d0f5e7a0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/29/2021
-ms.locfileid: "52081240"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52236967"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Windows 用 Office の最新チャネル (プレビュー) の更新履歴
 
-Insider の皆様へ。 最新の更新プログラムがインストールされているかどうかが不明な場合や、最新の最新チャネル (プレビュー) のビルドの一覧を確認したい場合は、このページをご覧ください。
-Insider プログラムの詳細については、[こちら](https://insider.office.com/)をクリックしてください。
+Insider の皆様。最新の更新プログラムがインストールされているかどうかを確認したり、最新チャネル (プレビュー版) ビルドの一覧を探したりしている場合は、この記事をご活用いただけます。Insider プログラムの詳細については、[こちら](https://insider.office.com/)をクリックしてください。
 
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Office の最新チャネル (プレビュー) バージョンとビルド
 
@@ -37,6 +36,9 @@ Insider プログラムの詳細については、[こちら](https://insider.of
 
 
 [//]: # (削除しないでください)
+
+**2021 年 5 月 3 日**<br/>
+バージョン 2105 (ビルド 14026.20052)<br/>
 
 **2021 年 4 月 28 日**<br/>
 バージョン 2104 (ビルド 13929.20296)<br/>
