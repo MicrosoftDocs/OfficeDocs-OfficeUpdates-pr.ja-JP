@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: bb14136d385d11187c26552bd61c321338ce2f36
-ms.sourcegitcommit: 544a3557e8dc8e332b9132a3219a6ca8e0306d19
+ms.openlocfilehash: cf5a7d18a98c712a31e5741e7d8532020ec330f1
+ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52108239"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "52278004"
 ---
 # <a name="release-notes-for-beta-channel"></a>ベータ チャネルのリリース ノート
 
@@ -30,6 +30,34 @@ ms.locfileid: "52108239"
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2106-may-07"></a>バージョン 2106: 5 月 7 日
+*バージョン 2106 (ビルド14029.20000)*
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- ネーム マネージャーが大量の非表示の名前を含む書籍を開かない問題を修正しました。
+
+
+### <a name="outlook"></a>Outlook
+
+- すべての送信済みアイテムのコピーがユーザーの送信トレイ フォルダーに表示される問題を修正しました。
+
+
+- Windows の他のバージョンを含む音声読み上げを使用した場合に、Outlook が予期せず閉じる問題を修正しました。
+
+
+### <a name="word"></a>Word
+
+- Windows の他のバージョンを含む音声読み上げを使用した場合に、Word が予期せず閉じる問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2105-april-30"></a>バージョン 2105: 4 月 30 日
 *バージョン 2105 (ビルド 14026.20000)*
@@ -2979,6 +3007,7 @@ ms.locfileid: "52108239"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14029.20000|version-2106-may-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14014.20002|version-2105-april-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14007.20002|version-2105-april-16|)
@@ -2988,5 +3017,4 @@ ms.locfileid: "52108239"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13913.20000|version-2104-march-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13906.20000|version-2104-march-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13901.20036|version-2103-march-05|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13819.20006|version-2103-february-26|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)
