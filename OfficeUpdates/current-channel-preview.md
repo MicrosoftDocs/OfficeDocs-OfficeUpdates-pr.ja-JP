@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに新機能、修正プログラム、または既知の問題の最新リストを提供します
-ms.openlocfilehash: 1b6f0758a770724411cd1a50cbf8aa25a65447d1
-ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
+ms.openlocfilehash: 4cfb53d99f77d812805fd742cb93ca7c9440a0bb
+ms.sourcegitcommit: f82c2d42402aa11741482a0f2795caf55d1d000e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52278064"
+ms.lasthandoff: 05/08/2021
+ms.locfileid: "52285978"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 向けリリース ノートの最新チャネル (プレビュー)
 
@@ -28,6 +28,47 @@ ms.locfileid: "52278064"
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2105-may-07"></a>バージョン 2105: 5 月 7 日
+*バージョン 2105 (ビルド 14026.20138)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="teams"></a>Teams
+
+- **Teams 会議へのレイアウトの導入:** コンテンツの上にオーバーレイして表示できるようになり、より没入型のプレゼンテーションと実行エクスペリエンスが可能になりました
+
+- **特定の参加者のカメラを無効にする:** 会議の主催者と発表者は、Teams 会議で特定の参加者のカメラを無効にして、会議でビデオを共有しないようにすることができます。
+
+- **すべての参加者のカメラを無効にする:** 会議の主催者と発表者は、Teams 会議ですべての参加者のカメラを無効にして、会議でビデオを共有しないようにすることができます。
+
+- **匿名ユーザーがプレゼンテーションできる:** Teams ライブ イベントをホストするときに、匿名ユーザーがライブ イベントに参加する機能が追加され、イベント中にプレゼンテーションできるようにしました。
+
+- **Teams 内のタグをプログラムで管理する - Microsoft Teams タグ API がパブリック プレビューされました:** この API セットを使用して、チーム内のユーザー タグをプログラムで割り当てることができ、タグの作成と保守がより迅速かつ簡単になります。  Teams のタグを使用すると、ユーザーは @メンションしたり、全員を入力したりしなくても、ユーザーのグループにすばやくアクセスできます。 チームのタグの詳細については、「Teams でのタグの使用」を参照してください。 これらの新しい API を使用して、開発者はチーム内のタグを nowCreate し、usersGet を割り当てることができます。チーム内のタグの一覧は tagsDelete タグを更新します
+
+- **PowerPoint から Teams にプレゼンテーション:** PowerPoint Live で PowerPoint アプリから Teams 会議に直接スライドを表示できます。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="word"></a>Word
+
+- エディター ウィンドウが開かない問題を修正します。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- RelNotesNotNeeded
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2105-may-03"></a>バージョン 2105: 5 月 3 日
 *バージョン 2105 (ビルド 14026.20052)*
@@ -1111,7 +1152,7 @@ ms.locfileid: "52278064"
 ### <a name="feature-updates"></a>機能の更新プログラム
 ### <a name="outlook"></a>Outlook
 
-- **ワンクリック ライティング候補:** ワンクリックでライティング候補を適用します。 編集機能では、スペルチェックと文章校正を行い、ユーザーに文章を洗練されたものにするアイデアを提供します。 [詳細情報](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />[ブログの投稿](https://insider.office.com/en-us/blog/microsoft-editor-gets-an-upgrade)の詳細情報をご覧ください
+- **ワンクリック ライティング候補:** ワンクリックでライティング候補を適用します。 編集機能では、スペルチェックと文章校正を行い、ユーザーに文章を洗練されたものにするアイデアを提供します。 [詳細情報](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/microsoft-editor-gets-an-upgrade)の詳細情報をご覧ください
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -1836,9 +1877,9 @@ ms.locfileid: "52278064"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **SVG クリップボードのサポート:** Office からサードパーティのアプリに SVG コンテンツを貼り付けることができるようになりました。 [詳細情報](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />[ブログの投稿](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)の詳細情報をご覧ください
+- **SVG クリップボードのサポート:** Office からサードパーティのアプリに SVG コンテンツを貼り付けることができるようになりました。 [詳細情報](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/svg-content-office-third-party-apps)の詳細情報をご覧ください
 
-- **透過背景の GIF を作成する**: アニメーション GIF にエクスポートする場合、新しいオプションを使用して背景を透明にすることができます。<br />[ブログ記事](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)の詳細情報をご覧ください
+- **透過背景の GIF を作成する**: アニメーション GIF にエクスポートする場合、新しいオプションを使用して背景を透明にすることができます。<br />[ブログ記事](https://insider.office.com/ja-JP/blog/export-animated-gifs-transparent-backgrounds)の詳細情報をご覧ください
 
 - **アニメーション GIF を範囲内でエクスポートする**: アニメーション GIF にエクスポートするときにスライドの範囲を選択します
 
@@ -1932,7 +1973,7 @@ ms.locfileid: "52278064"
 ### <a name="feature-updates"></a>機能の更新プログラム
 ### <a name="outlook"></a>Outlook
 
-- **メッセージの作成にかかる時間を節約:** Outlook は、メッセージをすばやく作成するのに役立つ提案を作成することを示します。 提案を受け入れるには、Tab キーを使用するだけです。<br />[ブログ記事](https://insider.office.com/en-us/blog/text-predictions-in-word-outlook)の詳細情報をご覧ください
+- **メッセージの作成にかかる時間を節約:** Outlook は、メッセージをすばやく作成するのに役立つ提案を作成することを示します。 提案を受け入れるには、Tab キーを使用するだけです。<br />[ブログ記事](https://insider.office.com/ja-JP/blog/text-predictions-in-word-outlook)の詳細情報をご覧ください
 
 - **組み込みの翻訳機能を使用して、言語の壁を取り除く:** 翻訳用のアドインは必要なくなりました。 メッセージを右クリックすると、特定の単語、語句、またはメッセージ全体を翻訳できます。 [詳細情報](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
 
@@ -2138,7 +2179,7 @@ ms.locfileid: "52278064"
 
 ### <a name="outlook"></a>Outlook
 
-- **文章校正による支援:** Outlook では、入力中に文章校正のエラーが表示されます。シングル クリックで候補を適用できます。 <br />[ブログの投稿](https://insider.office.com/en-us/blog/grammar-and-style-suggestions-available-in-outlook)の詳細情報をご覧ください
+- **文章校正による支援:** Outlook では、入力中に文章校正のエラーが表示されます。シングル クリックで候補を適用できます。 <br />[ブログの投稿](https://insider.office.com/ja-JP/blog/grammar-and-style-suggestions-available-in-outlook)の詳細情報をご覧ください
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
@@ -2202,7 +2243,7 @@ ms.locfileid: "52278064"
 
 ### <a name="excel"></a>Excel
 
-- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
+- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
 
 - **Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。 [ファイル] > [オプション] に移動し、[Office テーマ] の横の [システム設定を使用する] を選択します。 [詳細情報](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -2214,13 +2255,13 @@ ms.locfileid: "52278064"
 
 - **メッセージの所有者として会話を削除する:** この機能を使用すると、メッセージの所有者による会話を削除できます。
 
-- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
+- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
 
 - **Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。 [ファイル] > [オプション] に移動し、[Office テーマ] の横の [システム設定を使用する] を選択します。 [詳細情報](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
+- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
 
 - **Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。 [ファイル] > [オプション] に移動し、[Office テーマ] の横の [システム設定を使用する] を選択します。 [詳細情報](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -2238,7 +2279,7 @@ ms.locfileid: "52278064"
 
 ### <a name="word"></a>Word
 
-- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
+- **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
 
 - **Office テーマを自動的に切り替える:** Office では、Windows 10 のテーマの設定に合わせてテーマを自動的に切り替えることができます。 [ファイル] > [オプション] に移動し、[Office テーマ] の横の [システム設定を使用する] を選択します。 [詳細情報](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
