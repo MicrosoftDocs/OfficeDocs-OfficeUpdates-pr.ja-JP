@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Microsoft 365 Apps サブスクライバー向け Office for Mac のリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: feae6e5fbc6d3fd9d969eb0ccea108f9b62b7717
-ms.sourcegitcommit: c6eee117bae153c1f79ba9ecb419bfab372991bc
+ms.openlocfilehash: b3ed9dd7482dbb0e08fda7611727f7fedbf71c09
+ms.sourcegitcommit: 555e92127b0922cf09d5c2cc1dba836336bcbf5b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52091846"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52330514"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac のリリース ノート
 
@@ -57,6 +57,58 @@ Microsoft 365 サブスクリプションに付属する Office for Mac は、�
 
 
 
+
+
+
+## <a name="may-11-2021"></a>2021 年 5 月 11 日
+*バージョン 16.49 (ビルド 21050901)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="apex-shared"></a>共有された頂点
+
+- **Mac で Office のスタート画面を最新の外観に更新:** Fluent Toolkit を使用して Big Sur の Apple の新しいデザイン言語に合わせた最新の外観です。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/visual-updates-to-start-experience-in-office-for-mac)の詳細情報をご覧ください
+
+### <a name="excel"></a>Excel
+
+- **リンクされたデータの種類: リアルな生活のリアルなデータ:** 新しいリンクされたデータの種類は、数百のテーマに関する事実やデータを提供し、Excel 上での目標の達成をサポートします。 [詳細情報](https://support.office.com/article/973d28d9-c51d-4dde-83be-898ecdf3efab)
+
+### <a name="outlook"></a>Outlook
+
+- **共有メールボックスを開いて委任を設定する:** 新しい Outlook for Mac で委任シナリオを設定し、共有メールボックスを開くことができるようになりました
+
+- **エディターは、1 回のクリックで候補の書き込みを提供します。** スペル チェック、文章校正、その他のインテリジェントな文章の修正候補を右クリック 1 回で取得します (Alt + ↓)。 左クリックすると、新しいカード デザインが表示され、他のオプションの [辞書に追加]、[コンテキストを表示]、[類義語] などのオプションが表示されます。 [詳細情報](https://support.office.com/article/c6b1283d-81a2-47f1-bc85-9e8dfc0cbf15)
+
+- **音声コマンドでメッセージをディクテーションする:** 新しいディクテーション ツール バー、音声コマンド、および自動句読点の機能により、音声で素早く簡単にメッセージの作成が行えます。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog)の詳細情報をご覧ください
+
+### <a name="teams"></a>Teams
+
+- **MAC ユーザー向け AI ベースのノイズ抑制:** Teams の会議や通話でマイクをオンにすると、紙のすれる音やドアを閉める音、犬の吠え声などといったバックグラウンド ノイズによって、他のユーザーの気が散ってしまう可能性があります。 Teams には、会議の参加者が集中できるように 4 つのレベルのノイズ抑制 (自動、低、高、オフ) が用意されています。この機能は、M1 ARM プロセッサを搭載した新しい MAC を搭載しているユーザーを除いたすべての MAC ユーザーが使用できます。
+
+- **GCC の Teams 会議でのライブ キャプションとライブ トランスクリプトのスピーカー属性:** GCC クラウドの Teams 会議では、発話者にライブ キャプションが属性付けされます。
+
+- **チャットでの返信:** チャットで特定のメッセージに返信する機能。
+
+- **Microsoft Teams でアプリをカスタマイズする:** アプリのカスタマイズ機能を使用すると、開発者は自分の Teams アプリの特定のプロパティをカスタマイズ可能にでき、IT 管理者は Teams 管理センターでそれらのプロパティを再ブランド化できます。 たとえば、IT 管理者は、組織固有のニーズに合わせて、ServiceNow から Now Virtual Agent アプリの名前、説明、アイコンをカスタマイズできます。
+
+- **Teams の M365 プロファイル カード:** Teams で他のユーザーの名前または画像を選択すると、プロファイル カードが開き、役職、連絡先情報、マネージャーなどといったそのユーザーに関連する情報が表示されます。プロファイル カードは、連絡先カードまたは人物カードとも呼ばれる場合があります。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+
+[//]: # (セキュリティの詳細コンテンツを削除しないでください。開始)
+
+
+### <a name="security-updates"></a>セキュリティ更新プログラム
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-31177](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2021-31177)
+
+[//]: # (セキュリティの詳細コンテンツを削除しないでください。終了)
 
 ## <a name="april-13-2021"></a>2021年 4 月 13 日
 *バージョン 16.48 (ビルド 21041102)*
@@ -1070,7 +1122,7 @@ Microsoft 365 サブスクリプションに付属する Office for Mac は、�
 |Word  <br/>| **iPhone から直接 Word へ:** Apple Continuity Camera を使用して、写真を iPhone から文書へ挿入します。macOS Mojave が必要です。[詳細情報](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> **ドキュメントに機密ラベルを適用する:** ドキュメントに機密ラベルを適用すると、ドキュメントは組織の情報保護ポリシーに準拠したものになります。[詳細情報](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**フィルターが適用された SVG を挿入する機能:** Office ユーザーは、フィルターが適用された SVG を挿入できるようになりました。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>| [CVE-2019-0561](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2019-0561): Microsoft Word の情報漏えいの脆弱性  <br/><br/> [CVE-2019-0585](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2019-0585): Microsoft Word のリモート コード実行の脆弱性 |[Word の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011500_Updater.pkg) <br/>|
 |Excel  <br/>| **コメントを利用して共同作業を行う:** 返信ボックスが組み込まれているので、スプレッドシートで直接会話を続けることができます。[詳細情報](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)<br/><br/> **ワークシートに機密ラベルを適用する:** ワークシートに機密ラベルを適用すると、ワークシートは組織の情報保護ポリシーに準拠したものになります。[詳細情報](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**フィルターが適用された SVG を挿入する機能:** Office ユーザーは、フィルターが適用された SVG を挿入できるようになりました。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**SVG のサポート:** ブックに SVG を挿入して編集し、視覚的な効果を加えます。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**ヒストグラム、ウォーターフォール、ツリーマップ、サンバースト、じょうご、マップ グラフの書式オプションが増えました:** [書式] ウィンドウを使用して、新しい種類のグラフの書式設定オプションを詳細にコントロールできます。|[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.21.19011500_Updater.pkg) <br/>|
 |PowerPoint  <br/>| **配布資料にスライド番号を印刷する:** プレゼンテーションを配布資料として印刷すると、各スライドにスライド番号が表示されます。 <br/><br/> **プレゼンテーションに機密ラベルを適用する:** プレゼンテーションに機密ラベルを適用すると、プレゼンテーションは組織の情報保護ポリシーに準拠したものになります。[詳細情報](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**フィルターが適用された SVG を挿入する機能:** Office ユーザーは、フィルターが適用された SVG を挿入できるようになりました。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**フォントのサブセットを埋め込む:** プレゼンテーションで使用する文字のみを埋め込めます。  [詳細情報](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3)|[PowerPoint の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.21.19011500_Updater.pkg) <br/>|
-|Outlook  <br/>| **メッセージに機密ラベルを適用する:** メッセージに機密ラベルを適用すると、メッセージは組織の情報保護ポリシーに準拠したものになります。[詳細情報](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**フィルターが適用された SVG を挿入する機能:** Office ユーザーは、フィルターが適用された SVG を挿入できるようになりました。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**[現在のメー ボックス] でメールをすばやく見つける:** 検索ボックスを選択すると、最近の検索履歴に基づいたクイック候補が表示されます。 入力する必要はありません。 [詳細情報](https://support.office.com/article/53b60f65-25b7-4582-9c5e-4adf16e503a1)<br/><br/>**Gmail アカウントの追加が簡単になりました:** セキュリティが向上したため、Gmail アカウントを Outlook に追加するのに「安全性の低いアプリ」のアクセスを許可したり、アプリのパスワードを設定したりする必要がなくなりました。<br/><br/>**Outlook for Mac で検索用語が強調表示されるようになりました:** 何かを検索する際に、Outlook のアイテム一覧やプレビュー ウィンドウで検索語句が強調表示されれば便利だろうと感じたことはありませんか? この機能が追加されました。||[Outlook の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011500_Updater.pkg) <br/>|
+|Outlook  <br/>| **メッセージに機密ラベルを適用する:** メッセージに機密ラベルを適用すると、メッセージは組織の情報保護ポリシーに準拠したものになります。[詳細情報](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**フィルターが適用された SVG を挿入する機能:** Office ユーザーは、フィルターが適用された SVG を挿入できるようになりました。[詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**[現在のメー ボックス] でメールをすばやく見つける:** 検索ボックスを選択すると、最近の検索履歴に基づいたクイック候補が表示されます。 入力する必要はありません。 [詳細情報](https://support.office.com/article/53b60f65-25b7-4582-9c5e-4adf16e503a1)<br/><br/>**Gmail アカウントの追加が簡単になりました:** セキュリティが向上したため、Gmail アカウントを Outlook に追加するのに「安全性の低いアプリ」のアクセスを許可したり、アプリのパスワードを設定したりする必要がなくなりました。<br/><br/>**Outlook for Mac で検索用語が強調表示されるようになりました:** 何かを検索する際に、Outlook のアイテム一覧やプレビュー ウィンドウで検索語句が強調表示されれば便利だろうと感じたことはありませんか? これが、ついに実現しました。||[Outlook の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011500_Updater.pkg) <br/>|
 |Microsoft Auto Update 4.7 <br/>| インストール処理の一環として自動更新デーモンが追加されました。これにより、これまでユーザーに表示されていた、わかりにくいセキュリティ ダイアログ ボックスが廃止されます。 <br/><br/> Microsoft AutoUpdate のセキュリティ機能が強化され、SHA256 証明書がサポートされるようになりました。 <br/>|<br/> | [Microsoft AutoUpdate 更新パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
 
 > [!NOTE]

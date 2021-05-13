@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の月次エンタープライズ チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 45717c3a57ea169f7c243f0db1a318f3f5aeebe7
-ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
+ms.openlocfilehash: 97275c74ed91f91cd6a307cb87bbdc83ffcdf49e
+ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52278044"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52322327"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>月次エンタープライズ チャネルのリリース ノート
 
@@ -24,6 +24,179 @@ ms.locfileid: "52278044"
 [//]: # (削除しないでください)
 
 
+
+## <a name="version-2103-may-11"></a>バージョン 2103: 5 月 11 日
+*バージョン 2103 (ビルド 13901.20516)*
+
+セキュリティ更新プログラムの一覧は[こちら](microsoft365-apps-security-updates.md)
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="excel"></a>Excel
+
+- **新しいデータ型を自動的に使用する :** 可能性のある株式や地理的な場所に似たデータ値を入力すると、Excel は、関連付けられた該当する株価や地理といったデータ型に変換することを提案します。 [詳細情報](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
+
+- **リンクされたデータの種類: リアルな生活のリアルなデータ:** 新しいリンクされたデータの種類は、数百のテーマに関する事実やデータを提供し、Excel 上での目標の達成をサポートします。
+
+### <a name="outlook"></a>Outlook
+
+- **組み込みの翻訳機能を使用して、言語の壁を取り除く:** 翻訳用のアドインは必要なくなりました。 これで、Outlook で Intelligent Translator を使用できます。 別の言語のメールを受信した場合、Outlook でそのメールを既定の言語に翻訳するかどうかを確認するメッセージが、メッセージ上部に表示されます。
+また、右クリックすると、特定の単語、語句、またはメッセージ全体を翻訳できます。 [詳細情報](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
+
+### <a name="visio"></a>Visio
+
+- **図に適した既製のグラフィック:** アイコン、株の写真画像、ユーザーの切り抜き、ステッカーの大きなライブラリから選び、Visio 図面に追加できます。 [詳細情報](https://support.office.com/article/0ab844a5-289b-47f2-ba92-eeda168bc381)<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/access-illustrations-icons-in-visio)の詳細情報をご覧ください
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="access"></a>Access
+
+- 外部アプリケーションがアクセシビリティ インターフェイスを要求した場合、そのインターフェイスが参照を解放するまでシャットダウンできない問題を修正しました。
+
+
+- SQL Server パススルー クエリを実行すると、"無効なカーソル状態" があったことを示すエラー メッセージが表示されることがある問題がこの変更により修正されます。
+
+
+### <a name="excel"></a>Excel
+
+- アドインを使用するときに、一部の言語で日付の書式が正しく表示されないという問題を修正しました。
+
+
+- 一部のユーザーで分析ツール パックのアドインが機能しない問題が修正されました。
+
+
+- 画像を描画するときの Word の潜在的なハングが修正されました。
+
+
+### <a name="outlook"></a>Outlook
+
+- 別のユーザーに代わって送信し、グローバル アドレス一覧ではないアドレス ブックに対して解決すると、名前解決が失敗する問題を修正しました。
+
+
+- Outlook が OWA で構成された優先受信トレイの設定を上書きする問題を修正しました。
+
+
+- 一部のユーザーがセカンダリ メール アカウントに関連付けられた署名にアクセスできなくなる問題を修正しました。
+
+
+- ユーザーに予想よりも多くの署名が表示される問題を修正しました。
+
+
+- 一部のユーザーがナビゲーション ウィンドウで予定表のプライマリとセカンダリ カレンダーの切り替え場所を表示する原因となる問題が修正されました。
+
+
+- 予定表を追加すると、ユーザーに "これにはしばらく時間がかかる場合があります" というメッセージが誤って表示される問題が修正されました。
+
+
+- 新しく追加した予定表で作成された会議の開催者として代理人が表示される問題を修正しました。  この状態の会議は、プリンシパルの予定表に表示されません。
+
+
+- ARM プロセッサを搭載したコンピューター上の MAPI 対応アプリケーションで使用される Outlook のコンポーネントに関する問題を修正しました。 この問題により、バックグラウンド アプリが何度も再起動するため、検索に失敗したり、コンピューターに余計な負荷をかけたりする可能性があります。
+
+
+- フォルダー階層の変更を同期するときに、Outlook が予期せず終了するという一部のユーザーの問題が修正されました。
+
+
+- 画像を描画するときの Word の潜在的なハングが修正されました。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- リンクされた図に関する問題を修正しました。
+
+
+- 画像を描画するときの Word の潜在的なハングが修正されました。
+
+
+### <a name="project"></a>Project
+
+- 終了時に Visio が動作を停止する問題を修正しました。
+
+
+### <a name="visio"></a>Visio
+
+- 終了時に Visio が動作を停止する問題を修正しました。
+
+
+### <a name="word"></a>Word
+
+- 提供されるテキスト予測の条件を最適化する問題が修正されました。
+
+
+- ローカルに保存されたファイルの自動保存の吹き出しのテキストを更新される問題が修正されました。
+
+
+- ドキュメントの共同編集時に、コメント順序が変更されてもアクティブな下書きがクリアされない問題が修正されました。
+
+
+- 印刷プレビューが予期せず閉じるという問題が修正されました。
+
+
+- 画像を描画するときの Word の潜在的なハングが修正されました。
+
+
+
+### <a name="office-suite"></a>Office スイート
+
+- セッション 0 で実行されている Office アプリのサポートに関連する信頼性の問題を修正します。
+
+
+- SyncBacked ファイルをオフラインで開いた後、ファイルを保存する前にアプリ内でファイル名を変更すると、名前の変更が応答しないという問題が修正されました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2102-may-11"></a>バージョン 2102: 5 月 11 日
+*バージョン 2102 (ビルド 13801.20638)*
+
+セキュリティ更新プログラムの一覧は[こちら](microsoft365-apps-security-updates.md)
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- アドインを使用するときに、一部の言語で日付の書式が正しく表示されないという問題を修正しました。
+
+
+- 保護されたシートに数式として貼り付けることができない問題を修正しました。
+
+
+### <a name="outlook"></a>Outlook
+
+- これにより、エンド ユーザーは、作成するすべての会議にオンライン会議を追加するように Outlook を構成できます。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- リンクされた図に関する問題を修正しました。
+
+
+### <a name="word"></a>Word
+
+- リンクの 2084 番目の文字がエスケープ文字である場合に、他のユーザーがアイテムを送信できないという Wordmail の問題を修正します。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- 長い文書の印刷中に Word が予期せず終了する原因になる問題を修正しました。
+
+
+- この変更前は、GPO でテンプレートを無効にした場合でも、Office テンプレートが表示されました。 この変更により、テンプレートは GPO を正しく適用し、要求に応じて表示/非表示されるようになりました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2102-april-13"></a>バージョン 2102: 4 月 13 日
 *バージョン 2102 (ビルド 13801.20506)*
@@ -289,7 +462,7 @@ ms.locfileid: "52278044"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **SVG クリップボードのサポート:** Office からサードパーティのアプリに SVG コンテンツを貼り付けることができるようになりました。 [詳細情報](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />[ブログの投稿](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)の詳細情報をご覧ください
+- **SVG クリップボードのサポート:** Office からサードパーティのアプリに SVG コンテンツを貼り付けることができるようになりました。 [詳細情報](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/svg-content-office-third-party-apps)の詳細情報をご覧ください
 
 - **秘密度ラベル監査ログ:** ユーザーが、ドキュメントやメールで秘密度ラベルを適用、変更、削除すると、管理者は、その情報を Microsoft 365 監査ログで使用できるようになります。
 
@@ -538,6 +711,7 @@ ms.locfileid: "52278044"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13901.20516|version-2103-may-11|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13801.20506|version-2102-april-13|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13628.20528|version-2101-march-09|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13530.20528|version-2012-february-09|)
@@ -547,5 +721,4 @@ ms.locfileid: "52278044"
 [//]: # (|Win32|MEC|Production|Feature|16.0.13127.20638|version-2008-october-13|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13029.20534|version-2007-september-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13001.20520|version-2006-august-11|)
-[//]: # (|Win32|MEC|生産|機能|16.0.12827.20538|バージョン-2005-7 月-14|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)
