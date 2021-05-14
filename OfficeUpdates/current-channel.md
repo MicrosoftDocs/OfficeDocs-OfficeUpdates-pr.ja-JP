@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の月次チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: c80fc6be7ba427eb11cc1e141d44e12ed30cdb2c
-ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
+ms.openlocfilehash: b13e3ebfee9edcaaa0e703180fa734cc8efb2f8e
+ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52277914"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52322447"
 ---
 # <a name="release-notes-for-current-channel"></a>現在のチャネルのリリース ノート
 
@@ -29,6 +29,55 @@ ms.locfileid: "52277914"
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2104-may-11"></a>バージョン 2104: 5 月 11 日
+*バージョン 2104 (ビルド 13929.20372)*
+
+セキュリティ更新プログラムの一覧は[こちら](microsoft365-apps-security-updates.md)
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- メジャー バージョン ビルドのロールバックを行うと、ファイルを開くときにクラッシュするおそれがある問題の修正。
+
+
+- 一部のユーザーで分析ツール パックのアドインが機能しない問題が修正されました。
+
+
+- アドインを使用するときに、一部の言語で日付の書式が正しく表示されないという問題を修正しました。
+
+
+### <a name="outlook"></a>Outlook
+
+- 予定表共有の改善機能を使用している一部のユーザーが、ナビゲーション ウィンドウで予定表を操作する際に問題が発生するという問題を修正しました。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- メジャー バージョン ビルドのロールバックを行うと、ファイルを開くときにクラッシュするおそれがある問題の修正。
+
+
+- 少数のユーザーが [スライドの再利用] オプションを利用できない問題が修正されました。
+
+
+### <a name="word"></a>Word
+
+- メジャー バージョン ビルドのロールバックを行うと、ファイルを開くときにクラッシュするおそれがある問題の修正。
+
+
+- ユーザーのログオフまたはコンピューターの再起動でシャットダウンするときに、Word が予期せずに終了してしまうおそれがあるという問題を修正しました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- この変更により、Cobalt の応答の際に送信される新しい TenantId 属性が解析されて、Central Table に格納されます。
 
 
 
@@ -746,6 +795,7 @@ ms.locfileid: "52277914"
 > Office の使用で問題がある場合は、[Microsoft の回答フォーラム](https://answers.microsoft.com/)に関するページまたは「[Microsoft Tech Community](https://techcommunity.microsoft.com/)」に質問を投稿するか、[サポート](https://support.microsoft.com/contactus)に問い合わせてサポートを受けることができます。
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|CC|Production| |16.0.13929.20372|version-2104-may-11|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20296|version-2104-april-29|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20462|version-2103-april-23|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20400|version-2103-april-13|)
@@ -755,5 +805,4 @@ ms.locfileid: "52277914"
 [//]: # (|Win32|CC|Production| |16.0.13801.20294|version-2102-march-09|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20266|version-2102-march-01|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20448|version-2101-january-16|)
-[//]: # (|Win32|CC|Production| |16.0.13628.20380|version-2101-february-09|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)

@@ -9,25 +9,30 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: IT プロフェッショナルに、Office 展開ツール (ODT) のリリース履歴を提供します
-ms.openlocfilehash: 8e2387e11eb7327d0fe2148f2fe43633aad8c725
-ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
+ms.openlocfilehash: 16814bd8ef3b67f3ff4bab2f60627fbb65a37e03
+ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51748955"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52322467"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Office 展開ツールのリリース履歴
 
 Office 展開ツール (ODT) はコマンドライン ツールです。これを使用すると、Microsoft 365 アプリなどのクイック実行バージョンの Office をクライアント コンピューターにダウンロードして展開することができます。 
 
 
-ODT により、Office インストール環境をより詳細に制御できるようになります。 具体的には、インストールする製品や言語の種類、それらの製品の更新方法、インストール操作をユーザーに表示するかどうかを制御できます。 ODT の使用方法については、[Office 展開ツールの概要](/deployoffice/overview-of-the-office-2016-deployment-tool)を参照してください。
+ODT により、Office のインストールをより詳細に制御できるようになります。つまり、インストールする製品や言語の種類、それらの製品の更新方法、インストール操作をユーザーに表示するかどうかを制御できます。ODT の使用方法の詳細については、「[Office 展開ツールの概要](/deployoffice/overview-of-the-office-2016-deployment-tool)」を参照してください。
 
  **サポートされているオペレーティング システム**: Windows 10、Windows 8.1、Windows Server 2019、Windows Server 2016 
  
  **インストール方法**: 自己解凍実行ファイルをダウンロードして実行します。このファイルには、Office 展開ツールの実行可能ファイル (setup.exe) およびサンプル構成ファイル (configuration.xml) が含まれています。 
 
 [Office 展開ツールのダウンロード](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+## <a name="may-10-2021"></a>2021 年 5 月 10 日
+バージョン 16.0.13929.20296 (setup.exe バージョン 16.0.13929.20238)
+- 構成ファイルに MigrateArch と RemoveMSI の両方が含まれている場合に /configure モードが失敗するおそれがあるという問題が修正されました
+- 信頼性のさらなる向上
 
 ## <a name="april-13-2021"></a>2021年 4 月 13 日
 バージョン 16.0.13901.20336 (setup.exe バージョン 16.0.13901.20328)

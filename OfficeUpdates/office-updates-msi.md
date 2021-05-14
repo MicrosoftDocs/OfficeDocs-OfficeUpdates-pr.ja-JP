@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 永続的なバージョンの Office 2016、Office 2013、Office 2010 の最新の更新プログラムの情報へのリンクを IT 技術者に提供します
-ms.openlocfilehash: 12a6b6d73decddbb9df5769b2961d4a3257857d4
-ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
+ms.openlocfilehash: 675e2e7f547475bd9fae4b6800151b92f22a007f
+ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51748975"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52322387"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Windows インストーラー (MSI) を使用しているバージョンの Office の最新の更新プログラム
 
@@ -31,13 +31,13 @@ ms.locfileid: "51748975"
 
 |**バージョンと製品**|**最新の Service Pack (SP)**|**最新のパブリック更新プログラム (PU)**|
 |:-----|:-----|:-----|
-|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |該当なし  <br/> |2021 年 4 月 PU  <br/> [KB5001778](https://support.microsoft.com/help/5001778) <br/> |
+|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |該当なし  <br/> |2021 年 5 月 PU  <br/> [KB5003427](https://support.microsoft.com/help/5003427) <br/> |
 
 ## <a name="office-2013-updates"></a>Office 2013 の更新プログラム
 
 |**バージョンと製品**|**最新の Service Pack (SP)**|**最新のパブリック更新プログラム (PU)**|
 |:-----|:-----|:-----|
-|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |2021 年 4 月 PU  <br/> [KB5001778](https://support.microsoft.com/help/5001778) <br/> |
+|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |2021 年 5 月 PU  <br/> [KB5003427](https://support.microsoft.com/help/5003427) <br/> |
    
 ## <a name="office-2010-updates"></a>Office 2010 の更新プログラム
 > [!IMPORTANT]
@@ -50,6 +50,8 @@ ms.locfileid: "51748975"
 
    
 ## <a name="updates-released-in-past-12-months"></a>過去 12 か月にリリースされた更新プログラム
+
+[2021 年 5 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB5003427](https://support.microsoft.com/help/5003427)
 
 [2021 年 4 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB5001778](https://support.microsoft.com/help/5001778)
 
@@ -73,7 +75,6 @@ ms.locfileid: "51748975"
 
 [2020 年 6 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB4559448](https://support.microsoft.com/help/4559448)
 
-[2020 年 5 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB4549680](https://support.microsoft.com/help/4549680)
 
 
 

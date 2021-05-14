@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Windows 7 用の Microsoft 365 アプリの更新履歴に関するリリース ノートを提供
-ms.openlocfilehash: 2def2d0901a5c1759c39e4f366b5bb16669a5132
-ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
+ms.openlocfilehash: cf4273fa79e76c1861a83a552c45afd3026380cf
+ms.sourcegitcommit: 555e92127b0922cf09d5c2cc1dba836336bcbf5b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749135"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52330454"
 ---
 # <a name="update-history-for-microsoft-365-apps-on-windows-7"></a>Windows 7 用の Microsoft 365 アプリの更新履歴 
 
@@ -26,7 +26,7 @@ ms.locfileid: "51749135"
 
 バージョン 2002 は、Windows 7 を実行しているデバイスで使用できる Microsoft 365 アプリの最後のバージョンです。 バージョン 2002 は、Microsoft 365 Apps のすべての更新チャネルで利用できます。
 
-半期エンタープライズ チャネルのバージョンは、通常 14 か月間のみ利用できます。 ただし、バージョン 2002 の場合は、Windows 7 の拡張セキュリティ更新プログラム (ESU) を利用できる期間に合わせて、例外にしています。
+半期エンタープライズ チャネルのバージョンは、通常 14 か月間のみ利用可能です。ただし、バージョン 2002 の場合は、Windows 7 の拡張セキュリティ更新プログラム (ESU) を利用できる期間に合わせて、例外にしています。
 
 このバージョン 2002 の拡張可用性は、最新チャネルなどの他の更新プログラム チャネルにも適用されますが、Windows 7 を実行しているデバイスにのみ適用されます。
 
@@ -38,6 +38,9 @@ Microsoft Endpoint Configuration Manager を使用して更新を管理する場
 ## <a name="update-history"></a>更新履歴
 
 [//]: # (削除しないでください)
+
+**2021 年 5 月 11 日**<br/>
+バージョン 2002 (ビルド 12527.21912)<br/>
 
 **2021年 4 月 13 日**<br/>
 バージョン 2002 (ビルド 12527.21814)<br/>

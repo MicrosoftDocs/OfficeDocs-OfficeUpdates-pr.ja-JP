@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の半期チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 15a5b7073da11a3dc177027ca92385a47a999e38
-ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
+ms.openlocfilehash: a6fa2fbc2e872e099800a3ca1c8ec421d14fef3d
+ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52278104"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52322347"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>半期エンタープライズ チャネルのリリース ノート
 
@@ -23,6 +23,59 @@ ms.locfileid: "52278104"
 > [!NOTE]
 >
 >- 半期エンタープライズ チャネルのユーザーが Office ポータルから Microsoft 365 Apps をダウンロードして Windows 10 にインストールすると、既定で OneNote 2016 が含まれるようになります。
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2008-may-11"></a>バージョン 2008: 5 月 11 日
+*バージョン 2008 (ビルド 13127.21624)*
+
+セキュリティ更新プログラムの一覧は[こちら](microsoft365-apps-security-updates.md)
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- Excel の一部のオートメーション アドインの読み込みに失敗する問題が修正されました。
+
+
+- 保護されたシートに数式として貼り付けることができない問題を修正しました。
+
+
+- アクセシビリティのフォーカス追跡をオンにしてシートの切り替えやスクロールを行うときのパフォーマンスを改善する修正を行いました。
+
+
+- 手描き入力で Excel が応答しなくなる可能性がある問題を修正しました。
+
+
+### <a name="outlook"></a>Outlook
+
+- デジタル署名のオプションのチェックを外した後も、メールがデジタル署名されたものとして送信される問題を修正しました。
+
+
+### <a name="word"></a>Word
+
+- 一部のファイルを PDF としてエクスポートできないという問題が修正されました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2002-may-11"></a>バージョン 2002: 5 月 11 日
+*バージョン 2002 (ビルド 12527.21912)*
+
+セキュリティ更新プログラムの一覧は[こちら](microsoft365-apps-security-updates.md)
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- Excel の一部のオートメーション アドインの読み込みに失敗する問題が修正されました。
+
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
@@ -927,6 +980,7 @@ ms.locfileid: "52278104"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|DC|Production| |16.0.13127.21624|version-2008-may-11|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21506|version-2008-april-13|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21348|version-2008-march-09|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21216|version-2008-february-09|)
@@ -936,5 +990,4 @@ ms.locfileid: "52278104"
 [//]: # (|Win32|DC|Production| |16.0.12527.21236|version-2002-october-13|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21104|version-2002-september-08|)
 [//]: # (|Win32|DC|Production| |16.0.12527.20988|version-2002-august-11|)
-[//]: # (|Win32|DC|Production| |16.0.12527.20880|バージョン-2002-7 月-14|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)
