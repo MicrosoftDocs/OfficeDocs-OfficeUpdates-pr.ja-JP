@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに新機能、修正プログラム、または既知の問題の最新リストを提供します
-ms.openlocfilehash: 4cfb53d99f77d812805fd742cb93ca7c9440a0bb
-ms.sourcegitcommit: f82c2d42402aa11741482a0f2795caf55d1d000e
+ms.openlocfilehash: 4f88b65e310f4b5992638e6901b3f0ad3d4f6576
+ms.sourcegitcommit: 556c7532cd820796db244f0949205c75c013d9fc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "52285978"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "52470771"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 向けリリース ノートの最新チャネル (プレビュー)
 
@@ -28,6 +28,36 @@ ms.locfileid: "52285978"
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2105-may-12"></a>バージョン 2105: 5 月 12 日
+*バージョン 2105 (ビルド 14026.20164)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="teams"></a>Teams
+
+- **既定でファイルをデスクトップ (または) ブラウザー (または) Teams で開くためのユーザー設定:** ユーザーは、Teams で共有されている Office (Word、Excel、Power Point) ファイルを開く際に、既定の環境設定をブラウザー、デスクトップ、または Teams に対して設定できます。デスクトップ設定は、最新の Office クライアントがインストールされ、アクティブ化されている場合に選択できます。
+
+- **Teams 会議でのレポート機能と並べて表示モード:** コンテンツの横に表示され、より魅力的なプレゼンテーションと消費エクスペリエンスを実現できます。
+
+- **Teams ウェビナー機能の一般提供**: 会議に使用するのと同じ Teams アプリで、1,000 人まで参加できるウェビナーをスケジュールして開催しましょう。 ウェビナー機能は、登録ページの作成、登録者へのメール確認、出席者のビデオとオーディオのホスト管理、出席者の報告、投票、チャット、リアクションのようなインタラクティブな機能がサポートされます。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="word"></a>Word
+
+- スペル チェックと文章校正を行うキャンバスのコンテキスト カードにアイコン ボタンが表示されるが、それらのボタンにヒントが表示されない問題が修正されました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2105-may-07"></a>バージョン 2105: 5 月 7 日
 *バージョン 2105 (ビルド 14026.20138)*
@@ -3899,7 +3929,7 @@ ms.locfileid: "52285978"
 
 - マウスで X ボタンを使用しているときにクラッシュが生じる原因となっていた問題に対処しました。
 
-### <a name="project"></a>Project
+### <a name="project"></a>プロジェクト
 
 - フォーム ビュー内で先行処理/後続処理データが編集されると、余分の ProjectBeforeTaskChangeevent が発生します。
 
