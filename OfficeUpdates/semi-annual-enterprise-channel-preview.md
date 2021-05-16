@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2021 年の半期チャネル リリース (対象指定) のリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: e602a1e45b465ff40b034098a118ed75466c03f0
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+ms.openlocfilehash: 89c71d3aae644cf5d77a0568643a82175806a468
+ms.sourcegitcommit: 556c7532cd820796db244f0949205c75c013d9fc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322487"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "52470781"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>半期エンタープライズ チャネル (プレビュー) のリリース ノート
 
@@ -24,7 +24,7 @@ ms.locfileid: "52322487"
 ## <a name="version-2102-may-11"></a>バージョン 2102: 5 月 11 日
 *バージョン 2102 (ビルド 13801.20638)*
 
-セキュリティ更新プログラムの一覧は[こちら](microsoft365-apps-security-updates.md)
+セキュリティ更新プログラムのリストは次のとおりです: 「[Microsoft Office セキュリティ更新プログラムのリリース ノート](microsoft365-apps-security-updates.md)」
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -70,7 +70,7 @@ ms.locfileid: "52322487"
 ## <a name="version-2102-april-13"></a>バージョン 2102: 4 月 13 日
 *バージョン 2102 (ビルド 13801.20506)*
 
-セキュリティ更新プログラムの一覧は[こちら](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+セキュリティ更新プログラムのリストは次のとおりです: 「[Microsoft Office セキュリティ更新プログラムのリリース ノート](microsoft365-apps-security-updates.md)」
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -138,7 +138,7 @@ ms.locfileid: "52322487"
 ## <a name="version-2102-march-09"></a>バージョン 2102: 3 月 9 日
 *バージョン 2102 (ビルド 13801.20294)*
 
-セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
+セキュリティ更新プログラムのリストは次のとおりです: 「[Microsoft Office セキュリティ更新プログラムのリリース ノート](microsoft365-apps-security-updates.md)」
 
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
@@ -518,7 +518,7 @@ ms.locfileid: "52322487"
 ## <a name="version-2008-february-09"></a>バージョン 2008: 2 月 9 日
 *バージョン 2008 (ビルド 13127.21216)*
 
-セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
+セキュリティ更新プログラムのリストは次のとおりです: 「[Microsoft Office セキュリティ更新プログラムのリリース ノート](microsoft365-apps-security-updates.md)」
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
@@ -579,7 +579,7 @@ ms.locfileid: "52322487"
 ## <a name="version-2008-january-12"></a>バージョン 2008: 1 月 12 日
 *バージョン 2008 (ビルド 13127.21064)*
 
-セキュリティ更新プログラムの一覧は[こちら](./microsoft365-apps-security-updates.md)
+セキュリティ更新プログラムのリストは次のとおりです: 「[Microsoft Office セキュリティ更新プログラムのリリース ノート](microsoft365-apps-security-updates.md)」
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
