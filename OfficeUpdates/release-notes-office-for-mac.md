@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Microsoft 365 Apps サブスクライバー向け Office for Mac のリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: b3ed9dd7482dbb0e08fda7611727f7fedbf71c09
-ms.sourcegitcommit: 555e92127b0922cf09d5c2cc1dba836336bcbf5b
+ms.openlocfilehash: 84cf474575a5d5a4568b752336e9ea763f7af574
+ms.sourcegitcommit: 556c7532cd820796db244f0949205c75c013d9fc
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "52330514"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "52470761"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac のリリース ノート
 
@@ -84,7 +84,7 @@ Microsoft 365 サブスクリプションに付属する Office for Mac は、�
 
 ### <a name="teams"></a>Teams
 
-- **MAC ユーザー向け AI ベースのノイズ抑制:** Teams の会議や通話でマイクをオンにすると、紙のすれる音やドアを閉める音、犬の吠え声などといったバックグラウンド ノイズによって、他のユーザーの気が散ってしまう可能性があります。 Teams には、会議の参加者が集中できるように 4 つのレベルのノイズ抑制 (自動、低、高、オフ) が用意されています。この機能は、M1 ARM プロセッサを搭載した新しい MAC を搭載しているユーザーを除いたすべての MAC ユーザーが使用できます。
+- **Mac ユーザー向け AI ベースのノイズ抑制:** Teams の会議や通話でマイクをオンにすると、紙のすれる音やドアを閉める音、犬の吠え声などといったバックグラウンド ノイズによって、他のユーザーの気が散ってしまう可能性があります。 Teams には、会議の参加者が集中できるように 4 つのレベルのノイズ抑制 (自動、低、高、オフ) が用意されています。この機能は、Apple シリコンを搭載した新しい Mac を使用しているユーザーを除いたすべての Mac ユーザーが使用できます。
 
 - **GCC の Teams 会議でのライブ キャプションとライブ トランスクリプトのスピーカー属性:** GCC クラウドの Teams 会議では、発話者にライブ キャプションが属性付けされます。
 
