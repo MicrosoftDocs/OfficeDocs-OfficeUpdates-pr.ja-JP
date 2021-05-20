@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT プロフェッショナルに、Microsoft AutoUpdate (MAU) のリリース履歴を提供します
-ms.openlocfilehash: f2b3bd46a71708c9444265c5dbf33fbe3b9b5cb2
-ms.sourcegitcommit: cf8d286b8fb825e19d8730c011d53e98156b6646
+ms.openlocfilehash: 783ae03e77060c91a02e98e88e3d1570c1cdaf11
+ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51755409"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52563383"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) のリリース履歴
  
@@ -29,6 +29,25 @@ ms.locfileid: "51755409"
 > - Microsoft AutoUpdate は、Microsoft のさまざまな Mac 製品への更新プログラムを提供します。そのため、Office for Mac を実行していない場合でも、Microsoft AutoUpdate を更新する通知が表示される場合があります。
 
 リリース ノートを確認するには、「[リリース ノート](release-notes-office-for-mac.md)」を参照してください。<br/><br/>
+
+## <a name="may-2021-release"></a>2021 年 5 月リリース。
+
+**リリース日:** 2021 年 5 月 13 日
+
+*Microsoft AutoUpdate 4.35*
+
+**バグの修正と強化された機能:**
+- "更新プログラムは既に進行中です"のプロンプトが表示される原因である同時更新に関連する潜在的な問題に対処しました。
+- [スキップ] ダイアログが 2 回表示されるバグの修正。
+- 同じ更新プログラムに対して複数の通知を表示するバグの修正。
+- Microsoft AutoUpdate インストーラー/アップデータ パッケージのサイズの削減。
+- コマンド ライン インターフェイス (CLI) では現在Apple Events ではなく、ネイティブ xpc を使用して Microsoft Update Assistant と通信します。
+
+[Microsoft AutoUpdate 4.35 パッケージをダウンロードする](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.35.21050901_Updater.pkg)<br/>
+<br/>
+**SHA-256 ハッシュ:**
+
+1F6CAB8CCAF52743EFEEA908D0F26E2AE1A1F171C877F7B8057D00CDA7727733
 
 ## <a name="april-2021-release"></a>2021 年 4 月リリース。
 
@@ -219,7 +238,7 @@ E81CEADF900A0C7E7D593720D08146DBC1C55868D5B21C7E7A175AA36DFE0178
 - 4 月のリリースで導入された、自動更新をオフにしているユーザーに Microsoft AutoUpdate UI が週に 1 回だけ表示される機能が元に戻されました。
 - 更新プログラムをダウンロードした後、インストールを開始する前に、更新アシスタントが予期せず終了する問題が修正されました。
 - ユーザー通知の保留が長時間続いた後、更新アシスタントが終了しないという問題が修正されました。
-- インストール後に MAU UI が再度開いた (または再度開かなかった) 問題が修正されました。 MAU UI 自体から更新プログラムを開始した場合、またはユーザーが (Finder、Terminal などを経由して) 明示的に更新プログラムを開始した場合は、インストール後に UI が開きます。
+- インストール後に MAU UI が再び開いた（または開かなかった）問題を解決しまし。もし、更新プログラムが MAU UI 自体から始まるか、またはユーザーによって（ファインダー、ターミナル等で）明示的に始められた場合は、インストール後に開く必要があります。
 
 **SHA-256 ハッシュ:**
 
@@ -359,7 +378,7 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
  **機能の更新プログラム:**
 
 - 各メジャー更新の新機能は、Microsoft AutoUpdate ダッシュボードで表示できるようになりました。
-- Office 2019 更新プログラムの最小 OS 要件は、Catalina のリリースに伴い、macOS 10.13 に変更されました。 ユーザーは、最新の Office 更新プログラムにアップグレードするように通知されます。
+- Catalina のリリースにより、Office 2019 更新プログラムの最小 OS 要件が macOS 10.13 に変更されました。最新の Office 更新プログラムを入手してアップグレードするようユーザーに通知します。
 
 **SHA-256 ハッシュ:**
 
