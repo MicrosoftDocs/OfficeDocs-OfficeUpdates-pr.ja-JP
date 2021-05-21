@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: cf5a7d18a98c712a31e5741e7d8532020ec330f1
-ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
+ms.openlocfilehash: 289486b3abf7736825f15311524a1d87295ed78e
+ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52278004"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52563343"
 ---
 # <a name="release-notes-for-beta-channel"></a>ベータ チャネルのリリース ノート
 
@@ -30,6 +30,49 @@ ms.locfileid: "52278004"
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2106-may-14"></a>バージョン 2106: 5 月 14 日
+*バージョン 2106 (ビルド 14107.20000)*
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- 「ヘッダーのみダウンロード」モードで実行した場合に、ダウンロード後に操作可能なメッセージが常に更新されたり、ヘッダーに戻ったりする問題を修正しました。
+
+
+- Outlook で永久ライセンスをお持ちのユーザーに、ユーザー ピッカーを下方向ではなく上方向に拡大されてしまう問題を修正しました。
+
+
+- カスタム ドメインのユーザーがメール メッセージにリンクを貼り付ける場合に、アクセス許可に関する警告メッセージが表示される問題を修正しました。
+
+
+### <a name="word"></a>Word
+
+- ctrl + shift + @ のようなキーの組み合わせを押しても、期待したアクセント文字 (この場合は 'å') が表示されない問題を修正しました。
+
+
+- 画像圧縮に関する問題を修正しました。
+
+
+- メールの添付ファイルを Word 以外のアプリケーションにコピーする場合に、ファイル名に DBCS 文字が含まれていると失敗する問題を修正しました。
+
+
+- Word でテキストの周囲に本来ないはずの枠線が表示される場合がある問題を修正しました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- 実際には結合の競合がないのに、OneDrive が結合エラー メッセージを表示する問題を修正しました。
+
+
+- SVG オブジェクトを図形に変換したときの Z オーダーに関する問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2106-may-07"></a>バージョン 2106: 5 月 7 日
 *バージョン 2106 (ビルド14029.20000)*
@@ -3007,6 +3050,7 @@ ms.locfileid: "52278004"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14107.20000|version-2106-may-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14029.20000|version-2106-may-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14014.20002|version-2105-april-23|)
@@ -3016,5 +3060,4 @@ ms.locfileid: "52278004"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13919.20002|version-2104-march-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13913.20000|version-2104-march-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13906.20000|version-2104-march-12|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13901.20036|version-2103-march-05|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)

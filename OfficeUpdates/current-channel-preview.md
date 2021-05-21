@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに新機能、修正プログラム、または既知の問題の最新リストを提供します
-ms.openlocfilehash: 4f88b65e310f4b5992638e6901b3f0ad3d4f6576
-ms.sourcegitcommit: 556c7532cd820796db244f0949205c75c013d9fc
+ms.openlocfilehash: 82132e7f0862e2027fa518120341e530a2879aa5
+ms.sourcegitcommit: 11b24bf6e62e75f32ba8842e00fd146fe0d95959
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "52470771"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52574302"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 向けリリース ノートの最新チャネル (プレビュー)
 
@@ -28,6 +28,42 @@ ms.locfileid: "52470771"
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2105-may-19"></a>バージョン 2105: 5 月 19 日
+*バージョン 2105 (ビルド 14026.20202)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="teams"></a>Teams
+
+- **Dynamics 365 Marketing と統合し、リード育成を可能にする Teams ウェビナー**: この機能により、ウェビナーの主催者は、D365 マーケティングを活用して、イベント後の登録者とのエンゲージメントを向上させることができます。 参加者のエンゲージメント データは、D365 Marketing org と同期し、ユーザー体験の自動化を可能にしました
+
+- **インテリジェント スピーカー**: インテリジェント スピーカーは、Windows の Microsoft Teams Rooms のインテリジェントな周辺機器です。 ミーティングの参加者には話し手に起因する書き起こし文が提供されるので、出席者はメモを取る時間を減らして、ミーティングで誰がどんな発言をしているかを簡単にフォローできます。
+
+- **Teams クライアントを通した Teams ユーザーの Teams アプリ購入が可能**: Teams ユーザーは、Teams ストアから Teams アプリのサブスクリプションを購入できるようになりました。
+
+- **チーム テンプレートを使用したチームの作成**: Teams でテンプレートを使用すると、ユーザーは新しいチームを作成するときにさまざまなカスタマイズ可能なテンプレートから選択できるため、すばやく開始できます。 IT 管理者は、組織のカスタム テンプレートを作成して、チーム構造を標準化し、関連するアプリをプリインストールし、ベスト プラクティスを拡張することもできます。 IT 管理者は、Teams 管理センターでエンド ユーザーに表示するチーム テンプレートを選択できるほか、チーム テンプレート内の Web サイト タブに URL を追加することで、Web サイト タブを事前に設定することができます。
+
+- **Teams の PowerPoint Live でレーザーポインターとインク注釈を使用する**: 仮想レーザーポインターと注釈を導入することで、発表者は効果的にコンテンツを共有し、PowerPoint デッキの特定のセクションに注目させることで聴衆の関心を集めることができるようになります。 部屋の中で物理的なレーザーポイントを使用するのと同様に、PowerPoint Live ではさまざまな場所を効果的に指し示すことができ、聴衆はスライドの内容を簡単に追うことができます。
+
+- **1P チーム テンプレートを使用したPower Automate　フローの推奨**: 1P チーム テンプレートで Teams 向けに作成した Surface Power Automate フロー テンプレート
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- Office Perpetual 2021 プレビュー版を使用している場合に、フィードバック オプションが表示されない問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2105-may-12"></a>バージョン 2105: 5 月 12 日
 *バージョン 2105 (ビルド 14026.20164)*
@@ -3929,7 +3965,7 @@ ms.locfileid: "52470771"
 
 - マウスで X ボタンを使用しているときにクラッシュが生じる原因となっていた問題に対処しました。
 
-### <a name="project"></a>プロジェクト
+### <a name="project"></a>Project
 
 - フォーム ビュー内で先行処理/後続処理データが編集されると、余分の ProjectBeforeTaskChangeevent が発生します。
 
