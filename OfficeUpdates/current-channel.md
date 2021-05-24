@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の月次チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: b13e3ebfee9edcaaa0e703180fa734cc8efb2f8e
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+ms.openlocfilehash: 6caa57d57ded20a070ce8af5dc8725115081317a
+ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322447"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52563373"
 ---
 # <a name="release-notes-for-current-channel"></a>現在のチャネルのリリース ノート
 
@@ -29,6 +29,23 @@ ms.locfileid: "52322447"
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2104-may-18"></a>バージョン 2104: 5 月 18 日
+*バージョン 2104 (ビルド 13929.20386)*
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- Outlook で永久ライセンスをお持ちのユーザーにおいて、ユーザー ピッカーを下方向ではなく上方向に拡大されてしまうという問題を修正しました。
+
+
+- Office Perpetual 2021 プレビュー版を使用している場合に、フィードバック オプションの表示が失敗してしまうという問題を修正しました。
 
 
 
@@ -118,9 +135,6 @@ ms.locfileid: "52322447"
 
 ### <a name="resolved-issues"></a>解決済みの問題
 ### <a name="excel"></a>Excel
-
-- Excel の一部のオートメーション アドインを読み込むことができないという問題が修正されました。
-
 
 - 一部のファイルが保護されたビューで開かない可能性があるという問題を修正しました
 
@@ -795,6 +809,7 @@ ms.locfileid: "52322447"
 > Office の使用で問題がある場合は、[Microsoft の回答フォーラム](https://answers.microsoft.com/)に関するページまたは「[Microsoft Tech Community](https://techcommunity.microsoft.com/)」に質問を投稿するか、[サポート](https://support.microsoft.com/contactus)に問い合わせてサポートを受けることができます。
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|CC|Production| |16.0.13929.20386|version-2104-may-18|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20372|version-2104-may-11|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20296|version-2104-april-29|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20462|version-2103-april-23|)
@@ -804,5 +819,4 @@ ms.locfileid: "52322447"
 [//]: # (|Win32|CC|Production| |16.0.13801.20360|version-2102-march-18|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20294|version-2102-march-09|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20266|version-2102-march-01|)
-[//]: # (|Win32|CC|Production| |16.0.13628.20448|version-2101-january-16|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)
