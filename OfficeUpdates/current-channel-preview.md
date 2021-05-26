@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに新機能、修正プログラム、または既知の問題の最新リストを提供します
-ms.openlocfilehash: 82132e7f0862e2027fa518120341e530a2879aa5
-ms.sourcegitcommit: 11b24bf6e62e75f32ba8842e00fd146fe0d95959
+ms.openlocfilehash: 03e3b8b6d89cf5373c5243e79fb308edb668abf3
+ms.sourcegitcommit: 79c85ce398cdedeaac46ece812626eec0f05a61b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52574302"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52636531"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 向けリリース ノートの最新チャネル (プレビュー)
 
@@ -28,6 +28,55 @@ ms.locfileid: "52574302"
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2105-may-23"></a>バージョン 2105: 5月23日
+*バージョン 2105 (ビルド 14026.20246)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="teams"></a>Teams
+
+- **出席者にデータ ダッシュボード ビューを発表:** ついに手動でレポートをダウンロードする必要がなくなりました。Microsoft Teams では、集約されたすべてのデータを ワンクリックのダッシュボード ビューで表示することが可能になりました。
+
+- **アプリのセキュリティ、コンプライアンス、そしてデータ保護機能:** Microsoft 365 公式の Teams アプリの場合、管理者は、セキュリティ、コンプライアンスとデータ保護機能をTeams Admin Centerにおけるアプリの詳細ページにある新規タブ内で確認できます。 この透明性は、 Microsoft の顧客に対して、顧客の組織内で利用されるアプリケーションへの信頼をもたらします。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- スクリーン リーダー テクノロジによって、 "会議を短縮する" 機能に関わる命令についての不具合を修正しました。
+
+
+- 個人連絡先を表示する時に予期せず閉じる不具合を修正しました。
+
+
+- 保護されたシート上に値を数式としてペーストできない不具合を修正しました。
+
+    - レジストリキー：
+
+    > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+
+    > REG_DWORD “ShowLegacyRoomFinder” 0 </br>
+
+    > (既定) - ユーザーが [会議室の検索] ボタンをクリックして利用可能な会議室を検索する際、Outlook は会議室の新しい検索機能 “OWA Powered eXperience” を使用します。  </br>
+
+    > 1 - Outlook は従来の会議室検索ユーザーインタフェースを使用して、利用可能な会議室を検索します </br>
+
+
+### <a name="project"></a>Project
+
+- 手動で時刻設定したタスクの割り当てが不正な日付に移動する問題を修正しました。
+
+
+
+[//]: # (詳細バグ情報の終端を削除しないで下さい)
 
 ## <a name="version-2105-may-19"></a>バージョン 2105: 5 月 19 日
 *バージョン 2105 (ビルド 14026.20202)*
