@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2021 年の半期チャネル リリース (対象指定) のリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 89c71d3aae644cf5d77a0568643a82175806a468
-ms.sourcegitcommit: 556c7532cd820796db244f0949205c75c013d9fc
+ms.openlocfilehash: ca32e509ccce9a52e1efb67fe05275eb65a2b64e
+ms.sourcegitcommit: c615a8b353e967222e6a75121fa6aea3d673b28b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "52470781"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52625932"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>半期エンタープライズ チャネル (プレビュー) のリリース ノート
 
@@ -159,6 +159,9 @@ ms.locfileid: "52470781"
 - **Office に iPhone の写真を直接挿入する:** スマートフォンから HEIC 形式の写真をシームレスに Office へ挿入できます。 変換は必要ありません。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/insert-apple-photos-into-office-easily)の詳細情報をご覧ください
 
 - **Excel で洗練された Visio 図面を作成する:** ワークシートのデータからフローチャートや組織図などのデータ駆動型の図面を作成。 [詳細情報](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+
+- **XLM マクロのための AMSI と Office の統合:** AMSI は、アプリケーションが、インストールされているウイルス対策またはセキュリティ ソリューションによって、メモリ バッファーの同期スキャンの要求を実行するときに Windows 10 で使用可能なオープン インターフェイスです。 悪意のあるアクティビティが検出されると、Excel はユーザーに通知し、これ以上の損傷を防ぐために、アプリケーション セッションはシャットダウンされます。 これにより、攻撃を抑止することができ、デバイスとユーザーの両方を保護できます。 詳細は、[ブログの投稿](https://www.microsoft.com/security/blog/2021/03/03/xlm-amsi-new-runtime-defense-against-excel-4-0-macro-malware/) をご覧ください。
 
 ### <a name="outlook"></a>Outlook
 
