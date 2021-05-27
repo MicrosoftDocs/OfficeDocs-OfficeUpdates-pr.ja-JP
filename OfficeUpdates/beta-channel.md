@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 289486b3abf7736825f15311524a1d87295ed78e
-ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
+ms.openlocfilehash: 3a78919c5181015c88261bf66413d7f439a916cf
+ms.sourcegitcommit: c615a8b353e967222e6a75121fa6aea3d673b28b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52563343"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52625942"
 ---
 # <a name="release-notes-for-beta-channel"></a>ベータ チャネルのリリース ノート
 
@@ -30,6 +30,75 @@ ms.locfileid: "52563343"
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2106-may-21"></a>バージョン 2106: 5 月 21 日
+*バージョン 2106 (ビルド 14117.20000)*
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="outlook"></a>Outlook
+
+- **最後のサインイン/不審なサインイン:** Outlook では、アカウントに最後にサインインした場合と場所が通知され、不審なサインイン アクティビティが検出された場合は警告が表示されます
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- RealTimeData 関数が参照している場合に Dynamic Arrays がセル値を更新しないという問題を修正しました。
+
+
+- 大量のデータを入力すると、VLOOKUP および INDEX/MATCH のパフォーマンスに影響がでるという問題を修正しました。
+
+
+- ウィンドウ枠の固定の使用時に 2 本指でのスクロールする必要がある問題を修正しました。
+
+
+- 大型プリンターでの印刷時にメモリ不足になる問題を修正しました。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 読み取り専用モードの場合に、発表者のノート ウィンドウからコピーができないという問題を修正しました。
+
+
+### <a name="word"></a>Word
+
+- ユーザーが変更を破棄するように選択しても、[名前を付けて保存] のエラー メッセージが表示される問題を修正しました。
+
+
+- 最新のコメントに画像が投稿されなかった問題を修正しました。
+
+
+- [変更履歴] ウィンドウでスクロールができて、スクロールしているようなのに、選択したコメントが一致してないという問題を修正しました。
+
+
+- 新しく作成したコメントの外側をクリックしても、文書内の選択がクリアされないという問題を修正しました。
+
+
+- 選択してもコメントが強調表示されない問題を修正しました。
+
+
+- 編集の制限を適用していると、マクロ実行中に間違ったフィールドが更新される問題を修正しました。
+
+
+- ブックマークの破損で一部の Word ファイルを開くことができない問題を修正しました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- 別のアカウントでサインインするとクラッシュする問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2106-may-14"></a>バージョン 2106: 5 月 14 日
 *バージョン 2106 (ビルド 14107.20000)*
@@ -3050,6 +3119,7 @@ ms.locfileid: "52563343"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14117.20000|version-2106-may-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14107.20000|version-2106-may-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14029.20000|version-2106-may-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
@@ -3059,5 +3129,4 @@ ms.locfileid: "52563343"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13929.20016|version-2104-april-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13919.20002|version-2104-march-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13913.20000|version-2104-march-19|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13906.20000|version-2104-march-12|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Microsoft 365 Apps サブスクライバー向け Office for Mac のリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 067ef80e03b19a040c0af5463f18d6a4af5f8094
-ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
+ms.openlocfilehash: 6a4aebfb9755261ed25f486ef5c573b250aee2c0
+ms.sourcegitcommit: c615a8b353e967222e6a75121fa6aea3d673b28b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52563403"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52625952"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac のリリース ノート
 
@@ -66,10 +66,6 @@ Microsoft 365 サブスクリプションに付属する Office for Mac は、�
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
 
 ### <a name="feature-updates"></a>機能の更新プログラム
-### <a name="apex-shared"></a>共有された頂点
-
-- **Mac で Office のスタート画面を最新の外観に更新:** Fluent Toolkit を使用して Big Sur の Apple の新しいデザイン言語に合わせた最新の外観です。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/visual-updates-to-start-experience-in-office-for-mac)の詳細情報をご覧ください
-
 ### <a name="excel"></a>Excel
 
 - **リンクされたデータの種類: リアルな生活のリアルなデータ:** 新しいリンクされたデータの種類は、数百のテーマに関する事実やデータを提供し、Excel 上での目標の達成をサポートします。 [詳細情報](https://support.office.com/article/973d28d9-c51d-4dde-83be-898ecdf3efab)
@@ -97,6 +93,9 @@ Microsoft 365 サブスクリプションに付属する Office for Mac は、�
 
 - **Teams の M365 プロファイル カード:** Teams で他のユーザーの名前または画像を選択すると、プロファイル カードが開き、役職、連絡先情報、マネージャーなどといったそのユーザーに関連する情報が表示されます。プロファイル カードは、連絡先カードまたは人物カードとも呼ばれる場合があります。
 
+### <a name="office-suite"></a>Office スイート
+
+- **Mac で Office のスタート画面を最新の外観に更新:** Fluent Toolkit を使用して Big Sur の Apple の新しいデザイン言語に合わせた最新の外観です。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/visual-updates-to-start-experience-in-office-for-mac)の詳細情報をご覧ください
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
 
