@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに新機能、修正プログラム、または既知の問題の最新リストを提供します
-ms.openlocfilehash: 03e3b8b6d89cf5373c5243e79fb308edb668abf3
-ms.sourcegitcommit: 79c85ce398cdedeaac46ece812626eec0f05a61b
+ms.openlocfilehash: 38567a461e655f43701e9d68da85e3dff50c779d
+ms.sourcegitcommit: 6a11bb97b0dbc14d2cd6c68e9d5ae7bd3e1a576f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52636531"
+ms.lasthandoff: 05/26/2021
+ms.locfileid: "52662823"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 向けリリース ノートの最新チャネル (プレビュー)
 
@@ -57,17 +57,13 @@ ms.locfileid: "52636531"
 - 個人連絡先を表示する時に予期せず閉じる不具合を修正しました。
 
 
-- 保護されたシート上に値を数式としてペーストできない不具合を修正しました。
+- 新しい「会議室​​の検索」機能 (Outlook for Webと同じ機能) を無効にして、従来の「時間の候補」を含む「会議室​​の検索」機能を有効にするレジストリ キーを追加しました。
+    - レジストリ キー:
 
-    - レジストリキー：
-
-    > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
-
-    > REG_DWORD “ShowLegacyRoomFinder” 0 </br>
-
-    > (既定) - ユーザーが [会議室の検索] ボタンをクリックして利用可能な会議室を検索する際、Outlook は会議室の新しい検索機能 “OWA Powered eXperience” を使用します。  </br>
-
-    > 1 - Outlook は従来の会議室検索ユーザーインタフェースを使用して、利用可能な会議室を検索します </br>
+        > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+        > REG_DWORD “ShowLegacyRoomFinder”</br></br>
+        > 0 (既定) - ユーザーが [会議室の検索] ボタンをクリックして利用可能な会議室を検索する際、Outlook は会議室の新しい検索機能 “OWA Powered eXperience” を使用します  </br>
+        > 1 - Outlook は従来の会議室検索ユーザーインタフェースを使用して、利用可能な会議室を検索します </br>
 
 
 ### <a name="project"></a>Project

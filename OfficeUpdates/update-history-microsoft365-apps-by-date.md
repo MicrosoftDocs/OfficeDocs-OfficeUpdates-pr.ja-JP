@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: IT 担当者に、日付ごとに整理した Microsoft 365 Apps のリリースすべての一覧を、リリース ノートへのリンクを含めて提供します
-ms.openlocfilehash: 818e8a5f528dc4eeb71f39e8f03f5d580351daf8
-ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
+ms.openlocfilehash: 7b1cb91213cacf83f31a2ec890f9a63b44281d40
+ms.sourcegitcommit: 89ea204c9830b05f6a1681dee76502cfc8fa7db2
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52563393"
+ms.lasthandoff: 05/25/2021
+ms.locfileid: "52645184"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 Apps の更新履歴 (日付別の一覧)
 
@@ -33,7 +33,7 @@ ms.locfileid: "52563393"
 
 |**チャネル**|**バージョン**|**ビルド**|**リリース日**|**バージョンのサポート期限**|
 |:-----|:-----|:-----|:-----|:-----|
-|最新チャネル<br/>|2104<br/>|13929.20386<br/>|2021 年 5 月 18 日<br/>|バージョン 2105 がリリースされました<br/>|
+|最新チャネル<br/>|2105<br/>|14026.20246<br/>|2021 年 5 月 24 日<br/>|バージョン 2106 がリリースされました<br/>|
 |月次エンタープライズ チャネル<br/>|2103<br/>|13901.20516<br/>|2021 年 5 月 11 日<br/>|2021 年 7 月 13 日<br/>|
 |月次エンタープライズ チャネル<br/>|2102<br/>|13801.20638<br/>|2021 年 5 月 11 日<br/>|2021 年 6 月 8 日<br/>|
 |半期エンタープライズ チャネル (プレビュー)<br/>|2102<br/>|13801.20638<br/>|2021 年 5 月 11 日<br/>|2021 年 9 月 14 日<br/>|
@@ -52,6 +52,7 @@ ms.locfileid: "52563393"
 
 |**Year**|**リリース日**|**最新チャネル**|**月次エンタープライズ チャネル**|**半期エンタープライズ チャネル (プレビュー)**|**半期エンタープライズ チャネル**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2021|5 月 24 日|[バージョン 2105 (ビルド 14026.20246)](current-channel.md#version-2105-may-24)| | | |
 |2021|5 月 18 日|[バージョン 2104 (ビルド 13929.20386)](current-channel.md#version-2104-may-18)| | | |
 |2021|5 月 11 日|[バージョン 2104 (ビルド 13929.20372)](current-channel.md#version-2104-may-11)|[バージョン 2103 (ビルド 13901.20516)](monthly-enterprise-channel.md#version-2103-may-11)<br/>[バージョン 2102 (ビルド 13801.20638)](monthly-enterprise-channel.md#version-2102-may-11)|[バージョン 2102 (ビルド 13801.20638)](semi-annual-enterprise-channel-preview.md#version-2102-may-11)|[バージョン 2008 (ビルド 13127.21624)](semi-annual-enterprise-channel.md#version-2008-may-11)<br/>[バージョン 2002 (ビルド 12527.21912)](semi-annual-enterprise-channel.md#version-2002-may-11)|
 |2021|4 月 29 日|[バージョン 2104 ビルド 13929.20296)](current-channel.md#version-2104-april-29)| | | |
