@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 3a78919c5181015c88261bf66413d7f439a916cf
-ms.sourcegitcommit: c615a8b353e967222e6a75121fa6aea3d673b28b
+ms.openlocfilehash: 576d74fd51952ddcdd693095fe77f09e4fc70830
+ms.sourcegitcommit: 984872782b13ecd329fb8e8809de923148b77255
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52625942"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52699133"
 ---
 # <a name="release-notes-for-beta-channel"></a>ベータ チャネルのリリース ノート
 
@@ -30,6 +30,72 @@ ms.locfileid: "52625942"
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2106-may-28"></a>バージョン 2106: 5 月 28 日
+*バージョン 2106 (ビルド 14122.20004)*
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="outlook"></a>Outlook
+
+- **Org Explorer:** 組織図を表示してナビゲートします。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- "ビジネス以外" のライセンスの Outlook バージョンで、ユーザーがフォルダー間でアイテムを移動できない問題を修正しました。
+
+
+- このレジストリ キーは、新しい [会議室​​の検索] 機能 (Outlook for Web と同じ機能) を無効にして、従来の時間の候補を含む [会議室​​の検索] 機能を有効にします。
+
+  > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+  > REG_DWORD “ShowLegacyRoomFinder”</br></br>
+  > 0 (既定) - ユーザーが [会議室の検索] ボタンをクリックして利用可能な会議室を検索する際、Outlook は会議室の新しい検索機能 “OWA Powered eXperience” を使用します  </br>
+  > 1 - Outlook は従来の会議室検索ユーザーインタフェースを使用して、利用可能な会議室を検索します</br>
+
+
+### <a name="project"></a>Project
+
+- 手動で時刻設定したタスクの割り当てが不正な日付に移動する問題を修正しました。
+
+
+- リソース共有元が応答せず、開くことができない問題を修正しました。
+
+
+- 特定の日付または時刻パラメーターで ProjectDate */ProjectDur* 関数を使用するカスタム フィールドの数式を作成した場合にエラーが生成される問題を修正しました。
+
+
+### <a name="word"></a>Word
+
+- ドキュメントを PDF にエクスポートするときに一部のコメントが保存されない問題を修正しました。
+
+
+- 制限付き編集が適用されている場合に、ドキュメントの保護されていない領域で新しいコメントを編集できない問題を修正しました。
+
+
+- 不要なスクロール アニメーションに関する問題を修正しました。
+
+
+- コメント ウィンドウが予期せず閉じてしまう問題を修正しました。
+
+
+- エディター ウィンドウのテーマとシステム テーマの間で不一致が発生していた問題を修正しました。
+
+
+- 大きなドキュメントの操作に関連するパフォーマンスの問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2106-may-21"></a>バージョン 2106: 5 月 21 日
 *バージョン 2106 (ビルド 14117.20000)*
@@ -3119,6 +3185,7 @@ ms.locfileid: "52625942"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14122.20004|version-2106-may-28|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14117.20000|version-2106-may-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14107.20000|version-2106-may-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14029.20000|version-2106-may-07|)
@@ -3128,5 +3195,4 @@ ms.locfileid: "52625942"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14002.20000|version-2105-april-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13929.20016|version-2104-april-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13919.20002|version-2104-march-26|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13913.20000|version-2104-march-19|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)
