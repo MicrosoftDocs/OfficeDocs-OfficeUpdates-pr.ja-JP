@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Windows デスクトップ用の月次チャンネル 対象指定リリースの更新履歴を Insider の皆様に提供します。
-ms.openlocfilehash: 8c4736d2e4703289ecbc7070bf93fac4cad96f7d
-ms.sourcegitcommit: 79c85ce398cdedeaac46ece812626eec0f05a61b
+ms.openlocfilehash: ee174d49d910c5b47af6c54ff603134439d22ef0
+ms.sourcegitcommit: a5596f53f1c8c85f129af6fb56d737350cfdec17
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52636541"
+ms.lasthandoff: 06/03/2021
+ms.locfileid: "52739527"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Windows 用 Office の最新チャネル (プレビュー) の更新履歴
 
@@ -31,6 +31,9 @@ Insider の皆様。最新の更新プログラムがインストールされて
 
 
 [//]: # (削除しないでください)
+
+**2021 年 6 月 1 日**<br/>
+バージョン 2105 (ビルド 14026.20254)<br/>
 
 **2021 年 5 月 23 日**<br/>
 バージョン 2105 (ビルド 14026.20246)<br/>

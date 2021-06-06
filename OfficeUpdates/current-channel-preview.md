@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに新機能、修正プログラム、または既知の問題の最新リストを提供します
-ms.openlocfilehash: 38567a461e655f43701e9d68da85e3dff50c779d
-ms.sourcegitcommit: 6a11bb97b0dbc14d2cd6c68e9d5ae7bd3e1a576f
+ms.openlocfilehash: a06b009c006645b9effb686be7f7b0d8a9286609
+ms.sourcegitcommit: d08938d8d38c545afc40f3e4316990d916e0ba91
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/26/2021
-ms.locfileid: "52662823"
+ms.lasthandoff: 06/04/2021
+ms.locfileid: "52742226"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 向けリリース ノートの最新チャネル (プレビュー)
 
@@ -28,6 +28,43 @@ ms.locfileid: "52662823"
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2105-june-01"></a>バージョン 2105: 6 月 1 日
+*バージョン 2105 (ビルド 14026.20254)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="outlook"></a>Outlook
+
+- **最後のサインイン/不審なサインイン:** Outlook では、アカウントに最後にサインインした場合と場所が通知され、不審なサインイン アクティビティが検出された場合は警告が表示されます
+
+- **共有カレンダーの更新を有効にする**: Office 365 の共有カレンダーの場合、Outlook では REST API を使用してこれらのカレンダーを更新します。 共有カレンダーのより高速で信頼性の高い更新を行うには、プレビューを有効にします。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/shared-calendars-improvements-in-outlook-for-windows)の詳細情報をご覧ください
+
+- **大規模 DL、外部ユーザーへのメール送信時のアクセシビリティ チェックの微調整:** 大勢のユーザーや外部ユーザーに向けたメールを作成する際に、アクセシビリティ違反がないかどうかをメール ヒントを通して自動的に確認できる機能を追加しました。これらの設定は、[簡単操作] にあります。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/sending-accessible-emails-in-outlook-for-windows)の詳細情報をご覧ください
+
+### <a name="visio"></a>Visio
+
+- **AWS のステンシルと図形:** 図の作成に役立つ最新の AWS の図形を備えたステンシルが利用できるようになりました。 [詳細情報](https://support.office.com/article/138206bf-d10f-4583-9f31-885ce706af49)
+
+
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- Outlook メールまたは予定表ビューを操作すると予期せず終了する問題を修正しました。
+
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2105-may-23"></a>バージョン 2105: 5月23日
 *バージョン 2105 (ビルド 14026.20246)*
