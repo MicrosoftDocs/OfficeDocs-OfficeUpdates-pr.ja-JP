@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 576d74fd51952ddcdd693095fe77f09e4fc70830
-ms.sourcegitcommit: 984872782b13ecd329fb8e8809de923148b77255
+ms.openlocfilehash: 88823cb9d26a86d5c726139c3b7f5ea0b5483b9d
+ms.sourcegitcommit: 7f52ea9d1051a8102d9d16129855833c5b9638a1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52699133"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52790502"
 ---
 # <a name="release-notes-for-beta-channel"></a>ベータ チャネルのリリース ノート
 
@@ -30,6 +30,49 @@ ms.locfileid: "52699133"
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2106-june-04"></a>バージョン 2106: 6 月 4 日
+*バージョン 2106 (ビルド 14131.20008)*
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="excel"></a>Excel
+
+- **データ型の検出の設定:** Excel の Power Query を使用して、非構造化ソースからのデータのインポート中にデータ型の検出動作を構成する
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="powerpoint"></a>PowerPoint
+
+- バス バーの '保存の再試行' ボタンを使用して保存されたファイルを確認すると、最近のリストに追加されるという問題を修正しました。
+
+
+### <a name="word"></a>Word
+
+- 特定のフォントで文字を 90 度回転させると、文字間隔が広くなるという問題を修正しました。
+
+
+- 複数のユーザーと共同編集中に、コメントの返信に失敗する場合がある問題を修正しました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- 以前に、SyncBacked ファイル (OneDrive で同期されるファイル) に自発的に保存されてしまう原因になった CLP 機能の問題を修正しました。
+
+
+- オンプレミス サーバーに保存されたファイルをユーザーが編集できない問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2106-may-28"></a>バージョン 2106: 5 月 28 日
 *バージョン 2106 (ビルド 14122.20004)*
@@ -3185,6 +3228,7 @@ ms.locfileid: "52699133"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14131.20008|version-2106-june-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14122.20004|version-2106-may-28|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14117.20000|version-2106-may-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14107.20000|version-2106-may-14|)
@@ -3194,5 +3238,4 @@ ms.locfileid: "52699133"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14007.20002|version-2105-april-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14002.20000|version-2105-april-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13929.20016|version-2104-april-02|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13919.20002|version-2104-march-26|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)

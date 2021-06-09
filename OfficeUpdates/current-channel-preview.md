@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに新機能、修正プログラム、または既知の問題の最新リストを提供します
-ms.openlocfilehash: a06b009c006645b9effb686be7f7b0d8a9286609
-ms.sourcegitcommit: d08938d8d38c545afc40f3e4316990d916e0ba91
+ms.openlocfilehash: df5abe158a0abaf1a962d1bd3bba97036175c9e4
+ms.sourcegitcommit: 7f52ea9d1051a8102d9d16129855833c5b9638a1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "52742226"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52790512"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 向けリリース ノートの最新チャネル (プレビュー)
 
@@ -28,6 +28,36 @@ ms.locfileid: "52742226"
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2105-june-04"></a>バージョン 2105: 6 月 4 日
+*バージョン 2105 (ビルド 14026.20264)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="excel"></a>Excel
+
+- **データ型の検出の設定:** Excel の Power Query を使用して、非構造化ソースからのデータのインポート中にデータ型の検出動作を構成します
+
+### <a name="word"></a>Word
+
+- **書き込みスタイル:** 書き込みスタイルにより、ユーザーが選択した形式レベルに基づいて批評をキュレーションします
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- 一部のユーザーの Excel アドイン一覧に追加のエントリが表示される問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2105-june-01"></a>バージョン 2105: 6 月 1 日
 *バージョン 2105 (ビルド 14026.20254)*
