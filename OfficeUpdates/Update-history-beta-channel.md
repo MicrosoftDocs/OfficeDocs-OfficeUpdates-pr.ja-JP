@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Windows デスクトップ用の月次チャンネル Insider ファースト リリースの更新履歴を Insider に提供します
-ms.openlocfilehash: 6988b226a2fed5705584c75bcb2a499d4a8ff536
-ms.sourcegitcommit: 7f52ea9d1051a8102d9d16129855833c5b9638a1
+ms.openlocfilehash: 9c666e7e957d7096abbd1e1f6331eea0dc1d0f5a
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/07/2021
-ms.locfileid: "52790472"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851717"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Office ベータ チャネルの更新履歴
 
@@ -33,6 +33,9 @@ If you're enrolled in the Insider level you get frequent updates with new featur
 
 
 [//]: # (削除しないでください)
+
+**2021 年 6 月 8 日**<br/>
+バージョン 2107 (ビルド 14204.20006)<br/>
 
 **2021 年 6 月 3 日**<br/>
 バージョン 2106 (ビルド 14131.20008)<br/>

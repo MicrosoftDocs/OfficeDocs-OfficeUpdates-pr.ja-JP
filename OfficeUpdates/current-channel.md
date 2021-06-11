@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の月次チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: abc506af5bb0ff1ea4a4632f72a9c1889e78fac7
-ms.sourcegitcommit: 8e2e7ccf20bb01f9eff692ff93bdcf8fe44e9148
+ms.openlocfilehash: d34f57010c92943ed8665159172f7732e5db715b
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/26/2021
-ms.locfileid: "52657970"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851877"
 ---
 # <a name="release-notes-for-current-channel"></a>現在のチャネルのリリース ノート
 
@@ -29,6 +29,36 @@ ms.locfileid: "52657970"
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2105-june-08"></a>バージョン 2105: 6 月 8 日
+*バージョン 2105 (ビルド 14026.20270)*
+
+セキュリティ更新プログラムの一覧は[こちら](microsoft365-apps-security-updates.md)
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- 一部のユーザーの Excel アドイン一覧に追加のエントリが表示される問題を修正しました。
+
+
+### <a name="outlook"></a>Outlook
+
+- Outlook メールまたは予定表ビューを操作すると予期せず終了する問題を修正しました。
+
+
+- アーカイブ ストアからフォルダーを削除する場合に、予期せず閉じてしまうことが発生する問題を修正しました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- SyncBack ファイルを開くときにパフォーマンスが低下する問題を修正しました。
 
 
 
@@ -116,12 +146,13 @@ ms.locfileid: "52657970"
 
 
 - 新しい「会議室​​の検索」機能 (Outlook for Webと同じ機能) を無効にして、従来の「時間の候補」を含む「会議室​​の検索」機能を有効にするレジストリ キーを追加しました。
-    - レジストリ キー:
 
-        > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
-        > REG_DWORD “ShowLegacyRoomFinder”</br></br>
-        > 0 (既定) - ユーザーが [会議室の検索] ボタンをクリックして利用可能な会議室を検索する際、Outlook は会議室の新しい検索機能 “OWA Powered eXperience” を使用します  </br>
-        > 1 - Outlook は従来の会議室検索ユーザーインタフェースを使用して、利用可能な会議室を検索します </br>
+    レジストリ キー:
+
+    >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+    >REG_DWORD “ShowLegacyRoomFinder”</br></br>
+    >0 (既定) - ユーザーが [会議室の検索] ボタンをクリックして利用可能な会議室を検索する際、Outlook は会議室の新しい検索機能 “OWA Powered eXperience” を使用します  </br>
+    >1 - Outlook は従来の会議室検索ユーザーインタフェースを使用して、利用可能な会議室を検索します </br>
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -922,6 +953,7 @@ ms.locfileid: "52657970"
 > Office の使用で問題がある場合は、[Microsoft の回答フォーラム](https://answers.microsoft.com/)に関するページまたは「[Microsoft Tech Community](https://techcommunity.microsoft.com/)」に質問を投稿するか、[サポート](https://support.microsoft.com/contactus)に問い合わせてサポートを受けることができます。
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|CC|Production| |16.0.14026.20270|version-2105-june-08|)
 [//]: # (|Win32|CC|Production| |16.0.14026.20246|version-2105-may-24|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20386|version-2104-may-18|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20372|version-2104-may-11|)
@@ -931,5 +963,4 @@ ms.locfileid: "52657970"
 [//]: # (|Win32|CC|Production| |16.0.13901.20336|version-2103-april-02|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20312|version-2103-march-30|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20360|version-2102-march-18|)
-[//]: # (|Win32|CC|Production| |16.0.13801.20294|version-2102-march-09|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)

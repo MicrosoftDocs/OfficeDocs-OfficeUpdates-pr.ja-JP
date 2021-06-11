@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の半期チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: a6fa2fbc2e872e099800a3ca1c8ec421d14fef3d
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+ms.openlocfilehash: a2b8ae060b7be521bb60f86b809ca0be0bd10817
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322347"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851957"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>半期エンタープライズ チャネルのリリース ノート
 
@@ -23,6 +23,59 @@ ms.locfileid: "52322347"
 > [!NOTE]
 >
 >- 半期エンタープライズ チャネルのユーザーが Office ポータルから Microsoft 365 Apps をダウンロードして Windows 10 にインストールすると、既定で OneNote 2016 が含まれるようになります。
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2008-june-08"></a>バージョン 2008: 6 月 8 日
+*バージョン 2008 (ビルド 13127.21668)*
+
+セキュリティ更新プログラムの一覧は[こちら](microsoft365-apps-security-updates.md)
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- 一部のユーザーの Excel アドイン一覧に追加のエントリが表示される問題を修正しました。
+
+
+- 一部のユーザーに対して、ステータス バーが準備完了状態を表示しないという問題を修正しました。
+
+
+### <a name="word"></a>Word
+
+- カスタム スタイルでテキストを貼り付けるときに段落番号とインデントが失われる問題を修正しました。
+
+
+- コンテンツ コントロールで使用できる文字列のサイズ制限がなくなる問題を修正しました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- この変更前は、GPO でテンプレートを無効にした場合でも、Office テンプレートが表示されました。 この変更により、テンプレートは GPO を正しく適用し、要求に応じて表示/非表示されるようになりました。
+
+
+- ライセンスとデジタル著作権管理でタイムアウトが発生するため、SharePoint Online からファイルを開くのが不必要に遅れるというまれな問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2002-june-08"></a>バージョン 2002: 6 月 8 日
+*バージョン 2002 (ビルド 12527.21952)*
+
+セキュリティ更新プログラムの一覧は[こちら](microsoft365-apps-security-updates.md)
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- 一部のユーザーの Excel アドイン一覧に追加のエントリが表示される問題を修正しました。
+
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
@@ -980,6 +1033,7 @@ ms.locfileid: "52322347"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|DC|Production| |16.0.13127.21668|version-2008-june-08|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21624|version-2008-may-11|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21506|version-2008-april-13|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21348|version-2008-march-09|)
@@ -989,5 +1043,4 @@ ms.locfileid: "52322347"
 [//]: # (|Win32|DC|Production| |16.0.12527.21330|version-2002-november-10|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21236|version-2002-october-13|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21104|version-2002-september-08|)
-[//]: # (|Win32|DC|Production| |16.0.12527.20988|version-2002-august-11|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)

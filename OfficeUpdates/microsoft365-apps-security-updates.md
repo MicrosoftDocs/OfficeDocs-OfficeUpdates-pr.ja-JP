@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft Officeセキュリティ更新プログラムのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 609a90e81dd90867858b7902c4f0363a2abca514
-ms.sourcegitcommit: 555e92127b0922cf09d5c2cc1dba836336bcbf5b
+ms.openlocfilehash: 5ab2db770141e34fa8fd3d38411e77acef4d4235
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "52330504"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851837"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Microsoft Office セキュリティ更新プログラムのリリース ノート
 
@@ -24,6 +24,42 @@ ms.locfileid: "52330504"
  
 
 [//]: # (上の行は間隔を空けるために使用されているので、削除しないでください。)  
+
+## <a name="june-08-2021"></a>2021 年 6 月 8 日
+最新チャネル: バージョン 2105 (ビルド 14026.20270)  
+月次エンタープライズ チャネル: バージョン 2104 (ビルド 13929.20408)  
+月次エンタープライズ チャネル: バージョン 2103 (ビルド 13901.20554)  
+半期エンタープライズ チャネル (プレビュー): バージョン 2102 (ビルド 13801.20738)  
+半期エンタープライズ チャネル: バージョン 2008 (ビルド 13127.21668)  
+半期エンタープライズ チャネル: バージョン 2002 (ビルド 12527.21952)  
+Windows 7 上の Microsoft 365 Apps: バージョン 2002 (ビルド 12527.21952)  
+Office 2019 リテール版: バージョン 2105 (ビルド 14026.20270)  
+Office 2016 リテール版: バージョン 2105 (ビルド 14026.20270)  
+Office 2019 ボリューム ライセンス: バージョン 1808 (ビルド 10375.20036)  
+
+[//]: # (セキュリティの詳細コンテンツの開始を削除しないでください)
+
+
+### <a name="access"></a>Access
+
+-   [CVE-2021-28455](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2021-28455)
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-31939](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2021-31939)
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2021-31949](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2021-31949)
+
+### <a name="office-suite"></a>Office スイート
+
+-   [CVE-2021-31941](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2021-31941)
+-   [CVE-2021-31940](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2021-31940)
+
+[//]: # (セキュリティの詳細コンテンツを削除しないでください。終了)
+
+
 
 ## <a name="may-11-2021"></a>2021 年 5 月 11 日
 最新チャネル: バージョン 2104 (ビルド 13929.20372)  
