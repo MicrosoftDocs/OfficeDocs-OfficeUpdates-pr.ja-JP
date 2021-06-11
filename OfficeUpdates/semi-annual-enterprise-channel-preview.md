@@ -9,17 +9,110 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2021 年の半期チャネル リリース (対象指定) のリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: ca32e509ccce9a52e1efb67fe05275eb65a2b64e
-ms.sourcegitcommit: c615a8b353e967222e6a75121fa6aea3d673b28b
+ms.openlocfilehash: 95bdd111e041dd07689ad84254dde5b95a8efebe
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52625932"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52852007"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>半期エンタープライズ チャネル (プレビュー) のリリース ノート
 
 このリリース ノートには、半期エンタープライズ チャネル (プレビュー) の更新プログラムに含まれる新機能と、セキュリティ以外の更新プログラムに関する情報が記載されています。対象となるのは、Microsoft 365 Apps for enterprise、Microsoft 365 Apps for business、および Project と Visio のデスクトップ アプリのサブスクリプション版です。
 
+
+## <a name="version-2102-june-08"></a>バージョン 2102: 6月 8 日
+*バージョン 2102 (ビルド 13801.20738)*
+
+セキュリティ更新プログラムの一覧は[こちら](microsoft365-apps-security-updates.md)
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- パレート図に表示される余計なパディングが削除され、利用可能なグラフ作成空間が狭くなる問題を修正しました。
+
+
+- 一部のユーザーの Excel アドイン一覧に追加のエントリが表示される問題を修正しました。
+
+
+- 一部のユーザーに対して、ステータス バーが準備完了状態を表示しないという問題を修正しました。
+
+
+- Power BI のデータ型を更新すると、ユーザーが一部のデータ型にアクセスできない場合のエラー メッセージを改善し、問題を修正しました。
+
+
+- プロパティのオート コンプリートのドロップダウンに表示できるプロパティの数を 256 に増やすことで、問題を修正しました。
+
+
+### <a name="outlook"></a>Outlook
+
+- EWS の内部エンドポイントと外部エンドポイントが異なる場合に、内部エンドポイントへの呼び出しに失敗すると、接続エラーが発生する問題を修正しました。
+
+
+- メールの再送信時に、送信者のアドレスが LegacyExchangeDN として表示される問題を修正しました。
+
+
+- エンドユーザーや管理者が [クラウド] 設定をオンにできない問題を修正しました。
+
+
+- 外部ネットワークに接続された Hybrid Azure AD Join マシンで、ZeroConfigExchange が正しく動作しない問題を修正しました。
+
+
+- カスタム ドメインのユーザーがメール メッセージにリンクを貼り付ける場合に、アクセス許可に関する警告メッセージが表示される問題を修正しました。
+</br>
+
+- 新しい「会議室​​の検索」機能 (Outlook for Webと同じ機能) を無効にして、従来の「時間の候補」を含む「会議室​​の検索」機能を有効にするレジストリ キーを追加しました。
+
+    レジストリ キー:
+
+    >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+    >REG_DWORD “ShowLegacyRoomFinder”</br></br>
+    >0 (既定) - ユーザーが [会議室の検索] ボタンをクリックして利用可能な会議室を検索する際、Outlook は会議室の新しい検索機能 “OWA Powered eXperience” を使用します  </br>
+    >1 - Outlook は従来の会議室検索ユーザーインタフェースを使用して、利用可能な会議室を検索します </br>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 一元展開をサポートするためにストアをバージョン 1.0.0.2 に更新する場合に発生する問題を修正しました。 ユーザーがストアにアクセスするには、PowerPoint バージョン情報を更新する必要があります。
+
+
+### <a name="project"></a>Project
+
+- ProjectDate */ProjectDur* 関数を使用するユーザー設定フィールドの式を作成し、2 番目のパラメーターが Date()、Now()、Time() のいずれかの日付と時刻に関する数式である場合に、結果として #ERROR が発生する問題を修正しました。
+
+
+- リソース共有元が応答せず、開くことができない問題を修正しました。
+
+
+### <a name="visio"></a>Visio
+
+- 図形の検索で検索キーワードを入力する場合に、検索結果が見つからなくなる問題を修正しました。
+
+
+### <a name="word"></a>Word
+
+- オンライン画像の挿入時にアプリケーションのハングが発生する問題を修正しました。
+
+
+- 貼り付けたテキストで、コピーと貼り付けのスタイルが同じにならない問題が修正されました。
+
+
+- コンテンツ コントロールで使用できる文字列のサイズ制限がなくなる問題を修正しました。
+
+
+- OLE オブジェクトの編集に関する問題を修正しました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- プレースホルダー ファイルを開く場合の問題を修正しました。 同期し直したファイルを開こうとしても、Office でハングが発生しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2102-may-11"></a>バージョン 2102: 5 月 11 日
 *バージョン 2102 (ビルド 13801.20638)*
@@ -660,6 +753,7 @@ ms.locfileid: "52625932"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|FRDC|Insiders| |16.0.13801.20738|version-2102-june-08|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20638|version-2102-may-11|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20506|version-2102-april-13|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20294|version-2102-march-09|)
@@ -669,5 +763,4 @@ ms.locfileid: "52625932"
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20760|version-2008-november-10|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20638|version-2008-october-13|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20408|version-2008-september-08|)
-[//]: # (|Win32|FRDC|Insiders| |16.0.12527.20988|version-2002-august-11|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)
