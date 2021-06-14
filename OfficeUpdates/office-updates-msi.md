@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 永続的なバージョンの Office 2016、Office 2013、Office 2010 の最新の更新プログラムの情報へのリンクを IT 技術者に提供します
-ms.openlocfilehash: c3933557c854757f9371e03361105c35a48596ad
-ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
+ms.openlocfilehash: cadd0d061af18d905a166c642f5b664ebb09821b
+ms.sourcegitcommit: e04eca2da568e5b00330db8441a5a74646233bcd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52851977"
+ms.lasthandoff: 06/11/2021
+ms.locfileid: "52899916"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Windows インストーラー (MSI) を使用しているバージョンの Office の最新の更新プログラム
 
@@ -51,7 +51,7 @@ ms.locfileid: "52851977"
    
 ## <a name="updates-released-in-past-12-months"></a>過去 12 か月にリリースされた更新プログラム
 
-[2020 年 6 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB5004001](https://support.microsoft.com/help/5004001)
+[2021 年 6 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB5004001](https://support.microsoft.com/help/5004001)
 
 
 [2021 年 5 月のセキュリティの更新プログラムおよびセキュリティ以外の更新プログラム: KB5003427](https://support.microsoft.com/help/5003427)
