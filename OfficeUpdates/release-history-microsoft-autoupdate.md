@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT プロフェッショナルに、Microsoft AutoUpdate (MAU) のリリース履歴を提供します
-ms.openlocfilehash: 783ae03e77060c91a02e98e88e3d1570c1cdaf11
-ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
+ms.openlocfilehash: 10336f30469104b93c24d6f40f091d47c4b20d81
+ms.sourcegitcommit: 4ab7d229662f7c8334e6c70aca4932bc62394a65
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52563383"
+ms.lasthandoff: 06/15/2021
+ms.locfileid: "52949837"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) のリリース履歴
  
@@ -29,6 +29,22 @@ ms.locfileid: "52563383"
 > - Microsoft AutoUpdate は、Microsoft のさまざまな Mac 製品への更新プログラムを提供します。そのため、Office for Mac を実行していない場合でも、Microsoft AutoUpdate を更新する通知が表示される場合があります。
 
 リリース ノートを確認するには、「[リリース ノート](release-notes-office-for-mac.md)」を参照してください。<br/><br/>
+## <a name="june-2021-release"></a>2021 年 6 月リリース。
+
+**リリース日:** 2021 年 6 月 15 日
+
+*Microsoft AutoUpdate 4.36*
+
+**バグの修正と強化された機能:**
+- Docktile Progress Indicator - MAU で、ドックに表示されているアイコンに進行状況が表示されるようになりました。
+- 更新の日和見的な完了 - MAU は、デバイスのシャットダウン/再起動中に更新プログラムの遅延を適用しようとします。
+
+[Microsoft AutoUpdate 4.36 パッケージをダウンロードする](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.36.21061301_Updater.pkg)<br/>
+<br/>
+**SHA-256 ハッシュ:**
+
+0680414EA9553FEF6198B8414CFABABB6ED5B22A571138B98F6F3E4190630DB3
+
 
 ## <a name="may-2021-release"></a>2021 年 5 月リリース。
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Microsoft 365 Apps サブスクライバー向け Office for Mac のリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 6a4aebfb9755261ed25f486ef5c573b250aee2c0
-ms.sourcegitcommit: c615a8b353e967222e6a75121fa6aea3d673b28b
+ms.openlocfilehash: abd134da7bdc7ab5524bb3e7b69e7f57d24f6522
+ms.sourcegitcommit: 4ab7d229662f7c8334e6c70aca4932bc62394a65
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52625952"
+ms.lasthandoff: 06/15/2021
+ms.locfileid: "52949847"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac のリリース ノート
 
@@ -59,6 +59,53 @@ Microsoft 365 サブスクリプションに付属する Office for Mac は、�
 
 
 
+
+
+
+## <a name="june-15-2021"></a>2021 年 6 月 15 日
+*バージョン 16.50 (ビルド 21061301)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="excel"></a>Excel
+
+- **機密性の高い暗号化されたドキュメントの自動保存と共同編集:** 生産性とセキュリティをトレードオフしないでください。 Microsoft Information Protection では、暗号化されていないドキュメントと同様に、秘密度ラベルを使用して暗号化されたドキュメントを自動保存し、他のユーザーとリアルタイムで共同編集できるようになりました。 テナントのオプトインが必要です (詳細: https://aka.ms/mipcoauth)。
+
+### <a name="outlook"></a>Outlook
+
+- **他のユーザーの勤務時間を表示します。:** 新しい Outlook for Mac で出席者の勤務時間を確認できるようになりました。
+
+- **New Mac Outlook でピン留め機能が利用可能に:** ピン留め機能が New Mac Outlook で利用可能になりました<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/pin-messages-to-top-of-your-inbox-in-outlook-for-mac)の詳細情報をご覧ください
+
+- **コンテキスト アドインの WkWebview のサポート:** 新しい WkWebview 閲覧ウィンドウでコンテキスト アドイン がサポートされるようになりました
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **機密性の高い暗号化されたドキュメントの自動保存と共同編集:** 生産性とセキュリティをトレードオフしないでください。 Microsoft Information Protection では、暗号化されていないドキュメントと同様に、秘密度ラベルを使用して暗号化されたドキュメントを自動保存し、他のユーザーとリアルタイムで共同編集できるようになりました。 テナントのオプトインが必要です (詳細: https://aka.ms/mipcoauth)。
+
+- **ビデオ ライブラリ:** アプリ内で利用可能な、質の良い無料のビデオ映像のライブラリを使用してドキュメントの質を高めます。
+
+### <a name="word"></a>Word
+
+- **機密性の高い暗号化されたドキュメントの自動保存と共同編集:** 生産性とセキュリティをトレードオフしないでください。 Microsoft Information Protection では、暗号化されていないドキュメントと同様に、秘密度ラベルを使用して暗号化されたドキュメントを自動保存し、他のユーザーとリアルタイムで共同編集できるようになりました。 テナントのオプトインが必要です (詳細: https://aka.ms/mipcoauth)。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+
+[//]: # (セキュリティの詳細コンテンツを削除しないでください。開始)
+
+
+### <a name="security-updates"></a>セキュリティ更新プログラム
+
+
+### <a name="office-suite"></a>Office スイート
+
+-   [CVE-2021-31941](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2021-31941)
+-   [CVE-2021-31940](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2021-31940)
+
+[//]: # (セキュリティの詳細コンテンツを削除しないでください。終了)
 
 ## <a name="may-11-2021"></a>2021 年 5 月 11 日
 *バージョン 16.49 (ビルド 21050901)*
@@ -1122,7 +1169,7 @@ Microsoft 365 サブスクリプションに付属する Office for Mac は、�
 |**アプリケーション**|**機能の更新プログラム**|**セキュリティ更新プログラム**|**更新プログラム パッケージのダウンロード リンク**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>| **iPhone から直接 Word へ:** Apple Continuity Camera を使用して、写真を iPhone から文書へ挿入します。macOS Mojave が必要です。[詳細情報](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> **ドキュメントに機密ラベルを適用する:** ドキュメントに機密ラベルを適用すると、ドキュメントは組織の情報保護ポリシーに準拠したものになります。[詳細情報](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**フィルターが適用された SVG を挿入する機能:** Office ユーザーは、フィルターが適用された SVG を挿入できるようになりました。[詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>| [CVE-2019-0561](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2019-0561): Microsoft Word の情報漏えいの脆弱性  <br/><br/> [CVE-2019-0585](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2019-0585): Microsoft Word のリモート コード実行の脆弱性 |[Word の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011500_Updater.pkg) <br/>|
-|Excel  <br/>| **コメントを利用して共同作業を行う:** 返信ボックスが組み込まれているので、スプレッドシートで直接会話を続けることができます。[詳細情報](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)<br/><br/> **ワークシートに機密ラベルを適用する:** ワークシートに機密ラベルを適用すると、ワークシートは組織の情報保護ポリシーに準拠したものになります。[詳細情報](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**フィルターが適用された SVG を挿入する機能:** Office ユーザーは、フィルターが適用された SVG を挿入できるようになりました。[詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**SVG のサポート:** ブックに SVG を挿入して編集し、視覚的な効果を加えます。 [詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**ヒストグラム、ウォーターフォール、ツリーマップ、サンバースト、じょうご、マップ グラフの書式オプションが増えました:** [書式] ウィンドウを使用して、新しい種類のグラフの書式設定オプションを詳細にコントロールできます。|[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.21.19011500_Updater.pkg) <br/>|
+|Excel  <br/>| **コメントを利用して共同作業を行う:** 返信ボックスが組み込まれているので、スプレッドシートで直接会話を続けることができます。[詳細情報](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)<br/><br/> **ワークシートに機密ラベルを適用する:** ワークシートに機密ラベルを適用すると、ワークシートは組織の情報保護ポリシーに準拠したものになります。[詳細情報](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**フィルターが適用された SVG を挿入する機能:** Office ユーザーは、フィルターが適用された SVG を挿入できるようになりました。[詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**SVG のサポート:** ブックに SVG を挿入して編集し、視覚的な効果を加えます。[詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**ヒストグラム、ウォーターフォール、ツリーマップ、サンバースト、じょうご、マップ グラフの書式オプションが増えました:** [書式] ウィンドウを使用して、新しい種類のグラフの書式設定オプションを詳細にコントロールできます。|[Excel の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.21.19011500_Updater.pkg) <br/>|
 |PowerPoint  <br/>| **配布資料にスライド番号を印刷する:** プレゼンテーションを配布資料として印刷すると、各スライドにスライド番号が表示されます。 <br/><br/> **プレゼンテーションに機密ラベルを適用する:** プレゼンテーションに機密ラベルを適用すると、プレゼンテーションは組織の情報保護ポリシーに準拠したものになります。[詳細情報](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**フィルターが適用された SVG を挿入する機能:** Office ユーザーは、フィルターが適用された SVG を挿入できるようになりました。[詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**フォントのサブセットを埋め込む:** プレゼンテーションで使用する文字のみを埋め込めます。[詳細情報](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3)|[PowerPoint の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.21.19011500_Updater.pkg) <br/>|
 |Outlook  <br/>| **メッセージに機密ラベルを適用する:** メッセージに機密ラベルを適用すると、メッセージは組織の情報保護ポリシーに準拠したものになります。[詳細情報](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**フィルターが適用された SVG を挿入する機能:** Office ユーザーは、フィルターが適用された SVG を挿入できるようになりました。[詳細情報](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**[現在のメー ボックス] でメールをすばやく見つける:** 検索ボックスを選択すると、最近の検索履歴に基づいたクイック候補が表示されます。 入力する必要はありません。 [詳細情報](https://support.office.com/article/53b60f65-25b7-4582-9c5e-4adf16e503a1)<br/><br/>**Gmail アカウントの追加が簡単になりました:** セキュリティが向上したため、Gmail アカウントを Outlook に追加するのに「安全性の低いアプリ」のアクセスを許可したり、アプリのパスワードを設定したりする必要がなくなりました。<br/><br/>**Outlook for Mac で検索用語が強調表示されるようになりました:** 何かを検索する際に、Outlook のアイテム一覧やプレビュー ウィンドウで検索語句が強調表示されれば便利だろうと感じたことはありませんか? これが、ついに実現しました。||[Outlook の更新プログラム パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011500_Updater.pkg) <br/>|
 |Microsoft Auto Update 4.7 <br/>| インストール処理の一環として自動更新デーモンが追加されました。これにより、これまでユーザーに表示されていた、わかりにくいセキュリティ ダイアログ ボックスが廃止されます。 <br/><br/> Microsoft AutoUpdate のセキュリティ機能が強化され、SHA256 証明書がサポートされるようになりました。 <br/>|<br/> | [Microsoft AutoUpdate 更新パッケージ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
