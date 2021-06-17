@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに新機能、修正プログラム、または既知の問題の最新リストを提供します
-ms.openlocfilehash: 712501114acb6e1a14ae8f0c55727ac3e504afe1
-ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
+ms.openlocfilehash: b9c89336aef23ef64fc06b902dcfce937c3701af
+ms.sourcegitcommit: 3f3d978780a2212769cdd6a27eba1bf8f75a2b31
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52851847"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52916677"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 向けリリース ノートの最新チャネル (プレビュー)
 
@@ -28,6 +28,32 @@ ms.locfileid: "52851847"
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2106-june-14"></a>バージョン 2106: 6 月 14 日
+*バージョン 2106 (ビルド 14131.20162)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="word"></a>Word
+
+- **音声で検索する:** 検索バーのマイクをタップまたはクリックして、Word で音声を使用して、コマンドやコンテンツなどを検索します。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- 一部のユーザーの Excel アドイン一覧に追加のエントリが表示される問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2106-june-07"></a>バージョン 2106: 6 月 7 日
 *バージョン 2106 (ビルド 14131.20012)*
