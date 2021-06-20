@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: IT プロフェッショナルに、Office 展開ツール (ODT) のリリース履歴を提供します
-ms.openlocfilehash: 163c358c39c4f1953a153ebc52bf909dedd49955
-ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
+ms.openlocfilehash: ef130b3602d1f7d8c664167655cba09eb45b8e52
+ms.sourcegitcommit: b7b3ebab7fc6b8424482107f650f6bb528afd8f7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52851647"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53022100"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Office 展開ツールのリリース履歴
 
@@ -28,6 +28,11 @@ ODT により、Office のインストールをより詳細に制御できるよ
  **インストール方法**: 自己解凍実行ファイルをダウンロードして実行します。このファイルには、Office 展開ツールの実行可能ファイル (setup.exe) およびサンプル構成ファイル (configuration.xml) が含まれています。 
 
 [Office 展開ツールのダウンロード](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+## <a name="june-17-2021"></a>2021 年 6 月 17 日
+バージョン 16.0.14026.20306 (setup.exe バージョン 16.0.14026.20306)
+- 一部の OS 構成で MatchOS 言語オプションを使用した操作が失敗する問題を修正します
+
 
 ## <a name="june-7-2021"></a>2021 年 6 月 7 日
 バージョン 16.0.14026.20254 (setup.exe バージョン 16.0.14026.20252)

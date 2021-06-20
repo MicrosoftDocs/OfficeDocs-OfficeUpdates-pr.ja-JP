@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の月次チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: d34f57010c92943ed8665159172f7732e5db715b
-ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
+ms.openlocfilehash: 699d96a400bf09df793c789b5046c8febe6bf8e3
+ms.sourcegitcommit: b7b3ebab7fc6b8424482107f650f6bb528afd8f7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52851877"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53022120"
 ---
 # <a name="release-notes-for-current-channel"></a>現在のチャネルのリリース ノート
 
@@ -29,6 +29,34 @@ ms.locfileid: "52851877"
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2105-june-18"></a>バージョン 2105: 6 月 18 日
+*バージョン 2105 (ビルド 14026.20308)*
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- 返信または転送したメッセージを閉じるときに、予期しないプロパティ変更プロンプトが表示される問題を修正しました。
+
+
+- この変更により、ユーザーは新しいフィードバック システムを通じてフィードバックを送信できるようになります。
+
+
+- 外部ネットワークに接続された Hybrid Azure AD Join マシンで、ZeroConfigExchange が正しく動作しない問題を修正しました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- ユーザーが OnPrem SharePoint サーバーに保存されている特定のドキュメントを編集できない問題を修正しました。
+
+
+- 特定のファイルを再度開くときの予期しないクローズを修正しました。
 
 
 
@@ -953,6 +981,7 @@ ms.locfileid: "52851877"
 > Office の使用で問題がある場合は、[Microsoft の回答フォーラム](https://answers.microsoft.com/)に関するページまたは「[Microsoft Tech Community](https://techcommunity.microsoft.com/)」に質問を投稿するか、[サポート](https://support.microsoft.com/contactus)に問い合わせてサポートを受けることができます。
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|CC|Production| |16.0.14026.20308|version-2105-june-18|)
 [//]: # (|Win32|CC|Production| |16.0.14026.20270|version-2105-june-08|)
 [//]: # (|Win32|CC|Production| |16.0.14026.20246|version-2105-may-24|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20386|version-2104-may-18|)
@@ -962,5 +991,4 @@ ms.locfileid: "52851877"
 [//]: # (|Win32|CC|Production| |16.0.13901.20400|version-2103-april-13|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20336|version-2103-april-02|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20312|version-2103-march-30|)
-[//]: # (|Win32|CC|Production| |16.0.13801.20360|version-2102-march-18|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)

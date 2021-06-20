@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 6ca376f15c7915675ac0bbc1eeb44f4479402ebe
-ms.sourcegitcommit: e04eca2da568e5b00330db8441a5a74646233bcd
+ms.openlocfilehash: be309ede1f540e995ea977feff91267b0ad6c0ad
+ms.sourcegitcommit: d248e36e346915194ca383f5da161790681a87e6
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/11/2021
-ms.locfileid: "52899917"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53025113"
 ---
 # <a name="release-notes-for-beta-channel"></a>ベータ チャネルのリリース ノート
 
@@ -30,6 +30,41 @@ ms.locfileid: "52899917"
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2107-june-18"></a>バージョン 2107: 6 月 18 日
+*バージョン 2107 (ビルド 14210.20004)*
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="outlook"></a>Outlook
+
+- **最後のサインイン/不審なサインイン:** Outlook では、アカウントに最後にサインインした場合と場所が通知され、不審なサインイン アクティビティが検出された場合は警告が表示されます
+
+- **気を散らすものが少ないメッセージを読む:** イマーシブ リーダーをオンにすることで、カスタムの文字間隔、ページの色、列幅、行フォーカスを使用してメッセージに集中しやすくします。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="access"></a>Access
+
+- SharePoint リストへのリンクを含むデータベースで Access データベース エンジン OLEDB API を使用しているアプリケーションが予期せず終了する可能性がある問題を修正しました。
+
+- Access データベース エンジン ODBC API を使用するアプリケーションが予期せず終了する可能性がある問題を修正しました。
+
+### <a name="word"></a>Word
+
+- コラボレーション中にコメントが読み取り専用になる問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2107-june-11"></a>バージョン 2107: 6 月 11 日
 *バージョン 2107 (ビルド 14204.20006)*
@@ -3261,6 +3296,7 @@ ms.locfileid: "52899917"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14210.20004|version-2107-june-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14204.20006|version-2107-june-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14131.20008|version-2106-june-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14122.20004|version-2106-may-28|)
@@ -3270,5 +3306,4 @@ ms.locfileid: "52899917"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14014.20002|version-2105-april-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14007.20002|version-2105-april-16|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14002.20000|version-2105-april-09|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)
