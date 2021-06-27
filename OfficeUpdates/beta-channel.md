@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: be309ede1f540e995ea977feff91267b0ad6c0ad
-ms.sourcegitcommit: d248e36e346915194ca383f5da161790681a87e6
+ms.openlocfilehash: 2273f10ccacb56ee4cbd5132103d3ccdbd5c01d4
+ms.sourcegitcommit: 31e92bb72da4b394fc4d46701dbf3027eb5a9b3b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "53025113"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "53132837"
 ---
 # <a name="release-notes-for-beta-channel"></a>ベータ チャネルのリリース ノート
 
@@ -30,6 +30,62 @@ ms.locfileid: "53025113"
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2107-june-25"></a>バージョン 2107: 6 月 25 日
+*バージョン 2107 (ビルド 14217.20002)*
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- 1000 の位の区切りと小数点記号の両方で同じ記号を使用する場合、グラフの軸の値を変更できないという問題を修正しました。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 図形の変更が無効になっている SmartArt ノードに関連する問題を修正しました。
+
+
+### <a name="project"></a>Project
+
+- リソース名にセミコロンなどの特殊文字が含まれていると、Project Web App で作成されたエンゲージメントが Project デスクトップ クライアントで正しく読み込まれない問題を修正しました。
+
+
+- プロジェクト オプション [プロジェクトはコストを計算する必要があります] が無効になっている場合、時間フェーズのコスト値がコストの種類のリソースに対して正しく基準設定されていない可能性がある問題を修正しました。
+
+
+- ルックアップ テーブルを含むプロジェクト レベルのエンタープライズ ユーザー設定フィールドが Project デスクトップ クライアントに値を表示しない問題を修正しました。
+
+
+- ローカル プロジェクトを Project Web App に保存すると、以前に保存したベースラインが変更される可能性がある問題を修正しました。
+
+
+### <a name="word"></a>Word
+
+- 自動保存を有効にすると、最近の編集が一時的に消える可能性がある問題を修正しました。
+
+
+- [コメント] ウィンドウでのスクロールに関する問題を修正しました。
+
+
+- Office テーマが黒に設定されている場合に、ヘッダー/フッターのテキストが印刷プレビューで明確に表示されない問題を修正しました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- Outlook で右から左に記述される言語でメッセージを作成するときに、数字を含んでいるハイパーリンクが壊れてしまう可能性があるという問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2107-june-18"></a>バージョン 2107: 6 月 18 日
 *バージョン 2107 (ビルド 14210.20004)*
@@ -3296,6 +3352,7 @@ ms.locfileid: "53025113"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14217.20002|version-2107-june-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14210.20004|version-2107-june-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14204.20006|version-2107-june-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14131.20008|version-2106-june-04|)
@@ -3305,5 +3362,4 @@ ms.locfileid: "53025113"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14029.20000|version-2106-may-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14014.20002|version-2105-april-23|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14007.20002|version-2105-april-16|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)

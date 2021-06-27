@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに新機能、修正プログラム、または既知の問題の最新リストを提供します
-ms.openlocfilehash: 9bfde779a103f3cc66e5965f2a3398ceaf7f1e3e
-ms.sourcegitcommit: 9c4a3b3e231d9ba0aeeaf345d3da858da825284a
+ms.openlocfilehash: af25cceb21f31d2e77f06e25baa7aa139c5900f6
+ms.sourcegitcommit: 2525d26142a14b2fa2a3b6c1ae250cb62b12a09f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "53068044"
+ms.lasthandoff: 06/26/2021
+ms.locfileid: "53150182"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 向けリリース ノートの最新チャネル (プレビュー)
 
@@ -28,6 +28,38 @@ ms.locfileid: "53068044"
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2106-june-25"></a>バージョン 2106: 6 月 25 日
+*バージョン 2106 (ビルド 14131.20250)*
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- 一部のユーザーについて翻訳オプションが無効になる問題を修正しました。  このバグが発生したお客様は、 [ファイル] -> オプション -> 言語 と操作したときに、翻訳オプションが無効にされるバグを視認したと思われます。 このため、所望の翻訳言語やその他の翻訳関連の設定を変更できませんでした。
+
+
+- 共有された予定表を多数設定し [共有予定表の強化] オプションの対象となるユーザーにおいて、操作性能が悪化する問題を修正しました。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- ユーザーがファイルを開く際、PowerPoint 固有のダイアログに関する不具合により Windows セキュリティ ダイアログに資格情報を入力できない問題を修正しました。
+
+
+### <a name="visio"></a>Microsoft Visio
+
+- ゲスト アクセスを含む SPO/ODB リンクは現在機能するはずです。
+
+
+### <a name="word"></a>Word
+
+- パスワードで保護された docx ファイルで引用を保持するための問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS CONTENT END (バグ詳細情報 終端子) を削除しないでください。)
 
 ## <a name="version-2106-june-21"></a>バージョン 2106: 6 月 21 日
 *バージョン 2106 (ビルド 14131.20194)*
@@ -4310,7 +4342,7 @@ ms.locfileid: "53068044"
 
 - マウスで X ボタンを使用しているときにクラッシュが生じる原因となっていた問題に対処しました。
 
-### <a name="project"></a>プロジェクト
+### <a name="project"></a>Project
 
 - フォーム ビュー内で先行処理/後続処理データが編集されると、余分の ProjectBeforeTaskChangeevent が発生します。
 
