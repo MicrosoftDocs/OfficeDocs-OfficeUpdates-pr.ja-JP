@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Slow の対象ユーザーに新機能、修正プログラム、または既知の問題の最新リストを提供します
-ms.openlocfilehash: af25cceb21f31d2e77f06e25baa7aa139c5900f6
-ms.sourcegitcommit: 2525d26142a14b2fa2a3b6c1ae250cb62b12a09f
+ms.openlocfilehash: 42886131f7552d2ccf3f9d698e11cae099773d0e
+ms.sourcegitcommit: 6e83413f758b812493be7ae126748c38c674be19
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/26/2021
-ms.locfileid: "53150182"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53204702"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 向けリリース ノートの最新チャネル (プレビュー)
 
@@ -28,6 +28,20 @@ ms.locfileid: "53150182"
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2106-june-29"></a>バージョン 2106: 6 月 29 日
+*バージョン 2106 (ビルド 14131.20278)*
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- ARM64 デバイスでパフォーマンスの問題が発生する問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツの終了を削除しないでください)
 
 ## <a name="version-2106-june-25"></a>バージョン 2106: 6 月 25 日
 *バージョン 2106 (ビルド 14131.20250)*

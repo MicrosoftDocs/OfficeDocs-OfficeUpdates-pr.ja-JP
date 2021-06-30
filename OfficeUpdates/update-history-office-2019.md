@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: クイック実行 (C2R) を使用する永続的なバージョンの Office 2016 および 2019 の更新履歴を IT 技術者に提供します
-ms.openlocfilehash: 9ec887d011b572029decedfc4dfb8b55c2344411
-ms.sourcegitcommit: b7b3ebab7fc6b8424482107f650f6bb528afd8f7
+ms.openlocfilehash: f16e13ba33531ffaeae309606a953fcdfe5fbe2b
+ms.sourcegitcommit: bd700dedc0c80ae72fa5611665ad6d321127a531
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "53022070"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53206329"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R および Office 2019 の更新履歴
 
@@ -94,12 +94,12 @@ Microsoft は、Office 2016 のクイック実行 (C2R) バージョンおよび
 
 |**リリース日**|**バージョン番号**|
 |:-----|:-----|
+|2021 年 6 月 29 日|バージョン 2106 (ビルド 14131.20278)|
 |2021 年 6 月 18 日|バージョン 2105 (ビルド 14026.20308)|
 |2021 年 6 月 8 日|バージョン 2105 (ビルド 14026.20270)|
 |2021 年 5 月 24 日|バージョン 2105 (ビルド 14026.20246)|
 |2021 年 5 月 18 日|バージョン 2104 (ビルド 13929.20386)|
 |2021 年 5 月 11 日|バージョン 2104 (ビルド 13929.20372)|
-|2021 年 4 月 29 日|バージョン 2104 (ビルド 13929.20296)|
 
 
 [//]: # (リテール テーブルを削除しない 終了)
@@ -113,6 +113,7 @@ Microsoft は、Office 2016 のクイック実行 (C2R) バージョンおよび
 
 |**リリース日**|**バージョン番号**|
 |:-----|:-----|
+|2021 年 4 月 29 日|バージョン 2104 (ビルド 13929.20296)|
 |2021 年 4 月 23 日|バージョン 2103 (ビルド 13901.20462)|
 |2021年 4 月 13 日|バージョン 2103 (ビルド 13901.20400)|
 |2021 年 4 月 2 日|バージョン 2103 (ビルド 13901.20336)|
