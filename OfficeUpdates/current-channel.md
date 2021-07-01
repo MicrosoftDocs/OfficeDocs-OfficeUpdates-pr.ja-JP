@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の月次チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 699d96a400bf09df793c789b5046c8febe6bf8e3
-ms.sourcegitcommit: b7b3ebab7fc6b8424482107f650f6bb528afd8f7
+ms.openlocfilehash: f5b3552684ba964fc57ca405d261ba4e2cb341f5
+ms.sourcegitcommit: bd700dedc0c80ae72fa5611665ad6d321127a531
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "53022120"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53206309"
 ---
 # <a name="release-notes-for-current-channel"></a>現在のチャネルのリリース ノート
 
@@ -30,6 +30,66 @@ ms.locfileid: "53022120"
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2106-june-29"></a>バージョン 2106: 6 月 29 日
+*バージョン 2106 (ビルド 14131.20278)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="outlook"></a>Outlook
+
+- **最後のサインイン/不審なサインイン:** Outlook では、アカウントに最後にサインインした場合と場所が通知され、不審なサインイン アクティビティが検出された場合は警告が表示されます
+
+- **大規模 DL、外部ユーザーへのメール送信時のアクセシビリティ チェックの微調整:** 大勢のユーザーや外部ユーザーに向けたメールを作成する際に、アクセシビリティ違反がないかどうかをメール ヒントを通して自動的に確認できる機能を追加しました。これらの設定は、[簡単操作] にあります。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/sending-accessible-emails-in-outlook-for-windows)の詳細情報をご覧ください
+
+- **検索時に妥当なファイル候補の示唆を受ける:** 検索ボックスに入力する際、検索目的に関連した最も妥当なファイルが、候補に含まれます。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- 一部のユーザーの Excel アドイン一覧に追加のエントリが表示される問題を修正しました。
+
+
+### <a name="outlook"></a>Outlook
+
+- ARM64 デバイスでパフォーマンスに関わる不具合が発生する問題を修正しました。
+
+
+- 一部のユーザーについて翻訳オプションが無効になる問題を修正しました。  このバグが発生したお客様は、 [ファイル] -> オプション -> 言語 と操作したときに、翻訳オプションが無効にされるバグを視認したと思われます。 このため、所望の翻訳言語やその他の翻訳関連の設定を変更できませんでした。
+
+
+- 共有された予定表を多数設定し [共有予定表の強化] オプションの対象となるユーザーにおいて、操作性能が悪化する問題を修正しました。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- ユーザーがファイルを開く際、PowerPoint 固有のダイアログに関する不具合により Windows セキュリティ ダイアログに資格情報を入力できない問題を修正しました。
+
+
+### <a name="visio"></a>Microsoft Visio
+
+- ゲスト アクセスを含む SPO/ODB リンクは現在機能するはずです。
+
+
+### <a name="word"></a>Word
+
+- パスワードで保護された docx ファイルで引用を保持するための問題を修正しました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- ユーザーが Office アプリケーションの Me コントロール から Active Directory ID を切り替える場合のユーザー切り替えデータ シナリオを修復しました。
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
@@ -981,6 +1041,7 @@ ms.locfileid: "53022120"
 > Office の使用で問題がある場合は、[Microsoft の回答フォーラム](https://answers.microsoft.com/)に関するページまたは「[Microsoft Tech Community](https://techcommunity.microsoft.com/)」に質問を投稿するか、[サポート](https://support.microsoft.com/contactus)に問い合わせてサポートを受けることができます。
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|CC|Production| |16.0.14131.20278|version-2106-june-29|)
 [//]: # (|Win32|CC|Production| |16.0.14026.20308|version-2105-june-18|)
 [//]: # (|Win32|CC|Production| |16.0.14026.20270|version-2105-june-08|)
 [//]: # (|Win32|CC|Production| |16.0.14026.20246|version-2105-may-24|)
@@ -990,5 +1051,4 @@ ms.locfileid: "53022120"
 [//]: # (|Win32|CC|Production| |16.0.13901.20462|version-2103-april-23|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20400|version-2103-april-13|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20336|version-2103-april-02|)
-[//]: # (|Win32|CC|Production| |16.0.13901.20312|version-2103-march-30|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)
