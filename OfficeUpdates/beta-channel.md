@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 2273f10ccacb56ee4cbd5132103d3ccdbd5c01d4
-ms.sourcegitcommit: 31e92bb72da4b394fc4d46701dbf3027eb5a9b3b
+ms.openlocfilehash: 211744660c0cbd3a7a35906689a143492e3197e3
+ms.sourcegitcommit: e8fc768b8c5b4183796d62a0969a01a3537f1ff7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "53132837"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53278750"
 ---
 # <a name="release-notes-for-beta-channel"></a>ベータ チャネルのリリース ノート
 
@@ -30,6 +30,87 @@ ms.locfileid: "53132837"
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2107-july-02"></a>バージョン 2107: 7 月 2 日
+*バージョン 2107 (ビルド 14228.20044)*
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="excel"></a>Excel
+
+- **[名前を付けて保存] シナリオでサポートされる追加のファイル タイプ:** ファイルの保存に加えて、ファイルを他のファイル タイプに保存できます。
+
+### <a name="outlook"></a>Outlook
+
+- **REST 転送会議要求:** ユーザーが以前に辞退した会議を REST 共有カレンダーに転送できるようにします。
+
+- **音声読み上げが改善されました:** 読み上げツール バーには、新しい自然な音声オプションが備わっています
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **[名前を付けて保存] シナリオでサポートされる追加のファイル タイプ:** ファイルの保存に加えて、ファイルを他のファイル タイプに保存できます。
+
+### <a name="word"></a>Word
+
+- **音声で検索する:** 検索バーのマイクをタップまたはクリックして、Word で音声を使用して、コマンドやコンテンツなどを検索します。
+
+- **音声読み上げのより自然な音声オプション:** 読み上げツール バーで、より自然に聞こえる新しい音声を試してください。 [詳細情報](https://support.office.com/article/5a2de7f3-1ef4-4795-b24e-64fc2731b001)
+
+- **[名前を付けて保存] シナリオでサポートされる追加のファイル タイプ:** ファイルの保存に加えて、ファイルを他のファイル タイプに保存できます。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- CFR の実行から例外が発生する問題を修正しました。
+
+
+### <a name="outlook"></a>Outlook
+
+- 一部のユーザーについて翻訳オプションが無効になる問題を修正しました。  このバグが発生したお客様は、 [ファイル] -> オプション -> 言語 と操作したときに、翻訳オプションが無効にされるバグを視認したと思われます。 このため、所望の翻訳言語やその他の翻訳関連の設定を変更できませんでした。
+
+
+- 「ロードに失敗しました」という応答ステータスに関連する問題を修正しました。 既定値では、応答フラグは「なし」に設定されていました。 編集権限のないカレンダーにカーソルを合わせても、UI に文字列が表示されませんでした。
+
+
+- 既定のテキスト増加にテキスト スケーリングが含まれる問題を修正したため、LayoutChanged の別の呼び出しを使用する必要はありません。
+
+
+- 1 回限りのアドレスのメール ヒントが表示されない問題を修正しました。
+
+
+- Exchange Online でのユニファイド メッセージングの廃止に伴い、Outlook デスクトップの UI にボイスメール フォームを表示できるようにするためのレジストリ キーを追加しました (https://techcommunity.microsoft.com/t5/exchange-team-blog/retiring-unified-messaging-in-exchange-online/ba-p/608991)。 ボイスメール フォームを表示するユーザー、企業、および組織の場合、次のレジストリ キーを設定する必要があります：[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\Outlook\Addins] "AllowVoicemailForm"=dword:00000001
+
+
+### <a name="word"></a>Word
+
+- Word および人気のある画面読み上げソフトウェアである JAWS の新しいコメント ウィンドウとの統合を改善するように問題を修正しました。
+
+
+- クリアされた選択とハイライトに lTagNil とは異なる CommentId を使用することに関連する問題を修正しました。
+
+
+- フィールドの編集時に Word が応答しなくなってしまうという問題を修正しました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- en-gb、fr-ca、および es-mx がそれぞれの親バージョンと一致するローカリゼーションの問題を修正しました。
+
+
+- 新しい webextension ファイルが作成されたため、webextension.xml への Web アドイン設定の更新など、OMEX と ExCatalog 間で設定を共有できなくなっていた問題を修正しました。 以前の方法では、アドインが元の方法で展開された場合、または新しいソリューション参照の比較がオフにされた場合にのみアクセスされました。
+
+
+
+[//]: # (BUGDETAILS コンテンツの終了を削除しないでください)
 
 ## <a name="version-2107-june-25"></a>バージョン 2107: 6 月 25 日
 *バージョン 2107 (ビルド 14217.20002)*
@@ -3352,6 +3433,7 @@ ms.locfileid: "53132837"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14228.20044|version-2107-july-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14217.20002|version-2107-june-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14210.20004|version-2107-june-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14204.20006|version-2107-june-11|)
@@ -3361,5 +3443,4 @@ ms.locfileid: "53132837"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14107.20000|version-2106-may-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14029.20000|version-2106-may-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14014.20002|version-2105-april-23|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)
