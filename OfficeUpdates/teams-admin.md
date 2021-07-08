@@ -15,12 +15,12 @@ ms.collection:
 appliesto:
 - Microsoft Teams
 description: 管理機能のリリース Microsoft Teamsメモ。
-ms.openlocfilehash: a47bdbb3a9ae39c670cbbb1230248054c1be573e
-ms.sourcegitcommit: 7f52ea9d1051a8102d9d16129855833c5b9638a1
+ms.openlocfilehash: d1b2561633fc52bac88e3f41c814cefa01cc9a50
+ms.sourcegitcommit: ad3cdcae422e3253cff8974fc053024ca5bf4f2a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/07/2021
-ms.locfileid: "52790536"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "53330920"
 ---
 # <a name="release-notes-for-microsoft-teams-admin-features"></a>管理機能のMicrosoft Teamsメモ
 
@@ -48,7 +48,7 @@ IT 管理者はリモートでプロビジョニングし、Android デバイス
 
 ### <a name="enable-live-transcripts-in-teams"></a>アプリでライブ トランスクリプトを有効Teams
 
-これはユーザーごとのポリシーであり、会議中に適用されます。 この設定は、ユーザーが出席する会議でライブ キャプションを有効または無効にできるかどうかを制御します。 [詳細情報](/microsoftteams/meeting-policies-participants-and-guests#enable-live-captions) を参照してください。
+これはユーザーごとのポリシーであり、会議中に適用されます。 この設定を使用すると、ユーザーが出席している会議中にライブ キャプションをオンまたはオフにするコントロールがユーザーに与えます。 [詳細情報](/microsoftteams/meeting-policies-participants-and-guests#enable-live-captions) を参照してください。
 
 ## <a name="march-23-2021"></a>2021 年 3 月 23 日
 
@@ -139,11 +139,11 @@ Teams、低帯域幅の状態で実行している場合でも、常に実行さ
 
 ## <a name="december-9-2020"></a>2020 年 12 月 9 日
 
-### <a name="advisor-for-teams-with-microsoft-365-learning-pathways"></a>ラーニング パスTeamsのMicrosoft 365アドバイザー
+### <a name="advisor-for-teams-with-microsoft-365-learning-pathways"></a>パスウェイTeamsのMicrosoft 365 ラーニングアドバイザー
 
 Microsoft 365学習経路は、ユーザーをトレーニングし、組織内のユーザーの使用状況と導入を増やTeamsするオンデマンド学習ソリューションです。 学習経路を Advisor for Teamsして、ユーザーを迅速に立ち上げ、導入を促進します。
 
-学習パスを使用すると、オンライン SharePointテンプレートを作成し、ユーザー向け学習サイトを簡単に作成できます。 学習経路トレーニング ポータルをカスタマイズして、ユーザーのニーズに固有のトレーニングおよびサポート コンテンツを含めできます。 Microsoft オンライン カタログTeams再生リストを使用し、独自のプレイリストを追加します。 [詳細情報](/microsoftteams/use-advisor-teams-roll-out#advisor-for-teams-and-microsoft-365-learning-pathways) を参照してください。
+ラーニングを使用すると、オンライン SharePointテンプレートを作成し、ユーザー向け学習サイトを簡単に作成できます。 学習経路トレーニング ポータルをカスタマイズして、ユーザーのニーズに固有のトレーニングおよびサポート コンテンツを含めできます。 Microsoft オンライン カタログTeams再生リストを使用し、独自のプレイリストを追加します。 [詳細情報](/microsoftteams/use-advisor-teams-roll-out#advisor-for-teams-and-microsoft-365-learning-pathways) を参照してください。
 
 ## <a name="october-28-2020"></a>2020 年 10 月 28 日
 
@@ -163,7 +163,7 @@ Microsoft Teamsは、病院や他の医療組織に役立つ以下の機能を�
 
 ### <a name="teams-displays"></a>Teams ディスプレイ
 
-Microsoft Teamsディスプレイは、アンビエント タッチスクリーンと Cortana によるハンズフリーエクスペリエンスを備Teams専用のデバイスのカテゴリです。 [詳細情報](/microsoftteams/devices/teams-displays) を参照してください。
+Microsoft Teamsディスプレイは、環境タッチスクリーンとTeamsを搭載したハンズフリーエクスペリエンスを備える、1 対 1 の専用の Cortana デバイスのカテゴリです。 [詳細情報](/microsoftteams/devices/teams-displays) を参照してください。
 
 ## <a name="october-22-2020"></a>2020 年 10 月 22 日
 
@@ -291,9 +291,9 @@ PowerShell Teamsリリースの最新のバージョンは、Skype for Business 
 
 ## <a name="august-14-2020"></a>2020 年 8 月 14 日
 
-### <a name="cortana-voice-skills-in-teams"></a>Cortana 音声スキル (Teams
+### <a name="cortana-voice-skills-in-teams"></a>Cortanaの音声スキルTeams
 
-Cortana の音声スキルはTeams自然言語を使用するだけで、ユーザーが会議、コミュニケーション、およびコラボレーション タスクを実行するのに役立ちます。 ユーザーは、家事を色々こなしたり、犬の散歩をしたり、外出先で誰かと連絡する必要がある場合、Teams アプリのマイクボタンをクリックして Cortana に話しかけ、「ミーガンに電話する」や「次の会議にメッセージを送信する」といったリクエストを行うことができます。
+Cortanaアプリの音声スキルTeamsは、ユーザーが話された自然言語を使用するだけで、会議、コミュニケーション、およびコラボレーションのタスクを実行するのに役立ちます。 ユーザーは、家事を色々こなしたり、犬の散歩をしたり、外出先で誰かと連絡する必要がある場合、Teams アプリのマイクボタンをクリックして Cortana に話しかけ、「ミーガンに電話する」や「次の会議にメッセージを送信する」といったリクエストを行うことができます。
 
  ユーザーは「次の会議に参加する」と言うだけで会議に参加したり、「午前中の予定を教えて」と質問してカレンダーを確認したりできます。 会議または通話に入ると、会議ステージのオーバーフローメニューから Cortana を呼び出して、名前または番号によるメンバーの追加 (「通話にミーガンを追加」)、デッキプレゼンテーション (「プレゼンテーション 四半期レビューデッキ」) またはスライドの紹介 (「付録スライドを紹介」) といった、一般的な会議のタスクを実行したりできます。 この機能でサポートされているその他の機能は、Teams アプリ内でのファイルの検索と共有、検索、ナビゲーションです (「John とチャットを開く、未読のアクティビティに移動する、自分のメンションに移動する」など)。
 
@@ -391,7 +391,7 @@ PowerShell を使用して、ユーザーとグループのポリシー パッ�
 
 ### <a name="install-apps-on-behalf-of-others"></a>他のユーザーに代わってアプリをインストールする
 
-ユーザーが既定でインストールするアプリは、ユーザーがインストールを開始するときにTeams。 [詳細情報](/microsoftteams/teams-app-setup-policies) を参照してください。
+ユーザーが Teams を起動するときに、既定でインストールされるアプリを選択します。 [詳細情報](/microsoftteams/teams-app-setup-policies) を参照してください。
 
 ### <a name="screen-sharing-on-behalf-of-others"></a>他のユーザーに代わって画面を共有する
 

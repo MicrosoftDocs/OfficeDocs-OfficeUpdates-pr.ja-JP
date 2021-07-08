@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の月次チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: f5b3552684ba964fc57ca405d261ba4e2cb341f5
-ms.sourcegitcommit: bd700dedc0c80ae72fa5611665ad6d321127a531
+ms.openlocfilehash: b3f83cf76fe29f739da9ce18160a5de76a90118f
+ms.sourcegitcommit: 11c8b2e40f9058a6e6f0451736b0b05627789b9d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53206309"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53323564"
 ---
 # <a name="release-notes-for-current-channel"></a>現在のチャネルのリリース ノート
 
@@ -63,8 +63,9 @@ ms.locfileid: "53206309"
 
 ### <a name="outlook"></a>Outlook
 
-- ARM64 デバイスでパフォーマンスに関わる不具合が発生する問題を修正しました。
+- フォルダーに適用されるメールボックス アイテム保持ポリシーではなく、メールボックス フォルダーのプロパティを表示するときに、Skype for Business または Microsoft Teams のアイテム保持ポリシーが既定のフォルダー ポリシーとして表示される問題を修正しました。
 
+- ARM64 デバイスでパフォーマンスに関わる不具合が発生する問題を修正しました。
 
 - 一部のユーザーについて翻訳オプションが無効になる問題を修正しました。  このバグが発生したお客様は、 [ファイル] -> オプション -> 言語 と操作したときに、翻訳オプションが無効にされるバグを視認したと思われます。 このため、所望の翻訳言語やその他の翻訳関連の設定を変更できませんでした。
 
