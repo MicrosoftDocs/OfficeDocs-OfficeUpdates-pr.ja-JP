@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 405b9bd4f9dc15fd3e4ed2233d59df431b0c4244
-ms.sourcegitcommit: 268322e5705199bb27cd07ab6e3fdabd1e20e334
+ms.openlocfilehash: 06051d34b4c3537f0b6f957cdb4d681297390cc5
+ms.sourcegitcommit: 387e4010f06f33bc9b100ed4fa2ced2598d3b167
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/09/2021
-ms.locfileid: "53347970"
+ms.lasthandoff: 07/10/2021
+ms.locfileid: "53364084"
 ---
 # <a name="release-notes-for-beta-channel"></a>ベータ チャネルのリリース ノート
 
@@ -30,6 +30,52 @@ ms.locfileid: "53347970"
 [//]: # (削除しないでください)
 
 [//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+## <a name="version-2108-july-09"></a>バージョン 2108: 7 月 9 日
+*バージョン 2108 (ビルド 14301.20004)*
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="outlook"></a>Outlook
+
+- **返信候補をオフにする**: Outlook を使用すると、少数の単語で回答できるメッセージに対する短い返信候補を提供することで、メールに対して[簡単に返信](https://insider.office.com/blog/reply-faster-using-suggested-replies-in-outlook)できます。 一部のユーザーはこのオプションを表示したくない場合があるため、機能をオフにできるようになりました。 これを行うには、[ファイル>オプション>メール] を選択し、[返信と転送] セクションに移動して、[返信候補を表示する] チェック ボックスをオフにします。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- ソース .xlsx ファイルが既にバックグラウンドで実行されていて、両方のファイルが ODB ローカル同期フォルダーから開かれている場合に、PowerPoint にリンクされたファイルが使用できなくなった問題を修正しました。
+
+
+- 問題を修正したので、CSV ファイルを開くときにローカライズされた関数名が今では認識されるようになりました。
+
+
+### <a name="word"></a>Word
+
+- Word Mobile で印刷サイズが小さくなりすぎる問題を修正しました。
+
+
+- SharePoint ドキュメント ライブラリに追加されたファイルが開いた直後に設定 "ShowDocument Information Panel" を継承して、SharePoint から削除された場合でも設定が残る問題を修正しました。
+
+
+- "/" で終わらないフォルダー名が URL パーサーによって正しく解釈されない問題を修正しました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- 検索ボックスに DropShadow プロパティを追加すると TitleBar が高くなりすぎてレイアウトのバグが発生する問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2107-july-02"></a>バージョン 2107: 7 月 2 日
 *バージョン 2107 (ビルド 14228.20044)*
@@ -3435,6 +3481,7 @@ ms.locfileid: "53347970"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14301.20004|version-2108-july-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14228.20044|version-2107-july-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14217.20002|version-2107-june-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14210.20004|version-2107-june-18|)
@@ -3444,5 +3491,4 @@ ms.locfileid: "53347970"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14117.20000|version-2106-may-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14107.20000|version-2106-may-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14029.20000|version-2106-may-07|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)
