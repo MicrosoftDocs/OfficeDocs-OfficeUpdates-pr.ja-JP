@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Insider Fast の対象ユーザーに新機能、修正プログラム、既知の問題の最新リストを提供します
-ms.openlocfilehash: 211744660c0cbd3a7a35906689a143492e3197e3
-ms.sourcegitcommit: e8fc768b8c5b4183796d62a0969a01a3537f1ff7
+ms.openlocfilehash: 405b9bd4f9dc15fd3e4ed2233d59df431b0c4244
+ms.sourcegitcommit: 268322e5705199bb27cd07ab6e3fdabd1e20e334
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53278750"
+ms.lasthandoff: 07/09/2021
+ms.locfileid: "53347970"
 ---
 # <a name="release-notes-for-beta-channel"></a>ベータ チャネルのリリース ノート
 
@@ -296,6 +296,8 @@ ms.locfileid: "53278750"
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
 
 ### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+- "RichValue" を Range.valueTypes から削除しました。 リンクされたデータ型は、"#VALUE!" の値と一致するように "Error" を返します Range.values によって返されます。
 ### <a name="outlook"></a>Outlook
 
 - "ビジネス以外" のライセンスの Outlook バージョンで、ユーザーがフォルダー間でアイテムを移動できない問題を修正しました。
