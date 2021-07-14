@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の月次エンタープライズ チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 1795f0a150b8b18d50e462cd6d30a285c055f8b1
-ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
+ms.openlocfilehash: 96a76ed1ed1849753422dae92626484a77cec2a4
+ms.sourcegitcommit: 4f5536e809f58462d81c708c153390ebfd1abc4e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52851867"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53409563"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>月次エンタープライズ チャネルのリリース ノート
 
@@ -24,6 +24,120 @@ ms.locfileid: "52851867"
 [//]: # (削除しないでください)
 
 
+
+## <a name="version-2105-july-13"></a>バージョン 2105: 7 月 13 日
+*バージョン 2105 (ビルド 14026.20334)*
+
+セキュリティ更新プログラムの一覧は[こちら](microsoft365-apps-security-updates.md)
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="outlook"></a>Outlook
+
+- **検索時に妥当なファイル候補の示唆を受ける:** 検索ボックスに入力する際、検索目的に関連した最も妥当なファイルが、候補に含まれます。
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+<br/>
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="excel"></a>Excel
+
+- 非表示になっている名前が多数あるブックで、ネーム マネージャーを開くことができる問題を修正しました。
+
+
+- 一部のユーザーの Excel アドイン一覧に追加のエントリが表示される問題を修正しました。
+
+
+- 一部のユーザーで分析ツール パックのアドインが機能しない問題が修正されました。
+
+
+### <a name="outlook"></a>Outlook
+
+- 変更は内密に、変更ゲートのもとで行われるので、問題がある場合は、すぐにオフにすることができます。
+
+
+- 新しい「会議室​​の検索」機能 (Outlook for Webと同じ機能) を無効にして、従来の「時間の候補」を含む「会議室​​の検索」機能を有効にするレジストリ キーを追加しました。
+
+   レジストリ キー:
+
+    >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar REG_DWORD “ShowLegacyRoomFinder”
+
+    >0 (既定) - ユーザーが [会議室の検索] ボタンをクリックして利用可能な会議室を検索する際、Outlook は会議室の新しい検索機能 “OWA Powered eXperience” を使用します</br>
+    >1 - Outlook は従来の会議室検索ユーザーインタフェースを使用して、利用可能な会議室を検索します
+
+
+- この変更により、ユーザーは新しいフィードバック システムを通じてフィードバックを送信できるようになります。
+
+
+- Office Perpetual 2021 プレビュー版を使用しているユーザーに、フィードバック オプションが無効になっている問題を修正しました。
+
+
+- メールの受信者の右クリック コンテキスト メニューから [Outlook のプロパティを開く] を選択すると、ユーザーにエラーが発生する問題を修正しました。
+
+
+- 個人連絡先を表示する時にアプリが予期せずに閉じる問題を修正しました。
+
+
+- アーカイブ ストアからフォルダーを削除する場合に、予期せず閉じてしまうことが発生する問題を修正しました。
+
+
+- スクリーン リーダー テクノロジによって、 "会議を短縮する" 機能に関わる命令が無効になる問題を修正しました。
+
+
+- 返信または転送したメッセージを閉じるときに、予期しないプロパティ変更プロンプトが表示される問題を修正しました。
+
+
+- Outlook メールまたは予定表ビューを操作すると予期せず終了する問題を修正しました。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 少数のユーザーが [スライドの再利用] オプションを利用できない問題が修正されました。
+
+
+### <a name="project"></a>Project
+
+- 手動でスケジュールされたタスクの割り当てが正しくない日付に移動する問題を修正しました。
+
+
+- ProjectDate */ProjectDur* 関数を使用するユーザー設定フィールドの式を作成し、2 番目のパラメーターが Date()、Now()、Time() のいずれかの日付と時刻に関する数式である場合に、結果として #ERROR が発生する問題を修正しました。
+
+
+### <a name="word"></a>Word
+
+- エディター ウィンドウが開かない問題を修正します。
+
+
+- スペル チェックと文章校正を行うキャンバスのコンテキスト カードにアイコン ボタンが表示されるが、それらのボタンにヒントが表示されない問題が修正されました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- en-gb、fr-ca、および es-mx がそれぞれの親バージョンと一致するローカリゼーションの問題を修正しました。
+
+
+- 特定のファイルを再度開くときの予期しないクローズを修正しました。
+
+
+- SyncBack ファイルを開くときにパフォーマンスが低下する問題を修正しました。
+
+
+- ユーザーが OnPrem SharePoint サーバーに保存されている特定のドキュメントを編集できない問題を修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツの終了を削除しないでください。)
+
+## <a name="version-2104-july-13"></a>バージョン 2104: 7 月 13 日
+*バージョン 2104 (ビルド 13929.20434)*
+
+セキュリティ更新プログラムの一覧は[こちら](microsoft365-apps-security-updates.md)
 
 ## <a name="version-2104-june-08"></a>バージョン 2104: 6月 8 日
 *バージョン 2104 (ビルド 13929.20408)*
@@ -865,6 +979,7 @@ ms.locfileid: "52851867"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|MEC|Production|Feature|16.0.14026.20334|version-2105-july-13|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13929.20408|version-2104-june-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13901.20516|version-2103-may-11|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13801.20506|version-2102-april-13|)
@@ -874,5 +989,4 @@ ms.locfileid: "52851867"
 [//]: # (|Win32|MEC|Production|Feature|16.0.13328.20478|version-2010-december-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13231.20514|version-2009-november-10|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13127.20638|version-2008-october-13|)
-[//]: # (|Win32|MEC|Production|Feature|16.0.13029.20534|version-2007-september-08|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)
