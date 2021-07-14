@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Windows インストーラー (MSI) を使用する永続版の Office 2013 の最新の .msp ファイルのリストを IT 担当者に提供します
-ms.openlocfilehash: 9a3078f130a005cab0b03236ca5bd84feef644de
-ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
+ms.openlocfilehash: a4ca5e0d0f233aaa269fa2774204a7d0438f9fad
+ms.sourcegitcommit: 4f5536e809f58462d81c708c153390ebfd1abc4e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52851797"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53409573"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2013-products"></a>Office 2013 製品の最新の .msp ファイルの一覧
 
@@ -26,7 +26,7 @@ ms.locfileid: "52851797"
 
 [//]: # (コンテンツを削除しないでください。開始)
 
-次の表に **、2021** 年 6 月に更新された .msp ファイルの一覧を示します。
+次の表に **、2021** 年 7 月に更新された .msp ファイルの一覧を示します。
 
 [//]: # (コンテンツを削除しないでください。終了)
 
@@ -34,11 +34,8 @@ ms.locfileid: "52851797"
 
 |セキュリティ以外の更新プログラム****|セキュリティ更新プログラム****|
 |:-----|:-----|
-|analys32-x-none|access-x-none|
 | |excel-x-none|
-| |graph-x-none|
 | |mso-x-none|
-| |outlook-x-none|
 
 [//]: # (MSP コンテンツの終了を削除しない)
 
@@ -64,7 +61,7 @@ ms.locfileid: "52851797"
 |ediscovery-x-none<sup>2</sup> <br/> |Office 2013  <br/> |2017 年 9 月 5 日  <br/> |[3172484](https://support.microsoft.com/help/3172484) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |
 |eqnedt32-x-none  <br/> |Office 2013  <br/> |該当なし  <br/> |該当なし  <br/> |2018 年 1 月 9 日  <br/> |[4011580](https://support.microsoft.com/help/4011580) <br/> |[3162047](https://support.microsoft.com/help/3162047) <br/> |
 |eurotool-x-none  <br/> |Office 2013  <br/> |該当なし  <br/> |該当なし  <br/> |2021年 4 月 13 日 |[3178643](https://support.microsoft.com/kb/3178643) <br/> |該当なし  <br/> |
-|excel-x-none  <br/>|Excel 2013  <br/>|2018 年 7 月 3 日  <br/>|[4022244](https://support.microsoft.com/help/4022244) <br/>|2021 年 6 月 8 日 <br/>|[5001963](https://support.microsoft.com/help/5001963) <br/>|[5001936](https://support.microsoft.com/help/5001936) <br/>|
+|excel-x-none  <br/>|Excel 2013  <br/>|2018 年 7 月 3 日  <br/>|[4022244](https://support.microsoft.com/help/4022244) <br/>|2021 年 7 月 13 日 <br/>|[5001993](https://support.microsoft.com/help/5001993) <br/>|[5001963](https://support.microsoft.com/help/5001963) <br/>|
 |excelpp-x-none  <br/> |Office 2013  <br/> |2017 年 6 月 6 日  <br/> |[3191872](https://support.microsoft.com/help/3191872) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |
 |exppdf-x-none  <br/> |Office 2013  <br/> |2016 年 4 月 5 日  <br/> |[3085587](https://support.microsoft.com/kb/3085587) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |
 |filterpack-x-none  <br/> |Office 2013  <br/> |2016 年 4 月 5 日  <br/> |[3039756](https://support.microsoft.com/kb/3039756) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |
@@ -82,7 +79,7 @@ ms.locfileid: "52851797"
 |mscomct2-x-none  <br/> |Office 2013  <br/> |該当なし  <br/> |該当なし  <br/> |2014 年 5 月 13 日  <br/> |[2760272](https://support.microsoft.com/kb/2760272) <br/> |該当なし  <br/> |
 |mscomctlocx-x-none<sup>2</sup> <br/> |Office 2013  <br/> |該当なし  <br/> |該当なし  <br/> |2016 年 1 月 12 日  <br/> |[3039794](https://support.microsoft.com/kb/3039794) <br/> |[2880502](https://support.microsoft.com/kb/2880502) <br/> |
 |msmipc-x-none  <br/> |Office 2013  <br/> |2017 年 4 月 4 日  <br/> |[3172523](https://support.microsoft.com/help/3172523) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |
-|mso-x-none  <br/>|Office 2013  <br/>|2021 年 2 月 2 日  <br/>|[4486684](https://support.microsoft.com/help/4486684) <br/>|2021 年 6 月 8 日 <br/>|[5001953](https://support.microsoft.com/help/5001953) <br/>|[5001925](https://support.microsoft.com/help/5001925) <br/>|
+|mso-x-none  <br/>|Office 2013  <br/>|2021 年 2 月 2 日  <br/>|[4486684](https://support.microsoft.com/help/4486684) <br/>|2021 年 7 月 13 日 <br/>|[5001983](https://support.microsoft.com/help/5001983) <br/>|[5001953](https://support.microsoft.com/help/5001953) <br/>|
 |msohevi-x-none  <br/> |Office 2013  <br/> |該当なし  <br/> |該当なし  <br/> |2019 年 1 月 8 日  <br/> |[3172522](https://support.microsoft.com/kb/3172522) <br/> |該当なし  <br/> |
 |msptls-x-none  <br/> |Office 2013  <br/> |2018 年 7 月 3 日  <br/> |[4018378](https://support.microsoft.com/help/4018378) <br/> |2015 年 8 月 11 日  <br/> |[3054816](https://support.microsoft.com/kb/3054816) <br/> |該当なし  <br/> |
 |msqry32-x-none  <br/> |Office 2013  <br/> |2015 年 6 月 9 日  <br/> |[2889863](https://support.microsoft.com/kb/2889863) <br/> |該当なし  <br/> |該当なし  <br/> |該当なし  <br/> |
