@@ -9,17 +9,44 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の 2021 年の半期チャネル リリース (対象指定) のリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: 95bdd111e041dd07689ad84254dde5b95a8efebe
-ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
+ms.openlocfilehash: 7ccc68f004285105f9567fb761edf80516fb1f32
+ms.sourcegitcommit: 4f5536e809f58462d81c708c153390ebfd1abc4e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52852007"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53409492"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>半期エンタープライズ チャネル (プレビュー) のリリース ノート
 
 このリリース ノートには、半期エンタープライズ チャネル (プレビュー) の更新プログラムに含まれる新機能と、セキュリティ以外の更新プログラムに関する情報が記載されています。対象となるのは、Microsoft 365 Apps for enterprise、Microsoft 365 Apps for business、および Project と Visio のデスクトップ アプリのサブスクリプション版です。
 
+
+## <a name="version-2102-july-13"></a>バージョン 2102: 7 月 13 日
+*バージョン 2102 (ビルド 13801.20808)*
+
+セキュリティ更新プログラムの一覧は[こちら](microsoft365-apps-security-updates.md)
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- ユーザーがクラウド設定オプションを選択しても、有効にならない問題を修正しました。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 次の問題を修正しました。 PowerPoint プレゼンテーションに埋め込まれた Excel オブジェクトが適切に表示されない。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- ユーザーが Office アプリケーションの Me Control と Active Directory ID を切り替える場合のユーザーの切り替えデータ シナリオを修正しました。
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
 
 ## <a name="version-2102-june-08"></a>バージョン 2102: 6月 8 日
 *バージョン 2102 (ビルド 13801.20738)*
@@ -255,6 +282,8 @@ ms.locfileid: "52852007"
 
 
 - **XLM マクロのための AMSI と Office の統合:** AMSI は、アプリケーションが、インストールされているウイルス対策またはセキュリティ ソリューションによって、メモリ バッファーの同期スキャンの要求を実行するときに Windows 10 で使用可能なオープン インターフェイスです。 悪意のあるアクティビティが検出されると、Excel はユーザーに通知し、これ以上の損傷を防ぐために、アプリケーション セッションはシャットダウンされます。 これにより、攻撃を抑止することができ、デバイスとユーザーの両方を保護できます。 詳細は、[ブログの投稿](https://www.microsoft.com/security/blog/2021/03/03/xlm-amsi-new-runtime-defense-against-excel-4-0-macro-malware/) をご覧ください。
+
+- **Excel で Power BI のデータセットからピボットテーブルを作成する:** Power BI に保存されているデータセットに接続されている Excel のピボットテーブルを数回のクリックで作成できます。 これにより、ピボットテーブルと Power BI の両方を最大限に活用できます。 セキュリティで保護された Power BI データセットからピボットテーブルを使って、データの計算、集計、分析を行います。 [詳細情報](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
 
 ### <a name="outlook"></a>Outlook
 
@@ -753,6 +782,7 @@ ms.locfileid: "52852007"
 
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|FRDC|Insiders| |16.0.13801.20808|version-2102-july-13|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20738|version-2102-june-08|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20638|version-2102-may-11|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20506|version-2102-april-13|)
@@ -762,5 +792,4 @@ ms.locfileid: "52852007"
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20910|version-2008-december-08|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20760|version-2008-november-10|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20638|version-2008-october-13|)
-[//]: # (|Win32|FRDC|Insiders| |16.0.13127.20408|version-2008-september-08|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)

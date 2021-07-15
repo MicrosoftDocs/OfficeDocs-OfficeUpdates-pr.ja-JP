@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Microsoft 365 Apps サブスクライバー向け Office for Mac のリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: abd134da7bdc7ab5524bb3e7b69e7f57d24f6522
-ms.sourcegitcommit: 4ab7d229662f7c8334e6c70aca4932bc62394a65
+ms.openlocfilehash: aeb91ea6072c4f0714f225de559f5d54e6c4e85a
+ms.sourcegitcommit: 4f5536e809f58462d81c708c153390ebfd1abc4e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/15/2021
-ms.locfileid: "52949847"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53409542"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Office for Mac のリリース ノート
 
@@ -61,6 +61,38 @@ Microsoft 365 サブスクリプションに付属する Office for Mac は、�
 
 
 
+
+
+
+## <a name="july-13-2021"></a>2021 年 7 月 13 日
+*バージョン 16.51 (ビルド 21071101)*
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="feature-updates"></a>機能の更新プログラム
+### <a name="outlook"></a>Outlook
+
+- **会議を短縮する組織全体のスケジュールの既定値を設定します。** 法人のお客様は、組織全体のスケジュールの既定値を設定して会議を短縮し、会社のすべてのユーザーの休憩のためのスペースを作成できます。
+
+### <a name="word"></a>Word
+
+- **さまざまな画面の明るさでドキュメントを見る:** 劇的に改善された新しい画面は、目に易しく、作業に集中するのに役立ちます。<br />[ブログの投稿](https://insider.office.com/ja-JP/blog/dark-mode-in-word-for-mac)の詳細情報をご覧ください
+
+
+[//]: # (FEATUREDETAILS コンテンツを削除しないでください。終了)
+
+
+[//]: # (セキュリティの詳細コンテンツを削除しないでください。開始)
+
+
+### <a name="security-updates"></a>セキュリティ更新プログラム
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-34501](https://portal.msrc.microsoft.com/ja-JP/security-guidance/advisory/CVE-2021-34501)
+
+[//]: # (セキュリティの詳細コンテンツを削除しないでください。終了)
 
 ## <a name="june-15-2021"></a>2021 年 6 月 15 日
 *バージョン 16.50 (ビルド 21061301)*

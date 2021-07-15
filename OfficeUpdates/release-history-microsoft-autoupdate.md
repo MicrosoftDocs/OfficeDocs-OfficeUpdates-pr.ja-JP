@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: IT プロフェッショナルに、Microsoft AutoUpdate (MAU) のリリース履歴を提供します
-ms.openlocfilehash: 10336f30469104b93c24d6f40f091d47c4b20d81
-ms.sourcegitcommit: 4ab7d229662f7c8334e6c70aca4932bc62394a65
+ms.openlocfilehash: b71c9156bcabdab976418d15394f82012b20ba04
+ms.sourcegitcommit: a23fad65b58ecdc75e2c7b5f5ba04b73061987d1
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/15/2021
-ms.locfileid: "52949837"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53417558"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) のリリース履歴
  
@@ -29,6 +29,23 @@ ms.locfileid: "52949837"
 > - Microsoft AutoUpdate は、Microsoft のさまざまな Mac 製品への更新プログラムを提供します。そのため、Office for Mac を実行していない場合でも、Microsoft AutoUpdate を更新する通知が表示される場合があります。
 
 リリース ノートを確認するには、「[リリース ノート](release-notes-office-for-mac.md)」を参照してください。<br/><br/>
+## <a name="july-2021-release"></a>2021 年 7 月リリース
+
+**リリース日:** 2021 年 7 月 13 日
+
+*Microsoft AutoUpdate 4.37*
+
+**バグの修正と強化された機能:**
+- msupdate から通知に変更 – MAU は、IT 管理者からの通知を表示する前に、更新プログラムをダウンロードしてステージするようになりました。
+- 更新プログラムを適用した後に古いアプリケーション バージョンが表示される MAU の修正プログラムです。
+- 更新の開始時に MAU の期限通知が無視されない問題の修正プログラムです。
+
+[Microsoft AutoUpdate 4.37 パッケージをダウンロードする](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.37.21071101_Updater.pkg)<br/>
+<br/>
+**SHA-256 ハッシュ:**
+
+2352BA7722ABCC92E9C05E2D50B1B6F71FEF7D91306D6E4EF765F042688F2BC4
+
 ## <a name="june-2021-release"></a>2021 年 6 月リリース。
 
 **リリース日:** 2021 年 6 月 15 日

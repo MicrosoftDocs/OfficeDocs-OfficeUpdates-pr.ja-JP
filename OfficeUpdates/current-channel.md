@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Microsoft 365 Apps 用の月次チャネル リリースのリリース ノートを IT 担当者に提供します
-ms.openlocfilehash: b3f83cf76fe29f739da9ce18160a5de76a90118f
-ms.sourcegitcommit: 11c8b2e40f9058a6e6f0451736b0b05627789b9d
+ms.openlocfilehash: ca88e77309c90216039fa65bd06d00d9c2f45d42
+ms.sourcegitcommit: 4f5536e809f58462d81c708c153390ebfd1abc4e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "53323564"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53409593"
 ---
 # <a name="release-notes-for-current-channel"></a>現在のチャネルのリリース ノート
 
@@ -29,6 +29,37 @@ ms.locfileid: "53323564"
 
 
 [//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。終了)
+
+## <a name="version-2106-july-13"></a>バージョン 2106: 7 月 13 日
+*バージョン 2106 (ビルド 14131.20320)*
+
+セキュリティ更新プログラムの一覧は[こちら](microsoft365-apps-security-updates.md)
+
+
+[//]: # (BUGDETAILS コンテンツを削除しないでください。開始)
+
+### <a name="resolved-issues"></a>解決済みの問題
+### <a name="outlook"></a>Outlook
+
+- 一部のユーザーで、検索候補を使用したサービスの取得中に予期しない終了が発生する問題を修正しました。
+
+
+- 競合に達したときに、設定をローミングするためのクラウドの設定が失敗する問題を修正しました。
+
+
+- [共有予定表の強化] オプションを有効にした後、マルチ アカウント プロファイルのユーザーのプライマリ予定表の横に SMTP アドレスが表示されなくなる問題を修正しました。
+
+
+- 右クリック コンテキスト メニューを使用して会議出席依頼に応答するときに作成される重複した予定表アイテムがユーザーに表示される問題を修正しました。
+
+
+### <a name="office-suite"></a>Office スイート
+
+- DirectX デバイスの損失と回復の不安定な状態に関連する問題を修正しました。
 
 
 
@@ -1042,6 +1073,7 @@ ms.locfileid: "53323564"
 > Office の使用で問題がある場合は、[Microsoft の回答フォーラム](https://answers.microsoft.com/)に関するページまたは「[Microsoft Tech Community](https://techcommunity.microsoft.com/)」に質問を投稿するか、[サポート](https://support.microsoft.com/contactus)に問い合わせてサポートを受けることができます。
 
 [//]: # (管理センターのメタデータのコンテンツを変更しないでください。開始)
+[//]: # (|Win32|CC|Production| |16.0.14131.20320|version-2106-july-13|)
 [//]: # (|Win32|CC|Production| |16.0.14131.20278|version-2106-june-29|)
 [//]: # (|Win32|CC|Production| |16.0.14026.20308|version-2105-june-18|)
 [//]: # (|Win32|CC|Production| |16.0.14026.20270|version-2105-june-08|)
@@ -1051,5 +1083,4 @@ ms.locfileid: "53323564"
 [//]: # (|Win32|CC|Production| |16.0.13929.20296|version-2104-april-29|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20462|version-2103-april-23|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20400|version-2103-april-13|)
-[//]: # (|Win32|CC|Production| |16.0.13901.20336|version-2103-april-02|)
 [//]: # (管理センターのメタデータのコンテンツ エンドを変更しないでください)
